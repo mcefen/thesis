@@ -129,6 +129,10 @@ public class Main {
 			Element rootElement = doc.createElement("project");
 			doc.appendChild(rootElement);
 			
+			Element totalFiles = doc.createElement("total");
+			totalFiles.appendChild(doc.createTextNode(entry.getPaging().getTotal()));
+			rootElement.appendChild(totalFiles);
+			
 			for(int i = 0; i< entry.getComponents().length;i++){
 
 				if((entry.getComponents()[i]!=null) && (entry.getComponents()[i].getId()!=null)){
@@ -136,26 +140,35 @@ public class Main {
 					Element staff = doc.createElement("File");
 					rootElement.appendChild(staff);
 
-					// set attribute to staff element
-					Attr attr = doc.createAttribute("id");
-					attr.setValue(entry.getComponents()[i].getId());
-					staff.setAttributeNode(attr);
+					// set attribute to staff element					
+					Element id = doc.createElement("id");
+					id.appendChild(doc.createTextNode(entry.getComponents()[i].getId()));
+					staff.appendChild(id);
+					
+					//Attr attr = doc.createAttribute("id");
+					//attr.setValue(entry.getComponents()[i].getId());
+					//staff.setAttributeNode(attr);
 
 
-					// firstname elements
-					Element firstname = doc.createElement("key");
-					firstname.appendChild(doc.createTextNode(entry.getComponents()[i].getKey()));
-					staff.appendChild(firstname);
+					// key elements
+					Element key = doc.createElement("key");
+					key.appendChild(doc.createTextNode(entry.getComponents()[i].getKey()));
+					staff.appendChild(key);
 
-					// lastname elements
-					Element lastname = doc.createElement("path");
-					lastname.appendChild(doc.createTextNode(entry.getComponents()[i].getPath()));
-					staff.appendChild(lastname);
+					// path elements
+					Element path = doc.createElement("path");
+					path.appendChild(doc.createTextNode(entry.getComponents()[i].getPath()));
+					staff.appendChild(path);
+					
+					// key path elements
+					Element keyPath = doc.createElement("key_path");
+					keyPath.appendChild(doc.createTextNode(entry.getComponents()[i].getKey().substring(11)));
+					staff.appendChild(keyPath);
 
-					// nickname elements
-					Element nickname = doc.createElement("language");
-					nickname.appendChild(doc.createTextNode(entry.getComponents()[i].getLanguage()));
-					staff.appendChild(nickname);
+					// language elements
+					Element language = doc.createElement("language");
+					language.appendChild(doc.createTextNode(entry.getComponents()[i].getLanguage()));
+					staff.appendChild(language);
 				}				
 			}
 			
