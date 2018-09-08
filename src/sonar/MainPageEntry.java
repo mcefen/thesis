@@ -1,11 +1,17 @@
 package sonar;
 
+/** Sonar API allows us to get max 500 per page
+ * However we need to merge all these call results 
+ * in one single object to write it into XML*/
 public class MainPageEntry
 {
+	//Project
     private ProjectSonarQubeEntry baseComponent;
 
+    //Files in project
     private FileSonarQubeEntry[] components;
 
+    //Shows total files - need for counter
     private Paging paging;
 
     public ProjectSonarQubeEntry getBaseComponent ()

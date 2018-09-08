@@ -1,4 +1,4 @@
-package xmltest;
+package common;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -8,6 +8,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import squore.SquoreEntriesProcessor;
 import squore.SquoreEntry;
 /***
  * Read from CSV files create entries and return all entries mapped by project */
@@ -23,17 +24,23 @@ public class CsvReader {
 		squoreProjectsMap = new HashMap<String, List<SquoreEntry>>();
 	}
 	
+	/** Get a csv file and create a list with squore entries in it
+	 *  csv files have to be named after the project name
+	 *  @param  projects  A list of all project names
+	 *  @return map       Map of project and a list of squore entries for each
+	 *  */
 	public Map<String, List<SquoreEntry>> readFromCsv(String[] projects){
 		
         String line = "";        
 
         for(int i=0;i<projects.length;i++){
         	List<SquoreEntry> entries = new ArrayList<>();
-        	
+        	SquoreEntriesProcessor squoreProcessor = new SquoreEntriesProcessor();
+        	//Path to csv file
         	String finalPath = CSV_READ_PATH + projects[i]+".csv";
         	
         	try (BufferedReader br = new BufferedReader(new FileReader(finalPath))) {
-
+        		br.readLine();
         		//Create squore entries for each of the file lines
                 while ((line = br.readLine()) != null) {
 
@@ -49,7 +56,11 @@ public class CsvReader {
                     squoreEntry.setCriticalIssues(file[6]);
                     squoreEntry.setAverageCyclomaticComplexity(file[7]);
                     squoreEntry.setCyclomaticComplexity(file[8]);
-                    squoreEntry.setPath(file[9]);
+                    squoreEntry.setPath(file[9]);                  
+                    
+                    squoreEntry.setCanonicalTechnicalDept(squoreProcessor.calculateCanonicalTechnicalDebt(file[2]));
+                    
+                    System.out.println("TechDebpt: " + squoreEntry.getTechnicalDept());
                     
                     entries.add(squoreEntry);
                 }

@@ -43,7 +43,7 @@ public class SonarEntriesProcessor {
 		//add request header
 		con.setRequestProperty("User-Agent", USER_AGENT);
 
-		int responseCode = con.getResponseCode();
+		con.getResponseCode();
 
 		BufferedReader in = new BufferedReader(
 				new InputStreamReader(con.getInputStream()));
@@ -72,7 +72,7 @@ public class SonarEntriesProcessor {
 			MainPageEntry entry = mapper.readValue(responseToParse, MainPageEntry.class);
 
 			//Pretty print
-			String prettyStaff1 = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(entry);
+			mapper.writerWithDefaultPrettyPrinter().writeValueAsString(entry);
 
 			return entry;
 
@@ -140,5 +140,6 @@ public class SonarEntriesProcessor {
 		}
 		return mainPageEntry;
 	}
-
+	
+	
 }

@@ -1,5 +1,6 @@
 package sonar;
 
+/** Each file in the project */
 public class FileSonarQubeEntry
 {
     private String id;

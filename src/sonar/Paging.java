@@ -1,5 +1,6 @@
 package sonar;
 
+/** Holds info for page size and total entries we get from sonar for each project*/
 public class Paging
 {
     private String total;

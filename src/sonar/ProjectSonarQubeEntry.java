@@ -1,5 +1,5 @@
 package sonar;
-
+/** Object for the project */
 public class ProjectSonarQubeEntry
 {
     private String[] tags;
