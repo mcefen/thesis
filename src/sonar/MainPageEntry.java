@@ -1,6 +1,5 @@
-package xmltest;
+package sonar;
 
-                 
 public class MainPageEntry
 {
     private ProjectSonarQubeEntry baseComponent;

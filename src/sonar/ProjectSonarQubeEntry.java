@@ -1,4 +1,4 @@
-package xmltest;
+package sonar;
 
 public class ProjectSonarQubeEntry
 {

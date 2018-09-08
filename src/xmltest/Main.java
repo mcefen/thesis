@@ -2,12 +2,22 @@ package xmltest;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.StringTokenizer;
+import java.util.stream.Collectors;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -27,188 +37,38 @@ import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import sonar.MainPageEntry;
+import sonar.SonarEntriesProcessor;
+import squore.SquoreEntriesProcessor;
+import squore.SquoreEntry;
+
 public class Main {
-
-	private final static String USER_AGENT = "Mozilla/5.0";
 	
+	private static Map<String, List<SquoreEntry>> squoreProjectsMap = new HashMap<String, List<SquoreEntry>>();
+
 	public static void main(String argv[]) throws Exception {
-		
+
 		String[] projects = {"mina", "deltaspike", "opennlp", "maven", "wss4j", "pdfbox", "fop", "cayenne", "jclouds", "openjpa"};
-		
+
+		CsvReader csvReader = new CsvReader();
+		squoreProjectsMap = csvReader.readFromCsv(projects);		
+
+		SonarEntriesProcessor sonarEntriesProcessor = new SonarEntriesProcessor();
 		for (int i = 0; i < projects.length;i++){
-			int pageNum = 1;
-			int pageElements = 500;
-			boolean hasMore = true;
+			System.out.println(projects[i]);
 			
-			List<MainPageEntry> projectObjects = new ArrayList<>();
+			//Read from sonar and format a single entry to write in xml
+			MainPageEntry mainPageEntry = sonarEntriesProcessor.getMainEntry(projects[i]);
+
+			//Read from csv squore files
+			SquoreEntriesProcessor squoreEntriesProcessor = new SquoreEntriesProcessor();
+			List<SquoreEntry> squoreEntriesToWrite = squoreEntriesProcessor.compareSonarWithSquoreProjects(squoreProjectsMap.get(projects[i]), Arrays.asList(mainPageEntry.getComponents()));
+			System.out.println("Squores: "+squoreEntriesToWrite.size());
 			
-			//TODO: list of objects
-			//We should get a root object for each page we get
-			//We add all of them into a list
-			//At the end we keep only one root object and add every element of the 
-			//others under this one object
-			
-			while (hasMore){
-				String getResponse = sendGet(projects[i],pageNum, pageElements);
-				MainPageEntry sQEntry = parse(getResponse);
-				
-				if(sQEntry.getComponents().length>0){
-					projectObjects.add(sQEntry);
-				} else {
-					hasMore = false;
-					break;
-				}
-				pageNum++;
-			}
-			
-			//At this point we get all objects from each page
-			//Merge them into one list
-			MainPageEntry mainPageEntry = new MainPageEntry();
-			mainPageEntry.setBaseComponent(projectObjects.get(0).getBaseComponent());
-			mainPageEntry.setPaging(projectObjects.get(0).getPaging());
-			
-			mainPageEntry.setComponents(new FileSonarQubeEntry[Integer.parseInt(mainPageEntry.getPaging().getTotal())]);
-						
-			for(MainPageEntry sEntry : projectObjects){
-				int totalCounter = 0;
-				for(int j=0;j<sEntry.getComponents().length;j++){
-					if(sEntry.getComponents()[j]!=null){
-						if(sEntry.getComponents()[j].getLanguage().equals("java")){
-							sEntry.getComponents()[j].setKey(sEntry.getComponents()[j].getKey().replace(':', '/'));
-							mainPageEntry.getComponents()[totalCounter]=sEntry.getComponents()[j];
-							totalCounter++;
-						}						
-					}
-				}
-			}
-			
-			//Write it to XML as one object
-			writeToXML(projects[i], mainPageEntry);			
-		}	  
-	}
-	
-	private static String sendGet(String component, int page, int pageSize) throws Exception {
+			//Write to XML as one object
+			XmlWriter xmlWriter = new XmlWriter();
+			xmlWriter.writeSonarsToXML(projects[i], mainPageEntry);	
 
-		String url = "http://se.uom.gr:9907/api/components/tree?component="+component+"&p="+page+"&ps="+pageSize+"&qualifiers=FIL";
-		
-		URL obj = new URL(url);
-		HttpURLConnection con = (HttpURLConnection) obj.openConnection();
-
-		// optional default is GET
-		con.setRequestMethod("GET");
-
-		//add request header
-		con.setRequestProperty("User-Agent", USER_AGENT);
-
-		int responseCode = con.getResponseCode();
-		System.out.println("\nSending 'GET' request to URL : " + url);
-		System.out.println("Response Code : " + responseCode);
-
-		BufferedReader in = new BufferedReader(
-		        new InputStreamReader(con.getInputStream()));
-		String inputLine;
-		StringBuffer response = new StringBuffer();
-
-		while ((inputLine = in.readLine()) != null) {
-			response.append(inputLine);
-		}
-		in.close();
-
-		//print result
-		return response.toString();
-	}
-	
-	private static void writeToXML(String projectName, MainPageEntry entry){
-		try {
-
-			DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
-			DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
-
-			// root elements
-			Document doc = docBuilder.newDocument();
-			Element rootElement = doc.createElement("project");
-			doc.appendChild(rootElement);
-			
-			Element totalFiles = doc.createElement("total");
-			totalFiles.appendChild(doc.createTextNode(entry.getPaging().getTotal()));
-			rootElement.appendChild(totalFiles);
-			
-			for(int i = 0; i< entry.getComponents().length;i++){
-
-				if((entry.getComponents()[i]!=null) && (entry.getComponents()[i].getId()!=null)){
-					// staff elements
-					Element staff = doc.createElement("File");
-					rootElement.appendChild(staff);
-
-					// set attribute to staff element					
-					Element id = doc.createElement("id");
-					id.appendChild(doc.createTextNode(entry.getComponents()[i].getId()));
-					staff.appendChild(id);
-					
-					//Attr attr = doc.createAttribute("id");
-					//attr.setValue(entry.getComponents()[i].getId());
-					//staff.setAttributeNode(attr);
-
-
-					// key elements
-					Element key = doc.createElement("key");
-					key.appendChild(doc.createTextNode(entry.getComponents()[i].getKey()));
-					staff.appendChild(key);
-
-					// path elements
-					Element path = doc.createElement("path");
-					path.appendChild(doc.createTextNode(entry.getComponents()[i].getPath()));
-					staff.appendChild(path);
-					
-					// key path elements
-					Element keyPath = doc.createElement("key_path");
-					keyPath.appendChild(doc.createTextNode(entry.getComponents()[i].getKey().substring(11)));
-					staff.appendChild(keyPath);
-
-					// language elements
-					Element language = doc.createElement("language");
-					language.appendChild(doc.createTextNode(entry.getComponents()[i].getLanguage()));
-					staff.appendChild(language);
-				}				
-			}
-			
-			// write the content into xml file
-			TransformerFactory transformerFactory = TransformerFactory.newInstance();
-			Transformer transformer = transformerFactory.newTransformer();
-			DOMSource source = new DOMSource(doc);
-			StreamResult result = new StreamResult(new File("./"+projectName+".xml"));
-			
-			transformer.transform(source, result);
-
-			System.out.println("File saved!");
-
-		  } catch (ParserConfigurationException pce) {
-			pce.printStackTrace();
-		  } catch (TransformerException tfe) {
-			tfe.printStackTrace();
-		  }
+		}	
 	}	
-	
-	private static MainPageEntry parse(String responseToParse) throws JsonParseException, IOException {
-		ObjectMapper mapper = new ObjectMapper();
-
-		try {
-
-			// Convert JSON string from file to Object
-			MainPageEntry entry = mapper.readValue(responseToParse, MainPageEntry.class);
-			
-			//Pretty print
-			String prettyStaff1 = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(entry);
-			System.out.println(prettyStaff1);
-			
-			return entry;
-			
-		} catch (JsonGenerationException e) {
-			e.printStackTrace();
-			return new MainPageEntry();
-		} catch (JsonMappingException e) {
-			e.printStackTrace();
-			return new MainPageEntry();
-		} 
-	}
 }

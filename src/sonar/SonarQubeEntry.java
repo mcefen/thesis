@@ -1,4 +1,4 @@
-package xmltest;
+package sonar;
 
 import java.util.List;
 
