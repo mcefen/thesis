@@ -14,7 +14,7 @@ import squore.SquoreEntry;
  * Read from CSV files create entries and return all entries mapped by project */
 public class CsvReader {
 
-	private final String CSV_READ_PATH = "C:/Users/Nasia/Desktop/csv-20180830T180525Z-001/csv/";
+	private final String CSV_READ_PATH = "C:/Users/Nasia/Desktop/squore_csv/";
 	private final String CSV_SEPARATOR = ";";
 	
 	private Map<String, List<SquoreEntry>> squoreProjectsMap;
@@ -45,22 +45,25 @@ public class CsvReader {
                 while ((line = br.readLine()) != null) {
 
                     String[] file = line.split(CSV_SEPARATOR);
-                    
+                    //Pts/KLoc
                     SquoreEntry squoreEntry = new SquoreEntry();
                     squoreEntry.setRating(file[0]);
                     squoreEntry.setFileName(file[1]);
                     squoreEntry.setTechnicalDept(file[2]);
-                    squoreEntry.setLineCount(file[3]);
-                    squoreEntry.setViolationsDensity(file[4]);
+                    squoreEntry.setLineCount(file[3].replace(",", ""));
+                    squoreEntry.setViolationsDensity(file[4].replace("Pts/KLoc", ""));
                     squoreEntry.setBlockerIssues(file[5]);
                     squoreEntry.setCriticalIssues(file[6]);
-                    squoreEntry.setAverageCyclomaticComplexity(file[7]);
-                    squoreEntry.setCyclomaticComplexity(file[8]);
-                    squoreEntry.setPath(file[9]);                  
+                    squoreEntry.setMajorIssues(file[7]);
+                    squoreEntry.setMinorIssues(file[8]);
+                    squoreEntry.calculateTotalIssues();
+                    squoreEntry.setAverageCyclomaticComplexity(file[9]);
+                    squoreEntry.setCyclomaticComplexity(file[10]);
+                    squoreEntry.setPath(file[11]);                  
                     
                     squoreEntry.setCanonicalTechnicalDept(squoreProcessor.calculateCanonicalTechnicalDebt(file[2]));
                     
-                    System.out.println("TechDebpt: " + squoreEntry.getTechnicalDept());
+                    //System.out.println("TechDebpt: " + squoreEntry.getTechnicalDept());
                     
                     entries.add(squoreEntry);
                 }

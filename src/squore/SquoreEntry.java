@@ -10,12 +10,31 @@ public class SquoreEntry {
 	String violationsDensity;
 	String blockerIssues;
 	String criticalIssues;
+	String majorIssues;
+	String minorIssues;
+	String totalIssues;
 	String averageCyclomaticComplexity;
 	String cyclomaticComplexity;
 	String path;
 	
 	public SquoreEntry(){
 		super();
+	}
+	
+	public void calculateTotalIssues(){
+		
+		int totalIssusesNum;
+		
+		try{
+			totalIssusesNum = Integer.parseInt(blockerIssues)+
+					Integer.parseInt(criticalIssues)+
+					Integer.parseInt(majorIssues)+
+					Integer.parseInt(minorIssues);
+		} catch (Exception ex){
+			totalIssusesNum = 0;
+		}
+		
+		totalIssues = String.valueOf(totalIssusesNum);		
 	}
 	
 	public String getRating() {
@@ -84,8 +103,29 @@ public class SquoreEntry {
 	public void setPath(String path) {
 		this.path = path;
 	}
-	
-	
-	
+
+	public String getMajorIssues() {
+		return majorIssues;
+	}
+
+	public void setMajorIssues(String majorIssues) {
+		this.majorIssues = majorIssues;
+	}
+
+	public String getMinorIssues() {
+		return minorIssues;
+	}
+
+	public void setMinorIssues(String minorIssues) {
+		this.minorIssues = minorIssues;
+	}
+
+	public String getTotalIssues() {
+		return totalIssues;
+	}
+
+	public void setTotalIssues(String totalIssues) {
+		this.totalIssues = totalIssues;
+	}	
 	
 }

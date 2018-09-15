@@ -16,6 +16,8 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
 import sonar.MainPageEntry;
+import sonar.MainPageWithEntries;
+import sonar.SonarEntryWithBasicMetrics;
 import squore.SquoreEntry;
 
 public class XmlWriter {
@@ -97,6 +99,127 @@ public class XmlWriter {
 			tfe.printStackTrace();
 		}
 	}	
+	
+	/** Create an XML file for each list of Sonar Entries
+	 *  @param  projectName  The name of our project 
+	 *  @param  entry        The MainPageEntry for the sonar project*/
+	public void writeSonarsWithMetricsToXML(String projectName, MainPageWithEntries entry){
+		try {
+
+			DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
+
+			// root elements
+			Document doc = docBuilder.newDocument();
+			Element rootElement = doc.createElement("project");
+			doc.appendChild(rootElement);
+
+			//Total elements in the project
+			Element totalFiles = doc.createElement("total");
+			totalFiles.appendChild(doc.createTextNode(entry.getPaging().getTotal()));
+			rootElement.appendChild(totalFiles);
+
+			for(int i = 0; i< entry.getComponents().length;i++){
+
+				if((entry.getComponents()[i]!=null) && (entry.getComponents()[i].getId()!=null)){
+					// file element
+					Element staff = doc.createElement("File");
+					rootElement.appendChild(staff);
+
+					Element id = doc.createElement("Id");
+					id.appendChild(doc.createTextNode(entry.getComponents()[i].getId()));
+					staff.appendChild(id);
+
+					// key elements
+					Element key = doc.createElement("Key");
+					key.appendChild(doc.createTextNode(entry.getComponents()[i].getKey()));
+					staff.appendChild(key);
+
+					// path elements
+					Element path = doc.createElement("Path");
+					path.appendChild(doc.createTextNode(entry.getComponents()[i].getPath()));
+					staff.appendChild(path);
+
+					// key path elements
+					Element keyPath = doc.createElement("Key_Path");
+					keyPath.appendChild(doc.createTextNode(entry.getComponents()[i].getKey().substring(11)));
+					staff.appendChild(keyPath);
+
+					// language elements
+					Element language = doc.createElement("Language");
+					language.appendChild(doc.createTextNode(entry.getComponents()[i].getLanguage()));
+					staff.appendChild(language);
+					
+					SonarEntryWithBasicMetrics sEntry = new SonarEntryWithBasicMetrics();
+					sEntry.populateEntryAttributes(entry.getComponents()[i].getMeasures());
+					// ncloc elements
+					Element ncloc = doc.createElement("Ncloc");
+					ncloc.appendChild(doc.createTextNode(String.valueOf(sEntry.getNcloc())));
+					staff.appendChild(ncloc);
+					
+					// file complexity elements
+					Element file_complexity = doc.createElement("File_Complexity");
+					file_complexity.appendChild(doc.createTextNode(String.valueOf(sEntry.getFileComplexity())));
+					staff.appendChild(file_complexity);
+					
+					// complexity elements
+					Element complexity = doc.createElement("Complexity");
+					complexity.appendChild(doc.createTextNode(String.valueOf(sEntry.getComplexity())));
+					staff.appendChild(complexity);
+					
+					// blocker elements
+					Element blocker = doc.createElement("Blocker_Issues");
+					blocker.appendChild(doc.createTextNode(String.valueOf(sEntry.getBlockingIssues())));
+					staff.appendChild(blocker);
+					
+					// major elements
+					Element critical = doc.createElement("Critical_Issues");
+					critical.appendChild(doc.createTextNode(String.valueOf(sEntry.getCriticalIssues())));
+					staff.appendChild(critical);
+					
+					// major elements
+					Element major = doc.createElement("Major_Issues");
+					major.appendChild(doc.createTextNode(String.valueOf(sEntry.getMajorIssues())));
+					staff.appendChild(major);
+					
+					// minor elements
+					Element minor = doc.createElement("Minor_Issues");
+					minor.appendChild(doc.createTextNode(String.valueOf(sEntry.getMinorIssues())));
+					staff.appendChild(minor);
+					
+					// total elements
+					Element total = doc.createElement("Total_Issues");
+					total.appendChild(doc.createTextNode(String.valueOf(sEntry.getTotalIssues())));
+					staff.appendChild(total);
+					
+					// sqale_index elements
+					Element sqale_index = doc.createElement("Sqale_Index");
+					sqale_index.appendChild(doc.createTextNode(String.valueOf(sEntry.getSqaleIndex())));
+					staff.appendChild(sqale_index);
+					
+					// sqale_debt_ratio elements
+					Element sqale_debt_ratio = doc.createElement("Sqale_Debt_Ratio");
+					sqale_debt_ratio.appendChild(doc.createTextNode(String.valueOf(sEntry.getSqaleDebtRatio())));
+					staff.appendChild(sqale_debt_ratio);
+				}				
+			}
+
+			// write the content into xml file
+			TransformerFactory transformerFactory = TransformerFactory.newInstance();
+			Transformer transformer = transformerFactory.newTransformer();
+			DOMSource source = new DOMSource(doc);
+			StreamResult result = new StreamResult(new File("./sonar_baseMetrics_"+projectName+".xml"));
+
+			transformer.transform(source, result);
+
+			System.out.println("File saved!");
+
+		} catch (ParserConfigurationException pce) {
+			pce.printStackTrace();
+		} catch (TransformerException tfe) {
+			tfe.printStackTrace();
+		}
+	}	
 
 	/** Create an XML file for each list of Squore Entries
 	 *  @param  projectName  The name of our project 
@@ -151,6 +274,18 @@ public class XmlWriter {
 				Element critical = doc.createElement("Critical_Issues");
 				critical.appendChild(doc.createTextNode(sq.getCriticalIssues()));
 				staff.appendChild(critical);
+				
+				Element major = doc.createElement("Major_Issues");
+				major.appendChild(doc.createTextNode(sq.getMajorIssues()));
+				staff.appendChild(major);
+				
+				Element minor = doc.createElement("Minor_Issues");
+				minor.appendChild(doc.createTextNode(sq.getMinorIssues()));
+				staff.appendChild(minor);
+				
+				Element total = doc.createElement("Total_Issues");
+				total.appendChild(doc.createTextNode(sq.getTotalIssues()));
+				staff.appendChild(total);
 				
 				Element avgCyclComplexity = doc.createElement("Average_Cyclomatic_Complexity");
 				avgCyclComplexity.appendChild(doc.createTextNode(sq.getAverageCyclomaticComplexity()));

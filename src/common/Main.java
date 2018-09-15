@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 import sonar.MainPageEntry;
+import sonar.MainPageWithEntries;
 import sonar.SonarEntriesProcessor;
 import squore.SquoreEntriesProcessor;
 import squore.SquoreEntry;
@@ -27,7 +28,9 @@ public class Main {
 			
 			//Read from sonar and format a single entry to write in xml
 			MainPageEntry mainPageEntry = sonarEntriesProcessor.getMainEntry(projects[i]);
-
+		
+			MainPageWithEntries mainPageWithMetrics = sonarEntriesProcessor.getMainPageWithMetrics(projects[i]);
+			
 			//Read from csv squore files
 			SquoreEntriesProcessor squoreEntriesProcessor = new SquoreEntriesProcessor();
 			List<SquoreEntry> squoreEntriesToWrite = squoreEntriesProcessor.compareSonarWithSquoreProjects(squoreProjectsMap.get(projects[i]), Arrays.asList(mainPageEntry.getComponents()));
@@ -36,7 +39,8 @@ public class Main {
 			//Write to XML as one object
 			XmlWriter xmlWriter = new XmlWriter();
 			xmlWriter.writeSonarsToXML(projects[i], mainPageEntry);	
-			xmlWriter.writeSquoresToXML(projects[i], squoreEntriesToWrite);	
+			xmlWriter.writeSonarsWithMetricsToXML(projects[i], mainPageWithMetrics);
+			xmlWriter.writeSquoresToXML(projects[i], squoreEntriesToWrite);
 
 		}	
 	}	
