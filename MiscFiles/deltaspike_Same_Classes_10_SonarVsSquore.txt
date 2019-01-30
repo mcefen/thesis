@@ -1,0 +1,16 @@
+Compare Sonar With Squore
+
+/main/java/org/apache/deltaspike/testcontrol/api/junit/CdiTestRunner.java
+/main/java/org/apache/deltaspike/core/util/Annotateds.java
+/main/java/org/apache/deltaspike/core/util/metadata/AnnotationInstanceProvider.java
+/main/java/org/apache/deltaspike/core/impl/exclude/extension/ExcludeExtension.java
+/main/java/org/apache/deltaspike/core/util/metadata/builder/AnnotatedTypeBuilder.java
+/main/java/org/apache/deltaspike/jsf/impl/config/view/ViewConfigExtension.java
+/main/java/org/apache/deltaspike/core/impl/jmx/DynamicMBeanWrapper.java
+/main/java/org/apache/deltaspike/core/impl/exception/control/ExceptionHandlerBroadcaster.java
+/main/java/org/apache/deltaspike/scheduler/impl/AbstractQuartzScheduler.java
+/main/java/org/apache/deltaspike/core/impl/config/ConfigurationExtension.java
+/main/java/org/apache/deltaspike/data/impl/handler/CdiQueryInvocationContext.java
+/main/java/org/apache/deltaspike/core/api/config/ConfigResolver.java
+/main/java/org/apache/deltaspike/test/utils/ShrinkWrapArchiveUtil.java
+/main/java/org/apache/deltaspike/proxy/api/DeltaSpikeProxyFactory.java

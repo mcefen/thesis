@@ -1,0 +1,506 @@
+wss4j,/main/java/org/apache/wss4j/binding/wsu10/AbstractAttributedDateTime.java,5.0,0,0.0,17.03
+wss4j,/main/java/org/apache/wss4j/policy/model/AbstractBinding.java,63.0,1h 35min,95.0,46.05
+wss4j,/main/java/org/apache/wss4j/dom/action/AbstractDerivedAction.java,25.0,1h 22min,82.0,50.55
+wss4j,/main/java/org/apache/wss4j/binding/wssc/AbstractDerivedKeyTokenType.java,10.0,0,0.0,27.08
+wss4j,/main/java/org/apache/wss4j/binding/wssc/AbstractPropertiesType.java,10.0,0,0.0,9.62
+wss4j,/main/java/org/apache/wss4j/policy/model/AbstractSecuredParts.java,5.0,1h 2min,62.0,38.91
+wss4j,/main/java/org/apache/wss4j/policy/model/AbstractSecurityAssertion.java,2.0,1h 22min,82.0,88.63
+wss4j,/main/java/org/apache/wss4j/binding/wssc/AbstractSecurityContextTokenType.java,10.0,0,0.0,15.44
+wss4j,/main/java/org/apache/wss4j/policy/model/AbstractSymmetricAsymmetricBinding.java,104.0,1h 32min,92.0,47.99
+wss4j,/main/java/org/apache/wss4j/policy/model/AbstractToken.java,36.0,2h 22min,142.0,78.98
+wss4j,/main/java/org/apache/wss4j/policy/model/AbstractTokenWrapper.java,1.0,55min,55.0,47.91
+wss4j,/main/java/org/apache/wss4j/dom/action/Action.java,0.0,0,0.0,7.41
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/ActionBean.java,20.0,1h 27min,87.0,9.97
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/AdviceBean.java,30.0,2h 5min,125.0,19.67
+wss4j,/main/java/org/apache/wss4j/common/derivedKey/AlgoFactory.java,10.0,10min,10.0,12.53
+wss4j,/main/java/org/apache/wss4j/policy/model/AlgorithmSuite.java,247.0,7h 5min,425.0,262.29
+wss4j,/main/java/org/apache/wss4j/common/crypto/AlgorithmSuite.java,0.0,15min,15.0,83.8
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/AlgorithmSuiteAssertionState.java,131.0,1h 15min,75.0,27.27
+wss4j,/main/java/org/apache/wss4j/policy/builders/AlgorithmSuiteBuilder.java,5.0,0,0.0,26.03
+wss4j,/main/java/org/apache/wss4j/common/crypto/AlgorithmSuiteValidator.java,78.0,37min 30s,37.5,59.63
+wss4j,/main/java/org/apache/wss4j/policy/stax/Assertable.java,0.0,0,0.0,20.29
+wss4j,/main/java/org/apache/wss4j/policy/AssertionState.java,5.0,37min 30s,37.5,37.24
+wss4j,/main/java/org/apache/wss4j/policy/model/AsymmetricBinding.java,174.0,3h 27min,207.0,66.96
+wss4j,/main/java/org/apache/wss4j/policy/builders/AsymmetricBindingBuilder.java,5.0,0,0.0,21.53
+wss4j,/main/java/org/apache/wss4j/common/ext/Attachment.java,0.0,0,0.0,32.04
+wss4j,/main/java/org/apache/wss4j/dom/transform/AttachmentCiphertextTransform.java,0.0,0,0.0,10.59
+wss4j,/main/java/org/apache/wss4j/dom/transform/AttachmentCompleteSignatureTransform.java,0.0,45min,45.0,27.7
+wss4j,/main/java/org/apache/wss4j/stax/impl/transformer/AttachmentCompleteSignatureTransform.java,0.0,0,0.0,17.65
+wss4j,/main/java/org/apache/wss4j/dom/transform/AttachmentCompleteSignatureTransformProvider.java,0.0,0,0.0,6.71
+wss4j,/main/java/org/apache/wss4j/dom/transform/AttachmentContentSignatureTransform.java,10.0,1h 5min,65.0,84.34
+wss4j,/main/java/org/apache/wss4j/stax/impl/transformer/AttachmentContentSignatureTransform.java,10.0,47min 30s,47.5,27.08
+wss4j,/main/java/org/apache/wss4j/dom/transform/AttachmentContentSignatureTransformProvider.java,0.0,0,0.0,6.71
+wss4j,/main/java/org/apache/wss4j/common/ext/AttachmentRemovalCallback.java,0.0,0,0.0,6.79
+wss4j,/main/java/org/apache/wss4j/common/ext/AttachmentRequestCallback.java,0.0,0,0.0,15.79
+wss4j,/main/java/org/apache/wss4j/common/ext/AttachmentResultCallback.java,0.0,0,0.0,11.91
+wss4j,/main/java/org/apache/wss4j/policy/model/Attachments.java,0.0,47min 30s,47.5,36.35
+wss4j,/main/java/org/apache/wss4j/dom/transform/AttachmentTransformParameterSpec.java,0.0,0,0.0,13.85
+wss4j,/main/java/org/apache/wss4j/common/util/AttachmentUtils.java,206.0,4h 32min,272.0,146.53
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/AttributeBean.java,48.0,2h 35min,155.0,17.38
+wss4j,/main/java/org/apache/wss4j/binding/wsu10/AttributedDateTime.java,30.0,0,0.0,4.85
+wss4j,/main/java/org/apache/wss4j/binding/wss10/AttributedString.java,30.0,10min,10.0,5.47
+wss4j,/main/java/org/apache/wss4j/binding/wsu10/AttributedURI.java,20.0,10min,10.0,4.85
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/AttributeStatementBean.java,20.0,1h 27min,87.0,12.88
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/AudienceRestrictionBean.java,2.0,30min,30.0,4.85
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/AuthDecisionStatementBean.java,62.0,3h 12min,192.0,18.0
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/AuthenticationStatementBean.java,76.0,3h 42min,222.0,21.88
+wss4j,/main/java/org/apache/wss4j/common/token/BinarySecurity.java,32.0,1h 32min,92.0,54.7
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/BinarySecurityTokenInputHandler.java,5.0,7min 30s,7.5,23.74
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/BinarySecurityTokenOutputProcessor.java,29.0,1h 17min,77.0,39.72
+wss4j,/main/java/org/apache/wss4j/dom/processor/BinarySecurityTokenProcessor.java,39.0,1h 30min,90.0,14.47
+wss4j,/main/java/org/apache/wss4j/binding/wss10/BinarySecurityTokenType.java,2.0,0,0.0,8.38
+wss4j,/main/java/org/apache/wss4j/stax/validate/BinarySecurityTokenValidator.java,0.0,0,0.0,7.76
+wss4j,/main/java/org/apache/wss4j/stax/validate/BinarySecurityTokenValidatorImpl.java,0.0,1h 5min,65.0,32.82
+wss4j,/main/java/org/apache/wss4j/policy/model/BootstrapPolicy.java,0.0,0,0.0,23.12
+wss4j,/main/java/org/apache/wss4j/policy/builders/BootstrapPolicyBuilder.java,10.0,0,0.0,21.18
+wss4j,/main/java/org/apache/wss4j/common/crypto/BouncyCastleUtils.java,60.0,20min,20.0,18.97
+wss4j,/main/java/org/apache/wss4j/common/bsp/BSPEnforcer.java,0.0,10min,10.0,21.88
+wss4j,/main/java/org/apache/wss4j/common/bsp/BSPRule.java,0.0,0,0.0,7.06
+wss4j,/main/java/org/apache/wss4j/dom/callback/CallbackLookup.java,0.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/common/crypto/CertificateStore.java,244.0,2h 17min,137.0,48.26
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/ConditionsBean.java,84.0,3h 32min,212.0,30.61
+wss4j,/main/java/org/apache/wss4j/common/ConfigurationConstants.java,15.0,7min 30s,7.5,5.47
+wss4j,/main/java/org/apache/wss4j/stax/setup/ConfigurationConverter.java,139.0,1M/d,480.0,123.01
+wss4j,/main/java/org/apache/wss4j/policy/model/ContentEncryptedElements.java,0.0,37min 30s,37.5,26.3
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/ContentEncryptedElementsAssertionState.java,35.0,27min 30s,27.5,24.44
+wss4j,/main/java/org/apache/wss4j/policy/builders/ContentEncryptedElementsBuilder.java,5.0,7min 30s,7.5,18.62
+wss4j,/main/java/org/apache/wss4j/common/derivedKey/ConversationConstants.java,20.0,47min 30s,47.5,53.54
+wss4j,/main/java/org/apache/wss4j/dom/validate/Credential.java,0.0,7min 30s,7.5,22.58
+wss4j,/main/java/org/apache/wss4j/common/util/CRLFOutputStream.java,0.0,0,0.0,26.03
+wss4j,/main/java/org/apache/wss4j/common/crypto/Crypto.java,0.0,0,0.0,19.59
+wss4j,/main/java/org/apache/wss4j/common/crypto/CryptoBase.java,40.0,2h 45min,165.0,49.23
+wss4j,/main/java/org/apache/wss4j/common/crypto/CryptoFactory.java,94.0,50min,50.0,37.67
+wss4j,/main/java/org/apache/wss4j/common/crypto/CryptoType.java,0.0,0,0.0,13.5
+wss4j,/main/java/org/apache/wss4j/dom/action/CustomTokenAction.java,0.0,0,0.0,18.62
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/CustomTokenOutputProcessor.java,10.0,32min 30s,32.5,47.05
+wss4j,/main/java/org/apache/wss4j/common/principal/CustomTokenPrincipal.java,60.0,7min 30s,7.5,19.05
+wss4j,/main/java/org/apache/wss4j/common/util/DateUtil.java,0.0,40min,40.0,15.44
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/DecryptInputProcessor.java,83.0,1h 7min,67.0,148.77
+wss4j,/main/java/org/apache/wss4j/common/spnego/DefaultSpnegoClientAction.java,30.0,17min 30s,17.5,18.7
+wss4j,/main/java/org/apache/wss4j/common/spnego/DefaultSpnegoServiceAction.java,30.0,10min,10.0,18.7
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/DelegateBean.java,30.0,2h 5min,125.0,19.4
+wss4j,/main/java/org/apache/wss4j/common/crypto/DERDecoder.java,45.0,17min 30s,17.5,9.35
+wss4j,/main/java/org/apache/wss4j/common/derivedKey/DerivationAlgorithm.java,10.0,0,0.0,9.7
+wss4j,/main/java/org/apache/wss4j/dom/message/token/DerivedKeyToken.java,47.0,5h 37min,337.0,82.75
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/DerivedKeyTokenInputHandler.java,27.0,50min,50.0,18.27
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/DerivedKeyTokenOutputProcessor.java,38.0,2h 32min,152.0,71.92
+wss4j,/main/java/org/apache/wss4j/dom/processor/DerivedKeyTokenProcessor.java,0.0,7min 30s,7.5,15.44
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/DerivedKeyTokenSecurityEvent.java,10.0,0,0.0,9.89
+wss4j,/main/java/org/apache/wss4j/dom/str/DerivedKeyTokenSTRParser.java,87.0,1h 10min,70.0,34.14
+wss4j,/main/java/org/apache/wss4j/binding/wssc13/DerivedKeyTokenType.java,20.0,17min 30s,17.5,9.7
+wss4j,/main/java/org/apache/wss4j/binding/wssc200502/DerivedKeyTokenType.java,20.0,17min 30s,17.5,9.7
+wss4j,/main/java/org/apache/wss4j/common/derivedKey/DerivedKeyUtils.java,10.0,7min 30s,7.5,18.7
+wss4j,/main/java/org/apache/wss4j/policy/model/DOM2Writer.java,134.0,2h 35min,155.0,89.65
+wss4j,/main/java/org/apache/wss4j/common/util/DOM2Writer.java,124.0,2h 15min,135.0,83.21
+wss4j,/main/java/org/apache/wss4j/dom/callback/DOMCallbackLookup.java,32.0,55min,55.0,7.41
+wss4j,/main/java/org/apache/wss4j/dom/saml/DOMSAMLUtil.java,19.0,3h 15min,195.0,40.23
+wss4j,/main/java/org/apache/wss4j/common/token/DOMX509Data.java,2.0,10min,10.0,13.58
+wss4j,/main/java/org/apache/wss4j/common/token/DOMX509IssuerSerial.java,5.0,0,0.0,10.67
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/DsaKeyValueSecurityToken.java,10.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/DsaKeyValueSecurityTokenImpl.java,30.0,55min,55.0,40.85
+wss4j,/main/java/org/apache/wss4j/policy/stax/DummyPolicyAsserter.java,0.0,0,0.0,18.27
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/ECKeyValueSecurityToken.java,10.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/ECKeyValueSecurityTokenImpl.java,30.0,55min,55.0,40.85
+wss4j,/main/java/org/apache/wss4j/common/cache/EHCacheManagerHolder.java,91.0,1h,60.0,55.59
+wss4j,/main/java/org/apache/wss4j/common/cache/EHCacheReplayCache.java,35.0,47min 30s,47.5,45.46
+wss4j,/main/java/org/apache/wss4j/common/cache/EHCacheReplayCacheFactory.java,0.0,0,0.0,10.59
+wss4j,/main/java/org/apache/wss4j/binding/wss10/EmbeddedType.java,0.0,0,0.0,7.41
+wss4j,/main/java/org/apache/wss4j/binding/wss10/EncodedString.java,0.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/dom/processor/EncryptedAssertionProcessor.java,23.0,1h,60.0,19.32
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/EncryptedDataInputHandler.java,15.0,17min 30s,17.5,17.65
+wss4j,/main/java/org/apache/wss4j/dom/processor/EncryptedDataProcessor.java,13.0,40min,40.0,21.88
+wss4j,/main/java/org/apache/wss4j/policy/model/EncryptedElements.java,0.0,37min 30s,37.5,26.3
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/EncryptedElementsAssertionState.java,35.0,27min 30s,27.5,23.82
+wss4j,/main/java/org/apache/wss4j/policy/builders/EncryptedElementsBuilder.java,5.0,0,0.0,18.62
+wss4j,/main/java/org/apache/wss4j/binding/wss11/EncryptedHeaderType.java,0.0,40min,40.0,7.76
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/EncryptedKeyOutputProcessor.java,76.0,1h 42min,102.0,66.72
+wss4j,/main/java/org/apache/wss4j/dom/processor/EncryptedKeyProcessor.java,138.0,4h 25min,265.0,134.43
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/EncryptedKeySha1SecurityToken.java,10.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/EncryptedKeySha1SecurityTokenImpl.java,10.0,17min 30s,17.5,22.5
+wss4j,/main/java/org/apache/wss4j/dom/str/EncryptedKeySTRParser.java,40.0,1h 45min,105.0,36.35
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/EncryptedKeyTokenSecurityEvent.java,10.0,0,0.0,9.89
+wss4j,/main/java/org/apache/wss4j/policy/model/EncryptedParts.java,0.0,37min 30s,37.5,28.24
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/EncryptedPartsAssertionState.java,37.0,1h 22min,82.0,34.41
+wss4j,/main/java/org/apache/wss4j/policy/builders/EncryptedPartsBuilder.java,5.0,7min 30s,7.5,18.62
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/EncryptedPartSecurityEvent.java,10.0,0,0.0,12.18
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/EncryptEndingOutputProcessor.java,69.0,27min 30s,27.5,37.86
+wss4j,/main/java/org/apache/wss4j/dom/action/EncryptionAction.java,11.0,30min,30.0,27.27
+wss4j,/main/java/org/apache/wss4j/common/EncryptionActionToken.java,0.0,0,0.0,25.22
+wss4j,/main/java/org/apache/wss4j/dom/action/EncryptionDerivedAction.java,9.0,1h 7min,67.0,30.53
+wss4j,/main/java/org/apache/wss4j/policy/model/EncryptionToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/EncryptionTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/dom/util/EncryptionUtils.java,151.0,3h 52min,232.0,99.16
+wss4j,/main/java/org/apache/wss4j/dom/message/Encryptor.java,101.0,2h 20min,140.0,154.21
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/EncryptOutputProcessor.java,80.0,2h 57min,177.0,91.43
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/ExternalSecurityTokenImpl.java,10.0,10min,10.0,24.17
+wss4j,/main/java/org/apache/wss4j/dom/handler/HandlerAction.java,0.0,0,0.0,19.32
+wss4j,/main/java/org/apache/wss4j/policy/model/Header.java,2.0,40min,40.0,24.09
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/HttpsSecurityToken.java,10.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/HttpsSecurityTokenImpl.java,43.0,35min,35.0,42.44
+wss4j,/main/java/org/apache/wss4j/policy/model/HttpsToken.java,12.0,55min,55.0,43.76
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/HttpsTokenAssertionState.java,16.0,1h 5min,65.0,28.51
+wss4j,/main/java/org/apache/wss4j/policy/builders/HttpsTokenBuilder.java,45.0,15min,15.0,20.56
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/HttpsTokenSecurityEvent.java,18.0,0,0.0,16.41
+wss4j,/main/java/org/apache/wss4j/stax/setup/InboundWSSec.java,25.0,15min,15.0,32.9
+wss4j,/main/java/org/apache/wss4j/stax/impl/InboundWSSecurityContextImpl.java,96.0,5h 22min,322.0,190.97
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/IncludeTimeStampAssertionState.java,15.0,7min 30s,7.5,19.94
+wss4j,/main/java/org/apache/wss4j/common/util/InetAddressUtils.java,0.0,10min,10.0,18.0
+wss4j,/main/java/org/apache/wss4j/policy/model/InitiatorEncryptionToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/InitiatorEncryptionTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/policy/model/InitiatorSignatureToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/InitiatorSignatureTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/policy/model/InitiatorToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/InitiatorTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/policy/model/IssuedToken.java,77.0,2h 7min,127.0,56.02
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/IssuedTokenAssertionState.java,77.0,5h 20min,320.0,63.0
+wss4j,/main/java/org/apache/wss4j/policy/builders/IssuedTokenBuilder.java,25.0,15min,15.0,21.53
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/IssuedTokenSecurityEvent.java,10.0,7min 30s,7.5,14.12
+wss4j,/main/java/org/apache/wss4j/dom/validate/JAASUsernameTokenValidator.java,15.0,15min,15.0,16.14
+wss4j,/main/java/org/apache/wss4j/stax/validate/JAASUsernameTokenValidatorImpl.java,0.0,15min,15.0,20.64
+wss4j,/main/java/org/apache/wss4j/common/crypto/JasyptPasswordEncryptor.java,30.0,7min 30s,7.5,24.09
+wss4j,/main/java/org/apache/wss4j/common/kerberos/KerberosClientExceptionAction.java,0.0,15min,15.0,42.25
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/KerberosClientSecurityToken.java,55.0,47min 30s,47.5,34.49
+wss4j,/main/java/org/apache/wss4j/common/kerberos/KerberosContext.java,8.0,0,0.0,13.23
+wss4j,/main/java/org/apache/wss4j/common/kerberos/KerberosContextAndServiceNameCallback.java,0.0,0,0.0,23.55
+wss4j,/main/java/org/apache/wss4j/dom/message/token/KerberosSecurity.java,62.0,2h 17min,137.0,53.54
+wss4j,/main/java/org/apache/wss4j/common/kerberos/KerberosServiceContext.java,0.0,0,0.0,18.43
+wss4j,/main/java/org/apache/wss4j/common/kerberos/KerberosServiceExceptionAction.java,10.0,7min 30s,7.5,30.96
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/KerberosServiceSecurityToken.java,10.0,0,0.0,5.82
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/KerberosServiceSecurityTokenImpl.java,50.0,1h 32min,92.0,54.78
+wss4j,/main/java/org/apache/wss4j/policy/model/KerberosToken.java,65.0,1h 32min,92.0,46.67
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/KerberosTokenAssertionState.java,21.0,1h 5min,65.0,27.89
+wss4j,/main/java/org/apache/wss4j/policy/builders/KerberosTokenBuilder.java,45.0,15min,15.0,21.53
+wss4j,/main/java/org/apache/wss4j/common/kerberos/KerberosTokenDecoder.java,0.0,0,0.0,2.91
+wss4j,/main/java/org/apache/wss4j/common/kerberos/KerberosTokenDecoderException.java,0.0,0,0.0,16.68
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/KerberosTokenSecurityEvent.java,19.0,20min,20.0,22.15
+wss4j,/main/java/org/apache/wss4j/dom/validate/KerberosTokenValidator.java,37.0,50min,50.0,19.67
+wss4j,/main/java/org/apache/wss4j/binding/wss10/KeyIdentifierType.java,0.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/KeyInfoBean.java,35.0,2h 15min,135.0,17.11
+wss4j,/main/java/org/apache/wss4j/common/util/KeyUtils.java,51.0,1h 35min,95.0,40.5
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/KeyValueSecurityToken.java,10.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/policy/model/KeyValueToken.java,6.0,47min 30s,47.5,30.88
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/KeyValueTokenAssertionState.java,10.0,10min,10.0,24.09
+wss4j,/main/java/org/apache/wss4j/policy/builders/KeyValueTokenBuilder.java,5.0,7min 30s,7.5,21.53
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/KeyValueTokenSecurityEvent.java,10.0,0,0.0,9.89
+wss4j,/main/java/org/apache/wss4j/policy/model/Layout.java,14.0,47min 30s,47.5,48.53
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/LayoutAssertionState.java,10.0,17min 30s,17.5,28.24
+wss4j,/main/java/org/apache/wss4j/policy/builders/LayoutBuilder.java,5.0,0,0.0,21.53
+wss4j,/main/java/org/apache/wss4j/common/util/Loader.java,40.0,2h 5min,125.0,66.96
+wss4j,/main/java/org/apache/wss4j/common/util/Mapping.java,20.0,10min,10.0,22.93
+wss4j,/main/java/org/apache/wss4j/common/cache/MemoryReplayCache.java,10.0,27min 30s,27.5,14.74
+wss4j,/main/java/org/apache/wss4j/common/cache/MemoryReplayCacheFactory.java,0.0,0,0.0,10.59
+wss4j,/main/java/org/apache/wss4j/common/crypto/Merlin.java,755.0,7h 52min,472.0,233.78
+wss4j,/main/java/org/apache/wss4j/common/crypto/MerlinAKI.java,120.0,1h 17min,77.0,57.61
+wss4j,/main/java/org/apache/wss4j/common/crypto/MerlinDevice.java,73.0,1h 17min,77.0,40.85
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/NameIDBean.java,62.0,3h 12min,192.0,37.67
+wss4j,/main/java/org/apache/wss4j/common/NamePasswordCallbackHandler.java,16.0,30min,30.0,39.61
+wss4j,/main/java/org/apache/wss4j/dom/validate/NoOpValidator.java,0.0,0,0.0,7.06
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/NoSecuritySecurityEvent.java,10.0,0,0.0,9.27
+wss4j,/main/java/org/apache/wss4j/policy/model/NSStack.java,131.0,3h 15min,195.0,68.47
+wss4j,/main/java/org/apache/wss4j/common/util/NSStack.java,180.0,3h 12min,192.0,47.02
+wss4j,/main/java/org/apache/wss4j/binding/wss11/ObjectFactory.java,9.0,0,0.0,38.37
+wss4j,/main/java/org/apache/wss4j/binding/wss10/ObjectFactory.java,57.0,0,0.0,126.78
+wss4j,/main/java/org/apache/wss4j/binding/wssc13/ObjectFactory.java,12.0,0,0.0,58.74
+wss4j,/main/java/org/apache/wss4j/binding/wsu10/ObjectFactory.java,8.0,0,0.0,34.84
+wss4j,/main/java/org/apache/wss4j/binding/wssc200502/ObjectFactory.java,12.0,0,0.0,58.74
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/OnlySignEntireHeadersAndBodyAssertionState.java,10.0,1h 2min,62.0,20.91
+wss4j,/main/java/org/apache/wss4j/common/saml/OpenSAMLBootstrap.java,0.0,0,0.0,13.5
+wss4j,/main/java/org/apache/wss4j/common/saml/OpenSAMLUtil.java,75.0,45min,45.0,31.23
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/OperationInputProcessor.java,20.0,0,0.0,26.03
+wss4j,/main/java/org/apache/wss4j/policy/stax/OperationPolicy.java,0.0,10min,10.0,31.58
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/OperationSecurityEvent.java,10.0,0,0.0,9.0
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/OutboundUsernameSecurityToken.java,10.0,17min 30s,17.5,38.02
+wss4j,/main/java/org/apache/wss4j/stax/setup/OutboundWSSec.java,103.0,4h 27min,267.0,130.31
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/OutputProcessorUtils.java,0.0,0,0.0,15.09
+wss4j,/main/java/org/apache/wss4j/common/derivedKey/P_SHA1.java,17.0,10min,10.0,19.94
+wss4j,/main/java/org/apache/wss4j/binding/wss11/package-info.java,0.0,0,0.0,null
+wss4j,/main/java/org/apache/wss4j/binding/wss10/package-info.java,0.0,0,0.0,null
+wss4j,/main/java/org/apache/wss4j/binding/wssc13/package-info.java,0.0,0,0.0,null
+wss4j,/main/java/org/apache/wss4j/binding/wsu10/package-info.java,0.0,0,0.0,null
+wss4j,/main/java/org/apache/wss4j/binding/wssc200502/package-info.java,0.0,0,0.0,null
+wss4j,/main/java/org/apache/wss4j/common/crypto/PasswordEncryptor.java,0.0,0,0.0,0.97
+wss4j,/main/java/org/apache/wss4j/binding/wss10/PasswordString.java,0.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/common/token/PKIPathSecurity.java,30.0,17min 30s,17.5,9.35
+wss4j,/main/java/org/apache/wss4j/policy/stax/PolicyAsserter.java,0.0,0,0.0,13.15
+wss4j,/main/java/org/apache/wss4j/policy/stax/PolicyConstants.java,5.0,0,0.0,8.65
+wss4j,/main/java/org/apache/wss4j/policy/stax/enforcer/PolicyEnforcer.java,411.0,5h 17min,317.0,208.86
+wss4j,/main/java/org/apache/wss4j/policy/stax/enforcer/PolicyEnforcerFactory.java,25.0,2h 32min,152.0,115.57
+wss4j,/main/java/org/apache/wss4j/policy/stax/enforcer/PolicyInputProcessor.java,32.0,1h 57min,117.0,61.41
+wss4j,/main/java/org/apache/wss4j/policy/stax/PolicyUtils.java,0.0,10min,10.0,17.65
+wss4j,/main/java/org/apache/wss4j/policy/stax/PolicyViolationException.java,0.0,0,0.0,6.09
+wss4j,/main/java/org/apache/wss4j/dom/processor/Processor.java,0.0,0,0.0,8.38
+wss4j,/main/java/org/apache/wss4j/binding/wssc13/PropertiesType.java,0.0,10min,10.0,9.62
+wss4j,/main/java/org/apache/wss4j/binding/wssc200502/PropertiesType.java,0.0,10min,10.0,9.62
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/ProtectionOrderAssertionState.java,20.0,1h 50min,110.0,31.42
+wss4j,/main/java/org/apache/wss4j/policy/model/ProtectionToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/ProtectionTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/ProxyRestrictionBean.java,2.0,40min,40.0,9.7
+wss4j,/main/java/org/apache/wss4j/common/principal/PublicKeyPrincipal.java,0.0,0,0.0,3.88
+wss4j,/main/java/org/apache/wss4j/common/principal/PublicKeyPrincipalImpl.java,0.0,7min 30s,7.5,10.94
+wss4j,/main/java/org/apache/wss4j/policy/model/RecipientEncryptionToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/RecipientEncryptionTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/policy/model/RecipientSignatureToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/RecipientSignatureTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/policy/model/RecipientToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/RecipientTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/common/token/Reference.java,12.0,1h 7min,67.0,22.42
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/ReferenceListInputHandler.java,5.0,0,0.0,13.85
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/ReferenceListOutputProcessor.java,0.0,0,0.0,17.3
+wss4j,/main/java/org/apache/wss4j/dom/processor/ReferenceListProcessor.java,0.0,22min 30s,22.5,28.4
+wss4j,/main/java/org/apache/wss4j/binding/wss10/ReferenceType.java,0.0,0,0.0,5.82
+wss4j,/main/java/org/apache/wss4j/policy/model/RelToken.java,64.0,1h 32min,92.0,46.67
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/RelTokenAssertionState.java,10.0,10min,10.0,23.12
+wss4j,/main/java/org/apache/wss4j/policy/builders/RelTokenBuilder.java,25.0,7min 30s,7.5,21.53
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/RelTokenSecurityEvent.java,10.0,0,0.0,9.0
+wss4j,/main/java/org/apache/wss4j/common/cache/ReplayCache.java,0.0,0,0.0,3.8
+wss4j,/main/java/org/apache/wss4j/common/cache/ReplayCacheFactory.java,0.0,40min,40.0,28.94
+wss4j,/main/java/org/apache/wss4j/dom/handler/RequestData.java,35.0,1h,60.0,248.81
+wss4j,/main/java/org/apache/wss4j/policy/model/RequiredElements.java,0.0,1h 5min,65.0,36.0
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/RequiredElementsAssertionState.java,10.0,17min 30s,17.5,32.47
+wss4j,/main/java/org/apache/wss4j/policy/builders/RequiredElementsBuilder.java,5.0,0,0.0,18.62
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/RequiredElementSecurityEvent.java,10.0,0,0.0,9.27
+wss4j,/main/java/org/apache/wss4j/policy/model/RequiredParts.java,0.0,37min 30s,37.5,37.86
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/RequiredPartsAssertionState.java,10.0,25min,25.0,30.53
+wss4j,/main/java/org/apache/wss4j/policy/builders/RequiredPartsBuilder.java,11.0,0,0.0,25.06
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/RequiredPartSecurityEvent.java,10.0,0,0.0,9.27
+wss4j,/main/java/org/apache/wss4j/dom/resolvers/ResolverAttachment.java,2.0,20min,20.0,22.85
+wss4j,/main/java/org/apache/wss4j/stax/impl/resourceResolvers/ResolverAttachment.java,10.0,27min 30s,27.5,30.53
+wss4j,/main/java/org/apache/wss4j/stax/impl/resourceResolvers/ResolverSameDocument.java,20.0,30min,30.0,33.71
+wss4j,/main/java/org/apache/wss4j/stax/impl/resourceResolvers/ResolverXPointer.java,15.0,30min,30.0,32.47
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/RsaKeyValueSecurityToken.java,10.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/RsaKeyValueSecurityTokenImpl.java,30.0,55min,55.0,40.85
+wss4j,/main/java/org/apache/wss4j/common/saml/builder/SAML1ComponentBuilder.java,25.0,3h,180.0,53.19
+wss4j,/main/java/org/apache/wss4j/common/saml/builder/SAML1Constants.java,0.0,7min 30s,7.5,22.93
+wss4j,/main/java/org/apache/wss4j/common/saml/builder/SAML2ComponentBuilder.java,65.0,2h 45min,165.0,71.54
+wss4j,/main/java/org/apache/wss4j/common/saml/builder/SAML2Constants.java,0.0,7min 30s,7.5,77.25
+wss4j,/main/java/org/apache/wss4j/dom/validate/SamlAssertionValidator.java,78.0,1h 15min,75.0,63.24
+wss4j,/main/java/org/apache/wss4j/common/saml/SamlAssertionWrapper.java,253.0,7h 12min,432.0,120.85
+wss4j,/main/java/org/apache/wss4j/common/saml/SAMLCallback.java,24.0,1h 20min,80.0,58.47
+wss4j,/main/java/org/apache/wss4j/common/saml/SAMLKeyInfo.java,0.0,0,0.0,27.62
+wss4j,/main/java/org/apache/wss4j/common/saml/SAMLKeyInfoProcessor.java,0.0,0,0.0,5.82
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/SamlSecurityToken.java,10.0,0,0.0,3.88
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/SamlSecurityTokenImpl.java,15.0,3h 32min,212.0,71.46
+wss4j,/main/java/org/apache/wss4j/policy/model/SamlToken.java,71.0,1h 32min,92.0,46.67
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/SamlTokenAssertionState.java,19.0,1h 50min,110.0,27.89
+wss4j,/main/java/org/apache/wss4j/policy/builders/SamlTokenBuilder.java,45.0,15min,15.0,21.53
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/SAMLTokenInputHandler.java,273.0,6h 57min,417.0,151.33
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/SAMLTokenOutputProcessor.java,36.0,1h 37min,97.0,119.21
+wss4j,/main/java/org/apache/wss4j/common/principal/SAMLTokenPrincipal.java,0.0,0,0.0,7.76
+wss4j,/main/java/org/apache/wss4j/common/principal/SAMLTokenPrincipalImpl.java,0.0,17min 30s,17.5,15.44
+wss4j,/main/java/org/apache/wss4j/dom/processor/SAMLTokenProcessor.java,93.0,1h 45min,105.0,55.05
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/SamlTokenSecurityEvent.java,10.0,0,0.0,20.21
+wss4j,/main/java/org/apache/wss4j/dom/action/SAMLTokenSignedAction.java,0.0,30min,30.0,19.59
+wss4j,/main/java/org/apache/wss4j/dom/action/SAMLTokenUnsignedAction.java,0.0,7min 30s,7.5,16.06
+wss4j,/main/java/org/apache/wss4j/stax/validate/SamlTokenValidator.java,0.0,0,0.0,8.73
+wss4j,/main/java/org/apache/wss4j/stax/validate/SamlTokenValidatorImpl.java,75.0,1h 22min,82.0,61.03
+wss4j,/main/java/org/apache/wss4j/common/saml/SAMLUtil.java,28.0,2h 12min,132.0,27.0
+wss4j,/main/java/org/apache/wss4j/common/crypto/SantuarioUtil.java,0.0,0,0.0,10.59
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/SecureConversationSecurityToken.java,10.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/SecureConversationSecurityTokenImpl.java,10.0,7min 30s,7.5,17.65
+wss4j,/main/java/org/apache/wss4j/policy/model/SecureConversationToken.java,136.0,1h 40min,100.0,49.31
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/SecureConversationTokenAssertionState.java,10.0,7min 30s,7.5,13.5
+wss4j,/main/java/org/apache/wss4j/policy/builders/SecureConversationTokenBuilder.java,45.0,7min 30s,7.5,21.53
+wss4j,/main/java/org/apache/wss4j/common/SecurityActionToken.java,0.0,0,0.0,12.61
+wss4j,/main/java/org/apache/wss4j/dom/message/token/SecurityContextToken.java,42.0,1h 10min,70.0,57.42
+wss4j,/main/java/org/apache/wss4j/policy/model/SecurityContextToken.java,85.0,1h 40min,100.0,44.46
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/SecurityContextTokenAssertionState.java,10.0,35min,35.0,24.09
+wss4j,/main/java/org/apache/wss4j/policy/builders/SecurityContextTokenBuilder.java,45.0,15min,15.0,24.09
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/SecurityContextTokenInputHandler.java,10.0,27min 30s,27.5,16.68
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/SecurityContextTokenOutputProcessor.java,0.0,52min 30s,52.5,45.19
+wss4j,/main/java/org/apache/wss4j/dom/processor/SecurityContextTokenProcessor.java,0.0,7min 30s,7.5,21.88
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/SecurityContextTokenSecurityEvent.java,10.0,0,0.0,13.85
+wss4j,/main/java/org/apache/wss4j/binding/wssc13/SecurityContextTokenType.java,40.0,10min,10.0,7.41
+wss4j,/main/java/org/apache/wss4j/binding/wssc200502/SecurityContextTokenType.java,40.0,10min,10.0,7.41
+wss4j,/main/java/org/apache/wss4j/stax/validate/SecurityContextTokenValidator.java,0.0,0,0.0,8.73
+wss4j,/main/java/org/apache/wss4j/stax/validate/SecurityContextTokenValidatorImpl.java,0.0,17min 30s,17.5,17.03
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/SecurityHeaderInputProcessor.java,75.0,1h 50min,110.0,121.85
+wss4j,/main/java/org/apache/wss4j/stax/impl/SecurityHeaderOrder.java,0.0,0,0.0,18.7
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/SecurityHeaderOutputProcessor.java,58.0,1h 35min,95.0,44.65
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/SecurityHeaderReorderProcessor.java,90.0,1h 10min,70.0,28.59
+wss4j,/main/java/org/apache/wss4j/binding/wss10/SecurityHeaderType.java,20.0,10min,10.0,11.56
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/SecurityTokenFactoryImpl.java,92.0,1M/d,480.0,101.29
+wss4j,/main/java/org/apache/wss4j/common/token/SecurityTokenReference.java,188.0,1M/d,480.0,126.54
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/SecurityTokenReference.java,10.0,0,0.0,3.88
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/SecurityTokenReferenceImpl.java,10.0,7min 30s,7.5,45.27
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/SecurityTokenReferenceInputHandler.java,39.0,1h 12min,72.0,59.12
+wss4j,/main/java/org/apache/wss4j/binding/wss10/SecurityTokenReferenceType.java,20.0,0,0.0,10.32
+wss4j,/main/java/org/apache/wss4j/dom/str/SecurityTokenRefSTRParser.java,76.0,1h 32min,92.0,39.96
+wss4j,/main/java/org/apache/wss4j/dom/action/SignatureAction.java,41.0,57min 30s,57.5,31.15
+wss4j,/main/java/org/apache/wss4j/common/SignatureActionToken.java,0.0,0,0.0,15.52
+wss4j,/main/java/org/apache/wss4j/dom/message/token/SignatureConfirmation.java,2.0,27min 30s,27.5,17.73
+wss4j,/main/java/org/apache/wss4j/dom/action/SignatureConfirmationAction.java,0.0,17min 30s,17.5,23.47
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/SignatureConfirmationAssertionState.java,10.0,7min 30s,7.5,21.53
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/SignatureConfirmationInputHandler.java,5.0,0,0.0,22.15
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/SignatureConfirmationInputProcessor.java,32.0,17min 30s,17.5,30.53
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/SignatureConfirmationOutputProcessor.java,0.0,7min 30s,7.5,19.86
+wss4j,/main/java/org/apache/wss4j/dom/processor/SignatureConfirmationProcessor.java,0.0,0,0.0,16.76
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/SignatureConfirmationSecurityEvent.java,10.0,0,0.0,9.0
+wss4j,/main/java/org/apache/wss4j/binding/wss11/SignatureConfirmationType.java,0.0,0,0.0,2.91
+wss4j,/main/java/org/apache/wss4j/dom/action/SignatureDerivedAction.java,12.0,1h 42min,102.0,30.53
+wss4j,/main/java/org/apache/wss4j/common/SignatureEncryptionActionToken.java,0.0,25min,25.0,102.31
+wss4j,/main/java/org/apache/wss4j/dom/processor/SignatureProcessor.java,135.0,4h 15min,255.0,138.88
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/SignatureProtectionAssertionState.java,30.0,3h 2min,182.0,62.38
+wss4j,/main/java/org/apache/wss4j/dom/str/SignatureSTRParser.java,127.0,3h 42min,222.0,65.02
+wss4j,/main/java/org/apache/wss4j/policy/model/SignatureToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/SignatureTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/stax/validate/SignatureTokenValidator.java,0.0,0,0.0,6.79
+wss4j,/main/java/org/apache/wss4j/stax/validate/SignatureTokenValidatorImpl.java,0.0,0,0.0,13.15
+wss4j,/main/java/org/apache/wss4j/dom/validate/SignatureTrustValidator.java,0.0,20min,20.0,22.23
+wss4j,/main/java/org/apache/wss4j/dom/util/SignatureUtils.java,35.0,35min,35.0,36.35
+wss4j,/main/java/org/apache/wss4j/policy/model/SignedElements.java,0.0,37min 30s,37.5,26.3
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/SignedElementsAssertionState.java,35.0,27min 30s,27.5,27.62
+wss4j,/main/java/org/apache/wss4j/policy/builders/SignedElementsBuilder.java,10.0,15min,15.0,41.12
+wss4j,/main/java/org/apache/wss4j/policy/model/SignedParts.java,0.0,37min 30s,37.5,28.94
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/SignedPartsAssertionState.java,62.0,1h 42min,102.0,35.03
+wss4j,/main/java/org/apache/wss4j/policy/builders/SignedPartsBuilder.java,5.0,10min,10.0,25.06
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/SignedPartSecurityEvent.java,10.0,0,0.0,12.18
+wss4j,/main/java/org/apache/wss4j/dom/SOAP11Constants.java,0.0,0,0.0,19.59
+wss4j,/main/java/org/apache/wss4j/dom/SOAP12Constants.java,0.0,7min 30s,7.5,20.56
+wss4j,/main/java/org/apache/wss4j/dom/SOAPConstants.java,10.0,0,0.0,13.85
+wss4j,/main/java/org/apache/wss4j/policy/SP11Constants.java,90.0,3h 37min,217.0,440.65
+wss4j,/main/java/org/apache/wss4j/policy/SP12Constants.java,80.0,3h 37min,217.0,482.01
+wss4j,/main/java/org/apache/wss4j/policy/SP13Constants.java,0.0,7min 30s,7.5,48.18
+wss4j,/main/java/org/apache/wss4j/policy/SPConstants.java,75.0,7min 30s,7.5,421.55
+wss4j,/main/java/org/apache/wss4j/common/spnego/SpnegoClientAction.java,0.0,0,0.0,4.85
+wss4j,/main/java/org/apache/wss4j/policy/model/SpnegoContextToken.java,130.0,1h 40min,100.0,44.46
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/SpnegoContextTokenAssertionState.java,10.0,10min,10.0,23.12
+wss4j,/main/java/org/apache/wss4j/policy/builders/SpnegoContextTokenBuilder.java,45.0,7min 30s,7.5,21.53
+wss4j,/main/java/org/apache/wss4j/common/spnego/SpnegoServiceAction.java,0.0,0,0.0,4.85
+wss4j,/main/java/org/apache/wss4j/common/spnego/SpnegoTokenContext.java,82.0,1h 7min,67.0,61.03
+wss4j,/main/java/org/apache/wss4j/policy/SPUtils.java,18.0,2h,120.0,103.53
+wss4j,/main/java/org/apache/wss4j/dom/str/STRParser.java,0.0,0,0.0,2.56
+wss4j,/main/java/org/apache/wss4j/dom/str/STRParserParameters.java,0.0,0,0.0,18.0
+wss4j,/main/java/org/apache/wss4j/dom/str/STRParserResult.java,0.0,0,0.0,22.23
+wss4j,/main/java/org/apache/wss4j/dom/str/STRParserUtil.java,50.0,2h 25min,145.0,32.12
+wss4j,/main/java/org/apache/wss4j/dom/transform/STRTransform.java,41.0,1h,60.0,60.87
+wss4j,/main/java/org/apache/wss4j/stax/impl/transformer/STRTransformer.java,0.0,0,0.0,12.18
+wss4j,/main/java/org/apache/wss4j/dom/transform/STRTransformProvider.java,0.0,0,0.0,5.12
+wss4j,/main/java/org/apache/wss4j/dom/transform/STRTransformUtil.java,5.0,1h 12min,72.0,30.61
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/SubjectAndPrincipalSecurityToken.java,10.0,0,0.0,10.94
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/SubjectBean.java,49.0,2h 45min,165.0,19.94
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/SubjectConfirmationDataBean.java,101.0,3h 42min,222.0,15.79
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/SubjectLocalityBean.java,20.0,1h 27min,87.0,8.73
+wss4j,/main/java/org/apache/wss4j/policy/model/SupportingTokens.java,178.0,4h 12min,252.0,83.99
+wss4j,/main/java/org/apache/wss4j/policy/builders/SupportingTokensBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/policy/model/SymmetricBinding.java,76.0,1h 50min,110.0,39.61
+wss4j,/main/java/org/apache/wss4j/policy/builders/SymmetricBindingBuilder.java,5.0,0,0.0,21.53
+wss4j,/main/java/org/apache/wss4j/common/crypto/ThreadLocalSecurityProvider.java,71.0,3h 40min,220.0,66.64
+wss4j,/main/java/org/apache/wss4j/dom/message/token/Timestamp.java,59.0,1h 55min,115.0,43.14
+wss4j,/main/java/org/apache/wss4j/dom/action/TimestampAction.java,0.0,0,0.0,14.82
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/TimestampInputHandler.java,47.0,55min,55.0,41.39
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/TimestampOutputProcessor.java,0.0,7min 30s,7.5,17.03
+wss4j,/main/java/org/apache/wss4j/dom/processor/TimestampProcessor.java,0.0,7min 30s,7.5,16.76
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/TimestampSecurityEvent.java,10.0,0,0.0,13.85
+wss4j,/main/java/org/apache/wss4j/binding/wsu10/TimestampType.java,20.0,0,0.0,9.35
+wss4j,/main/java/org/apache/wss4j/dom/validate/TimestampValidator.java,8.0,7min 30s,7.5,9.97
+wss4j,/main/java/org/apache/wss4j/stax/validate/TimestampValidator.java,0.0,0,0.0,6.79
+wss4j,/main/java/org/apache/wss4j/stax/validate/TimestampValidatorImpl.java,108.0,25min,25.0,17.65
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/TokenAssertionState.java,318.0,5h,300.0,56.91
+wss4j,/main/java/org/apache/wss4j/stax/validate/TokenContext.java,0.0,0,0.0,25.41
+wss4j,/main/java/org/apache/wss4j/common/token/TokenElementCallback.java,0.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/TokenProtectionAssertionState.java,111.0,3h 57min,237.0,96.9
+wss4j,/main/java/org/apache/wss4j/binding/wss10/TransformationParametersType.java,20.0,10min,10.0,11.56
+wss4j,/main/java/org/apache/wss4j/policy/model/TransportBinding.java,6.0,47min 30s,47.5,34.41
+wss4j,/main/java/org/apache/wss4j/policy/builders/TransportBindingBuilder.java,5.0,0,0.0,21.53
+wss4j,/main/java/org/apache/wss4j/policy/model/TransportToken.java,0.0,37min 30s,37.5,25.33
+wss4j,/main/java/org/apache/wss4j/policy/builders/TransportTokenBuilder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/policy/model/Trust10.java,139.0,1h 57min,117.0,69.52
+wss4j,/main/java/org/apache/wss4j/policy/builders/Trust10Builder.java,5.0,0,0.0,18.62
+wss4j,/main/java/org/apache/wss4j/policy/model/Trust13.java,96.0,1h 32min,92.0,44.46
+wss4j,/main/java/org/apache/wss4j/policy/builders/Trust13Builder.java,5.0,0,0.0,18.62
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/UsernameSecurityToken.java,10.0,0,0.0,19.4
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/UsernameSecurityTokenImpl.java,30.0,32min 30s,32.5,77.09
+wss4j,/main/java/org/apache/wss4j/dom/message/token/UsernameToken.java,133.0,5h 52min,352.0,115.3
+wss4j,/main/java/org/apache/wss4j/policy/model/UsernameToken.java,129.0,2h,120.0,65.99
+wss4j,/main/java/org/apache/wss4j/dom/action/UsernameTokenAction.java,0.0,7min 30s,7.5,16.06
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/UsernameTokenAssertionState.java,43.0,2h 20min,140.0,32.39
+wss4j,/main/java/org/apache/wss4j/policy/builders/UsernameTokenBuilder.java,45.0,15min,15.0,24.09
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/UsernameTokenInputHandler.java,29.0,1h 17min,77.0,39.88
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/UsernameTokenOutputProcessor.java,15.0,37min 30s,37.5,56.56
+wss4j,/main/java/org/apache/wss4j/common/principal/UsernameTokenPrincipal.java,0.0,0,0.0,11.64
+wss4j,/main/java/org/apache/wss4j/dom/processor/UsernameTokenProcessor.java,30.0,1h 7min,67.0,22.85
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/UsernameTokenSecurityEvent.java,10.0,0,0.0,13.15
+wss4j,/main/java/org/apache/wss4j/dom/action/UsernameTokenSignedAction.java,5.0,30min,30.0,16.41
+wss4j,/main/java/org/apache/wss4j/binding/wss10/UsernameTokenType.java,20.0,0,0.0,8.38
+wss4j,/main/java/org/apache/wss4j/common/util/UsernameTokenUtil.java,30.0,27min 30s,27.5,9.35
+wss4j,/main/java/org/apache/wss4j/dom/validate/UsernameTokenValidator.java,0.0,30min,30.0,13.58
+wss4j,/main/java/org/apache/wss4j/stax/validate/UsernameTokenValidator.java,0.0,0,0.0,7.76
+wss4j,/main/java/org/apache/wss4j/stax/validate/UsernameTokenValidatorImpl.java,37.0,37min 30s,37.5,41.9
+wss4j,/main/java/org/apache/wss4j/dom/validate/Validator.java,0.0,0,0.0,1.59
+wss4j,/main/java/org/apache/wss4j/stax/validate/Validator.java,0.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/common/saml/bean/Version.java,0.0,0,0.0,0.97
+wss4j,/main/java/org/apache/wss4j/dom/WSConstants.java,30.0,7min 30s,7.5,36.16
+wss4j,/main/java/org/apache/wss4j/common/util/WSCurrentTimeSource.java,0.0,0,0.0,7.06
+wss4j,/main/java/org/apache/wss4j/dom/WSDataRef.java,0.0,7min 30s,7.5,16.49
+wss4j,/main/java/org/apache/wss4j/common/principal/WSDerivedKeyTokenPrincipal.java,0.0,15min,15.0,41.98
+wss4j,/main/java/org/apache/wss4j/dom/WSDocInfo.java,41.0,2h 30min,150.0,58.5
+wss4j,/main/java/org/apache/wss4j/common/WSEncryptionPart.java,0.0,7min 30s,7.5,22.23
+wss4j,/main/java/org/apache/wss4j/dom/handler/WSHandler.java,269.0,1M/d 2h,600.0,288.89
+wss4j,/main/java/org/apache/wss4j/dom/handler/WSHandlerConstants.java,0.0,15min,15.0,9.62
+wss4j,/main/java/org/apache/wss4j/dom/handler/WSHandlerResult.java,0.0,0,0.0,11.64
+wss4j,/main/java/org/apache/wss4j/stax/ext/WSInboundSecurityContext.java,0.0,0,0.0,7.41
+wss4j,/main/java/org/apache/wss4j/common/ext/WSPasswordCallback.java,45.0,15min,15.0,42.17
+wss4j,/main/java/org/apache/wss4j/common/crypto/WSProviderConfig.java,212.0,1h 35min,95.0,43.33
+wss4j,/main/java/org/apache/wss4j/policy/model/Wss10.java,96.0,1h 32min,92.0,56.99
+wss4j,/main/java/org/apache/wss4j/policy/builders/WSS10Builder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/policy/model/Wss11.java,68.0,1h 22min,82.0,39.61
+wss4j,/main/java/org/apache/wss4j/policy/builders/WSS11Builder.java,5.0,0,0.0,20.56
+wss4j,/main/java/org/apache/wss4j/common/WSS4JConstants.java,0.0,7min 30s,7.5,173.28
+wss4j,/main/java/org/apache/wss4j/common/crypto/WSS4JResourceBundle.java,0.0,0,0.0,13.85
+wss4j,/main/java/org/apache/wss4j/dom/engine/WSSConfig.java,57.0,5h 42min,342.0,75.26
+wss4j,/main/java/org/apache/wss4j/stax/ext/WSSConfigurationException.java,0.0,0,0.0,28.59
+wss4j,/main/java/org/apache/wss4j/stax/ext/WSSConstants.java,24.0,7min 30s,7.5,184.76
+wss4j,/main/java/org/apache/wss4j/stax/ext/WSSCrypto.java,2.0,17min 30s,17.5,49.31
+wss4j,/main/java/org/apache/wss4j/stax/setup/WSSec.java,220.0,3h 25min,205.0,73.43
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecBase.java,40.0,42min 30s,42.5,58.69
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecDerivedKeyBase.java,53.0,1h 15min,75.0,59.28
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecDKEncrypt.java,0.0,15min,15.0,55.4
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecDKSign.java,40.0,1h,60.0,87.33
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecEncrypt.java,41.0,1h 22min,82.0,62.46
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecEncryptedKey.java,246.0,4h,240.0,131.36
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecHeader.java,18.0,27min 30s,27.5,24.44
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecSAMLToken.java,20.0,40min,40.0,18.35
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecSecurityContextToken.java,5.0,17min 30s,17.5,31.58
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecSignature.java,98.0,2h 30min,150.0,122.09
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecSignatureBase.java,100.0,1h 25min,85.0,63.97
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecSignatureConfirmation.java,0.0,10min,10.0,12.88
+wss4j,/main/java/org/apache/wss4j/dom/saml/WSSecSignatureSAML.java,43.0,2h 10min,130.0,66.96
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecTimestamp.java,0.0,20min,20.0,23.55
+wss4j,/main/java/org/apache/wss4j/dom/engine/WSSecurityEngine.java,43.0,50min,50.0,16.41
+wss4j,/main/java/org/apache/wss4j/dom/engine/WSSecurityEngineResult.java,0.0,7min 30s,7.5,66.53
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/WSSecurityEventConstants.java,10.0,7min 30s,7.5,18.08
+wss4j,/main/java/org/apache/wss4j/common/ext/WSSecurityException.java,15.0,7min 30s,7.5,66.53
+wss4j,/main/java/org/apache/wss4j/stax/impl/WSSecurityStreamReader.java,0.0,10min,10.0,16.14
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/WSSecurityTokenConstants.java,10.0,7min 30s,7.5,31.66
+wss4j,/main/java/org/apache/wss4j/dom/util/WSSecurityUtil.java,105.0,5h,300.0,128.45
+wss4j,/main/java/org/apache/wss4j/dom/message/WSSecUsernameToken.java,30.0,47min 30s,47.5,39.07
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/WSSEncryptedKeyInputHandler.java,2.0,0,0.0,30.88
+wss4j,/main/java/org/apache/wss4j/common/WSSPolicyException.java,0.0,0,0.0,12.8
+wss4j,/main/java/org/apache/wss4j/dom/saml/WSSSAMLKeyInfoProcessor.java,0.0,1h 5min,65.0,77.58
+wss4j,/main/java/org/apache/wss4j/stax/ext/WSSSecurityProperties.java,135.0,3h 25min,205.0,334.23
+wss4j,/main/java/org/apache/wss4j/web/WssServletContextListener.java,5.0,0,0.0,12.18
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/WSSSignatureEndingOutputProcessor.java,110.0,1h 30min,90.0,71.65
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/WSSSignatureInputHandler.java,2.0,22min 30s,22.5,53.92
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/output/WSSSignatureOutputProcessor.java,85.0,1h 35min,95.0,61.52
+wss4j,/main/java/org/apache/wss4j/stax/impl/processor/input/WSSSignatureReferenceVerifyInputProcessor.java,105.0,1h 37min,97.0,110.83
+wss4j,/main/java/org/apache/wss4j/stax/utils/WSSUtils.java,64.0,5h 42min,342.0,231.79
+wss4j,/main/java/org/apache/wss4j/common/util/WSTimeSource.java,0.0,0,0.0,0.97
+wss4j,/main/java/org/apache/wss4j/dom/WsuIdAllocator.java,0.0,0,0.0,9.97
+wss4j,/main/java/org/apache/wss4j/common/principal/WSUsernameTokenPrincipalImpl.java,2.0,2h,120.0,14.55
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/X509DefaultSecurityTokenImpl.java,10.0,15min,15.0,15.79
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/X509IssuerSerialTokenImpl.java,15.0,25min,25.0,19.32
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/X509PKIPathv1SecurityTokenImpl.java,10.0,22min 30s,22.5,24.44
+wss4j,/main/java/org/apache/wss4j/common/token/X509Security.java,0.0,17min 30s,17.5,7.76
+wss4j,/main/java/org/apache/wss4j/stax/securityToken/X509SecurityToken.java,10.0,0,0.0,1.94
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/X509SecurityTokenImpl.java,60.0,1h 52min,112.0,65.1
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/X509SKISecurityTokenImpl.java,30.0,25min,25.0,19.32
+wss4j,/main/java/org/apache/wss4j/common/crypto/X509SubjectPublicKeyInfo.java,8.0,0,0.0,8.03
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/X509ThumbprintSHA1SecurityTokenImpl.java,30.0,25min,25.0,19.32
+wss4j,/main/java/org/apache/wss4j/policy/model/X509Token.java,163.0,2h 42min,162.0,73.05
+wss4j,/main/java/org/apache/wss4j/policy/stax/assertionStates/X509TokenAssertionState.java,47.0,3h 7min,187.0,35.92
+wss4j,/main/java/org/apache/wss4j/policy/builders/X509TokenBuilder.java,45.0,15min,15.0,21.53
+wss4j,/main/java/org/apache/wss4j/stax/securityEvent/X509TokenSecurityEvent.java,10.0,0,0.0,9.89
+wss4j,/main/java/org/apache/wss4j/dom/util/X509Util.java,0.0,37min 30s,37.5,40.93
+wss4j,/main/java/org/apache/wss4j/stax/impl/securityToken/X509V3SecurityTokenImpl.java,10.0,22min 30s,22.5,24.79
+wss4j,/main/java/org/apache/wss4j/common/util/XMLUtils.java,129.0,5h 40min,340.0,94.42
+wss4j,/main/java/org/apache/wss4j/policy/model/XPath.java,12.0,50min,50.0,35.73

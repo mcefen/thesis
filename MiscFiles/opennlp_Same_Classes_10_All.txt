@@ -1,0 +1,25 @@
+Compare All Three
+
+/main/java/opennlp/tools/stemmer/snowball/turkishStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/frenchStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/englishStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/italianStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/portugueseStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/spanishStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/romanianStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/porterStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/hungarianStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/germanStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/dutchStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/finnishStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/russianStemmer.java
+/main/java/opennlp/tools/stemmer/snowball/SnowballProgram.java
+/main/java/opennlp/tools/stemmer/PorterStemmer.java
+/main/java/opennlp/tools/parser/treeinsert/Parser.java
+/main/java/opennlp/tools/parser/Parse.java
+/main/java/opennlp/tools/parser/AbstractContextGenerator.java
+/main/java/opennlp/tools/ml/maxent/GISTrainer.java
+/main/java/opennlp/tools/parser/AbstractBottomUpParser.java
+/main/java/opennlp/tools/formats/ad/ADSentenceStream.java
+/main/java/opennlp/tools/ml/perceptron/SimplePerceptronSequenceTrainer.java
+/main/java/opennlp/tools/cmdline/FineGrainedReportListener.java

@@ -1,0 +1,16 @@
+Compare Squore With Cast
+
+/main/java/org/apache/mina/integration/jmx/ObjectMBean.java
+/main/java/org/apache/mina/core/buffer/AbstractIoBuffer.java
+/main/java/org/apache/mina/core/session/AbstractIoSession.java
+/main/java/org/apache/mina/util/byteaccess/CompositeByteArray.java
+/main/java/org/apache/mina/core/polling/AbstractPollingIoProcessor.java
+/main/java/org/apache/mina/filter/ssl/SslHandler.java
+/main/java/org/apache/mina/filter/executor/UnorderedThreadPoolExecutor.java
+/main/java/org/apache/mina/transport/socket/nio/NioDatagramAcceptor.java
+/main/java/org/apache/mina/filter/executor/OrderedThreadPoolExecutor.java
+/main/java/org/apache/mina/core/filterchain/DefaultIoFilterChain.java
+/main/java/org/apache/mina/core/filterchain/DefaultIoFilterChainBuilder.java
+/main/java/org/apache/mina/filter/ssl/SslFilter.java
+/main/java/org/apache/mina/transport/socket/nio/NioProcessor.java
+/main/java/org/apache/mina/core/polling/AbstractPollingIoAcceptor.java

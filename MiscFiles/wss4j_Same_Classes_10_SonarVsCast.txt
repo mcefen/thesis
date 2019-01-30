@@ -1,0 +1,22 @@
+Compare Sonar With Cast
+
+/main/java/org/apache/wss4j/common/crypto/Merlin.java
+/main/java/org/apache/wss4j/policy/stax/enforcer/PolicyEnforcer.java
+/main/java/org/apache/wss4j/stax/impl/processor/input/SAMLTokenInputHandler.java
+/main/java/org/apache/wss4j/dom/handler/WSHandler.java
+/main/java/org/apache/wss4j/common/saml/SamlAssertionWrapper.java
+/main/java/org/apache/wss4j/policy/model/AlgorithmSuite.java
+/main/java/org/apache/wss4j/dom/message/WSSecEncryptedKey.java
+/main/java/org/apache/wss4j/common/util/AttachmentUtils.java
+/main/java/org/apache/wss4j/common/token/SecurityTokenReference.java
+/main/java/org/apache/wss4j/policy/model/SupportingTokens.java
+/main/java/org/apache/wss4j/dom/util/EncryptionUtils.java
+/main/java/org/apache/wss4j/stax/setup/ConfigurationConverter.java
+/main/java/org/apache/wss4j/dom/processor/EncryptedKeyProcessor.java
+/main/java/org/apache/wss4j/dom/processor/SignatureProcessor.java
+/main/java/org/apache/wss4j/stax/ext/WSSSecurityProperties.java
+/main/java/org/apache/wss4j/policy/model/DOM2Writer.java
+/main/java/org/apache/wss4j/dom/message/token/UsernameToken.java
+/main/java/org/apache/wss4j/common/util/XMLUtils.java
+/main/java/org/apache/wss4j/common/util/DOM2Writer.java
+/main/java/org/apache/wss4j/policy/stax/assertionStates/TokenProtectionAssertionState.java

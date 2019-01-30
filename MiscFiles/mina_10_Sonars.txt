@@ -1,0 +1,24 @@
+Total Sonar Classes
+
+/main/java/org/apache/mina/integration/jmx/ObjectMBean.java
+/main/java/org/apache/mina/core/buffer/AbstractIoBuffer.java
+/main/java/org/apache/mina/core/filterchain/DefaultIoFilterChain.java
+/main/java/org/apache/mina/core/filterchain/IoFilter.java
+/main/java/org/apache/mina/example/chat/client/SwingChatClient.java
+/main/java/org/apache/mina/example/imagine/step1/client/GraphicalCharGenClient.java
+/main/java/org/apache/mina/example/chat/client/ConnectDialog.java
+/main/java/org/apache/mina/core/polling/AbstractPollingIoProcessor.java
+/main/java/org/apache/mina/transport/socket/nio/NioDatagramAcceptor.java
+/main/java/org/apache/mina/handler/demux/DemuxingIoHandler.java
+/main/java/org/apache/mina/proxy/handlers/http/ntlm/NTLMUtilities.java
+/main/java/org/apache/mina/core/service/IoHandler.java
+/main/java/org/apache/mina/handler/multiton/SingleSessionIoHandler.java
+/main/java/org/apache/mina/core/polling/AbstractPollingIoConnector.java
+/main/java/org/apache/mina/filter/executor/UnorderedThreadPoolExecutor.java
+/main/java/org/apache/mina/core/polling/AbstractPollingIoAcceptor.java
+/main/java/org/apache/mina/example/tcp/perf/TcpServer.java
+/main/java/org/apache/mina/example/tcp/perf/TcpSslServer.java
+/main/java/org/apache/mina/example/udp/perf/UdpServer.java
+/main/java/org/apache/mina/filter/executor/OrderedThreadPoolExecutor.java
+/main/java/org/apache/mina/core/service/IoServiceListener.java
+/main/java/org/apache/mina/example/tcp/perf/TcpClient.java

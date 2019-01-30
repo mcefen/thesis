@@ -1,0 +1,19 @@
+Compare All Three
+
+/main/java/org/apache/pdfbox/pdfparser/COSParser.java
+/main/java/org/apache/pdfbox/debugger/PDFDebugger.java
+/main/java/org/apache/fontbox/cff/CFFParser.java
+/main/java/org/apache/pdfbox/pdfparser/BaseParser.java
+/main/java/org/apache/fontbox/ttf/TTFSubsetter.java
+/main/java/org/apache/pdfbox/pdmodel/font/FileSystemFontProvider.java
+/main/java/org/apache/fontbox/cmap/CMapParser.java
+/main/java/org/apache/pdfbox/text/PDFTextStripper.java
+/main/java/org/apache/pdfbox/preflight/parser/PreflightParser.java
+/main/java/org/apache/fontbox/type1/Type1Parser.java
+/main/java/org/apache/pdfbox/filter/CCITTFaxDecoderStream.java
+/main/java/org/apache/pdfbox/pdfwriter/COSWriter.java
+/main/java/org/apache/xmpbox/schema/XMPSchema.java
+/main/java/org/apache/fontbox/ttf/GlyphSubstitutionTable.java
+/main/java/org/apache/pdfbox/pdmodel/encryption/StandardSecurityHandler.java
+/main/java/org/apache/pdfbox/multipdf/PDFMergerUtility.java
+/main/java/org/apache/pdfbox/pdmodel/graphics/image/SampledImageReader.java

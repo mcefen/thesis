@@ -1,0 +1,23 @@
+Compare Sonar With Squore
+
+/main/java/org/apache/maven/model/merge/ModelMerger.java
+/main/java/org/apache/maven/project/MavenProject.java
+/main/java/org/apache/maven/cli/MavenCli.java
+/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java
+/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java
+/main/java/org/apache/maven/repository/legacy/LegacyRepositorySystem.java
+/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+/main/java/org/apache/maven/bridge/MavenRepositorySystem.java
+/main/java/org/apache/maven/artifact/versioning/ComparableVersion.java
+/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+/main/java/org/apache/maven/artifact/versioning/VersionRange.java
+/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+/main/java/org/apache/maven/plugin/PluginParameterExpressionEvaluator.java
+/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+/main/java/org/apache/maven/lifecycle/internal/builder/multithreaded/ThreadOutputMuxer.java
+/main/java/org/apache/maven/repository/DefaultMirrorSelector.java
+/main/java/org/apache/maven/RepositoryUtils.java
+/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java

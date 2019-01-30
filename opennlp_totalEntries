@@ -1,0 +1,701 @@
+opennlp,/main/java/opennlp/tools/parser/AbstractBottomUpParser.java,261.0,4h 22min,262.0,127.0
+opennlp,/main/java/opennlp/tools/parser/AbstractContextGenerator.java,290.0,3h 14min,194.0,90.89
+opennlp,/main/java/opennlp/tools/cmdline/AbstractConverterTool.java,30.0,45min,45.0,33.01
+opennlp,/main/java/opennlp/tools/cmdline/AbstractCrossValidatorTool.java,0.0,15min,15.0,7.68
+opennlp,/main/java/opennlp/tools/ml/model/AbstractDataIndexer.java,79.0,52min,52.0,63.89
+opennlp,/main/java/opennlp/uima/doccat/AbstractDocumentCategorizer.java,10.0,0,0.0,24.44
+opennlp,/main/java/opennlp/tools/cmdline/AbstractEvaluatorTool.java,0.0,15min,15.0,13.77
+opennlp,/main/java/opennlp/tools/ml/AbstractEventModelSequenceTrainer.java,0.0,7min 30s,7.5,20.56
+opennlp,/main/java/opennlp/tools/util/AbstractEventStream.java,5.0,37min 30s,37.5,28.59
+opennlp,/main/java/opennlp/tools/ml/AbstractEventTrainer.java,17.0,15min,15.0,48.26
+opennlp,/main/java/opennlp/tools/ml/model/AbstractModel.java,8.0,1h,60.0,33.71
+opennlp,/main/java/opennlp/tools/ml/model/AbstractModelReader.java,2.0,17min,17.0,64.32
+opennlp,/main/java/opennlp/uima/util/AbstractModelResource.java,0.0,7min 30s,7.5,17.65
+opennlp,/main/java/opennlp/tools/ml/model/AbstractModelWriter.java,10.0,7min 30s,7.5,31.15
+opennlp,/main/java/opennlp/uima/namefind/AbstractNameFinder.java,19.0,30min,30.0,40.23
+opennlp,/main/java/opennlp/tools/util/AbstractObjectStream.java,5.0,0,0.0,21.45
+opennlp,/main/java/opennlp/tools/parser/AbstractParserEventStream.java,30.0,42min 30s,42.5,112.88
+opennlp,/main/java/opennlp/tools/formats/AbstractSampleStreamFactory.java,0.0,7min 30s,7.5,12.45
+opennlp,/main/java/opennlp/uima/sentdetect/AbstractSentenceDetector.java,0.0,17min 30s,17.5,27.97
+opennlp,/main/java/opennlp/tools/ml/AbstractSequenceTrainer.java,0.0,7min 30s,7.5,20.56
+opennlp,/main/java/opennlp/tools/stemmer/snowball/AbstractSnowballStemmer.java,0.0,7min 30s,7.5,11.21
+opennlp,/main/java/opennlp/uima/tokenize/AbstractTokenizer.java,0.0,25min,25.0,35.03
+opennlp,/main/java/opennlp/tools/tokenize/AbstractTokenizer.java,0.0,7min 30s,7.5,11.83
+opennlp,/main/java/opennlp/tools/formats/convert/AbstractToSentenceSampleStream.java,2.0,47min 30s,47.5,27.35
+opennlp,/main/java/opennlp/tools/ml/AbstractTrainer.java,110.0,56min,56.0,60.17
+opennlp,/main/java/opennlp/tools/cmdline/AbstractTrainerTool.java,0.0,25min,25.0,11.21
+opennlp,/main/java/opennlp/tools/cmdline/AbstractTypedParamTool.java,0.0,20min,20.0,7.06
+opennlp,/main/java/opennlp/tools/util/featuregen/AdaptiveFeatureGenerator.java,4.0,0,0.0,2.83
+opennlp,/main/java/opennlp/tools/formats/ad/ADChunkSampleStream.java,38.0,1h 47min,107.0,116.84
+opennlp,/main/java/opennlp/tools/formats/ad/ADChunkSampleStreamFactory.java,5.0,7min 30s,7.5,30.53
+opennlp,/main/java/opennlp/tools/util/featuregen/AdditionalContextFeatureGenerator.java,0.0,0,0.0,10.94
+opennlp,/main/java/opennlp/tools/formats/ad/ADNameSampleStream.java,153.0,2h 47min,167.0,91.51
+opennlp,/main/java/opennlp/tools/formats/ad/ADNameSampleStreamFactory.java,5.0,7min 30s,7.5,31.15
+opennlp,/main/java/opennlp/tools/formats/ad/ADPOSSampleStream.java,15.0,28min 30s,28.5,54.81
+opennlp,/main/java/opennlp/tools/formats/ad/ADPOSSampleStreamFactory.java,0.0,7min 30s,7.5,33.09
+opennlp,/main/java/opennlp/tools/formats/ad/ADSentenceSampleStream.java,37.0,37min,37.0,443.2
+opennlp,/main/java/opennlp/tools/formats/ad/ADSentenceSampleStreamFactory.java,0.0,7min 30s,7.5,28.59
+opennlp,/main/java/opennlp/tools/formats/ad/ADSentenceStream.java,194.0,4h 40min,280.0,580.87
+opennlp,/main/java/opennlp/tools/formats/ad/ADTokenSampleStreamFactory.java,0.0,7min 30s,7.5,15.71
+opennlp,/main/java/opennlp/tools/util/normalizer/AggregateCharSequenceNormalizer.java,10.0,0,0.0,19.24
+opennlp,/main/java/opennlp/tools/util/featuregen/AggregatedFeatureGenerator.java,0.0,0,0.0,73.08
+opennlp,/main/java/opennlp/tools/stemmer/snowball/Among.java,26.0,7min 30s,7.5,36.62
+opennlp,/main/java/opennlp/tools/parser/lang/es/AncoraSpanishHeadRules.java,142.0,4h 42min,282.0,115.98
+opennlp,/main/java/opennlp/uima/util/AnnotationComboIterator.java,10.0,52min 30s,52.5,62.14
+opennlp,/main/java/opennlp/uima/util/AnnotationComparator.java,0.0,0,0.0,7.06
+opennlp,/main/java/opennlp/tools/formats/brat/AnnotationConfiguration.java,12.0,25min,25.0,39.18
+opennlp,/main/java/opennlp/uima/util/AnnotationIteratorPair.java,0.0,0,0.0,11.56
+opennlp,/main/java/opennlp/tools/formats/brat/AnnotatorNoteAnnotation.java,0.0,0,0.0,10.94
+opennlp,/main/java/opennlp/uima/util/AnnotatorUtil.java,25.0,2h 57min,177.0,109.67
+opennlp,/main/java/opennlp/tools/cmdline/ArgumentParser.java,115.0,2h 25min,145.0,165.13
+opennlp,/main/java/opennlp/tools/ml/maxent/quasinewton/ArrayMath.java,30.0,14min,14.0,27.97
+opennlp,/main/java/opennlp/tools/util/model/ArtifactProvider.java,0.0,0,0.0,4.5
+opennlp,/main/java/opennlp/tools/util/model/ArtifactSerializer.java,0.0,0,0.0,5.12
+opennlp,/main/java/opennlp/tools/util/featuregen/ArtifactToSerializerMapper.java,20.0,0,0.0,3.88
+opennlp,/main/java/opennlp/tools/parser/treeinsert/AttachContextGenerator.java,39.0,35min,35.0,24.71
+opennlp,/main/java/opennlp/tools/formats/brat/AttributeAnnotation.java,0.0,0,0.0,18.35
+opennlp,/main/java/opennlp/tools/dictionary/serializer/Attributes.java,0.0,0,0.0,6.44
+opennlp,/main/java/opennlp/tools/doccat/BagOfWordsFeatureGenerator.java,0.0,1min,1.0,10.59
+opennlp,/main/java/opennlp/tools/entitylinker/BaseLink.java,20.0,20min,20.0,38.64
+opennlp,/main/java/opennlp/tools/util/model/BaseModel.java,73.0,2h 24min,144.0,139.34
+opennlp,/main/java/opennlp/tools/util/BaseToolFactory.java,0.0,17min 30s,17.5,30.88
+opennlp,/main/java/opennlp/tools/cmdline/BasicCmdLineTool.java,0.0,7min 30s,7.5,7.68
+opennlp,/main/java/opennlp/tools/ml/maxent/BasicContextGenerator.java,5.0,0,0.0,9.97
+opennlp,/main/java/opennlp/tools/cmdline/params/BasicFormatParams.java,0.0,0,0.0,4.15
+opennlp,/main/java/opennlp/tools/cmdline/params/BasicTrainingParams.java,0.0,0,0.0,3.53
+opennlp,/main/java/opennlp/tools/ml/BeamSearch.java,44.0,59min 30s,59.5,48.26
+opennlp,/main/java/opennlp/tools/util/BeamSearchContextGenerator.java,0.0,0,0.0,1.59
+opennlp,/main/java/opennlp/tools/util/featuregen/BigramNameFeatureGenerator.java,0.0,7min 30s,7.5,15.09
+opennlp,/main/java/opennlp/tools/namefind/BilouCodec.java,44.0,2h 2min,122.0,32.12
+opennlp,/main/java/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java,37.0,1h 25min,85.0,19.59
+opennlp,/main/java/opennlp/tools/ml/model/BinaryFileDataReader.java,0.0,0,0.0,31.15
+opennlp,/main/java/opennlp/tools/ml/maxent/io/BinaryGISModelReader.java,0.0,0,0.0,8.03
+opennlp,/main/java/opennlp/tools/ml/maxent/io/BinaryGISModelWriter.java,20.0,0,0.0,25.41
+opennlp,/main/java/opennlp/tools/ml/naivebayes/BinaryNaiveBayesModelReader.java,0.0,0,0.0,12.53
+opennlp,/main/java/opennlp/tools/ml/naivebayes/BinaryNaiveBayesModelWriter.java,20.0,0,0.0,25.41
+opennlp,/main/java/opennlp/tools/ml/perceptron/BinaryPerceptronModelReader.java,0.0,0,0.0,12.53
+opennlp,/main/java/opennlp/tools/ml/perceptron/BinaryPerceptronModelWriter.java,20.0,0,0.0,27.97
+opennlp,/main/java/opennlp/tools/ml/maxent/io/BinaryQNModelReader.java,0.0,7min 30s,7.5,8.03
+opennlp,/main/java/opennlp/tools/ml/maxent/io/BinaryQNModelWriter.java,0.0,7min 30s,7.5,25.41
+opennlp,/main/java/opennlp/tools/namefind/BioCodec.java,7.0,1h 22min,82.0,37.59
+opennlp,/main/java/opennlp/tools/formats/BioNLP2004NameSampleStream.java,127.0,1h 44min,104.0,48.26
+opennlp,/main/java/opennlp/tools/formats/BioNLP2004NameSampleStreamFactory.java,0.0,20min,20.0,20.21
+opennlp,/main/java/opennlp/tools/formats/brat/BratAnnotation.java,0.0,7min 30s,7.5,20.29
+opennlp,/main/java/opennlp/tools/formats/brat/BratAnnotationStream.java,24.0,1h 35min,95.0,160.71
+opennlp,/main/java/opennlp/tools/formats/brat/BratDocument.java,0.0,27min 30s,27.5,40.58
+opennlp,/main/java/opennlp/tools/formats/brat/BratDocumentParser.java,55.0,40min,40.0,27.0
+opennlp,/main/java/opennlp/tools/formats/brat/BratDocumentStream.java,29.0,10min,10.0,23.47
+opennlp,/main/java/opennlp/tools/formats/brat/BratNameSampleStream.java,0.0,7min 30s,7.5,17.73
+opennlp,/main/java/opennlp/tools/formats/brat/BratNameSampleStreamFactory.java,20.0,1h 6min,66.0,35.03
+opennlp,/main/java/opennlp/tools/util/featuregen/BrownBigramFeatureGenerator.java,10.0,8min 30s,8.5,11.56
+opennlp,/main/java/opennlp/tools/util/featuregen/BrownCluster.java,0.0,20min,20.0,41.39
+opennlp,/main/java/opennlp/tools/util/featuregen/BrownTokenClasses.java,30.0,27min 30s,27.5,10.94
+opennlp,/main/java/opennlp/tools/util/featuregen/BrownTokenClassFeatureGenerator.java,0.0,0,0.0,13.5
+opennlp,/main/java/opennlp/tools/util/featuregen/BrownTokenFeatureGenerator.java,0.0,0,0.0,13.5
+opennlp,/main/java/opennlp/tools/parser/chunking/BuildContextGenerator.java,293.0,2h 30min,150.0,27.35
+opennlp,/main/java/opennlp/tools/parser/treeinsert/BuildContextGenerator.java,45.0,15min,15.0,12.53
+opennlp,/main/java/opennlp/tools/cmdline/parser/BuildModelUpdaterTool.java,10.0,17min 30s,17.5,21.88
+opennlp,/main/java/opennlp/tools/util/model/ByteArraySerializer.java,0.0,0,0.0,18.62
+opennlp,/main/java/opennlp/tools/util/Cache.java,30.0,0,0.0,9.0
+opennlp,/main/java/opennlp/tools/util/featuregen/CachedFeatureGenerator.java,0.0,10min,10.0,35.03
+opennlp,/main/java/opennlp/tools/cmdline/namefind/CensusDictionaryCreatorTool.java,20.0,7min 30s,7.5,106.36
+opennlp,/main/java/opennlp/tools/util/featuregen/CharacterNgramFeatureGenerator.java,0.0,0,0.0,12.88
+opennlp,/main/java/opennlp/tools/util/normalizer/CharSequenceNormalizer.java,0.0,0,0.0,1.59
+opennlp,/main/java/opennlp/tools/parser/chunking/CheckContextGenerator.java,8.0,15min,15.0,11.56
+opennlp,/main/java/opennlp/tools/parser/treeinsert/CheckContextGenerator.java,58.0,25min,25.0,19.32
+opennlp,/main/java/opennlp/tools/cmdline/parser/CheckModelUpdaterTool.java,10.0,17min 30s,17.5,21.88
+opennlp,/main/java/opennlp/tools/parser/ChunkContextGenerator.java,78.0,47min 30s,47.5,57.88
+opennlp,/main/java/opennlp/uima/chunker/Chunker.java,30.0,22min 30s,22.5,34.22
+opennlp,/main/java/opennlp/tools/chunker/Chunker.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/chunker/ChunkerContextGenerator.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/cmdline/chunker/ChunkerConverterTool.java,0.0,7min 30s,7.5,7.68
+opennlp,/main/java/opennlp/tools/chunker/ChunkerCrossValidator.java,0.0,0,0.0,403.67
+opennlp,/main/java/opennlp/tools/cmdline/chunker/ChunkerCrossValidatorTool.java,20.0,15min,15.0,24.71
+opennlp,/main/java/opennlp/tools/cmdline/chunker/ChunkerDetailedFMeasureListener.java,0.0,7min 30s,7.5,11.21
+opennlp,/main/java/opennlp/tools/chunker/ChunkerEvaluationMonitor.java,0.0,0,0.0,1.94
+opennlp,/main/java/opennlp/tools/chunker/ChunkerEvaluator.java,0.0,0,0.0,8.38
+opennlp,/main/java/opennlp/tools/cmdline/chunker/ChunkerEvaluatorTool.java,60.0,15min,15.0,34.95
+opennlp,/main/java/opennlp/tools/chunker/ChunkerEventStream.java,0.0,27min 30s,27.5,13.5
+opennlp,/main/java/opennlp/tools/chunker/ChunkerFactory.java,15.0,20min,20.0,25.41
+opennlp,/main/java/opennlp/tools/chunker/ChunkerME.java,20.0,45min,45.0,47.37
+opennlp,/main/java/opennlp/tools/cmdline/chunker/ChunkerMETool.java,90.0,27min 30s,27.5,43.87
+opennlp,/main/java/opennlp/tools/chunker/ChunkerModel.java,10.0,50min,50.0,68.55
+opennlp,/main/java/opennlp/tools/cmdline/chunker/ChunkerModelLoader.java,0.0,0,0.0,13.15
+opennlp,/main/java/opennlp/uima/chunker/ChunkerModelResource.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/uima/chunker/ChunkerModelResourceImpl.java,0.0,7min 30s,7.5,17.65
+opennlp,/main/java/opennlp/tools/util/model/ChunkerModelSerializer.java,0.0,0,0.0,25.06
+opennlp,/main/java/opennlp/tools/formats/ChunkerSampleStreamFactory.java,0.0,0,0.0,20.21
+opennlp,/main/java/opennlp/tools/cmdline/chunker/ChunkerTrainerTool.java,20.0,15min,15.0,27.54
+opennlp,/main/java/opennlp/tools/cmdline/chunker/ChunkEvaluationErrorListener.java,10.0,7min 30s,7.5,12.18
+opennlp,/main/java/opennlp/tools/chunker/ChunkSample.java,5.0,47min,47.0,36.27
+opennlp,/main/java/opennlp/tools/chunker/ChunkSampleSequenceStream.java,55.0,27min 30s,27.5,37.32
+opennlp,/main/java/opennlp/tools/chunker/ChunkSampleStream.java,32.0,17min 30s,17.5,410.3
+opennlp,/main/java/opennlp/tools/parser/ChunkSampleStream.java,38.0,52min 30s,52.5,34.95
+opennlp,/main/java/opennlp/tools/cmdline/CLI.java,214.0,1h 10min,70.0,31.77
+opennlp,/main/java/opennlp/morfologik/cmdline/CLI.java,194.0,25min,25.0,24.71
+opennlp,/main/java/opennlp/tools/cmdline/CmdLineTool.java,7.0,20min,20.0,24.98
+opennlp,/main/java/opennlp/tools/cmdline/CmdLineUtil.java,95.0,1h 22min,82.0,73.46
+opennlp,/main/java/opennlp/tools/util/CollectionObjectStream.java,5.0,0,0.0,16.6
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/CommandLineTokenizer.java,20.0,10min,10.0,15.71
+opennlp,/main/java/opennlp/tools/ml/model/ComparableEvent.java,9.0,1h 46min,106.0,44.3
+opennlp,/main/java/opennlp/tools/ml/model/ComparablePredicate.java,0.0,48min 30s,48.5,31.15
+opennlp,/main/java/opennlp/tools/postag/ConfigurablePOSContextGenerator.java,20.0,10min,10.0,16.14
+opennlp,/main/java/opennlp/tools/formats/Conll02NameSampleStream.java,123.0,1h 43min,103.0,70.76
+opennlp,/main/java/opennlp/tools/formats/Conll02NameSampleStreamFactory.java,20.0,25min,25.0,27.62
+opennlp,/main/java/opennlp/tools/formats/Conll03NameSampleStream.java,83.0,1h 36min,96.0,51.44
+opennlp,/main/java/opennlp/tools/formats/Conll03NameSampleStreamFactory.java,20.0,35min,35.0,28.24
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluLemmaSampleStream.java,0.0,17min 30s,17.5,18.62
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluLemmaSampleStreamFactory.java,20.0,20min,20.0,22.15
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluPOSSampleStream.java,0.0,17min 30s,17.5,18.62
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluPOSSampleStreamFactory.java,20.0,27min 30s,27.5,23.12
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluSentence.java,0.0,0,0.0,18.7
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluSentenceSampleStream.java,0.0,27min 30s,27.5,394.94
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluSentenceSampleStreamFactory.java,0.0,10min,10.0,20.56
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluStream.java,36.0,1h 15min,75.0,51.55
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluTagset.java,0.0,0,0.0,2.56
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluTokenSampleStream.java,19.0,35min,35.0,20.21
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluTokenSampleStreamFactory.java,0.0,10min,10.0,17.65
+opennlp,/main/java/opennlp/tools/formats/conllu/ConlluWordLine.java,20.0,1h 2min,62.0,38.72
+opennlp,/main/java/opennlp/tools/formats/ConllXPOSSampleStream.java,17.0,18min 30s,18.5,31.15
+opennlp,/main/java/opennlp/tools/formats/ConllXPOSSampleStreamFactory.java,10.0,27min 30s,27.5,20.56
+opennlp,/main/java/opennlp/tools/formats/ConllXSentenceSampleStreamFactory.java,0.0,17min 30s,17.5,15.71
+opennlp,/main/java/opennlp/tools/formats/ConllXTokenSampleStreamFactory.java,0.0,7min 30s,7.5,15.71
+opennlp,/main/java/opennlp/tools/parser/Cons.java,10.0,0,0.0,19.32
+opennlp,/main/java/opennlp/tools/formats/frenchtreebank/ConstitDocumentHandler.java,64.0,32min 30s,32.5,45.78
+opennlp,/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStream.java,2.0,27min 30s,27.5,19.94
+opennlp,/main/java/opennlp/tools/formats/frenchtreebank/ConstitParseSampleStreamFactory.java,0.0,10min,10.0,16.68
+opennlp,/main/java/opennlp/tools/parser/Constituent.java,0.0,0,0.0,7.41
+opennlp,/main/java/opennlp/uima/util/ContainingConstraint.java,30.0,20min,20.0,18.35
+opennlp,/main/java/opennlp/tools/ml/model/Context.java,0.0,20min,20.0,9.27
+opennlp,/main/java/opennlp/tools/ml/maxent/ContextGenerator.java,0.0,0,0.0,2.91
+opennlp,/main/java/opennlp/tools/util/eval/CrossValidationPartitioner.java,5.0,12min,12.0,120.37
+opennlp,/main/java/opennlp/tools/util/featuregen/CustomFeatureGenerator.java,0.0,0,0.0,10.94
+opennlp,/main/java/opennlp/tools/cmdline/params/CVParams.java,0.0,0,0.0,6.09
+opennlp,/main/java/opennlp/tools/stemmer/snowball/danishStemmer.java,738.0,5h 42min,342.0,57.61
+opennlp,/main/java/opennlp/tools/ml/model/DataIndexer.java,0.0,0,0.0,7.6
+opennlp,/main/java/opennlp/tools/ml/model/DataIndexerFactory.java,30.0,10min,10.0,13.85
+opennlp,/main/java/opennlp/tools/ml/model/DataReader.java,0.0,0,0.0,13.58
+opennlp,/main/java/opennlp/tools/ml/maxent/DataStream.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/tools/chunker/DefaultChunkerContextGenerator.java,37.0,7min 30s,7.5,26.38
+opennlp,/main/java/opennlp/tools/chunker/DefaultChunkerSequenceValidator.java,0.0,30min,30.0,24.09
+opennlp,/main/java/opennlp/tools/sentdetect/DefaultEndOfSentenceScanner.java,25.0,0,0.0,18.0
+opennlp,/main/java/opennlp/tools/langdetect/DefaultLanguageDetectorContextGenerator.java,0.0,0,0.0,5.82
+opennlp,/main/java/opennlp/tools/lemmatizer/DefaultLemmatizerContextGenerator.java,27.0,7min 30s,7.5,32.47
+opennlp,/main/java/opennlp/tools/lemmatizer/DefaultLemmatizerSequenceValidator.java,0.0,10min,10.0,12.88
+opennlp,/main/java/opennlp/tools/namefind/DefaultNameContextGenerator.java,40.0,10min,10.0,67.61
+opennlp,/main/java/opennlp/tools/postag/DefaultPOSContextGenerator.java,79.0,42min,42.0,45.97
+opennlp,/main/java/opennlp/tools/postag/DefaultPOSSequenceValidator.java,0.0,20min,20.0,13.5
+opennlp,/main/java/opennlp/tools/sentdetect/DefaultSDContextGenerator.java,84.0,1h 21min,81.0,35.38
+opennlp,/main/java/opennlp/tools/tokenize/DefaultTokenContextGenerator.java,0.0,32min 30s,32.5,16.41
+opennlp,/main/java/opennlp/tools/cmdline/params/DetailedFMeasureEvaluatorParams.java,15.0,0,0.0,2.91
+opennlp,/main/java/opennlp/tools/cmdline/DetailedFMeasureListener.java,0.0,1h 19min,79.0,81.27
+opennlp,/main/java/opennlp/tools/tokenize/DetokenizationDictionary.java,5.0,1h 2min,62.0,35.38
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/DetokenizationDictionaryLoader.java,0.0,0,0.0,14.74
+opennlp,/main/java/opennlp/tools/tokenize/Detokenizer.java,0.0,0,0.0,1.94
+opennlp,/main/java/opennlp/tools/cmdline/params/DetokenizerParameter.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/tools/formats/DetokenizerSampleStreamFactory.java,0.0,17min 30s,17.5,19.51
+opennlp,/main/java/opennlp/tools/formats/letsmt/DetokenizeSentenceSampleStream.java,0.0,25min,25.0,23.74
+opennlp,/main/java/opennlp/tools/dictionary/Dictionary.java,15.0,17min 30s,17.5,62.76
+opennlp,/main/java/opennlp/tools/cmdline/dictionary/DictionaryBuilderParams.java,0.0,0,0.0,6.09
+opennlp,/main/java/opennlp/tools/cmdline/dictionary/DictionaryBuilderTool.java,0.0,0,0.0,19.86
+opennlp,/main/java/opennlp/tools/tokenize/DictionaryDetokenizer.java,10.0,23min 30s,23.5,16.14
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/DictionaryDetokenizerTool.java,30.0,17min 30s,17.5,27.54
+opennlp,/main/java/opennlp/tools/dictionary/serializer/DictionaryEntryPersistor.java,85.0,37min 30s,37.5,77.01
+opennlp,/main/java/opennlp/tools/util/featuregen/DictionaryFeatureGenerator.java,0.0,0,0.0,21.53
+opennlp,/main/java/opennlp/tools/lemmatizer/DictionaryLemmatizer.java,0.0,10min,10.0,38.56
+opennlp,/main/java/opennlp/uima/namefind/DictionaryNameFinder.java,0.0,7min 30s,7.5,12.26
+opennlp,/main/java/opennlp/tools/namefind/DictionaryNameFinder.java,10.0,0,0.0,19.32
+opennlp,/main/java/opennlp/uima/dictionary/DictionaryResource.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/uima/dictionary/DictionaryResourceImpl.java,0.0,7min 30s,7.5,18.27
+opennlp,/main/java/opennlp/tools/util/model/DictionarySerializer.java,0.0,0,0.0,21.18
+opennlp,/main/java/opennlp/tools/formats/DirectorySampleStream.java,45.0,30min,30.0,27.0
+opennlp,/main/java/opennlp/tools/cmdline/doccat/DoccatConverterTool.java,0.0,7min 30s,7.5,9.27
+opennlp,/main/java/opennlp/tools/doccat/DoccatCrossValidator.java,0.0,0,0.0,393.43
+opennlp,/main/java/opennlp/tools/cmdline/doccat/DoccatCrossValidatorTool.java,90.0,25min,25.0,29.48
+opennlp,/main/java/opennlp/tools/cmdline/doccat/DoccatEvaluationErrorListener.java,10.0,7min 30s,7.5,12.18
+opennlp,/main/java/opennlp/tools/doccat/DoccatEvaluationMonitor.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/cmdline/doccat/DoccatEvaluatorTool.java,80.0,25min,25.0,40.69
+opennlp,/main/java/opennlp/tools/doccat/DoccatFactory.java,10.0,20min,20.0,37.67
+opennlp,/main/java/opennlp/tools/cmdline/doccat/DoccatFineGrainedReportListener.java,10.0,7min 30s,7.5,19.59
+opennlp,/main/java/opennlp/tools/doccat/DoccatModel.java,0.0,0,0.0,41.74
+opennlp,/main/java/opennlp/tools/cmdline/doccat/DoccatModelLoader.java,0.0,0,0.0,13.15
+opennlp,/main/java/opennlp/uima/doccat/DoccatModelResource.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/uima/doccat/DoccatModelResourceImpl.java,0.0,7min 30s,7.5,17.65
+opennlp,/main/java/opennlp/tools/cmdline/doccat/DoccatTool.java,50.0,17min 30s,17.5,26.3
+opennlp,/main/java/opennlp/tools/cmdline/doccat/DoccatTrainerTool.java,20.0,25min,25.0,28.51
+opennlp,/main/java/opennlp/tools/util/featuregen/DocumentBeginFeatureGenerator.java,0.0,0,0.0,14.12
+opennlp,/main/java/opennlp/uima/doccat/DocumentCategorizer.java,0.0,0,0.0,10.32
+opennlp,/main/java/opennlp/tools/doccat/DocumentCategorizer.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/doccat/DocumentCategorizerContextGenerator.java,0.0,0,0.0,13.5
+opennlp,/main/java/opennlp/tools/doccat/DocumentCategorizerEvaluator.java,0.0,0,0.0,12.88
+opennlp,/main/java/opennlp/tools/doccat/DocumentCategorizerEventStream.java,5.0,7min 30s,7.5,12.53
+opennlp,/main/java/opennlp/tools/doccat/DocumentCategorizerME.java,5.0,0,0.0,37.67
+opennlp,/main/java/opennlp/tools/namefind/DocumentNameFinder.java,0.0,0,0.0,2.91
+opennlp,/main/java/opennlp/tools/doccat/DocumentSample.java,30.0,20min,20.0,28.67
+opennlp,/main/java/opennlp/tools/doccat/DocumentSampleStream.java,0.0,17min 30s,17.5,19.59
+opennlp,/main/java/opennlp/tools/formats/DocumentSampleStreamFactory.java,0.0,0,0.0,20.21
+opennlp,/main/java/opennlp/tools/formats/muc/DocumentSplitterStream.java,13.0,27min 30s,27.5,26.03
+opennlp,/main/java/opennlp/tools/formats/ontonotes/DocumentToLineStream.java,0.0,7min 30s,7.5,14.47
+opennlp,/main/java/opennlp/tools/util/wordvector/DoubleArrayVector.java,0.0,0,0.0,25.33
+opennlp,/main/java/opennlp/tools/stemmer/snowball/dutchStemmer.java,2231.0,1M/d 2h,600.0,101.64
+opennlp,/main/java/opennlp/tools/ml/model/DynamicEvalParameters.java,0.0,0,0.0,8.73
+opennlp,/main/java/opennlp/tools/util/normalizer/EmojiCharSequenceNormalizer.java,0.0,0,0.0,14.12
+opennlp,/main/java/opennlp/tools/sentdetect/EmptyLinePreprocessorStream.java,0.0,7min 30s,7.5,396.88
+opennlp,/main/java/opennlp/tools/cmdline/params/EncodingParameter.java,0.0,0,0.0,3.53
+opennlp,/main/java/opennlp/tools/sentdetect/EndOfSentenceScanner.java,20.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/stemmer/snowball/englishStemmer.java,3677.0,2M/d 4h,1200.0,159.52
+opennlp,/main/java/opennlp/tools/entitylinker/EntityLinker.java,0.0,0,0.0,7.76
+opennlp,/main/java/opennlp/tools/entitylinker/EntityLinkerFactory.java,70.0,0,0.0,10.94
+opennlp,/main/java/opennlp/tools/entitylinker/EntityLinkerProperties.java,15.0,10min,10.0,9.97
+opennlp,/main/java/opennlp/tools/cmdline/entitylinker/EntityLinkerTool.java,47.0,55min,55.0,36.89
+opennlp,/main/java/opennlp/tools/dictionary/serializer/Entry.java,0.0,0,0.0,8.03
+opennlp,/main/java/opennlp/tools/dictionary/serializer/EntryInserter.java,0.0,0,0.0,2.91
+opennlp,/main/java/opennlp/tools/formats/EvalitaNameSampleStream.java,126.0,1h 44min,104.0,70.76
+opennlp,/main/java/opennlp/tools/formats/EvalitaNameSampleStreamFactory.java,0.0,17min 30s,17.5,24.09
+opennlp,/main/java/opennlp/tools/ml/model/EvalParameters.java,0.0,20min,20.0,21.8
+opennlp,/main/java/opennlp/tools/cmdline/EvaluationErrorPrinter.java,2.0,15min,15.0,51.87
+opennlp,/main/java/opennlp/tools/util/eval/EvaluationMonitor.java,0.0,0,0.0,9.0
+opennlp,/main/java/opennlp/tools/util/eval/Evaluator.java,0.0,17min 30s,17.5,12.8
+opennlp,/main/java/opennlp/tools/cmdline/params/EvaluatorParams.java,0.0,0,0.0,6.71
+opennlp,/main/java/opennlp/tools/ml/model/Event.java,0.0,0,0.0,20.91
+opennlp,/main/java/opennlp/tools/formats/brat/EventAnnotation.java,0.0,0,0.0,15.79
+opennlp,/main/java/opennlp/tools/ml/EventModelSequenceTrainer.java,25.0,0,0.0,14.55
+opennlp,/main/java/opennlp/tools/util/EventTraceStream.java,0.0,17min 30s,17.5,21.26
+opennlp,/main/java/opennlp/tools/ml/EventTrainer.java,25.0,0,0.0,19.05
+opennlp,/main/java/opennlp/uima/util/ExceptionMessages.java,30.0,7min 30s,7.5,10.67
+opennlp,/main/java/opennlp/tools/util/java/Experimental.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/util/ext/ExtensionLoader.java,68.0,40min,40.0,13.15
+opennlp,/main/java/opennlp/tools/util/ext/ExtensionNotLoadedException.java,0.0,0,0.0,7.06
+opennlp,/main/java/opennlp/tools/util/ext/ExtensionServiceKeys.java,30.0,7min 30s,7.5,3.88
+opennlp,/main/java/opennlp/tools/tokenize/lang/Factory.java,5.0,17min 30s,17.5,13.5
+opennlp,/main/java/opennlp/tools/sentdetect/lang/Factory.java,0.0,1h 17min,77.0,37.32
+opennlp,/main/java/opennlp/tools/doccat/FeatureGenerator.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/util/featuregen/FeatureGeneratorResourceProvider.java,0.0,0,0.0,1.59
+opennlp,/main/java/opennlp/tools/util/featuregen/FeatureGeneratorUtil.java,48.0,15min,15.0,15.44
+opennlp,/main/java/opennlp/tools/ml/model/FileEventStream.java,5.0,30min,30.0,32.47
+opennlp,/main/java/opennlp/tools/formats/convert/FileToByteArraySampleStream.java,30.0,37min 30s,37.5,29.48
+opennlp,/main/java/opennlp/tools/formats/convert/FileToStringSampleStream.java,0.0,37min 30s,37.5,21.8
+opennlp,/main/java/opennlp/tools/util/FilterObjectStream.java,5.0,7min 30s,7.5,22.42
+opennlp,/main/java/opennlp/tools/cmdline/params/FineGrainedEvaluatorParams.java,0.0,0,0.0,4.15
+opennlp,/main/java/opennlp/tools/cmdline/FineGrainedReportListener.java,179.0,7h 27min,447.0,347.1
+opennlp,/main/java/opennlp/tools/stemmer/snowball/finnishStemmer.java,1827.0,2M/d,960.0,118.13
+opennlp,/main/java/opennlp/tools/util/wordvector/FloatArrayVector.java,0.0,0,0.0,23.39
+opennlp,/main/java/opennlp/tools/util/eval/FMeasure.java,0.0,1h,60.0,7.06
+opennlp,/main/java/opennlp/tools/stemmer/snowball/frenchStemmer.java,3958.0,2M/d 6h,1320.0,142.76
+opennlp,/main/java/opennlp/tools/ml/maxent/quasinewton/Function.java,0.0,0,0.0,8.73
+opennlp,/main/java/opennlp/tools/parser/GapLabeler.java,20.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/cmdline/GenerateManualTool.java,37.0,1h 2min,62.0,166.64
+opennlp,/main/java/opennlp/tools/util/featuregen/GeneratorFactory.java,91.0,1h 27min,87.0,459.18
+opennlp,/main/java/opennlp/tools/ml/model/GenericModelReader.java,0.0,0,0.0,26.65
+opennlp,/main/java/opennlp/tools/util/model/GenericModelSerializer.java,0.0,0,0.0,22.15
+opennlp,/main/java/opennlp/tools/ml/model/GenericModelWriter.java,0.0,10min,10.0,57.18
+opennlp,/main/java/opennlp/tools/stemmer/snowball/germanStemmer.java,2264.0,1M/d 2h,600.0,92.91
+opennlp,/main/java/opennlp/tools/ml/maxent/GISModel.java,20.0,7min 30s,7.5,22.15
+opennlp,/main/java/opennlp/tools/ml/maxent/io/GISModelReader.java,10.0,1min,1.0,22.15
+opennlp,/main/java/opennlp/tools/ml/maxent/io/GISModelWriter.java,51.0,20min,20.0,36.54
+opennlp,/main/java/opennlp/tools/ml/maxent/GISTrainer.java,285.0,2h 48min,168.0,157.31
+opennlp,/main/java/opennlp/tools/util/wordvector/Glove.java,0.0,27min 30s,27.5,19.24
+opennlp,/main/java/opennlp/tools/ml/model/HashSumEventStream.java,5.0,7min 30s,7.5,14.82
+opennlp,/main/java/opennlp/tools/parser/HeadRules.java,0.0,0,0.0,1.59
+opennlp,/main/java/opennlp/tools/parser/lang/en/HeadRules.java,143.0,4h 42min,282.0,119.51
+opennlp,/main/java/opennlp/tools/stemmer/snowball/hungarianStemmer.java,2284.0,1M/d 5h,780.0,156.8
+opennlp,/main/java/opennlp/tools/dictionary/Index.java,5.0,0,0.0,10.32
+opennlp,/main/java/opennlp/tools/util/InputStreamFactory.java,0.0,0,0.0,4.85
+opennlp,/main/java/opennlp/tools/util/featuregen/InSpanGenerator.java,0.0,0,0.0,19.67
+opennlp,/main/java/opennlp/tools/util/InsufficientTrainingDataException.java,0.0,0,0.0,19.24
+opennlp,/main/java/opennlp/tools/util/InvalidFormatException.java,0.0,0,0.0,19.51
+opennlp,/main/java/opennlp/tools/formats/irishsentencebank/IrishSentenceBankDocument.java,60.0,1h 17min,77.0,91.51
+opennlp,/main/java/opennlp/tools/formats/irishsentencebank/IrishSentenceBankSentenceStream.java,2.0,10min,10.0,18.62
+opennlp,/main/java/opennlp/tools/formats/irishsentencebank/IrishSentenceBankSentenceStreamFactory.java,0.0,0,0.0,20.83
+opennlp,/main/java/opennlp/tools/formats/irishsentencebank/IrishSentenceBankTokenSampleStream.java,0.0,20min,20.0,14.74
+opennlp,/main/java/opennlp/tools/formats/irishsentencebank/IrishSentenceBankTokenSampleStreamFactory.java,0.0,7min 30s,7.5,20.83
+opennlp,/main/java/opennlp/tools/stemmer/snowball/irishStemmer.java,1712.0,7h 10min,430.0,82.24
+opennlp,/main/java/opennlp/tools/stemmer/snowball/italianStemmer.java,3080.0,2M/d,960.0,131.47
+opennlp,/main/java/opennlp/tools/langdetect/Language.java,0.0,20min,20.0,23.12
+opennlp,/main/java/opennlp/uima/doccat/LanguageDetector.java,0.0,0,0.0,9.62
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetector.java,0.0,0,0.0,8.73
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetectorContextGenerator.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/tools/cmdline/langdetect/LanguageDetectorConverterTool.java,0.0,7min 30s,7.5,9.27
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetectorCrossValidator.java,0.0,0,0.0,392.11
+opennlp,/main/java/opennlp/tools/cmdline/langdetect/LanguageDetectorCrossValidatorTool.java,90.0,25min,25.0,29.48
+opennlp,/main/java/opennlp/tools/cmdline/langdetect/LanguageDetectorEvaluationErrorListener.java,10.0,7min 30s,7.5,21.8
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetectorEvaluationMonitor.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetectorEvaluator.java,0.0,0,0.0,12.88
+opennlp,/main/java/opennlp/tools/cmdline/langdetect/LanguageDetectorEvaluatorTool.java,80.0,25min,25.0,40.69
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetectorEventStream.java,5.0,7min 30s,7.5,11.56
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetectorFactory.java,0.0,20min,20.0,26.38
+opennlp,/main/java/opennlp/tools/cmdline/langdetect/LanguageDetectorFineGrainedReportListener.java,10.0,7min 30s,7.5,20.56
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetectorME.java,0.0,0,0.0,28.94
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetectorModel.java,0.0,0,0.0,34.68
+opennlp,/main/java/opennlp/tools/cmdline/langdetect/LanguageDetectorModelLoader.java,0.0,0,0.0,13.15
+opennlp,/main/java/opennlp/tools/langdetect/LanguageDetectorSampleStream.java,5.0,27min 30s,27.5,20.21
+opennlp,/main/java/opennlp/tools/formats/LanguageDetectorSampleStreamFactory.java,0.0,0,0.0,20.83
+opennlp,/main/java/opennlp/tools/cmdline/langdetect/LanguageDetectorTool.java,50.0,17min 30s,17.5,28.86
+opennlp,/main/java/opennlp/tools/cmdline/langdetect/LanguageDetectorTrainerTool.java,20.0,7min 30s,7.5,29.48
+opennlp,/main/java/opennlp/tools/languagemodel/LanguageModel.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/cmdline/params/LanguageParams.java,0.0,0,0.0,4.5
+opennlp,/main/java/opennlp/tools/langdetect/LanguageSample.java,30.0,20min,20.0,21.18
+opennlp,/main/java/opennlp/tools/formats/LanguageSampleStreamFactory.java,0.0,7min 30s,7.5,12.8
+opennlp,/main/java/opennlp/tools/formats/leipzig/LeipzigLanguageSampleStream.java,10.0,1h 6min,66.0,72.81
+opennlp,/main/java/opennlp/tools/formats/leipzig/LeipzigLanguageSampleStreamFactory.java,0.0,10min,10.0,26.65
+opennlp,/main/java/opennlp/tools/cmdline/lemmatizer/LemmaEvaluationErrorListener.java,10.0,7min 30s,7.5,12.18
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmaSample.java,5.0,20min,20.0,34.68
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmaSampleEventStream.java,0.0,27min 30s,27.5,10.94
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmaSampleSequenceStream.java,55.0,17min 30s,17.5,37.32
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmaSampleStream.java,32.0,27min 30s,27.5,394.94
+opennlp,/main/java/opennlp/tools/lemmatizer/Lemmatizer.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmatizerContextGenerator.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmatizerEvaluationMonitor.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmatizerEvaluator.java,0.0,0,0.0,7.76
+opennlp,/main/java/opennlp/tools/cmdline/lemmatizer/LemmatizerEvaluatorTool.java,100.0,25min,25.0,35.92
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmatizerFactory.java,15.0,20min,20.0,27.35
+opennlp,/main/java/opennlp/tools/cmdline/lemmatizer/LemmatizerFineGrainedReportListener.java,10.0,7min 30s,7.5,19.94
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmatizerME.java,2.0,45min,45.0,65.72
+opennlp,/main/java/opennlp/tools/cmdline/lemmatizer/LemmatizerMETool.java,90.0,27min 30s,27.5,38.75
+opennlp,/main/java/opennlp/tools/lemmatizer/LemmatizerModel.java,0.0,30min,30.0,67.23
+opennlp,/main/java/opennlp/tools/cmdline/lemmatizer/LemmatizerModelLoader.java,0.0,0,0.0,13.15
+opennlp,/main/java/opennlp/tools/formats/LemmatizerSampleStreamFactory.java,0.0,0,0.0,20.21
+opennlp,/main/java/opennlp/tools/cmdline/lemmatizer/LemmatizerTrainerTool.java,20.0,15min,15.0,27.54
+opennlp,/main/java/opennlp/tools/formats/letsmt/LetsmtDocument.java,42.0,50min,50.0,68.12
+opennlp,/main/java/opennlp/tools/formats/letsmt/LetsmtSentenceStream.java,2.0,20min,20.0,21.8
+opennlp,/main/java/opennlp/tools/formats/letsmt/LetsmtSentenceStreamFactory.java,0.0,10min,10.0,20.56
+opennlp,/main/java/opennlp/tools/ml/maxent/quasinewton/LineSearch.java,110.0,1h 18min,78.0,137.07
+opennlp,/main/java/opennlp/tools/entitylinker/LinkedSpan.java,60.0,20min,20.0,45.7
+opennlp,/main/java/opennlp/tools/ml/naivebayes/LogProbabilities.java,2.0,53min 30s,53.5,26.3
+opennlp,/main/java/opennlp/tools/ml/naivebayes/LogProbability.java,0.0,0,0.0,13.15
+opennlp,/main/java/opennlp/tools/util/wordvector/MapWordVectorTable.java,0.0,20min,20.0,14.74
+opennlp,/main/java/opennlp/tools/util/MarkableFileInputStream.java,0.0,0,0.0,42.44
+opennlp,/main/java/opennlp/tools/util/MarkableFileInputStreamFactory.java,0.0,0,0.0,15.71
+opennlp,/main/java/opennlp/tools/ml/model/MaxentModel.java,5.0,0,0.0,4.07
+opennlp,/main/java/opennlp/tools/util/eval/Mean.java,0.0,0,0.0,9.27
+opennlp,/main/java/opennlp/tools/cmdline/ModelLoader.java,50.0,7min 30s,7.5,19.24
+opennlp,/main/java/opennlp/tools/util/model/ModelType.java,0.0,0,0.0,2.56
+opennlp,/main/java/opennlp/tools/cmdline/parser/ModelUpdaterTool.java,0.0,15min,15.0,25.41
+opennlp,/main/java/opennlp/tools/util/model/ModelUtil.java,5.0,10min,10.0,29.83
+opennlp,/main/java/opennlp/morfologik/cmdline/builder/MorfologikDictionaryBuilderParams.java,0.0,0,0.0,15.17
+opennlp,/main/java/opennlp/morfologik/cmdline/builder/MorfologikDictionaryBuilderTool.java,5.0,0,0.0,22.42
+opennlp,/main/java/opennlp/morfologik/builder/MorfologikDictionayBuilder.java,5.0,7min 30s,7.5,19.32
+opennlp,/main/java/opennlp/morfologik/lemmatizer/MorfologikLemmatizer.java,17.0,10min,10.0,38.64
+opennlp,/main/java/opennlp/morfologik/tagdict/MorfologikPOSTaggerFactory.java,90.0,0,0.0,58.5
+opennlp,/main/java/opennlp/morfologik/tagdict/MorfologikTagDictionary.java,74.0,21min,21.0,10.32
+opennlp,/main/java/opennlp/morfologik/util/MorfologikUtil.java,30.0,0,0.0,17.92
+opennlp,/main/java/opennlp/tools/formats/moses/MosesSentenceSampleStream.java,2.0,27min 30s,27.5,398.12
+opennlp,/main/java/opennlp/tools/formats/moses/MosesSentenceSampleStreamFactory.java,20.0,10min,10.0,20.21
+opennlp,/main/java/opennlp/tools/formats/muc/Muc6NameSampleStreamFactory.java,0.0,0,0.0,23.04
+opennlp,/main/java/opennlp/tools/formats/muc/MucElementNames.java,0.0,0,0.0,12.53
+opennlp,/main/java/opennlp/tools/formats/muc/MucNameContentHandler.java,20.0,7min 30s,7.5,38.64
+opennlp,/main/java/opennlp/tools/formats/muc/MucNameSampleStream.java,2.0,27min 30s,27.5,16.76
+opennlp,/main/java/opennlp/tools/ml/model/MutableContext.java,0.0,0,0.0,11.21
+opennlp,/main/java/opennlp/tools/postag/MutableTagDictionary.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/ml/naivebayes/NaiveBayesEvalParameters.java,0.0,0,0.0,12.26
+opennlp,/main/java/opennlp/tools/ml/naivebayes/NaiveBayesModel.java,69.0,48min,48.0,83.64
+opennlp,/main/java/opennlp/tools/ml/naivebayes/NaiveBayesModelReader.java,10.0,1min,1.0,21.18
+opennlp,/main/java/opennlp/tools/ml/naivebayes/NaiveBayesModelWriter.java,83.0,42min,42.0,51.63
+opennlp,/main/java/opennlp/tools/ml/naivebayes/NaiveBayesTrainer.java,50.0,29min 30s,29.5,49.5
+opennlp,/main/java/opennlp/tools/namefind/NameContextGenerator.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/cmdline/namefind/NameEvaluationErrorListener.java,10.0,7min 30s,7.5,12.18
+opennlp,/main/java/opennlp/uima/namefind/NameFinder.java,0.0,7min 30s,7.5,48.34
+opennlp,/main/java/opennlp/bratann/NameFinderAnnService.java,30.0,42min 30s,42.5,27.0
+opennlp,/main/java/opennlp/tools/formats/NameFinderCensus90NameStream.java,5.0,0,0.0,23.2
+opennlp,/main/java/opennlp/tools/namefind/NameFinderEventStream.java,15.0,0,0.0,43.41
+opennlp,/main/java/opennlp/tools/namefind/NameFinderME.java,17.0,1h 15min,75.0,64.67
+opennlp,/main/java/opennlp/bratann/NameFinderResource.java,26.0,42min 30s,42.5,45.97
+opennlp,/main/java/opennlp/tools/namefind/NameFinderSequenceValidator.java,14.0,57min 30s,57.5,12.88
+opennlp,/main/java/opennlp/tools/namefind/NameSample.java,37.0,1h 36min,96.0,74.64
+opennlp,/main/java/opennlp/tools/cmdline/namefind/NameSampleCountersStream.java,50.0,7min 30s,7.5,32.2
+opennlp,/main/java/opennlp/tools/namefind/NameSampleDataStream.java,0.0,35min,35.0,391.76
+opennlp,/main/java/opennlp/tools/formats/NameSampleDataStreamFactory.java,0.0,0,0.0,20.21
+opennlp,/main/java/opennlp/tools/namefind/NameSampleSequenceStream.java,5.0,27min 30s,27.5,78.87
+opennlp,/main/java/opennlp/tools/namefind/NameSampleTypeFilter.java,0.0,27min 30s,27.5,18.97
+opennlp,/main/java/opennlp/tools/formats/convert/NameToSentenceSampleStream.java,0.0,7min 30s,7.5,14.12
+opennlp,/main/java/opennlp/tools/formats/convert/NameToSentenceSampleStreamFactory.java,0.0,7min 30s,7.5,15.71
+opennlp,/main/java/opennlp/tools/formats/convert/NameToTokenSampleStream.java,0.0,7min 30s,7.5,14.47
+opennlp,/main/java/opennlp/tools/formats/convert/NameToTokenSampleStreamFactory.java,0.0,7min 30s,7.5,15.71
+opennlp,/main/java/opennlp/tools/ml/maxent/quasinewton/NegLogLikelihood.java,53.0,17min,17.0,38.64
+opennlp,/main/java/opennlp/tools/sentdetect/NewlineSentenceDetector.java,5.0,0,0.0,19.24
+opennlp,/main/java/opennlp/tools/doccat/NGramFeatureGenerator.java,0.0,0,0.0,8.38
+opennlp,/main/java/opennlp/tools/ngram/NGramGenerator.java,30.0,0,0.0,26.65
+opennlp,/main/java/opennlp/tools/languagemodel/NGramLanguageModel.java,0.0,37min 30s,37.5,41.12
+opennlp,/main/java/opennlp/tools/cmdline/languagemodel/NGramLanguageModelTool.java,105.0,27min 30s,27.5,31.07
+opennlp,/main/java/opennlp/tools/ngram/NGramModel.java,0.0,12min,12.0,43.06
+opennlp,/main/java/opennlp/tools/ngram/NGramUtils.java,40.0,17min 30s,17.5,46.86
+opennlp,/main/java/opennlp/tools/formats/nkjp/NKJPSegmentationDocument.java,123.0,2h 12min,132.0,82.86
+opennlp,/main/java/opennlp/tools/formats/nkjp/NKJPSentenceSampleStream.java,10.0,25min,25.0,26.3
+opennlp,/main/java/opennlp/tools/formats/nkjp/NKJPSentenceSampleStreamFactory.java,0.0,0,0.0,21.8
+opennlp,/main/java/opennlp/tools/formats/nkjp/NKJPTextDocument.java,29.0,35min,35.0,39.26
+opennlp,/main/java/opennlp/uima/normalizer/Normalizer.java,64.0,1h,60.0,29.64
+opennlp,/main/java/opennlp/tools/stemmer/snowball/norwegianStemmer.java,728.0,5h 15min,315.0,54.08
+opennlp,/main/java/opennlp/tools/util/normalizer/NumberCharSequenceNormalizer.java,0.0,0,0.0,14.12
+opennlp,/main/java/opennlp/uima/normalizer/NumberUtil.java,30.0,10min,10.0,16.41
+opennlp,/main/java/opennlp/tools/ml/model/ObjectDataReader.java,0.0,0,0.0,20.56
+opennlp,/main/java/opennlp/tools/util/ObjectStream.java,5.0,0,0.0,7.95
+opennlp,/main/java/opennlp/tools/cmdline/ObjectStreamFactory.java,0.0,0,0.0,2.56
+opennlp,/main/java/opennlp/tools/util/ObjectStreamUtils.java,57.0,45min,45.0,245.84
+opennlp,/main/java/opennlp/tools/ml/model/OnePassDataIndexer.java,15.0,25min,25.0,20.21
+opennlp,/main/java/opennlp/tools/ml/model/OnePassRealValueDataIndexer.java,15.0,17min 30s,17.5,14.82
+opennlp,/main/java/opennlp/tools/formats/ontonotes/OntoNotesFormatParameters.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/tools/formats/ontonotes/OntoNotesNameSampleStream.java,88.0,1h 37min,97.0,31.77
+opennlp,/main/java/opennlp/tools/formats/ontonotes/OntoNotesNameSampleStreamFactory.java,0.0,0,0.0,20.13
+opennlp,/main/java/opennlp/tools/formats/ontonotes/OntoNotesParseSampleStream.java,0.0,27min 30s,27.5,393.0
+opennlp,/main/java/opennlp/tools/formats/ontonotes/OntoNotesParseSampleStreamFactory.java,0.0,0,0.0,19.86
+opennlp,/main/java/opennlp/tools/formats/ontonotes/OntoNotesPOSSampleStreamFactory.java,0.0,0,0.0,17.3
+opennlp,/main/java/opennlp/uima/util/OpenNlpAnnotatorProcessException.java,300.0,0,0.0,17.65
+opennlp,/main/java/opennlp/uima/util/OpennlpUtil.java,2.0,10min,10.0,29.83
+opennlp,/main/java/opennlp/tools/util/ext/OSGiExtensionLoader.java,40.0,0,0.0,23.2
+opennlp,/main/java/opennlp/tools/util/featuregen/OutcomePriorFeatureGenerator.java,0.0,0,0.0,12.53
+opennlp,/main/java/opennlp/tools/chunker/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/doccat/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/dictionary/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/ngram/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/languagemodel/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/namefind/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/parser/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/parser/chunking/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/parser/treeinsert/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/tokenize/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/lemmatizer/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/formats/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/sentdetect/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/postag/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/cmdline/lemmatizer/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/util/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/util/featuregen/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/util/ext/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/package-info.java,0.0,0,0.0,null
+opennlp,/main/java/opennlp/tools/util/ParagraphStream.java,0.0,28min 30s,28.5,406.77
+opennlp,/main/java/opennlp/tools/ml/maxent/quasinewton/ParallelNegLogLikelihood.java,52.0,21min,21.0,114.55
+opennlp,/main/java/opennlp/tools/parser/Parse.java,495.0,1M/d,480.0,211.56
+opennlp,/main/java/opennlp/uima/parser/Parser.java,35.0,55min,55.0,78.25
+opennlp,/main/java/opennlp/tools/parser/Parser.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/parser/chunking/Parser.java,217.0,2h 38min,158.0,82.75
+opennlp,/main/java/opennlp/tools/parser/treeinsert/Parser.java,516.0,2h 38min,158.0,162.08
+opennlp,/main/java/opennlp/tools/parser/ParserChunkerFactory.java,0.0,0,0.0,14.74
+opennlp,/main/java/opennlp/tools/parser/ParserChunkerSequenceValidator.java,2.0,50min,50.0,19.94
+opennlp,/main/java/opennlp/tools/cmdline/parser/ParserConverterTool.java,0.0,7min 30s,7.5,9.27
+opennlp,/main/java/opennlp/tools/parser/ParserCrossValidator.java,5.0,7min 30s,7.5,615.88
+opennlp,/main/java/opennlp/tools/parser/ParserEvaluationMonitor.java,0.0,0,0.0,1.94
+opennlp,/main/java/opennlp/tools/parser/ParserEvaluator.java,20.0,0,0.0,15.44
+opennlp,/main/java/opennlp/tools/cmdline/parser/ParserEvaluatorTool.java,80.0,7min 30s,7.5,26.92
+opennlp,/main/java/opennlp/tools/parser/chunking/ParserEventStream.java,46.0,25min,25.0,42.36
+opennlp,/main/java/opennlp/tools/parser/treeinsert/ParserEventStream.java,309.0,1h 32min,92.0,98.49
+opennlp,/main/java/opennlp/tools/parser/ParserEventTypeEnum.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/parser/ParserFactory.java,0.0,20min,20.0,22.77
+opennlp,/main/java/opennlp/tools/parser/ParserModel.java,67.0,1h 8min,68.0,133.06
+opennlp,/main/java/opennlp/tools/cmdline/parser/ParserModelLoader.java,0.0,0,0.0,15.09
+opennlp,/main/java/opennlp/uima/parser/ParserModelResource.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/uima/parser/ParserModelResourceImpl.java,0.0,7min 30s,7.5,17.65
+opennlp,/main/java/opennlp/tools/cmdline/parser/ParserTool.java,58.0,32min 30s,32.5,49.42
+opennlp,/main/java/opennlp/tools/cmdline/parser/ParserTrainerTool.java,38.0,42min 30s,42.5,47.13
+opennlp,/main/java/opennlp/tools/parser/ParserType.java,0.0,30min,30.0,6.09
+opennlp,/main/java/opennlp/tools/parser/ParseSampleStream.java,0.0,37min 30s,37.5,21.8
+opennlp,/main/java/opennlp/tools/formats/ParseSampleStreamFactory.java,0.0,0,0.0,20.21
+opennlp,/main/java/opennlp/tools/formats/convert/ParseToPOSSampleStream.java,0.0,27min 30s,27.5,17.65
+opennlp,/main/java/opennlp/tools/formats/convert/ParseToPOSSampleStreamFactory.java,20.0,7min 30s,7.5,12.8
+opennlp,/main/java/opennlp/tools/formats/convert/ParseToSentenceSampleStreamFactory.java,0.0,7min 30s,7.5,15.71
+opennlp,/main/java/opennlp/tools/formats/convert/ParseToTokenSampleStreamFactory.java,0.0,7min 30s,7.5,15.71
+opennlp,/main/java/opennlp/tools/ml/perceptron/PerceptronModel.java,69.0,8min 30s,8.5,55.94
+opennlp,/main/java/opennlp/tools/ml/perceptron/PerceptronModelReader.java,10.0,1min,1.0,21.18
+opennlp,/main/java/opennlp/tools/ml/perceptron/PerceptronModelWriter.java,58.0,29min 30s,29.5,43.6
+opennlp,/main/java/opennlp/tools/ml/perceptron/PerceptronTrainer.java,137.0,2h 33min,153.0,98.38
+opennlp,/main/java/opennlp/tools/cmdline/PerformanceMonitor.java,20.0,4min,4.0,33.9
+opennlp,/main/java/opennlp/tools/util/PlainTextByLineStream.java,0.0,0,0.0,30.53
+opennlp,/main/java/opennlp/tools/ml/model/PlainTextFileDataReader.java,0.0,0,0.0,31.15
+opennlp,/main/java/opennlp/tools/ml/naivebayes/PlainTextNaiveBayesModelReader.java,0.0,0,0.0,12.53
+opennlp,/main/java/opennlp/tools/ml/naivebayes/PlainTextNaiveBayesModelWriter.java,0.0,0,0.0,26.38
+opennlp,/main/java/opennlp/tools/stemmer/PorterStemmer.java,529.0,1M/d 3h,660.0,109.83
+opennlp,/main/java/opennlp/tools/stemmer/snowball/porterStemmer.java,2607.0,1M/d 5h,780.0,107.73
+opennlp,/main/java/opennlp/tools/formats/ad/PortugueseContractionUtility.java,37.0,1h 10min,70.0,10.59
+opennlp,/main/java/opennlp/tools/stemmer/snowball/portugueseStemmer.java,2813.0,1M/d 7h,900.0,133.68
+opennlp,/main/java/opennlp/tools/postag/POSContextGenerator.java,0.0,0,0.0,7.41
+opennlp,/main/java/opennlp/tools/postag/POSDictionary.java,25.0,1h 36min,96.0,39.53
+opennlp,/main/java/opennlp/tools/cmdline/postag/POSEvaluationErrorListener.java,10.0,7min 30s,7.5,12.18
+opennlp,/main/java/opennlp/tools/postag/POSEvaluator.java,0.0,0,0.0,8.73
+opennlp,/main/java/opennlp/tools/postag/POSModel.java,15.0,1h 26min,86.0,72.0
+opennlp,/main/java/opennlp/tools/cmdline/postag/POSModelLoader.java,0.0,0,0.0,13.15
+opennlp,/main/java/opennlp/uima/postag/POSModelResource.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/uima/postag/POSModelResourceImpl.java,0.0,7min 30s,7.5,17.65
+opennlp,/main/java/opennlp/tools/util/model/POSModelSerializer.java,5.0,0,0.0,23.82
+opennlp,/main/java/opennlp/tools/postag/POSSample.java,5.0,20min,20.0,52.33
+opennlp,/main/java/opennlp/tools/postag/POSSampleEventStream.java,1.0,7min 30s,7.5,74.75
+opennlp,/main/java/opennlp/tools/postag/POSSampleSequenceStream.java,8.0,17min 30s,17.5,95.93
+opennlp,/main/java/opennlp/tools/parser/PosSampleStream.java,0.0,27min 30s,27.5,19.24
+opennlp,/main/java/opennlp/uima/postag/POSTagger.java,34.0,15min,15.0,32.9
+opennlp,/main/java/opennlp/tools/postag/POSTagger.java,0.0,0,0.0,11.64
+opennlp,/main/java/opennlp/tools/cmdline/postag/POSTaggerConverterTool.java,0.0,7min 30s,7.5,9.27
+opennlp,/main/java/opennlp/tools/postag/POSTaggerCrossValidator.java,27.0,22min 30s,22.5,455.11
+opennlp,/main/java/opennlp/tools/cmdline/postag/POSTaggerCrossValidatorTool.java,80.0,25min,25.0,26.3
+opennlp,/main/java/opennlp/tools/postag/POSTaggerEvaluationMonitor.java,0.0,0,0.0,1.94
+opennlp,/main/java/opennlp/tools/cmdline/postag/POSTaggerEvaluatorTool.java,110.0,25min,25.0,35.92
+opennlp,/main/java/opennlp/tools/postag/POSTaggerFactory.java,115.0,1h 41min,101.0,168.98
+opennlp,/main/java/opennlp/tools/util/featuregen/PosTaggerFeatureGenerator.java,13.0,7min 30s,7.5,15.71
+opennlp,/main/java/opennlp/tools/cmdline/postag/POSTaggerFineGrainedReportListener.java,10.0,7min 30s,7.5,19.94
+opennlp,/main/java/opennlp/tools/postag/POSTaggerME.java,55.0,1h 53min,113.0,95.28
+opennlp,/main/java/opennlp/tools/util/featuregen/POSTaggerNameFeatureGenerator.java,0.0,0,0.0,13.23
+opennlp,/main/java/opennlp/tools/cmdline/postag/POSTaggerTool.java,30.0,17min 30s,17.5,30.1
+opennlp,/main/java/opennlp/tools/cmdline/postag/POSTaggerTrainerTool.java,8.0,22min 30s,22.5,31.07
+opennlp,/main/java/opennlp/tools/formats/convert/POSToSentenceSampleStream.java,0.0,7min 30s,7.5,14.12
+opennlp,/main/java/opennlp/tools/formats/convert/POSToSentenceSampleStreamFactory.java,0.0,7min 30s,7.5,15.71
+opennlp,/main/java/opennlp/tools/formats/convert/POSToTokenSampleStream.java,0.0,7min 30s,7.5,14.47
+opennlp,/main/java/opennlp/tools/formats/convert/POSToTokenSampleStreamFactory.java,0.0,7min 30s,7.5,15.71
+opennlp,/main/java/opennlp/tools/util/featuregen/PrefixFeatureGenerator.java,0.0,0,0.0,18.62
+opennlp,/main/java/opennlp/tools/util/featuregen/PreviousMapFeatureGenerator.java,0.0,0,0.0,10.32
+opennlp,/main/java/opennlp/tools/util/featuregen/PreviousTwoMapFeatureGenerator.java,0.0,0,0.0,10.32
+opennlp,/main/java/opennlp/tools/ml/model/Prior.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/ml/naivebayes/Probabilities.java,2.0,35min,35.0,25.68
+opennlp,/main/java/opennlp/tools/ml/naivebayes/Probability.java,10.0,0,0.0,9.62
+opennlp,/main/java/opennlp/tools/util/model/PropertiesSerializer.java,0.0,0,0.0,21.18
+opennlp,/main/java/opennlp/tools/ml/maxent/quasinewton/QNMinimizer.java,86.0,2h 31min,151.0,123.79
+opennlp,/main/java/opennlp/tools/ml/maxent/quasinewton/QNModel.java,0.0,8min 30s,8.5,31.77
+opennlp,/main/java/opennlp/tools/ml/maxent/io/QNModelReader.java,10.0,1min,1.0,26.3
+opennlp,/main/java/opennlp/tools/ml/maxent/io/QNModelWriter.java,0.0,11min 30s,11.5,22.15
+opennlp,/main/java/opennlp/tools/ml/maxent/quasinewton/QNTrainer.java,50.0,52min 30s,52.5,85.39
+opennlp,/main/java/opennlp/tools/ml/maxent/RealBasicEventStream.java,5.0,31min,31.0,36.35
+opennlp,/main/java/opennlp/tools/ml/model/RealValueFileEventStream.java,41.0,27min 30s,27.5,34.41
+opennlp,/main/java/opennlp/tools/namefind/RegexNameFinder.java,41.0,15min,15.0,50.12
+opennlp,/main/java/opennlp/tools/namefind/RegexNameFinderFactory.java,7.0,0,0.0,93.56
+opennlp,/main/java/opennlp/tools/formats/brat/RelationAnnotation.java,0.0,0,0.0,18.35
+opennlp,/main/java/opennlp/tools/util/ResetableIterator.java,0.0,0,0.0,2.91
+opennlp,/main/java/opennlp/tools/util/ReverseListIterator.java,5.0,0,0.0,16.06
+opennlp,/main/java/opennlp/tools/stemmer/snowball/romanianStemmer.java,2617.0,1M/d 5h,780.0,113.47
+opennlp,/main/java/opennlp/tools/stemmer/snowball/russianStemmer.java,1624.0,1M/d 3h,660.0,110.29
+opennlp,/main/java/opennlp/tools/formats/leipzig/SampleShuffleStream.java,5.0,20min,20.0,24.71
+opennlp,/main/java/opennlp/tools/formats/leipzig/SampleSkipStream.java,5.0,0,0.0,34.33
+opennlp,/main/java/opennlp/tools/sentdetect/SDContextGenerator.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/sentdetect/SDCrossValidator.java,45.0,0,0.0,406.31
+opennlp,/main/java/opennlp/tools/sentdetect/SDEventStream.java,0.0,15min,15.0,14.2
+opennlp,/main/java/opennlp/tools/formats/brat/SegmenterObjectStream.java,0.0,27min 30s,27.5,26.65
+opennlp,/main/java/opennlp/tools/sentdetect/lang/th/SentenceContextGenerator.java,0.0,15min,15.0,19.59
+opennlp,/main/java/opennlp/uima/sentdetect/SentenceDetector.java,10.0,0,0.0,16.41
+opennlp,/main/java/opennlp/tools/sentdetect/SentenceDetector.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorConverterTool.java,0.0,7min 30s,7.5,9.27
+opennlp,/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorCrossValidatorTool.java,30.0,15min,15.0,22.77
+opennlp,/main/java/opennlp/tools/sentdetect/SentenceDetectorEvaluationMonitor.java,0.0,0,0.0,1.94
+opennlp,/main/java/opennlp/tools/sentdetect/SentenceDetectorEvaluator.java,0.0,0,0.0,18.35
+opennlp,/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorEvaluatorTool.java,40.0,15min,15.0,27.89
+opennlp,/main/java/opennlp/tools/sentdetect/SentenceDetectorFactory.java,30.0,1h 3min,63.0,68.63
+opennlp,/main/java/opennlp/tools/sentdetect/SentenceDetectorME.java,123.0,1h 51min,111.0,74.99
+opennlp,/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorTool.java,40.0,17min 30s,17.5,21.8
+opennlp,/main/java/opennlp/tools/cmdline/sentdetect/SentenceDetectorTrainerTool.java,25.0,15min,15.0,34.6
+opennlp,/main/java/opennlp/tools/cmdline/sentdetect/SentenceEvaluationErrorListener.java,10.0,7min 30s,7.5,12.18
+opennlp,/main/java/opennlp/tools/util/featuregen/SentenceFeatureGenerator.java,0.0,0,0.0,11.91
+opennlp,/main/java/opennlp/tools/sentdetect/SentenceModel.java,60.0,27min 30s,27.5,78.17
+opennlp,/main/java/opennlp/tools/cmdline/sentdetect/SentenceModelLoader.java,0.0,0,0.0,15.09
+opennlp,/main/java/opennlp/uima/sentdetect/SentenceModelResource.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/uima/sentdetect/SentenceModelResourceImpl.java,0.0,7min 30s,7.5,17.65
+opennlp,/main/java/opennlp/tools/sentdetect/SentenceSample.java,0.0,30min,30.0,24.09
+opennlp,/main/java/opennlp/tools/sentdetect/SentenceSampleStream.java,2.0,27min 30s,27.5,28.86
+opennlp,/main/java/opennlp/tools/formats/SentenceSampleStreamFactory.java,20.0,10min,10.0,20.21
+opennlp,/main/java/opennlp/tools/ml/model/Sequence.java,0.0,0,0.0,4.85
+opennlp,/main/java/opennlp/tools/util/Sequence.java,0.0,21min,21.0,35.65
+opennlp,/main/java/opennlp/tools/ml/model/SequenceClassificationModel.java,0.0,0,0.0,20.02
+opennlp,/main/java/opennlp/tools/util/SequenceCodec.java,0.0,0,0.0,9.35
+opennlp,/main/java/opennlp/tools/ml/model/SequenceStream.java,0.0,0,0.0,2.56
+opennlp,/main/java/opennlp/tools/ml/model/SequenceStreamEventStream.java,5.0,10min,10.0,258.99
+opennlp,/main/java/opennlp/tools/ml/SequenceTrainer.java,25.0,0,0.0,14.55
+opennlp,/main/java/opennlp/tools/util/SequenceValidator.java,0.0,0,0.0,2.56
+opennlp,/main/java/opennlp/tools/util/model/SerializableArtifact.java,0.0,0,0.0,2.56
+opennlp,/main/java/opennlp/tools/formats/muc/SgmlParser.java,24.0,52min 30s,52.5,59.74
+opennlp,/main/java/opennlp/tools/util/normalizer/ShrinkCharSequenceNormalizer.java,0.0,0,0.0,15.09
+opennlp,/main/java/opennlp/tools/ml/perceptron/SimplePerceptronSequenceTrainer.java,186.0,2h 41min,161.0,360.12
+opennlp,/main/java/opennlp/uima/tokenize/SimpleTokenizer.java,0.0,0,0.0,13.15
+opennlp,/main/java/opennlp/tools/tokenize/SimpleTokenizer.java,38.0,22min 30s,22.5,35.92
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/SimpleTokenizerTool.java,10.0,0,0.0,19.86
+opennlp,/main/java/opennlp/tools/stemmer/snowball/SnowballProgram.java,568.0,1M/d 1h,540.0,188.76
+opennlp,/main/java/opennlp/tools/stemmer/snowball/SnowballStemmer.java,8.0,30min,30.0,21.53
+opennlp,/main/java/opennlp/tools/util/Span.java,0.0,2h 50min,170.0,50.39
+opennlp,/main/java/opennlp/tools/formats/brat/SpanAnnotation.java,0.0,0,0.0,18.0
+opennlp,/main/java/opennlp/tools/stemmer/snowball/spanishStemmer.java,2652.0,2M/d,960.0,124.41
+opennlp,/main/java/opennlp/tools/stemmer/Stemmer.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/tools/cmdline/StreamFactoryRegistry.java,30.0,1h 12min,72.0,10.94
+opennlp,/main/java/opennlp/uima/normalizer/StringDictionary.java,5.0,0,0.0,22.15
+opennlp,/main/java/opennlp/tools/util/StringList.java,5.0,50min,50.0,24.63
+opennlp,/main/java/opennlp/tools/util/featuregen/StringPattern.java,10.0,7min 30s,7.5,43.06
+opennlp,/main/java/opennlp/tools/util/StringUtil.java,227.0,2h 27min,147.0,29.56
+opennlp,/main/java/opennlp/tools/util/featuregen/SuffixFeatureGenerator.java,0.0,0,0.0,18.62
+opennlp,/main/java/opennlp/tools/stemmer/snowball/swedishStemmer.java,631.0,4h 37min,277.0,52.14
+opennlp,/main/java/opennlp/tools/cmdline/SystemInputStreamFactory.java,0.0,10min,10.0,17.3
+opennlp,/main/java/opennlp/tools/postag/TagDictionary.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/cmdline/parser/TaggerModelReplacerTool.java,10.0,0,0.0,18.27
+opennlp,/main/java/opennlp/tools/cmdline/TerminateToolException.java,0.0,0,0.0,20.56
+opennlp,/main/java/opennlp/tools/util/featuregen/TokenClassFeatureGenerator.java,0.0,0,0.0,15.44
+opennlp,/main/java/opennlp/tools/tokenize/TokenContextGenerator.java,0.0,0,0.0,0.97
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/TokenEvaluationErrorListener.java,10.0,7min 30s,7.5,12.18
+opennlp,/main/java/opennlp/tools/util/featuregen/TokenFeatureGenerator.java,0.0,0,0.0,13.5
+opennlp,/main/java/opennlp/uima/tokenize/Tokenizer.java,10.0,0,0.0,17.73
+opennlp,/main/java/opennlp/tools/tokenize/Tokenizer.java,0.0,0,0.0,1.59
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/TokenizerConverterTool.java,0.0,7min 30s,7.5,9.27
+opennlp,/main/java/opennlp/tools/tokenize/TokenizerCrossValidator.java,0.0,0,0.0,395.64
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/TokenizerCrossValidatorTool.java,30.0,15min,15.0,22.77
+opennlp,/main/java/opennlp/tools/tokenize/TokenizerEvaluationMonitor.java,0.0,0,0.0,1.94
+opennlp,/main/java/opennlp/tools/tokenize/TokenizerEvaluator.java,0.0,0,0.0,11.91
+opennlp,/main/java/opennlp/tools/tokenize/TokenizerFactory.java,30.0,21min,21.0,33.52
+opennlp,/main/java/opennlp/tools/tokenize/TokenizerME.java,45.0,25min,25.0,30.88
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/TokenizerMEEvaluatorTool.java,80.0,15min,15.0,28.86
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/TokenizerMETool.java,10.0,0,0.0,18.89
+opennlp,/main/java/opennlp/tools/tokenize/TokenizerModel.java,0.0,10min,10.0,30.18
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/TokenizerModelLoader.java,0.0,0,0.0,13.15
+opennlp,/main/java/opennlp/uima/tokenize/TokenizerModelResource.java,0.0,0,0.0,1.59
+opennlp,/main/java/opennlp/uima/tokenize/TokenizerModelResourceImpl.java,0.0,7min 30s,7.5,17.65
+opennlp,/main/java/opennlp/tools/tokenize/TokenizerStream.java,5.0,10min,10.0,27.35
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/TokenizerTrainerTool.java,20.0,15min,15.0,34.6
+opennlp,/main/java/opennlp/tools/namefind/TokenNameFinder.java,0.0,0,0.0,1.59
+opennlp,/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderConverterTool.java,0.0,7min 30s,7.5,7.68
+opennlp,/main/java/opennlp/tools/namefind/TokenNameFinderCrossValidator.java,10.0,1h 35min,95.0,510.46
+opennlp,/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderCrossValidatorTool.java,46.0,47min 30s,47.5,32.39
+opennlp,/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderDetailedFMeasureListener.java,0.0,7min 30s,7.5,11.21
+opennlp,/main/java/opennlp/tools/namefind/TokenNameFinderEvaluationMonitor.java,0.0,0,0.0,1.94
+opennlp,/main/java/opennlp/tools/namefind/TokenNameFinderEvaluator.java,0.0,0,0.0,13.5
+opennlp,/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderEvaluatorTool.java,61.0,15min,15.0,44.57
+opennlp,/main/java/opennlp/tools/namefind/TokenNameFinderFactory.java,40.0,1h 20min,80.0,71.65
+opennlp,/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderFineGrainedReportListener.java,10.0,7min 30s,7.5,27.0
+opennlp,/main/java/opennlp/tools/namefind/TokenNameFinderModel.java,25.0,1h 26min,86.0,101.56
+opennlp,/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderModelLoader.java,0.0,0,0.0,13.15
+opennlp,/main/java/opennlp/uima/namefind/TokenNameFinderModelResource.java,0.0,0,0.0,3.88
+opennlp,/main/java/opennlp/uima/namefind/TokenNameFinderModelResourceImpl.java,0.0,7min 30s,7.5,17.65
+opennlp,/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderTool.java,43.0,17min 30s,17.5,59.58
+opennlp,/main/java/opennlp/tools/cmdline/namefind/TokenNameFinderTrainerTool.java,50.0,45min,45.0,42.98
+opennlp,/main/java/opennlp/tools/util/featuregen/TokenPatternFeatureGenerator.java,0.0,17min 30s,17.5,12.88
+opennlp,/main/java/opennlp/tools/tokenize/TokenSample.java,2.0,48min,48.0,60.09
+opennlp,/main/java/opennlp/tools/tokenize/TokenSampleStream.java,0.0,27min 30s,27.5,17.03
+opennlp,/main/java/opennlp/tools/tokenize/lang/en/TokenSampleStream.java,63.0,40min,40.0,38.56
+opennlp,/main/java/opennlp/tools/formats/TokenSampleStreamFactory.java,0.0,7min 30s,7.5,20.21
+opennlp,/main/java/opennlp/tools/util/TokenTag.java,0.0,30min,30.0,39.53
+opennlp,/main/java/opennlp/tools/tokenize/TokSpanEventStream.java,47.0,22min 30s,22.5,34.14
+opennlp,/main/java/opennlp/tools/ml/TrainerFactory.java,12.0,3h,180.0,36.0
+opennlp,/main/java/opennlp/tools/util/TrainingParameters.java,87.0,4h,240.0,173.29
+opennlp,/main/java/opennlp/tools/cmdline/chunker/TrainingParams.java,0.0,0,0.0,2.91
+opennlp,/main/java/opennlp/tools/cmdline/doccat/TrainingParams.java,0.0,0,0.0,4.85
+opennlp,/main/java/opennlp/tools/cmdline/namefind/TrainingParams.java,0.0,0,0.0,13.85
+opennlp,/main/java/opennlp/tools/cmdline/parser/TrainingParams.java,0.0,0,0.0,9.35
+opennlp,/main/java/opennlp/tools/cmdline/lemmatizer/TrainingParams.java,0.0,0,0.0,2.91
+opennlp,/main/java/opennlp/tools/cmdline/langdetect/TrainingParams.java,0.0,0,0.0,4.85
+opennlp,/main/java/opennlp/tools/cmdline/sentdetect/TrainingParams.java,0.0,0,0.0,7.41
+opennlp,/main/java/opennlp/tools/cmdline/tokenizer/TrainingParams.java,0.0,0,0.0,7.41
+opennlp,/main/java/opennlp/tools/cmdline/postag/TrainingParams.java,0.0,0,0.0,12.53
+opennlp,/main/java/opennlp/tools/cmdline/params/TrainingToolParams.java,0.0,0,0.0,4.15
+opennlp,/main/java/opennlp/tools/util/featuregen/TrigramNameFeatureGenerator.java,0.0,7min 30s,7.5,14.12
+opennlp,/main/java/opennlp/tools/stemmer/snowball/turkishStemmer.java,10191.0,6M/d 5h,3180.0,241.43
+opennlp,/main/java/opennlp/tools/formats/TwentyNewsgroupSampleStream.java,17.0,10min,10.0,29.91
+opennlp,/main/java/opennlp/tools/formats/TwentyNewsgroupSampleStreamFactory.java,20.0,20min,20.0,27.27
+opennlp,/main/java/opennlp/tools/util/normalizer/TwitterCharSequenceNormalizer.java,0.0,0,0.0,17.03
+opennlp,/main/java/opennlp/tools/ml/model/TwoPassDataIndexer.java,30.0,49min,49.0,46.16
+opennlp,/main/java/opennlp/tools/cmdline/TypedCmdLineTool.java,0.0,10min,10.0,12.18
+opennlp,/main/java/opennlp/uima/util/UimaUtil.java,4.0,7min 30s,7.5,26.11
+opennlp,/main/java/opennlp/tools/util/model/UncloseableInputStream.java,5.0,0,0.0,10.59
+opennlp,/main/java/opennlp/tools/ml/model/UniformPrior.java,0.0,20min,20.0,30.53
+opennlp,/main/java/opennlp/tools/util/normalizer/UrlCharSequenceNormalizer.java,0.0,0,0.0,15.09
+opennlp,/main/java/opennlp/tools/util/Version.java,0.0,28min 30s,28.5,31.23
+opennlp,/main/java/opennlp/uima/tokenize/WhitespaceTokenizer.java,0.0,0,0.0,12.18
+opennlp,/main/java/opennlp/tools/tokenize/WhitespaceTokenizer.java,0.0,7min 30s,7.5,12.18
+opennlp,/main/java/opennlp/tools/tokenize/WhitespaceTokenStream.java,0.0,17min 30s,17.5,17.03
+opennlp,/main/java/opennlp/tools/util/featuregen/WindowFeatureGenerator.java,0.0,7min 30s,7.5,86.58
+opennlp,/main/java/opennlp/tools/util/featuregen/WordClusterDictionary.java,10.0,20min,20.0,44.92
+opennlp,/main/java/opennlp/tools/util/featuregen/WordClusterFeatureGenerator.java,0.0,0,0.0,18.35
+opennlp,/main/java/opennlp/tools/postag/WordTagSampleStream.java,10.0,27min 30s,27.5,14.47
+opennlp,/main/java/opennlp/tools/formats/WordTagSampleStreamFactory.java,0.0,0,0.0,20.21
+opennlp,/main/java/opennlp/tools/util/wordvector/WordVector.java,0.0,0,0.0,14.55
+opennlp,/main/java/opennlp/tools/util/wordvector/WordVectorTable.java,0.0,0,0.0,7.76
+opennlp,/main/java/opennlp/tools/util/wordvector/WordVectorType.java,0.0,0,0.0,2.56
+opennlp,/main/java/opennlp/morfologik/cmdline/builder/XMLDictionaryToTableParams.java,0.0,0,0.0,9.97
+opennlp,/main/java/opennlp/morfologik/cmdline/builder/XMLDictionaryToTableTool.java,39.0,17min 30s,17.5,37.24
+opennlp,/main/java/opennlp/tools/util/XmlUtil.java,30.0,20min,20.0,8.03

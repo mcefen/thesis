@@ -1,0 +1,10 @@
+Compare Sonar With Squore
+
+/main/java/org/apache/mina/integration/jmx/ObjectMBean.java
+/main/java/org/apache/mina/core/buffer/AbstractIoBuffer.java
+/main/java/org/apache/mina/core/filterchain/DefaultIoFilterChain.java
+/main/java/org/apache/mina/core/polling/AbstractPollingIoProcessor.java
+/main/java/org/apache/mina/transport/socket/nio/NioDatagramAcceptor.java
+/main/java/org/apache/mina/filter/executor/UnorderedThreadPoolExecutor.java
+/main/java/org/apache/mina/core/polling/AbstractPollingIoAcceptor.java
+/main/java/org/apache/mina/filter/executor/OrderedThreadPoolExecutor.java

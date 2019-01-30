@@ -1,0 +1,512 @@
+mina,/main/java/org/apache/mina/proxy/handlers/http/AbstractAuthLogicHandler.java,5.0,7min 30s,7.5,10.94
+mina,/main/java/org/apache/mina/util/byteaccess/AbstractByteArray.java,0.0,50min,50.0,14.12
+mina,/main/java/org/apache/mina/transport/socket/AbstractDatagramSessionConfig.java,6.0,32min 30s,32.5,3.53
+mina,/main/java/org/apache/mina/proxy/handlers/http/AbstractHttpLogicHandler.java,106.0,1h 45min,105.0,42.09
+mina,/main/java/org/apache/mina/core/service/AbstractIoAcceptor.java,10.0,1h 50min,110.0,152.44
+mina,/main/java/org/apache/mina/core/buffer/AbstractIoBuffer.java,443.0,1M/d 3h,660.0,277.18
+mina,/main/java/org/apache/mina/core/service/AbstractIoConnector.java,28.0,30min,30.0,25.33
+mina,/main/java/org/apache/mina/core/service/AbstractIoService.java,5.0,1h,60.0,68.07
+mina,/main/java/org/apache/mina/core/session/AbstractIoSession.java,20.0,6h 52min,412.0,269.09
+mina,/main/java/org/apache/mina/core/session/AbstractIoSessionConfig.java,8.0,45min,45.0,15.01
+mina,/main/java/org/apache/mina/example/sumup/message/AbstractMessage.java,0.0,0,0.0,9.97
+mina,/main/java/org/apache/mina/example/sumup/codec/AbstractMessageDecoder.java,0.0,30min,30.0,22.58
+mina,/main/java/org/apache/mina/example/sumup/codec/AbstractMessageEncoder.java,0.0,0,0.0,17.73
+mina,/main/java/org/apache/mina/core/polling/AbstractPollingIoAcceptor.java,128.0,2h,120.0,271.87
+mina,/main/java/org/apache/mina/core/polling/AbstractPollingIoConnector.java,131.0,1h 45min,105.0,269.31
+mina,/main/java/org/apache/mina/core/polling/AbstractPollingIoProcessor.java,274.0,5h 35min,335.0,954.98
+mina,/main/java/org/apache/mina/integration/ognl/AbstractPropertyAccessor.java,0.0,1h 17min,77.0,69.33
+mina,/main/java/org/apache/mina/integration/beans/AbstractPropertyEditor.java,0.0,7min 30s,7.5,15.71
+mina,/main/java/org/apache/mina/filter/codec/AbstractProtocolDecoderOutput.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/filter/codec/AbstractProtocolEncoderOutput.java,0.0,10min,10.0,5.47
+mina,/main/java/org/apache/mina/example/proxy/AbstractProxyIoHandler.java,2.0,7min 30s,7.5,9.7
+mina,/main/java/org/apache/mina/proxy/AbstractProxyIoHandler.java,2.0,0,0.0,11.56
+mina,/main/java/org/apache/mina/proxy/AbstractProxyLogicHandler.java,10.0,30min,30.0,29.75
+mina,/main/java/org/apache/mina/statemachine/transition/AbstractSelfTransition.java,0.0,0,0.0,5.12
+mina,/main/java/org/apache/mina/transport/socket/AbstractSocketSessionConfig.java,12.0,40min,40.0,8.65
+mina,/main/java/org/apache/mina/proxy/handlers/socks/AbstractSocksLogicHandler.java,0.0,0,0.0,5.12
+mina,/main/java/org/apache/mina/statemachine/context/AbstractStateContext.java,0.0,7min 30s,7.5,5.47
+mina,/main/java/org/apache/mina/statemachine/context/AbstractStateContextLookup.java,0.0,10min,10.0,6.44
+mina,/main/java/org/apache/mina/filter/stream/AbstractStreamWriteFilter.java,0.0,25min,25.0,75.72
+mina,/main/java/org/apache/mina/statemachine/transition/AbstractTransition.java,0.0,1h 17min,77.0,13.15
+mina,/main/java/org/apache/mina/example/sumup/message/AddMessage.java,5.0,0,0.0,8.38
+mina,/main/java/org/apache/mina/example/sumup/codec/AddMessageDecoder.java,5.0,10min,10.0,20.21
+mina,/main/java/org/apache/mina/example/sumup/codec/AddMessageEncoder.java,5.0,0,0.0,20.21
+mina,/main/java/org/apache/mina/statemachine/transition/AmbiguousMethodException.java,0.0,0,0.0,2.56
+mina,/main/java/org/apache/mina/transport/socket/apr/AprDatagramSession.java,90.0,45min,45.0,33.01
+mina,/main/java/org/apache/mina/transport/socket/apr/AprIoProcessor.java,109.0,3h 17min,197.0,60.79
+mina,/main/java/org/apache/mina/transport/socket/apr/AprLibrary.java,60.0,2min,2.0,11.56
+mina,/main/java/org/apache/mina/transport/socket/apr/AprSession.java,0.0,7min 30s,7.5,11.91
+mina,/main/java/org/apache/mina/transport/socket/apr/AprSocketAcceptor.java,58.0,2h,120.0,63.0
+mina,/main/java/org/apache/mina/transport/socket/apr/AprSocketConnector.java,60.0,2h 35min,155.0,62.03
+mina,/main/java/org/apache/mina/transport/socket/apr/AprSocketSession.java,90.0,1h 25min,85.0,37.78
+mina,/main/java/org/apache/mina/integration/beans/ArrayEditor.java,11.0,37min 30s,37.5,12.53
+mina,/main/java/org/apache/mina/http/ArrayUtil.java,35.0,10min,10.0,6.71
+mina,/main/java/org/apache/mina/core/session/AttributeKey.java,0.0,20min,20.0,5.47
+mina,/main/java/org/apache/mina/example/tapedeck/AuthenticationHandler.java,0.0,17min 30s,17.5,124.49
+mina,/main/java/org/apache/mina/util/AvailablePortFinder.java,30.0,27min 30s,27.5,17.65
+mina,/main/java/org/apache/mina/util/Base64.java,98.0,2h 40min,160.0,28.24
+mina,/main/java/org/apache/mina/filter/firewall/BlacklistFilter.java,3.0,10min,10.0,40.31
+mina,/main/java/org/apache/mina/example/echoserver/ssl/BogusSslContextFactory.java,55.0,30min,30.0,32.47
+mina,/main/java/org/apache/mina/example/tcp/perf/BogusSslContextFactory.java,55.0,30min,30.0,31.85
+mina,/main/java/org/apache/mina/example/echoserver/ssl/BogusTrustManagerFactory.java,20.0,20min,20.0,11.56
+mina,/main/java/org/apache/mina/example/tcp/perf/BogusTrustManagerFactory.java,25.0,20min,20.0,20.56
+mina,/main/java/org/apache/mina/filter/ssl/BogusTrustManagerFactory.java,0.0,0,0.0,16.33
+mina,/main/java/org/apache/mina/integration/beans/BooleanEditor.java,5.0,20min,20.0,17.65
+mina,/main/java/org/apache/mina/statemachine/BreakAndCallException.java,0.0,0,0.0,16.76
+mina,/main/java/org/apache/mina/statemachine/BreakAndContinueException.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/statemachine/BreakAndGotoException.java,0.0,0,0.0,9.35
+mina,/main/java/org/apache/mina/statemachine/BreakAndReturnException.java,0.0,0,0.0,10.59
+mina,/main/java/org/apache/mina/statemachine/BreakException.java,0.0,7min 30s,7.5,6.09
+mina,/main/java/org/apache/mina/util/byteaccess/BufferByteArray.java,0.0,15min,15.0,23.66
+mina,/main/java/org/apache/mina/core/buffer/BufferDataException.java,0.0,0,0.0,4.5
+mina,/main/java/org/apache/mina/filter/buffer/BufferedWriteFilter.java,23.0,17min 30s,17.5,20.91
+mina,/main/java/org/apache/mina/util/byteaccess/ByteArray.java,0.0,0,0.0,2.83
+mina,/main/java/org/apache/mina/util/byteaccess/ByteArrayFactory.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/util/byteaccess/ByteArrayList.java,0.0,0,0.0,42.12
+mina,/main/java/org/apache/mina/util/byteaccess/ByteArrayPool.java,6.0,35min,35.0,50.12
+mina,/main/java/org/apache/mina/integration/beans/ByteEditor.java,0.0,7min 30s,7.5,15.36
+mina,/main/java/org/apache/mina/proxy/utils/ByteUtilities.java,0.0,10min,10.0,23.39
+mina,/main/java/org/apache/mina/core/buffer/CachedBufferAllocator.java,6.0,27min 30s,27.5,71.95
+mina,/main/java/org/apache/mina/handler/chain/ChainedIoHandler.java,0.0,0,0.0,7.41
+mina,/main/java/org/apache/mina/integration/beans/CharacterEditor.java,5.0,20min,20.0,20.21
+mina,/main/java/org/apache/mina/example/chat/client/ChatClientSupport.java,4.0,37min 30s,37.5,88.44
+mina,/main/java/org/apache/mina/example/chat/ChatCommand.java,0.0,37min 30s,37.5,15.09
+mina,/main/java/org/apache/mina/example/chat/ChatProtocolHandler.java,32.0,37min 30s,37.5,133.55
+mina,/main/java/org/apache/mina/util/CircularQueue.java,66.0,1h 57min,117.0,36.35
+mina,/main/java/org/apache/mina/integration/beans/ClassEditor.java,5.0,20min,20.0,16.68
+mina,/main/java/org/apache/mina/example/sumup/Client.java,20.0,17min 30s,17.5,89.76
+mina,/main/java/org/apache/mina/example/udp/ClientPanel.java,10.0,0,0.0,23.39
+mina,/main/java/org/apache/mina/example/sumup/ClientSessionHandler.java,17.0,0,0.0,73.08
+mina,/main/java/org/apache/mina/example/proxy/ClientToProxyIoHandler.java,0.0,7min 30s,7.5,12.88
+mina,/main/java/org/apache/mina/core/future/CloseFuture.java,0.0,0,0.0,2.21
+mina,/main/java/org/apache/mina/integration/beans/CollectionEditor.java,5.0,50min,50.0,26.3
+mina,/main/java/org/apache/mina/example/tapedeck/Command.java,0.0,7min 30s,7.5,8.65
+mina,/main/java/org/apache/mina/example/tapedeck/CommandDecoder.java,15.0,2h 5min,125.0,28.24
+mina,/main/java/org/apache/mina/example/tapedeck/CommandSyntaxException.java,0.0,7min 30s,7.5,10.59
+mina,/main/java/org/apache/mina/filter/util/CommonEventFilter.java,0.0,0,0.0,19.59
+mina,/main/java/org/apache/mina/util/byteaccess/CompositeByteArray.java,10.0,5h 50min,350.0,239.05
+mina,/main/java/org/apache/mina/util/byteaccess/CompositeByteArrayRelativeBase.java,0.0,0,0.0,4.5
+mina,/main/java/org/apache/mina/util/byteaccess/CompositeByteArrayRelativeReader.java,0.0,7min 30s,7.5,6.44
+mina,/main/java/org/apache/mina/util/byteaccess/CompositeByteArrayRelativeWriter.java,0.0,17min 30s,17.5,36.54
+mina,/main/java/org/apache/mina/core/future/CompositeIoFuture.java,0.0,0,0.0,21.8
+mina,/main/java/org/apache/mina/filter/compression/CompressionFilter.java,4.0,1h 15min,75.0,41.82
+mina,/main/java/org/apache/mina/util/ConcurrentHashSet.java,0.0,0,0.0,4.15
+mina,/main/java/org/apache/mina/example/chat/client/ConnectDialog.java,275.0,15min,15.0,23.55
+mina,/main/java/org/apache/mina/core/future/ConnectFuture.java,0.0,0,0.0,2.21
+mina,/main/java/org/apache/mina/filter/firewall/ConnectionThrottleFilter.java,8.0,40min,40.0,31.42
+mina,/main/java/org/apache/mina/example/sumup/codec/Constants.java,0.0,7min 30s,7.5,15.79
+mina,/main/java/org/apache/mina/filter/codec/statemachine/ConsumeToCrLfDecodingState.java,52.0,27min 30s,27.5,13.85
+mina,/main/java/org/apache/mina/filter/codec/statemachine/ConsumeToDynamicTerminatorDecodingState.java,46.0,27min 30s,27.5,11.91
+mina,/main/java/org/apache/mina/filter/codec/statemachine/ConsumeToEndOfSessionDecodingState.java,0.0,10min,10.0,7.76
+mina,/main/java/org/apache/mina/filter/codec/statemachine/ConsumeToLinearWhitespaceDecodingState.java,0.0,0,0.0,6.09
+mina,/main/java/org/apache/mina/filter/codec/statemachine/ConsumeToTerminatorDecodingState.java,50.0,27min 30s,27.5,11.91
+mina,/main/java/org/apache/mina/util/CopyOnWriteMap.java,30.0,37min 30s,37.5,10.32
+mina,/main/java/org/apache/mina/filter/codec/statemachine/CrLfDecodingState.java,27.0,30min,30.0,13.5
+mina,/main/java/org/apache/mina/filter/codec/CumulativeProtocolDecoder.java,45.0,1h 7min,67.0,45.27
+mina,/main/java/org/apache/mina/util/DaemonThreadFactory.java,0.0,0,0.0,6.09
+mina,/main/java/org/apache/mina/transport/socket/DatagramAcceptor.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/transport/socket/DatagramConnector.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/transport/socket/DatagramSessionConfig.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/integration/beans/DateEditor.java,0.0,40min,40.0,6.44
+mina,/main/java/org/apache/mina/http/DateUtil.java,0.0,1h 10min,70.0,13.5
+mina,/main/java/org/apache/mina/http/DecoderState.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/codec/statemachine/DecodingState.java,40.0,0,0.0,1.86
+mina,/main/java/org/apache/mina/filter/codec/statemachine/DecodingStateMachine.java,40.0,1h,60.0,48.8
+mina,/main/java/org/apache/mina/filter/codec/statemachine/DecodingStateProtocolDecoder.java,0.0,10min,10.0,20.29
+mina,/main/java/org/apache/mina/core/future/DefaultCloseFuture.java,0.0,27min 30s,27.5,6.71
+mina,/main/java/org/apache/mina/core/future/DefaultConnectFuture.java,0.0,47min 30s,47.5,9.54
+mina,/main/java/org/apache/mina/transport/socket/DefaultDatagramSessionConfig.java,20.0,7min 30s,7.5,10.94
+mina,/main/java/org/apache/mina/statemachine/event/DefaultEventFactory.java,0.0,0,0.0,5.12
+mina,/main/java/org/apache/mina/util/DefaultExceptionMonitor.java,0.0,0,0.0,7.95
+mina,/main/java/org/apache/mina/core/file/DefaultFileRegion.java,0.0,0,0.0,2.91
+mina,/main/java/org/apache/mina/http/api/DefaultHttpResponse.java,20.0,10min,10.0,9.0
+mina,/main/java/org/apache/mina/filter/executor/DefaultIoEventSizeEstimator.java,0.0,57min 30s,57.5,18.0
+mina,/main/java/org/apache/mina/core/filterchain/DefaultIoFilterChain.java,367.0,3h 17min,197.0,466.94
+mina,/main/java/org/apache/mina/core/filterchain/DefaultIoFilterChainBuilder.java,31.0,3h 15min,195.0,146.0
+mina,/main/java/org/apache/mina/core/future/DefaultIoFuture.java,20.0,1h 45min,105.0,47.75
+mina,/main/java/org/apache/mina/core/session/DefaultIoSessionDataStructureFactory.java,5.0,1h 40min,100.0,24.9
+mina,/main/java/org/apache/mina/core/future/DefaultReadFuture.java,0.0,1h 7min,67.0,15.36
+mina,/main/java/org/apache/mina/transport/socket/DefaultSocketSessionConfig.java,20.0,15min,15.0,22.85
+mina,/main/java/org/apache/mina/statemachine/context/DefaultStateContext.java,0.0,0,0.0,5.12
+mina,/main/java/org/apache/mina/statemachine/context/DefaultStateContextFactory.java,0.0,0,0.0,7.68
+mina,/main/java/org/apache/mina/core/service/DefaultTransportMetadata.java,0.0,15min,15.0,11.91
+mina,/main/java/org/apache/mina/transport/vmpipe/DefaultVmPipeSessionConfig.java,0.0,7min 30s,7.5,6.09
+mina,/main/java/org/apache/mina/core/future/DefaultWriteFuture.java,0.0,37min 30s,37.5,10.51
+mina,/main/java/org/apache/mina/core/write/DefaultWriteRequest.java,0.0,7min 30s,7.5,11.83
+mina,/main/java/org/apache/mina/handler/demux/DemuxingIoHandler.java,200.0,35min,35.0,56.64
+mina,/main/java/org/apache/mina/filter/codec/demux/DemuxingProtocolCodecFactory.java,0.0,0,0.0,13.85
+mina,/main/java/org/apache/mina/filter/codec/demux/DemuxingProtocolDecoder.java,67.0,1h 37min,97.0,62.49
+mina,/main/java/org/apache/mina/filter/codec/demux/DemuxingProtocolEncoder.java,67.0,45min,45.0,72.89
+mina,/main/java/org/apache/mina/proxy/handlers/http/digest/DigestUtilities.java,20.0,37min 30s,37.5,9.62
+mina,/main/java/org/apache/mina/integration/beans/DoubleEditor.java,0.0,17min 30s,17.5,13.77
+mina,/main/java/org/apache/mina/core/session/DummySession.java,9.0,22min 30s,22.5,37.78
+mina,/main/java/org/apache/mina/example/echoserver/EchoProtocolHandler.java,27.0,0,0.0,27.35
+mina,/main/java/org/apache/mina/example/tapedeck/EjectCommand.java,0.0,7min 30s,7.5,8.65
+mina,/main/java/org/apache/mina/integration/beans/EnumEditor.java,0.0,20min,20.0,5.47
+mina,/main/java/org/apache/mina/filter/errorgenerating/ErrorGeneratingFilter.java,61.0,49min,49.0,45.43
+mina,/main/java/org/apache/mina/statemachine/event/Event.java,0.0,7min 30s,7.5,6.44
+mina,/main/java/org/apache/mina/statemachine/event/EventArgumentsInterceptor.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/statemachine/event/EventFactory.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/handler/demux/ExceptionHandler.java,30.0,0,0.0,2.56
+mina,/main/java/org/apache/mina/util/ExceptionMonitor.java,0.0,0,0.0,4.77
+mina,/main/java/org/apache/mina/filter/executor/ExecutorFilter.java,0.0,45min,45.0,30.26
+mina,/main/java/org/apache/mina/util/ExpirationListener.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/util/ExpiringMap.java,11.0,1h 37min,97.0,81.7
+mina,/main/java/org/apache/mina/core/session/ExpiringSessionRecycler.java,0.0,0,0.0,18.27
+mina,/main/java/org/apache/mina/integration/beans/FileEditor.java,5.0,0,0.0,16.95
+mina,/main/java/org/apache/mina/core/file/FilenameFileRegion.java,2.0,0,0.0,4.42
+mina,/main/java/org/apache/mina/core/file/FileRegion.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/stream/FileRegionWriteFilter.java,0.0,17min 30s,17.5,12.18
+mina,/main/java/org/apache/mina/filter/codec/statemachine/FixedLengthDecodingState.java,0.0,37min 30s,37.5,6.79
+mina,/main/java/org/apache/mina/integration/beans/FloatEditor.java,0.0,17min 30s,17.5,13.77
+mina,/main/java/org/apache/mina/example/imagine/step1/client/GraphicalCharGenClient.java,305.0,45min,45.0,98.49
+mina,/main/java/org/apache/mina/example/haiku/Haiku.java,0.0,22min,22.0,16.68
+mina,/main/java/org/apache/mina/example/haiku/HaikuValidationServer.java,0.0,0,0.0,23.74
+mina,/main/java/org/apache/mina/example/haiku/HaikuValidator.java,0.0,0,0.0,14.12
+mina,/main/java/org/apache/mina/example/haiku/HaikuValidatorIoHandler.java,0.0,0,0.0,12.53
+mina,/main/java/org/apache/mina/proxy/handlers/http/HttpAuthenticationMethods.java,0.0,55min,55.0,4.5
+mina,/main/java/org/apache/mina/proxy/handlers/http/basic/HttpBasicAuthLogicHandler.java,0.0,0,0.0,11.91
+mina,/main/java/org/apache/mina/http/HttpClientCodec.java,0.0,7min 30s,7.5,9.0
+mina,/main/java/org/apache/mina/http/HttpClientDecoder.java,55.0,1h,60.0,22.23
+mina,/main/java/org/apache/mina/http/HttpClientEncoder.java,20.0,35min,35.0,10.94
+mina,/main/java/org/apache/mina/http/api/HttpContentChunk.java,0.0,0,0.0,0.97
+mina,/main/java/org/apache/mina/proxy/handlers/http/digest/HttpDigestAuthLogicHandler.java,51.0,30min,30.0,21.61
+mina,/main/java/org/apache/mina/http/api/HttpEndOfContent.java,0.0,0,0.0,5.12
+mina,/main/java/org/apache/mina/http/HttpException.java,0.0,0,0.0,2.91
+mina,/main/java/org/apache/mina/http/api/HttpMessage.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/http/api/HttpMethod.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/proxy/handlers/http/basic/HttpNoAuthLogicHandler.java,0.0,0,0.0,9.97
+mina,/main/java/org/apache/mina/proxy/handlers/http/ntlm/HttpNTLMAuthLogicHandler.java,0.0,27min 30s,27.5,8.73
+mina,/main/java/org/apache/mina/proxy/handlers/http/HttpProxyConstants.java,0.0,7min 30s,7.5,5.12
+mina,/main/java/org/apache/mina/proxy/handlers/http/HttpProxyRequest.java,0.0,0,0.0,14.2
+mina,/main/java/org/apache/mina/proxy/handlers/http/HttpProxyResponse.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/http/api/HttpRequest.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/http/HttpRequestImpl.java,20.0,37min 30s,37.5,14.74
+mina,/main/java/org/apache/mina/http/api/HttpResponse.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/http/HttpServerCodec.java,0.0,7min 30s,7.5,7.06
+mina,/main/java/org/apache/mina/http/HttpServerDecoder.java,40.0,1h 20min,80.0,18.7
+mina,/main/java/org/apache/mina/http/HttpServerEncoder.java,20.0,27min 30s,27.5,10.94
+mina,/main/java/org/apache/mina/proxy/handlers/http/HttpSmartProxyHandler.java,95.0,1h 47min,107.0,24.17
+mina,/main/java/org/apache/mina/http/api/HttpStatus.java,0.0,0,0.0,1.94
+mina,/main/java/org/apache/mina/http/api/HttpVerb.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/http/api/HttpVersion.java,0.0,20min,20.0,3.53
+mina,/main/java/org/apache/mina/util/IdentityHashSet.java,0.0,0,0.0,5.12
+mina,/main/java/org/apache/mina/core/session/IdleStatus.java,0.0,7min 30s,7.5,8.03
+mina,/main/java/org/apache/mina/core/session/IdleStatusChecker.java,0.0,0,0.0,143.36
+mina,/main/java/org/apache/mina/example/imagine/step1/client/ImageClient.java,20.0,7min 30s,7.5,48.88
+mina,/main/java/org/apache/mina/example/imagine/step1/codec/ImageCodecFactory.java,0.0,0,0.0,16.14
+mina,/main/java/org/apache/mina/example/imagine/step1/client/ImageListener.java,0.0,10min,10.0,6.79
+mina,/main/java/org/apache/mina/example/imagine/step1/client/ImagePanel.java,60.0,0,0.0,12.88
+mina,/main/java/org/apache/mina/example/imagine/step1/ImageRequest.java,0.0,0,0.0,16.14
+mina,/main/java/org/apache/mina/example/imagine/step1/codec/ImageRequestDecoder.java,0.0,27min 30s,27.5,14.47
+mina,/main/java/org/apache/mina/example/imagine/step1/codec/ImageRequestEncoder.java,0.0,0,0.0,17.38
+mina,/main/java/org/apache/mina/example/imagine/step1/ImageResponse.java,0.0,0,0.0,11.29
+mina,/main/java/org/apache/mina/example/imagine/step1/codec/ImageResponseDecoder.java,0.0,45min,45.0,28.94
+mina,/main/java/org/apache/mina/example/imagine/step1/codec/ImageResponseEncoder.java,0.0,0,0.0,19.94
+mina,/main/java/org/apache/mina/example/imagine/step1/server/ImageServer.java,10.0,7min 30s,7.5,21.53
+mina,/main/java/org/apache/mina/example/imagine/step2/server/ImageServer.java,10.0,7min 30s,7.5,24.09
+mina,/main/java/org/apache/mina/example/imagine/step3/server/ImageServer.java,10.0,15min,15.0,25.06
+mina,/main/java/org/apache/mina/example/imagine/step1/server/ImageServerIoHandler.java,61.0,27min 30s,27.5,20.83
+mina,/main/java/org/apache/mina/example/imagine/step3/server/ImageServerIoHandler.java,46.0,27min 30s,27.5,22.77
+mina,/main/java/org/apache/mina/integration/beans/InetAddressEditor.java,5.0,30min,30.0,27.89
+mina,/main/java/org/apache/mina/integration/beans/InetSocketAddressEditor.java,5.0,30min,30.0,30.8
+mina,/main/java/org/apache/mina/example/tapedeck/InfoCommand.java,0.0,7min 30s,7.5,8.65
+mina,/main/java/org/apache/mina/filter/codec/statemachine/IntegerDecodingState.java,0.0,20min,20.0,15.09
+mina,/main/java/org/apache/mina/integration/beans/IntegerEditor.java,0.0,7min 30s,7.5,12.8
+mina,/main/java/org/apache/mina/example/haiku/InvalidHaikuException.java,0.0,0,0.0,18.35
+mina,/main/java/org/apache/mina/util/byteaccess/IoAbsoluteReader.java,0.0,0,0.0,2.56
+mina,/main/java/org/apache/mina/util/byteaccess/IoAbsoluteWriter.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/core/service/IoAcceptor.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/core/buffer/IoBuffer.java,0.0,10min,10.0,35.2
+mina,/main/java/org/apache/mina/core/buffer/IoBufferAllocator.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/proxy/utils/IoBufferDecoder.java,7.0,45min,45.0,12.18
+mina,/main/java/org/apache/mina/core/buffer/IoBufferHexDumper.java,35.0,10min,10.0,9.97
+mina,/main/java/org/apache/mina/filter/buffer/IoBufferLazyInitializer.java,0.0,0,0.0,0.97
+mina,/main/java/org/apache/mina/core/buffer/IoBufferWrapper.java,0.0,15min,15.0,451.72
+mina,/main/java/org/apache/mina/core/service/IoConnector.java,20.0,0,0.0,1.86
+mina,/main/java/org/apache/mina/core/session/IoEvent.java,0.0,0,0.0,5.12
+mina,/main/java/org/apache/mina/filter/executor/IoEventQueueHandler.java,10.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/filter/executor/IoEventQueueThrottle.java,30.0,0,0.0,19.86
+mina,/main/java/org/apache/mina/filter/executor/IoEventSizeEstimator.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/core/session/IoEventType.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/core/filterchain/IoFilter.java,320.0,0,0.0,8.41
+mina,/main/java/org/apache/mina/core/filterchain/IoFilterAdapter.java,30.0,7min 30s,7.5,28.43
+mina,/main/java/org/apache/mina/core/filterchain/IoFilterChain.java,20.0,0,0.0,6.55
+mina,/main/java/org/apache/mina/core/filterchain/IoFilterChainBuilder.java,35.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/core/filterchain/IoFilterEvent.java,0.0,7min 30s,7.5,4.5
+mina,/main/java/org/apache/mina/statemachine/event/IoFilterEvents.java,0.0,0,0.0,6.71
+mina,/main/java/org/apache/mina/core/filterchain/IoFilterLifeCycleException.java,0.0,0,0.0,6.09
+mina,/main/java/org/apache/mina/integration/jmx/IoFilterMBean.java,0.0,10min,10.0,9.62
+mina,/main/java/org/apache/mina/integration/ognl/IoFilterPropertyAccessor.java,20.0,10min,10.0,36.35
+mina,/main/java/org/apache/mina/statemachine/annotation/IoFilterTransition.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/statemachine/annotation/IoFilterTransitions.java,0.0,0,0.0,1.59
+mina,/main/java/org/apache/mina/core/future/IoFuture.java,20.0,0,0.0,4.77
+mina,/main/java/org/apache/mina/core/future/IoFutureListener.java,10.0,0,0.0,1.24
+mina,/main/java/org/apache/mina/core/service/IoHandler.java,160.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/core/service/IoHandlerAdapter.java,0.0,7min 30s,7.5,19.16
+mina,/main/java/org/apache/mina/handler/chain/IoHandlerChain.java,24.0,1h 7min,67.0,91.89
+mina,/main/java/org/apache/mina/handler/chain/IoHandlerCommand.java,40.0,0,0.0,0.97
+mina,/main/java/org/apache/mina/statemachine/event/IoHandlerEvents.java,0.0,0,0.0,6.71
+mina,/main/java/org/apache/mina/statemachine/annotation/IoHandlerTransition.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/statemachine/annotation/IoHandlerTransitions.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/core/service/IoProcessor.java,0.0,0,0.0,4.34
+mina,/main/java/org/apache/mina/util/byteaccess/IoRelativeReader.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/util/byteaccess/IoRelativeWriter.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/core/service/IoService.java,0.0,0,0.0,4.07
+mina,/main/java/org/apache/mina/core/service/IoServiceListener.java,120.0,0,0.0,null
+mina,/main/java/org/apache/mina/core/service/IoServiceListenerSupport.java,0.0,1h 15min,75.0,87.12
+mina,/main/java/org/apache/mina/integration/jmx/IoServiceMBean.java,66.0,1h 12min,72.0,51.01
+mina,/main/java/org/apache/mina/integration/ognl/IoServicePropertyAccessor.java,20.0,10min,10.0,36.35
+mina,/main/java/org/apache/mina/core/service/IoServiceStatistics.java,0.0,3h 15min,195.0,32.63
+mina,/main/java/org/apache/mina/core/session/IoSession.java,40.0,40min,40.0,12.48
+mina,/main/java/org/apache/mina/core/session/IoSessionAttributeMap.java,20.0,0,0.0,null
+mina,/main/java/org/apache/mina/core/session/IoSessionConfig.java,0.0,0,0.0,4.69
+mina,/main/java/org/apache/mina/core/session/IoSessionDataStructureFactory.java,40.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/proxy/event/IoSessionEvent.java,5.0,10min,10.0,7.41
+mina,/main/java/org/apache/mina/proxy/event/IoSessionEventQueue.java,20.0,20min,20.0,9.35
+mina,/main/java/org/apache/mina/proxy/event/IoSessionEventType.java,0.0,1h 40min,100.0,2.56
+mina,/main/java/org/apache/mina/integration/ognl/IoSessionFinder.java,46.0,15min,15.0,14.82
+mina,/main/java/org/apache/mina/core/session/IoSessionInitializationException.java,0.0,0,0.0,5.47
+mina,/main/java/org/apache/mina/core/session/IoSessionInitializer.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/handler/stream/IoSessionInputStream.java,0.0,1h 50min,110.0,48.18
+mina,/main/java/org/apache/mina/integration/jmx/IoSessionMBean.java,79.0,1h 25min,85.0,36.35
+mina,/main/java/org/apache/mina/handler/stream/IoSessionOutputStream.java,0.0,10min,10.0,38.56
+mina,/main/java/org/apache/mina/integration/ognl/IoSessionPropertyAccessor.java,0.0,20min,20.0,39.26
+mina,/main/java/org/apache/mina/core/session/IoSessionRecycler.java,10.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/statemachine/context/IoSessionStateContextLookup.java,0.0,7min 30s,7.5,13.5
+mina,/main/java/org/apache/mina/core/IoUtil.java,0.0,10min,10.0,136.54
+mina,/main/java/org/apache/mina/filter/keepalive/KeepAliveFilter.java,48.0,35min,35.0,46.94
+mina,/main/java/org/apache/mina/filter/keepalive/KeepAliveMessageFactory.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutException.java,0.0,0,0.0,5.47
+mina,/main/java/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutHandler.java,54.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/filter/ssl/KeyStoreFactory.java,0.0,0,0.0,22.85
+mina,/main/java/org/apache/mina/util/LazyInitializedCacheMap.java,10.0,40min,40.0,12.26
+mina,/main/java/org/apache/mina/util/LazyInitializer.java,0.0,0,0.0,6.09
+mina,/main/java/org/apache/mina/filter/codec/statemachine/LinearWhitespaceSkippingState.java,0.0,0,0.0,5.12
+mina,/main/java/org/apache/mina/filter/codec/textline/LineDelimiter.java,0.0,47min 30s,47.5,16.06
+mina,/main/java/org/apache/mina/example/tapedeck/ListCommand.java,0.0,7min 30s,7.5,8.65
+mina,/main/java/org/apache/mina/integration/beans/ListEditor.java,0.0,7min 30s,7.5,5.74
+mina,/main/java/org/apache/mina/example/tapedeck/LoadCommand.java,0.0,7min 30s,7.5,9.0
+mina,/main/java/org/apache/mina/util/Log4jXmlFormatter.java,20.0,30min,30.0,11.64
+mina,/main/java/org/apache/mina/filter/logging/LoggingFilter.java,0.0,6h 15min,375.0,58.23
+mina,/main/java/org/apache/mina/filter/logging/LogLevel.java,0.0,0,0.0,0.97
+mina,/main/java/org/apache/mina/integration/beans/LongEditor.java,0.0,7min 30s,7.5,12.8
+mina,/main/java/org/apache/mina/example/tennis/Main.java,0.0,0,0.0,12.88
+mina,/main/java/org/apache/mina/example/reverser/Main.java,10.0,0,0.0,25.06
+mina,/main/java/org/apache/mina/example/proxy/Main.java,20.0,10min,10.0,18.97
+mina,/main/java/org/apache/mina/example/echoserver/Main.java,50.0,0,0.0,27.0
+mina,/main/java/org/apache/mina/example/tapedeck/Main.java,0.0,0,0.0,27.54
+mina,/main/java/org/apache/mina/example/netcat/Main.java,10.0,10min,10.0,13.85
+mina,/main/java/org/apache/mina/example/chat/Main.java,75.0,0,0.0,43.68
+mina,/main/java/org/apache/mina/util/MapBackedSet.java,60.0,7min 30s,7.5,1.59
+mina,/main/java/org/apache/mina/integration/beans/MapEditor.java,27.0,1h 2min,62.0,36.27
+mina,/main/java/org/apache/mina/filter/logging/MdcInjectionFilter.java,32.0,32min 30s,32.5,19.94
+mina,/main/java/org/apache/mina/example/udp/client/MemMonClient.java,2.0,0,0.0,108.46
+mina,/main/java/org/apache/mina/example/udp/MemoryMonitor.java,21.0,15min,15.0,38.91
+mina,/main/java/org/apache/mina/example/udp/MemoryMonitorHandler.java,40.0,0,0.0,43.14
+mina,/main/java/org/apache/mina/filter/codec/demux/MessageDecoder.java,50.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/codec/demux/MessageDecoderAdapter.java,0.0,0,0.0,9.0
+mina,/main/java/org/apache/mina/filter/codec/demux/MessageDecoderFactory.java,20.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/codec/demux/MessageDecoderResult.java,0.0,7min 30s,7.5,11.83
+mina,/main/java/org/apache/mina/filter/codec/demux/MessageEncoder.java,20.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/filter/codec/demux/MessageEncoderFactory.java,20.0,0,0.0,null
+mina,/main/java/org/apache/mina/handler/demux/MessageHandler.java,30.0,0,0.0,null
+mina,/main/java/org/apache/mina/statemachine/transition/MethodInvocationException.java,0.0,0,0.0,2.56
+mina,/main/java/org/apache/mina/statemachine/transition/MethodSelfTransition.java,45.0,30min,30.0,13.5
+mina,/main/java/org/apache/mina/statemachine/transition/MethodTransition.java,38.0,2h 57min,177.0,31.5
+mina,/main/java/org/apache/mina/integration/xbean/MinaPropertyEditorRegistrar.java,0.0,0,0.0,6.71
+mina,/main/java/org/apache/mina/example/gettingstarted/timeserver/MinaTimeServer.java,0.0,0,0.0,18.89
+mina,/main/java/org/apache/mina/util/NamePreservingRunnable.java,2.0,0,0.0,3.88
+mina,/main/java/org/apache/mina/example/netcat/NetCatProtocolHandler.java,30.0,0,0.0,25.41
+mina,/main/java/org/apache/mina/transport/socket/nio/NioDatagramAcceptor.java,227.0,4h 37min,277.0,803.91
+mina,/main/java/org/apache/mina/transport/socket/nio/NioDatagramConnector.java,22.0,25min,25.0,33.09
+mina,/main/java/org/apache/mina/transport/socket/nio/NioDatagramSession.java,0.0,7min 30s,7.5,14.12
+mina,/main/java/org/apache/mina/transport/socket/nio/NioDatagramSessionConfig.java,0.0,57min 30s,57.5,6.09
+mina,/main/java/org/apache/mina/transport/socket/nio/NioProcessor.java,10.0,2h 17min,137.0,103.23
+mina,/main/java/org/apache/mina/transport/socket/nio/NioSession.java,0.0,0,0.0,4.07
+mina,/main/java/org/apache/mina/transport/socket/nio/NioSocketAcceptor.java,25.0,1h 12min,72.0,43.95
+mina,/main/java/org/apache/mina/transport/socket/nio/NioSocketConnector.java,2.0,35min,35.0,45.19
+mina,/main/java/org/apache/mina/transport/socket/nio/NioSocketSession.java,0.0,2h 45min,165.0,41.58
+mina,/main/java/org/apache/mina/filter/util/NoopFilter.java,0.0,0,0.0,6.09
+mina,/main/java/org/apache/mina/statemachine/transition/NoopTransition.java,0.0,0,0.0,7.06
+mina,/main/java/org/apache/mina/statemachine/transition/NoSuchMethodException.java,0.0,0,0.0,2.56
+mina,/main/java/org/apache/mina/statemachine/NoSuchStateException.java,0.0,0,0.0,2.56
+mina,/main/java/org/apache/mina/core/write/NothingWrittenException.java,0.0,0,0.0,10.32
+mina,/main/java/org/apache/mina/proxy/handlers/http/ntlm/NTLMConstants.java,10.0,0,0.0,32.98
+mina,/main/java/org/apache/mina/proxy/handlers/http/ntlm/NTLMResponses.java,80.0,1h 15min,75.0,39.18
+mina,/main/java/org/apache/mina/proxy/handlers/http/ntlm/NTLMUtilities.java,170.0,1h 55min,115.0,52.87
+mina,/main/java/org/apache/mina/integration/beans/NullEditor.java,5.0,20min,20.0,14.74
+mina,/main/java/org/apache/mina/integration/beans/NumberEditor.java,5.0,47min 30s,47.5,32.39
+mina,/main/java/org/apache/mina/integration/jmx/ObjectMBean.java,487.0,1M/d 6h,840.0,454.07
+mina,/main/java/org/apache/mina/filter/codec/serialization/ObjectSerializationCodecFactory.java,0.0,0,0.0,2.56
+mina,/main/java/org/apache/mina/filter/codec/serialization/ObjectSerializationDecoder.java,0.0,17min 30s,17.5,6.44
+mina,/main/java/org/apache/mina/filter/codec/serialization/ObjectSerializationEncoder.java,0.0,0,0.0,7.06
+mina,/main/java/org/apache/mina/filter/codec/serialization/ObjectSerializationInputStream.java,10.0,7min 30s,7.5,28.4
+mina,/main/java/org/apache/mina/filter/codec/serialization/ObjectSerializationOutputStream.java,0.0,7min 30s,7.5,68.39
+mina,/main/java/org/apache/mina/statemachine/annotation/OnEntry.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/statemachine/annotation/OnExit.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/executor/OrderedThreadPoolExecutor.java,121.0,4h 32min,272.0,132.39
+mina,/main/java/org/apache/mina/handler/demux/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/handler/chain/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/handler/multiton/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/handler/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/transport/vmpipe/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/transport/socket/nio/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/errorgenerating/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/firewall/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/ssl/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/keepalive/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/statistic/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/executor/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/stream/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/codec/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/codec/demux/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/codec/textline/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/codec/serialization/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/util/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/filter/logging/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/core/polling/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/core/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/util/package-info.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/example/tapedeck/PasswordCommand.java,0.0,7min 30s,7.5,9.0
+mina,/main/java/org/apache/mina/integration/beans/PatternEditor.java,5.0,0,0.0,15.71
+mina,/main/java/org/apache/mina/example/tapedeck/PauseCommand.java,0.0,7min 30s,7.5,8.65
+mina,/main/java/org/apache/mina/example/haiku/PhraseUtilities.java,30.0,0,0.0,31.15
+mina,/main/java/org/apache/mina/example/tapedeck/PlayCommand.java,0.0,7min 30s,7.5,8.65
+mina,/main/java/org/apache/mina/filter/codec/prefixedstring/PrefixedStringCodecFactory.java,0.0,0,0.0,5.47
+mina,/main/java/org/apache/mina/filter/codec/prefixedstring/PrefixedStringDecoder.java,0.0,25min,25.0,6.44
+mina,/main/java/org/apache/mina/filter/codec/prefixedstring/PrefixedStringEncoder.java,0.0,7min 30s,7.5,7.41
+mina,/main/java/org/apache/mina/filter/statistic/ProfilerTimerFilter.java,13.0,1M/d 3h,660.0,40.85
+mina,/main/java/org/apache/mina/integration/beans/PropertiesEditor.java,0.0,7min 30s,7.5,5.74
+mina,/main/java/org/apache/mina/integration/beans/PropertyEditorFactory.java,22.0,4h 25min,265.0,21.8
+mina,/main/java/org/apache/mina/integration/ognl/PropertyTypeConverter.java,5.0,35min,35.0,13.15
+mina,/main/java/org/apache/mina/filter/codec/ProtocolCodecException.java,0.0,0,0.0,3.53
+mina,/main/java/org/apache/mina/filter/codec/ProtocolCodecFactory.java,40.0,0,0.0,1.24
+mina,/main/java/org/apache/mina/filter/codec/ProtocolCodecFilter.java,65.0,1h 27min,87.0,304.07
+mina,/main/java/org/apache/mina/filter/codec/ProtocolCodecSession.java,0.0,7min 30s,7.5,6.09
+mina,/main/java/org/apache/mina/filter/codec/ProtocolDecoder.java,60.0,0,0.0,1.86
+mina,/main/java/org/apache/mina/filter/codec/ProtocolDecoderAdapter.java,0.0,0,0.0,11.91
+mina,/main/java/org/apache/mina/filter/codec/ProtocolDecoderException.java,0.0,10min,10.0,4.15
+mina,/main/java/org/apache/mina/filter/codec/ProtocolDecoderOutput.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/filter/codec/ProtocolEncoder.java,40.0,0,0.0,1.86
+mina,/main/java/org/apache/mina/filter/codec/ProtocolEncoderAdapter.java,0.0,7min 30s,7.5,9.0
+mina,/main/java/org/apache/mina/filter/codec/ProtocolEncoderException.java,0.0,0,0.0,4.5
+mina,/main/java/org/apache/mina/filter/codec/ProtocolEncoderOutput.java,0.0,0,0.0,1.24
+mina,/main/java/org/apache/mina/proxy/ProxyAuthException.java,0.0,0,0.0,3.18
+mina,/main/java/org/apache/mina/proxy/ProxyConnector.java,0.0,17min 30s,17.5,8.38
+mina,/main/java/org/apache/mina/proxy/filter/ProxyFilter.java,35.0,27min 30s,27.5,26.11
+mina,/main/java/org/apache/mina/proxy/filter/ProxyHandshakeIoBuffer.java,0.0,7min 30s,7.5,5.12
+mina,/main/java/org/apache/mina/proxy/session/ProxyIoSession.java,0.0,15min,15.0,9.89
+mina,/main/java/org/apache/mina/proxy/session/ProxyIoSessionInitializer.java,0.0,0,0.0,1.94
+mina,/main/java/org/apache/mina/proxy/ProxyLogicHandler.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/proxy/handlers/ProxyRequest.java,0.0,0,0.0,1.94
+mina,/main/java/org/apache/mina/example/tapedeck/QuitCommand.java,0.0,7min 30s,7.5,8.65
+mina,/main/java/org/apache/mina/core/future/ReadFuture.java,0.0,0,0.0,1.59
+mina,/main/java/org/apache/mina/filter/codec/RecoverableProtocolDecoderException.java,0.0,7min 30s,7.5,5.47
+mina,/main/java/org/apache/mina/filter/util/ReferenceCountingFilter.java,0.0,0,0.0,63.97
+mina,/main/java/org/apache/mina/example/sumup/message/ResultMessage.java,5.0,20min,20.0,13.85
+mina,/main/java/org/apache/mina/example/sumup/codec/ResultMessageDecoder.java,5.0,40min,40.0,24.09
+mina,/main/java/org/apache/mina/example/sumup/codec/ResultMessageEncoder.java,5.0,0,0.0,23.74
+mina,/main/java/org/apache/mina/example/reverser/ReverseProtocolHandler.java,0.0,0,0.0,13.5
+mina,/main/java/org/apache/mina/core/RuntimeIoException.java,0.0,0,0.0,5.39
+mina,/main/java/org/apache/mina/statemachine/transition/SelfTransition.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/example/sumup/Server.java,10.0,0,0.0,26.03
+mina,/main/java/org/apache/mina/example/sumup/ServerSessionHandler.java,2.0,0,0.0,19.67
+mina,/main/java/org/apache/mina/example/proxy/ServerToProxyIoHandler.java,0.0,7min 30s,7.5,5.12
+mina,/main/java/org/apache/mina/filter/util/SessionAttributeInitializingFilter.java,0.0,10min,10.0,10.32
+mina,/main/java/org/apache/mina/core/session/SessionState.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/integration/beans/SetEditor.java,0.0,7min 30s,7.5,5.74
+mina,/main/java/org/apache/mina/integration/beans/ShortEditor.java,0.0,7min 30s,7.5,15.36
+mina,/main/java/org/apache/mina/filter/codec/statemachine/ShortIntegerDecodingState.java,0.0,20min,20.0,16.06
+mina,/main/java/org/apache/mina/core/buffer/SimpleBufferAllocator.java,0.0,7min 30s,7.5,57.21
+mina,/main/java/org/apache/mina/util/byteaccess/SimpleByteArrayFactory.java,2.0,0,0.0,7.68
+mina,/main/java/org/apache/mina/core/service/SimpleIoProcessorPool.java,97.0,1h,60.0,137.0
+mina,/main/java/org/apache/mina/filter/codec/statemachine/SingleByteDecodingState.java,0.0,10min,10.0,9.0
+mina,/main/java/org/apache/mina/handler/multiton/SingleSessionIoHandler.java,150.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/handler/multiton/SingleSessionIoHandlerAdapter.java,10.0,0,0.0,8.73
+mina,/main/java/org/apache/mina/handler/multiton/SingleSessionIoHandlerDelegate.java,10.0,7min 30s,7.5,28.13
+mina,/main/java/org/apache/mina/handler/multiton/SingleSessionIoHandlerFactory.java,30.0,0,0.0,0.97
+mina,/main/java/org/apache/mina/statemachine/context/SingletonStateContextLookup.java,0.0,0,0.0,5.47
+mina,/main/java/org/apache/mina/filter/codec/statemachine/SkippingState.java,0.0,10min,10.0,5.82
+mina,/main/java/org/apache/mina/transport/socket/SocketAcceptor.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/integration/xbean/SocketAddressFactory.java,30.0,0,0.0,8.03
+mina,/main/java/org/apache/mina/transport/socket/SocketConnector.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/transport/socket/SocketSessionConfig.java,0.0,0,0.0,1.24
+mina,/main/java/org/apache/mina/proxy/handlers/socks/Socks4LogicHandler.java,40.0,15min,15.0,12.53
+mina,/main/java/org/apache/mina/proxy/handlers/socks/Socks5LogicHandler.java,81.0,3h 37min,217.0,40.77
+mina,/main/java/org/apache/mina/proxy/handlers/socks/SocksProxyConstants.java,0.0,4h 47min,287.0,12.53
+mina,/main/java/org/apache/mina/proxy/handlers/socks/SocksProxyRequest.java,7.0,10min,10.0,9.97
+mina,/main/java/org/apache/mina/example/chat/SpringMain.java,35.0,0,0.0,15.09
+mina,/main/java/org/apache/mina/filter/ssl/SslContextFactory.java,41.0,37min 30s,37.5,41.36
+mina,/main/java/org/apache/mina/filter/ssl/SslFilter.java,22.0,2h 25min,145.0,142.3
+mina,/main/java/org/apache/mina/filter/ssl/SslHandler.java,30.0,5h 7min,307.0,284.91
+mina,/main/java/org/apache/mina/example/echoserver/ssl/SslServerSocketFactory.java,0.0,20min,20.0,34.14
+mina,/main/java/org/apache/mina/example/echoserver/ssl/SslSocketFactory.java,50.0,1h 20min,80.0,49.58
+mina,/main/java/org/apache/mina/integration/xbean/StandardThreadPool.java,0.0,10min,10.0,7.41
+mina,/main/java/org/apache/mina/statemachine/annotation/State.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/statemachine/State.java,28.0,20min,20.0,28.51
+mina,/main/java/org/apache/mina/statemachine/context/StateContext.java,0.0,0,0.0,1.24
+mina,/main/java/org/apache/mina/statemachine/context/StateContextFactory.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/statemachine/context/StateContextLookup.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/statemachine/StateControl.java,30.0,0,0.0,13.5
+mina,/main/java/org/apache/mina/statemachine/StateMachine.java,55.0,1h 17min,77.0,71.84
+mina,/main/java/org/apache/mina/statemachine/StateMachineCreationException.java,0.0,0,0.0,3.18
+mina,/main/java/org/apache/mina/statemachine/StateMachineFactory.java,42.0,1h 47min,107.0,129.64
+mina,/main/java/org/apache/mina/statemachine/StateMachineProxyBuilder.java,22.0,1h 2min,62.0,47.37
+mina,/main/java/org/apache/mina/example/tapedeck/StopCommand.java,0.0,7min 30s,7.5,8.65
+mina,/main/java/org/apache/mina/handler/stream/StreamIoHandler.java,2.0,10min,10.0,35.65
+mina,/main/java/org/apache/mina/filter/stream/StreamWriteFilter.java,0.0,27min 30s,27.5,10.24
+mina,/main/java/org/apache/mina/integration/beans/StringEditor.java,5.0,20min,20.0,15.09
+mina,/main/java/org/apache/mina/proxy/utils/StringUtilities.java,54.0,1h 47min,107.0,24.98
+mina,/main/java/org/apache/mina/filter/firewall/Subnet.java,10.0,1h,60.0,32.2
+mina,/main/java/org/apache/mina/example/sumup/codec/SumUpProtocolCodecFactory.java,0.0,0,0.0,7.68
+mina,/main/java/org/apache/mina/example/chat/client/SwingChatClient.java,310.0,1h 10min,70.0,128.7
+mina,/main/java/org/apache/mina/example/chat/client/SwingChatClientHandler.java,5.0,10min,10.0,32.82
+mina,/main/java/org/apache/mina/filter/codec/SynchronizedProtocolDecoder.java,0.0,0,0.0,14.47
+mina,/main/java/org/apache/mina/filter/codec/SynchronizedProtocolEncoder.java,0.0,0,0.0,9.97
+mina,/main/java/org/apache/mina/util/SynchronizedQueue.java,30.0,7min 30s,7.5,3.88
+mina,/main/java/org/apache/mina/example/tapedeck/TapeDeckServer.java,7.0,7min 30s,7.5,103.42
+mina,/main/java/org/apache/mina/example/tcp/perf/TcpClient.java,115.0,20min,20.0,28.05
+mina,/main/java/org/apache/mina/example/tcp/perf/TcpServer.java,125.0,27min 30s,27.5,23.82
+mina,/main/java/org/apache/mina/example/tcp/perf/TcpSslClient.java,115.0,20min,20.0,33.17
+mina,/main/java/org/apache/mina/example/tcp/perf/TcpSslServer.java,125.0,17min 30s,17.5,30.26
+mina,/main/java/org/apache/mina/example/tennis/TennisBall.java,0.0,20min,20.0,3.88
+mina,/main/java/org/apache/mina/example/tennis/TennisPlayer.java,64.0,0,0.0,23.47
+mina,/main/java/org/apache/mina/filter/codec/textline/TextLineCodecFactory.java,0.0,0,0.0,4.5
+mina,/main/java/org/apache/mina/filter/codec/textline/TextLineDecoder.java,35.0,40min,40.0,78.01
+mina,/main/java/org/apache/mina/filter/codec/textline/TextLineEncoder.java,0.0,0,0.0,16.41
+mina,/main/java/org/apache/mina/example/gettingstarted/timeserver/TimeServerHandler.java,20.0,10min,10.0,21.61
+mina,/main/java/org/apache/mina/example/haiku/ToHaikuIoFilter.java,9.0,0,0.0,13.5
+mina,/main/java/org/apache/mina/util/Transform.java,30.0,30min,30.0,18.35
+mina,/main/java/org/apache/mina/statemachine/annotation/Transition.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/statemachine/transition/Transition.java,0.0,0,0.0,0.62
+mina,/main/java/org/apache/mina/statemachine/annotation/TransitionAnnotation.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/statemachine/annotation/Transitions.java,0.0,0,0.0,0.97
+mina,/main/java/org/apache/mina/core/service/TransportMetadata.java,0.0,0,0.0,1.24
+mina,/main/java/org/apache/mina/example/udp/perf/UdpClient.java,90.0,7min 30s,7.5,67.34
+mina,/main/java/org/apache/mina/example/udp/perf/UdpServer.java,125.0,27min 30s,27.5,19.67
+mina,/main/java/org/apache/mina/statemachine/event/UnhandledEventException.java,0.0,0,0.0,7.06
+mina,/main/java/org/apache/mina/core/session/UnknownMessageTypeException.java,0.0,0,0.0,5.47
+mina,/main/java/org/apache/mina/filter/executor/UnorderedThreadPoolExecutor.java,131.0,4h 37min,277.0,159.12
+mina,/main/java/org/apache/mina/integration/beans/URIEditor.java,5.0,10min,10.0,15.71
+mina,/main/java/org/apache/mina/integration/beans/URLEditor.java,5.0,10min,10.0,15.71
+mina,/main/java/org/apache/mina/example/tapedeck/UserCommand.java,0.0,7min 30s,7.5,9.0
+mina,/main/java/org/apache/mina/transport/vmpipe/VmPipe.java,0.0,10min,10.0,17.11
+mina,/main/java/org/apache/mina/transport/vmpipe/VmPipeAcceptor.java,18.0,17min 30s,17.5,22.15
+mina,/main/java/org/apache/mina/transport/vmpipe/VmPipeAddress.java,0.0,37min 30s,37.5,1.94
+mina,/main/java/org/apache/mina/integration/beans/VmPipeAddressEditor.java,5.0,10min,10.0,22.77
+mina,/main/java/org/apache/mina/transport/vmpipe/VmPipeConnector.java,1.0,1h 2min,62.0,28.24
+mina,/main/java/org/apache/mina/transport/vmpipe/VmPipeFilterChain.java,18.0,1h 22min,82.0,348.86
+mina,/main/java/org/apache/mina/transport/vmpipe/VmPipeSession.java,2.0,7min 30s,7.5,53.73
+mina,/main/java/org/apache/mina/transport/vmpipe/VmPipeSessionConfig.java,0.0,0,0.0,null
+mina,/main/java/org/apache/mina/core/write/WriteException.java,0.0,7min 30s,7.5,9.35
+mina,/main/java/org/apache/mina/core/future/WriteFuture.java,0.0,0,0.0,1.24
+mina,/main/java/org/apache/mina/core/write/WriteRequest.java,0.0,0,0.0,4.07
+mina,/main/java/org/apache/mina/filter/executor/WriteRequestFilter.java,0.0,10min,10.0,6.09
+mina,/main/java/org/apache/mina/filter/util/WriteRequestFilter.java,0.0,10min,10.0,33.63
+mina,/main/java/org/apache/mina/core/write/WriteRequestQueue.java,0.0,0,0.0,1.86
+mina,/main/java/org/apache/mina/core/write/WriteRequestWrapper.java,0.0,7min 30s,7.5,11.48
+mina,/main/java/org/apache/mina/core/write/WriteTimeoutException.java,0.0,0,0.0,10.94
+mina,/main/java/org/apache/mina/core/write/WriteToClosedSessionException.java,0.0,0,0.0,8.38
+mina,/main/java/org/apache/mina/filter/compression/Zlib.java,77.0,42min 30s,42.5,13.5

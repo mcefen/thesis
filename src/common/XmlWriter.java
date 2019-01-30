@@ -15,10 +15,14 @@ import javax.xml.transform.stream.StreamResult;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
+import cast.CastEntriesProcessor;
+import cast.CastEntry;
 import sonar.MainPageEntry;
 import sonar.MainPageWithEntries;
 import sonar.SonarEntryWithBasicMetrics;
+import sonar.SonarEntryWithIssues;
 import squore.SquoreEntry;
+import squore.SquoreEntryWithIssues;
 
 public class XmlWriter {
 
@@ -318,5 +322,207 @@ public class XmlWriter {
 			tfe.printStackTrace();
 		}
 	}
+	
+	/** Create an XML file for each list of Sonar Entries
+	 *  @param  projectName  The name of our project 
+	 *  @param  entry        The MainPageEntry for the sonar project*/
+	public void writeCastsToXML(String projectName, List<CastEntry> castEntries){
+		try {
+
+			DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
+
+			// root elements
+			Document doc = docBuilder.newDocument();
+			Element rootElement = doc.createElement("project");
+			doc.appendChild(rootElement);
+
+			CastEntriesProcessor castEntriesProcessor = new CastEntriesProcessor();
+			List<CastEntry> entries = castEntriesProcessor.getSortedList(castEntries);
+			
+			//List<CastEntry> entries = castEntries;
+			
+			System.out.println("Enter Here: "+entries.size());
+			
+			for(CastEntry cEntry : entries){
+				
+				if(cEntry.getPath().length()>11){
+					Element staff = doc.createElement("File");
+					rootElement.appendChild(staff);
+					
+					Element path = doc.createElement("path");
+					path.appendChild(doc.createTextNode(cEntry.getPath()));
+					staff.appendChild(path);
+					
+					Element violations = doc.createElement("critical_violations");
+					violations.appendChild(doc.createTextNode(cEntry.getTotalErrors()));
+					staff.appendChild(violations);
+					
+					String keyPathString = "";				
+					keyPathString+=cEntry.getPath().substring(11);
+					keyPathString = keyPathString.replace('.', '/');
+					keyPathString+=".java";
+					
+					Element keyPath = doc.createElement("key_path");				
+					keyPath.appendChild(doc.createTextNode(keyPathString));
+					staff.appendChild(keyPath);
+				}
+				
+				
+			}
+			
+
+			
+
+			// write the content into xml file
+			TransformerFactory transformerFactory = TransformerFactory.newInstance();
+			Transformer transformer = transformerFactory.newTransformer();
+			DOMSource source = new DOMSource(doc);
+			StreamResult result = new StreamResult(new File("./cast_"+projectName+".xml"));
+
+			transformer.transform(source, result);
+
+			System.out.println("File saved!");
+
+		} catch (ParserConfigurationException pce) {
+			pce.printStackTrace();
+		} catch (TransformerException tfe) {
+			tfe.printStackTrace();
+		}
+	}
+	
+	/** Create an XML file for each list of Sonar Entries
+	 *  @param  projectName  The name of our project 
+	 *  @param  entry        The MainPageEntry for the sonar project*/
+	public void writeSonarsWithIssuesToXML(String projectName, List<SonarEntryWithIssues> listOfEntries){
+		try {
+
+			DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
+
+			// root elements
+			Document doc = docBuilder.newDocument();
+			Element rootElement = doc.createElement("project");
+			doc.appendChild(rootElement);
+
+			//Total elements in the project
+			Element totalFiles = doc.createElement("total");
+			totalFiles.appendChild(doc.createTextNode(listOfEntries.size()+""));
+			rootElement.appendChild(totalFiles);
+			
+			for(SonarEntryWithIssues sonarEntry : listOfEntries){
+				Element staff = doc.createElement("File");
+				rootElement.appendChild(staff);
+				
+				Element key = doc.createElement("key");
+				key.appendChild(doc.createTextNode(sonarEntry.getKey()));
+				staff.appendChild(key);
+				
+				Element path = doc.createElement("path");
+				path.appendChild(doc.createTextNode(sonarEntry.getPath()));
+				staff.appendChild(path);
+
+				Element keyPath = doc.createElement("key_path");
+				keyPath.appendChild(doc.createTextNode(sonarEntry.getKey().substring(11)));
+				staff.appendChild(keyPath);
+				
+				Element blocker = doc.createElement("blocker");
+				blocker.appendChild(doc.createTextNode(sonarEntry.getBlocker()));
+				staff.appendChild(blocker);
+				
+				Element critical = doc.createElement("critical");
+				critical.appendChild(doc.createTextNode(sonarEntry.getCritical()));
+				staff.appendChild(critical);
+				
+				Element major = doc.createElement("major");
+				major.appendChild(doc.createTextNode(sonarEntry.getMajor()));
+				staff.appendChild(major);
+				
+				Element total = doc.createElement("total_issues");
+				total.appendChild(doc.createTextNode(sonarEntry.getTotalIssues()));
+				staff.appendChild(total);
+			}
+
+			
+
+			// write the content into xml file
+			TransformerFactory transformerFactory = TransformerFactory.newInstance();
+			Transformer transformer = transformerFactory.newTransformer();
+			DOMSource source = new DOMSource(doc);
+			StreamResult result = new StreamResult(new File("./sonar_issues_"+projectName+".xml"));
+
+			transformer.transform(source, result);
+
+			System.out.println("File saved!");
+
+		} catch (ParserConfigurationException pce) {
+			pce.printStackTrace();
+		} catch (TransformerException tfe) {
+			tfe.printStackTrace();
+		}
+	}	
+	
+	/** Create an XML file for each list of Sonar Entries
+	 *  @param  projectName  The name of our project 
+	 *  @param  entry        The MainPageEntry for the sonar project*/
+	public void writeSquoresWithIssuesToXML(String projectName, List<SquoreEntryWithIssues> listOfEntries){
+		try {
+
+			DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
+
+			// root elements
+			Document doc = docBuilder.newDocument();
+			Element rootElement = doc.createElement("project");
+			doc.appendChild(rootElement);
+
+			//Total elements in the project
+			Element totalFiles = doc.createElement("total");
+			totalFiles.appendChild(doc.createTextNode(listOfEntries.size()+""));
+			rootElement.appendChild(totalFiles);
+			
+			for(SquoreEntryWithIssues sonarEntry : listOfEntries){
+				Element staff = doc.createElement("File");
+				rootElement.appendChild(staff);
+				
+				Element path = doc.createElement("path");
+				path.appendChild(doc.createTextNode(sonarEntry.getPath()));
+				staff.appendChild(path);
+				
+				Element blocker = doc.createElement("blocker");
+				blocker.appendChild(doc.createTextNode(sonarEntry.getBlockerIssues()));
+				staff.appendChild(blocker);
+				
+				Element critical = doc.createElement("critical");
+				critical.appendChild(doc.createTextNode(sonarEntry.getCriticalIssues()));
+				staff.appendChild(critical);
+				
+				Element major = doc.createElement("major");
+				major.appendChild(doc.createTextNode(sonarEntry.getMajorIssues()));
+				staff.appendChild(major);
+				
+				Element total = doc.createElement("total_issues");
+				total.appendChild(doc.createTextNode(sonarEntry.getTotalIssues()));
+				staff.appendChild(total);
+			}
+
+			
+
+			// write the content into xml file
+			TransformerFactory transformerFactory = TransformerFactory.newInstance();
+			Transformer transformer = transformerFactory.newTransformer();
+			DOMSource source = new DOMSource(doc);
+			StreamResult result = new StreamResult(new File("./squore_issues_"+projectName+".xml"));
+
+			transformer.transform(source, result);
+
+			System.out.println("File saved!");
+
+		} catch (ParserConfigurationException pce) {
+			pce.printStackTrace();
+		} catch (TransformerException tfe) {
+			tfe.printStackTrace();
+		}
+	}	
 
 }
