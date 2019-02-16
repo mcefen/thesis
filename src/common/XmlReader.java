@@ -164,6 +164,7 @@ public class XmlReader {
 				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
 					SonarEntryWithIssues sonarEntry = createSonarNode(doc, nNode, temp);
+					sonarEntry.calculateTotalIssues();
 					
 					if(sortType.equals(TOTAL_ISSUES)){
 						sonarEntries = calculateSonarTotalIssues(sonarEntry, sonarEntries);
@@ -300,9 +301,9 @@ public class XmlReader {
 					//System.out.println("- " + squoreEntry.getViolationDensity().trim() + " -");
 					//Use in tota issues calculations
 					//*************************************//
-					/*squoreEntry.calculateTotal();
+					squoreEntry.calculateTotal();
 
-					Integer totalIssues = Integer.valueOf(squoreEntry.getTotalIssues());
+					/*Integer totalIssues = Integer.valueOf(squoreEntry.getTotalIssues());
 					
 					if(totalIssues>0){
 						squoreEntries.add(squoreEntry);
@@ -319,7 +320,7 @@ public class XmlReader {
 					
 					//Double canonicalDebptNum = NumberFormat.getNumberInstance(Locale.UK).parse(squoreEntry.getCanonicalDebpt().trim()).doubleValue();
 					//if(canonicalDebptNum>0){
-						//squoreEntry.setCanonicalDebpt(""+canonicalDebptNum);
+					//	squoreEntry.setCanonicalDebpt(""+canonicalDebptNum);
 						squoreEntries.add(squoreEntry);
 					//}
 					

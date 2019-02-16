@@ -247,7 +247,7 @@ public class XmlWriter {
 				Element staff = doc.createElement("File");
 				rootElement.appendChild(staff);
 
-				Element artefact = doc.createElement("Artefact");
+				Element artefact = doc.createElement("Artifact");
 				artefact.appendChild(doc.createTextNode(sq.getFileName()));
 				staff.appendChild(artefact);
 				
@@ -338,7 +338,7 @@ public class XmlWriter {
 			doc.appendChild(rootElement);
 
 			CastEntriesProcessor castEntriesProcessor = new CastEntriesProcessor();
-			List<CastEntry> entries = castEntriesProcessor.getSortedList(castEntries);
+			List<CastEntry> entries = castEntriesProcessor.getSortedList(castEntries,"TotalErrors");
 			
 			//List<CastEntry> entries = castEntries;
 			
@@ -367,13 +367,7 @@ public class XmlWriter {
 					keyPath.appendChild(doc.createTextNode(keyPathString));
 					staff.appendChild(keyPath);
 				}
-				
-				
 			}
-			
-
-			
-
 			// write the content into xml file
 			TransformerFactory transformerFactory = TransformerFactory.newInstance();
 			Transformer transformer = transformerFactory.newTransformer();
@@ -524,5 +518,69 @@ public class XmlWriter {
 			tfe.printStackTrace();
 		}
 	}	
+	
+	/** Create an XML file for each list of Sonar Entries
+	 *  @param  projectName  The name of our project 
+	 *  @param  entry        The MainPageEntry for the sonar project*/
+	public void writeCastsWithTDinMinutesToXML(String projectName, List<CastEntry> castEntries){
+		try {
+
+			DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
+
+			// root elements
+			Document doc = docBuilder.newDocument();
+			Element rootElement = doc.createElement("project");
+			doc.appendChild(rootElement);
+
+			CastEntriesProcessor castEntriesProcessor = new CastEntriesProcessor();
+			List<CastEntry> entries = castEntriesProcessor.getSortedList(castEntries, "TDinMinutes");
+			
+			//List<CastEntry> entries = castEntries;
+			
+			System.out.println("Enter Here: "+entries.size());
+			
+			for(CastEntry cEntry : entries){
+				
+				if(cEntry.getPath().length()>11){
+					Element staff = doc.createElement("File");
+					rootElement.appendChild(staff);
+					
+					Element path = doc.createElement("path");
+					path.appendChild(doc.createTextNode(cEntry.getPath()));
+					staff.appendChild(path);
+					
+					Element violations = doc.createElement("total_violations");
+					violations.appendChild(doc.createTextNode(cEntry.getTotalErrors()));
+					staff.appendChild(violations);
+					
+					Element totalDebtInMinutes = doc.createElement("total_debt_in_minutes");
+					totalDebtInMinutes.appendChild(doc.createTextNode(cEntry.getTdContributionInMinutes()));
+					staff.appendChild(totalDebtInMinutes);
+					
+					Element totalFixEffordInMinutes = doc.createElement("total_fix_efford_in_minutes");
+					totalFixEffordInMinutes.appendChild(doc.createTextNode(cEntry.getFixEffortInMinutes()));
+					staff.appendChild(totalFixEffordInMinutes);	
+					
+					
+					
+				}
+			}
+			// write the content into xml file
+			TransformerFactory transformerFactory = TransformerFactory.newInstance();
+			Transformer transformer = transformerFactory.newTransformer();
+			DOMSource source = new DOMSource(doc);
+			StreamResult result = new StreamResult(new File("./cast_tdInMinutes_"+projectName+".xml"));
+
+			transformer.transform(source, result);
+
+			System.out.println("File saved!");
+
+		} catch (ParserConfigurationException pce) {
+			pce.printStackTrace();
+		} catch (TransformerException tfe) {
+			tfe.printStackTrace();
+		}
+	}
 
 }

@@ -1,0 +1,1476 @@
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Abs.java,0.0,1h 42min,102.0,18.97
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Abs.java,0.0,28min 30s,28.5,18.27
+openjpa,/main/java/org/apache/openjpa/persistence/query/AbsExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/kernel/AbstractBrokerFactory.java,118.0,4h 44min,284.0,203.93
+openjpa,/main/java/org/apache/openjpa/meta/AbstractCFMetaDataFactory.java,561.0,7h 22min,442.0,191.02
+openjpa,/main/java/org/apache/openjpa/util/AbstractChangeTracker.java,124.0,1h 54min,114.0,51.82
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/AbstractClassStrategy.java,0.0,15min,15.0,51.17
+openjpa,/main/java/org/apache/openjpa/persistence/jest/AbstractCommand.java,39.0,2h 15min,135.0,109.16
+openjpa,/main/java/org/apache/openjpa/lib/util/concurrent/AbstractConcurrentEventManager.java,34.0,50min,50.0,30.88
+openjpa,/main/java/org/apache/openjpa/datacache/AbstractDataCache.java,155.0,2h 47min,167.0,219.13
+openjpa,/main/java/org/apache/openjpa/instrumentation/AbstractDataCacheInstrument.java,13.0,3h 26min,206.0,98.6
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/AbstractDB2Dictionary.java,44.0,22min 30s,22.5,20.29
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/AbstractDiscriminatorStrategy.java,0.0,16min,16.0,35.11
+openjpa,/main/java/org/apache/openjpa/persistence/query/AbstractDomainObject.java,0.0,30min,30.0,210.99
+openjpa,/main/java/org/apache/openjpa/kernel/exps/AbstractExpressionBuilder.java,98.0,4h 50min,290.0,153.05
+openjpa,/main/java/org/apache/openjpa/kernel/exps/AbstractExpressionVisitor.java,0.0,7min 30s,7.5,18.81
+openjpa,/main/java/org/apache/openjpa/kernel/AbstractFieldManager.java,0.0,0,0.0,75.72
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/AbstractFieldStrategy.java,8.0,31min,31.0,162.89
+openjpa,/main/java/org/apache/openjpa/lib/instrumentation/AbstractInstrument.java,8.0,7min 30s,7.5,39.37
+openjpa,/main/java/org/apache/openjpa/lib/instrumentation/AbstractInstrumentationProvider.java,62.0,45min,45.0,84.29
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/AbstractJDBCListener.java,5.0,7min 30s,7.5,45.46
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/AbstractJDBCSavepointManager.java,44.0,7min 30s,7.5,48.45
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/AbstractJDBCSeq.java,6.0,1h 9min,69.0,63.16
+openjpa,/main/java/org/apache/openjpa/event/AbstractLifecycleListener.java,0.0,0,0.0,53.76
+openjpa,/main/java/org/apache/openjpa/lib/rop/AbstractListIterator.java,8.0,0,0.0,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/AbstractLockManager.java,0.0,1min,1.0,11.91
+openjpa,/main/java/org/apache/openjpa/lib/log/AbstractLog.java,0.0,27min,27.0,70.28
+openjpa,/main/java/org/apache/openjpa/util/AbstractLRSProxyCollection.java,79.0,3h 33min,213.0,185.88
+openjpa,/main/java/org/apache/openjpa/util/AbstractLRSProxyMap.java,107.0,5h 44min,344.0,206.68
+openjpa,/main/java/org/apache/openjpa/ee/AbstractManagedRuntime.java,7.0,15min,15.0,18.0
+openjpa,/main/java/org/apache/openjpa/persistence/meta/AbstractManagedType.java,179.0,3h 49min,229.0,388.86
+openjpa,/main/java/org/apache/openjpa/meta/AbstractMetaDataDefaults.java,130.0,3h 11min,191.0,136.59
+openjpa,/main/java/org/apache/openjpa/meta/AbstractMetaDataFactory.java,20.0,1min,1.0,57.45
+openjpa,/main/java/org/apache/openjpa/lib/rop/AbstractNonSequentialResultList.java,24.0,58min,58.0,117.92
+openjpa,/main/java/org/apache/openjpa/tools/maven/AbstractOpenJpaEnhancerMojo.java,0.0,20min,20.0,6.44
+openjpa,/main/java/org/apache/openjpa/tools/maven/AbstractOpenJpaMappingToolMojo.java,0.0,27min 30s,27.5,23.74
+openjpa,/main/java/org/apache/openjpa/tools/maven/AbstractOpenJpaMojo.java,10.0,57min 30s,57.5,50.31
+openjpa,/main/java/org/apache/openjpa/persistence/query/AbstractPath.java,13.0,26min,26.0,52.87
+openjpa,/main/java/org/apache/openjpa/kernel/AbstractPCData.java,180.0,1M/d 5h,780.0,160.06
+openjpa,/main/java/org/apache/openjpa/kernel/AbstractPCResultObjectProvider.java,0.0,8min 30s,8.5,30.61
+openjpa,/main/java/org/apache/openjpa/instrumentation/AbstractPreparedQueryCacheInstrument.java,41.0,2h 28min,148.0,65.94
+openjpa,/main/java/org/apache/openjpa/lib/conf/AbstractProductDerivation.java,62.0,7min 30s,7.5,67.42
+openjpa,/main/java/org/apache/openjpa/persistence/AbstractQuery.java,179.0,4h 53min,293.0,320.37
+openjpa,/main/java/org/apache/openjpa/datacache/AbstractQueryCache.java,124.0,3h 14min,194.0,241.09
+openjpa,/main/java/org/apache/openjpa/instrumentation/AbstractQueryCacheInstrument.java,42.0,3h 15min,195.0,79.17
+openjpa,/main/java/org/apache/openjpa/event/AbstractRemoteCommitProvider.java,0.0,18min,18.0,15.09
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/AbstractResult.java,75.0,4h 28min,268.0,868.49
+openjpa,/main/java/org/apache/openjpa/lib/rop/AbstractResultList.java,2.0,8min 30s,8.5,53.22
+openjpa,/main/java/org/apache/openjpa/lib/rop/AbstractSequentialResultList.java,20.0,47min 30s,47.5,49.07
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/AbstractSQLServerDictionary.java,30.0,28min 30s,28.5,47.64
+openjpa,/main/java/org/apache/openjpa/abstractstore/AbstractStoreBrokerFactory.java,6.0,19min 30s,19.5,32.47
+openjpa,/main/java/org/apache/openjpa/abstractstore/AbstractStoreManager.java,33.0,2h 7min,127.0,97.65
+openjpa,/main/java/org/apache/openjpa/kernel/AbstractStoreQuery.java,52.0,35min,35.0,172.3
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/AbstractStrategy.java,0.0,7min 30s,7.5,65.75
+openjpa,/main/java/org/apache/openjpa/lib/ant/AbstractTask.java,61.0,43min,43.0,54.27
+openjpa,/main/java/org/apache/openjpa/event/AbstractTransactionListener.java,0.0,0,0.0,30.72
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/AbstractUpdateManager.java,49.0,3h 53min,233.0,252.57
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/AbstractVal.java,22.0,15min,15.0,87.9
+openjpa,/main/java/org/apache/openjpa/validation/AbstractValidator.java,0.0,0,0.0,25.14
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/AbstractValueHandler.java,0.0,7min 30s,7.5,38.83
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/AbstractVersionStrategy.java,2.0,15min,15.0,46.94
+openjpa,/main/java/org/apache/openjpa/persistence/query/AbstractVisitable.java,0.0,15min,15.0,24.36
+openjpa,/main/java/org/apache/openjpa/meta/AccessCode.java,55.0,3h 40min,220.0,105.55
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/AccessDictionary.java,8.0,9min 30s,9.5,17.38
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Add.java,0.0,7min 30s,7.5,13.5
+openjpa,/main/java/embeddables/Address.java,0.0,0,0.0,24.44
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Aggregate.java,41.0,43min 30s,43.5,46.16
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Aggregate.java,110.0,1h 16min,76.0,114.2
+openjpa,/main/java/org/apache/openjpa/persistence/query/Aggregate.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/kernel/exps/AggregateListener.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/kernel/exps/AggregateVal.java,4.0,27min,27.0,48.1
+openjpa,/main/java/org/apache/openjpa/persistence/query/AliasContext.java,58.0,23min,23.0,37.86
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/AliasContext.java,0.0,0,0.0,10.67
+openjpa,/main/java/org/apache/openjpa/kernel/exps/All.java,0.0,28min 30s,28.5,21.18
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/All.java,0.0,7min 30s,7.5,10.24
+openjpa,/main/java/org/apache/openjpa/persistence/query/AllExpression.java,0.0,15min,15.0,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/exps/AndExpression.java,4.0,7min 30s,7.5,29.83
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/AndExpression.java,4.0,11min 30s,11.5,59.58
+openjpa,/main/java/org/apache/openjpa/persistence/query/AndPredicate.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/persistence/AnnotationBuilder.java,16.0,45min 30s,45.5,90.46
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/AnnotationPersistenceMappingParser.java,502.0,2M/d 2h,1080.0,501.03
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/AnnotationPersistenceMappingSerializer.java,715.0,1M/d 7h,900.0,235.43
+openjpa,/main/java/org/apache/openjpa/persistence/AnnotationPersistenceMetaDataParser.java,579.0,2M/d 3h,1140.0,487.43
+openjpa,/main/java/org/apache/openjpa/persistence/AnnotationPersistenceMetaDataSerializer.java,421.0,3M/d 1h,1500.0,412.09
+openjpa,/main/java/org/apache/openjpa/persistence/AnnotationPersistenceXMLMetaDataParser.java,68.0,1h 10min,70.0,82.4
+openjpa,/main/java/org/apache/openjpa/persistence/meta/AnnotationProcessor6.java,73.0,2h 39min,159.0,127.08
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Any.java,0.0,28min 30s,28.5,21.18
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Any.java,0.0,7min 30s,7.5,10.24
+openjpa,/main/java/org/apache/openjpa/persistence/query/AnyExpression.java,0.0,15min,15.0,7.68
+openjpa,/main/java/org/apache/openjpa/util/ApplicationIds.java,202.0,2M/d 3h,1140.0,181.16
+openjpa,/main/java/org/apache/openjpa/enhance/ApplicationIdTool.java,260.0,1M/d 2h,600.0,281.4
+openjpa,/main/java/org/apache/openjpa/ant/ApplicationIdToolTask.java,0.0,0,0.0,38.56
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Args.java,10.0,28min,28.0,47.4
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Args.java,67.0,38min,38.0,647.11
+openjpa,/main/java/org/apache/openjpa/persistence/ArgumentException.java,126.0,7min 30s,7.5,60.28
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Arguments.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/query/ArrayExpression.java,2.0,7min 30s,7.5,356.19
+openjpa,/main/java/org/apache/openjpa/util/ArrayStateImage.java,30.0,44min,44.0,21.88
+openjpa,/main/java/org/apache/openjpa/enhance/AsmAdaptor.java,129.0,1h 47min,107.0,100.43
+openjpa,/main/java/org/apache/openjpa/event/AttachListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/kernel/AttachManager.java,83.0,3h 31min,211.0,169.09
+openjpa,/main/java/org/apache/openjpa/kernel/AttachStrategy.java,91.0,6h 33min,393.0,292.45
+openjpa,/main/java/jpa/tools/swing/AttributeLegendView.java,2.0,2min,2.0,14.12
+openjpa,/main/java/org/apache/openjpa/enhance/AttributeTranslator.java,0.0,0,0.0,3.88
+openjpa,/main/java/jpa/tools/swing/AttributeView.java,72.0,0,0.0,6.71
+openjpa,/main/java/org/apache/openjpa/audit/Auditable.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/audit/AuditableOperation.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/Audited.java,4.0,45min,45.0,10.59
+openjpa,/main/java/org/apache/openjpa/audit/AuditLogger.java,52.0,7min 30s,7.5,37.16
+openjpa,/main/java/org/apache/openjpa/kernel/AuditManager.java,117.0,1h 45min,105.0,127.65
+openjpa,/main/java/org/apache/openjpa/audit/Auditor.java,0.0,0,0.0,0.97
+openjpa,/main/java/openbook/domain/Author.java,1.0,1min,1.0,47.21
+openjpa,/main/java/org/apache/openjpa/kernel/AutoClear.java,10.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/AutoClearType.java,0.0,40min,40.0,10.59
+openjpa,/main/java/org/apache/openjpa/kernel/AutoDetach.java,10.0,0,0.0,4.85
+openjpa,/main/java/org/apache/openjpa/persistence/AutoDetachType.java,20.0,6min,6.0,12.53
+openjpa,/main/java/org/apache/openjpa/conf/AutoDetachValue.java,47.0,17min,17.0,28.86
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/AutoDriverDataSource.java,0.0,27min 30s,27.5,11.91
+openjpa,/main/java/org/apache/openjpa/ee/AutomaticManagedRuntime.java,323.0,2h 39min,159.0,59.66
+openjpa,/main/java/org/apache/openjpa/persistence/query/AverageExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Avg.java,0.0,40min 30s,40.5,17.65
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Avg.java,0.0,7min 30s,7.5,11.21
+openjpa,/main/java/org/apache/openjpa/lib/util/Base16Encoder.java,34.0,26min,26.0,13.5
+openjpa,/main/java/org/apache/openjpa/lib/rop/BatchedResultObjectProvider.java,0.0,0,0.0,9.7
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/BatchingConstraintUpdateManager.java,20.0,27min 30s,27.5,18.0
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/BatchingOperationOrderUpdateManager.java,20.0,27min 30s,27.5,18.0
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/BatchingPreparedStatementManagerImpl.java,139.0,2h 46min,166.0,103.85
+openjpa,/main/java/org/apache/openjpa/event/BeanLifecycleCallbacks.java,36.0,21min 30s,21.5,34.14
+openjpa,/main/java/org/apache/openjpa/event/BeginTransactionListener.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/query/BetweenExpression.java,0.0,7min 30s,7.5,9.27
+openjpa,/main/java/org/apache/openjpa/util/BigDecimalId.java,35.0,30min,30.0,28.24
+openjpa,/main/java/org/apache/openjpa/util/BigIntegerId.java,40.0,30min,30.0,28.24
+openjpa,/main/java/org/apache/openjpa/persistence/query/BinaryConditionalOperator.java,7.0,0,0.0,6.71
+openjpa,/main/java/org/apache/openjpa/persistence/query/BinaryExpressionPredicate.java,28.0,27min,27.0,47.75
+openjpa,/main/java/org/apache/openjpa/persistence/query/BinaryFunctionalOperator.java,7.0,0,0.0,6.71
+openjpa,/main/java/org/apache/openjpa/persistence/query/BinaryOperatorExpression.java,6.0,15min,15.0,36.19
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/BinaryOpExpState.java,0.0,7min 30s,7.5,18.89
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/BindableParameter.java,0.0,0,0.0,5.82
+openjpa,/main/java/org/apache/openjpa/kernel/exps/BindKeyVariableExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/exps/BindValueVariableExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/exps/BindVariableAndExpression.java,5.0,51min 30s,51.5,20.29
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/BindVariableAndExpression.java,4.0,9min 30s,9.5,51.9
+openjpa,/main/java/org/apache/openjpa/kernel/exps/BindVariableExpression.java,6.0,29min 30s,29.5,32.47
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/BindVariableExpression.java,7.0,8min 30s,8.5,30.45
+openjpa,/main/java/org/apache/openjpa/util/BlacklistClassResolver.java,0.0,17min 30s,17.5,24.09
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/BlobValueHandler.java,15.0,7min 30s,7.5,23.2
+openjpa,/main/java/openbook/domain/Book.java,5.0,1h 7min,67.0,71.57
+openjpa,/main/java/org/apache/openjpa/util/BooleanId.java,0.0,0,0.0,31.77
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/BooleanRepresentation.java,10.0,0,0.0,11.64
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/BooleanRepresentationFactory.java,37.0,22min 30s,22.5,105.9
+openjpa,/main/java/org/apache/openjpa/lib/conf/BooleanValue.java,5.0,3min,3.0,17.92
+openjpa,/main/java/org/apache/openjpa/kernel/Bootstrap.java,32.0,1h 6min,66.0,47.72
+openjpa,/main/java/org/apache/openjpa/lib/conf/BootstrapException.java,17.0,0,0.0,22.77
+openjpa,/main/java/org/apache/openjpa/kernel/exps/BoundVariable.java,4.0,19min 30s,19.5,26.3
+openjpa,/main/java/org/apache/openjpa/lib/graph/BreadthFirstWalk.java,13.0,6min,6.0,35.3
+openjpa,/main/java/org/apache/openjpa/kernel/Broker.java,0.0,0,0.0,114.3
+openjpa,/main/java/org/apache/openjpa/kernel/BrokerFactory.java,0.0,0,0.0,21.61
+openjpa,/main/java/org/apache/openjpa/event/BrokerFactoryEvent.java,0.0,7min 30s,7.5,14.12
+openjpa,/main/java/org/apache/openjpa/event/BrokerFactoryEventManager.java,2.0,0,0.0,15.09
+openjpa,/main/java/org/apache/openjpa/event/BrokerFactoryListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/conf/BrokerFactoryValue.java,1.0,16min,16.0,12.88
+openjpa,/main/java/org/apache/openjpa/kernel/BrokerImpl.java,1202.0,6M/d 3h,3060.0,1406.96
+openjpa,/main/java/org/apache/openjpa/conf/BrokerValue.java,37.0,27min,27.0,24.79
+openjpa,/main/java/mapping/BuildSchemaPC.java,0.0,0,0.0,18.35
+openjpa,/main/java/mapping/BuildUTF8SchemaPC.java,0.0,0,0.0,18.35
+openjpa,/main/java/org/apache/openjpa/persistence/osgi/BundleDelegatingClassLoader.java,0.0,0,0.0,18.97
+openjpa,/main/java/org/apache/openjpa/persistence/osgi/BundleUtils.java,140.0,10min,10.0,13.5
+openjpa,/main/java/openbook/client/BuyBookPage.java,94.0,2h 10min,130.0,161.12
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ByteArrayValueHandler.java,15.0,7min 30s,7.5,33.79
+openjpa,/main/java/org/apache/openjpa/lib/util/BytecodeWriter.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/util/ByteId.java,0.0,0,0.0,36.89
+openjpa,/main/java/org/apache/openjpa/lib/util/Bytes.java,30.0,1h 37min,97.0,16.06
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/CacheDictionary.java,0.0,0,0.0,8.03
+openjpa,/main/java/org/apache/openjpa/datacache/CacheDistributionPolicy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/util/CacheMap.java,345.0,5h 40min,340.0,180.84
+openjpa,/main/java/org/apache/openjpa/conf/CacheMarshaller.java,0.0,0,0.0,14.2
+openjpa,/main/java/org/apache/openjpa/conf/CacheMarshallerImpl.java,70.0,1h 10min,70.0,88.01
+openjpa,/main/java/org/apache/openjpa/conf/CacheMarshallersValue.java,42.0,30min 30s,30.5,38.56
+openjpa,/main/java/org/apache/openjpa/datacache/Caches.java,51.0,12min,12.0,16.41
+openjpa,/main/java/org/apache/openjpa/datacache/CacheStatistics.java,90.0,0,0.0,37.48
+openjpa,/main/java/org/apache/openjpa/datacache/CacheStatisticsImpl.java,3.0,55min,55.0,129.1
+openjpa,/main/java/org/apache/openjpa/datacache/CacheStatisticsSPI.java,0.0,0,0.0,1.59
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/Calendard.java,0.0,7min 30s,7.5,17.3
+openjpa,/main/java/org/apache/openjpa/util/CallbackException.java,0.0,7min 30s,7.5,13.42
+openjpa,/main/java/org/apache/openjpa/persistence/CallbackMode.java,10.0,6min,6.0,12.53
+openjpa,/main/java/org/apache/openjpa/event/CallbackModes.java,10.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/conf/CallbackOptions.java,6.0,0,0.0,13.5
+openjpa,/main/java/org/apache/openjpa/kernel/exps/CandidatePath.java,55.0,2h 41min,161.0,83.51
+openjpa,/main/java/org/apache/openjpa/persistence/query/CaseExpression.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/persistence/query/CaseExpressionImpl.java,5.0,27min,27.0,122.15
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Cast.java,9.0,19min 30s,19.5,43.25
+openjpa,/main/java/org/apache/openjpa/lib/meta/CFMetaDataParser.java,54.0,3h 49min,229.0,74.8
+openjpa,/main/java/org/apache/openjpa/lib/meta/CFMetaDataSerializer.java,14.0,23min,23.0,11.29
+openjpa,/main/java/org/apache/openjpa/util/ChangeTracker.java,0.0,0,0.0,10.16
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/CharArrayStreamValueHandler.java,15.0,40min 30s,40.5,45.0
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/CharArrayValueHandler.java,15.0,18min 30s,18.5,33.79
+openjpa,/main/java/org/apache/openjpa/util/CharId.java,0.0,0,0.0,36.89
+openjpa,/main/java/org/apache/openjpa/lib/meta/ClassAnnotationMetaDataFilter.java,11.0,1h 22min,82.0,41.82
+openjpa,/main/java/org/apache/openjpa/lib/meta/ClassArgParser.java,516.0,1M/d,480.0,192.61
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ClassCriteria.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/ClassMapping.java,271.0,7h 9min,429.0,2952.72
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/ClassMappingInfo.java,264.0,4h 1min,241.0,209.24
+openjpa,/main/java/org/apache/openjpa/meta/ClassMetaData.java,384.0,2M/d 4h,1200.0,647.02
+openjpa,/main/java/org/apache/openjpa/lib/meta/ClassMetaDataIterator.java,101.0,1h 20min,80.0,45.89
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ClassNameDiscriminatorStrategy.java,45.0,36min 30s,36.5,42.44
+openjpa,/main/java/org/apache/openjpa/lib/meta/ClasspathMetaDataIterator.java,20.0,1h,60.0,20.91
+openjpa,/main/java/org/apache/openjpa/enhance/ClassRedefiner.java,45.0,20min 30s,20.5,23.74
+openjpa,/main/java/org/apache/openjpa/util/ClassResolver.java,0.0,0,0.0,2.21
+openjpa,/main/java/org/apache/openjpa/util/ClassResolverImpl.java,0.0,21min 30s,21.5,12.18
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/ClassStrategy.java,0.0,0,0.0,33.6
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/ClassTableJDBCSeq.java,167.0,1h 56min,116.0,76.15
+openjpa,/main/java/org/apache/openjpa/lib/util/ClassUtil.java,23.0,1h 42min,102.0,34.41
+openjpa,/main/java/org/apache/openjpa/lib/util/Clearable.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/datacache/ClearableScheduler.java,51.0,1h 5min,65.0,94.42
+openjpa,/main/java/org/apache/openjpa/kernel/ClearFieldManager.java,20.0,7min 30s,7.5,46.51
+openjpa,/main/java/org/apache/openjpa/event/ClearListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ClobValueHandler.java,15.0,7min 30s,7.5,23.2
+openjpa,/main/java/org/apache/openjpa/lib/util/Closeable.java,20.0,0,0.0,3.53
+openjpa,/main/java/org/apache/openjpa/persistence/jest/Closure.java,32.0,1h 11min,71.0,42.98
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Coalesce.java,9.0,52min 30s,52.5,55.16
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/CoalesceExpression.java,36.0,44min,44.0,623.02
+openjpa,/main/java/org/apache/openjpa/lib/util/CodeFormat.java,108.0,3h 53min,233.0,112.23
+openjpa,/main/java/org/apache/openjpa/enhance/CodeGenerator.java,188.0,3h 15min,195.0,97.76
+openjpa,/main/java/org/apache/openjpa/util/CollectionChangeTracker.java,0.0,0,0.0,2.56
+openjpa,/main/java/org/apache/openjpa/util/CollectionChangeTrackerImpl.java,19.0,36min 30s,36.5,25.95
+openjpa,/main/java/org/apache/openjpa/kernel/exps/CollectionParam.java,26.0,25min,25.0,33.63
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/CollectionParam.java,119.0,1h 7min,67.0,125.87
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/Column.java,365.0,1M/d 3h,660.0,272.84
+openjpa,/main/java/org/apache/openjpa/jdbc/identifier/ColumnDefIdentifierRule.java,0.0,0,0.0,7.06
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/ColumnIO.java,28.0,1h 46min,106.0,121.28
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/Columns.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ColumnVersionStrategy.java,17.0,4h 22min,262.0,102.07
+openjpa,/main/java/openbook/tools/CommandProcessor.java,54.0,1h 40min,100.0,43.52
+openjpa,/main/java/org/apache/openjpa/lib/xml/Commentable.java,10.0,0,0.0,5.12
+openjpa,/main/java/org/apache/openjpa/lib/log/CommonsLogFactory.java,24.0,0,0.0,67.99
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/CompareByExample.java,68.0,2h 40min,160.0,40.15
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/CompareEqualExpression.java,4.0,36min,36.0,66.02
+openjpa,/main/java/org/apache/openjpa/kernel/exps/CompareExpression.java,4.0,15min,15.0,34.33
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/CompareExpression.java,26.0,32min,32.0,59.66
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/ComparisonStyle.java,2.0,0,0.0,63.86
+openjpa,/main/java/org/apache/openjpa/conf/Compatibility.java,62.0,34min,34.0,133.87
+openjpa,/main/java/org/apache/openjpa/persistence/meta/CompileTimeLogger.java,8.0,15min,15.0,39.02
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/CompoundSelections.java,64.0,58min,58.0,148.45
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Concat.java,9.0,9min 30s,9.5,31.69
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Concat.java,83.0,22min 30s,22.5,136.89
+openjpa,/main/java/org/apache/openjpa/persistence/query/ConcatExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/datacache/ConcurrentDataCache.java,10.0,26min,26.0,70.6
+openjpa,/main/java/org/apache/openjpa/lib/util/concurrent/ConcurrentHashMap.java,373.0,6h 34min,394.0,318.19
+openjpa,/main/java/org/apache/openjpa/lib/util/concurrent/ConcurrentMap.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/datacache/ConcurrentQueryCache.java,10.0,25min,25.0,60.71
+openjpa,/main/java/org/apache/openjpa/lib/util/concurrent/ConcurrentReferenceHashMap.java,439.0,1M/d,480.0,327.21
+openjpa,/main/java/org/apache/openjpa/lib/util/concurrent/ConcurrentReferenceHashSet.java,32.0,28min,28.0,52.6
+openjpa,/main/java/org/apache/openjpa/persistence/query/ConditionalOperator.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/lib/conf/Configurable.java,0.0,0,0.0,2.83
+openjpa,/main/java/org/apache/openjpa/lib/conf/Configuration.java,45.0,0,0.0,34.06
+openjpa,/main/java/org/apache/openjpa/lib/conf/ConfigurationImpl.java,405.0,7h 4min,424.0,317.59
+openjpa,/main/java/org/apache/openjpa/lib/conf/ConfigurationProvider.java,0.0,0,0.0,8.03
+openjpa,/main/java/org/apache/openjpa/lib/conf/Configurations.java,161.0,1M/d 2h,600.0,168.06
+openjpa,/main/java/jpa/tools/swing/ConfigurationViewer.java,303.0,22min,22.0,32.74
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/ConfiguringConnectionDecorator.java,8.0,11min,11.0,94.34
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/ConnectionDecorator.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/ConnectionInfo.java,0.0,7min 30s,7.5,11.56
+openjpa,/main/java/org/apache/openjpa/persistence/ConnectionRetainMode.java,0.0,1h,60.0,11.56
+openjpa,/main/java/org/apache/openjpa/kernel/ConnectionRetainModes.java,10.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Const.java,2.0,1h 18min,78.0,131.66
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Constant.java,0.0,0,0.0,2.56
+openjpa,/main/java/org/apache/openjpa/persistence/query/ConstantExpression.java,2.0,7min 30s,7.5,13.42
+openjpa,/main/java/org/apache/openjpa/persistence/jest/Constants.java,10.0,0,0.0,47.53
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/ConstGetObjectId.java,7.0,29min,29.0,89.33
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/ConstInstanceofExpression.java,4.0,9min 30s,9.5,30.8
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/ConstPath.java,96.0,1h 56min,116.0,114.66
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/Constraint.java,184.0,22min 30s,22.5,78.66
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/ConstraintUpdateManager.java,63.0,4h 1min,241.0,153.35
+openjpa,/main/java/embeddables/ContactInfo.java,0.0,0,0.0,14.47
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ContainerFieldStrategy.java,13.0,36min,36.0,63.0
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ContainerTable.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ContainsExpression.java,4.0,40min 30s,40.5,26.65
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/ContainsExpression.java,0.0,9min 30s,9.5,17.03
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ContainsKeyExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/ContainsKeyExpression.java,0.0,8min 30s,8.5,13.15
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ContainsValueExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Context.java,85.0,1h 40min,100.0,81.7
+openjpa,/main/java/embeddables/Coordinates.java,0.0,0,0.0,22.15
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Count.java,0.0,9min 30s,9.5,14.12
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Count.java,0.0,9min 30s,9.5,41.74
+openjpa,/main/java/org/apache/openjpa/persistence/query/CountExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/CriteriaBuilderImpl.java,97.0,1h 35min,95.0,694.61
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/CriteriaExpression.java,0.0,0,0.0,5.82
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/CriteriaExpressionBuilder.java,133.0,2h 32min,152.0,228.67
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/CriteriaExpressionVisitor.java,7.0,0,0.0,24.79
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/CriteriaQueryImpl.java,436.0,7h 11min,431.0,355.97
+openjpa,/main/java/org/apache/openjpa/kernel/exps/CurrentDate.java,7.0,17min 30s,17.5,21.45
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/CurrentDate.java,7.0,57min 30s,57.5,42.36
+openjpa,/main/java/org/apache/openjpa/persistence/query/CurrentTimeExpression.java,9.0,7min 30s,7.5,15.36
+openjpa,/main/java/openbook/domain/Customer.java,5.0,0,0.0,27.7
+openjpa,/main/java/org/apache/openjpa/datacache/DataCache.java,10.0,0,0.0,29.56
+openjpa,/main/java/org/apache/openjpa/persistence/DataCache.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/instrumentation/DataCacheInstrument.java,0.0,0,0.0,27.16
+openjpa,/main/java/org/apache/openjpa/instrumentation/jmx/DataCacheJMXInstrument.java,54.0,52min 30s,52.5,23.04
+openjpa,/main/java/org/apache/openjpa/instrumentation/jmx/DataCacheJMXInstrumentMBean.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/datacache/DataCacheManager.java,0.0,0,0.0,15.17
+openjpa,/main/java/org/apache/openjpa/datacache/DataCacheManagerImpl.java,46.0,2h 26min,146.0,71.84
+openjpa,/main/java/org/apache/openjpa/datacache/DataCacheMode.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/datacache/DataCachePCData.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/datacache/DataCachePCDataGenerator.java,80.0,1h 3min,63.0,54.0
+openjpa,/main/java/org/apache/openjpa/datacache/DataCachePCDataImpl.java,32.0,2h 20min,140.0,90.54
+openjpa,/main/java/org/apache/openjpa/kernel/DataCacheRetrieveMode.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/datacache/DataCacheStoreManager.java,222.0,1M/d 1h,540.0,178.68
+openjpa,/main/java/org/apache/openjpa/kernel/DataCacheStoreMode.java,0.0,0,0.0,0.97
+openjpa,/main/java/openbook/server/DataLoader.java,0.0,0,0.0,8.03
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/DataSourceFactory.java,112.0,2h 1min,121.0,71.65
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/DataSourceLogs.java,9.0,14min,14.0,38.56
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/DatastoreFunction.java,2.0,7min 30s,7.5,22.77
+openjpa,/main/java/org/apache/openjpa/persistence/DataStoreId.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/DataStoreIdColumn.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/util/DateId.java,0.0,0,0.0,37.24
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/DB2Dictionary.java,328.0,1M/d,480.0,311.76
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/DBCPDriverDataSource.java,169.0,2h 9min,129.0,71.38
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/DBDictionary.java,1698.0,7M/d 7h,3780.0,2393.64
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/DBDictionaryFactory.java,198.0,7h 26min,446.0,62.11
+openjpa,/main/java/org/apache/openjpa/jdbc/identifier/DBIdentifier.java,161.0,1M/d,480.0,300.45
+openjpa,/main/java/org/apache/openjpa/jdbc/identifier/DBIdentifierRule.java,5.0,7min 30s,7.5,11.91
+openjpa,/main/java/org/apache/openjpa/jdbc/identifier/DBIdentifierUtil.java,10.0,0,0.0,65.61
+openjpa,/main/java/org/apache/openjpa/jdbc/identifier/DBIdentifierUtilImpl.java,96.0,7h 3min,423.0,170.89
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/DecoratingDataSource.java,3.0,2min,2.0,27.7
+openjpa,/main/java/org/apache/openjpa/datacache/DefaultCacheDistributionPolicy.java,15.0,0,0.0,16.95
+openjpa,/main/java/org/apache/openjpa/jdbc/identifier/DefaultIdentifierConfiguration.java,1.0,0,0.0,40.07
+openjpa,/main/java/relations/Deity.java,4.0,4min,4.0,74.21
+openjpa,/main/java/org/apache/openjpa/util/DelayedArrayListProxy.java,221.0,4h 10min,250.0,220.29
+openjpa,/main/java/org/apache/openjpa/util/DelayedCollectionChangeTrackerImpl.java,0.0,11min 30s,11.5,20.83
+openjpa,/main/java/org/apache/openjpa/util/DelayedHashSetProxy.java,256.0,3h 31min,211.0,174.13
+openjpa,/main/java/org/apache/openjpa/util/DelayedLinkedHashSetProxy.java,236.0,3h 31min,211.0,174.13
+openjpa,/main/java/org/apache/openjpa/util/DelayedLinkedListProxy.java,311.0,7h 31min,451.0,279.33
+openjpa,/main/java/org/apache/openjpa/util/DelayedPriorityQueueProxy.java,326.0,4h 1min,241.0,201.75
+openjpa,/main/java/org/apache/openjpa/util/DelayedProxy.java,0.0,0,0.0,13.34
+openjpa,/main/java/org/apache/openjpa/util/DelayedTreeSetProxy.java,256.0,3h 21min,201.0,234.14
+openjpa,/main/java/org/apache/openjpa/util/DelayedVectorProxy.java,241.0,6h 10min,370.0,326.16
+openjpa,/main/java/org/apache/openjpa/kernel/DelegatingBroker.java,6.0,1M/d 6h,840.0,985.73
+openjpa,/main/java/org/apache/openjpa/kernel/DelegatingBrokerFactory.java,6.0,1h 41min,101.0,121.72
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/DelegatingCallableStatement.java,176.0,1h 35min,95.0,1735.15
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/DelegatingConnection.java,64.0,1h 38min,98.0,485.3
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/DelegatingDatabaseMetaData.java,4.0,56min 30s,56.5,906.92
+openjpa,/main/java/org/apache/openjpa/datacache/DelegatingDataCache.java,56.0,1M/d,480.0,204.61
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/DelegatingDataSource.java,66.0,1h 37min,97.0,80.3
+openjpa,/main/java/org/apache/openjpa/kernel/DelegatingExtent.java,6.0,1h 24min,84.0,76.18
+openjpa,/main/java/org/apache/openjpa/kernel/DelegatingFetchConfiguration.java,56.0,1M/d 1h,540.0,348.75
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/DelegatingJDBCFetchConfiguration.java,0.0,5h 10min,310.0,171.68
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/DelegatingJoinable.java,6.0,25min,25.0,69.98
+openjpa,/main/java/org/apache/openjpa/meta/DelegatingMetaDataFactory.java,2.0,11min,11.0,120.13
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/DelegatingPreparedStatement.java,156.0,1h 24min,84.0,814.56
+openjpa,/main/java/org/apache/openjpa/kernel/DelegatingQuery.java,6.0,1M/d,480.0,385.32
+openjpa,/main/java/org/apache/openjpa/datacache/DelegatingQueryCache.java,26.0,4h 5min,245.0,102.83
+openjpa,/main/java/org/apache/openjpa/kernel/DelegatingResultList.java,8.0,6h 19min,379.0,162.3
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/DelegatingResultSet.java,116.0,1h 8min,68.0,1447.66
+openjpa,/main/java/org/apache/openjpa/kernel/DelegatingSeq.java,6.0,34min,34.0,58.42
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/DelegatingStatement.java,96.0,1h 22min,82.0,350.68
+openjpa,/main/java/org/apache/openjpa/kernel/DelegatingStoreManager.java,4.0,21min 30s,21.5,215.36
+openjpa,/main/java/org/apache/openjpa/event/DeleteListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/openbook/client/DeliveryPage.java,36.0,42min 30s,42.5,42.9
+openjpa,/main/java/openbook/client/Demo.java,1254.0,1h 42min,102.0,465.92
+openjpa,/main/java/org/apache/openjpa/persistence/Dependent.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/lib/graph/DepthFirstAnalysis.java,74.0,1h 10min,70.0,78.9
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/DerbyDictionary.java,14.0,1h 14min,74.0,35.03
+openjpa,/main/java/org/apache/openjpa/persistence/DetachedState.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/DetachedStateAttachStrategy.java,32.0,1h 56min,116.0,89.49
+openjpa,/main/java/org/apache/openjpa/kernel/DetachedStateManager.java,378.0,5h 4min,304.0,699.81
+openjpa,/main/java/org/apache/openjpa/kernel/DetachedValueStateManager.java,66.0,4h 41min,281.0,478.6
+openjpa,/main/java/org/apache/openjpa/event/DetachListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/kernel/DetachManager.java,191.0,1M/d 2h,600.0,217.35
+openjpa,/main/java/org/apache/openjpa/kernel/DetachManagerLite.java,20.0,10min,10.0,15.09
+openjpa,/main/java/org/apache/openjpa/conf/DetachOptions.java,12.0,30min 30s,30.5,58.69
+openjpa,/main/java/org/apache/openjpa/kernel/DetachState.java,25.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/DetachStateType.java,0.0,1h,60.0,10.59
+openjpa,/main/java/org/apache/openjpa/event/DirtyListener.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/Discriminator.java,100.0,1h 35min,95.0,237.48
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/DiscriminatorMappingInfo.java,2.0,2h 7min,127.0,37.59
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/DiscriminatorStrategy.java,0.0,0,0.0,20.02
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/DiscriminatorStrategy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Distinct.java,9.0,8min 30s,8.5,30.1
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Distinct.java,0.0,9min 30s,9.5,23.74
+openjpa,/main/java/org/apache/openjpa/persistence/query/DistinctExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/kernel/DistinctResultList.java,5.0,2h 26min,146.0,98.14
+openjpa,/main/java/org/apache/openjpa/slice/DistributedBroker.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/slice/DistributedBrokerFactory.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/slice/DistributedBrokerImpl.java,53.0,26min,26.0,55.24
+openjpa,/main/java/org/apache/openjpa/slice/DistributedConfiguration.java,0.0,0,0.0,23.9
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedConnection.java,20.0,48min,48.0,342.62
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedDataSource.java,68.0,1h 3min,63.0,69.09
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedJDBCBrokerFactory.java,5.0,37min,37.0,89.41
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedJDBCConfiguration.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedJDBCConfigurationImpl.java,383.0,3h 20min,200.0,244.08
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedJDBCStoreManager.java,204.0,3h 38min,218.0,550.66
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedPreparedStatement.java,20.0,1h 5min,65.0,341.62
+openjpa,/main/java/org/apache/openjpa/slice/DistributedQueryImpl.java,4.0,7min 30s,7.5,16.06
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedResultSet.java,71.0,2h 15min,135.0,1059.51
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedSQLStoreQuery.java,186.0,2h 4min,124.0,197.87
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedStatement.java,0.0,0,0.0,7.68
+openjpa,/main/java/org/apache/openjpa/slice/DistributedStoreManager.java,0.0,0,0.0,0.62
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedStoreQuery.java,196.0,2h 3min,123.0,206.25
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/DistributedTemplate.java,21.0,1h 20min,80.0,260.92
+openjpa,/main/java/org/apache/openjpa/slice/DistributionPolicy.java,2.0,0,0.0,13.15
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Divide.java,0.0,7min 30s,7.5,13.5
+openjpa,/main/java/org/apache/openjpa/persistence/query/DividedByExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/lib/xml/DocTypeReader.java,68.0,3h 3min,183.0,95.82
+openjpa,/main/java/org/apache/openjpa/persistence/jest/DomainCommand.java,0.0,0,0.0,25.68
+openjpa,/main/java/org/apache/openjpa/persistence/query/DomainObject.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/util/DoubleId.java,0.0,0,0.0,36.89
+openjpa,/main/java/org/apache/openjpa/lib/conf/DoubleValue.java,0.0,5min,5.0,20.21
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/DriverDataSource.java,0.0,0,0.0,14.55
+openjpa,/main/java/org/apache/openjpa/enhance/DynamicPersistenceCapable.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/DynamicSchemaFactory.java,86.0,2h 10min,130.0,145.43
+openjpa,/main/java/org/apache/openjpa/enhance/DynamicStorage.java,0.0,0,0.0,39.77
+openjpa,/main/java/org/apache/openjpa/enhance/DynamicStorageGenerator.java,135.0,5h 17min,317.0,107.62
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/EagerFetchMode.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/EagerFetchModes.java,10.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/lib/rop/EagerResultList.java,5.0,16min,16.0,14.74
+openjpa,/main/java/org/apache/openjpa/kernel/ECleanState.java,20.0,0,0.0,55.51
+openjpa,/main/java/org/apache/openjpa/kernel/ECopyState.java,20.0,0,0.0,47.48
+openjpa,/main/java/org/apache/openjpa/kernel/EDeletedState.java,0.0,0,0.0,39.1
+openjpa,/main/java/org/apache/openjpa/lib/graph/Edge.java,16.0,39min,39.0,39.8
+openjpa,/main/java/org/apache/openjpa/kernel/EDirtyState.java,0.0,0,0.0,53.22
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementClassCriteria.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementColumn.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementColumns.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/ElementDependent.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementEmbeddedMapping.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ElementEmbedValueHandler.java,30.0,1h 27min,87.0,77.9
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementForeignKey.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementIndex.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementJoinColumn.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementJoinColumns.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementNonpolymorphic.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ElementStrategy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/ElementType.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/query/ElseExpression.java,4.0,7min 30s,7.5,24.01
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/Embeddable.java,10.0,0,0.0,18.89
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/EmbeddedClassStrategy.java,2.0,1h 35min,95.0,24.44
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/EmbeddedMapping.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/EmbedFieldStrategy.java,198.0,6h 59min,419.0,1615.61
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/EmbedValueHandler.java,82.0,3h 13min,193.0,92.37
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/EmpressDictionary.java,62.0,1h 6min,66.0,55.4
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/EmptyExpression.java,10.0,7min 30s,7.5,26.57
+openjpa,/main/java/org/apache/openjpa/lib/encryption/EncryptionProvider.java,0.0,0,0.0,5.82
+openjpa,/main/java/org/apache/openjpa/kernel/exps/EndsWithExpression.java,0.0,18min 30s,18.5,11.56
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/EndsWithExpression.java,94.0,25min 30s,25.5,140.53
+openjpa,/main/java/org/apache/openjpa/event/EndTransactionListener.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/ENonTransState.java,0.0,12min,12.0,43.06
+openjpa,/main/java/jpa/tools/swing/EntityDataModel.java,216.0,3h 44min,224.0,103.15
+openjpa,/main/java/org/apache/openjpa/persistence/EntityExistsException.java,391.0,17min 30s,17.5,53.57
+openjpa,/main/java/org/apache/openjpa/persistence/EntityManagerFactoryImpl.java,34.0,2h 56min,176.0,151.87
+openjpa,/main/java/org/apache/openjpa/persistence/EntityManagerFactoryValue.java,0.0,26min,26.0,8.38
+openjpa,/main/java/org/apache/openjpa/persistence/EntityManagerImpl.java,219.0,1M/d 5h,780.0,890.02
+openjpa,/main/java/org/apache/openjpa/persistence/EntityNotFoundException.java,391.0,17min 30s,17.5,53.57
+openjpa,/main/java/jpa/tools/swing/EntityTable.java,585.0,58min,58.0,55.32
+openjpa,/main/java/jpa/tools/swing/EntityTableView.java,7.0,45min 30s,45.5,37.86
+openjpa,/main/java/jpa/tools/swing/EntityTypeView.java,49.0,17min 30s,17.5,34.41
+openjpa,/main/java/org/apache/openjpa/persistence/query/EntryExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/EnumValueHandler.java,19.0,1h 1min,61.0,43.76
+openjpa,/main/java/org/apache/openjpa/kernel/exps/EqualExpression.java,0.0,7min 30s,7.5,11.56
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/EqualExpression.java,67.0,41min 30s,41.5,555.95
+openjpa,/main/java/org/apache/openjpa/persistence/query/EqualExpression.java,0.0,7min 30s,7.5,9.27
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/EqualTypeExpression.java,88.0,1h 54min,114.0,543.23
+openjpa,/main/java/jpa/tools/swing/ErrorDialog.java,316.0,34min 30s,34.5,64.78
+openjpa,/main/java/openbook/client/ErrorHandler.java,0.0,0,0.0,16.68
+openjpa,/main/java/org/apache/openjpa/lib/util/EventManager.java,0.0,0,0.0,8.73
+openjpa,/main/java/org/apache/openjpa/persistence/jest/ExceptionFormatter.java,0.0,0,0.0,13.5
+openjpa,/main/java/org/apache/openjpa/util/ExceptionInfo.java,10.0,0,0.0,15.98
+openjpa,/main/java/org/apache/openjpa/event/ExceptionOrphanedKeyAction.java,0.0,0,0.0,12.53
+openjpa,/main/java/org/apache/openjpa/util/Exceptions.java,102.0,4h 46min,286.0,59.31
+openjpa,/main/java/org/apache/openjpa/persistence/query/ExistsExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Exp.java,10.0,1h 7min,67.0,33.44
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Exp.java,0.0,0,0.0,12.53
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/ExpContext.java,0.0,7min 30s,7.5,27.89
+openjpa,/main/java/org/apache/openjpa/datacache/ExpirationEvent.java,34.0,0,0.0,6.09
+openjpa,/main/java/org/apache/openjpa/datacache/ExpirationListener.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Expression.java,0.0,0,0.0,1.59
+openjpa,/main/java/org/apache/openjpa/persistence/query/Expression.java,0.0,0,0.0,10.32
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ExpressionFactory.java,0.0,0,0.0,202.76
+openjpa,/main/java/org/apache/openjpa/persistence/query/ExpressionImpl.java,0.0,31min,31.0,440.9
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/ExpressionImpl.java,5.0,18min,18.0,25.33
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ExpressionParser.java,0.0,0,0.0,15.52
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/Expressions.java,178.0,1M/d 5h,780.0,1808.03
+openjpa,/main/java/org/apache/openjpa/kernel/ExpressionStoreQuery.java,170.0,7h 23min,443.0,408.03
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ExpressionVisitor.java,0.0,0,0.0,6.36
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/ExpState.java,0.0,15min,15.0,14.39
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Extension.java,71.0,54min 30s,54.5,40.34
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Extension.java,112.0,1h 25min,85.0,169.28
+openjpa,/main/java/org/apache/openjpa/meta/Extensions.java,158.0,3h 54min,234.0,135.78
+openjpa,/main/java/org/apache/openjpa/kernel/Extent.java,0.0,0,0.0,8.38
+openjpa,/main/java/org/apache/openjpa/persistence/Extent.java,15.0,0,0.0,7.76
+openjpa,/main/java/org/apache/openjpa/kernel/ExtentImpl.java,105.0,1h 57min,117.0,148.29
+openjpa,/main/java/org/apache/openjpa/persistence/ExtentImpl.java,6.0,44min,44.0,42.28
+openjpa,/main/java/org/apache/openjpa/persistence/Externalizer.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/ExternalValues.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/Factory.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/FetchAttribute.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/FetchConfiguration.java,60.0,0,0.0,86.71
+openjpa,/main/java/org/apache/openjpa/kernel/FetchConfigurationImpl.java,281.0,1M/d 2h,600.0,428.75
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/FetchDirection.java,0.0,1h,60.0,10.59
+openjpa,/main/java/org/apache/openjpa/meta/FetchGroup.java,35.0,3h 2min,182.0,64.59
+openjpa,/main/java/org/apache/openjpa/persistence/FetchGroup.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/FetchGroups.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/query/FetchJoinObject.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/FetchMode.java,6.0,1h 34min,94.0,23.74
+openjpa,/main/java/org/apache/openjpa/jdbc/conf/FetchModeValue.java,2.0,15min,15.0,12.18
+openjpa,/main/java/org/apache/openjpa/persistence/query/FetchPath.java,0.0,15min,15.0,16.06
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/FetchPathImpl.java,4.0,16min,16.0,52.33
+openjpa,/main/java/org/apache/openjpa/persistence/FetchPlan.java,55.0,0,0.0,93.12
+openjpa,/main/java/org/apache/openjpa/persistence/FetchPlanImpl.java,9.0,2h 55min,175.0,237.75
+openjpa,/main/java/org/apache/openjpa/enhance/stats/FetchStatisticsAuxEnhancer.java,23.0,1h 18min,78.0,33.79
+openjpa,/main/java/org/apache/openjpa/enhance/stats/FetchStatsCollector.java,55.0,0,0.0,74.32
+openjpa,/main/java/org/apache/openjpa/enhance/FieldConsumer.java,0.0,0,0.0,26.57
+openjpa,/main/java/org/apache/openjpa/enhance/FieldManager.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/FieldMapping.java,247.0,1M/d 4h,720.0,790.51
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/FieldMappingInfo.java,50.0,3h 33min,213.0,153.54
+openjpa,/main/java/org/apache/openjpa/meta/FieldMetaData.java,532.0,3M/d 4h,1680.0,784.43
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/FieldStrategy.java,0.0,0,0.0,88.46
+openjpa,/main/java/org/apache/openjpa/enhance/FieldSupplier.java,0.0,0,0.0,26.57
+openjpa,/main/java/org/apache/openjpa/lib/meta/FileMetaDataIterator.java,32.0,1h 8min,68.0,72.65
+openjpa,/main/java/org/apache/openjpa/lib/util/Files.java,321.0,5h 6min,306.0,66.45
+openjpa,/main/java/jpa/tools/swing/FileScanner.java,1.0,11min,11.0,22.5
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/FileSchemaFactory.java,31.0,18min 30s,18.5,23.04
+openjpa,/main/java/org/apache/openjpa/lib/conf/FileValue.java,0.0,1min,1.0,21.37
+openjpa,/main/java/org/apache/openjpa/kernel/FillStrategy.java,253.0,1h 16min,76.0,117.78
+openjpa,/main/java/org/apache/openjpa/kernel/exps/FilterListener.java,0.0,0,0.0,5.12
+openjpa,/main/java/org/apache/openjpa/kernel/Filters.java,587.0,3M/d 7h,1860.0,231.84
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/FilterValue.java,0.0,0,0.0,24.71
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/FilterValueImpl.java,8.0,22min,22.0,75.48
+openjpa,/main/java/org/apache/openjpa/kernel/FinalizingBrokerImpl.java,20.0,8min 30s,8.5,11.56
+openjpa,/main/java/org/apache/openjpa/kernel/FindCallbacks.java,0.0,0,0.0,4.15
+openjpa,/main/java/org/apache/openjpa/persistence/jest/FindCommand.java,20.0,7min 30s,7.5,30.18
+openjpa,/main/java/jpa/tools/swing/Finder.java,125.0,20min,20.0,48.72
+openjpa,/main/java/org/apache/openjpa/kernel/FinderCache.java,0.0,0,0.0,10.67
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/FinderCacheImpl.java,38.0,3h 43min,223.0,113.04
+openjpa,/main/java/org/apache/openjpa/kernel/FinderQuery.java,0.0,0,0.0,2.91
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/FinderQueryImpl.java,79.0,1h 16min,76.0,61.52
+openjpa,/main/java/org/apache/openjpa/slice/FinderTargetPolicy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/FirebirdDictionary.java,34.0,3h 28min,208.0,97.03
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/FlatClassStrategy.java,0.0,17min,17.0,22.15
+openjpa,/main/java/org/apache/openjpa/util/FloatId.java,0.0,0,0.0,34.33
+openjpa,/main/java/org/apache/openjpa/event/FlushTransactionListener.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/ForeignKey.java,240.0,1M/d 2h,600.0,222.2
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ForeignKey.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ForeignKeyAction.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/lib/util/FormatPreservingProperties.java,337.0,4h 54min,294.0,228.91
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/FoxProDictionary.java,118.0,1h 18min,78.0,74.88
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/FromImpl.java,11.0,1h 27min,87.0,126.08
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/FullClassStrategy.java,0.0,38min,38.0,50.2
+openjpa,/main/java/org/apache/openjpa/kernel/exps/GeneralCase.java,16.0,52min 30s,52.5,59.93
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/GeneralCaseExpression.java,38.0,55min,55.0,672.28
+openjpa,/main/java/org/apache/openjpa/util/GeneralException.java,0.0,0,0.0,28.78
+openjpa,/main/java/org/apache/openjpa/util/GeneratedClasses.java,50.0,53min,53.0,21.8
+openjpa,/main/java/org/apache/openjpa/persistence/Generator.java,25.0,0,0.0,8.73
+openjpa,/main/java/org/apache/openjpa/persistence/GeneratorImpl.java,8.0,33min,33.0,31.07
+openjpa,/main/java/org/apache/openjpa/lib/conf/GenericConfigurable.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/GenericResultObjectProvider.java,53.0,34min,34.0,37.51
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/GetColumn.java,0.0,24min 30s,24.5,32.2
+openjpa,/main/java/org/apache/openjpa/kernel/exps/GetMapValue.java,9.0,7min 30s,7.5,24.98
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/GetMapValue.java,21.0,48min,48.0,149.07
+openjpa,/main/java/org/apache/openjpa/kernel/exps/GetObjectId.java,7.0,7min 30s,7.5,29.13
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/GetObjectId.java,9.0,1h 18min,78.0,95.66
+openjpa,/main/java/org/apache/openjpa/lib/graph/Graph.java,8.0,29min 30s,29.5,19.05
+openjpa,/main/java/jpa/tools/swing/GraphicOutputStream.java,42.0,22min,22.0,29.83
+openjpa,/main/java/org/apache/openjpa/lib/graph/GraphVisitor.java,0.0,0,0.0,2.91
+openjpa,/main/java/org/apache/openjpa/persistence/query/GreaterEqualExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/exps/GreaterThanEqualExpression.java,0.0,18min 30s,18.5,11.56
+openjpa,/main/java/org/apache/openjpa/kernel/exps/GreaterThanExpression.java,0.0,18min 30s,18.5,11.56
+openjpa,/main/java/org/apache/openjpa/persistence/query/GreaterThanExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/H2Dictionary.java,116.0,2h 1min,121.0,111.8
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/HandlerCollectionTableFieldStrategy.java,29.0,1h 36min,96.0,150.36
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/HandlerFieldStrategy.java,31.0,4h 5min,245.0,191.1
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/HandlerHandlerMapTableFieldStrategy.java,62.0,1h 33min,93.0,133.49
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/HandlerRelationMapTableFieldStrategy.java,185.0,3h 56min,236.0,185.36
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/HandlerStrategies.java,76.0,3h 5min,185.0,101.96
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/HasContainsExpressionVisitor.java,7.0,12min,12.0,11.21
+openjpa,/main/java/org/apache/openjpa/persistence/HintHandler.java,66.0,2h 6min,126.0,37.32
+openjpa,/main/java/org/apache/openjpa/persistence/HintValueConverter.java,29.0,1h 37min,97.0,68.66
+openjpa,/main/java/org/apache/openjpa/kernel/HollowState.java,0.0,0,0.0,54.27
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/HSQLDictionary.java,113.0,4h 5min,245.0,175.93
+openjpa,/main/java/openbook/tools/converter/HTMLTokenRenderer.java,7.0,45min 30s,45.5,72.43
+openjpa,/main/java/org/apache/openjpa/util/Id.java,37.0,48min,48.0,41.2
+openjpa,/main/java/org/apache/openjpa/lib/identifier/Identifier.java,0.0,0,0.0,6.79
+openjpa,/main/java/org/apache/openjpa/lib/identifier/IdentifierConfiguration.java,0.0,0,0.0,14.12
+openjpa,/main/java/org/apache/openjpa/lib/identifier/IdentifierImpl.java,2.0,59min 30s,59.5,29.75
+openjpa,/main/java/org/apache/openjpa/lib/identifier/IdentifierRule.java,55.0,1h 22min,82.0,113.69
+openjpa,/main/java/org/apache/openjpa/lib/identifier/IdentifierUtil.java,10.0,0,0.0,125.13
+openjpa,/main/java/org/apache/openjpa/lib/identifier/IdentifierUtilImpl.java,62.0,3h 50min,230.0,361.32
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/IdentityJoinable.java,0.0,12min,12.0,37.94
+openjpa,/main/java/openbook/client/Images.java,74.0,1h 6min,66.0,57.8
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ImmutableValueHandler.java,15.0,1h 22min,82.0,36.08
+openjpa,/main/java/org/apache/openjpa/util/ImplHelper.java,52.0,5h 11min,311.0,57.8
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Index.java,0.0,7min 30s,7.5,16.06
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/Index.java,32.0,51min 30s,51.5,20.83
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Index.java,0.0,7min 30s,7.5,30.18
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/Index.java,0.0,0,0.0,null
+openjpa,/main/java/jpa/tools/swing/IndexedMap.java,16.0,21min,21.0,44.84
+openjpa,/main/java/org/apache/openjpa/persistence/query/IndexExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/kernel/exps/IndexOf.java,9.0,8min 30s,8.5,31.69
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/IndexOf.java,88.0,19min 30s,19.5,137.86
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/InExpression.java,22.0,1h 29min,89.0,614.72
+openjpa,/main/java/org/apache/openjpa/persistence/query/InExpression.java,0.0,7min 30s,7.5,12.18
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/InformixDictionary.java,29.0,2h 29min,149.0,137.8
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/IngresDictionary.java,62.0,1h 18min,78.0,36.35
+openjpa,/main/java/org/apache/openjpa/meta/InheritanceComparator.java,2.0,2h 56min,176.0,21.53
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/InKeyExpression.java,0.0,7min 30s,7.5,11.91
+openjpa,/main/java/org/apache/openjpa/kernel/exps/InMemoryExpressionFactory.java,76.0,6h 50min,410.0,508.45
+openjpa,/main/java/org/apache/openjpa/meta/InMemoryRelatedFieldOrder.java,6.0,1h 13min,73.0,25.95
+openjpa,/main/java/org/apache/openjpa/kernel/InMemorySavepointManager.java,2.0,1min,1.0,10.32
+openjpa,/main/java/org/apache/openjpa/meta/InMemoryValueOrder.java,26.0,2h 12min,132.0,25.68
+openjpa,/main/java/jpa/tools/swing/InstanceDataModel.java,67.0,0,0.0,36.27
+openjpa,/main/java/org/apache/openjpa/kernel/exps/InstanceofExpression.java,4.0,7min 30s,7.5,24.44
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/InstanceofExpression.java,43.0,59min 30s,59.5,75.02
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/InstanceResultObjectProvider.java,7.0,8min 30s,8.5,7.68
+openjpa,/main/java/jpa/tools/swing/InstanceView.java,0.0,0,0.0,13.15
+openjpa,/main/java/org/apache/openjpa/lib/instrumentation/Instrument.java,0.0,0,0.0,6.09
+openjpa,/main/java/org/apache/openjpa/enhance/InstrumentationFactory.java,271.0,2h 59min,179.0,45.19
+openjpa,/main/java/org/apache/openjpa/lib/instrumentation/InstrumentationLevel.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/instrumentation/InstrumentationManager.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/instrumentation/InstrumentationManagerImpl.java,8.0,37min 30s,37.5,18.35
+openjpa,/main/java/org/apache/openjpa/lib/instrumentation/InstrumentationProvider.java,0.0,0,0.0,4.85
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/InSubQExpression.java,4.0,15min,15.0,57.64
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/InterbaseDictionary.java,8.0,31min,31.0,42.17
+openjpa,/main/java/org/apache/openjpa/meta/InterfaceImplGenerator.java,60.0,1h 36min,96.0,52.41
+openjpa,/main/java/org/apache/openjpa/util/InternalException.java,0.0,0,0.0,30.29
+openjpa,/main/java/org/apache/openjpa/util/IntId.java,15.0,0,0.0,31.77
+openjpa,/main/java/org/apache/openjpa/lib/conf/IntValue.java,0.0,5min,5.0,18.89
+openjpa,/main/java/org/apache/openjpa/util/InvalidStateException.java,0.0,15min,15.0,15.63
+openjpa,/main/java/org/apache/openjpa/persistence/InvalidStateException.java,126.0,7min 30s,7.5,59.66
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/InValueDiscriminatorStrategy.java,7.0,1h 25min,85.0,62.81
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/InValueExpression.java,0.0,7min 30s,7.5,11.91
+openjpa,/main/java/openbook/domain/Inventory.java,0.0,4min,4.0,15.79
+openjpa,/main/java/org/apache/openjpa/persistence/InverseLogical.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/InverseManager.java,139.0,5h 30min,330.0,108.43
+openjpa,/main/java/org/apache/openjpa/ee/InvocationManagedRuntime.java,18.0,7min 30s,7.5,32.74
+openjpa,/main/java/org/apache/openjpa/persistence/jest/IOR.java,30.0,18min 30s,18.5,11.91
+openjpa,/main/java/org/apache/openjpa/kernel/exps/IsEmptyExpression.java,2.0,1h 24min,84.0,24.09
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/IsEmptyExpression.java,2.0,7min 30s,7.5,33.98
+openjpa,/main/java/org/apache/openjpa/persistence/query/IsEmptyExpression.java,0.0,7min 30s,7.5,18.89
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/IsNotEmptyExpression.java,2.0,7min 30s,7.5,33.98
+openjpa,/main/java/org/apache/openjpa/persistence/query/IsNullExpression.java,0.0,7min 30s,7.5,16.33
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/IsolationLevel.java,9.0,2h 11min,131.0,34.33
+openjpa,/main/java/org/apache/openjpa/lib/util/J2DoPrivHelper.java,399.0,55min,55.0,129.64
+openjpa,/main/java/org/apache/openjpa/lib/meta/JarFileURLMetaDataIterator.java,56.0,1h 40min,100.0,52.68
+openjpa,/main/java/openbook/tools/converter/Java2HTMLConverter.java,2.0,7min 30s,7.5,28.51
+openjpa,/main/java/openbook/tools/ant/Java2HTMLConverterTask.java,10.0,22min 30s,22.5,54.35
+openjpa,/main/java/openbook/tools/converter/Java2TextConverter.java,2.0,0,0.0,19.86
+openjpa,/main/java/openbook/tools/parser/JavaLexer.java,5741.0,7h 4min,424.0,655.52
+openjpa,/main/java/openbook/tools/parser/JavaParser.java,19695.0,null,null,4168.8
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/JavaSQLTypes.java,20.0,1M/d 1h,540.0,38.72
+openjpa,/main/java/org/apache/openjpa/meta/JavaTypes.java,236.0,3M/d,1440.0,126.13
+openjpa,/main/java/org/apache/openjpa/lib/util/JavaVendors.java,2.0,0,0.0,14.12
+openjpa,/main/java/org/apache/openjpa/lib/util/JavaVersions.java,30.0,2h 3min,123.0,24.79
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/JDataStoreDictionary.java,32.0,38min,38.0,31.5
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/JDBC3SavepointManager.java,0.0,0,0.0,11.21
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/JDBCAggregateListener.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/JDBCBrokerFactory.java,19.0,2h 15min,135.0,68.74
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/JDBCColumnOrder.java,39.0,8min 30s,8.5,26.65
+openjpa,/main/java/org/apache/openjpa/jdbc/conf/JDBCConfiguration.java,10.0,0,0.0,71.0
+openjpa,/main/java/org/apache/openjpa/jdbc/conf/JDBCConfigurationImpl.java,718.0,3h 35min,215.0,334.08
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/JDBCEvent.java,0.0,7min 30s,7.5,20.64
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/JDBCEventConnectionDecorator.java,61.0,7h 4min,424.0,283.29
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/JDBCExpressionFactory.java,135.0,4h 59min,299.0,388.78
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/JDBCFetchConfiguration.java,0.0,0,0.0,48.69
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/JDBCFetchConfigurationImpl.java,84.0,4h 6min,246.0,188.17
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/JDBCFetchPlan.java,250.0,0,0.0,129.01
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/JDBCFetchPlanImpl.java,37.0,32min 30s,32.5,196.09
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/JDBCFilterListener.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/JDBCListener.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/JDBCLockManager.java,0.0,0,0.0,4.85
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/JDBCOrder.java,0.0,0,0.0,4.85
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/JDBCPath.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/JDBCPersistenceProductDerivation.java,16.0,55min 30s,55.5,43.6
+openjpa,/main/java/org/apache/openjpa/jdbc/conf/JDBCProductDerivation.java,3.0,32min 30s,32.5,20.83
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/JDBCRelatedFieldOrder.java,51.0,41min 30s,41.5,37.86
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/JDBCSeq.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/jdbc/conf/JDBCSeqValue.java,0.0,7min 30s,7.5,10.59
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/JDBCStore.java,0.0,0,0.0,19.86
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/JDBCStoreManager.java,644.0,2M/d 5h,1260.0,928.95
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/JDBCStoreQuery.java,319.0,2M/d 5h,1260.0,774.63
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/JDBCStringContains.java,30.0,18min,18.0,18.35
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/JDBCValueOrder.java,24.0,9min 30s,9.5,26.92
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/JDBCWildcardMatch.java,30.0,17min,17.0,17.73
+openjpa,/main/java/org/apache/openjpa/persistence/jest/JESTCommand.java,8.0,0,0.0,13.23
+openjpa,/main/java/org/apache/openjpa/persistence/jest/JESTContext.java,34.0,1h 22min,82.0,73.16
+openjpa,/main/java/org/apache/openjpa/persistence/jest/JESTServlet.java,95.0,28min 30s,28.5,64.94
+openjpa,/main/java/org/apache/openjpa/event/JMSRemoteCommitProvider.java,44.0,1h 51min,111.0,58.15
+openjpa,/main/java/org/apache/openjpa/instrumentation/jmx/JMXInstrument.java,0.0,0,0.0,2.91
+openjpa,/main/java/org/apache/openjpa/instrumentation/jmx/JMXProvider.java,77.0,7min 30s,7.5,27.97
+openjpa,/main/java/org/apache/openjpa/ee/JNDIManagedRuntime.java,4.0,7min 30s,7.5,18.35
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/Join.java,54.0,1h 8min,68.0,100.54
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/Joinable.java,0.0,0,0.0,21.18
+openjpa,/main/java/org/apache/openjpa/persistence/query/JoinPath.java,0.0,37min,37.0,43.87
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/Joins.java,0.0,0,0.0,39.88
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/Joins.java,277.0,6h,360.0,470.06
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/JoinSet.java,72.0,5h 13min,313.0,136.11
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/JoinSyntax.java,0.0,1h,60.0,10.59
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/JoinSyntaxes.java,10.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/JPAFacadeHelper.java,90.0,7h 38min,458.0,68.55
+openjpa,/main/java/org/apache/openjpa/persistence/JPAProperties.java,38.0,2h 23min,143.0,62.0
+openjpa,/main/java/org/apache/openjpa/persistence/jest/JPAServletContext.java,0.0,0,0.0,6.71
+openjpa,/main/java/org/apache/openjpa/kernel/jpql/JPQLExpressionBuilder.java,430.0,6M/d 1h,2940.0,816.49
+openjpa,/main/java/org/apache/openjpa/persistence/query/JPQLHelper.java,50.0,44min,44.0,11.56
+openjpa,/main/java/org/apache/openjpa/kernel/jpql/JPQLParser.java,30.0,29min 30s,29.5,32.12
+openjpa,/main/java/org/apache/openjpa/persistence/jest/JSON.java,30.0,0,0.0,16.49
+openjpa,/main/java/org/apache/openjpa/json/JSON.java,30.0,0,0.0,16.49
+openjpa,/main/java/org/apache/openjpa/persistence/jest/JSONObject.java,58.0,2h 30min,150.0,99.73
+openjpa,/main/java/org/apache/openjpa/json/JSONObject.java,58.0,2h 15min,135.0,99.73
+openjpa,/main/java/org/apache/openjpa/persistence/jest/JSONObjectFormatter.java,147.0,2h 26min,146.0,109.78
+openjpa,/main/java/openbook/util/JSPUtility.java,37.0,1h 10min,70.0,28.94
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyClassCriteria.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyColumn.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyColumns.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/KeyDependent.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyEmbeddedMapping.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/persistence/query/KeyExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyForeignKey.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyIndex.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyJoinColumn.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyJoinColumns.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyNonpolymorphic.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/KeyStrategy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/KeyType.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/lib/rop/LazyForwardResultList.java,55.0,2h 16min,136.0,112.8
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/LazySchemaFactory.java,67.0,1h 54min,114.0,75.02
+openjpa,/main/java/org/apache/openjpa/persistence/query/LengthExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/persistence/query/LessEqualExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/exps/LessThanEqualExpression.java,0.0,18min 30s,18.5,11.56
+openjpa,/main/java/org/apache/openjpa/kernel/exps/LessThanExpression.java,0.0,18min 30s,18.5,11.56
+openjpa,/main/java/org/apache/openjpa/persistence/query/LessThanExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/event/LifecycleCallbacks.java,20.0,0,0.0,7.76
+openjpa,/main/java/org/apache/openjpa/event/LifecycleEvent.java,34.0,7min 30s,7.5,11.21
+openjpa,/main/java/org/apache/openjpa/event/LifecycleEventManager.java,372.0,7h 50min,470.0,163.67
+openjpa,/main/java/org/apache/openjpa/event/LifecycleListener.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/meta/LifecycleMetaData.java,82.0,1h 40min,100.0,51.44
+openjpa,/main/java/org/apache/openjpa/persistence/query/LikeExpression.java,4.0,7min 30s,7.5,17.3
+openjpa,/main/java/openbook/domain/LineItem.java,0.0,25min,25.0,26.65
+openjpa,/main/java/org/apache/openjpa/lib/rop/ListResultList.java,4.0,7min 30s,7.5,62.49
+openjpa,/main/java/org/apache/openjpa/lib/rop/ListResultObjectProvider.java,34.0,11min,11.0,53.41
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Lit.java,24.0,25min,25.0,31.69
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Lit.java,103.0,1h 6min,66.0,76.88
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Literal.java,10.0,0,0.0,14.82
+openjpa,/main/java/org/apache/openjpa/persistence/query/LiteralExpression.java,0.0,7min 30s,7.5,8.3
+openjpa,/main/java/org/apache/openjpa/persistence/LoadFetchGroup.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/event/LoadListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/LobFieldStrategy.java,70.0,37min,37.0,101.29
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/LocalConstraint.java,20.0,2h 13min,133.0,33.09
+openjpa,/main/java/org/apache/openjpa/lib/util/Localizer.java,27.0,57min,57.0,80.87
+openjpa,/main/java/org/apache/openjpa/kernel/LocalManagedRuntime.java,28.0,1h,60.0,63.19
+openjpa,/main/java/org/apache/openjpa/persistence/query/LocateExpression.java,2.0,7min 30s,7.5,29.21
+openjpa,/main/java/org/apache/openjpa/lib/xml/Location.java,6.0,21min,21.0,26.57
+openjpa,/main/java/org/apache/openjpa/util/LockException.java,0.0,18min 30s,18.5,41.2
+openjpa,/main/java/org/apache/openjpa/kernel/LockLevels.java,10.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/LockManager.java,0.0,0,0.0,7.41
+openjpa,/main/java/org/apache/openjpa/kernel/LockScopes.java,10.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/LockScopesHelper.java,30.0,22min,22.0,10.94
+openjpa,/main/java/org/apache/openjpa/persistence/LockTimeoutException.java,411.0,17min 30s,17.5,53.57
+openjpa,/main/java/org/apache/openjpa/lib/log/Log.java,110.0,0,0.0,34.52
+openjpa,/main/java/org/apache/openjpa/lib/log/Log4JLogFactory.java,22.0,0,0.0,79.15
+openjpa,/main/java/org/apache/openjpa/lib/log/LogFactory.java,0.0,0,0.0,2.56
+openjpa,/main/java/org/apache/openjpa/lib/log/LogFactoryAdapter.java,3.0,7min 30s,7.5,13.5
+openjpa,/main/java/org/apache/openjpa/lib/log/LogFactoryImpl.java,95.0,2h 39min,159.0,105.9
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/LoggingConnectionDecorator.java,509.0,1M/d 6h,840.0,1610.19
+openjpa,/main/java/org/apache/openjpa/persistence/query/LogicalPredicate.java,8.0,15min,15.0,40.34
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/LogicalUnion.java,55.0,5h 6min,306.0,2035.48
+openjpa,/main/java/org/apache/openjpa/event/LogOrphanedKeyAction.java,9.0,30min,30.0,24.44
+openjpa,/main/java/org/apache/openjpa/lib/log/LogOutputStream.java,16.0,21min,21.0,21.18
+openjpa,/main/java/org/apache/openjpa/util/LongId.java,15.0,0,0.0,34.33
+openjpa,/main/java/org/apache/openjpa/persistence/query/LowerExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/persistence/LRS.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/LRSCollectionFieldStrategy.java,0.0,0,0.0,20.91
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/LRSMapFieldStrategy.java,0.0,0,0.0,61.76
+openjpa,/main/java/org/apache/openjpa/util/LRSProxy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/LRSProxyCollection.java,61.0,1h 20min,80.0,63.11
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/LRSProxyMap.java,134.0,3h 28min,208.0,156.59
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/LRSSizeAlgorithm.java,2.0,1h 32min,92.0,26.65
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/LRSSizes.java,10.0,0,0.0,0.62
+openjpa,/main/java/org/apache/openjpa/lib/util/LRUMap.java,67.0,8min 30s,8.5,51.36
+openjpa,/main/java/relations/Main.java,335.0,22min 30s,22.5,21.53
+openjpa,/main/java/reversemapping/Main.java,10.0,15min,15.0,17.65
+openjpa,/main/java/hellojpa/Main.java,10.0,0,0.0,17.03
+openjpa,/main/java/embeddables/Main.java,53.0,15min,15.0,24.09
+openjpa,/main/java/org/apache/openjpa/kernel/ManagedCache.java,202.0,3h 17min,197.0,50.47
+openjpa,/main/java/org/apache/openjpa/enhance/ManagedClassSubclasser.java,154.0,2h 23min,143.0,138.99
+openjpa,/main/java/org/apache/openjpa/enhance/ManagedInstanceProvider.java,0.0,0,0.0,2.91
+openjpa,/main/java/org/apache/openjpa/persistence/ManagedInterface.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/ee/ManagedRuntime.java,85.0,0,0.0,10.59
+openjpa,/main/java/org/apache/openjpa/util/MapChangeTracker.java,0.0,0,0.0,8.73
+openjpa,/main/java/org/apache/openjpa/util/MapChangeTrackerImpl.java,4.0,31min 30s,31.5,37.86
+openjpa,/main/java/org/apache/openjpa/lib/conf/MapConfigurationProvider.java,4.0,15min,15.0,22.77
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/MapEntry.java,50.0,37min,37.0,143.06
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/MapKey.java,25.0,15min,15.0,146.43
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/MappedQueryResultObjectProvider.java,79.0,7h 31min,451.0,380.18
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/MappingDefaults.java,175.0,0,0.0,111.2
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/MappingDefaultsImpl.java,356.0,6h 28min,388.0,402.33
+openjpa,/main/java/org/apache/openjpa/jdbc/conf/MappingFactoryValue.java,59.0,54min 30s,54.5,26.11
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/MappingInfo.java,598.0,2M/d 2h,1080.0,337.61
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/MappingOverride.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/MappingOverrides.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/MappingRepository.java,431.0,3M/d 7h,1860.0,415.37
+openjpa,/main/java/org/apache/openjpa/jdbc/conf/MappingRepositoryValue.java,9.0,38min 30s,38.5,21.53
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/MappingStrategyInstaller.java,0.0,4min,4.0,19.86
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/MappingTag.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/MappingTool.java,234.0,7h 25min,445.0,376.2
+openjpa,/main/java/org/apache/openjpa/jdbc/ant/MappingToolTask.java,20.0,11min 30s,11.5,106.79
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/MapTableFieldStrategy.java,49.0,3h 17min,197.0,139.23
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/MariaDBDictionary.java,160.0,5h 9min,309.0,144.35
+openjpa,/main/java/org/apache/openjpa/kernel/exps/MatchesExpression.java,6.0,29min,29.0,18.35
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/MatchesExpression.java,28.0,31min 30s,31.5,62.49
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Math.java,60.0,26min,26.0,147.83
+openjpa,/main/java/org/apache/openjpa/kernel/exps/MathVal.java,4.0,15min,15.0,41.66
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Max.java,0.0,8min 30s,8.5,14.12
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Max.java,0.0,7min 30s,7.5,11.21
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/MaxDBDictionary.java,0.0,0,0.0,6.09
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/MaxEmbeddedBlobFieldStrategy.java,4.0,31min 30s,31.5,44.65
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/MaxEmbeddedByteArrayFieldStrategy.java,2.0,21min 30s,21.5,46.94
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/MaxEmbeddedCharArrayFieldStrategy.java,2.0,1h 4min,64.0,62.65
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/MaxEmbeddedClobFieldStrategy.java,2.0,20min 30s,20.5,40.5
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/MaxEmbeddedLobFieldStrategy.java,65.0,1h 43min,103.0,140.98
+openjpa,/main/java/org/apache/openjpa/persistence/query/MaxExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/jpa/tools/swing/Maze.java,0.0,0,0.0,5.82
+openjpa,/main/java/org/apache/openjpa/persistence/query/MemberOfExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/persistence/meta/Members.java,49.0,2h 28min,148.0,142.17
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/MergedResult.java,33.0,1h 38min,98.0,641.78
+openjpa,/main/java/org/apache/openjpa/lib/rop/MergedResultObjectProvider.java,59.0,1h 37min,97.0,91.89
+openjpa,/main/java/hellojpa/Message.java,10.0,0,0.0,25.76
+openjpa,/main/java/org/apache/openjpa/conf/MetaDataCacheMaintenance.java,30.0,48min,48.0,60.98
+openjpa,/main/java/org/apache/openjpa/meta/MetaDataContext.java,0.0,0,0.0,1.59
+openjpa,/main/java/org/apache/openjpa/meta/MetaDataDefaults.java,0.0,0,0.0,23.28
+openjpa,/main/java/org/apache/openjpa/util/MetaDataException.java,0.0,7min 30s,7.5,21.37
+openjpa,/main/java/org/apache/openjpa/meta/MetaDataFactory.java,10.0,0,0.0,37.59
+openjpa,/main/java/org/apache/openjpa/lib/meta/MetaDataFilter.java,0.0,0,0.0,9.97
+openjpa,/main/java/org/apache/openjpa/meta/MetaDataInheritanceComparator.java,0.0,1h 13min,73.0,16.68
+openjpa,/main/java/org/apache/openjpa/lib/meta/MetaDataIterator.java,0.0,0,0.0,15.36
+openjpa,/main/java/org/apache/openjpa/lib/meta/MetaDataIteratorChain.java,8.0,27min,27.0,50.39
+openjpa,/main/java/org/apache/openjpa/meta/MetaDataModes.java,10.0,0,0.0,6.79
+openjpa,/main/java/org/apache/openjpa/lib/meta/MetaDataParser.java,0.0,0,0.0,20.02
+openjpa,/main/java/org/apache/openjpa/persistence/MetaDataParsers.java,85.0,3h 22min,202.0,21.26
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/MetaDataPlusMappingFactory.java,57.0,35min 30s,35.5,60.01
+openjpa,/main/java/org/apache/openjpa/persistence/meta/MetadataProcessor.java,0.0,0,0.0,9.7
+openjpa,/main/java/org/apache/openjpa/meta/MetaDataRepository.java,500.0,3M/d 5h,1740.0,536.44
+openjpa,/main/java/org/apache/openjpa/conf/MetaDataRepositoryValue.java,5.0,30min 30s,30.5,15.44
+openjpa,/main/java/org/apache/openjpa/lib/meta/MetaDataSerializer.java,10.0,0,0.0,14.2
+openjpa,/main/java/org/apache/openjpa/persistence/MetaDataTag.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/meta/MetaDataTool.java,66.0,2h,120.0,94.34
+openjpa,/main/java/org/apache/openjpa/ant/MetaDataToolTask.java,20.0,14min,14.0,35.92
+openjpa,/main/java/jpa/tools/swing/MetamodelHelper.java,157.0,1M/d,480.0,106.25
+openjpa,/main/java/org/apache/openjpa/persistence/jest/MetamodelHelper.java,173.0,4h 11min,251.0,64.86
+openjpa,/main/java/org/apache/openjpa/persistence/meta/MetamodelImpl.java,91.0,4h 54min,294.0,107.3
+openjpa,/main/java/jpa/tools/swing/MetamodelView.java,51.0,1h 19min,79.0,53.65
+openjpa,/main/java/org/apache/openjpa/event/MethodLifecycleCallbacks.java,21.0,1h 16min,76.0,48.61
+openjpa,/main/java/org/apache/openjpa/kernel/MethodStoreQuery.java,62.0,2h 47min,167.0,112.61
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Min.java,0.0,8min 30s,8.5,14.12
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Min.java,0.0,7min 30s,7.5,11.21
+openjpa,/main/java/org/apache/openjpa/persistence/query/MinExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/persistence/query/MinusExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/MixedLockLevels.java,10.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/MixedLockLevelsHelper.java,0.0,4h,240.0,22.15
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/MixedLockManager.java,10.0,17min 30s,17.5,50.2
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Mod.java,0.0,7min 30s,7.5,13.5
+openjpa,/main/java/org/apache/openjpa/persistence/query/ModExpression.java,0.0,7min 30s,7.5,17.3
+openjpa,/main/java/org/apache/openjpa/lib/util/MultiClassLoader.java,79.0,2h 18min,138.0,68.82
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/MultiColumnVersionStrategy.java,4.0,27min,27.0,37.86
+openjpa,/main/java/org/apache/openjpa/util/MultiLoaderClassResolver.java,4.0,1min,1.0,14.74
+openjpa,/main/java/org/apache/openjpa/lib/log/MultiLogFactory.java,6.0,1h 11min,71.0,139.02
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Multiply.java,0.0,7min 30s,7.5,13.5
+openjpa,/main/java/org/apache/openjpa/meta/MultiQueryMetaData.java,12.0,0,0.0,61.6
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/MySQLDictionary.java,130.0,5h 20min,320.0,141.79
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/NameSet.java,78.0,32min,32.0,18.97
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/NanoPrecisionTimestampVersionStrategy.java,0.0,15min,15.0,14.74
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/NativeJDBCSeq.java,187.0,1h 38min,98.0,130.58
+openjpa,/main/java/org/apache/openjpa/persistence/query/NavigationPath.java,0.0,26min,26.0,35.57
+openjpa,/main/java/org/apache/openjpa/persistence/query/NewInstance.java,6.0,26min,26.0,318.76
+openjpa,/main/java/org/apache/openjpa/lib/graph/NodeInfo.java,0.0,7min 30s,7.5,9.97
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/NoneClassStrategy.java,5.0,15min,15.0,41.47
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/NoneDiscriminatorStrategy.java,0.0,15min,15.0,16.06
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/NoneFieldStrategy.java,5.0,15min,15.0,17.3
+openjpa,/main/java/org/apache/openjpa/kernel/NoneLockManager.java,0.0,7min 30s,7.5,22.5
+openjpa,/main/java/org/apache/openjpa/lib/log/NoneLogFactory.java,50.0,0,0.0,69.93
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/NoneMappingDefaults.java,150.0,37min 30s,37.5,227.26
+openjpa,/main/java/org/apache/openjpa/meta/NoneMetaDataFactory.java,120.0,15min,15.0,142.01
+openjpa,/main/java/org/apache/openjpa/event/NoneOrphanedKeyAction.java,0.0,0,0.0,10.59
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/NoneStrategyInstaller.java,0.0,0,0.0,19.24
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/NoneVersionStrategy.java,5.0,15min,15.0,16.68
+openjpa,/main/java/org/apache/openjpa/meta/NonPersistentMetaData.java,53.0,48min,48.0,68.85
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/Nonpolymorphic.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/NonpolymorphicType.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/util/NonUniqueResultException.java,0.0,7min 30s,7.5,15.98
+openjpa,/main/java/org/apache/openjpa/persistence/NonUniqueResultException.java,401.0,17min 30s,17.5,53.57
+openjpa,/main/java/org/apache/openjpa/conf/NoOpCacheMarshaller.java,10.0,0,0.0,13.5
+openjpa,/main/java/org/apache/openjpa/util/NoResultException.java,0.0,7min 30s,7.5,15.98
+openjpa,/main/java/org/apache/openjpa/persistence/NoResultException.java,401.0,17min 30s,17.5,53.57
+openjpa,/main/java/org/apache/openjpa/jdbc/identifier/Normalizer.java,40.0,1h 50min,110.0,71.35
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/NotContainsExpression.java,2.0,23min 30s,23.5,60.82
+openjpa,/main/java/org/apache/openjpa/kernel/exps/NotEqualExpression.java,0.0,7min 30s,7.5,11.56
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/NotEqualExpression.java,70.0,26min 30s,26.5,556.57
+openjpa,/main/java/org/apache/openjpa/persistence/query/NotEqualExpression.java,0.0,7min 30s,7.5,9.27
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/NotEqualTypeExpression.java,98.0,1h 55min,115.0,540.67
+openjpa,/main/java/org/apache/openjpa/kernel/exps/NotExpression.java,2.0,7min 30s,7.5,19.59
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/NotExpression.java,2.0,15min,15.0,58.26
+openjpa,/main/java/org/apache/openjpa/util/NoTransactionException.java,0.0,7min 30s,7.5,10.86
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Null.java,5.0,7min 30s,7.5,17.92
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Null.java,10.0,7min 30s,7.5,27.27
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/NullableAggregateUnaryOp.java,0.0,25min,25.0,25.06
+openjpa,/main/java/org/apache/openjpa/kernel/exps/NullIf.java,9.0,51min 30s,51.5,59.31
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/NullIfExpression.java,28.0,29min 30s,29.5,151.09
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/NumberVersionStrategy.java,5.0,37min,37.0,21.8
+openjpa,/main/java/org/apache/openjpa/xmlstore/ObjectData.java,63.0,6h 55min,415.0,70.84
+openjpa,/main/java/org/apache/openjpa/util/ObjectExistsException.java,0.0,7min 30s,7.5,13.42
+openjpa,/main/java/org/apache/openjpa/kernel/ObjectFactory.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/persistence/jest/ObjectFormatter.java,10.0,30min,30.0,10.32
+openjpa,/main/java/org/apache/openjpa/util/ObjectId.java,17.0,0,0.0,24.36
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ObjectIdClassStrategy.java,0.0,8min 30s,8.5,14.12
+openjpa,/main/java/org/apache/openjpa/kernel/ObjectIdStateManager.java,76.0,6h 28min,388.0,553.35
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ObjectIdValueHandler.java,23.0,1h 58min,118.0,86.39
+openjpa,/main/java/org/apache/openjpa/util/ObjectNotFoundException.java,0.0,7min 30s,7.5,15.36
+openjpa,/main/java/org/apache/openjpa/lib/conf/ObjectValue.java,9.0,10min 30s,10.5,49.77
+openjpa,/main/java/org/apache/openjpa/kernel/OpCallbacks.java,10.0,0,0.0,13.58
+openjpa,/main/java/openbook/server/OpenBookService.java,10.0,0,0.0,10.32
+openjpa,/main/java/openbook/server/OpenBookServiceImpl.java,85.0,1h 33min,93.0,109.67
+openjpa,/main/java/org/apache/openjpa/conf/OpenJPAConfiguration.java,10.0,0,0.0,273.68
+openjpa,/main/java/org/apache/openjpa/conf/OpenJPAConfigurationImpl.java,2787.0,2h 36min,156.0,1099.0
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/OpenJPACriteriaBuilder.java,10.0,0,0.0,13.58
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/OpenJPACriteriaQuery.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/tools/maven/OpenJpaEnhancerMojo.java,0.0,7min 30s,7.5,7.06
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAEntityManager.java,765.0,0,0.0,181.39
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAEntityManagerFactory.java,130.0,0,0.0,25.22
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAEntityManagerFactorySPI.java,0.0,0,0.0,17.46
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAEntityManagerSPI.java,40.0,0,0.0,21.34
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAEntityTransaction.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAEnum.java,5.0,0,0.0,4.85
+openjpa,/main/java/org/apache/openjpa/util/OpenJPAException.java,126.0,39min,39.0,63.46
+openjpa,/main/java/org/apache/openjpa/util/OpenJPAId.java,4.0,59min,59.0,53.22
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAPersistence.java,240.0,1h 11min,71.0,92.26
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAPersistenceUtil.java,97.0,6h 43min,403.0,84.34
+openjpa,/main/java/org/apache/openjpa/conf/OpenJPAProductDerivation.java,10.0,0,0.0,5.82
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAQuery.java,160.0,0,0.0,86.6
+openjpa,/main/java/org/apache/openjpa/persistence/query/OpenJPAQueryBuilder.java,0.0,0,0.0,5.82
+openjpa,/main/java/org/apache/openjpa/persistence/OpenJPAQuerySPI.java,0.0,0,0.0,13.58
+openjpa,/main/java/org/apache/openjpa/kernel/OpenJPASavepoint.java,10.0,3min,3.0,19.59
+openjpa,/main/java/org/apache/openjpa/tools/maven/OpenJpaSchemaMojo.java,0.0,7min 30s,7.5,6.71
+openjpa,/main/java/org/apache/openjpa/tools/maven/OpenJpaSqlMojo.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/kernel/OpenJPAStateManager.java,10.0,0,0.0,151.42
+openjpa,/main/java/org/apache/openjpa/tools/maven/OpenJpaTestEnhancerMojo.java,0.0,7min 30s,7.5,11.21
+openjpa,/main/java/org/apache/openjpa/conf/OpenJPAVersion.java,19.0,38min 30s,38.5,37.32
+openjpa,/main/java/org/apache/openjpa/conf/OpenJPAVersionAndConfigurationTypeValidationPolicy.java,10.0,40min 30s,40.5,18.27
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/OperationOrderUpdateManager.java,40.0,2h 5min,125.0,110.4
+openjpa,/main/java/org/apache/openjpa/persistence/query/OperatorPath.java,0.0,15min,15.0,40.69
+openjpa,/main/java/org/apache/openjpa/util/OptimisticException.java,0.0,7min 30s,7.5,18.54
+openjpa,/main/java/org/apache/openjpa/persistence/OptimisticLockException.java,401.0,17min 30s,17.5,53.57
+openjpa,/main/java/org/apache/openjpa/lib/util/Options.java,197.0,6h 45min,405.0,186.09
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/OracleDictionary.java,600.0,1M/d 7h,900.0,532.42
+openjpa,/main/java/org/apache/openjpa/meta/Order.java,10.0,0,0.0,4.77
+openjpa,/main/java/org/apache/openjpa/persistence/query/OrderableItem.java,9.0,15min,15.0,17.92
+openjpa,/main/java/org/apache/openjpa/persistence/query/OrderBy.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/persistence/query/OrderByItem.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/OrderColumn.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/lib/util/OrderedMap.java,9.0,18min 30s,18.5,43.25
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/OrderImpl.java,2.0,7min 30s,7.5,34.33
+openjpa,/main/java/org/apache/openjpa/kernel/OrderingMergedResultObjectProvider.java,15.0,1h 15min,75.0,41.04
+openjpa,/main/java/org/apache/openjpa/kernel/exps/OrExpression.java,4.0,7min 30s,7.5,24.71
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/OrExpression.java,6.0,30min,30.0,58.96
+openjpa,/main/java/org/apache/openjpa/event/OrphanedKeyAction.java,0.0,0,0.0,0.62
+openjpa,/main/java/org/apache/openjpa/persistence/query/OrPredicate.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/ee/OSGiManagedRuntime.java,10.0,20min,20.0,38.56
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/PagingResultObjectProvider.java,68.0,4h 39min,279.0,91.67
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Param.java,26.0,25min,25.0,33.63
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Param.java,68.0,1h 4min,64.0,120.83
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Parameter.java,0.0,0,0.0,3.18
+openjpa,/main/java/org/apache/openjpa/persistence/query/ParameterExpression.java,2.0,7min 30s,7.5,11.83
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/ParameterExpressionImpl.java,4.0,17min,17.0,32.39
+openjpa,/main/java/org/apache/openjpa/persistence/ParameterImpl.java,6.0,59min,59.0,25.95
+openjpa,/main/java/org/apache/openjpa/lib/util/ParameterTemplate.java,36.0,36min,36.0,91.48
+openjpa,/main/java/org/apache/openjpa/lib/util/ParseException.java,0.0,0,0.0,24.63
+openjpa,/main/java/openbook/tools/converter/ParseTokenListener.java,14.0,33min,33.0,35.38
+openjpa,/main/java/org/apache/openjpa/datacache/PartitionedDataCache.java,64.0,1h 1min,61.0,33.09
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Path.java,0.0,0,0.0,14.74
+openjpa,/main/java/org/apache/openjpa/persistence/query/PathExpression.java,0.0,0,0.0,0.97
+openjpa,/main/java/jpa/tools/swing/PathFinder.java,17.0,1h 47min,107.0,96.82
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/PathImpl.java,272.0,2h 12min,132.0,110.05
+openjpa,/main/java/org/apache/openjpa/persistence/query/PathOperator.java,7.0,0,0.0,6.71
+openjpa,/main/java/org/apache/openjpa/enhance/PCClassFileTransformer.java,331.0,3h 46min,226.0,60.36
+openjpa,/main/java/org/apache/openjpa/kernel/PCData.java,0.0,0,0.0,16.06
+openjpa,/main/java/org/apache/openjpa/enhance/PCDataGenerator.java,411.0,4h 50min,290.0,194.98
+openjpa,/main/java/org/apache/openjpa/kernel/PCDataImpl.java,21.0,2h 1min,121.0,138.18
+openjpa,/main/java/org/apache/openjpa/enhance/PCEnhancer.java,1882.0,5M/d,2400.0,797.9
+openjpa,/main/java/org/apache/openjpa/enhance/PCEnhancerAgent.java,45.0,29min 30s,29.5,55.16
+openjpa,/main/java/org/apache/openjpa/ant/PCEnhancerTask.java,0.0,0,0.0,27.0
+openjpa,/main/java/org/apache/openjpa/kernel/PCleanState.java,0.0,11min,11.0,55.51
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/PCPath.java,305.0,2M/d 1h,1020.0,517.65
+openjpa,/main/java/org/apache/openjpa/enhance/PCRegistry.java,41.0,41min,41.0,92.48
+openjpa,/main/java/org/apache/openjpa/kernel/PCResultObjectProvider.java,20.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/PCState.java,119.0,4h 47min,287.0,155.24
+openjpa,/main/java/org/apache/openjpa/enhance/PCSubclassValidator.java,42.0,2h 41min,161.0,72.7
+openjpa,/main/java/org/apache/openjpa/kernel/PDeletedFlushedState.java,0.0,7min 30s,7.5,14.74
+openjpa,/main/java/org/apache/openjpa/kernel/PDeletedState.java,30.0,0,0.0,60.63
+openjpa,/main/java/org/apache/openjpa/kernel/PDirtyState.java,0.0,0,0.0,56.75
+openjpa,/main/java/org/apache/openjpa/persistence/osgi/PersistenceActivator.java,111.0,7min 30s,7.5,20.37
+openjpa,/main/java/org/apache/openjpa/enhance/PersistenceCapable.java,10.0,0,0.0,78.33
+openjpa,/main/java/org/apache/openjpa/persistence/PersistenceException.java,131.0,17min 30s,17.5,53.57
+openjpa,/main/java/org/apache/openjpa/persistence/PersistenceExceptions.java,23.0,5h 28min,328.0,40.23
+openjpa,/main/java/org/apache/openjpa/persistence/PersistenceListenerAdapter.java,42.0,31min 30s,31.5,51.28
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/PersistenceMappingDefaults.java,87.0,3h 30min,210.0,86.63
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/PersistenceMappingFactory.java,10.0,9min 30s,9.5,16.68
+openjpa,/main/java/org/apache/openjpa/persistence/PersistenceMetaDataDefaults.java,206.0,1M/d 2h,600.0,319.88
+openjpa,/main/java/org/apache/openjpa/persistence/PersistenceMetaDataFactory.java,143.0,7h,420.0,194.5
+openjpa,/main/java/org/apache/openjpa/persistence/PersistenceProductDerivation.java,297.0,1M/d,480.0,314.33
+openjpa,/main/java/org/apache/openjpa/persistence/PersistenceProviderImpl.java,45.0,2h 1min,121.0,90.78
+openjpa,/main/java/openbook/server/PersistenceService.java,101.0,1h 10min,70.0,50.12
+openjpa,/main/java/org/apache/openjpa/persistence/PersistenceStrategy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/PersistenceUnitInfoImpl.java,163.0,3h 49min,229.0,223.93
+openjpa,/main/java/org/apache/openjpa/persistence/Persistent.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/PersistentCollection.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/PersistentMap.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/event/PersistListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/persistence/PessimisticLockException.java,411.0,17min 30s,17.5,53.57
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/PessimisticLockManager.java,30.0,1h 22min,82.0,108.08
+openjpa,/main/java/embeddables/Phone.java,0.0,0,0.0,15.09
+openjpa,/main/java/openbook/tools/converter/PlainTokenRenderer.java,15.0,0,0.0,23.47
+openjpa,/main/java/org/apache/openjpa/lib/conf/PluginListValue.java,7.0,1h 13min,73.0,39.18
+openjpa,/main/java/org/apache/openjpa/lib/conf/PluginValue.java,6.0,31min,31.0,57.1
+openjpa,/main/java/org/apache/openjpa/persistence/query/PlusExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/PNewDeletedState.java,50.0,10min,10.0,56.13
+openjpa,/main/java/org/apache/openjpa/kernel/PNewFlushedDeletedFlushedState.java,5.0,7min 30s,7.5,14.74
+openjpa,/main/java/org/apache/openjpa/kernel/PNewFlushedDeletedState.java,50.0,10min,10.0,59.66
+openjpa,/main/java/org/apache/openjpa/kernel/PNewProvisionalState.java,0.0,0,0.0,54.19
+openjpa,/main/java/org/apache/openjpa/kernel/PNewState.java,0.0,22min,22.0,54.19
+openjpa,/main/java/org/apache/openjpa/kernel/PNonTransDeletedState.java,14.0,0,0.0,54.89
+openjpa,/main/java/org/apache/openjpa/kernel/PNonTransDirtyState.java,0.0,0,0.0,35.57
+openjpa,/main/java/org/apache/openjpa/kernel/PNonTransNewState.java,0.0,0,0.0,32.04
+openjpa,/main/java/org/apache/openjpa/kernel/PNonTransState.java,0.0,45min,45.0,68.82
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/PointbaseDictionary.java,25.0,1h 26min,86.0,53.46
+openjpa,/main/java/org/apache/openjpa/event/PostDeleteListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/PostgresDictionary.java,611.0,1M/d 1h,540.0,319.36
+openjpa,/main/java/org/apache/openjpa/event/PostPersistListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/jpa/tools/swing/PowerPointViewer.java,94.0,1h 19min,79.0,70.17
+openjpa,/main/java/org/apache/openjpa/persistence/query/Predicate.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/PredicateImpl.java,27.0,1h 40min,100.0,170.82
+openjpa,/main/java/org/apache/openjpa/persistence/query/PredicateOperand.java,0.0,0,0.0,11.64
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/PreparedProjectionResultObjectProvider.java,0.0,7min 30s,7.5,24.44
+openjpa,/main/java/org/apache/openjpa/kernel/PreparedQuery.java,0.0,0,0.0,6.79
+openjpa,/main/java/org/apache/openjpa/kernel/PreparedQueryCache.java,0.0,0,0.0,21.34
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/PreparedQueryCacheImpl.java,100.0,4h 20min,260.0,175.64
+openjpa,/main/java/org/apache/openjpa/instrumentation/PreparedQueryCacheInstrument.java,0.0,0,0.0,16.49
+openjpa,/main/java/org/apache/openjpa/instrumentation/jmx/PreparedQueryCacheJMXInstrument.java,64.0,45min,45.0,23.04
+openjpa,/main/java/org/apache/openjpa/instrumentation/jmx/PreparedQueryCacheJMXInstrumentMBean.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/PreparedQueryImpl.java,79.0,6h 10min,370.0,124.71
+openjpa,/main/java/jpa/tools/swing/PreparedQueryViewer.java,0.0,0,0.0,9.62
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/PreparedResultObjectProvider.java,0.0,7min 30s,7.5,9.0
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/PreparedSQLStoreQuery.java,71.0,24min 30s,24.5,57.99
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/PreparedStatementManager.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/PreparedStatementManagerImpl.java,37.0,1h 29min,89.0,155.21
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/PrimaryKey.java,17.0,9min 30s,9.5,19.86
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/PrimaryRow.java,85.0,4h 16min,256.0,181.94
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/PrimitiveFieldStrategy.java,90.0,3h 47min,227.0,172.13
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/PrimitiveWrapperArrays.java,30.0,1h 6min,66.0,15.79
+openjpa,/main/java/org/apache/openjpa/persistence/jest/ProcessingException.java,32.0,7min 30s,7.5,36.89
+openjpa,/main/java/org/apache/openjpa/slice/ProductDerivation.java,0.0,15min,15.0,15.36
+openjpa,/main/java/org/apache/openjpa/lib/conf/ProductDerivation.java,155.0,0,0.0,40.66
+openjpa,/main/java/org/apache/openjpa/lib/conf/ProductDerivations.java,181.0,3h 17min,197.0,107.73
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/ProjectionResultObjectProvider.java,6.0,8min 30s,8.5,22.77
+openjpa,/main/java/org/apache/openjpa/persistence/jest/PropertiesCommand.java,5.0,1min,1.0,25.68
+openjpa,/main/java/org/apache/openjpa/persistence/jest/PropertiesFormatter.java,5.0,0,0.0,13.5
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/PropertiesReverseCustomizer.java,4.0,2h 49min,169.0,73.94
+openjpa,/main/java/openbook/util/PropertyHelper.java,116.0,1h 58min,118.0,94.85
+openjpa,/main/java/org/apache/openjpa/persistence/jest/PrototypeFactory.java,96.0,41min,41.0,28.94
+openjpa,/main/java/org/apache/openjpa/util/Proxies.java,53.0,1h 30min,90.0,34.68
+openjpa,/main/java/org/apache/openjpa/util/Proxy.java,0.0,0,0.0,9.89
+openjpa,/main/java/org/apache/openjpa/util/ProxyBean.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/util/ProxyCalendar.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/util/ProxyCollection.java,0.0,0,0.0,7.06
+openjpa,/main/java/org/apache/openjpa/util/ProxyCollections.java,72.0,2h 28min,148.0,155.18
+openjpa,/main/java/org/apache/openjpa/util/ProxyConcurrentMaps.java,10.0,0,0.0,18.0
+openjpa,/main/java/org/apache/openjpa/util/ProxyDate.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/util/ProxyManager.java,0.0,0,0.0,32.28
+openjpa,/main/java/org/apache/openjpa/util/ProxyManagerImpl.java,402.0,2M/d,960.0,313.19
+openjpa,/main/java/org/apache/openjpa/util/ProxyMap.java,0.0,0,0.0,7.76
+openjpa,/main/java/org/apache/openjpa/util/ProxyMaps.java,68.0,2h 34min,154.0,97.92
+openjpa,/main/java/org/apache/openjpa/meta/ProxySetupStateManager.java,45.0,36min 30s,36.5,219.18
+openjpa,/main/java/openbook/domain/PurchaseOrder.java,8.0,6min,6.0,67.42
+openjpa,/main/java/org/apache/openjpa/jdbc/identifier/QualifiedDBIdentifier.java,86.0,4h 36min,276.0,64.51
+openjpa,/main/java/org/apache/openjpa/kernel/Query.java,0.0,0,0.0,18.7
+openjpa,/main/java/org/apache/openjpa/persistence/query/QueryBuilder.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/persistence/query/QueryBuilderImpl.java,2.0,11min,11.0,21.53
+openjpa,/main/java/org/apache/openjpa/datacache/QueryCache.java,0.0,0,0.0,11.29
+openjpa,/main/java/org/apache/openjpa/instrumentation/QueryCacheInstrument.java,0.0,0,0.0,17.46
+openjpa,/main/java/org/apache/openjpa/instrumentation/jmx/QueryCacheJMXInstrument.java,64.0,45min,45.0,23.04
+openjpa,/main/java/org/apache/openjpa/instrumentation/jmx/QueryCacheJMXInstrumentMBean.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/datacache/QueryCacheStoreQuery.java,350.0,7h 27min,447.0,462.73
+openjpa,/main/java/org/apache/openjpa/persistence/jest/QueryCommand.java,22.0,17min,17.0,33.09
+openjpa,/main/java/org/apache/openjpa/conf/QueryCompilationCacheValue.java,10.0,16min,16.0,14.47
+openjpa,/main/java/org/apache/openjpa/kernel/QueryContext.java,35.0,0,0.0,61.14
+openjpa,/main/java/jpa/tools/swing/QueryDecorator.java,0.0,0,0.0,3.88
+openjpa,/main/java/openbook/server/QueryDecorator.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/persistence/query/QueryDefinition.java,0.0,0,0.0,22.93
+openjpa,/main/java/org/apache/openjpa/persistence/query/QueryDefinitionImpl.java,38.0,1h 25min,85.0,955.95
+openjpa,/main/java/org/apache/openjpa/util/QueryException.java,0.0,18min 30s,18.5,32.82
+openjpa,/main/java/org/apache/openjpa/persistence/query/QueryExpression.java,0.0,15min,15.0,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/exps/QueryExpressions.java,116.0,1h 14min,74.0,144.3
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/QueryExpressionsState.java,0.0,7min 30s,7.5,18.62
+openjpa,/main/java/org/apache/openjpa/kernel/QueryFlushModes.java,10.0,0,0.0,0.62
+openjpa,/main/java/org/apache/openjpa/kernel/QueryHints.java,10.0,0,0.0,5.82
+openjpa,/main/java/org/apache/openjpa/kernel/QueryImpl.java,353.0,2M/d 6h,1320.0,1134.54
+openjpa,/main/java/org/apache/openjpa/persistence/QueryImpl.java,102.0,5h 51min,351.0,209.43
+openjpa,/main/java/org/apache/openjpa/datacache/QueryKey.java,204.0,5h 46min,346.0,121.04
+openjpa,/main/java/org/apache/openjpa/kernel/QueryLanguages.java,37.0,7min 30s,7.5,16.41
+openjpa,/main/java/org/apache/openjpa/meta/QueryMetaData.java,160.0,20min,20.0,142.01
+openjpa,/main/java/org/apache/openjpa/kernel/QueryOperations.java,10.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/QueryOperationType.java,0.0,1h,60.0,11.56
+openjpa,/main/java/openbook/server/QueryParameterBinder.java,0.0,11min,11.0,6.44
+openjpa,/main/java/org/apache/openjpa/datacache/QueryResult.java,34.0,2min,2.0,10.94
+openjpa,/main/java/org/apache/openjpa/persistence/QueryResultCache.java,15.0,0,0.0,4.85
+openjpa,/main/java/org/apache/openjpa/persistence/QueryResultCacheImpl.java,2.0,47min,47.0,29.83
+openjpa,/main/java/org/apache/openjpa/kernel/QueryResultCallback.java,0.0,0,0.0,30.53
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/QueryResultMapping.java,122.0,2h 51min,171.0,217.22
+openjpa,/main/java/org/apache/openjpa/kernel/QueryStatistics.java,135.0,1h 10min,70.0,184.45
+openjpa,/main/java/jpa/tools/swing/QueryStatisticsModel.java,11.0,2h 40min,160.0,28.86
+openjpa,/main/java/org/apache/openjpa/slice/QueryTargetPolicy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/QueryTimeoutException.java,391.0,7min 30s,7.5,59.04
+openjpa,/main/java/org/apache/openjpa/lib/rop/RandomAccessResultList.java,42.0,2h 26min,146.0,91.0
+openjpa,/main/java/openbook/util/Randomizer.java,32.0,34min,34.0,30.34
+openjpa,/main/java/openbook/domain/Range.java,0.0,2h 57min,177.0,27.35
+openjpa,/main/java/org/apache/openjpa/persistence/query/RangeExpression.java,0.0,7min 30s,7.5,17.92
+openjpa,/main/java/org/apache/openjpa/lib/rop/RangeResultObjectProvider.java,8.0,58min,58.0,79.63
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/Raw.java,0.0,7min 30s,7.5,9.62
+openjpa,/main/java/org/apache/openjpa/persistence/ReadOnly.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/enhance/RedefinitionHelper.java,40.0,2h 23min,143.0,87.06
+openjpa,/main/java/org/apache/openjpa/slice/ReentrantSliceLock.java,0.0,22min,22.0,10.24
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/ReferenceCounter.java,2.0,7min 30s,7.5,8.92
+openjpa,/main/java/org/apache/openjpa/lib/util/ReferenceHashMap.java,74.0,1h 48min,108.0,104.93
+openjpa,/main/java/org/apache/openjpa/lib/util/ReferenceHashSet.java,32.0,28min,28.0,52.25
+openjpa,/main/java/org/apache/openjpa/lib/util/ReferenceMap.java,10.0,0,0.0,2.91
+openjpa,/main/java/org/apache/openjpa/util/ReferentialIntegrityException.java,2.0,1h 15min,75.0,45.35
+openjpa,/main/java/org/apache/openjpa/lib/util/Reflectable.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/enhance/ReflectingPersistenceCapable.java,27.0,4h 59min,299.0,157.88
+openjpa,/main/java/org/apache/openjpa/enhance/Reflection.java,585.0,1M/d 4h,720.0,289.96
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/RefreshStrategyInstaller.java,10.0,8min,8.0,22.58
+openjpa,/main/java/org/apache/openjpa/ee/RegistryManagedRuntime.java,58.0,7min 30s,7.5,100.59
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationCollectionInverseKeyFieldStrategy.java,32.0,23min 30s,23.5,56.21
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationCollectionTableFieldStrategy.java,32.0,26min 30s,26.5,75.53
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationFieldStrategy.java,177.0,1M/d 7h,900.0,296.4
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationHandlerMapTableFieldStrategy.java,41.0,2h 5min,125.0,140.63
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/RelationId.java,0.0,0,0.0,3.53
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationMapInverseKeyFieldStrategy.java,22.0,2h 16min,136.0,133.06
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationMapTableFieldStrategy.java,22.0,2h 16min,136.0,133.06
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationRelationMapTableFieldStrategy.java,254.0,4h 54min,294.0,179.27
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationStrategies.java,30.0,1h 32min,92.0,47.64
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationToManyInverseKeyFieldStrategy.java,47.0,4h 10min,250.0,120.34
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/RelationToManyTableFieldStrategy.java,71.0,2h 14min,134.0,107.46
+openjpa,/main/java/org/apache/openjpa/event/RemoteCommitEvent.java,150.0,18min 30s,18.5,37.32
+openjpa,/main/java/org/apache/openjpa/event/RemoteCommitEventManager.java,117.0,2h,120.0,57.18
+openjpa,/main/java/org/apache/openjpa/event/RemoteCommitListener.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/event/RemoteCommitProvider.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/conf/RemoteCommitProviderValue.java,49.0,20min 30s,20.5,31.5
+openjpa,/main/java/org/apache/openjpa/slice/ReplicationPolicy.java,0.0,0,0.0,11.56
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/ReportingSQLException.java,67.0,50min 30s,50.5,22.5
+openjpa,/main/java/org/apache/openjpa/persistence/util/ReservedWords.java,33.0,48min,48.0,9.97
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Resolver.java,0.0,0,0.0,9.97
+openjpa,/main/java/org/apache/openjpa/lib/util/ResourceBundleProvider.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/lib/meta/ResourceMetaDataIterator.java,45.0,24min,24.0,37.24
+openjpa,/main/java/org/apache/openjpa/kernel/RestoreState.java,10.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/RestoreStateType.java,0.0,1h,60.0,10.59
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/Result.java,0.0,0,0.0,330.99
+openjpa,/main/java/org/apache/openjpa/lib/rop/ResultList.java,0.0,0,0.0,5.74
+openjpa,/main/java/org/apache/openjpa/lib/rop/ResultListIterator.java,4.0,12min,12.0,30.45
+openjpa,/main/java/org/apache/openjpa/lib/rop/ResultObjectProvider.java,0.0,0,0.0,25.95
+openjpa,/main/java/org/apache/openjpa/lib/rop/ResultObjectProviderIterator.java,36.0,59min 30s,59.5,35.84
+openjpa,/main/java/org/apache/openjpa/kernel/ResultPacker.java,99.0,6h 51min,411.0,73.67
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/ResultSetResult.java,78.0,1M/d 1h,540.0,336.5
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/ResultSetType.java,4.0,1h 33min,93.0,23.12
+openjpa,/main/java/org/apache/openjpa/kernel/ResultShape.java,57.0,1h 17min,77.0,85.39
+openjpa,/main/java/org/apache/openjpa/kernel/ResultShapePacker.java,12.0,11min,11.0,18.0
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/ReverseCustomizer.java,0.0,0,0.0,20.37
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/ReverseMappingTool.java,385.0,2M/d 1h,1020.0,1478.39
+openjpa,/main/java/org/apache/openjpa/jdbc/ant/ReverseMappingToolTask.java,0.0,18min,18.0,129.56
+openjpa,/main/java/org/apache/openjpa/persistence/RollbackException.java,364.0,7min 30s,7.5,51.63
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/RootImpl.java,2.0,59min,59.0,44.57
+openjpa,/main/java/org/apache/openjpa/persistence/query/RootPath.java,0.0,15min,15.0,31.07
+openjpa,/main/java/org/apache/openjpa/kernel/ROPStoreManager.java,0.0,20min 30s,20.5,31.85
+openjpa,/main/java/jpa/tools/swing/RoundButton.java,332.0,17min 30s,17.5,35.92
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/Row.java,10.0,0,0.0,266.78
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/RowImpl.java,198.0,6h 45min,405.0,561.23
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/RowManager.java,0.0,0,0.0,19.59
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/RowManagerImpl.java,44.0,4h 58min,298.0,93.56
+openjpa,/main/java/org/apache/openjpa/util/RuntimeExceptionTranslator.java,0.0,0,0.0,2.56
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/RuntimeStrategyInstaller.java,0.0,54min 30s,54.5,27.62
+openjpa,/main/java/org/apache/openjpa/enhance/RuntimeUnenhancedClassesModes.java,16.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/kernel/SaveFieldManager.java,42.0,2h 41min,161.0,57.88
+openjpa,/main/java/org/apache/openjpa/kernel/SavepointFieldManager.java,47.0,1h 40min,100.0,79.33
+openjpa,/main/java/org/apache/openjpa/kernel/SavepointManager.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/Schema.java,217.0,3h 6min,186.0,90.54
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/SchemaFactory.java,0.0,0,0.0,2.21
+openjpa,/main/java/org/apache/openjpa/conf/SchemaGenerationAction.java,10.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/conf/SchemaGenerationSource.java,10.0,0,0.0,4.85
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/SchemaGenerator.java,852.0,1M/d 2h,600.0,275.79
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/SchemaGroup.java,349.0,5h 50min,350.0,215.7
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/SchemaParser.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/Schemas.java,75.0,2M/d 5h,1260.0,35.65
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/SchemaSerializer.java,0.0,0,0.0,6.79
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/SchemaTool.java,852.0,1M/d 5h,780.0,600.69
+openjpa,/main/java/org/apache/openjpa/jdbc/ant/SchemaToolTask.java,20.0,2min,2.0,67.69
+openjpa,/main/java/jpa/tools/swing/ScrollingTextPane.java,305.0,18min 30s,18.5,21.8
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SecondaryRow.java,35.0,1h 14min,74.0,71.03
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/Select.java,10.0,0,0.0,223.27
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/SelectConstructor.java,146.0,3h 54min,234.0,949.54
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SelectExecutor.java,0.0,0,0.0,39.53
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SelectImpl.java,816.0,4M/d 3h,2100.0,1649.16
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/SelectionImpl.java,6.0,12min 30s,12.5,37.86
+openjpa,/main/java/org/apache/openjpa/persistence/query/SelectItem.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/SelectResultObjectProvider.java,12.0,33min 30s,33.5,54.46
+openjpa,/main/java/org/apache/openjpa/kernel/Seq.java,10.0,0,0.0,11.83
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/Sequence.java,142.0,50min,50.0,99.92
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/SequenceMapping.java,184.0,25min,25.0,89.84
+openjpa,/main/java/org/apache/openjpa/meta/SequenceMetaData.java,156.0,1h 39min,99.0,162.46
+openjpa,/main/java/org/apache/openjpa/conf/SeqValue.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/util/Serialization.java,94.0,1h 2min,62.0,110.59
+openjpa,/main/java/openbook/server/ServiceFactory.java,35.0,0,0.0,13.5
+openjpa,/main/java/org/apache/openjpa/lib/util/Services.java,66.0,1h 31min,91.0,59.28
+openjpa,/main/java/openbook/domain/ShoppingCart.java,1.0,7min,7.0,14.12
+openjpa,/main/java/org/apache/openjpa/util/ShortId.java,0.0,0,0.0,36.89
+openjpa,/main/java/org/apache/openjpa/kernel/exps/SimpleCase.java,13.0,52min 30s,52.5,63.46
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/SimpleCaseExpression.java,40.0,1h 7min,67.0,1160.62
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/SimpleDriverDataSource.java,100.0,1h 26min,86.0,118.62
+openjpa,/main/java/org/apache/openjpa/kernel/jpql/SimpleNode.java,0.0,0,0.0,13.15
+openjpa,/main/java/org/apache/openjpa/lib/util/SimpleRegex.java,9.0,1h 46min,106.0,18.08
+openjpa,/main/java/org/apache/openjpa/lib/util/SimpleResourceBundleProvider.java,50.0,0,0.0,12.53
+openjpa,/main/java/org/apache/openjpa/lib/rop/SimpleResultList.java,51.0,1h 41min,101.0,50.93
+openjpa,/main/java/org/apache/openjpa/kernel/SingleFieldManager.java,238.0,1M/d 4h,720.0,178.38
+openjpa,/main/java/org/apache/openjpa/event/SingleJVMRemoteCommitProvider.java,2.0,18min 30s,18.5,7.06
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Size.java,0.0,29min 30s,29.5,15.71
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Size.java,0.0,7min 30s,7.5,30.18
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/Sized.java,0.0,7min 30s,7.5,17.3
+openjpa,/main/java/org/apache/openjpa/lib/util/SizedMap.java,0.0,0,0.0,6.09
+openjpa,/main/java/org/apache/openjpa/persistence/query/SizeExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/lib/log/SLF4JLogFactory.java,62.0,22min,22.0,79.36
+openjpa,/main/java/org/apache/openjpa/slice/Slice.java,4.0,39min 30s,39.5,28.94
+openjpa,/main/java/org/apache/openjpa/slice/SliceImplHelper.java,30.0,3min,3.0,27.08
+openjpa,/main/java/org/apache/openjpa/slice/SliceInfo.java,6.0,14min,14.0,22.85
+openjpa,/main/java/org/apache/openjpa/slice/SlicePersistence.java,30.0,1h 13min,73.0,8.38
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/SliceStoreManager.java,2.0,7min 30s,7.5,6.71
+openjpa,/main/java/org/apache/openjpa/slice/SliceThread.java,4.0,0,0.0,31.69
+openjpa,/main/java/org/apache/openjpa/lib/rop/SoftRandomAccessResultList.java,15.0,7min 30s,7.5,10.24
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SolidDBDictionary.java,172.0,4h 1min,241.0,164.91
+openjpa,/main/java/org/apache/openjpa/persistence/query/SomeExpression.java,0.0,15min,15.0,7.68
+openjpa,/main/java/org/apache/openjpa/persistence/meta/SourceAnnotationHandler.java,69.0,5h 20min,320.0,252.62
+openjpa,/main/java/org/apache/openjpa/persistence/util/SourceCode.java,198.0,4h 14min,254.0,729.24
+openjpa,/main/java/openbook/client/SourceCodeBrowser.java,58.0,10min,10.0,36.54
+openjpa,/main/java/jpa/tools/swing/SourceCodeViewer.java,25.0,29min 30s,29.5,20.21
+openjpa,/main/java/openbook/tools/converter/SourceRenderer.java,112.0,1h 39min,99.0,110.59
+openjpa,/main/java/org/apache/openjpa/lib/meta/SourceTracker.java,10.0,0,0.0,13.07
+openjpa,/main/java/org/apache/openjpa/lib/meta/SourceTrackers.java,30.0,1min,1.0,12.88
+openjpa,/main/java/org/apache/openjpa/conf/Specification.java,27.0,44min,44.0,50.04
+openjpa,/main/java/org/apache/openjpa/conf/SpecificationPlugin.java,37.0,36min,36.0,17.3
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SQLBuffer.java,395.0,5h 14min,314.0,286.98
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/SQLEmbed.java,2.0,23min 30s,23.5,34.41
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SQLErrorCodeReader.java,48.0,41min,41.0,43.06
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SQLExceptions.java,36.0,12min,12.0,65.1
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/SQLExpression.java,15.0,15min,15.0,10.59
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SQLFactory.java,0.0,0,0.0,4.77
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SQLFactoryImpl.java,12.0,7min 30s,7.5,20.13
+openjpa,/main/java/org/apache/openjpa/lib/jdbc/SQLFormatter.java,39.0,1h 23min,83.0,66.77
+openjpa,/main/java/openbook/client/SQLLogger.java,11.0,11min,11.0,12.53
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/SQLProjectionResultObjectProvider.java,55.0,45min,45.0,42.28
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SQLServerDictionary.java,101.0,3h 7min,187.0,103.39
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/SQLStoreQuery.java,152.0,2h 9min,129.0,148.23
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/SQLValue.java,15.0,15min,15.0,10.59
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Sqrt.java,0.0,7min 30s,7.5,15.09
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Sqrt.java,0.0,7min 30s,7.5,14.74
+openjpa,/main/java/org/apache/openjpa/persistence/query/SquareRootExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/kernel/exps/StartsWithExpression.java,0.0,18min 30s,18.5,11.56
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/StartsWithExpression.java,114.0,25min 30s,25.5,196.85
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/StateComparisonVersionStrategy.java,50.0,2h 5min,125.0,175.26
+openjpa,/main/java/org/apache/openjpa/enhance/StateManager.java,10.0,0,0.0,159.82
+openjpa,/main/java/org/apache/openjpa/kernel/StateManagerImpl.java,258.0,5M/d 2h,2520.0,1119.87
+openjpa,/main/java/jpa/tools/swing/StatusBar.java,44.0,7min 30s,7.5,75.1
+openjpa,/main/java/org/apache/openjpa/persistence/StoreCache.java,25.0,0,0.0,30.07
+openjpa,/main/java/org/apache/openjpa/persistence/StoreCacheImpl.java,4.0,1h 22min,82.0,80.22
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/StoreCollectionFieldStrategy.java,104.0,6h 6min,366.0,177.57
+openjpa,/main/java/org/apache/openjpa/kernel/StoreContext.java,10.0,0,0.0,91.05
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/StoredProcedure.java,80.0,46min 30s,46.5,126.38
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/StoredProcedureQuery.java,122.0,56min,56.0,90.11
+openjpa,/main/java/org/apache/openjpa/persistence/StoredProcedureQueryImpl.java,50.0,3h 53min,233.0,181.94
+openjpa,/main/java/org/apache/openjpa/util/StoreException.java,0.0,15min,15.0,32.66
+openjpa,/main/java/org/apache/openjpa/util/StoreFacadeTypeRegistry.java,11.0,31min 30s,31.5,30.37
+openjpa,/main/java/org/apache/openjpa/event/StoreListener.java,0.0,0,0.0,1.94
+openjpa,/main/java/org/apache/openjpa/kernel/StoreManager.java,10.0,0,0.0,40.04
+openjpa,/main/java/org/apache/openjpa/kernel/StoreQuery.java,46.0,7min 30s,7.5,115.76
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/Strategy.java,0.0,0,0.0,34.25
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/Strategy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/StrategyInstaller.java,0.0,7min 30s,7.5,15.98
+openjpa,/main/java/org/apache/openjpa/lib/util/StreamResourceBundleProvider.java,10.0,11min,11.0,16.68
+openjpa,/main/java/org/apache/openjpa/kernel/exps/StringContains.java,35.0,37min,37.0,27.62
+openjpa,/main/java/org/apache/openjpa/lib/util/StringDistance.java,30.0,1h 52min,112.0,17.03
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/StringFieldStrategy.java,70.0,1h 26min,86.0,154.13
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/StringFunction.java,44.0,15min,15.0,98.14
+openjpa,/main/java/org/apache/openjpa/util/StringId.java,15.0,0,0.0,22.77
+openjpa,/main/java/org/apache/openjpa/kernel/exps/StringLength.java,4.0,29min 30s,29.5,27.54
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/StringLength.java,2.0,18min 30s,18.5,32.04
+openjpa,/main/java/org/apache/openjpa/lib/conf/StringListValue.java,11.0,50min 30s,50.5,30.18
+openjpa,/main/java/org/apache/openjpa/lib/util/StringUtil.java,51.0,1M/d,480.0,70.95
+openjpa,/main/java/org/apache/openjpa/lib/conf/StringValue.java,0.0,1min,1.0,17.92
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/SubclassFetchMode.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/SubclassJoinDiscriminatorStrategy.java,27.0,1h 58min,118.0,46.4
+openjpa,/main/java/org/apache/openjpa/kernel/exps/SubQ.java,11.0,15min,15.0,38.75
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/SubQ.java,36.0,2h 4min,124.0,202.37
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Subquery.java,0.0,0,0.0,7.76
+openjpa,/main/java/org/apache/openjpa/persistence/query/Subquery.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/criteria/SubqueryImpl.java,139.0,2h 32min,152.0,154.89
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Substring.java,9.0,17min 30s,17.5,31.69
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Substring.java,91.0,8min 30s,8.5,134.33
+openjpa,/main/java/org/apache/openjpa/persistence/query/SubStringExpression.java,4.0,7min 30s,7.5,30.45
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Subtract.java,0.0,7min 30s,7.5,13.5
+openjpa,/main/java/org/apache/openjpa/lib/meta/SuffixMetaDataFilter.java,2.0,0,0.0,6.09
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Sum.java,0.0,30min 30s,30.5,17.65
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Sum.java,0.0,18min 30s,18.5,15.71
+openjpa,/main/java/org/apache/openjpa/persistence/query/SumExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/ee/SunOneManagedRuntime.java,9.0,7min 30s,7.5,24.44
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/SuperclassDiscriminatorStrategy.java,0.0,7min 30s,7.5,35.73
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/SuperclassVersionStrategy.java,0.0,7min 30s,7.5,23.12
+openjpa,/main/java/openbook/client/SupplyPage.java,36.0,25min,25.0,43.25
+openjpa,/main/java/org/apache/openjpa/lib/util/svn/SVNUtils.java,40.0,20min,20.0,12.88
+openjpa,/main/java/jpa/tools/swing/SwingHelper.java,55.0,2h 22min,142.0,57.8
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/SybaseDictionary.java,123.0,3h 56min,236.0,136.48
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/Table.java,392.0,6h 7min,367.0,292.48
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/TableJDBCSeq.java,363.0,4h 1min,241.0,366.82
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/TableSchemaFactory.java,173.0,2h 12min,132.0,106.68
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/TargetFetchConfiguration.java,55.0,46min,46.0,36.19
+openjpa,/main/java/org/apache/openjpa/kernel/TCleanState.java,0.0,11min,11.0,33.09
+openjpa,/main/java/org/apache/openjpa/event/TCPRemoteCommitProvider.java,244.0,3h 43min,223.0,343.6
+openjpa,/main/java/org/apache/openjpa/kernel/TDirtyState.java,0.0,0,0.0,42.01
+openjpa,/main/java/org/apache/openjpa/lib/util/TemporaryClassLoader.java,52.0,1h 41min,101.0,29.91
+openjpa,/main/java/openbook/tools/util/TextProcessingUtility.java,72.0,0,0.0,10.94
+openjpa,/main/java/jpa/tools/swing/TextStyles.java,36.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/kernel/exps/This.java,5.0,7min 30s,7.5,17.92
+openjpa,/main/java/org/apache/openjpa/kernel/TimeSeededSeq.java,19.0,0,0.0,27.89
+openjpa,/main/java/org/apache/openjpa/persistence/query/TimesExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/lib/util/TimestampHelper.java,38.0,0,0.0,18.35
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/TimestampVersionStrategy.java,0.0,16min,16.0,18.89
+openjpa,/main/java/org/apache/openjpa/kernel/TLoadedState.java,0.0,0,0.0,14.74
+openjpa,/main/java/openbook/tools/converter/TokenRenderer.java,0.0,0,0.0,2.56
+openjpa,/main/java/org/apache/openjpa/persistence/jest/TokenReplacedStream.java,15.0,1h 12min,72.0,52.6
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ToLowerCase.java,7.0,7min 30s,7.5,24.01
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/ToLowerCase.java,20.0,7min 30s,7.5,27.89
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ToUpperCase.java,7.0,7min 30s,7.5,24.01
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/ToUpperCase.java,20.0,7min 30s,7.5,27.89
+openjpa,/main/java/org/apache/openjpa/event/TransactionEvent.java,26.0,15min,15.0,17.92
+openjpa,/main/java/org/apache/openjpa/event/TransactionEventManager.java,30.0,51min,51.0,23.12
+openjpa,/main/java/org/apache/openjpa/event/TransactionListener.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/TransactionRequiredException.java,391.0,7min 30s,7.5,59.66
+openjpa,/main/java/org/apache/openjpa/kernel/TransferFieldManager.java,0.0,7min 30s,7.5,87.55
+openjpa,/main/java/org/apache/openjpa/kernel/TransientState.java,0.0,0,0.0,12.53
+openjpa,/main/java/org/apache/openjpa/persistence/validation/TraversableResolverImpl.java,7.0,20min,20.0,21.26
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Trim.java,11.0,20min 30s,20.5,36.19
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Trim.java,45.0,37min,37.0,152.87
+openjpa,/main/java/org/apache/openjpa/persistence/query/TrimExpression.java,4.0,7min 30s,7.5,24.36
+openjpa,/main/java/org/apache/openjpa/persistence/query/TrimSpec.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/TupleFactory.java,23.0,14min,14.0,22.15
+openjpa,/main/java/org/apache/openjpa/persistence/TupleImpl.java,19.0,35min,35.0,50.47
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Type.java,7.0,7min 30s,7.5,26.57
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Type.java,2.0,22min 30s,22.5,69.01
+openjpa,/main/java/org/apache/openjpa/persistence/Type.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/datacache/TypeBasedCacheDistributionPolicy.java,5.0,1h 7min,67.0,19.94
+openjpa,/main/java/org/apache/openjpa/lib/util/TypedProperties.java,5.0,1h 35min,95.0,70.65
+openjpa,/main/java/org/apache/openjpa/persistence/query/TypeExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/kernel/exps/TypeLit.java,24.0,25min,25.0,31.69
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/TypeLit.java,54.0,1h 5min,65.0,75.37
+openjpa,/main/java/org/apache/openjpa/persistence/meta/Types.java,36.0,1h 11min,71.0,87.47
+openjpa,/main/java/org/apache/openjpa/datacache/TypesChangedEvent.java,32.0,0,0.0,3.53
+openjpa,/main/java/org/apache/openjpa/datacache/TypesChangedListener.java,0.0,0,0.0,1.59
+openjpa,/main/java/org/apache/openjpa/persistence/query/UnaryConditionalOperator.java,7.0,0,0.0,6.71
+openjpa,/main/java/org/apache/openjpa/persistence/query/UnaryExpressionPredicate.java,6.0,16min,16.0,31.07
+openjpa,/main/java/org/apache/openjpa/persistence/query/UnaryFunctionalOperator.java,7.0,0,0.0,6.71
+openjpa,/main/java/org/apache/openjpa/kernel/exps/UnaryMathVal.java,2.0,15min,15.0,40.34
+openjpa,/main/java/org/apache/openjpa/persistence/query/UnaryMinusExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/UnaryOp.java,38.0,48min,48.0,137.94
+openjpa,/main/java/org/apache/openjpa/persistence/query/UnaryOperator.java,7.0,0,0.0,6.71
+openjpa,/main/java/org/apache/openjpa/persistence/query/UnaryOperatorExpression.java,4.0,15min,15.0,37.78
+openjpa,/main/java/org/apache/openjpa/kernel/exps/UnboundVariable.java,4.0,7min 30s,7.5,24.36
+openjpa,/main/java/org/apache/openjpa/jdbc/sql/Union.java,0.0,0,0.0,8.65
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/Unique.java,34.0,7min 30s,7.5,22.42
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/Unique.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/slice/jdbc/UniqueResultObjectProvider.java,33.0,3h 50min,230.0,111.1
+openjpa,/main/java/org/apache/openjpa/util/UnsupportedException.java,0.0,0,0.0,21.02
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/UntypedPCValueHandler.java,15.0,56min 30s,56.5,54.43
+openjpa,/main/java/org/apache/openjpa/persistence/UpdateAction.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/event/UpdateListener.java,0.0,0,0.0,2.91
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/UpdateManager.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/meta/UpdateStrategies.java,48.0,1h 42min,102.0,9.7
+openjpa,/main/java/org/apache/openjpa/persistence/query/UpperExpression.java,0.0,7min 30s,7.5,7.68
+openjpa,/main/java/openbook/tools/util/URIUtils.java,71.0,38min 30s,38.5,27.0
+openjpa,/main/java/org/apache/openjpa/lib/meta/URLMetaDataIterator.java,24.0,35min,35.0,25.33
+openjpa,/main/java/embeddables/User.java,25.0,0,0.0,32.12
+openjpa,/main/java/org/apache/openjpa/util/UserException.java,0.0,15min,15.0,32.93
+openjpa,/main/java/org/apache/openjpa/lib/util/UUIDGenerator.java,74.0,57min,57.0,63.35
+openjpa,/main/java/org/apache/openjpa/kernel/UUIDHexSeq.java,17.0,0,0.0,25.68
+openjpa,/main/java/org/apache/openjpa/kernel/UUIDStringSeq.java,17.0,0,0.0,25.68
+openjpa,/main/java/org/apache/openjpa/kernel/UUIDType4HexSeq.java,17.0,0,0.0,25.68
+openjpa,/main/java/org/apache/openjpa/kernel/UUIDType4StringSeq.java,17.0,0,0.0,25.68
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Val.java,34.0,1h 18min,78.0,69.82
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Val.java,20.0,0,0.0,99.32
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ValExpression.java,2.0,7min 30s,7.5,24.09
+openjpa,/main/java/org/apache/openjpa/lib/xml/ValidatingErrorHandler.java,0.0,0,0.0,18.62
+openjpa,/main/java/org/apache/openjpa/validation/ValidatingLifecycleEventManager.java,11.0,48min 30s,48.5,46.32
+openjpa,/main/java/org/apache/openjpa/validation/ValidationException.java,0.0,7min 30s,7.5,14.74
+openjpa,/main/java/org/apache/openjpa/validation/ValidationUnavailableException.java,0.0,0,0.0,22.77
+openjpa,/main/java/org/apache/openjpa/persistence/validation/ValidationUtils.java,71.0,57min,57.0,13.5
+openjpa,/main/java/org/apache/openjpa/validation/Validator.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/persistence/validation/ValidatorImpl.java,135.0,1h 41min,101.0,54.43
+openjpa,/main/java/org/apache/openjpa/kernel/exps/Value.java,0.0,0,0.0,23.31
+openjpa,/main/java/org/apache/openjpa/lib/conf/Value.java,65.0,3h 3min,183.0,137.56
+openjpa,/main/java/org/apache/openjpa/persistence/query/ValueExpression.java,0.0,7min 30s,7.5,8.65
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/ValueHandler.java,0.0,0,0.0,23.82
+openjpa,/main/java/org/apache/openjpa/lib/conf/ValueListener.java,0.0,0,0.0,0.97
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/ValueMapDiscriminatorStrategy.java,2.0,1h 20min,80.0,41.82
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/ValueMapping.java,25.0,0,0.0,60.9
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/ValueMappingImpl.java,110.0,6h 56min,416.0,200.11
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/ValueMappingInfo.java,108.0,3h 45min,225.0,137.02
+openjpa,/main/java/org/apache/openjpa/meta/ValueMetaData.java,10.0,0,0.0,56.24
+openjpa,/main/java/org/apache/openjpa/meta/ValueMetaDataImpl.java,100.0,5h 53min,353.0,208.33
+openjpa,/main/java/org/apache/openjpa/kernel/exps/ValuePath.java,2.0,7min 30s,7.5,22.77
+openjpa,/main/java/org/apache/openjpa/meta/ValueStrategies.java,35.0,53min 30s,53.5,22.23
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/ValueTableJDBCSeq.java,153.0,1h 9min,69.0,61.41
+openjpa,/main/java/org/apache/openjpa/persistence/query/VarArgsExpression.java,2.0,7min 30s,7.5,160.66
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/Variable.java,60.0,40min,40.0,126.46
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/Version.java,114.0,1h 13min,73.0,211.53
+openjpa,/main/java/org/apache/openjpa/kernel/VersionAttachStrategy.java,173.0,5h 23min,323.0,461.44
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/VersionColumn.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/VersionColumns.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/kernel/VersionLockManager.java,6.0,43min 30s,43.5,47.37
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/VersionMappingInfo.java,3.0,1h 14min,74.0,46.67
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/VersionStrategy.java,20.0,0,0.0,24.52
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/VersionStrategy.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/VerticalClassStrategy.java,2.0,47min 30s,47.5,59.2
+openjpa,/main/java/org/apache/openjpa/persistence/query/Visitable.java,0.0,0,0.0,9.62
+openjpa,/main/java/org/apache/openjpa/ee/WASManagedRuntime.java,108.0,35min,35.0,141.17
+openjpa,/main/java/org/apache/openjpa/ee/WASRegistryManagedRuntime.java,17.0,0,0.0,25.68
+openjpa,/main/java/org/apache/openjpa/persistence/query/WhenClause.java,0.0,1min,1.0,15.71
+openjpa,/main/java/org/apache/openjpa/kernel/exps/WhenCondition.java,4.0,7min 30s,7.5,19.86
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/WhenCondition.java,4.0,7min 30s,7.5,69.2
+openjpa,/main/java/org/apache/openjpa/kernel/exps/WhenScalar.java,4.0,7min 30s,7.5,17.3
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/exps/WhenScalar.java,4.0,7min 30s,7.5,58.34
+openjpa,/main/java/org/apache/openjpa/kernel/exps/WildcardMatch.java,40.0,37min,37.0,33.09
+openjpa,/main/java/org/apache/openjpa/lib/rop/WindowResultList.java,87.0,2h 12min,132.0,67.96
+openjpa,/main/java/org/apache/openjpa/ee/WLSManagedRuntime.java,57.0,27min 30s,27.5,22.5
+openjpa,/main/java/org/apache/openjpa/util/WrappedException.java,0.0,0,0.0,28.86
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XEmbeddedMapping.java,0.0,0,0.0,3.88
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XJoinColumn.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XJoinColumns.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XMappingOverride.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XMappingOverrides.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/meta/XMLClassMetaData.java,16.0,8min 30s,8.5,69.2
+openjpa,/main/java/org/apache/openjpa/xmlstore/XMLConfiguration.java,34.0,9min 30s,9.5,20.21
+openjpa,/main/java/org/apache/openjpa/lib/xml/XMLFactory.java,116.0,3min,3.0,20.29
+openjpa,/main/java/org/apache/openjpa/meta/XMLFieldMetaData.java,26.0,9min 30s,9.5,75.29
+openjpa,/main/java/org/apache/openjpa/xmlstore/XMLFileHandler.java,433.0,1M/d 2h,600.0,165.45
+openjpa,/main/java/org/apache/openjpa/persistence/jest/XMLFormatter.java,170.0,2h 37min,157.0,163.32
+openjpa,/main/java/org/apache/openjpa/meta/XMLMetaData.java,12.0,0,0.0,18.43
+openjpa,/main/java/org/apache/openjpa/lib/meta/XMLMetaDataParser.java,241.0,3h 32min,212.0,260.68
+openjpa,/main/java/org/apache/openjpa/lib/meta/XMLMetaDataSerializer.java,33.0,1h 20min,80.0,96.01
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XMLPersistenceMappingParser.java,468.0,1M/d 4h,720.0,396.03
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XMLPersistenceMappingSerializer.java,782.0,1M/d 5h,780.0,206.22
+openjpa,/main/java/org/apache/openjpa/persistence/XMLPersistenceMetaDataParser.java,943.0,2M/d 4h,1200.0,692.3
+openjpa,/main/java/org/apache/openjpa/persistence/XMLPersistenceMetaDataSerializer.java,542.0,3M/d 3h,1620.0,340.55
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/XMLSchemaParser.java,105.0,6h 21min,381.0,227.11
+openjpa,/main/java/org/apache/openjpa/jdbc/schema/XMLSchemaSerializer.java,45.0,3h 30min,210.0,100.05
+openjpa,/main/java/org/apache/openjpa/xmlstore/XMLStore.java,11.0,28min,28.0,24.44
+openjpa,/main/java/org/apache/openjpa/xmlstore/XMLStoreManager.java,48.0,1h 55min,115.0,81.16
+openjpa,/main/java/org/apache/openjpa/jdbc/meta/strats/XMLValueHandler.java,15.0,49min 30s,49.5,40.23
+openjpa,/main/java/org/apache/openjpa/lib/meta/XMLVersionParser.java,17.0,7min 30s,7.5,26.65
+openjpa,/main/java/org/apache/openjpa/lib/xml/XMLWriter.java,49.0,53min,53.0,46.86
+openjpa,/main/java/org/apache/openjpa/jdbc/kernel/XROP.java,24.0,2h 8min,128.0,60.52
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XSecondaryTable.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XSecondaryTables.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/persistence/jdbc/XTable.java,0.0,0,0.0,null
+openjpa,/main/java/org/apache/openjpa/lib/meta/ZipFileMetaDataIterator.java,35.0,55min 30s,55.5,54.54
+openjpa,/main/java/org/apache/openjpa/lib/util/ZipResourceBundleProvider.java,10.0,24min,24.0,18.62
+openjpa,/main/java/org/apache/openjpa/lib/meta/ZipStreamMetaDataIterator.java,35.0,1h 4min,64.0,93.91

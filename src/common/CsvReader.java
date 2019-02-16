@@ -20,6 +20,7 @@ public class CsvReader {
 	private final String CSV_SQUORE_READ_PATH = "C:/Users/Nasia/Desktop/squore_csv/";
 	private final String CSV_CAST_READ_PATH = "C:/Users/Nasia/Desktop/cast_csv/";
 	private final String CSV_CAST_READ_PATH_WITH_FIX_EFFORD = "C:/Users/Nasia/Desktop/cast_csv/csv_with_fix_efford/";
+	private final String CSV_CAST_READ_PATH_WITH_TD_IN_MINUTES = "C:/Users/Nasia/Desktop/cast_exports_with_td_in_minutes/";
 	private final String CSV_SEPARATOR = ";";
 	private final String CSV_SEPARATOR_ALT = ",";
 
@@ -193,5 +194,63 @@ public class CsvReader {
 			castObjectsMapWithFixEffort.put(projects[i], entries);
 		}
 		return castObjectsMapWithFixEffort;
-	}	
+	}
+	
+	public Map<String, List<CastEntry>> readFromCastCsvWithTDinMinutes(String[] projects){
+
+		String line = "";        
+
+		for(int i=0;i<projects.length;i++){
+			List<CastEntry> entries = new ArrayList<>();
+
+			String folderPath = CSV_CAST_READ_PATH_WITH_TD_IN_MINUTES + projects[i];
+
+
+			String finalPath = folderPath+".csv";
+
+			try (BufferedReader br = new BufferedReader(new FileReader(finalPath))) {
+				br.readLine();
+
+				while ((line = br.readLine()) != null) {
+					String[] file = line.split(CSV_SEPARATOR_ALT);
+					if(file.length>2){
+						CastEntry ce = new CastEntry();
+						
+						//Remove all previous details
+						String[] croppedPath = file[1].split("src");
+						
+						//Check if it is in the actual path of src
+						if(croppedPath.length>1){
+							//The path should contain .java to be a java class							
+							if(croppedPath[1].contains(".java")){
+								ce.setPath(croppedPath[1]);
+								ce.setTotalErrors(file[4]);
+								ce.setTdContributionInMinutes(file[5]);
+								entries.add(ce);
+								//We have filter java classes 
+								//but we should also check if
+								//the class is in sonar filtered classes
+								//to eliminate test classes
+							}
+						}						
+					}
+				}
+
+			} catch (IOException e) {
+				System.out.println("Unable to find file");
+				e.printStackTrace();
+			}  
+			
+			/*Collections.sort(entries, 
+	                (o1, o2) -> Double.valueOf(o2.getFixEffort()).compareTo(Double.valueOf(o1.getFixEffort())));
+			*/
+			/*for(CastEntry cent : entries){
+				System.out.println("Path: "+cent.getPath());
+				System.out.println("Efford: "+cent.getFixEffort());
+			}
+*/
+			castObjectsMapWithFixEffort.put(projects[i], entries);
+		}
+		return castObjectsMapWithFixEffort;
+	}
 }

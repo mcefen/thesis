@@ -1,0 +1,1625 @@
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/auto/_Artist.java,91.0,45min,45.0,35.73
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/auto/_Artist.java,49.0,25min,25.0,30.18
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/auto/_Artist.java,49.0,25min,25.0,30.18
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/auto/_Artist.java,91.0,45min,45.0,35.73
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/auto/_Datamap.java,12.0,0,0.0,7.68
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/auto/_Datamap.java,10.0,0,0.0,7.06
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/auto/_Datamap.java,10.0,0,0.0,7.06
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/auto/_Datamap.java,12.0,0,0.0,7.68
+cayenne,/main/java/org/apache/cayenne/itest/di_stack/auto/_DefaultMap.java,10.0,0,0.0,7.06
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/auto/_Gallery.java,83.0,35min,35.0,23.2
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/auto/_Gallery.java,43.0,25min,25.0,25.06
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/auto/_Gallery.java,43.0,25min,25.0,25.06
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/auto/_Gallery.java,83.0,35min,35.0,23.2
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/auto/_Painting.java,47.0,35min,35.0,33.87
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/auto/_Painting.java,37.0,25min,25.0,26.65
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/auto/_Painting.java,37.0,25min,25.0,26.65
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/auto/_Painting.java,47.0,35min,35.0,33.87
+cayenne,/main/java/org/apache/cayenne/itest/di_stack/auto/_Table1.java,5.0,25min,25.0,13.5
+cayenne,/main/java/org/apache/cayenne/modeler/action/AboutAction.java,5.0,0,0.0,13.15
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/AboutDialog.java,331.0,30min,30.0,58.34
+cayenne,/main/java/org/apache/cayenne/maven/plugin/aggregator/AbstractAggregatorMojo.java,0.0,15min,15.0,41.39
+cayenne,/main/java/org/apache/cayenne/reflect/AbstractCallback.java,0.0,0,0.0,8.03
+cayenne,/main/java/org/apache/cayenne/modeler/editor/AbstractCallbackListenersTab.java,20.0,7min 30s,7.5,14.82
+cayenne,/main/java/org/apache/cayenne/modeler/editor/AbstractCallbackMethodsTab.java,301.0,1h 27min,87.0,47.48
+cayenne,/main/java/org/apache/cayenne/modeler/action/AbstractCreateCallbackMethodAction.java,0.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/access/AbstractDbLoaderDelegate.java,0.0,7min 30s,7.5,33.79
+cayenne,/main/java/org/apache/cayenne/query/AbstractQuery.java,0.0,7min 30s,7.5,28.51
+cayenne,/main/java/org/apache/cayenne/modeler/action/AbstractRemoveCallbackMethodAction.java,10.0,7min 30s,7.5,19.94
+cayenne,/main/java/org/apache/cayenne/merge/AbstractToDbToken.java,40.0,35min,35.0,326.87
+cayenne,/main/java/org/apache/cayenne/merge/AbstractToModelToken.java,30.0,57min 30s,57.5,73.08
+cayenne,/main/java/org/apache/cayenne/reflect/Accessor.java,0.0,0,0.0,11.56
+cayenne,/main/java/org/apache/cayenne/swing/ActionBinding.java,0.0,0,0.0,22.15
+cayenne,/main/java/org/apache/cayenne/swing/ActionDelegate.java,2.0,0,0.0,8.38
+cayenne,/main/java/org/apache/cayenne/swing/control/ActionLink.java,15.0,0,0.0,30.45
+cayenne,/main/java/org/apache/cayenne/modeler/action/ActionManager.java,0.0,0,0.0,16.14
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/AdapterEditor.java,10.0,30min,30.0,22.5
+cayenne,/main/java/org/apache/cayenne/modeler/util/AdapterMapping.java,0.0,7min 30s,7.5,29.56
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/AdapterView.java,0.0,0,0.0,5.82
+cayenne,/main/java/org/apache/cayenne/merge/AddColumnToDb.java,65.0,7min 30s,7.5,29.56
+cayenne,/main/java/org/apache/cayenne/merge/AddColumnToModel.java,0.0,0,0.0,25.95
+cayenne,/main/java/org/apache/cayenne/modeler/undo/AddPrefetchUndoableEdit.java,10.0,0,0.0,19.59
+cayenne,/main/java/org/apache/cayenne/merge/AddRelationshipToDb.java,20.0,20min,20.0,27.62
+cayenne,/main/java/org/apache/cayenne/merge/AddRelationshipToModel.java,20.0,0,0.0,26.65
+cayenne,/main/java/org/apache/cayenne/di/AdhocObjectFactory.java,0.0,0,0.0,4.85
+cayenne,/main/java/org/apache/cayenne/di/spi/AfterScopeEnd.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/exp/parser/AggregateConditionNode.java,0.0,1h 35min,95.0,29.83
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/AggregateConditionNode.java,0.0,15min,15.0,9.97
+cayenne,/main/java/org/apache/cayenne/map/AliasPathComponent.java,0.0,0,0.0,29.83
+cayenne,/main/java/org/apache/cayenne/tools/AntDataPortDelegate.java,0.0,40min,40.0,54.08
+cayenne,/main/java/org/apache/cayenne/tools/AntLogger.java,0.0,0,0.0,58.61
+cayenne,/main/java/org/apache/cayenne/modeler/Application.java,22.0,32min 30s,32.5,82.43
+cayenne,/main/java/org/apache/cayenne/graph/ArcCreateOperation.java,0.0,7min 30s,7.5,25.76
+cayenne,/main/java/org/apache/cayenne/graph/ArcDeleteOperation.java,0.0,7min 30s,7.5,25.76
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/ArcIterator.java,15.0,0,0.0,26.57
+cayenne,/main/java/org/apache/cayenne/reflect/ArcProperty.java,0.0,0,0.0,8.92
+cayenne,/main/java/org/apache/cayenne/gen/Artifact.java,10.0,0,0.0,17.46
+cayenne,/main/java/org/apache/cayenne/gen/ArtifactGenerationMode.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/maven/plugin/aggregator/ArtifactItem.java,0.0,0,0.0,7.95
+cayenne,/main/java/org/apache/cayenne/gen/ArtifactsGenerationMode.java,0.0,10min,10.0,7.41
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/Artist.java,20.0,27min 30s,27.5,16.06
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/Artist.java,0.0,7min 30s,7.5,8.65
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/Artist.java,20.0,27min 30s,27.5,16.06
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/Artist.java,0.0,7min 30s,7.5,8.65
+cayenne,/main/java/org/apache/cayenne/map/AshwoodEntitySorter.java,10.0,0,0.0,14.12
+cayenne,/main/java/org/apache/cayenne/ashwood/AshwoodEntitySorter.java,99.0,2h 48min,168.0,131.15
+cayenne,/main/java/org/apache/cayenne/test/junit/AssertExtras.java,30.0,0,0.0,17.03
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTAdd.java,40.0,37min 30s,37.5,36.89
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTAnd.java,20.0,35min,35.0,43.33
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTBetween.java,30.0,57min 30s,57.5,31.77
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTBitwiseAnd.java,20.0,47min 30s,47.5,34.06
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTBitwiseNot.java,0.0,27min 30s,27.5,30.53
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTBitwiseOr.java,20.0,37min 30s,37.5,34.06
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTBitwiseXor.java,20.0,37min 30s,37.5,34.06
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTDbPath.java,40.0,1h 15min,75.0,27.97
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTDivide.java,40.0,37min 30s,37.5,36.89
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTEqual.java,39.0,3h 27min,207.0,44.38
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTFalse.java,0.0,7min 30s,7.5,28.86
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTGreater.java,30.0,47min 30s,47.5,29.21
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTGreaterOrEqual.java,30.0,47min 30s,47.5,29.21
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTIn.java,33.0,57min 30s,57.5,33.09
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTLess.java,30.0,47min 30s,47.5,29.21
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTLessOrEqual.java,30.0,47min 30s,47.5,29.21
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTLike.java,20.0,37min 30s,37.5,40.77
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTLikeIgnoreCase.java,20.0,37min 30s,37.5,44.3
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTList.java,5.0,17min 30s,17.5,51.98
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTMultiply.java,20.0,37min 30s,37.5,36.89
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTNamedParameter.java,0.0,17min 30s,17.5,27.0
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTNegate.java,0.0,17min 30s,17.5,42.98
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTNot.java,0.0,17min 30s,17.5,31.77
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTNotBetween.java,30.0,57min 30s,57.5,31.77
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTNotEqual.java,20.0,37min 30s,37.5,32.12
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTNotIn.java,20.0,47min 30s,47.5,33.71
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTNotLike.java,20.0,37min 30s,37.5,36.27
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTNotLikeIgnoreCase.java,20.0,37min 30s,37.5,39.8
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTObjPath.java,5.0,15min,15.0,35.65
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTOr.java,20.0,27min 30s,27.5,42.01
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTPath.java,5.0,17min 30s,17.5,29.83
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTScalar.java,0.0,7min 30s,7.5,30.53
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTSubtract.java,30.0,37min 30s,37.5,39.45
+cayenne,/main/java/org/apache/cayenne/exp/parser/ASTTrue.java,0.0,7min 30s,7.5,28.86
+cayenne,/main/java/org/apache/cayenne/map/Attribute.java,0.0,15min,15.0,22.42
+cayenne,/main/java/org/apache/cayenne/modeler/event/AttributeDisplayEvent.java,0.0,7min 30s,7.5,18.35
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/AttributeErrorMsg.java,0.0,10min,10.0,9.7
+cayenne,/main/java/org/apache/cayenne/map/event/AttributeEvent.java,0.0,7min 30s,7.5,18.97
+cayenne,/main/java/org/apache/cayenne/map/AttributePathComponent.java,0.0,0,0.0,24.01
+cayenne,/main/java/org/apache/cayenne/reflect/AttributeProperty.java,0.0,0,0.0,3.53
+cayenne,/main/java/org/apache/cayenne/reflect/AttributePropertyDecorator.java,0.0,0,0.0,66.1
+cayenne,/main/java/org/apache/cayenne/lifecycle/audit/Auditable.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/lifecycle/audit/AuditableAggregator.java,5.0,0,0.0,13.5
+cayenne,/main/java/org/apache/cayenne/lifecycle/audit/AuditableChild.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/lifecycle/audit/AuditableEntityDescriptor.java,0.0,30min,30.0,12.26
+cayenne,/main/java/org/apache/cayenne/lifecycle/audit/AuditableFilter.java,0.0,10min,10.0,64.05
+cayenne,/main/java/org/apache/cayenne/lifecycle/audit/AuditableOperation.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/lifecycle/audit/AuditableProcessor.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/dba/AutoAdapter.java,25.0,7min 30s,7.5,162.57
+cayenne,/main/java/org/apache/cayenne/modeler/util/combo/AutoCompletion.java,37.0,2h 15min,135.0,33.09
+cayenne,/main/java/org/apache/cayenne/util/Base64Codec.java,153.0,2h 50min,170.0,28.86
+cayenne,/main/java/org/apache/cayenne/reflect/BaseArcProperty.java,0.0,15min,15.0,27.7
+cayenne,/main/java/org/apache/cayenne/configuration/BaseConfigurationNodeVisitor.java,0.0,7min 30s,7.5,57.37
+cayenne,/main/java/org/apache/cayenne/remote/BaseConnection.java,20.0,0,0.0,20.02
+cayenne,/main/java/org/apache/cayenne/BaseContext.java,123.0,3h 52min,232.0,152.81
+cayenne,/main/java/org/apache/cayenne/modeler/graph/BaseGraphBuilder.java,82.0,2h 17min,137.0,136.24
+cayenne,/main/java/org/apache/cayenne/reflect/BaseProperty.java,0.0,7min 30s,7.5,49.5
+cayenne,/main/java/org/apache/cayenne/query/BaseQueryMetadata.java,68.0,2h,120.0,120.8
+cayenne,/main/java/org/apache/cayenne/remote/service/BaseRemoteService.java,32.0,17min 30s,17.5,38.29
+cayenne,/main/java/org/apache/cayenne/access/jdbc/BaseRowReader.java,0.0,0,0.0,28.05
+cayenne,/main/java/org/apache/cayenne/access/dbsync/BaseSchemaUpdateStrategy.java,0.0,0,0.0,14.82
+cayenne,/main/java/org/apache/cayenne/access/jdbc/BaseSQLAction.java,5.0,15min,15.0,31.5
+cayenne,/main/java/org/apache/cayenne/reflect/BaseToManyProperty.java,0.0,25min,25.0,64.67
+cayenne,/main/java/org/apache/cayenne/reflect/BaseToOneProperty.java,0.0,25min,25.0,24.09
+cayenne,/main/java/org/apache/cayenne/project/upgrade/BaseUpgradeHandler.java,15.0,1h 10min,70.0,55.05
+cayenne,/main/java/org/apache/cayenne/map/naming/BasicNamingStrategy.java,0.0,0,0.0,22.15
+cayenne,/main/java/org/apache/cayenne/access/jdbc/BatchAction.java,37.0,1h 40min,100.0,307.68
+cayenne,/main/java/org/apache/cayenne/query/BatchQuery.java,5.0,7min 30s,7.5,40.15
+cayenne,/main/java/org/apache/cayenne/access/trans/BatchQueryBuilder.java,55.0,7min 30s,7.5,59.74
+cayenne,/main/java/org/apache/cayenne/access/jdbc/BatchQueryBuilderFactory.java,0.0,0,0.0,6.79
+cayenne,/main/java/org/apache/cayenne/reflect/BeanAccessor.java,40.0,10min,10.0,28.67
+cayenne,/main/java/org/apache/cayenne/swing/BeanActionBinding.java,0.0,7min 30s,7.5,20.56
+cayenne,/main/java/org/apache/cayenne/validation/BeanValidationFailure.java,5.0,2h 7min,127.0,56.29
+cayenne,/main/java/org/apache/cayenne/di/BeforeScopeEnd.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/modeler/util/BevelArrowIcon.java,65.0,40min,40.0,60.79
+cayenne,/main/java/org/apache/cayenne/access/types/BigDecimalType.java,0.0,10min,10.0,32.47
+cayenne,/main/java/org/apache/cayenne/access/types/BigIntegerType.java,10.0,20min,20.0,34.41
+cayenne,/main/java/org/apache/cayenne/maven/plugin/aggregator/BinAggregatorMojo.java,0.0,0,0.0,11.21
+cayenne,/main/java/org/apache/cayenne/access/jdbc/BindDirective.java,40.0,15min,15.0,49.58
+cayenne,/main/java/org/apache/cayenne/access/jdbc/BindEqualDirective.java,20.0,0,0.0,17.65
+cayenne,/main/java/org/apache/cayenne/di/Binder.java,0.0,0,0.0,8.73
+cayenne,/main/java/org/apache/cayenne/di/spi/Binding.java,0.0,0,0.0,14.82
+cayenne,/main/java/org/apache/cayenne/swing/BindingBase.java,5.0,1h 25min,85.0,47.37
+cayenne,/main/java/org/apache/cayenne/swing/BindingBuilder.java,7.0,0,0.0,85.5
+cayenne,/main/java/org/apache/cayenne/di/BindingBuilder.java,0.0,0,0.0,21.96
+cayenne,/main/java/org/apache/cayenne/swing/BindingDelegate.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/swing/BindingException.java,0.0,0,0.0,23.39
+cayenne,/main/java/org/apache/cayenne/swing/BindingExpression.java,0.0,30min,30.0,32.47
+cayenne,/main/java/org/apache/cayenne/swing/BindingFactory.java,0.0,7min 30s,7.5,61.57
+cayenne,/main/java/org/apache/cayenne/access/jdbc/BindNotEqualDirective.java,20.0,10min,10.0,17.65
+cayenne,/main/java/org/apache/cayenne/access/jdbc/BindObjectEqualDirective.java,42.0,1h 27min,87.0,47.91
+cayenne,/main/java/org/apache/cayenne/access/jdbc/BindObjectNotEqualDirective.java,20.0,17min 30s,17.5,26.03
+cayenne,/main/java/org/apache/cayenne/modeler/util/BlankIcon.java,15.0,0,0.0,23.12
+cayenne,/main/java/org/apache/cayenne/access/types/BooleanType.java,10.0,7min 30s,7.5,35.03
+cayenne,/main/java/org/apache/cayenne/remote/BootstrapMessage.java,0.0,0,0.0,7.06
+cayenne,/main/java/org/apache/cayenne/swing/BoundComponent.java,0.0,0,0.0,5.82
+cayenne,/main/java/org/apache/cayenne/modeler/util/BrowserControl.java,30.0,0,0.0,18.97
+cayenne,/main/java/org/apache/cayenne/access/types/ByteArrayType.java,30.0,57min 30s,57.5,83.45
+cayenne,/main/java/org/apache/cayenne/access/types/ByteOrCharArrayFactory.java,8.0,1h 50min,110.0,99.22
+cayenne,/main/java/org/apache/cayenne/access/types/ByteType.java,0.0,0,0.0,30.88
+cayenne,/main/java/org/apache/cayenne/lifecycle/cache/CacheGroups.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/lifecycle/cache/CacheInvalidationFilter.java,0.0,10min,10.0,22.93
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datadomain/CacheSyncConfigController.java,29.0,1h 10min,70.0,78.9
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datadomain/CacheSyncConfigView.java,270.0,15min,15.0,22.23
+cayenne,/main/java/org/apache/cayenne/access/types/CalendarType.java,30.0,1h 14min,74.0,48.96
+cayenne,/main/java/org/apache/cayenne/map/CallbackDescriptor.java,30.0,11min,11.0,18.62
+cayenne,/main/java/org/apache/cayenne/modeler/editor/CallbackDescriptorTableModel.java,40.0,2h 37min,157.0,24.44
+cayenne,/main/java/org/apache/cayenne/map/CallbackMap.java,0.0,7min 30s,7.5,36.19
+cayenne,/main/java/org/apache/cayenne/modeler/event/CallbackMethodDisplayEvent.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/event/CallbackMethodDisplayListener.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/modeler/event/CallbackMethodEvent.java,0.0,7min 30s,7.5,1.94
+cayenne,/main/java/org/apache/cayenne/modeler/event/CallbackMethodListener.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/reflect/CallbackOnEntity.java,10.0,10min,10.0,25.76
+cayenne,/main/java/org/apache/cayenne/reflect/CallbackOnListener.java,20.0,30min,30.0,49.58
+cayenne,/main/java/org/apache/cayenne/modeler/editor/CallbackType.java,2.0,1h 3min,63.0,13.15
+cayenne,/main/java/org/apache/cayenne/modeler/event/CallbackTypeSelectionEvent.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/event/CallbackTypeSelectionListener.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/query/CapsStrategy.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/Cayenne.java,17.0,2h 55min,175.0,67.58
+cayenne,/main/java/org/apache/cayenne/modeler/util/CayenneAction.java,295.0,7min 30s,7.5,47.13
+cayenne,/main/java/org/apache/cayenne/modeler/util/CayenneCellEditor.java,0.0,20min,20.0,20.21
+cayenne,/main/java/org/apache/cayenne/CayenneContext.java,70.0,1h 22min,82.0,116.57
+cayenne,/main/java/org/apache/cayenne/CayenneContextChildDiffLoader.java,0.0,35min,35.0,32.74
+cayenne,/main/java/org/apache/cayenne/configuration/rop/client/CayenneContextFactory.java,0.0,0,0.0,26.03
+cayenne,/main/java/org/apache/cayenne/CayenneContextGraphManager.java,20.0,55min,55.0,160.25
+cayenne,/main/java/org/apache/cayenne/CayenneContextMergeHandler.java,40.0,1h 25min,85.0,79.49
+cayenne,/main/java/org/apache/cayenne/CayenneContextQueryAction.java,0.0,1h 25min,85.0,37.86
+cayenne,/main/java/org/apache/cayenne/modeler/util/CayenneController.java,20.0,47min 30s,47.5,63.19
+cayenne,/main/java/org/apache/cayenne/CayenneDataObject.java,204.0,4h 46min,286.0,439.37
+cayenne,/main/java/org/apache/cayenne/modeler/util/CayenneDialog.java,325.0,25min,25.0,104.55
+cayenne,/main/java/org/apache/cayenne/event/CayenneEvent.java,32.0,7min 30s,7.5,25.76
+cayenne,/main/java/org/apache/cayenne/CayenneException.java,15.0,0,0.0,22.5
+cayenne,/main/java/org/apache/cayenne/configuration/web/CayenneFilter.java,0.0,0,0.0,23.82
+cayenne,/main/java/org/apache/cayenne/tools/CayenneGeneratorEntityFilterAction.java,20.0,10min,10.0,20.37
+cayenne,/main/java/org/apache/cayenne/tools/CayenneGeneratorMapLoaderAction.java,20.0,0,0.0,28.59
+cayenne,/main/java/org/apache/cayenne/tools/CayenneGeneratorMojo.java,24.0,55min,55.0,36.97
+cayenne,/main/java/org/apache/cayenne/tools/CayenneGeneratorTask.java,20.0,22min 30s,22.5,64.32
+cayenne,/main/java/org/apache/cayenne/util/CayenneMapEntry.java,0.0,0,0.0,4.77
+cayenne,/main/java/org/apache/cayenne/modeler/CayenneModelerController.java,14.0,50min,50.0,87.2
+cayenne,/main/java/org/apache/cayenne/modeler/CayenneModelerFrame.java,315.0,1h 2min,62.0,78.28
+cayenne,/main/java/org/apache/cayenne/modeler/init/CayenneModelerModule.java,0.0,0,0.0,8.65
+cayenne,/main/java/org/apache/cayenne/tools/CayenneModelerMojo.java,0.0,10min,10.0,18.27
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/CayenneModelerPreferenceEditor.java,5.0,0,0.0,12.53
+cayenne,/main/java/org/apache/cayenne/pref/CayennePreference.java,20.0,17min 30s,17.5,34.06
+cayenne,/main/java/org/apache/cayenne/pref/CayennePreferenceEditor.java,0.0,22min 30s,22.5,38.1
+cayenne,/main/java/org/apache/cayenne/project/CayenneProjectModule.java,0.0,0,0.0,8.65
+cayenne,/main/java/org/apache/cayenne/pref/CayenneProjectPreferences.java,20.0,0,0.0,24.44
+cayenne,/main/java/org/apache/cayenne/configuration/CayenneRuntime.java,0.0,20min,20.0,29.64
+cayenne,/main/java/org/apache/cayenne/CayenneRuntimeException.java,0.0,7min 30s,7.5,20.21
+cayenne,/main/java/org/apache/cayenne/remote/hessian/CayenneSerializerFactory.java,0.0,20min,20.0,14.12
+cayenne,/main/java/org/apache/cayenne/modeler/util/CayenneTable.java,17.0,47min 30s,47.5,54.73
+cayenne,/main/java/org/apache/cayenne/modeler/util/CayenneTableModel.java,100.0,1h 47min,107.0,98.22
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CayenneTableModelUndoableEdit.java,70.0,0,0.0,35.73
+cayenne,/main/java/org/apache/cayenne/tools/CayenneTask.java,24.0,7min 30s,7.5,21.53
+cayenne,/main/java/org/apache/cayenne/modeler/util/CayenneTransferable.java,0.0,37min 30s,37.5,52.25
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CayenneUndoableEdit.java,0.0,7min 30s,7.5,19.24
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CayenneUndoManager.java,10.0,0,0.0,24.36
+cayenne,/main/java/org/apache/cayenne/modeler/util/CayenneUserDir.java,10.0,25min,25.0,19.24
+cayenne,/main/java/org/apache/cayenne/modeler/util/CellEditorForAttributeTable.java,32.0,0,0.0,47.21
+cayenne,/main/java/org/apache/cayenne/modeler/util/CellRenderers.java,1168.0,3h 27min,207.0,103.85
+cayenne,/main/java/org/apache/cayenne/access/jdbc/ChainDirective.java,26.0,17min 30s,17.5,22.85
+cayenne,/main/java/org/apache/cayenne/modeler/action/ChangeObjEntityListenerClassAction.java,0.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/lifecycle/changeset/ChangeSet.java,10.0,0,0.0,4.5
+cayenne,/main/java/org/apache/cayenne/lifecycle/changeset/ChangeSetFilter.java,0.0,10min,10.0,19.32
+cayenne,/main/java/org/apache/cayenne/access/types/CharType.java,0.0,47min 30s,47.5,76.04
+cayenne,/main/java/org/apache/cayenne/swing/CheckBoxBinding.java,0.0,0,0.0,15.01
+cayenne,/main/java/org/apache/cayenne/graph/ChildDiffLoader.java,7.0,1h 25min,85.0,63.35
+cayenne,/main/java/org/apache/cayenne/pref/ChildrenMapPreference.java,87.0,7min 30s,7.5,51.98
+cayenne,/main/java/org/apache/cayenne/access/jdbc/ChunkDirective.java,15.0,10min,10.0,22.85
+cayenne,/main/java/org/apache/cayenne/modeler/util/CircularArray.java,134.0,1h 56min,116.0,41.9
+cayenne,/main/java/org/apache/cayenne/reflect/ClassDescriptor.java,0.0,0,0.0,36.97
+cayenne,/main/java/org/apache/cayenne/reflect/ClassDescriptorFactory.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/reflect/ClassDescriptorMap.java,5.0,20min,20.0,41.12
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/ClassesTabController.java,0.0,17min 30s,17.5,25.68
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/ClassesTabPanel.java,30.0,7min 30s,7.5,16.41
+cayenne,/main/java/org/apache/cayenne/gen/ClassGenerationAction.java,120.0,7h 55min,475.0,147.15
+cayenne,/main/java/org/apache/cayenne/gen/ClassGeneratorResourceLoader.java,5.0,1h 20min,80.0,30.18
+cayenne,/main/java/org/apache/cayenne/resource/ClassLoaderResourceLocator.java,0.0,0,0.0,18.0
+cayenne,/main/java/org/apache/cayenne/modeler/ClassLoadingService.java,0.0,0,0.0,6.79
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/ClassNameUpdater.java,0.0,55min,55.0,27.7
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/ClassNameUpdaterView.java,270.0,0,0.0,16.49
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/ClasspathPreferences.java,42.0,25min,25.0,74.59
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/ClasspathPreferencesView.java,0.0,0,0.0,15.52
+cayenne,/main/java/org/apache/cayenne/remote/ClientChannel.java,96.0,1h,60.0,90.86
+cayenne,/main/java/org/apache/cayenne/configuration/rop/client/ClientChannelProvider.java,5.0,0,0.0,15.09
+cayenne,/main/java/org/apache/cayenne/gen/ClientClassGenerationAction.java,0.0,2h 7min,127.0,26.38
+cayenne,/main/java/org/apache/cayenne/remote/ClientConnection.java,10.0,0,0.0,6.79
+cayenne,/main/java/org/apache/cayenne/gen/ClientDataMapArtifact.java,0.0,0,0.0,18.27
+cayenne,/main/java/org/apache/cayenne/gen/ClientEntityArtifact.java,0.0,0,0.0,13.77
+cayenne,/main/java/org/apache/cayenne/map/ClientEntityResolver.java,0.0,0,0.0,16.68
+cayenne,/main/java/org/apache/cayenne/configuration/rop/client/ClientLocalRuntime.java,0.0,7min 30s,7.5,24.09
+cayenne,/main/java/org/apache/cayenne/remote/ClientMessage.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/ClientModeController.java,0.0,17min 30s,17.5,25.33
+cayenne,/main/java/org/apache/cayenne/configuration/rop/client/ClientModule.java,0.0,0,0.0,8.38
+cayenne,/main/java/org/apache/cayenne/map/ClientObjAttribute.java,0.0,7min 30s,7.5,16.14
+cayenne,/main/java/org/apache/cayenne/map/ClientObjEntity.java,0.0,7min 30s,7.5,13.5
+cayenne,/main/java/org/apache/cayenne/map/ClientObjRelationship.java,0.0,27min 30s,27.5,22.5
+cayenne,/main/java/org/apache/cayenne/access/ClientReturnDiffFilter.java,2.0,40min,40.0,45.0
+cayenne,/main/java/org/apache/cayenne/configuration/rop/client/ClientRuntime.java,0.0,0,0.0,17.03
+cayenne,/main/java/org/apache/cayenne/remote/hessian/ClientSerializerFactory.java,0.0,30min,30.0,19.94
+cayenne,/main/java/org/apache/cayenne/access/ClientServerChannel.java,10.0,0,0.0,30.53
+cayenne,/main/java/org/apache/cayenne/access/ClientServerChannelQueryAction.java,0.0,1h 10min,70.0,71.11
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/CodeGeneratorController.java,20.0,7min 30s,7.5,29.83
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/CodeGeneratorControllerBase.java,30.0,1h 42min,102.0,63.7
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/CodeGeneratorDialog.java,270.0,7min 30s,7.5,16.14
+cayenne,/main/java/org/apache/cayenne/modeler/CodeTemplateManager.java,0.0,27min 30s,27.5,31.93
+cayenne,/main/java/org/apache/cayenne/modeler/util/CodeValidationUtil.java,50.0,40min,40.0,23.12
+cayenne,/main/java/org/apache/cayenne/access/jdbc/ColumnDescriptor.java,20.0,17min 30s,17.5,72.59
+cayenne,/main/java/org/apache/cayenne/modeler/util/combo/ComboBoxCellEditor.java,5.0,27min 30s,27.5,35.38
+cayenne,/main/java/org/apache/cayenne/swing/ComboSelectionBinding.java,0.0,0,0.0,36.54
+cayenne,/main/java/org/apache/cayenne/log/CommonsJdbcEventLogger.java,91.0,2h 10min,130.0,101.75
+cayenne,/main/java/org/apache/cayenne/modeler/util/Comparators.java,51.0,4h 5min,245.0,86.58
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/CompiledExpression.java,0.0,20min,20.0,41.63
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/Compiler.java,94.0,1h 17min,77.0,280.3
+cayenne,/main/java/org/apache/cayenne/modeler/pref/ComponentGeometry.java,77.0,7min 30s,7.5,75.8
+cayenne,/main/java/org/apache/cayenne/graph/CompoundDiff.java,2.0,40min,40.0,39.1
+cayenne,/main/java/org/apache/cayenne/access/jdbc/CompoundRowReader.java,0.0,0,0.0,18.0
+cayenne,/main/java/org/apache/cayenne/util/concurrentlinkedhashmap/ConcurrentLinkedHashMap.java,393.0,7h 43min,463.0,633.29
+cayenne,/main/java/org/apache/cayenne/exp/parser/ConditionNode.java,0.0,15min,15.0,12.18
+cayenne,/main/java/org/apache/cayenne/ConfigurationException.java,0.0,0,0.0,16.06
+cayenne,/main/java/org/apache/cayenne/configuration/ConfigurationNameMapper.java,0.0,0,0.0,8.73
+cayenne,/main/java/org/apache/cayenne/configuration/ConfigurationNode.java,0.0,0,0.0,4.5
+cayenne,/main/java/org/apache/cayenne/project/ConfigurationNodeParentGetter.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/project/validation/ConfigurationNodeValidator.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/configuration/ConfigurationNodeVisitor.java,0.0,0,0.0,42.33
+cayenne,/main/java/org/apache/cayenne/project/ConfigurationSaver.java,0.0,0,0.0,19.94
+cayenne,/main/java/org/apache/cayenne/project/ConfigurationSourceGetter.java,0.0,0,0.0,13.15
+cayenne,/main/java/org/apache/cayenne/project/ConfigurationSourceSetter.java,0.0,0,0.0,12.88
+cayenne,/main/java/org/apache/cayenne/configuration/ConfigurationTree.java,2.0,0,0.0,12.88
+cayenne,/main/java/org/apache/cayenne/modeler/action/ConfigurePreferencesAction.java,5.0,0,0.0,15.36
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/ConfirmRemoveDialog.java,5.0,7min 30s,7.5,18.97
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/ConnectionWizard.java,40.0,27min 30s,27.5,14.82
+cayenne,/main/java/org/apache/cayenne/conn/ConnectionWrapper.java,25.0,5h 16min,316.0,340.35
+cayenne,/main/java/org/apache/cayenne/configuration/Constants.java,10.0,0,0.0,14.55
+cayenne,/main/java/org/apache/cayenne/di/spi/ConstructorInjectingProvider.java,41.0,1h 7min,67.0,28.32
+cayenne,/main/java/org/apache/cayenne/conn/ContainerPoolFactory.java,25.0,35min,35.0,10.94
+cayenne,/main/java/org/apache/cayenne/util/ConversionUtil.java,5.0,4h 40min,280.0,32.12
+cayenne,/main/java/org/apache/cayenne/reflect/Converter.java,0.0,0,0.0,9.0
+cayenne,/main/java/org/apache/cayenne/reflect/ConverterFactory.java,68.0,3h 42min,222.0,25.06
+cayenne,/main/java/org/apache/cayenne/modeler/action/CopyAction.java,7.0,27min 30s,27.5,34.06
+cayenne,/main/java/org/apache/cayenne/modeler/action/CopyAttributeAction.java,24.0,45min,45.0,18.62
+cayenne,/main/java/org/apache/cayenne/modeler/action/CopyProcedureParameterAction.java,4.0,35min,35.0,16.06
+cayenne,/main/java/org/apache/cayenne/modeler/action/CopyRelationshipAction.java,4.0,35min,35.0,16.06
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateAttributeAction.java,10.0,45min,45.0,50.2
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateAttributeUndoableEdit.java,10.0,0,0.0,39.26
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateCallbackMethodAction.java,0.0,15min,15.0,4.5
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateCallbackMethodForListenerAction.java,0.0,15min,15.0,7.06
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateCallbackMethodUndoableEdit.java,10.0,0,0.0,24.44
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateDataMapAction.java,5.0,10min,10.0,20.56
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateDataMapEntityListenerAction.java,0.0,7min 30s,7.5,13.5
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateDataMapEntityListenerUndoableEdit.java,10.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateDataMapUndoableEdit.java,10.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateDbEntityAction.java,5.0,10min,10.0,24.44
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateDbEntityUndoableEdit.java,10.0,0,0.0,23.12
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateEmbAttributeUndoableEdit.java,10.0,0,0.0,25.68
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateEmbeddableAction.java,10.0,20min,20.0,33.71
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateEmbeddableUndoableEdit.java,10.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateEntityListenerUndoableEdit.java,10.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/access/dbsync/CreateIfNoSchemaStrategy.java,2.0,0,0.0,33.09
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateNodeAction.java,5.0,10min,10.0,23.47
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateNodeUndoableEdit.java,10.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateObjEntityAction.java,10.0,27min 30s,27.5,33.71
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateObjEntityListenerAction.java,0.0,0,0.0,14.12
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateObjEntityUndoableEdit.java,10.0,0,0.0,23.12
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateProcedureAction.java,10.0,10min,10.0,28.59
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateProcedureParameterAction.java,5.0,10min,10.0,22.5
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateProcedureUndoableEdit.java,10.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateQueryAction.java,5.0,0,0.0,26.03
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateQueryUndoableEdit.java,10.0,0,0.0,23.47
+cayenne,/main/java/org/apache/cayenne/modeler/action/CreateRelationshipAction.java,10.0,20min,20.0,32.82
+cayenne,/main/java/org/apache/cayenne/modeler/undo/CreateRelationshipUndoableEdit.java,10.0,0,0.0,39.18
+cayenne,/main/java/org/apache/cayenne/merge/CreateTableToDb.java,0.0,0,0.0,30.45
+cayenne,/main/java/org/apache/cayenne/merge/CreateTableToModel.java,5.0,17min 30s,17.5,20.56
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/CustomDataSourceEditor.java,0.0,7min 30s,7.5,11.56
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/CustomDataSourceView.java,0.0,0,0.0,5.82
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/CustomModeController.java,30.0,37min 30s,37.5,40.15
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/CustomModePanel.java,0.0,22min 30s,22.5,35.46
+cayenne,/main/java/org/apache/cayenne/di/spi/CustomProvidersProvider.java,0.0,0,0.0,14.12
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datadomain/CustomRemoteEventsConfigPanel.java,0.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/modeler/util/combo/CustomTypeComboBoxEditor.java,19.0,50min,50.0,28.86
+cayenne,/main/java/org/apache/cayenne/modeler/action/CutAction.java,5.0,7min 30s,7.5,25.06
+cayenne,/main/java/org/apache/cayenne/modeler/action/CutAttributeAction.java,24.0,35min,35.0,17.03
+cayenne,/main/java/org/apache/cayenne/modeler/action/CutProcedureParameterAction.java,4.0,25min,25.0,14.47
+cayenne,/main/java/org/apache/cayenne/modeler/action/CutRelationshipAction.java,4.0,25min,25.0,14.47
+cayenne,/main/java/org/apache/cayenne/DataChannel.java,10.0,0,0.0,10.24
+cayenne,/main/java/org/apache/cayenne/configuration/DataChannelDescriptor.java,105.0,42min 30s,42.5,46.51
+cayenne,/main/java/org/apache/cayenne/configuration/DataChannelDescriptorLoader.java,5.0,0,0.0,4.85
+cayenne,/main/java/org/apache/cayenne/configuration/DataChannelDescriptorMerger.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/DataChannelFilter.java,0.0,0,0.0,13.58
+cayenne,/main/java/org/apache/cayenne/DataChannelFilterChain.java,0.0,0,0.0,10.94
+cayenne,/main/java/org/apache/cayenne/DataChannelListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/project/DataChannelProjectLoader.java,0.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/DataChannelSyncCallbackAction.java,2.0,1h,60.0,109.51
+cayenne,/main/java/org/apache/cayenne/DataChannelSyncFilterChain.java,0.0,0,0.0,8.73
+cayenne,/main/java/org/apache/cayenne/project/validation/DataChannelValidator.java,0.0,0,0.0,11.21
+cayenne,/main/java/org/apache/cayenne/access/DataContext.java,132.0,5h 7min,307.0,152.97
+cayenne,/main/java/org/apache/cayenne/access/DataContextDelegate.java,0.0,0,0.0,12.61
+cayenne,/main/java/org/apache/cayenne/configuration/server/DataContextFactory.java,0.0,30min,30.0,30.34
+cayenne,/main/java/org/apache/cayenne/access/DataContextMergeHandler.java,10.0,1h 7min,67.0,63.08
+cayenne,/main/java/org/apache/cayenne/access/DataContextQueryAction.java,0.0,2h 7min,127.0,33.44
+cayenne,/main/java/org/apache/cayenne/access/DataDomain.java,167.0,1h 20min,80.0,213.41
+cayenne,/main/java/org/apache/cayenne/access/DataDomainDBDiffBuilder.java,0.0,10min,10.0,47.45
+cayenne,/main/java/org/apache/cayenne/access/DataDomainDeleteBucket.java,15.0,17min 30s,17.5,22.77
+cayenne,/main/java/org/apache/cayenne/access/DataDomainFlattenedBucket.java,0.0,0,0.0,27.0
+cayenne,/main/java/org/apache/cayenne/access/DataDomainFlushAction.java,27.0,1h 10min,70.0,93.34
+cayenne,/main/java/org/apache/cayenne/access/DataDomainFlushObserver.java,45.0,25min,25.0,44.3
+cayenne,/main/java/org/apache/cayenne/modeler/graph/DataDomainGraphTab.java,0.0,32min 30s,32.5,33.17
+cayenne,/main/java/org/apache/cayenne/access/DataDomainIndirectDiffBuilder.java,2.0,0,0.0,86.04
+cayenne,/main/java/org/apache/cayenne/access/DataDomainInsertBucket.java,87.0,2h 2min,122.0,259.69
+cayenne,/main/java/org/apache/cayenne/access/DataDomainLegacyQueryAction.java,20.0,27min 30s,27.5,103.42
+cayenne,/main/java/org/apache/cayenne/configuration/server/DataDomainLoadException.java,285.0,7min 30s,7.5,25.41
+cayenne,/main/java/org/apache/cayenne/configuration/server/DataDomainProvider.java,39.0,57min 30s,57.5,125.68
+cayenne,/main/java/org/apache/cayenne/access/DataDomainQuery.java,65.0,7min 30s,7.5,79.82
+cayenne,/main/java/org/apache/cayenne/access/DataDomainQueryAction.java,113.0,5h 42min,342.0,236.05
+cayenne,/main/java/org/apache/cayenne/access/DataDomainSyncBucket.java,77.0,1h 17min,77.0,90.35
+cayenne,/main/java/org/apache/cayenne/modeler/editor/DataDomainTabbedView.java,0.0,7min 30s,7.5,14.82
+cayenne,/main/java/org/apache/cayenne/access/DataDomainUpdateBucket.java,29.0,25min,25.0,157.56
+cayenne,/main/java/org/apache/cayenne/modeler/editor/DataDomainView.java,17.0,1h 32min,92.0,43.49
+cayenne,/main/java/org/apache/cayenne/map/DataMap.java,63.0,5h 57min,357.0,279.81
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/Datamap.java,0.0,10min,10.0,19.86
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/Datamap.java,0.0,10min,10.0,19.86
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/Datamap.java,0.0,10min,10.0,19.86
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/Datamap.java,0.0,10min,10.0,19.86
+cayenne,/main/java/org/apache/cayenne/gen/DataMapArtifact.java,2.0,1h 17min,77.0,45.62
+cayenne,/main/java/org/apache/cayenne/modeler/pref/DataMapDefaults.java,7.0,55min,55.0,64.48
+cayenne,/main/java/org/apache/cayenne/modeler/event/DataMapDisplayEvent.java,0.0,15min,15.0,17.38
+cayenne,/main/java/org/apache/cayenne/modeler/event/DataMapDisplayListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/DataMapErrorMsg.java,0.0,0,0.0,9.97
+cayenne,/main/java/org/apache/cayenne/configuration/event/DataMapEvent.java,0.0,7min 30s,7.5,13.85
+cayenne,/main/java/org/apache/cayenne/configuration/event/DataMapListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/configuration/DataMapLoader.java,5.0,0,0.0,5.82
+cayenne,/main/java/org/apache/cayenne/modeler/editor/DataMapTabbedView.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/gen/DataMapUtils.java,48.0,1h 15min,75.0,39.88
+cayenne,/main/java/org/apache/cayenne/project/validation/DataMapValidator.java,0.0,50min,50.0,24.09
+cayenne,/main/java/org/apache/cayenne/modeler/editor/DataMapView.java,45.0,4h 40min,280.0,100.05
+cayenne,/main/java/org/apache/cayenne/access/DataNode.java,44.0,1h 2min,62.0,304.12
+cayenne,/main/java/org/apache/cayenne/modeler/pref/DataNodeDefaults.java,0.0,15min,15.0,11.91
+cayenne,/main/java/org/apache/cayenne/configuration/DataNodeDescriptor.java,45.0,55min,55.0,59.12
+cayenne,/main/java/org/apache/cayenne/modeler/event/DataNodeDisplayEvent.java,0.0,7min 30s,7.5,9.35
+cayenne,/main/java/org/apache/cayenne/modeler/event/DataNodeDisplayListener.java,0.0,0,0.0,4.5
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/DataNodeEditor.java,0.0,0,0.0,11.56
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/DataNodeErrorMsg.java,0.0,0,0.0,8.38
+cayenne,/main/java/org/apache/cayenne/configuration/event/DataNodeEvent.java,0.0,7min 30s,7.5,14.82
+cayenne,/main/java/org/apache/cayenne/configuration/event/DataNodeListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/access/DataNodeQueryAction.java,25.0,7min 30s,7.5,19.94
+cayenne,/main/java/org/apache/cayenne/access/DataNodeSyncQualifierDescriptor.java,42.0,50min,50.0,20.02
+cayenne,/main/java/org/apache/cayenne/project/validation/DataNodeValidator.java,20.0,20min,20.0,22.85
+cayenne,/main/java/org/apache/cayenne/DataObject.java,10.0,0,0.0,18.7
+cayenne,/main/java/org/apache/cayenne/reflect/generic/DataObjectAccessor.java,40.0,10min,10.0,18.97
+cayenne,/main/java/org/apache/cayenne/reflect/generic/DataObjectAttributeProperty.java,5.0,7min 30s,7.5,21.8
+cayenne,/main/java/org/apache/cayenne/reflect/generic/DataObjectBaseProperty.java,80.0,45min,45.0,66.53
+cayenne,/main/java/org/apache/cayenne/reflect/generic/DataObjectDescriptor.java,0.0,0,0.0,11.56
+cayenne,/main/java/org/apache/cayenne/reflect/generic/DataObjectDescriptorFactory.java,0.0,10min,10.0,47.56
+cayenne,/main/java/org/apache/cayenne/access/trans/DataObjectMatchTranslator.java,2.0,10min,10.0,36.08
+cayenne,/main/java/org/apache/cayenne/reflect/generic/DataObjectToManyMapProperty.java,0.0,15min,15.0,15.79
+cayenne,/main/java/org/apache/cayenne/reflect/generic/DataObjectToManyProperty.java,60.0,15min,15.0,67.15
+cayenne,/main/java/org/apache/cayenne/reflect/generic/DataObjectToOneProperty.java,45.0,15min,15.0,43.33
+cayenne,/main/java/org/apache/cayenne/DataObjectUtils.java,10.0,0,0.0,34.84
+cayenne,/main/java/org/apache/cayenne/access/DataPort.java,15.0,45min,45.0,84.53
+cayenne,/main/java/org/apache/cayenne/access/DataPortDelegate.java,0.0,0,0.0,20.37
+cayenne,/main/java/org/apache/cayenne/tools/DataPortTask.java,12.0,15min,15.0,39.61
+cayenne,/main/java/org/apache/cayenne/DataRow.java,30.0,0,0.0,33.44
+cayenne,/main/java/org/apache/cayenne/remote/hessian/DataRowDeserializer.java,5.0,0,0.0,24.09
+cayenne,/main/java/org/apache/cayenne/access/jdbc/DataRowPostProcessor.java,26.0,57min 30s,57.5,58.5
+cayenne,/main/java/org/apache/cayenne/access/DataRowStore.java,117.0,2h 20min,140.0,103.82
+cayenne,/main/java/org/apache/cayenne/access/DataRowUtils.java,35.0,1h 30min,90.0,40.23
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/DataSourceCreator.java,20.0,30min,30.0,36.27
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/DataSourceCreatorView.java,270.0,0,0.0,19.67
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/DataSourceDuplicator.java,20.0,30min,30.0,37.24
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/DataSourceDuplicatorView.java,270.0,0,0.0,16.14
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/DataSourceEditor.java,0.0,7min 30s,7.5,22.85
+cayenne,/main/java/org/apache/cayenne/configuration/server/DataSourceFactory.java,20.0,0,0.0,5.47
+cayenne,/main/java/org/apache/cayenne/conn/DataSourceInfo.java,91.0,5h 37min,337.0,79.92
+cayenne,/main/java/org/apache/cayenne/project/upgrade/DataSourceInfoLoader_3_0_0_1.java,137.0,1h 50min,110.0,88.6
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/DataSourcePreferences.java,81.0,1h 17min,77.0,42.17
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/DataSourcePreferencesView.java,0.0,15min,15.0,25.49
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/DataSourceWizard.java,65.0,45min,45.0,45.7
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/DataSourceWizardView.java,270.0,15min,15.0,20.64
+cayenne,/main/java/org/apache/cayenne/maven/plugin/date/DateMojo.java,0.0,0,0.0,17.73
+cayenne,/main/java/org/apache/cayenne/access/types/DateType.java,0.0,10min,10.0,32.47
+cayenne,/main/java/org/apache/cayenne/dba/db2/DB2ActionBuilder.java,0.0,0,0.0,13.15
+cayenne,/main/java/org/apache/cayenne/dba/db2/DB2Adapter.java,151.0,1h 3min,63.0,64.86
+cayenne,/main/java/org/apache/cayenne/dba/db2/DB2MergerFactory.java,20.0,20min,20.0,18.27
+cayenne,/main/java/org/apache/cayenne/dba/db2/DB2PkGenerator.java,61.0,27min 30s,27.5,82.59
+cayenne,/main/java/org/apache/cayenne/dba/db2/DB2ProcedureAction.java,45.0,15min,15.0,345.41
+cayenne,/main/java/org/apache/cayenne/dba/db2/DB2QualifierTranslator.java,27.0,25min,25.0,25.76
+cayenne,/main/java/org/apache/cayenne/dba/db2/DB2Sniffer.java,0.0,7min 30s,7.5,16.06
+cayenne,/main/java/org/apache/cayenne/dba/DbAdapter.java,45.0,0,0.0,45.08
+cayenne,/main/java/org/apache/cayenne/configuration/server/DbAdapterDetector.java,0.0,0,0.0,5.47
+cayenne,/main/java/org/apache/cayenne/dba/DbAdapterFactory.java,10.0,0,0.0,5.47
+cayenne,/main/java/org/apache/cayenne/configuration/server/DbAdapterFactory.java,20.0,0,0.0,5.82
+cayenne,/main/java/org/apache/cayenne/dba/DbAdapterFactoryChain.java,10.0,10min,10.0,23.55
+cayenne,/main/java/org/apache/cayenne/modeler/util/DbAdapterInfo.java,337.0,7min 30s,7.5,36.27
+cayenne,/main/java/org/apache/cayenne/map/DbAttribute.java,5.0,42min 30s,42.5,47.4
+cayenne,/main/java/org/apache/cayenne/modeler/event/DbAttributeDisplayListener.java,0.0,0,0.0,1.94
+cayenne,/main/java/org/apache/cayenne/map/event/DbAttributeListener.java,0.0,0,0.0,4.5
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/DbAttributeTableModel.java,70.0,7h 30min,450.0,133.06
+cayenne,/main/java/org/apache/cayenne/project/validation/DbAttributeValidator.java,0.0,10min,10.0,11.91
+cayenne,/main/java/org/apache/cayenne/modeler/pref/DBConnectionInfo.java,94.0,1h 15min,75.0,104.55
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/DBConnectionInfoEditor.java,0.0,0,0.0,20.91
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/DBConnectionInfoEditorView.java,65.0,7min 30s,7.5,23.28
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/DBCPDataSourceEditor.java,0.0,7min 30s,7.5,11.56
+cayenne,/main/java/org/apache/cayenne/configuration/server/DBCPDataSourceFactory.java,5.0,0,0.0,34.14
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/DBCPDataSourceView.java,0.0,0,0.0,5.82
+cayenne,/main/java/org/apache/cayenne/map/DbEntity.java,114.0,5h 12min,312.0,156.1
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/DbEntityAttributeTab.java,4.0,30min,30.0,41.47
+cayenne,/main/java/org/apache/cayenne/modeler/graph/DbEntityCellMetadata.java,5.0,10min,10.0,20.21
+cayenne,/main/java/org/apache/cayenne/access/DbEntityClassDescriptor.java,0.0,10min,10.0,29.91
+cayenne,/main/java/org/apache/cayenne/modeler/event/DbEntityDisplayListener.java,0.0,0,0.0,2.56
+cayenne,/main/java/org/apache/cayenne/map/event/DbEntityListener.java,0.0,0,0.0,5.74
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/DbEntityRelationshipTab.java,40.0,1h 39min,99.0,70.33
+cayenne,/main/java/org/apache/cayenne/modeler/action/DbEntitySyncAction.java,5.0,27min 30s,27.5,21.72
+cayenne,/main/java/org/apache/cayenne/modeler/undo/DbEntitySyncUndoableEdit.java,0.0,0,0.0,74.67
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/DbEntityTab.java,15.0,1h 7min,67.0,66.26
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/DbEntityTabbedView.java,5.0,28min 30s,28.5,37.67
+cayenne,/main/java/org/apache/cayenne/project/validation/DbEntityValidator.java,28.0,30min,30.0,23.82
+cayenne,/main/java/org/apache/cayenne/access/DbGenerator.java,167.0,3h 12min,192.0,172.32
+cayenne,/main/java/org/apache/cayenne/modeler/pref/DBGeneratorDefaults.java,0.0,15min,15.0,50.28
+cayenne,/main/java/org/apache/cayenne/tools/DbGeneratorMojo.java,45.0,15min,15.0,31.23
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/DBGeneratorOptions.java,94.0,42min 30s,42.5,57.26
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/DBGeneratorOptionsView.java,290.0,22min 30s,22.5,37.83
+cayenne,/main/java/org/apache/cayenne/access/DbGeneratorPostprocessor.java,4.0,0,0.0,42.28
+cayenne,/main/java/org/apache/cayenne/tools/DbGeneratorTask.java,25.0,25min,25.0,28.05
+cayenne,/main/java/org/apache/cayenne/modeler/graph/DbGraphBuilder.java,0.0,15min,15.0,51.28
+cayenne,/main/java/org/apache/cayenne/test/jdbc/DBHelper.java,63.0,15min,15.0,131.98
+cayenne,/main/java/org/apache/cayenne/tools/DbImporterMojo.java,75.0,15min,15.0,66.72
+cayenne,/main/java/org/apache/cayenne/tools/DbImporterTask.java,35.0,25min,25.0,70.06
+cayenne,/main/java/org/apache/cayenne/map/DbJoin.java,0.0,55min,55.0,40.42
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/DbJoinTableModel.java,30.0,2h 13min,133.0,54.97
+cayenne,/main/java/org/apache/cayenne/map/DbKeyGenerator.java,0.0,34min 30s,34.5,45.35
+cayenne,/main/java/org/apache/cayenne/access/DbLoader.java,240.0,6h 54min,414.0,154.13
+cayenne,/main/java/org/apache/cayenne/access/DbLoaderDelegate.java,0.0,0,0.0,12.61
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/DbLoaderHelper.java,94.0,1h 30min,90.0,211.29
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/DbLoaderMergeDialog.java,0.0,7min 30s,7.5,21.53
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/DbLoaderOptionsDialog.java,40.0,47min 30s,47.5,49.93
+cayenne,/main/java/org/apache/cayenne/merge/DbMerger.java,298.0,5h 27min,327.0,357.72
+cayenne,/main/java/org/apache/cayenne/map/DbRelationship.java,77.0,4h 44min,284.0,93.29
+cayenne,/main/java/org/apache/cayenne/map/DbRelationshipDetected.java,0.0,7min 30s,7.5,6.44
+cayenne,/main/java/org/apache/cayenne/modeler/event/DbRelationshipDisplayListener.java,0.0,0,0.0,1.94
+cayenne,/main/java/org/apache/cayenne/map/event/DbRelationshipListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/DbRelationshipTableModel.java,21.0,5h 52min,352.0,63.0
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/DbRelationshipTarget.java,0.0,17min 30s,17.5,51.44
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/DbRelationshipTargetView.java,270.0,15min,15.0,24.52
+cayenne,/main/java/org/apache/cayenne/project/validation/DbRelationshipValidator.java,22.0,45min,45.0,39.18
+cayenne,/main/java/org/apache/cayenne/modeler/action/DBWizardAction.java,0.0,47min 30s,47.5,19.32
+cayenne,/main/java/org/apache/cayenne/util/DeepMergeOperation.java,44.0,32min 30s,32.5,23.47
+cayenne,/main/java/org/apache/cayenne/modeler/action/DefaultActionManager.java,18.0,45min,45.0,80.33
+cayenne,/main/java/org/apache/cayenne/di/spi/DefaultAdhocObjectFactory.java,27.0,4h,240.0,34.06
+cayenne,/main/java/org/apache/cayenne/access/jdbc/DefaultBatchQueryBuilderFactory.java,0.0,0,0.0,16.68
+cayenne,/main/java/org/apache/cayenne/di/spi/DefaultBinder.java,0.0,0,0.0,20.21
+cayenne,/main/java/org/apache/cayenne/di/spi/DefaultBindingBuilder.java,2.0,0,0.0,36.89
+cayenne,/main/java/org/apache/cayenne/configuration/DefaultConfigurationNameMapper.java,0.0,1h 40min,100.0,51.98
+cayenne,/main/java/org/apache/cayenne/project/DefaultConfigurationNodeParentGetter.java,0.0,0,0.0,69.28
+cayenne,/main/java/org/apache/cayenne/configuration/DefaultDataChannelDescriptorMerger.java,25.0,35min,35.0,18.35
+cayenne,/main/java/org/apache/cayenne/configuration/server/DefaultDbAdapterFactory.java,20.0,1h,60.0,35.38
+cayenne,/main/java/org/apache/cayenne/map/DefaultEntityResultSegment.java,0.0,10min,10.0,21.26
+cayenne,/main/java/org/apache/cayenne/event/DefaultEventManager.java,22.0,1h 27min,87.0,135.38
+cayenne,/main/java/org/apache/cayenne/di/spi/DefaultInjector.java,0.0,10min,10.0,64.75
+cayenne,/main/java/org/apache/cayenne/di/spi/DefaultListBuilder.java,0.0,0,0.0,30.88
+cayenne,/main/java/org/apache/cayenne/itest/di_stack/DefaultMap.java,0.0,0,0.0,19.86
+cayenne,/main/java/org/apache/cayenne/di/spi/DefaultMapBuilder.java,0.0,20min,20.0,34.49
+cayenne,/main/java/org/apache/cayenne/merge/DefaultModelMergeDelegate.java,70.0,0,0.0,41.93
+cayenne,/main/java/org/apache/cayenne/access/DefaultObjectMapRetainStrategy.java,0.0,30min,30.0,11.56
+cayenne,/main/java/org/apache/cayenne/configuration/DefaultObjectStoreFactory.java,0.0,0,0.0,13.5
+cayenne,/main/java/org/apache/cayenne/access/util/DefaultOperationObserver.java,14.0,0,0.0,36.0
+cayenne,/main/java/org/apache/cayenne/wocompat/parser/DefaultPlistDataStructureFactory.java,0.0,0,0.0,14.74
+cayenne,/main/java/org/apache/cayenne/project/validation/DefaultProjectValidator.java,0.0,40min,40.0,174.91
+cayenne,/main/java/org/apache/cayenne/query/DefaultQueryMetadata.java,90.0,30min,30.0,57.05
+cayenne,/main/java/org/apache/cayenne/configuration/DefaultRuntimeProperties.java,0.0,1h 20min,80.0,22.23
+cayenne,/main/java/org/apache/cayenne/map/DefaultScalarResultSegment.java,0.0,0,0.0,12.88
+cayenne,/main/java/org/apache/cayenne/di/spi/DefaultScope.java,0.0,30min,30.0,24.17
+cayenne,/main/java/org/apache/cayenne/di/spi/DefaultScopeProvider.java,0.0,0,0.0,26.03
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datamap/DefaultsPreferencesController.java,0.0,7min 30s,7.5,18.97
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datamap/DefaultsPreferencesView.java,275.0,15min,15.0,23.55
+cayenne,/main/java/org/apache/cayenne/merge/DefaultValueForNullProvider.java,0.0,10min,10.0,30.26
+cayenne,/main/java/org/apache/cayenne/modeler/util/DefaultWidgetFactory.java,0.0,10min,10.0,22.77
+cayenne,/main/java/org/apache/cayenne/configuration/server/DelegatingDataSourceFactory.java,5.0,27min 30s,27.5,32.12
+cayenne,/main/java/org/apache/cayenne/query/DeleteBatchQuery.java,4.0,7min 30s,7.5,26.38
+cayenne,/main/java/org/apache/cayenne/access/trans/DeleteBatchQueryBuilder.java,45.0,10min,10.0,46.24
+cayenne,/main/java/org/apache/cayenne/test/jdbc/DeleteBuilder.java,0.0,0,0.0,23.12
+cayenne,/main/java/org/apache/cayenne/DeleteDenyException.java,30.0,0,0.0,17.38
+cayenne,/main/java/org/apache/cayenne/map/DeleteRule.java,30.0,2h 7min,127.0,10.67
+cayenne,/main/java/org/apache/cayenne/util/DeleteRuleUpdater.java,5.0,0,0.0,16.06
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/DepthFirstSearch.java,5.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/DepthFirstStampSearch.java,0.0,18min 30s,18.5,22.23
+cayenne,/main/java/org/apache/cayenne/dba/derby/DerbyAdapter.java,37.0,1h 12min,72.0,47.83
+cayenne,/main/java/org/apache/cayenne/dba/derby/DerbyMergerFactory.java,98.0,1h,60.0,33.71
+cayenne,/main/java/org/apache/cayenne/dba/derby/DerbyPkGenerator.java,0.0,17min 30s,17.5,17.38
+cayenne,/main/java/org/apache/cayenne/dba/derby/DerbyQualifierTranslator.java,20.0,17min 30s,17.5,19.94
+cayenne,/main/java/org/apache/cayenne/dba/derby/DerbySniffer.java,0.0,7min 30s,7.5,16.06
+cayenne,/main/java/org/apache/cayenne/map/DetectedDbEntity.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/di/DIBootstrap.java,30.0,0,0.0,13.5
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/Digraph.java,0.0,0,0.0,58.2
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/DigraphIteration.java,0.0,0,0.0,11.29
+cayenne,/main/java/org/apache/cayenne/remote/service/DispatchHelper.java,30.0,30min,30.0,12.88
+cayenne,/main/java/org/apache/cayenne/event/DispatchQueue.java,0.0,40min,40.0,34.14
+cayenne,/main/java/org/apache/cayenne/modeler/event/DisplayEvent.java,30.0,10min,10.0,23.2
+cayenne,/main/java/org/apache/cayenne/access/jdbc/DistinctResultIterator.java,20.0,10min,10.0,62.65
+cayenne,/main/java/org/apache/cayenne/di/spi/DIUtil.java,30.0,10min,10.0,10.59
+cayenne,/main/java/org/apache/cayenne/modeler/action/DocumentationAction.java,7.0,0,0.0,17.92
+cayenne,/main/java/org/apache/cayenne/configuration/server/DomainDataChannelProvider.java,0.0,0,0.0,9.62
+cayenne,/main/java/org/apache/cayenne/modeler/event/DomainDisplayEvent.java,0.0,0,0.0,8.03
+cayenne,/main/java/org/apache/cayenne/modeler/event/DomainDisplayListener.java,0.0,0,0.0,4.5
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/DomainErrorMsg.java,0.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/configuration/event/DomainEvent.java,0.0,7min 30s,7.5,17.38
+cayenne,/main/java/org/apache/cayenne/configuration/event/DomainListener.java,0.0,0,0.0,1.94
+cayenne,/main/java/org/apache/cayenne/access/DomainStoppedException.java,0.0,0,0.0,21.18
+cayenne,/main/java/org/apache/cayenne/access/types/DoubleType.java,0.0,10min,10.0,32.47
+cayenne,/main/java/org/apache/cayenne/conn/DriverDataSource.java,0.0,20min,20.0,88.65
+cayenne,/main/java/org/apache/cayenne/merge/DropColumnToDb.java,0.0,10min,10.0,27.89
+cayenne,/main/java/org/apache/cayenne/merge/DropColumnToModel.java,0.0,0,0.0,28.24
+cayenne,/main/java/org/apache/cayenne/merge/DropRelationshipToDb.java,30.0,30min,30.0,33.36
+cayenne,/main/java/org/apache/cayenne/merge/DropRelationshipToModel.java,20.0,0,0.0,26.3
+cayenne,/main/java/org/apache/cayenne/merge/DropTableToDb.java,5.0,10min,10.0,24.71
+cayenne,/main/java/org/apache/cayenne/merge/DropTableToModel.java,0.0,0,0.0,22.42
+cayenne,/main/java/org/apache/cayenne/merge/DummyReverseToken.java,0.0,0,0.0,32.74
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/DuplicatedAttributesDialog.java,79.0,3h 45min,225.0,144.19
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/EditorKit.java,30.0,0,0.0,15.44
+cayenne,/main/java/org/apache/cayenne/modeler/util/combo/EditorTextField.java,270.0,16min,16.0,24.71
+cayenne,/main/java/org/apache/cayenne/modeler/editor/EditorView.java,0.0,44min,44.0,98.27
+cayenne,/main/java/org/apache/cayenne/cache/EhCacheQueryCache.java,90.0,1h 20min,80.0,46.24
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAbs.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAbstractSchemaName.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLAction.java,5.0,7min 30s,7.5,19.94
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAdd.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAggregate.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAggregateColumn.java,0.0,15min,15.0,15.71
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLAggregateColumnTranslator.java,2.0,15min,15.0,97.63
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAll.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAnd.java,0.0,7min 30s,7.5,21.18
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAny.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAscending.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLAverage.java,0.0,7min 30s,7.5,20.21
+cayenne,/main/java/org/apache/cayenne/ejbql/EJBQLBaseVisitor.java,0.0,15min,15.0,359.52
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLBetween.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLBooleanLiteral.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/map/EjbqlBuilder.java,0.0,0,0.0,10.24
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLClassName.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/EJBQLCompiledExpression.java,0.0,0,0.0,9.7
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLConcat.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLConditionTranslator.java,189.0,5h 57min,357.0,969.39
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLConstructor.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLConstructorParameter.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLConstructorParameters.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLCount.java,0.0,7min 30s,7.5,20.21
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLCurrentDate.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLCurrentTime.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLCurrentTimestamp.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLDbPath.java,0.0,7min 30s,7.5,20.21
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLDbPathTranslator.java,65.0,1h 20min,80.0,62.38
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLDecimalLiteral.java,0.0,7min 30s,7.5,15.71
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLDelete.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLDeleteTranslator.java,0.0,0,0.0,18.97
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLDescending.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLDistinct.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLDivide.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLEquals.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLEscapeCharacter.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/EJBQLException.java,0.0,7min 30s,7.5,29.21
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLExists.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/EJBQLExpression.java,0.0,0,0.0,9.89
+cayenne,/main/java/org/apache/cayenne/ejbql/EJBQLExpressionVisitor.java,0.0,0,0.0,248.32
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLFrom.java,0.0,7min 30s,7.5,20.56
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLFromItem.java,0.0,45min,45.0,25.68
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLFromTranslator.java,5.0,0,0.0,39.26
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLGreaterOrEqual.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLGreaterThan.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLGroupBy.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLGroupByTranslator.java,0.0,15min,15.0,29.83
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLHaving.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLIdColumnsTranslator.java,0.0,7min 30s,7.5,17.03
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLIdentificationVariable.java,0.0,7min 30s,7.5,13.77
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLIdentifier.java,0.0,7min 30s,7.5,13.77
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLIdentifierColumnsTranslator.java,19.0,52min 30s,52.5,95.58
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLIn.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLInnerFetchJoin.java,0.0,17min 30s,17.5,16.68
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLInnerJoin.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLIntegerLiteral.java,0.0,7min 30s,7.5,15.71
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLIsEmpty.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLIsNull.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLJoin.java,0.0,35min,35.0,16.33
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLJoinAppender.java,28.0,1h 12min,72.0,54.35
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLLength.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLLessOrEqual.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLLessThan.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLLike.java,0.0,7min 30s,7.5,18.62
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLLocate.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLLower.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLMax.java,0.0,7min 30s,7.5,20.21
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLMemberOf.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLMin.java,0.0,7min 30s,7.5,20.21
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLMod.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLMultiColumnOperand.java,0.0,0,0.0,59.58
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLMultiply.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLNamedInputParameter.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLNegative.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLNot.java,0.0,7min 30s,7.5,16.68
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLNotEquals.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLOr.java,0.0,7min 30s,7.5,21.18
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLOrderBy.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLOrderByItem.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLOrderByTranslator.java,0.0,0,0.0,21.53
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLOuterFetchJoin.java,0.0,17min 30s,17.5,16.68
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLOuterJoin.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/EJBQLParser.java,0.0,0,0.0,9.7
+cayenne,/main/java/org/apache/cayenne/ejbql/EJBQLParserFactory.java,32.0,10min,10.0,22.5
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLPath.java,0.0,27min 30s,27.5,33.71
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLPathTranslator.java,70.0,1h 37min,97.0,64.59
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLPatternValue.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLPositionalInputParameter.java,0.0,7min 30s,7.5,16.68
+cayenne,/main/java/org/apache/cayenne/query/EJBQLQuery.java,6.0,32min 30s,32.5,88.33
+cayenne,/main/java/org/apache/cayenne/modeler/editor/EjbqlQueryMainTab.java,30.0,57min 30s,57.5,25.41
+cayenne,/main/java/org/apache/cayenne/query/EJBQLQueryMetadata.java,32.0,25min,25.0,15.09
+cayenne,/main/java/org/apache/cayenne/modeler/editor/EjbqlQueryPropertiesPanel.java,20.0,7min 30s,7.5,19.24
+cayenne,/main/java/org/apache/cayenne/modeler/editor/EjbqlQueryScriptsTab.java,56.0,50min,50.0,65.05
+cayenne,/main/java/org/apache/cayenne/project/validation/EJBQLQueryValidator.java,0.0,0,0.0,13.77
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSelect.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSelectClause.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLSelectColumnsTranslator.java,32.0,57min 30s,57.5,47.21
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSelectExpression.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSelectExpressions.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLSelectTranslator.java,0.0,0,0.0,46.67
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSize.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSqrt.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/project/validation/EJBQLStatementValidator.java,30.0,42min 30s,42.5,61.22
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLStringLiteral.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSubselect.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSubstring.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSubtract.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLSum.java,0.0,17min 30s,17.5,21.53
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/syntax/EJBQLSyntaxConstant.java,28.0,0,0.0,24.36
+cayenne,/main/java/org/apache/cayenne/modeler/editor/EjbqlTabbedView.java,50.0,40min,40.0,21.8
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLTableId.java,2.0,1h 10min,70.0,40.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLTok.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLTranslationContext.java,20.0,1h 30min,90.0,141.95
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLTranslatorFactory.java,0.0,0,0.0,36.51
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLTrim.java,0.0,7min 30s,7.5,18.62
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLTrimBoth.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLTrimCharacter.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLTrimLeading.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLTrimSpecification.java,0.0,15min,15.0,8.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLTrimTrailing.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLUpdate.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLUpdateField.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLUpdateItem.java,0.0,7min 30s,7.5,18.62
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLUpdateItemTranslator.java,25.0,17min 30s,17.5,38.29
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EJBQLUpdateTranslator.java,0.0,0,0.0,29.29
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLUpdateValue.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLUpper.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/EJBQLWhere.java,0.0,7min 30s,7.5,15.09
+cayenne,/main/java/org/apache/cayenne/map/Embeddable.java,30.0,47min 30s,47.5,41.12
+cayenne,/main/java/org/apache/cayenne/gen/EmbeddableArtifact.java,0.0,1h,60.0,20.21
+cayenne,/main/java/org/apache/cayenne/map/EmbeddableAttribute.java,0.0,7min 30s,7.5,35.03
+cayenne,/main/java/org/apache/cayenne/modeler/event/EmbeddableAttributeDisplayEvent.java,0.0,7min 30s,7.5,24.79
+cayenne,/main/java/org/apache/cayenne/modeler/event/EmbeddableAttributeDisplayListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/EmbeddableAttributeErrorMsg.java,0.0,0,0.0,13.5
+cayenne,/main/java/org/apache/cayenne/map/event/EmbeddableAttributeEvent.java,0.0,7min 30s,7.5,19.94
+cayenne,/main/java/org/apache/cayenne/map/event/EmbeddableAttributeListener.java,0.0,0,0.0,4.85
+cayenne,/main/java/org/apache/cayenne/modeler/editor/EmbeddableAttributeTab.java,20.0,32min 30s,32.5,58.07
+cayenne,/main/java/org/apache/cayenne/modeler/editor/EmbeddableAttributeTableModel.java,20.0,2h 20min,140.0,81.27
+cayenne,/main/java/org/apache/cayenne/project/validation/EmbeddableAttributeValidator.java,0.0,0,0.0,9.97
+cayenne,/main/java/org/apache/cayenne/reflect/EmbeddableDescriptor.java,0.0,0,0.0,5.82
+cayenne,/main/java/org/apache/cayenne/modeler/event/EmbeddableDisplayEvent.java,0.0,7min 30s,7.5,22.85
+cayenne,/main/java/org/apache/cayenne/modeler/event/EmbeddableDisplayListener.java,0.0,0,0.0,4.5
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/EmbeddableErrorMsg.java,0.0,0,0.0,12.53
+cayenne,/main/java/org/apache/cayenne/map/event/EmbeddableEvent.java,0.0,7min 30s,7.5,23.12
+cayenne,/main/java/org/apache/cayenne/map/event/EmbeddableListener.java,0.0,0,0.0,7.76
+cayenne,/main/java/org/apache/cayenne/modeler/editor/EmbeddableTab.java,25.0,1h 25min,85.0,40.07
+cayenne,/main/java/org/apache/cayenne/modeler/editor/EmbeddableTabbedView.java,25.0,38min 30s,38.5,33.36
+cayenne,/main/java/org/apache/cayenne/project/validation/EmbeddableValidator.java,47.0,47min 30s,47.5,16.41
+cayenne,/main/java/org/apache/cayenne/map/EmbeddedAttribute.java,2.0,1h 47min,107.0,57.18
+cayenne,/main/java/org/apache/cayenne/reflect/EmbeddedFieldAccessor.java,0.0,0,0.0,36.0
+cayenne,/main/java/org/apache/cayenne/merge/EmptyValueForNullProvider.java,0.0,0,0.0,15.09
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/EncodingSelector.java,66.0,15min,15.0,51.87
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/EncodingSelectorView.java,0.0,0,0.0,17.11
+cayenne,/main/java/org/apache/cayenne/map/Entity.java,165.0,2h 13min,133.0,114.55
+cayenne,/main/java/org/apache/cayenne/gen/EntityArtifact.java,2.0,1h 7min,67.0,32.39
+cayenne,/main/java/org/apache/cayenne/modeler/graph/EntityCellMetadata.java,5.0,0,0.0,22.85
+cayenne,/main/java/org/apache/cayenne/modeler/graph/action/EntityDisplayAction.java,5.0,20min,20.0,33.09
+cayenne,/main/java/org/apache/cayenne/modeler/event/EntityDisplayEvent.java,0.0,7min 30s,7.5,34.14
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/EntityErrorMsg.java,0.0,10min,10.0,9.35
+cayenne,/main/java/org/apache/cayenne/map/event/EntityEvent.java,0.0,7min 30s,7.5,15.71
+cayenne,/main/java/org/apache/cayenne/lifecycle/id/EntityIdCoder.java,16.0,1h 15min,75.0,58.85
+cayenne,/main/java/org/apache/cayenne/map/EntityInheritanceTree.java,2.0,1h 30min,90.0,55.51
+cayenne,/main/java/org/apache/cayenne/map/EntityListener.java,0.0,7min 30s,7.5,15.71
+cayenne,/main/java/org/apache/cayenne/modeler/event/EntityListenerEvent.java,0.0,7min 30s,7.5,2.56
+cayenne,/main/java/org/apache/cayenne/map/EntityListenerFactory.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/modeler/event/EntityListenerListener.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/util/EntityMergeListener.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/util/EntityMergeSupport.java,163.0,2h 22min,142.0,65.99
+cayenne,/main/java/org/apache/cayenne/map/EntityResolver.java,124.0,3h 40min,220.0,182.13
+cayenne,/main/java/org/apache/cayenne/map/EntityResult.java,2.0,30min,30.0,57.53
+cayenne,/main/java/org/apache/cayenne/query/EntityResultSegment.java,0.0,0,0.0,8.65
+cayenne,/main/java/org/apache/cayenne/access/jdbc/EntityRowReader.java,5.0,10min,10.0,39.69
+cayenne,/main/java/org/apache/cayenne/map/EntitySorter.java,10.0,0,0.0,9.7
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/EntitySyncController.java,0.0,10min,10.0,22.23
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/EntitySyncDialog.java,270.0,7min 30s,7.5,14.82
+cayenne,/main/java/org/apache/cayenne/modeler/util/EntityTreeFilter.java,0.0,0,0.0,6.79
+cayenne,/main/java/org/apache/cayenne/modeler/util/EntityTreeModel.java,22.0,1h 7min,67.0,44.46
+cayenne,/main/java/org/apache/cayenne/gen/EntityUtils.java,25.0,2h 6min,126.0,66.42
+cayenne,/main/java/org/apache/cayenne/reflect/EnumConverter.java,0.0,30min,30.0,15.09
+cayenne,/main/java/org/apache/cayenne/access/types/EnumType.java,0.0,40min,40.0,38.29
+cayenne,/main/java/org/apache/cayenne/access/types/EnumTypeFactory.java,0.0,33min,33.0,9.62
+cayenne,/main/java/org/apache/cayenne/wocompat/EODbAttribute.java,0.0,7min 30s,7.5,12.88
+cayenne,/main/java/org/apache/cayenne/wocompat/EOModelHelper.java,116.0,6h 3min,363.0,77.79
+cayenne,/main/java/org/apache/cayenne/wocompat/EOModelProcessor.java,316.0,7h 1min,421.0,152.73
+cayenne,/main/java/org/apache/cayenne/wocompat/EOObjAttribute.java,0.0,7min 30s,7.5,16.41
+cayenne,/main/java/org/apache/cayenne/wocompat/EOObjEntity.java,14.0,1h 5min,65.0,53.46
+cayenne,/main/java/org/apache/cayenne/wocompat/EOQuery.java,148.0,5h 30min,330.0,87.98
+cayenne,/main/java/org/apache/cayenne/wocompat/EOSQLQuery.java,0.0,17min 30s,17.5,18.0
+cayenne,/main/java/org/apache/cayenne/util/EqualsBuilder.java,195.0,1M/d 2h,600.0,43.52
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/ErrorDebugDialog.java,35.0,42min 30s,42.5,61.41
+cayenne,/main/java/org/apache/cayenne/event/EventBridge.java,120.0,35min,35.0,58.74
+cayenne,/main/java/org/apache/cayenne/event/EventBridgeFactory.java,0.0,0,0.0,4.85
+cayenne,/main/java/org/apache/cayenne/event/EventManager.java,0.0,0,0.0,19.05
+cayenne,/main/java/org/apache/cayenne/event/EventSubject.java,4.0,10min,10.0,18.62
+cayenne,/main/java/org/apache/cayenne/util/EventUtil.java,0.0,20min,20.0,14.55
+cayenne,/main/java/org/apache/cayenne/util/concurrentlinkedhashmap/EvictionListener.java,5.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/merge/ExecutingMergerContext.java,0.0,0,0.0,32.47
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ExistingSelectionProcessor.java,0.0,0,0.0,2.56
+cayenne,/main/java/org/apache/cayenne/modeler/action/ExitAction.java,5.0,17min 30s,17.5,17.65
+cayenne,/main/java/org/apache/cayenne/map/naming/ExportedKey.java,2.0,7min 30s,7.5,17.11
+cayenne,/main/java/org/apache/cayenne/exp/Expression.java,65.0,1M/d 2h,600.0,142.57
+cayenne,/main/java/org/apache/cayenne/modeler/util/ExpressionConvertor.java,10.0,30min,30.0,25.76
+cayenne,/main/java/org/apache/cayenne/exp/ExpressionException.java,15.0,0,0.0,23.47
+cayenne,/main/java/org/apache/cayenne/exp/ExpressionFactory.java,104.0,4h 15min,255.0,300.09
+cayenne,/main/java/org/apache/cayenne/exp/ExpressionParameter.java,0.0,10min,10.0,13.5
+cayenne,/main/java/org/apache/cayenne/exp/parser/ExpressionParser.java,3223.0,7h 26min,446.0,246.32
+cayenne,/main/java/org/apache/cayenne/exp/parser/ExpressionParserConstants.java,14.0,0,0.0,16.49
+cayenne,/main/java/org/apache/cayenne/exp/parser/ExpressionParserTokenManager.java,690.0,6M/d 1h,2940.0,null
+cayenne,/main/java/org/apache/cayenne/exp/parser/ExpressionParserTreeConstants.java,10.0,0,0.0,33.95
+cayenne,/main/java/org/apache/cayenne/ExtendedEnumeration.java,0.0,0,0.0,1.94
+cayenne,/main/java/org/apache/cayenne/access/types/ExtendedEnumType.java,5.0,56min,56.0,47.02
+cayenne,/main/java/org/apache/cayenne/access/types/ExtendedType.java,60.0,0,0.0,18.97
+cayenne,/main/java/org/apache/cayenne/access/types/ExtendedTypeDecorator.java,0.0,7min 30s,7.5,53.38
+cayenne,/main/java/org/apache/cayenne/access/types/ExtendedTypeFactory.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/access/types/ExtendedTypeMap.java,20.0,1h 17min,77.0,38.99
+cayenne,/main/java/org/apache/cayenne/access/ExternalTransaction.java,40.0,1h 20min,80.0,54.7
+cayenne,/main/java/org/apache/cayenne/Fault.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/reflect/FaultFactory.java,0.0,0,0.0,11.64
+cayenne,/main/java/org/apache/cayenne/FaultFailureException.java,0.0,0,0.0,21.18
+cayenne,/main/java/org/apache/cayenne/reflect/FieldAccessor.java,60.0,30min,30.0,41.55
+cayenne,/main/java/org/apache/cayenne/reflect/FieldEmbeddableDescriptor.java,25.0,0,0.0,24.17
+cayenne,/main/java/org/apache/cayenne/di/spi/FieldInjectingProvider.java,0.0,17min 30s,17.5,34.68
+cayenne,/main/java/org/apache/cayenne/swing/control/FileChooser.java,50.0,2h 25min,145.0,65.21
+cayenne,/main/java/org/apache/cayenne/modeler/FileClassLoadingService.java,10.0,20min,20.0,39.8
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/FileDeletedDialog.java,0.0,0,0.0,20.91
+cayenne,/main/java/org/apache/cayenne/modeler/util/FileFilters.java,32.0,1h 20min,80.0,116.41
+cayenne,/main/java/org/apache/cayenne/swing/control/FileMenuItem.java,275.0,10min,10.0,10.59
+cayenne,/main/java/org/apache/cayenne/project/FileProjectSaver.java,65.0,45min,45.0,102.29
+cayenne,/main/java/org/apache/cayenne/resource/FilesystemResourceLocator.java,15.0,0,0.0,21.45
+cayenne,/main/java/org/apache/cayenne/test/file/FileUtil.java,95.0,41min,41.0,30.8
+cayenne,/main/java/org/apache/cayenne/modeler/util/FileWatchdog.java,53.0,1h 25min,85.0,1594.61
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/FilterArcIterator.java,9.0,32min,32.0,39.88
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/FilterIteration.java,0.0,22min,22.0,35.3
+cayenne,/main/java/org/apache/cayenne/modeler/action/FindAction.java,88.0,30min,30.0,29.48
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/FindDialog.java,167.0,1h 14min,74.0,90.38
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/FindDialogView.java,342.0,22min 30s,22.5,51.44
+cayenne,/main/java/org/apache/cayenne/access/FlattenedArcKey.java,54.0,2h 15min,135.0,125.41
+cayenne,/main/java/org/apache/cayenne/access/types/FloatType.java,0.0,10min,10.0,32.47
+cayenne,/main/java/org/apache/cayenne/log/FormattedCommonsJdbcEventLogger.java,45.0,43min 30s,43.5,26.03
+cayenne,/main/java/org/apache/cayenne/dba/frontbase/FrontBaseActionBuilder.java,0.0,30min,30.0,24.98
+cayenne,/main/java/org/apache/cayenne/dba/frontbase/FrontBaseAdapter.java,133.0,1h 13min,73.0,39.18
+cayenne,/main/java/org/apache/cayenne/dba/frontbase/FrontBaseBooleanType.java,0.0,0,0.0,17.03
+cayenne,/main/java/org/apache/cayenne/dba/frontbase/FrontBaseByteArrayType.java,0.0,10min,10.0,18.0
+cayenne,/main/java/org/apache/cayenne/dba/frontbase/FrontBaseCharType.java,0.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/dba/frontbase/FrontBasePkGenerator.java,5.0,0,0.0,52.06
+cayenne,/main/java/org/apache/cayenne/dba/frontbase/FrontBaseSelectTranslator.java,5.0,0,0.0,11.56
+cayenne,/main/java/org/apache/cayenne/dba/frontbase/FrontBaseSniffer.java,0.0,7min 30s,7.5,16.06
+cayenne,/main/java/org/apache/cayenne/modeler/pref/FSPath.java,0.0,47min 30s,47.5,28.43
+cayenne,/main/java/org/apache/cayenne/access/jdbc/FullRowReader.java,0.0,10min,10.0,43.68
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/Gallery.java,0.0,7min 30s,7.5,10.24
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/Gallery.java,0.0,7min 30s,7.5,8.65
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/Gallery.java,0.0,7min 30s,7.5,10.24
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/Gallery.java,0.0,7min 30s,7.5,8.65
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/GeneralPreferences.java,17.0,15min,15.0,44.38
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/GeneralPreferencesView.java,5.0,15min,15.0,17.03
+cayenne,/main/java/org/apache/cayenne/modeler/action/GenerateCodeAction.java,5.0,0,0.0,19.86
+cayenne,/main/java/org/apache/cayenne/modeler/action/GenerateDBAction.java,5.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/GeneratorController.java,93.0,1M/d,480.0,128.4
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/GeneratorControllerPanel.java,0.0,0,0.0,12.26
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/GeneratorTabController.java,0.0,7min 30s,7.5,27.35
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/GeneratorTabPanel.java,0.0,7min 30s,7.5,15.44
+cayenne,/main/java/org/apache/cayenne/modeler/generic/GenericCayenneModelerModule.java,0.0,0,0.0,10.24
+cayenne,/main/java/org/apache/cayenne/lifecycle/changeset/GenericChangeSet.java,12.0,15min,15.0,16.76
+cayenne,/main/java/org/apache/cayenne/modeler/generic/GenericMain.java,0.0,0,0.0,18.27
+cayenne,/main/java/org/apache/cayenne/modeler/generic/GenericPlatformInitializer.java,0.0,10min,10.0,19.59
+cayenne,/main/java/org/apache/cayenne/modeler/init/platform/GenericPlatformInitializer.java,0.0,0,0.0,8.03
+cayenne,/main/java/org/apache/cayenne/util/GenericResponse.java,90.0,27min 30s,27.5,44.84
+cayenne,/main/java/org/apache/cayenne/modeler/graph/GraphBuilder.java,10.0,0,0.0,11.64
+cayenne,/main/java/org/apache/cayenne/graph/GraphChangeHandler.java,0.0,0,0.0,18.27
+cayenne,/main/java/org/apache/cayenne/graph/GraphDiff.java,0.0,0,0.0,5.12
+cayenne,/main/java/org/apache/cayenne/graph/GraphDiffCompressor.java,39.0,57min 30s,57.5,69.71
+cayenne,/main/java/org/apache/cayenne/graph/GraphEvent.java,0.0,0,0.0,13.5
+cayenne,/main/java/org/apache/cayenne/modeler/graph/GraphLoader.java,20.0,17min 30s,17.5,33.17
+cayenne,/main/java/org/apache/cayenne/graph/GraphManager.java,0.0,0,0.0,9.0
+cayenne,/main/java/org/apache/cayenne/modeler/graph/GraphMap.java,35.0,27min 30s,27.5,27.7
+cayenne,/main/java/org/apache/cayenne/graph/GraphMap.java,0.0,0,0.0,35.11
+cayenne,/main/java/org/apache/cayenne/modeler/graph/GraphRegistry.java,5.0,0,0.0,20.29
+cayenne,/main/java/org/apache/cayenne/modeler/graph/GraphType.java,0.0,0,0.0,10.32
+cayenne,/main/java/org/apache/cayenne/dba/h2/H2Adapter.java,0.0,7min 30s,7.5,19.24
+cayenne,/main/java/org/apache/cayenne/dba/h2/H2MergerFactory.java,68.0,1h 10min,70.0,34.68
+cayenne,/main/java/org/apache/cayenne/dba/h2/H2Sniffer.java,0.0,7min 30s,7.5,16.06
+cayenne,/main/java/org/apache/cayenne/util/HashCodeBuilder.java,11.0,1h 52min,112.0,33.28
+cayenne,/main/java/org/apache/cayenne/remote/hessian/HessianConfig.java,50.0,0,0.0,30.53
+cayenne,/main/java/org/apache/cayenne/remote/hessian/HessianConnection.java,80.0,1h 30min,90.0,50.36
+cayenne,/main/java/org/apache/cayenne/configuration/rop/client/HessianConnectionProvider.java,5.0,0,0.0,15.09
+cayenne,/main/java/org/apache/cayenne/remote/hessian/HessianProxyFactory.java,5.0,0,0.0,13.23
+cayenne,/main/java/org/apache/cayenne/remote/hessian/service/HessianService.java,0.0,15min,15.0,10.94
+cayenne,/main/java/org/apache/cayenne/remote/hessian/service/HessianServlet.java,15.0,0,0.0,13.5
+cayenne,/main/java/org/apache/cayenne/remote/hessian/service/HessianUtil.java,40.0,0,0.0,31.15
+cayenne,/main/java/org/apache/cayenne/access/HierarchicalObjectResolver.java,38.0,2h 5min,125.0,158.74
+cayenne,/main/java/org/apache/cayenne/access/HierarchicalObjectResolverNode.java,2.0,27min 30s,27.5,14.2
+cayenne,/main/java/org/apache/cayenne/dba/hsqldb/HSQLActionBuilder.java,0.0,0,0.0,23.39
+cayenne,/main/java/org/apache/cayenne/dba/hsqldb/HSQLDBAdapter.java,40.0,41min,41.0,50.12
+cayenne,/main/java/org/apache/cayenne/dba/hsqldb/HSQLDBNoSchemaAdapter.java,0.0,15min,15.0,23.2
+cayenne,/main/java/org/apache/cayenne/dba/hsqldb/HSQLDBProcedureTranslator.java,0.0,10min,10.0,11.56
+cayenne,/main/java/org/apache/cayenne/dba/hsqldb/HSQLDBSniffer.java,0.0,17min 30s,17.5,11.91
+cayenne,/main/java/org/apache/cayenne/dba/hsqldb/HSQLMergerFactory.java,88.0,1h 10min,70.0,36.27
+cayenne,/main/java/org/apache/cayenne/dba/hsqldb/HSQLSelectAction.java,0.0,17min 30s,17.5,19.59
+cayenne,/main/java/org/apache/cayenne/dba/hsqldb/HSQLSelectTranslator.java,0.0,20min,20.0,12.53
+cayenne,/main/java/org/apache/cayenne/remote/service/HttpRemoteService.java,0.0,7min 30s,7.5,20.64
+cayenne,/main/java/org/apache/cayenne/lifecycle/id/IdCoder.java,0.0,0,0.0,20.91
+cayenne,/main/java/org/apache/cayenne/reflect/IdMapKeyAccessor.java,0.0,37min 30s,37.5,21.18
+cayenne,/main/java/org/apache/cayenne/access/jdbc/IdRowReader.java,52.0,20min,20.0,47.91
+cayenne,/main/java/org/apache/cayenne/util/IDUtil.java,4.0,45min,45.0,43.06
+cayenne,/main/java/org/apache/cayenne/exp/parser/IgnoreCaseNode.java,0.0,7min 30s,7.5,20.56
+cayenne,/main/java/org/apache/cayenne/swing/ImageRendererColumn.java,277.0,7min 30s,7.5,24.44
+cayenne,/main/java/org/apache/cayenne/modeler/action/ImportDataMapAction.java,35.0,27min 30s,27.5,29.48
+cayenne,/main/java/org/apache/cayenne/modeler/action/ImportDBAction.java,5.0,25min,25.0,14.74
+cayenne,/main/java/org/apache/cayenne/modeler/action/ImportEOModelAction.java,70.0,1h 7min,67.0,62.3
+cayenne,/main/java/org/apache/cayenne/gen/ImportUtils.java,49.0,2h 56min,176.0,41.01
+cayenne,/main/java/org/apache/cayenne/access/IncrementalFaultList.java,68.0,7h 20min,440.0,232.68
+cayenne,/main/java/org/apache/cayenne/util/IncrementalListResponse.java,0.0,0,0.0,7.41
+cayenne,/main/java/org/apache/cayenne/remote/IncrementalQuery.java,20.0,35min,35.0,51.01
+cayenne,/main/java/org/apache/cayenne/remote/IncrementalSelectQuery.java,20.0,50min,50.0,211.4
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/IndegreeTopologicalSort.java,5.0,11min,11.0,36.62
+cayenne,/main/java/org/apache/cayenne/util/IndexPropertyList.java,50.0,1h 5min,65.0,125.49
+cayenne,/main/java/org/apache/cayenne/query/IndirectQuery.java,0.0,7min 30s,7.5,27.7
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/autorelationship/InferredRelationship.java,0.0,0,0.0,31.66
+cayenne,/main/java/org/apache/cayenne/modeler/action/InferRelationshipsAction.java,5.0,0,0.0,15.09
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/autorelationship/InferRelationshipsController.java,60.0,1h 12min,72.0,78.01
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/autorelationship/InferRelationshipsControllerBase.java,56.0,3h 15min,195.0,96.09
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/autorelationship/InferRelationshipsDialog.java,270.0,22min 30s,22.5,27.43
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/autorelationship/InferRelationshipsPanel.java,30.0,7min 30s,7.5,17.38
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/autorelationship/InferRelationshipsTabController.java,10.0,25min,25.0,25.06
+cayenne,/main/java/org/apache/cayenne/modeler/undo/InferRelationshipsUndoableEdit.java,0.0,0,0.0,15.36
+cayenne,/main/java/org/apache/cayenne/dba/ingres/IngresActionBuilder.java,0.0,0,0.0,14.74
+cayenne,/main/java/org/apache/cayenne/dba/ingres/IngresAdapter.java,25.0,22min 30s,22.5,44.03
+cayenne,/main/java/org/apache/cayenne/dba/ingres/IngresBooleanType.java,0.0,0,0.0,18.62
+cayenne,/main/java/org/apache/cayenne/dba/ingres/IngresCharType.java,0.0,0,0.0,16.06
+cayenne,/main/java/org/apache/cayenne/dba/ingres/IngresMergerFactory.java,142.0,1h 38min,98.0,63.54
+cayenne,/main/java/org/apache/cayenne/dba/ingres/IngresPkGenerator.java,69.0,47min,47.0,34.68
+cayenne,/main/java/org/apache/cayenne/dba/ingres/IngresSelectAction.java,0.0,17min 30s,17.5,21.18
+cayenne,/main/java/org/apache/cayenne/dba/ingres/IngresSelectTranslator.java,0.0,0,0.0,10.94
+cayenne,/main/java/org/apache/cayenne/dba/ingres/IngresSniffer.java,0.0,7min 30s,7.5,16.06
+cayenne,/main/java/org/apache/cayenne/access/jdbc/InheritanceAwareEntityRowReader.java,0.0,0,0.0,13.85
+cayenne,/main/java/org/apache/cayenne/access/jdbc/InheritanceAwareRowReader.java,0.0,7min 30s,7.5,18.97
+cayenne,/main/java/org/apache/cayenne/di/Inject.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/di/spi/InjectionStack.java,0.0,20min,20.0,17.65
+cayenne,/main/java/org/apache/cayenne/di/Injector.java,0.0,0,0.0,19.4
+cayenne,/main/java/org/apache/cayenne/query/InsertBatchQuery.java,0.0,7min 30s,7.5,18.0
+cayenne,/main/java/org/apache/cayenne/access/trans/InsertBatchQueryBuilder.java,15.0,0,0.0,56.83
+cayenne,/main/java/org/apache/cayenne/di/spi/InstanceProvider.java,0.0,0,0.0,11.21
+cayenne,/main/java/org/apache/cayenne/access/types/IntegerType.java,0.0,10min,10.0,32.47
+cayenne,/main/java/org/apache/cayenne/access/InternalTransaction.java,53.0,30min,30.0,33.44
+cayenne,/main/java/org/apache/cayenne/util/Invocation.java,39.0,2h,120.0,31.85
+cayenne,/main/java/org/apache/cayenne/swing/ItemEventBinding.java,0.0,10min,10.0,15.36
+cayenne,/main/java/org/apache/cayenne/access/util/IteratedSelectObserver.java,0.0,7min 30s,7.5,24.44
+cayenne,/main/java/org/apache/cayenne/exp/parser/JavaCharStream.java,299.0,1M/d 2h,600.0,146.26
+cayenne,/main/java/org/apache/cayenne/event/JavaGroupsBridge.java,0.0,27min 30s,27.5,60.33
+cayenne,/main/java/org/apache/cayenne/event/JavaGroupsBridgeFactory.java,22.0,37min 30s,37.5,58.69
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/JCayenneTextPane.java,704.0,1h,60.0,131.66
+cayenne,/main/java/org/apache/cayenne/modeler/undo/JComboBoxUndoableEdit.java,100.0,0,0.0,31.85
+cayenne,/main/java/org/apache/cayenne/modeler/undo/JComboBoxUndoListener.java,10.0,10min,10.0,14.2
+cayenne,/main/java/org/apache/cayenne/dba/JdbcActionBuilder.java,0.0,7min 30s,7.5,30.8
+cayenne,/main/java/org/apache/cayenne/dba/JdbcAdapter.java,153.0,1h 58min,118.0,149.74
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/JDBCDataSourceEditor.java,0.0,27min 30s,27.5,18.0
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/JDBCDataSourceView.java,0.0,15min,15.0,26.46
+cayenne,/main/java/org/apache/cayenne/access/jdbc/JdbcEJBQLTranslatorFactory.java,0.0,27min 30s,27.5,52.33
+cayenne,/main/java/org/apache/cayenne/log/JdbcEventLogger.java,0.0,0,0.0,44.73
+cayenne,/main/java/org/apache/cayenne/dba/JdbcPkGenerator.java,29.0,1h 24min,84.0,141.98
+cayenne,/main/java/org/apache/cayenne/access/jdbc/JDBCResultIterator.java,54.0,2h 7min,127.0,68.63
+cayenne,/main/java/org/apache/cayenne/modeler/util/JEditTextAreaUndoable.java,330.0,1h 10min,70.0,43.17
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datadomain/JGroupsConfigPanel.java,0.0,7min 30s,7.5,19.32
+cayenne,/main/java/org/apache/cayenne/exp/parser/JJTExpressionParserState.java,7.0,0,0.0,57.88
+cayenne,/main/java/org/apache/cayenne/event/JMSBridge.java,6.0,35min,35.0,57.07
+cayenne,/main/java/org/apache/cayenne/event/JMSBridgeFactory.java,0.0,7min 30s,7.5,12.53
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datadomain/JMSConfigPanel.java,0.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/JNDIDataSourceEditor.java,0.0,7min 30s,7.5,11.56
+cayenne,/main/java/org/apache/cayenne/configuration/server/JNDIDataSourceFactory.java,0.0,10min,10.0,23.2
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/JNDIDataSourceView.java,0.0,0,0.0,5.82
+cayenne,/main/java/org/apache/cayenne/access/JoinedIdParentAttachementStrategy.java,20.0,10min,10.0,20.64
+cayenne,/main/java/org/apache/cayenne/access/trans/JoinStack.java,0.0,25min,25.0,83.64
+cayenne,/main/java/org/apache/cayenne/access/trans/JoinTreeNode.java,0.0,17min 30s,17.5,62.11
+cayenne,/main/java/org/apache/cayenne/map/JoinType.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/modeler/util/JTextFieldUndoable.java,300.0,10min,10.0,17.92
+cayenne,/main/java/org/apache/cayenne/modeler/undo/JTextFieldUndoListener.java,0.0,37min 30s,37.5,33.36
+cayenne,/main/java/org/apache/cayenne/modeler/util/JUndoableCayenneTextPane.java,0.0,0,0.0,13.15
+cayenne,/main/java/org/apache/cayenne/di/Key.java,0.0,40min,40.0,24.52
+cayenne,/main/java/org/apache/cayenne/reflect/LazyClassDescriptorDecorator.java,0.0,10min,10.0,133.2
+cayenne,/main/java/org/apache/cayenne/reflect/LifecycleCallbackEventHandler.java,0.0,10min,10.0,54.7
+cayenne,/main/java/org/apache/cayenne/reflect/LifecycleCallbackRegistry.java,28.0,1h 12min,72.0,86.9
+cayenne,/main/java/org/apache/cayenne/map/LifecycleEvent.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/LifecycleListener.java,0.0,0,0.0,24.87
+cayenne,/main/java/org/apache/cayenne/access/jdbc/LimitResultIterator.java,20.0,0,0.0,64.24
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/LineNumberedBorder.java,15.0,15min,15.0,42.17
+cayenne,/main/java/org/apache/cayenne/util/concurrentlinkedhashmap/LinkedDeque.java,20.0,1h 5min,65.0,137.94
+cayenne,/main/java/org/apache/cayenne/di/ListBuilder.java,0.0,0,0.0,17.46
+cayenne,/main/java/org/apache/cayenne/modeler/event/ListenerClassSelectionEvent.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/modeler/event/ListenerClassSelectionListener.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/di/spi/ListProvider.java,20.0,0,0.0,16.06
+cayenne,/main/java/org/apache/cayenne/util/ListResponse.java,30.0,7min 30s,7.5,29.13
+cayenne,/main/java/org/apache/cayenne/access/ListWithPrefetches.java,60.0,25min,25.0,93.72
+cayenne,/main/java/org/apache/cayenne/access/trans/LOBBatchQueryBuilder.java,55.0,17min 30s,17.5,61.76
+cayenne,/main/java/org/apache/cayenne/access/trans/LOBBatchQueryWrapper.java,38.0,1h,60.0,45.62
+cayenne,/main/java/org/apache/cayenne/access/trans/LOBInsertBatchQueryBuilder.java,20.0,7min 30s,7.5,35.57
+cayenne,/main/java/org/apache/cayenne/access/trans/LOBUpdateBatchQueryBuilder.java,40.0,7min 30s,7.5,35.57
+cayenne,/main/java/org/apache/cayenne/configuration/rop/client/LocalClientServerChannelProvider.java,5.0,10min,10.0,9.97
+cayenne,/main/java/org/apache/cayenne/remote/service/LocalConnection.java,5.0,1h 17min,77.0,24.52
+cayenne,/main/java/org/apache/cayenne/configuration/rop/client/LocalConnectionProvider.java,5.0,0,0.0,13.5
+cayenne,/main/java/org/apache/cayenne/util/LocalizedStringsHandler.java,72.0,37min 30s,37.5,12.88
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datamap/LockingUpdateController.java,13.0,7min 30s,7.5,33.01
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datamap/LockingUpdateView.java,270.0,15min,15.0,20.02
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/LogConsole.java,8.0,35min,35.0,38.21
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/LogConsoleView.java,0.0,0,0.0,15.52
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/LogConsoleWindow.java,5.0,0,0.0,9.62
+cayenne,/main/java/org/apache/cayenne/dba/LongPkRange.java,20.0,0,0.0,16.41
+cayenne,/main/java/org/apache/cayenne/modeler/util/LongRunningTask.java,40.0,45min,45.0,46.4
+cayenne,/main/java/org/apache/cayenne/access/types/LongType.java,0.0,10min,10.0,32.47
+cayenne,/main/java/org/apache/cayenne/modeler/Main.java,0.0,20min,20.0,29.13
+cayenne,/main/java/org/apache/cayenne/tutorial/Main.java,80.0,35min,35.0,24.79
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/Main.java,60.0,27min 30s,27.5,28.94
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/MainDataNodeEditor.java,22.0,1h 7min,67.0,59.47
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/MainDataNodeView.java,0.0,15min,15.0,28.13
+cayenne,/main/java/org/apache/cayenne/di/MapBuilder.java,0.0,0,0.0,19.4
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/MapDigraph.java,28.0,2h 29min,149.0,177.9
+cayenne,/main/java/org/apache/cayenne/map/event/MapEvent.java,0.0,15min,15.0,25.87
+cayenne,/main/java/org/apache/cayenne/map/MapLoader.java,150.0,5h 36min,336.0,305.14
+cayenne,/main/java/org/apache/cayenne/map/MappingNamespace.java,0.0,0,0.0,16.49
+cayenne,/main/java/org/apache/cayenne/di/spi/MapProvider.java,20.0,0,0.0,19.59
+cayenne,/main/java/org/apache/cayenne/cache/MapQueryCache.java,92.0,25min,25.0,43.6
+cayenne,/main/java/org/apache/cayenne/cache/MapQueryCacheFactory.java,10.0,17min 30s,17.5,14.47
+cayenne,/main/java/org/apache/cayenne/cache/MapQueryCacheProvider.java,5.0,0,0.0,9.97
+cayenne,/main/java/org/apache/cayenne/tools/MavenLogger.java,0.0,0,0.0,59.58
+cayenne,/main/java/org/apache/cayenne/util/MemoryBlob.java,80.0,2h 5min,125.0,49.31
+cayenne,/main/java/org/apache/cayenne/util/MemoryClob.java,25.0,1h 10min,70.0,82.75
+cayenne,/main/java/org/apache/cayenne/merge/MergeDirection.java,0.0,40min,40.0,17.65
+cayenne,/main/java/org/apache/cayenne/merge/MergerContext.java,0.0,0,0.0,11.29
+cayenne,/main/java/org/apache/cayenne/merge/MergerFactory.java,0.0,7min 30s,7.5,120.18
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/MergerOptions.java,142.0,2h 17min,137.0,156.75
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/MergerOptionsView.java,295.0,15min,15.0,22.93
+cayenne,/main/java/org/apache/cayenne/merge/MergerToken.java,0.0,0,0.0,13.77
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/MergerTokenSelectorController.java,15.0,57min 30s,57.5,149.69
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/MergerTokenSelectorView.java,0.0,7min 30s,7.5,17.38
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/MergerTokenTableModel.java,85.0,4h 57min,297.0,61.68
+cayenne,/main/java/org/apache/cayenne/modeler/action/MigrateAction.java,5.0,17min 30s,17.5,15.09
+cayenne,/main/java/org/apache/cayenne/remote/service/MissingSessionException.java,0.0,0,0.0,12.18
+cayenne,/main/java/org/apache/cayenne/modeler/ModelerConstants.java,10.0,0,0.0,1.94
+cayenne,/main/java/org/apache/cayenne/modeler/util/ModelerLogFactory.java,5.0,0,0.0,9.0
+cayenne,/main/java/org/apache/cayenne/modeler/util/ModelerLogger.java,0.0,0,0.0,67.61
+cayenne,/main/java/org/apache/cayenne/modeler/ModelerPreferences.java,5.0,7min 30s,7.5,24.09
+cayenne,/main/java/org/apache/cayenne/modeler/util/ModelerUtil.java,35.0,1h 17min,77.0,46.94
+cayenne,/main/java/org/apache/cayenne/merge/ModelMergeDelegate.java,0.0,0,0.0,29.37
+cayenne,/main/java/org/apache/cayenne/di/Module.java,0.0,0,0.0,3.53
+cayenne,/main/java/org/apache/cayenne/modeler/util/MultiColumnBrowser.java,554.0,1h 19min,79.0,180.65
+cayenne,/main/java/org/apache/cayenne/modeler/action/MultipleObjectsAction.java,0.0,0,0.0,2.56
+cayenne,/main/java/org/apache/cayenne/modeler/event/MultipleObjectsDisplayEvent.java,35.0,0,0.0,7.41
+cayenne,/main/java/org/apache/cayenne/modeler/event/MultipleObjectsDisplayListener.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLActionBuilder.java,0.0,0,0.0,16.68
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLAdapter.java,97.0,2h 44min,164.0,73.67
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLEJBQLConditionTranslator.java,20.0,27min 30s,27.5,34.33
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLEJBQLTranslatorFactory.java,0.0,0,0.0,9.62
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLMergerFactory.java,162.0,1h 50min,110.0,54.27
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLPkGenerator.java,93.0,17min 30s,17.5,44.65
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLProcedureAction.java,55.0,1h 7min,67.0,307.44
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLQualifierTranslator.java,10.0,30min,30.0,26.03
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLSelectAction.java,0.0,17min 30s,17.5,19.59
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLSelectTranslator.java,0.0,20min,20.0,12.53
+cayenne,/main/java/org/apache/cayenne/dba/mysql/MySQLSniffer.java,5.0,25min,25.0,14.82
+cayenne,/main/java/org/apache/cayenne/util/NameConverter.java,48.0,55min,55.0,19.32
+cayenne,/main/java/org/apache/cayenne/util/NamedObjectFactory.java,280.0,2h,120.0,369.2
+cayenne,/main/java/org/apache/cayenne/query/NamedQuery.java,41.0,2h 22min,142.0,45.16
+cayenne,/main/java/org/apache/cayenne/tools/NamePatternMatcher.java,52.0,3h 8min,188.0,44.19
+cayenne,/main/java/org/apache/cayenne/project/validation/NameValidationHelper.java,20.0,50min,50.0,39.26
+cayenne,/main/java/org/apache/cayenne/map/naming/NamingStrategy.java,0.0,0,0.0,9.7
+cayenne,/main/java/org/apache/cayenne/modeler/util/NamingStrategyPreferences.java,64.0,10min,10.0,18.08
+cayenne,/main/java/org/apache/cayenne/modeler/action/NavigateBackwardAction.java,5.0,0,0.0,13.15
+cayenne,/main/java/org/apache/cayenne/modeler/action/NavigateForwardAction.java,5.0,0,0.0,13.15
+cayenne,/main/java/org/apache/cayenne/cache/NestedQueryCache.java,0.0,0,0.0,180.52
+cayenne,/main/java/org/apache/cayenne/modeler/action/NewProjectAction.java,5.0,17min 30s,17.5,20.21
+cayenne,/main/java/org/apache/cayenne/exp/parser/Node.java,0.0,0,0.0,8.73
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/Node.java,0.0,0,0.0,8.73
+cayenne,/main/java/org/apache/cayenne/graph/NodeCreateOperation.java,0.0,7min 30s,7.5,19.24
+cayenne,/main/java/org/apache/cayenne/graph/NodeDeleteOperation.java,0.0,7min 30s,7.5,19.24
+cayenne,/main/java/org/apache/cayenne/graph/NodeDiff.java,15.0,15min,15.0,25.68
+cayenne,/main/java/org/apache/cayenne/graph/NodeIdChangeOperation.java,0.0,7min 30s,7.5,18.0
+cayenne,/main/java/org/apache/cayenne/graph/NodePropertyChangeOperation.java,0.0,7min 30s,7.5,27.7
+cayenne,/main/java/org/apache/cayenne/access/NoopDelegate.java,20.0,0,0.0,27.62
+cayenne,/main/java/org/apache/cayenne/log/NoopJdbcEventLogger.java,80.0,0,0.0,69.2
+cayenne,/main/java/org/apache/cayenne/access/NoopParentAttachmentStrategy.java,0.0,0,0.0,9.97
+cayenne,/main/java/org/apache/cayenne/di/spi/NoScope.java,0.0,0,0.0,8.03
+cayenne,/main/java/org/apache/cayenne/access/NoSyncObjectStore.java,0.0,7min 30s,7.5,14.12
+cayenne,/main/java/org/apache/cayenne/map/ObjAttribute.java,0.0,3h 5min,185.0,67.96
+cayenne,/main/java/org/apache/cayenne/modeler/event/ObjAttributeDisplayListener.java,0.0,0,0.0,1.94
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/ObjAttributeInfoDialog.java,427.0,3h 45min,225.0,129.1
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/ObjAttributeInfoDialogView.java,280.0,30min,30.0,45.78
+cayenne,/main/java/org/apache/cayenne/map/event/ObjAttributeListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/ObjAttributePathBrowser.java,30.0,27min 30s,27.5,46.78
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ObjAttributeTableModel.java,157.0,7h 57min,477.0,148.07
+cayenne,/main/java/org/apache/cayenne/project/validation/ObjAttributeValidator.java,40.0,1h 20min,80.0,24.44
+cayenne,/main/java/org/apache/cayenne/swing/ObjectBinding.java,0.0,0,0.0,12.88
+cayenne,/main/java/org/apache/cayenne/ObjectContext.java,100.0,0,0.0,42.79
+cayenne,/main/java/org/apache/cayenne/ObjectContextChangeLog.java,43.0,36min,36.0,71.65
+cayenne,/main/java/org/apache/cayenne/ObjectContextDeleteAction.java,47.0,1h 40min,100.0,59.47
+cayenne,/main/java/org/apache/cayenne/configuration/ObjectContextFactory.java,0.0,0,0.0,4.5
+cayenne,/main/java/org/apache/cayenne/util/ObjectContextGraphAction.java,0.0,10min,10.0,28.67
+cayenne,/main/java/org/apache/cayenne/util/ObjectContextQueryAction.java,60.0,2h 32min,152.0,65.29
+cayenne,/main/java/org/apache/cayenne/ObjectContextStateLog.java,34.0,40min,40.0,68.39
+cayenne,/main/java/org/apache/cayenne/util/ObjectDetachOperation.java,38.0,32min 30s,32.5,17.65
+cayenne,/main/java/org/apache/cayenne/access/ObjectDiff.java,22.0,2h 15min,135.0,93.61
+cayenne,/main/java/org/apache/cayenne/ObjectId.java,120.0,3h 20min,200.0,53.73
+cayenne,/main/java/org/apache/cayenne/lifecycle/relationship/ObjectIdBatchFault.java,4.0,45min,45.0,35.3
+cayenne,/main/java/org/apache/cayenne/lifecycle/relationship/ObjectIdBatchSourceItem.java,0.0,0,0.0,15.79
+cayenne,/main/java/org/apache/cayenne/lifecycle/relationship/ObjectIdFault.java,0.0,0,0.0,13.85
+cayenne,/main/java/org/apache/cayenne/lifecycle/relationship/ObjectIdPropagatedValueFactory.java,0.0,0,0.0,11.91
+cayenne,/main/java/org/apache/cayenne/query/ObjectIdQuery.java,0.0,35min,35.0,40.58
+cayenne,/main/java/org/apache/cayenne/lifecycle/relationship/ObjectIdRelationship.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/lifecycle/relationship/ObjectIdRelationshipBatchFaultingStrategy.java,0.0,10min,10.0,25.06
+cayenne,/main/java/org/apache/cayenne/lifecycle/relationship/ObjectIdRelationshipFaultingStrategy.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/lifecycle/relationship/ObjectIdRelationshipFilter.java,0.0,10min,10.0,28.05
+cayenne,/main/java/org/apache/cayenne/lifecycle/relationship/ObjectIdRelationshipHandler.java,0.0,17min 30s,17.5,24.79
+cayenne,/main/java/org/apache/cayenne/access/ObjectMapRetainStrategy.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ObjectQueryPropertiesPanel.java,0.0,15min,15.0,12.18
+cayenne,/main/java/org/apache/cayenne/access/ObjectResolver.java,9.0,1h 17min,77.0,93.26
+cayenne,/main/java/org/apache/cayenne/access/ObjectsFromDataRowsQuery.java,85.0,15min,15.0,90.76
+cayenne,/main/java/org/apache/cayenne/access/ObjectStore.java,166.0,4h 57min,297.0,155.56
+cayenne,/main/java/org/apache/cayenne/configuration/ObjectStoreFactory.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/access/ObjectStoreGraphDiff.java,14.0,1h 2min,62.0,41.39
+cayenne,/main/java/org/apache/cayenne/access/types/ObjectType.java,0.0,0,0.0,32.47
+cayenne,/main/java/org/apache/cayenne/map/ObjEntity.java,53.0,1M/d,480.0,238.88
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ObjEntityAttributeTab.java,280.0,2h 7min,127.0,81.19
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ObjEntityCallbackListenersTab.java,0.0,17min 30s,17.5,13.15
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ObjEntityCallbackMethodsTab.java,10.0,10min,10.0,12.18
+cayenne,/main/java/org/apache/cayenne/modeler/graph/ObjEntityCellMetadata.java,5.0,10min,10.0,20.21
+cayenne,/main/java/org/apache/cayenne/modeler/event/ObjEntityDisplayListener.java,0.0,0,0.0,2.56
+cayenne,/main/java/org/apache/cayenne/map/event/ObjEntityListener.java,0.0,0,0.0,5.74
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ObjEntityRelationshipTab.java,615.0,2h 56min,176.0,111.37
+cayenne,/main/java/org/apache/cayenne/modeler/action/ObjEntitySyncAction.java,5.0,10min,10.0,19.86
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ObjEntityTab.java,46.0,2h 35min,155.0,103.66
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ObjEntityTabbedView.java,25.0,48min 30s,48.5,41.12
+cayenne,/main/java/org/apache/cayenne/project/validation/ObjEntityValidator.java,56.0,1h 37min,97.0,29.91
+cayenne,/main/java/org/apache/cayenne/modeler/graph/ObjGraphBuilder.java,0.0,45min,45.0,61.6
+cayenne,/main/java/org/apache/cayenne/map/ObjRelationship.java,38.0,5h 22min,322.0,101.05
+cayenne,/main/java/org/apache/cayenne/modeler/event/ObjRelationshipDisplayListener.java,0.0,0,0.0,1.94
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/ObjRelationshipInfo.java,90.0,2h 33min,153.0,173.21
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/ObjRelationshipInfoView.java,270.0,22min 30s,22.5,43.57
+cayenne,/main/java/org/apache/cayenne/map/event/ObjRelationshipListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/ObjRelationshipPathBrowser.java,30.0,10min,10.0,50.23
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ObjRelationshipTableModel.java,52.0,4h 53min,293.0,101.13
+cayenne,/main/java/org/apache/cayenne/project/validation/ObjRelationshipValidator.java,52.0,1h,60.0,39.8
+cayenne,/main/java/org/apache/cayenne/dba/openbase/OpenBaseActionBuilder.java,0.0,30min,30.0,23.39
+cayenne,/main/java/org/apache/cayenne/dba/openbase/OpenBaseAdapter.java,87.0,50min,50.0,93.88
+cayenne,/main/java/org/apache/cayenne/dba/openbase/OpenBaseJoinStack.java,28.0,57min 30s,57.5,46.86
+cayenne,/main/java/org/apache/cayenne/dba/openbase/OpenBaseMergerFactory.java,46.0,1h 7min,67.0,39.88
+cayenne,/main/java/org/apache/cayenne/dba/openbase/OpenBasePkGenerator.java,63.0,1h 35min,95.0,93.26
+cayenne,/main/java/org/apache/cayenne/dba/openbase/OpenBaseQualifierTranslator.java,38.0,52min,52.0,53.11
+cayenne,/main/java/org/apache/cayenne/dba/openbase/OpenBaseSelectTranslator.java,0.0,0,0.0,14.12
+cayenne,/main/java/org/apache/cayenne/dba/openbase/OpenBaseSniffer.java,0.0,7min 30s,7.5,16.06
+cayenne,/main/java/org/apache/cayenne/modeler/action/OpenProjectAction.java,28.0,1h 22min,82.0,41.74
+cayenne,/main/java/org/apache/cayenne/modeler/util/OperatingSystem.java,0.0,0,0.0,5.47
+cayenne,/main/java/org/apache/cayenne/access/OperationHints.java,0.0,0,0.0,2.56
+cayenne,/main/java/org/apache/cayenne/access/OperationObserver.java,0.0,0,0.0,17.92
+cayenne,/main/java/org/apache/cayenne/access/OptimisticLockException.java,152.0,0,0.0,27.08
+cayenne,/main/java/org/apache/cayenne/dba/oracle/Oracle8ActionBuilder.java,0.0,37min 30s,37.5,24.09
+cayenne,/main/java/org/apache/cayenne/dba/oracle/Oracle8Adapter.java,20.0,15min,15.0,27.7
+cayenne,/main/java/org/apache/cayenne/dba/oracle/Oracle8JoinStack.java,28.0,57min 30s,57.5,46.86
+cayenne,/main/java/org/apache/cayenne/dba/oracle/Oracle8LOBBatchAction.java,30.0,20min,20.0,35.03
+cayenne,/main/java/org/apache/cayenne/dba/oracle/Oracle8QualifierTranslator.java,0.0,7min 30s,7.5,13.15
+cayenne,/main/java/org/apache/cayenne/dba/oracle/Oracle8SelectAction.java,0.0,17min 30s,17.5,16.06
+cayenne,/main/java/org/apache/cayenne/dba/oracle/Oracle8SelectTranslator.java,0.0,7min 30s,7.5,9.0
+cayenne,/main/java/org/apache/cayenne/dba/oracle/Oracle8SQLTemplateAction.java,33.0,27min 30s,27.5,21.88
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleActionBuilder.java,0.0,30min,30.0,27.62
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleAdapter.java,60.0,1h 42min,102.0,99.86
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleBatchAction.java,0.0,7min 30s,7.5,14.47
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleByteArrayType.java,0.0,0,0.0,21.18
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleCharType.java,0.0,0,0.0,15.44
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleEJBQLConditionTranslator.java,0.0,7min 30s,7.5,15.71
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleEJBQLTranslatorFactory.java,0.0,0,0.0,9.62
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleLOBBatchAction.java,43.0,55min,55.0,289.06
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleMergerFactory.java,148.0,1h 40min,100.0,44.92
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OraclePkGenerator.java,81.0,1h 19min,79.0,130.96
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleProcedureAction.java,10.0,25min,25.0,200.11
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleQualifierTranslator.java,2.0,47min 30s,47.5,49.69
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleSelectAction.java,0.0,17min 30s,17.5,19.59
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleSelectTranslator.java,0.0,0,0.0,22.5
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleSniffer.java,0.0,17min 30s,17.5,10.94
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleSQLTemplateAction.java,52.0,30min,30.0,1457.4
+cayenne,/main/java/org/apache/cayenne/dba/oracle/OracleUtilDateType.java,0.0,40min,40.0,29.56
+cayenne,/main/java/org/apache/cayenne/query/Ordering.java,10.0,2h 3min,123.0,39.34
+cayenne,/main/java/org/apache/cayenne/access/trans/OrderingTranslator.java,5.0,25min,25.0,43.6
+cayenne,/main/java/org/apache/cayenne/cache/OSQueryCache.java,115.0,1h 42min,102.0,130.53
+cayenne,/main/java/org/apache/cayenne/cache/OSQueryCacheFactory.java,10.0,0,0.0,9.97
+cayenne,/main/java/org/apache/cayenne/modeler/osx/OSXCayenneModelerModule.java,0.0,0,0.0,10.24
+cayenne,/main/java/org/apache/cayenne/modeler/osx/OSXMain.java,0.0,0,0.0,17.3
+cayenne,/main/java/org/apache/cayenne/modeler/osx/OSXPlatformInitializer.java,282.0,15min,15.0,43.95
+cayenne,/main/java/org/apache/cayenne/modeler/osx/OSXWidgetFactory.java,5.0,15min,15.0,24.98
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/objentity/OverrideEmbeddableAttributeTableModel.java,45.0,4h 12min,252.0,122.55
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/OverwriteDialog.java,0.0,0,0.0,25.68
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datamap/PackageUpdateController.java,53.0,1h,60.0,46.16
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/Painting.java,0.0,7min 30s,7.5,10.24
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/Painting.java,0.0,7min 30s,7.5,8.65
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/Painting.java,0.0,7min 30s,7.5,10.24
+cayenne,/main/java/org/apache/cayenne/tutorial/persistent/client/Painting.java,0.0,7min 30s,7.5,8.65
+cayenne,/main/java/org/apache/cayenne/modeler/util/PanelFactory.java,34.0,0,0.0,42.79
+cayenne,/main/java/org/apache/cayenne/access/jdbc/ParameterBinding.java,0.0,0,0.0,18.7
+cayenne,/main/java/org/apache/cayenne/query/ParameterizedQuery.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/access/ParentAttachmentStrategy.java,0.0,0,0.0,5.47
+cayenne,/main/java/org/apache/cayenne/exp/parser/ParseException.java,405.0,4h 41min,281.0,53.22
+cayenne,/main/java/org/apache/cayenne/wocompat/parser/ParseException.java,380.0,4h 41min,281.0,55.16
+cayenne,/main/java/org/apache/cayenne/wocompat/parser/Parser.java,627.0,1M/d,480.0,305.55
+cayenne,/main/java/org/apache/cayenne/wocompat/parser/ParserConstants.java,14.0,0,0.0,17.46
+cayenne,/main/java/org/apache/cayenne/wocompat/parser/ParserTokenManager.java,1423.0,2M/d,960.0,240.9
+cayenne,/main/java/org/apache/cayenne/exp/parser/ParserUtil.java,30.0,10min,10.0,18.0
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/PasswordEncoderEditor.java,15.0,1h 12min,72.0,42.71
+cayenne,/main/java/org/apache/cayenne/modeler/editor/datanode/PasswordEncoderView.java,275.0,17min,17.0,43.06
+cayenne,/main/java/org/apache/cayenne/configuration/PasswordEncoding.java,10.0,0,0.0,11.21
+cayenne,/main/java/org/apache/cayenne/modeler/action/PasteAction.java,85.0,3h 18min,198.0,180.49
+cayenne,/main/java/org/apache/cayenne/modeler/undo/PasteCompoundUndoableEdit.java,0.0,0,0.0,12.18
+cayenne,/main/java/org/apache/cayenne/modeler/undo/PasteUndoableEdit.java,30.0,1h 20min,80.0,35.38
+cayenne,/main/java/org/apache/cayenne/map/PathComponent.java,0.0,0,0.0,15.98
+cayenne,/main/java/org/apache/cayenne/map/PathComponentIterator.java,7.0,38min 30s,38.5,36.0
+cayenne,/main/java/org/apache/cayenne/maven/plugin/util/PatternGroup.java,5.0,20min,20.0,28.51
+cayenne,/main/java/org/apache/cayenne/exp/parser/PatternMatchNode.java,0.0,46min,46.0,29.56
+cayenne,/main/java/org/apache/cayenne/PersistenceState.java,30.0,2h 27min,147.0,9.0
+cayenne,/main/java/org/apache/cayenne/Persistent.java,0.0,10min,10.0,17.3
+cayenne,/main/java/org/apache/cayenne/reflect/PersistentDescriptor.java,22.0,2h 30min,150.0,122.63
+cayenne,/main/java/org/apache/cayenne/reflect/PersistentDescriptorFactory.java,16.0,1h 7min,67.0,103.31
+cayenne,/main/java/org/apache/cayenne/reflect/PersistentDescriptorResultMetadata.java,0.0,0,0.0,34.49
+cayenne,/main/java/org/apache/cayenne/PersistentObject.java,10.0,17min 30s,17.5,30.53
+cayenne,/main/java/org/apache/cayenne/util/PersistentObjectCollection.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/util/PersistentObjectHolder.java,22.0,37min 30s,37.5,38.64
+cayenne,/main/java/org/apache/cayenne/util/PersistentObjectList.java,32.0,3h 20min,200.0,158.74
+cayenne,/main/java/org/apache/cayenne/util/PersistentObjectMap.java,27.0,1h 55min,115.0,103.15
+cayenne,/main/java/org/apache/cayenne/util/PersistentObjectSet.java,32.0,2h 50min,170.0,127.24
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/PKCustomSequenceGeneratorPanel.java,20.0,27min 30s,27.5,30.8
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/PKDBGeneratorPanel.java,277.0,7min 30s,7.5,37.86
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/PKDefaultGeneratorPanel.java,0.0,0,0.0,14.12
+cayenne,/main/java/org/apache/cayenne/dba/PkGenerator.java,60.0,0,0.0,13.58
+cayenne,/main/java/org/apache/cayenne/modeler/editor/dbentity/PKGeneratorPanel.java,2.0,7min 30s,7.5,15.44
+cayenne,/main/java/org/apache/cayenne/configuration/PlainTextPasswordEncoder.java,0.0,0,0.0,15.09
+cayenne,/main/java/org/apache/cayenne/modeler/init/platform/PlatformInitializer.java,0.0,0,0.0,1.94
+cayenne,/main/java/org/apache/cayenne/wocompat/PlistDataStructureFactory.java,0.0,0,0.0,6.79
+cayenne,/main/java/org/apache/cayenne/conn/PoolDataSource.java,0.0,0,0.0,42.17
+cayenne,/main/java/org/apache/cayenne/conn/PooledConnectionImpl.java,4.0,25min,25.0,51.25
+cayenne,/main/java/org/apache/cayenne/conn/PoolManager.java,26.0,1h 46min,106.0,158.6
+cayenne,/main/java/org/apache/cayenne/annotation/PostAdd.java,0.0,0,0.0,1.59
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresActionBuilder.java,0.0,0,0.0,16.68
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresAdapter.java,136.0,1h 41min,101.0,52.41
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresByteArrayType.java,0.0,10min,10.0,19.94
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresMergerFactory.java,20.0,20min,20.0,17.03
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresPkGenerator.java,89.0,54min 30s,54.5,37.94
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresProcedureAction.java,0.0,27min 30s,27.5,27.27
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresQualifierTranslator.java,38.0,59min 30s,59.5,42.44
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresSelectAction.java,0.0,17min 30s,17.5,19.59
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresSelectTranslator.java,0.0,0,0.0,12.53
+cayenne,/main/java/org/apache/cayenne/dba/postgres/PostgresSniffer.java,0.0,7min 30s,7.5,16.06
+cayenne,/main/java/org/apache/cayenne/annotation/PostLoad.java,0.0,0,0.0,1.59
+cayenne,/main/java/org/apache/cayenne/annotation/PostPersist.java,0.0,0,0.0,1.59
+cayenne,/main/java/org/apache/cayenne/annotation/PostRemove.java,0.0,0,0.0,1.59
+cayenne,/main/java/org/apache/cayenne/annotation/PostUpdate.java,0.0,0,0.0,1.59
+cayenne,/main/java/org/apache/cayenne/pref/Preference.java,10.0,0,0.0,7.76
+cayenne,/main/java/org/apache/cayenne/pref/PreferenceDecorator.java,0.0,0,0.0,16.33
+cayenne,/main/java/org/apache/cayenne/pref/PreferenceDetail.java,0.0,0,0.0,16.06
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/PreferenceDialog.java,5.0,7min 30s,7.5,39.88
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/PreferenceDialogView.java,270.0,7min 30s,7.5,27.08
+cayenne,/main/java/org/apache/cayenne/pref/PreferenceEditor.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/pref/PreferenceException.java,0.0,0,0.0,18.27
+cayenne,/main/java/org/apache/cayenne/query/PrefetchProcessor.java,0.0,0,0.0,20.21
+cayenne,/main/java/org/apache/cayenne/access/PrefetchProcessorJointNode.java,0.0,25min,25.0,51.17
+cayenne,/main/java/org/apache/cayenne/access/PrefetchProcessorNode.java,2.0,37min 30s,37.5,85.39
+cayenne,/main/java/org/apache/cayenne/access/PrefetchProcessorTreeBuilder.java,12.0,45min,45.0,67.04
+cayenne,/main/java/org/apache/cayenne/query/PrefetchSelectQuery.java,42.0,7min 30s,7.5,22.31
+cayenne,/main/java/org/apache/cayenne/query/PrefetchTreeNode.java,57.0,57min 30s,57.5,220.96
+cayenne,/main/java/org/apache/cayenne/annotation/PrePersist.java,0.0,0,0.0,1.59
+cayenne,/main/java/org/apache/cayenne/annotation/PreRemove.java,0.0,0,0.0,1.59
+cayenne,/main/java/org/apache/cayenne/annotation/PreUpdate.java,0.0,0,0.0,1.59
+cayenne,/main/java/org/apache/cayenne/map/Procedure.java,52.0,15min,15.0,50.82
+cayenne,/main/java/org/apache/cayenne/access/jdbc/ProcedureAction.java,60.0,52min 30s,52.5,371.79
+cayenne,/main/java/org/apache/cayenne/modeler/event/ProcedureDisplayEvent.java,0.0,7min 30s,7.5,20.99
+cayenne,/main/java/org/apache/cayenne/modeler/event/ProcedureDisplayListener.java,0.0,0,0.0,3.53
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/ProcedureErrorMsg.java,0.0,0,0.0,14.12
+cayenne,/main/java/org/apache/cayenne/configuration/event/ProcedureEvent.java,0.0,7min 30s,7.5,20.91
+cayenne,/main/java/org/apache/cayenne/configuration/event/ProcedureListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/map/ProcedureParameter.java,10.0,32min 30s,32.5,52.14
+cayenne,/main/java/org/apache/cayenne/modeler/event/ProcedureParameterDisplayEvent.java,0.0,7min 30s,7.5,19.67
+cayenne,/main/java/org/apache/cayenne/modeler/event/ProcedureParameterDisplayListener.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/ProcedureParameterErrorMsg.java,0.0,0,0.0,13.5
+cayenne,/main/java/org/apache/cayenne/configuration/event/ProcedureParameterEvent.java,0.0,7min 30s,7.5,21.88
+cayenne,/main/java/org/apache/cayenne/configuration/event/ProcedureParameterListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ProcedureParameterTab.java,7.0,55min,55.0,44.38
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ProcedureParameterTableModel.java,11.0,4h 47min,287.0,116.38
+cayenne,/main/java/org/apache/cayenne/project/validation/ProcedureParameterValidator.java,0.0,0,0.0,10.94
+cayenne,/main/java/org/apache/cayenne/query/ProcedureQuery.java,59.0,1h 2min,62.0,81.24
+cayenne,/main/java/org/apache/cayenne/map/ProcedureQueryBuilder.java,0.0,0,0.0,8.03
+cayenne,/main/java/org/apache/cayenne/query/ProcedureQueryMetadata.java,51.0,40min,40.0,17.73
+cayenne,/main/java/org/apache/cayenne/project/validation/ProcedureQueryValidator.java,45.0,47min 30s,47.5,27.97
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ProcedureQueryView.java,312.0,2h 10min,130.0,79.25
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ProcedureTab.java,0.0,42min 30s,42.5,31.23
+cayenne,/main/java/org/apache/cayenne/modeler/editor/ProcedureTabbedView.java,0.0,8min 30s,8.5,17.38
+cayenne,/main/java/org/apache/cayenne/access/trans/ProcedureTranslator.java,84.0,32min 30s,32.5,83.29
+cayenne,/main/java/org/apache/cayenne/project/validation/ProcedureValidator.java,20.0,30min,30.0,19.32
+cayenne,/main/java/org/apache/cayenne/modeler/util/ProgressDialog.java,270.0,7min 30s,7.5,18.7
+cayenne,/main/java/org/apache/cayenne/project/Project.java,20.0,0,0.0,26.65
+cayenne,/main/java/org/apache/cayenne/modeler/action/ProjectAction.java,5.0,57min 30s,57.5,26.38
+cayenne,/main/java/org/apache/cayenne/modeler/ProjectController.java,169.0,7h 42min,462.0,479.44
+cayenne,/main/java/org/apache/cayenne/project/ProjectLoader.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/modeler/action/ProjectOpener.java,41.0,1h 17min,77.0,32.12
+cayenne,/main/java/org/apache/cayenne/project/ProjectSaver.java,0.0,0,0.0,4.85
+cayenne,/main/java/org/apache/cayenne/modeler/ProjectTreeFactory.java,35.0,10min,10.0,46.86
+cayenne,/main/java/org/apache/cayenne/modeler/ProjectTreeModel.java,36.0,1h 15min,75.0,20.56
+cayenne,/main/java/org/apache/cayenne/modeler/ProjectTreeView.java,102.0,7h 29min,449.0,264.67
+cayenne,/main/java/org/apache/cayenne/project/upgrade/ProjectUpgrader.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/project/upgrade/v6/ProjectUpgrader_V6.java,5.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/modeler/util/ProjectUtil.java,140.0,3h 37min,217.0,102.34
+cayenne,/main/java/org/apache/cayenne/project/validation/ProjectValidator.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/ProjectWatchdog.java,0.0,2min,2.0,20.21
+cayenne,/main/java/org/apache/cayenne/reflect/Property.java,0.0,0,0.0,27.62
+cayenne,/main/java/org/apache/cayenne/reflect/PropertyAccessor.java,0.0,0,0.0,24.09
+cayenne,/main/java/org/apache/cayenne/swing/PropertyBinding.java,0.0,0,0.0,17.3
+cayenne,/main/java/org/apache/cayenne/lifecycle/changeset/PropertyChange.java,0.0,0,0.0,17.11
+cayenne,/main/java/org/apache/cayenne/reflect/PropertyComparator.java,0.0,47min 30s,47.5,11.91
+cayenne,/main/java/org/apache/cayenne/configuration/server/PropertyDataSourceFactory.java,0.0,30min,30.0,31.5
+cayenne,/main/java/org/apache/cayenne/reflect/PropertyException.java,75.0,0,0.0,50.55
+cayenne,/main/java/org/apache/cayenne/wocompat/PropertyListSerialization.java,69.0,1h 22min,82.0,53.46
+cayenne,/main/java/org/apache/cayenne/reflect/PropertyUtils.java,35.0,4h 27min,267.0,121.5
+cayenne,/main/java/org/apache/cayenne/reflect/PropertyVisitor.java,0.0,0,0.0,11.56
+cayenne,/main/java/org/apache/cayenne/di/Provider.java,0.0,0,0.0,5.47
+cayenne,/main/java/org/apache/cayenne/query/QualifiedQuery.java,0.0,7min 30s,7.5,7.06
+cayenne,/main/java/org/apache/cayenne/access/trans/QualifierTranslator.java,53.0,3h 47min,227.0,141.79
+cayenne,/main/java/org/apache/cayenne/query/Query.java,0.0,0,0.0,14.39
+cayenne,/main/java/org/apache/cayenne/access/trans/QueryAssembler.java,62.0,7min 30s,7.5,94.07
+cayenne,/main/java/org/apache/cayenne/access/trans/QueryAssemblerHelper.java,148.0,3h 37min,217.0,199.7
+cayenne,/main/java/org/apache/cayenne/cache/QueryCache.java,0.0,0,0.0,14.74
+cayenne,/main/java/org/apache/cayenne/cache/QueryCacheEntryFactory.java,0.0,0,0.0,2.56
+cayenne,/main/java/org/apache/cayenne/cache/QueryCacheFactory.java,10.0,0,0.0,3.53
+cayenne,/main/java/org/apache/cayenne/query/QueryCacheStrategy.java,0.0,20min,20.0,4.5
+cayenne,/main/java/org/apache/cayenne/query/QueryChain.java,0.0,0,0.0,35.11
+cayenne,/main/java/org/apache/cayenne/modeler/event/QueryDisplayEvent.java,0.0,7min 30s,7.5,17.11
+cayenne,/main/java/org/apache/cayenne/modeler/event/QueryDisplayListener.java,0.0,0,0.0,3.53
+cayenne,/main/java/org/apache/cayenne/access/QueryEngine.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/QueryErrorMsg.java,0.0,0,0.0,14.12
+cayenne,/main/java/org/apache/cayenne/configuration/event/QueryEvent.java,0.0,7min 30s,7.5,35.11
+cayenne,/main/java/org/apache/cayenne/configuration/event/QueryListener.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/map/QueryLoader.java,10.0,35min,35.0,45.78
+cayenne,/main/java/org/apache/cayenne/access/QueryLogger.java,123.0,1h 11min,71.0,70.65
+cayenne,/main/java/org/apache/cayenne/remote/QueryMessage.java,0.0,0,0.0,8.38
+cayenne,/main/java/org/apache/cayenne/query/QueryMetadata.java,10.0,0,0.0,29.59
+cayenne,/main/java/org/apache/cayenne/query/QueryMetadataWrapper.java,0.0,40min,40.0,115.39
+cayenne,/main/java/org/apache/cayenne/QueryResponse.java,20.0,0,0.0,10.86
+cayenne,/main/java/org/apache/cayenne/access/QueryResult.java,30.0,2h 5min,125.0,50.82
+cayenne,/main/java/org/apache/cayenne/query/QueryRouter.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/query/QueryType.java,10.0,25min,25.0,48.61
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/query/QueryTypeView.java,275.0,15min,15.0,27.08
+cayenne,/main/java/org/apache/cayenne/dba/QuotingStrategy.java,0.0,0,0.0,44.22
+cayenne,/main/java/org/apache/cayenne/remote/RangeQuery.java,60.0,7min 30s,7.5,36.97
+cayenne,/main/java/org/apache/cayenne/modeler/editor/RawQueryPropertiesPanel.java,20.0,15min,15.0,29.56
+cayenne,/main/java/org/apache/cayenne/modeler/graph/action/RebuildGraphAction.java,0.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/modeler/event/RecentFileListListener.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/modeler/util/RecentFileMenu.java,305.0,7min 30s,7.5,22.42
+cayenne,/main/java/org/apache/cayenne/modeler/action/RedoAction.java,7.0,0,0.0,25.95
+cayenne,/main/java/org/apache/cayenne/query/RefreshQuery.java,20.0,27min 30s,27.5,59.12
+cayenne,/main/java/org/apache/cayenne/util/RegexUtil.java,5.0,50min,50.0,19.94
+cayenne,/main/java/org/apache/cayenne/map/Relationship.java,0.0,15min,15.0,39.1
+cayenne,/main/java/org/apache/cayenne/modeler/event/RelationshipDisplayEvent.java,0.0,7min 30s,7.5,24.17
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/RelationshipErrorMsg.java,0.0,10min,10.0,9.7
+cayenne,/main/java/org/apache/cayenne/map/event/RelationshipEvent.java,0.0,7min 30s,7.5,16.76
+cayenne,/main/java/org/apache/cayenne/util/RelationshipFault.java,0.0,35min,35.0,27.35
+cayenne,/main/java/org/apache/cayenne/map/RelationshipPathComponent.java,0.0,0,0.0,28.59
+cayenne,/main/java/org/apache/cayenne/query/RelationshipQuery.java,0.0,7min 30s,7.5,33.52
+cayenne,/main/java/org/apache/cayenne/modeler/undo/RelationshipUndoableEdit.java,40.0,0,0.0,44.3
+cayenne,/main/java/org/apache/cayenne/remote/RemoteIncrementalFaultList.java,40.0,2h 55min,175.0,170.25
+cayenne,/main/java/org/apache/cayenne/remote/RemoteService.java,25.0,0,0.0,12.61
+cayenne,/main/java/org/apache/cayenne/remote/RemoteSession.java,37.0,20min,20.0,33.17
+cayenne,/main/java/org/apache/cayenne/modeler/action/RemoveAction.java,33.0,3h 52min,232.0,82.16
+cayenne,/main/java/org/apache/cayenne/modeler/action/RemoveAttributeAction.java,23.0,40min,40.0,45.89
+cayenne,/main/java/org/apache/cayenne/modeler/undo/RemoveAttributeUndoableEdit.java,10.0,37min 30s,37.5,56.91
+cayenne,/main/java/org/apache/cayenne/modeler/action/RemoveCallbackMethodAction.java,4.0,15min,15.0,5.47
+cayenne,/main/java/org/apache/cayenne/modeler/action/RemoveCallbackMethodForListenerAction.java,4.0,15min,15.0,5.47
+cayenne,/main/java/org/apache/cayenne/modeler/undo/RemoveCompoundUndoableEdit.java,0.0,0,0.0,10.24
+cayenne,/main/java/org/apache/cayenne/modeler/graph/action/RemoveEntityAction.java,0.0,17min 30s,17.5,10.94
+cayenne,/main/java/org/apache/cayenne/modeler/action/RemoveEntityListenerAction.java,5.0,7min 30s,7.5,15.09
+cayenne,/main/java/org/apache/cayenne/modeler/action/RemoveEntityListenerForDataMapAction.java,5.0,7min 30s,7.5,15.09
+cayenne,/main/java/org/apache/cayenne/modeler/action/RemoveProcedureParameterAction.java,9.0,17min 30s,17.5,28.24
+cayenne,/main/java/org/apache/cayenne/modeler/action/RemoveRelationshipAction.java,16.0,40min,40.0,41.39
+cayenne,/main/java/org/apache/cayenne/modeler/undo/RemoveRelationshipUndoableEdit.java,10.0,20min,20.0,38.21
+cayenne,/main/java/org/apache/cayenne/modeler/undo/RemoveUndoableEdit.java,130.0,4h 40min,280.0,99.0
+cayenne,/main/java/org/apache/cayenne/pref/RenamedPreferences.java,57.0,1h,60.0,50.47
+cayenne,/main/java/org/apache/cayenne/configuration/web/RequestHandler.java,0.0,0,0.0,6.79
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/ResolveDbRelationshipDialog.java,16.0,2h 12min,132.0,66.53
+cayenne,/main/java/org/apache/cayenne/resource/Resource.java,0.0,0,0.0,5.12
+cayenne,/main/java/org/apache/cayenne/conf/ResourceFinder.java,10.0,0,0.0,4.85
+cayenne,/main/java/org/apache/cayenne/resource/ResourceLocator.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/util/ResourceLocator.java,42.0,3h 10min,190.0,74.83
+cayenne,/main/java/org/apache/cayenne/test/resource/ResourceUtil.java,120.0,40min,40.0,36.62
+cayenne,/main/java/org/apache/cayenne/access/jdbc/ResultDirective.java,30.0,25min,25.0,43.49
+cayenne,/main/java/org/apache/cayenne/access/ResultIterator.java,20.0,0,0.0,16.06
+cayenne,/main/java/org/apache/cayenne/access/ResultScanParentAttachmentStrategy.java,5.0,37min 30s,37.5,22.85
+cayenne,/main/java/org/apache/cayenne/test/jdbc/ResultSetTemplate.java,0.0,10min,10.0,19.94
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/ReversedIteration.java,0.0,0,0.0,42.28
+cayenne,/main/java/org/apache/cayenne/modeler/action/RevertAction.java,5.0,10min,10.0,15.71
+cayenne,/main/java/org/apache/cayenne/configuration/rop/server/ROPHessianServlet.java,30.0,17min 30s,17.5,14.82
+cayenne,/main/java/org/apache/cayenne/configuration/rop/server/ROPServerModule.java,0.0,0,0.0,8.03
+cayenne,/main/java/org/apache/cayenne/configuration/Rot13PasswordEncoder.java,30.0,22min,22.0,17.03
+cayenne,/main/java/org/apache/cayenne/configuration/Rot47PasswordEncoder.java,30.0,11min,11.0,17.03
+cayenne,/main/java/org/apache/cayenne/access/jdbc/RowDescriptor.java,0.0,0,0.0,8.73
+cayenne,/main/java/org/apache/cayenne/access/jdbc/RowDescriptorBuilder.java,5.0,1h,60.0,49.31
+cayenne,/main/java/org/apache/cayenne/access/jdbc/RowReader.java,0.0,10min,10.0,6.79
+cayenne,/main/java/org/apache/cayenne/test/jdbc/RowTemplate.java,0.0,10min,10.0,23.12
+cayenne,/main/java/org/apache/cayenne/configuration/server/RuntimeName.java,0.0,0,0.0,2.56
+cayenne,/main/java/org/apache/cayenne/configuration/RuntimeProperties.java,0.0,0,0.0,15.52
+cayenne,/main/java/org/apache/cayenne/project/SaveableNodesGetter.java,0.0,0,0.0,13.15
+cayenne,/main/java/org/apache/cayenne/modeler/action/SaveAction.java,5.0,25min,25.0,22.15
+cayenne,/main/java/org/apache/cayenne/modeler/action/SaveAsAction.java,47.0,1h 5min,65.0,36.0
+cayenne,/main/java/org/apache/cayenne/modeler/graph/action/SaveAsImageAction.java,0.0,7min 30s,7.5,13.85
+cayenne,/main/java/org/apache/cayenne/configuration/SAXNestedTagHandler.java,7.0,7min 30s,7.5,36.7
+cayenne,/main/java/org/apache/cayenne/query/ScalarResultSegment.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/access/jdbc/ScalarRowReader.java,0.0,10min,10.0,22.58
+cayenne,/main/java/org/apache/cayenne/access/dbsync/SchemaAnalyzer.java,109.0,1h 17min,77.0,47.02
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datamap/SchemaUpdateController.java,40.0,25min,25.0,23.74
+cayenne,/main/java/org/apache/cayenne/access/dbsync/SchemaUpdateStrategy.java,0.0,0,0.0,4.85
+cayenne,/main/java/org/apache/cayenne/di/Scope.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/di/spi/ScopeEventBinding.java,0.0,10min,10.0,23.82
+cayenne,/main/java/org/apache/cayenne/di/ScopeEventListener.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/access/jdbc/SelectAction.java,10.0,25min,25.0,35.3
+cayenne,/main/java/org/apache/cayenne/modeler/editor/SelectPropertiesPanel.java,314.0,25min,25.0,83.91
+cayenne,/main/java/org/apache/cayenne/query/SelectQuery.java,29.0,1h 16min,76.0,72.78
+cayenne,/main/java/org/apache/cayenne/map/SelectQueryBuilder.java,0.0,0,0.0,9.0
+cayenne,/main/java/org/apache/cayenne/modeler/editor/SelectQueryMainTab.java,20.0,1h 57min,117.0,87.01
+cayenne,/main/java/org/apache/cayenne/query/SelectQueryMetadata.java,35.0,45min,45.0,25.14
+cayenne,/main/java/org/apache/cayenne/modeler/editor/SelectQueryOrderingTab.java,28.0,3h 55min,235.0,108.54
+cayenne,/main/java/org/apache/cayenne/query/SelectQueryPrefetchRouterAction.java,9.0,27min 30s,27.5,37.4
+cayenne,/main/java/org/apache/cayenne/modeler/editor/SelectQueryPrefetchTab.java,23.0,3h 17min,197.0,61.6
+cayenne,/main/java/org/apache/cayenne/modeler/editor/SelectQueryTabbedView.java,35.0,30min,30.0,25.68
+cayenne,/main/java/org/apache/cayenne/project/validation/SelectQueryValidator.java,40.0,1h 55min,115.0,43.84
+cayenne,/main/java/org/apache/cayenne/access/trans/SelectTranslator.java,75.0,2h 45min,165.0,116.65
+cayenne,/main/java/org/apache/cayenne/xml/SerializableEntity.java,10.0,10min,10.0,41.9
+cayenne,/main/java/org/apache/cayenne/access/types/SerializableTypeFactory.java,0.0,20min,20.0,42.36
+cayenne,/main/java/org/apache/cayenne/remote/hessian/service/ServerDataRowSerializer.java,0.0,10min,10.0,14.47
+cayenne,/main/java/org/apache/cayenne/configuration/server/ServerModule.java,0.0,15min,15.0,8.73
+cayenne,/main/java/org/apache/cayenne/remote/hessian/service/ServerPersistentObjectListSerializer.java,0.0,0,0.0,16.06
+cayenne,/main/java/org/apache/cayenne/configuration/server/ServerRuntime.java,0.0,20min,20.0,21.53
+cayenne,/main/java/org/apache/cayenne/configuration/server/ServerRuntimeCase.java,0.0,0,0.0,25.76
+cayenne,/main/java/org/apache/cayenne/remote/hessian/service/ServerSerializerFactory.java,0.0,40min,40.0,16.76
+cayenne,/main/java/org/apache/cayenne/remote/service/ServerSession.java,0.0,0,0.0,11.29
+cayenne,/main/java/org/apache/cayenne/configuration/web/SessionContextRequestHandler.java,0.0,0,0.0,19.94
+cayenne,/main/java/org/apache/cayenne/merge/SetAllowNullToDb.java,30.0,10min,10.0,27.54
+cayenne,/main/java/org/apache/cayenne/merge/SetAllowNullToModel.java,0.0,0,0.0,26.3
+cayenne,/main/java/org/apache/cayenne/merge/SetColumnTypeToDb.java,70.0,25min,25.0,39.53
+cayenne,/main/java/org/apache/cayenne/merge/SetColumnTypeToModel.java,20.0,17min 30s,17.5,33.44
+cayenne,/main/java/org/apache/cayenne/merge/SetNotNullToDb.java,30.0,10min,10.0,27.54
+cayenne,/main/java/org/apache/cayenne/merge/SetNotNullToModel.java,0.0,0,0.0,26.3
+cayenne,/main/java/org/apache/cayenne/merge/SetPrimaryKeyToDb.java,0.0,10min,10.0,39.53
+cayenne,/main/java/org/apache/cayenne/merge/SetPrimaryKeyToModel.java,0.0,0,0.0,31.5
+cayenne,/main/java/org/apache/cayenne/merge/SetValueForNullToDb.java,0.0,0,0.0,24.71
+cayenne,/main/java/org/apache/cayenne/util/ShallowMergeOperation.java,0.0,27min 30s,27.5,9.35
+cayenne,/main/java/org/apache/cayenne/access/types/ShortType.java,0.0,0,0.0,30.88
+cayenne,/main/java/org/apache/cayenne/modeler/graph/action/ShowGraphEntityAction.java,5.0,10min,10.0,23.74
+cayenne,/main/java/org/apache/cayenne/modeler/action/ShowLogConsoleAction.java,5.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/reflect/SimpleAttributeProperty.java,0.0,7min 30s,7.5,34.41
+cayenne,/main/java/org/apache/cayenne/wocompat/parser/SimpleCharStream.java,250.0,3h 11min,191.0,155.83
+cayenne,/main/java/org/apache/cayenne/access/SimpleIdIncrementalFaultList.java,0.0,1h 45min,105.0,69.98
+cayenne,/main/java/org/apache/cayenne/exp/parser/SimpleNode.java,202.0,3h 47min,227.0,145.46
+cayenne,/main/java/org/apache/cayenne/ejbql/parser/SimpleNode.java,5.0,25min,25.0,7091.63
+cayenne,/main/java/org/apache/cayenne/validation/SimpleValidationFailure.java,5.0,0,0.0,17.03
+cayenne,/main/java/org/apache/cayenne/reflect/SingletonFaultFactory.java,0.0,10min,10.0,16.76
+cayenne,/main/java/org/apache/cayenne/access/dbsync/SkipSchemaUpdateStrategy.java,0.0,0,0.0,7.06
+cayenne,/main/java/org/apache/cayenne/map/naming/SmartNamingStrategy.java,0.0,20min,20.0,14.47
+cayenne,/main/java/org/apache/cayenne/access/event/SnapshotEvent.java,18.0,15min,15.0,31.31
+cayenne,/main/java/org/apache/cayenne/access/event/SnapshotEventListener.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/access/jdbc/SoftDeleteBatchQueryBuilder.java,25.0,10min,10.0,25.14
+cayenne,/main/java/org/apache/cayenne/access/jdbc/SoftDeleteQueryBuilderFactory.java,0.0,7min 30s,7.5,10.59
+cayenne,/main/java/org/apache/cayenne/modeler/util/SortButtonRenderer.java,322.0,41min,41.0,36.43
+cayenne,/main/java/org/apache/cayenne/query/SortOrder.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/lifecycle/sort/SortWeight.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/maven/plugin/aggregator/SourcesAggregatorMojo.java,0.0,0,0.0,11.21
+cayenne,/main/java/org/apache/cayenne/query/SQLAction.java,25.0,0,0.0,6.44
+cayenne,/main/java/org/apache/cayenne/query/SQLActionVisitor.java,0.0,0,0.0,10.67
+cayenne,/main/java/org/apache/cayenne/test/jdbc/SQLBuilder.java,0.0,7min 30s,7.5,23.47
+cayenne,/main/java/org/apache/cayenne/dba/sqlite/SQLiteActionBuilder.java,0.0,0,0.0,13.15
+cayenne,/main/java/org/apache/cayenne/dba/sqlite/SQLiteAdapter.java,0.0,17min 30s,17.5,34.41
+cayenne,/main/java/org/apache/cayenne/dba/sqlite/SQLiteBigDecimalType.java,0.0,10min,10.0,33.79
+cayenne,/main/java/org/apache/cayenne/dba/sqlite/SQLiteByteArrayType.java,0.0,0,0.0,35.03
+cayenne,/main/java/org/apache/cayenne/dba/sqlite/SQLiteCalendarType.java,0.0,20min,20.0,45.97
+cayenne,/main/java/org/apache/cayenne/dba/sqlite/SQLiteDateType.java,0.0,4h 20min,260.0,55.05
+cayenne,/main/java/org/apache/cayenne/dba/sqlite/SQLiteFloatType.java,10.0,10min,10.0,33.79
+cayenne,/main/java/org/apache/cayenne/dba/sqlite/SQLiteSniffer.java,0.0,17min 30s,17.5,10.94
+cayenne,/main/java/org/apache/cayenne/dba/sqlite/SQLiteSQLTemplateAction.java,33.0,27min 30s,27.5,21.88
+cayenne,/main/java/org/apache/cayenne/map/SQLResult.java,2.0,17min 30s,17.5,19.67
+cayenne,/main/java/org/apache/cayenne/dba/sqlserver/SQLServerActionBuilder.java,0.0,0,0.0,21.53
+cayenne,/main/java/org/apache/cayenne/dba/sqlserver/SQLServerAdapter.java,0.0,22min 30s,22.5,26.38
+cayenne,/main/java/org/apache/cayenne/dba/sqlserver/SQLServerBatchAction.java,12.0,47min 30s,47.5,32.47
+cayenne,/main/java/org/apache/cayenne/dba/sqlserver/SQLServerMergerFactory.java,148.0,1h 40min,100.0,43.68
+cayenne,/main/java/org/apache/cayenne/dba/sqlserver/SQLServerProcedureAction.java,45.0,15min,15.0,406.74
+cayenne,/main/java/org/apache/cayenne/dba/sqlserver/SQLServerSelectAction.java,0.0,17min 30s,17.5,17.65
+cayenne,/main/java/org/apache/cayenne/dba/sqlserver/SQLServerSelectTranslator.java,0.0,0,0.0,10.94
+cayenne,/main/java/org/apache/cayenne/dba/sqlserver/SQLServerSniffer.java,20.0,17min 30s,17.5,14.82
+cayenne,/main/java/org/apache/cayenne/dba/sqlserver/SQLServerTrimmingQualifierTranslator.java,0.0,17min 30s,17.5,41.74
+cayenne,/main/java/org/apache/cayenne/access/jdbc/SQLStatement.java,0.0,0,0.0,23.55
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/syntax/SQLSyntaxConstants.java,28.0,0,0.0,24.36
+cayenne,/main/java/org/apache/cayenne/query/SQLTemplate.java,114.0,1h 40min,100.0,104.71
+cayenne,/main/java/org/apache/cayenne/access/jdbc/SQLTemplateAction.java,77.0,1h 50min,110.0,410.78
+cayenne,/main/java/org/apache/cayenne/map/SQLTemplateBuilder.java,0.0,0,0.0,8.03
+cayenne,/main/java/org/apache/cayenne/modeler/editor/SQLTemplateMainTab.java,332.0,1h 42min,102.0,77.66
+cayenne,/main/java/org/apache/cayenne/query/SQLTemplateMetadata.java,47.0,35min,35.0,13.5
+cayenne,/main/java/org/apache/cayenne/access/jdbc/SQLTemplateProcessor.java,58.0,17min 30s,17.5,39.34
+cayenne,/main/java/org/apache/cayenne/access/jdbc/SQLTemplateRenderingUtils.java,0.0,0,0.0,10.94
+cayenne,/main/java/org/apache/cayenne/access/jdbc/SQLTemplateResourceManager.java,20.0,17min 30s,17.5,40.23
+cayenne,/main/java/org/apache/cayenne/modeler/editor/SQLTemplateScriptsTab.java,337.0,1h 40min,100.0,63.89
+cayenne,/main/java/org/apache/cayenne/modeler/editor/SQLTemplateTabbedView.java,60.0,40min,40.0,25.68
+cayenne,/main/java/org/apache/cayenne/project/validation/SQLTemplateValidator.java,40.0,50min,50.0,28.94
+cayenne,/main/java/org/apache/cayenne/access/StackLookupParentAttachmentStrategy.java,0.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/StandardModeController.java,0.0,7min 30s,7.5,21.8
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/codegen/StandardModePanel.java,0.0,7min 30s,7.5,9.27
+cayenne,/main/java/org/apache/cayenne/lifecycle/id/StringIdQuery.java,95.0,7min 30s,7.5,61.41
+cayenne,/main/java/org/apache/cayenne/gen/StringUtils.java,0.0,1h 55min,115.0,36.08
+cayenne,/main/java/org/apache/cayenne/ashwood/graph/StrongConnection.java,28.0,49min 30s,49.5,83.83
+cayenne,/main/java/org/apache/cayenne/access/types/SubclassTypeFactory.java,0.0,10min,10.0,14.2
+cayenne,/main/java/org/apache/cayenne/modeler/util/combo/SuggestionList.java,277.0,20min,20.0,66.37
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/datamap/SuperclassUpdateController.java,45.0,25min,25.0,35.3
+cayenne,/main/java/org/apache/cayenne/dba/sybase/SybaseAdapter.java,9.0,17min 30s,17.5,33.44
+cayenne,/main/java/org/apache/cayenne/dba/sybase/SybaseEJBQLConditionTranslator.java,0.0,7min 30s,7.5,16.06
+cayenne,/main/java/org/apache/cayenne/dba/sybase/SybaseEJBQLSubselectTranslator.java,0.0,7min 30s,7.5,11.56
+cayenne,/main/java/org/apache/cayenne/dba/sybase/SybaseEJBQLTranslatorFactory.java,0.0,0,0.0,11.21
+cayenne,/main/java/org/apache/cayenne/dba/sybase/SybaseMergerFactory.java,200.0,50min,50.0,47.91
+cayenne,/main/java/org/apache/cayenne/dba/sybase/SybasePkGenerator.java,0.0,20min,20.0,45.35
+cayenne,/main/java/org/apache/cayenne/dba/sybase/SybaseSniffer.java,0.0,27min 30s,27.5,11.29
+cayenne,/main/java/org/apache/cayenne/remote/SyncMessage.java,0.0,1h 20min,80.0,14.55
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/syntax/SyntaxConstant.java,10.0,0,0.0,18.43
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/style/SyntaxStyle.java,0.0,0,0.0,13.85
+cayenne,/main/java/org/apache/cayenne/map/SyntheticPKObjAttribute.java,0.0,7min 30s,7.5,17.65
+cayenne,/main/java/org/apache/cayenne/itest/di_stack/Table1.java,0.0,7min 30s,7.5,11.21
+cayenne,/main/java/org/apache/cayenne/swing/TableBinding.java,115.0,1h 12min,72.0,92.4
+cayenne,/main/java/org/apache/cayenne/swing/TableBindingBuilder.java,0.0,7min 30s,7.5,49.23
+cayenne,/main/java/org/apache/cayenne/modeler/pref/TableColumnPreferences.java,35.0,15min,15.0,87.09
+cayenne,/main/java/org/apache/cayenne/modeler/util/TableHeaderSortingListener.java,5.0,0,0.0,30.88
+cayenne,/main/java/org/apache/cayenne/test/jdbc/TableHelper.java,0.0,0,0.0,114.6
+cayenne,/main/java/org/apache/cayenne/modeler/event/TablePopupHandler.java,0.0,0,0.0,11.29
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/TableSelectorController.java,17.0,1h 5min,65.0,37.94
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/db/TableSelectorView.java,20.0,7min 30s,7.5,14.47
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/TemplateCreator.java,5.0,10min,10.0,37.51
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/TemplateCreatorView.java,270.0,15min,15.0,18.7
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/TemplatePreferences.java,5.0,10min,10.0,31.5
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/pref/TemplatePreferencesView.java,0.0,0,0.0,13.58
+cayenne,/main/java/org/apache/cayenne/gen/TemplateType.java,0.0,0,0.0,7.41
+cayenne,/main/java/org/apache/cayenne/modeler/util/TextAdapter.java,35.0,7min 30s,7.5,42.01
+cayenne,/main/java/org/apache/cayenne/swing/TextBinding.java,25.0,0,0.0,27.89
+cayenne,/main/java/org/apache/cayenne/modeler/undo/TextCompoundEdit.java,55.0,30min,30.0,66.53
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/style/TextPaneStyleMap.java,10.0,22min 30s,22.5,14.74
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/style/TextPaneStyleTypes.java,0.0,0,0.0,1.94
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/TextPaneView.java,142.0,1h 12min,72.0,43.76
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/TextPaneViewFactory.java,0.0,7min 30s,7.5,10.59
+cayenne,/main/java/org/apache/cayenne/access/dbsync/ThrowOnPartialOrCreateSchemaStrategy.java,6.0,7min 30s,7.5,35.65
+cayenne,/main/java/org/apache/cayenne/access/dbsync/ThrowOnPartialSchemaStrategy.java,6.0,7min 30s,7.5,26.38
+cayenne,/main/java/org/apache/cayenne/access/types/TimestampType.java,0.0,10min,10.0,32.47
+cayenne,/main/java/org/apache/cayenne/access/types/TimeType.java,0.0,10min,10.0,32.47
+cayenne,/main/java/org/apache/cayenne/exp/parser/Token.java,5.0,45min,45.0,44.65
+cayenne,/main/java/org/apache/cayenne/wocompat/parser/Token.java,11.0,37min 30s,37.5,31.42
+cayenne,/main/java/org/apache/cayenne/exp/parser/TokenMgrError.java,266.0,4h 12min,252.0,46.32
+cayenne,/main/java/org/apache/cayenne/wocompat/parser/TokenMgrError.java,261.0,4h 12min,252.0,47.56
+cayenne,/main/java/org/apache/cayenne/access/ToManyList.java,0.0,25min,25.0,28.67
+cayenne,/main/java/org/apache/cayenne/access/ToManyListFault.java,0.0,0,0.0,9.0
+cayenne,/main/java/org/apache/cayenne/access/ToManyMap.java,0.0,7min 30s,7.5,19.32
+cayenne,/main/java/org/apache/cayenne/access/ToManyMapFault.java,0.0,0,0.0,9.0
+cayenne,/main/java/org/apache/cayenne/reflect/ToManyMapProperty.java,0.0,0,0.0,4.85
+cayenne,/main/java/org/apache/cayenne/reflect/ToManyProperty.java,0.0,0,0.0,22.23
+cayenne,/main/java/org/apache/cayenne/access/ToManySetFault.java,0.0,0,0.0,10.59
+cayenne,/main/java/org/apache/cayenne/configuration/ToolModule.java,0.0,0,0.0,8.03
+cayenne,/main/java/org/apache/cayenne/access/ToOneFault.java,0.0,30min,30.0,17.38
+cayenne,/main/java/org/apache/cayenne/reflect/ToOneProperty.java,0.0,0,0.0,5.47
+cayenne,/main/java/org/apache/cayenne/util/ToStringBuilder.java,0.0,1h 42min,102.0,45.46
+cayenne,/main/java/org/apache/cayenne/access/Transaction.java,25.0,3h 7min,187.0,61.57
+cayenne,/main/java/org/apache/cayenne/access/TransactionConnectionDecorator.java,20.0,7min 30s,7.5,295.11
+cayenne,/main/java/org/apache/cayenne/access/TransactionDelegate.java,0.0,0,0.0,11.64
+cayenne,/main/java/org/apache/cayenne/access/TransactionResultIteratorDecorator.java,25.0,0,0.0,50.74
+cayenne,/main/java/org/apache/cayenne/exp/TraversalHandler.java,0.0,0,0.0,9.7
+cayenne,/main/java/org/apache/cayenne/exp/TraversalHelper.java,20.0,0,0.0,21.18
+cayenne,/main/java/org/apache/cayenne/access/trans/TrimmingQualifierTranslator.java,0.0,7min 30s,7.5,12.88
+cayenne,/main/java/org/apache/cayenne/dba/TypesHandler.java,65.0,20min,20.0,48.26
+cayenne,/main/java/org/apache/cayenne/dba/TypesMapping.java,60.0,4h 37min,277.0,104.09
+cayenne,/main/java/org/apache/cayenne/modeler/util/UIUtil.java,30.0,20min,20.0,28.59
+cayenne,/main/java/org/apache/cayenne/swing/components/textpane/UnderlineHighlighterForText.java,10.0,25min,25.0,53.73
+cayenne,/main/java/org/apache/cayenne/modeler/action/UndoAction.java,5.0,0,0.0,23.39
+cayenne,/main/java/org/apache/cayenne/reflect/UnresolvablePathException.java,0.0,0,0.0,21.18
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/UnsavedChangesDialog.java,0.0,0,0.0,20.91
+cayenne,/main/java/org/apache/cayenne/query/UpdateBatchQuery.java,2.0,15min,15.0,33.87
+cayenne,/main/java/org/apache/cayenne/access/trans/UpdateBatchQueryBuilder.java,45.0,25min,25.0,47.48
+cayenne,/main/java/org/apache/cayenne/test/jdbc/UpdateBuilder.java,0.0,0,0.0,34.06
+cayenne,/main/java/org/apache/cayenne/test/jdbc/UpdateTemplate.java,8.0,10min,10.0,24.79
+cayenne,/main/java/org/apache/cayenne/pref/UpgradeCayennePreference.java,61.0,15min,15.0,41.04
+cayenne,/main/java/org/apache/cayenne/project/upgrade/UpgradeHandler.java,5.0,0,0.0,4.85
+cayenne,/main/java/org/apache/cayenne/project/upgrade/v6/UpgradeHandler_V6.java,16.0,7min 30s,7.5,31.15
+cayenne,/main/java/org/apache/cayenne/project/upgrade/UpgradeMetaData.java,0.0,0,0.0,20.37
+cayenne,/main/java/org/apache/cayenne/project/upgrade/UpgradeType.java,0.0,0,0.0,0.97
+cayenne,/main/java/org/apache/cayenne/resource/URLResource.java,0.0,10min,10.0,17.92
+cayenne,/main/java/org/apache/cayenne/util/Util.java,194.0,6h 12min,372.0,172.75
+cayenne,/main/java/org/apache/cayenne/access/types/UtilDateType.java,0.0,44min,44.0,38.99
+cayenne,/main/java/org/apache/cayenne/test/jdbc/UtilityLogger.java,30.0,0,0.0,12.18
+cayenne,/main/java/org/apache/cayenne/access/types/UUIDType.java,0.0,40min,40.0,41.47
+cayenne,/main/java/org/apache/cayenne/modeler/action/ValidateAction.java,7.0,0,0.0,16.68
+cayenne,/main/java/org/apache/cayenne/Validating.java,0.0,0,0.0,3.88
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/ValidationDisplayHandler.java,0.0,30min,30.0,83.4
+cayenne,/main/java/org/apache/cayenne/validation/ValidationException.java,15.0,0,0.0,20.56
+cayenne,/main/java/org/apache/cayenne/validation/ValidationFailure.java,0.0,0,0.0,4.15
+cayenne,/main/java/org/apache/cayenne/validation/ValidationResult.java,0.0,10min,10.0,13.15
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/ValidationResultBrowser.java,20.0,0,0.0,21.53
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/ValidationResultBrowserView.java,270.0,15min,15.0,12.61
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/validator/ValidatorDialog.java,302.0,40min,40.0,82.7
+cayenne,/main/java/org/apache/cayenne/modeler/util/ValidatorTextAdapter.java,32.0,35min,35.0,68.23
+cayenne,/main/java/org/apache/cayenne/merge/ValueForNullProvider.java,0.0,0,0.0,5.82
+cayenne,/main/java/org/apache/cayenne/ValueHolder.java,20.0,0,0.0,17.3
+cayenne,/main/java/org/apache/cayenne/reflect/valueholder/ValueHolderDescriptorFactory.java,0.0,20min,20.0,45.54
+cayenne,/main/java/org/apache/cayenne/reflect/valueholder/ValueHolderListProperty.java,0.0,17min 30s,17.5,18.97
+cayenne,/main/java/org/apache/cayenne/reflect/valueholder/ValueHolderMapProperty.java,0.0,25min,25.0,45.08
+cayenne,/main/java/org/apache/cayenne/reflect/valueholder/ValueHolderProperty.java,0.0,17min 30s,17.5,65.29
+cayenne,/main/java/org/apache/cayenne/reflect/valueholder/ValueHolderSetProperty.java,0.0,17min 30s,17.5,18.97
+cayenne,/main/java/org/apache/cayenne/reflect/valueholder/ValueHolderToManyProperty.java,0.0,15min,15.0,26.03
+cayenne,/main/java/org/apache/cayenne/exp/ValueInjector.java,0.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/modeler/util/Version.java,20.0,50min,50.0,15.79
+cayenne,/main/java/org/apache/cayenne/access/types/VoidType.java,0.0,0,0.0,32.47
+cayenne,/main/java/org/apache/cayenne/modeler/dialog/WarningDialog.java,10.0,7min 30s,7.5,22.23
+cayenne,/main/java/org/apache/cayenne/conf/WebApplicationContextFilter.java,15.0,0,0.0,13.5
+cayenne,/main/java/org/apache/cayenne/configuration/web/WebConfiguration.java,2.0,47min 30s,47.5,24.79
+cayenne,/main/java/org/apache/cayenne/configuration/web/WebModule.java,0.0,0,0.0,8.65
+cayenne,/main/java/org/apache/cayenne/configuration/web/WebUtil.java,30.0,0,0.0,7.41
+cayenne,/main/java/org/apache/cayenne/util/concurrentlinkedhashmap/Weigher.java,5.0,0,0.0,1.59
+cayenne,/main/java/org/apache/cayenne/util/concurrentlinkedhashmap/Weighers.java,110.0,10min,10.0,61.6
+cayenne,/main/java/org/apache/cayenne/lifecycle/sort/WeightedAshwoodEntitySorter.java,2.0,20min,20.0,59.31
+cayenne,/main/java/org/apache/cayenne/modeler/WelcomeScreen.java,289.0,30min,30.0,62.57
+cayenne,/main/java/org/apache/cayenne/test/jdbc/WhereBuilder.java,0.0,0,0.0,30.88
+cayenne,/main/java/org/apache/cayenne/modeler/util/WidgetFactory.java,0.0,0,0.0,15.71
+cayenne,/main/java/org/apache/cayenne/configuration/XMLDataChannelDescriptorLoader.java,231.0,2h 42min,162.0,153.11
+cayenne,/main/java/org/apache/cayenne/project/upgrade/v6/XMLDataChannelDescriptorLoader_V3_0_0_1.java,55.0,1h 32min,92.0,133.25
+cayenne,/main/java/org/apache/cayenne/configuration/XMLDataMapLoader.java,25.0,30min,30.0,19.94
+cayenne,/main/java/org/apache/cayenne/project/upgrade/v6/XMLDataMapLoader_V3_0_0_1.java,30.0,20min,20.0,21.53
+cayenne,/main/java/org/apache/cayenne/project/upgrade/v6/XMLDataSourceInfoLoader_V3_0_0_1.java,147.0,1h 50min,110.0,84.37
+cayenne,/main/java/org/apache/cayenne/xml/XMLDecoder.java,149.0,2h 40min,160.0,723.99
+cayenne,/main/java/org/apache/cayenne/xml/XMLEncoder.java,21.0,40min,40.0,70.11
+cayenne,/main/java/org/apache/cayenne/util/XMLEncoder.java,0.0,20min,20.0,87.82
+cayenne,/main/java/org/apache/cayenne/xml/XMLMappingDescriptor.java,30.0,37min 30s,37.5,177.31
+cayenne,/main/java/org/apache/cayenne/configuration/server/XMLPoolingDataSourceFactory.java,0.0,10min,10.0,23.47
+cayenne,/main/java/org/apache/cayenne/xml/XMLSerializable.java,10.0,0,0.0,2.91
+cayenne,/main/java/org/apache/cayenne/util/XMLSerializable.java,0.0,0,0.0,2.56
+cayenne,/main/java/org/apache/cayenne/xml/XMLUtil.java,45.0,50min,50.0,35.81
+cayenne,/main/java/org/apache/cayenne/event/XMPPBridge.java,40.0,25min,25.0,93.5
+cayenne,/main/java/org/apache/cayenne/event/XMPPBridgeFactory.java,0.0,15min,15.0,18.35
+cayenne,/main/java/org/apache/cayenne/util/ZipUtil.java,52.0,27min 30s,27.5,57.18
+cayenne,/main/java/org/apache/cayenne/modeler/graph/action/ZoomInAction.java,0.0,0,0.0,11.21
+cayenne,/main/java/org/apache/cayenne/modeler/graph/action/ZoomOutAction.java,0.0,0,0.0,11.21

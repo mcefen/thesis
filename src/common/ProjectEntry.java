@@ -5,10 +5,13 @@ public class ProjectEntry {
 	private String projectName;
 	private String path;
 	private String debtSonar;
+	private String totalIssuesSonar;
 	private String canonicalDebtSonar;
 	private String debtSquore;
+	private String totalIssuesSquore;
 	private String canonicalDebtSquore;
 	private String debtCast;
+	private String totalIssuesCast;
 	private String canonicalDebtCast;
 	
 	
@@ -95,6 +98,37 @@ public class ProjectEntry {
 	public void setCanonicalDebtCast(String canonicalDebtCast) {
 		this.canonicalDebtCast = canonicalDebtCast;
 	}
+
+
+	public String getTotalIssuesSonar() {
+		return totalIssuesSonar;
+	}
+
+
+	public void setTotalIssuesSonar(String totalIssuesSonar) {
+		this.totalIssuesSonar = totalIssuesSonar;
+	}
+
+
+	public String getTotalIssuesSquore() {
+		return totalIssuesSquore;
+	}
+
+
+	public void setTotalIssuesSquore(String totalIssuesSquore) {
+		this.totalIssuesSquore = totalIssuesSquore;
+	}
+
+
+	public String getTotalIssuesCast() {
+		return totalIssuesCast;
+	}
+
+
+	public void setTotalIssuesCast(String totalIssuesCast) {
+		this.totalIssuesCast = totalIssuesCast;
+	}
+	
 	
 	
 }
