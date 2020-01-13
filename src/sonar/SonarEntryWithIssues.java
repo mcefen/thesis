@@ -8,6 +8,8 @@ public class SonarEntryWithIssues {
 	private String blocker;
 	private String critical;
 	private String major;
+	private String minor;
+	private String info;
 	private String totalIssues;
 	private String squaleIndex;
 	
@@ -73,8 +75,14 @@ public class SonarEntryWithIssues {
 		Integer blockerIssues = Integer.valueOf(blocker);
 		Integer criticalIssues = Integer.valueOf(critical);
 		Integer majorIssues = Integer.valueOf(major);
+		Integer minorIssues = Integer.valueOf(minor);
+		Integer infoIssues = Integer.valueOf(info);
 		
-		Integer totalIssuesInt = blockerIssues+criticalIssues+majorIssues;
+		Integer totalIssuesInt = blockerIssues+
+				criticalIssues+
+				majorIssues+
+				minorIssues+
+				infoIssues;
 		
 		totalIssues = totalIssuesInt.toString();
 	}
@@ -84,6 +92,20 @@ public class SonarEntryWithIssues {
 	public void setSrcPath(String srcPath) {
 		this.srcPath = srcPath;
 	}
+	public String getMinor() {
+		return minor;
+	}
+	public void setMinor(String minor) {
+		this.minor = minor;
+	}
+	public String getInfo() {
+		return info;
+	}
+	public void setInfo(String info) {
+		this.info = info;
+	}
+	
+	
 	
 	
 

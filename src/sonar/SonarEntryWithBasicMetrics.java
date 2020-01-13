@@ -9,6 +9,7 @@ public class SonarEntryWithBasicMetrics {
 	private Integer criticalIssues;
 	private Integer majorIssues;
 	private Integer minorIssues;
+	private Integer infoIssues;
 	private Integer totalIssues;
 	private Double sqaleIndex;
 	private Double sqaleDebtRatio;
@@ -53,6 +54,9 @@ public class SonarEntryWithBasicMetrics {
 			break;
 		case "major_violations" : 
 			majorIssues = Integer.parseInt(measure.getValue());
+			break;
+		case "info_violations":
+			infoIssues = Integer.parseInt(measure.getValue());
 			break;
 		default: break;
 		}
@@ -140,6 +144,14 @@ public class SonarEntryWithBasicMetrics {
 
 	public void setSqaleDebtRatio(Double sqaleDebtRatio) {
 		this.sqaleDebtRatio = sqaleDebtRatio;
+	}
+
+	public Integer getInfoIssues() {
+		return infoIssues;
+	}
+
+	public void setInfoIssues(Integer infoIssues) {
+		this.infoIssues = infoIssues;
 	}
 
 	

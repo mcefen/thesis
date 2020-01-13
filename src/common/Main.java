@@ -31,36 +31,27 @@ public class Main {
 
 	public static void main(String argv[]) throws Exception {
 
-		String[] projects = {"mina", "deltaspike", "opennlp", "maven", "wss4j", "pdfbox", "fop", "cayenne", "jclouds", "openjpa"};
+		String[] projects = {"mina", "deltaspike", "opennlp", "maven", "wss4j", "pdfbox", "fop", "cayenne", "jclouds", "openjpa", 
+				"quartz", "ksql", "zuul", "zipkin", "xxl-job", "vassonic", "tink", "testng", 
+				"stetho", "spark", "sentinel", "seata", "redisson", "presto", "openrefine", 
+				"neo4j", "nacos", "mockito", "metrics", "logger", "libgdx", "junit", "joda-time", 
+				"jenkins", "javacv", "java-jwt", "gson", "grpc-java", "fresco", "filedownloader", 
+				"exoplayer", "eureka", "easypermissions", "disruptor", "caffeine", "azkaban", 
+				"arthas", "arduino", "antlr4", "elasticsearch", };
 
 		//Read from XML of sonar and write only issues
-		XmlReader reader = new XmlReader();
-		CsvReader csvReader = new CsvReader();
-		CastEntriesProcessor castEntriesProcessor = new CastEntriesProcessor();
+		//XmlReader reader = new XmlReader();
+		//CsvReader csvReader = new CsvReader();
+		//CastEntriesProcessor castEntriesProcessor = new CastEntriesProcessor();
 
-		//Just read from XML - remove comments from reader classes
-		/*for(int i=0;i<projects.length;i++){
-			List<SonarEntryWithIssues> allSonars = new ArrayList();			
-			allSonars = reader.ReadAllSonarXmlForInfo(projects[i]);
-
-
-			List<SquoreEntryWithIssues> allSquores = new ArrayList();
-			allSquores = reader.ReadSquoreXml(projects[i]);
-		}*/
-		
 		// Read cast files with with technical debt in minutes
 		// And create xmls
 		// castEntriesProcessor.readCastsAndWriteXML(projects);
 
 		//Just read cast files for comparison
-		castObjectsMapWithTDinMinutes = castEntriesProcessor.readCastsAndFilterWithSonar(projects);
-		
-		
-		
+		//castObjectsMapWithTDinMinutes = castEntriesProcessor.readCastsAndFilterWithSonar(projects);
+
 		//castObjectsMapWithTDinMinutes = castEntriesProcessor.filterCastEntriesWithSonar(projects, castObjectsMapWithTDinMinutes);
-		
-		
-		
 
 		//**************** Start Of Total Error Cast CSV ****************//
 
@@ -68,14 +59,14 @@ public class Main {
 		//castProjectMap = csvReader.readFromCastCsv(projects);
 
 		//Handle total error number entries
-		
-		
-//		List<List<CastEntry>> listOfCasts = new ArrayList();
-//		Map<String, List<CastEntry>> casts = new HashMap<String, List<CastEntry>>();
-//		for(Map.Entry<String, List<String>> entry : castProjectMap.entrySet()) {
-//			List<CastEntry> castEntriesSorted = castEntriesProcessor.sumViolations(entry.getValue());
-//			casts.put(entry.getKey(), castEntriesSorted);
-//		}
+
+
+		//		List<List<CastEntry>> listOfCasts = new ArrayList();
+		//		Map<String, List<CastEntry>> casts = new HashMap<String, List<CastEntry>>();
+		//		for(Map.Entry<String, List<String>> entry : castProjectMap.entrySet()) {
+		//			List<CastEntry> castEntriesSorted = castEntriesProcessor.sumViolations(entry.getValue());
+		//			casts.put(entry.getKey(), castEntriesSorted);
+		//		}
 
 		//**************** End Of Total Error Cast CSV ****************//
 
@@ -85,155 +76,20 @@ public class Main {
 		//castObjectsMapWithFixEffort = csvReader.readFromCastCsvWithFixEfford(projects);
 
 		//castObjectsMapWithFixEffort = castEntriesProcessor.filterCastEntriesWithSonar(projects, castObjectsMapWithFixEffort);
-		
-			
 
+
+//** Uncomment
 		for(int i=0;i<projects.length;i++){
-			int perCent = 100;
-
-			//We read the sonar entries and the squore entries per project
-
-			/*List<SonarEntryWithIssues> sonars = new ArrayList();			
-			sonars = reader.ReadAllSonarXmlForInfo(projects[i]);
-
-
-			List<SquoreEntryWithIssues> squores = new ArrayList();
-			squores = reader.ReadSquoreXml(projects[i]);*/
+	/*		int perCent = 100;
 
 			//Lists only with issues
 			List<SonarEntryWithIssues> sonars = reader.getSonarXmlSortedList(projects[i],"Metrics");
 			List<SquoreEntryWithIssues> squores = reader.ReadSquoreXml(projects[i]);
 			List<CastEntry> cast = castObjectsMapWithTDinMinutes.get(projects[i]);
 
+			TotalEntriesProcessor totalEntriesProcessor = new TotalEntriesProcessor();
+			totalEntriesProcessor.writeAllEntriesToXML(sonars, squores, cast, projects[i]);
 
-			//Write All Entries//
-
-			List<ProjectEntry> totalEntries = new ArrayList();
-
-			for(SonarEntryWithIssues sEntry : sonars){
-
-				ProjectEntry projectEntry = new ProjectEntry();
-
-				projectEntry.setProjectName(projects[i]);
-
-				String[] sonarClass = sEntry.getKey_path().split("src");
-				
-				
-				boolean found = false;
-				for(ProjectEntry pe : totalEntries){
-					if(pe.getPath().equals(sonarClass[sonarClass.length-1])){
-						found = true;
-					}
-				}
-				
-				if(!found){
-					projectEntry.setPath(sonarClass[sonarClass.length-1]);
-					projectEntry.setDebtSonar(sEntry.getSqualeIndex());	
-					projectEntry.setTotalIssuesSonar(sEntry.getTotalIssues());
-					totalEntries.add(projectEntry);
-				}
-				
-			}
-
-			for(SquoreEntryWithIssues sqEntry : squores){
-
-				String[] squoreClass = sqEntry.getPath().split("src");
-
-				ProjectEntry projectEntry = new ProjectEntry();
-
-				boolean found = false;
-				for(ProjectEntry pe : totalEntries){
-					if(squoreClass[squoreClass.length-1].equals(pe.getPath())){
-						pe.setDebtSquore(sqEntry.getTechnicalDebt());
-						pe.setCanonicalDebtSquore(sqEntry.getCanonicalDebpt());
-						pe.setTotalIssuesSquore(sqEntry.getTotalIssues());
-						found = true;
-					}
-				}
-
-				if(!found){
-					projectEntry.setProjectName(projects[i]);
-					projectEntry.setPath(squoreClass[squoreClass.length-1]);
-					projectEntry.setDebtSonar("0");
-					projectEntry.setCanonicalDebtSonar("0");
-					projectEntry.setTotalIssuesSonar("0");
-					projectEntry.setDebtSquore(sqEntry.getTechnicalDebt());
-					projectEntry.setCanonicalDebtSquore(sqEntry.getCanonicalDebpt());
-					projectEntry.setTotalIssuesSquore(sqEntry.getTotalIssues());
-
-					totalEntries.add(projectEntry);
-				}				
-			}
-
-			for(CastEntry castEntry: cast){
-				ProjectEntry projectEntry = new ProjectEntry();
-
-				boolean found = false;
-
-				for(ProjectEntry pe : totalEntries){
-
-					if(castEntry.getPath().equals(pe.getPath())){
-
-						BigDecimal bd = new BigDecimal(castEntry.getTdContributionInMinutes());
-						bd = bd.setScale(2, RoundingMode.HALF_UP);
-						bd.doubleValue();
-
-						pe.setDebtCast(bd.doubleValue()+"");
-						pe.setTotalIssuesCast(castEntry.getTotalErrors());
-						found = true;
-					}								
-				}	
-
-				if(!found){
-					projectEntry.setProjectName(projects[i]);
-					projectEntry.setPath(castEntry.getPath());
-					projectEntry.setDebtSonar("0");
-					projectEntry.setTotalIssuesSonar("0");
-					projectEntry.setCanonicalDebtSonar("0");
-					projectEntry.setDebtSquore("0");
-					projectEntry.setCanonicalDebtSquore("0");
-					projectEntry.setTotalIssuesSquore("0");
-
-					BigDecimal bd = new BigDecimal(castEntry.getTdContributionInMinutes());
-					bd = bd.setScale(2, RoundingMode.HALF_UP);
-					bd.doubleValue();
-
-					projectEntry.setDebtCast(bd.doubleValue()+"");
-					projectEntry.setTotalIssuesCast(castEntry.getTotalErrors());
-
-					totalEntries.add(projectEntry);
-				}	
-			}
-
-
-			TxtWriter writer = new TxtWriter();
-
-			File logFile = new File(projects[i]+"_totalEntries");
-
-			BufferedWriter textWriter = new BufferedWriter(new FileWriter(logFile));
-
-			for(ProjectEntry pe: totalEntries){
-
-				textWriter.write(pe.getProjectName() + "," 
-						+pe.getPath() +"," 
-						+pe.getTotalIssuesSonar() + ","
-						+pe.getDebtSonar() + ","
-						+pe.getTotalIssuesSquore() + ","
-						+pe.getDebtSquore() + ","
-						+pe.getCanonicalDebtSquore() + ","
-						+pe.getTotalIssuesCast() + ","
-						+pe.getDebtCast()
-						);
-
-				textWriter.newLine();
-
-			}
-
-			textWriter.close();
-
-			//writer.writeSonars(projects[i]+"_Total_Sonars",sonars);
-			//writer.writeSquores(projects[i]+"_Total_Squores",squores);
-			//writer.writeCasts(projects[i]+"_Total_Casts",cast);
 			System.out.println("For project "+projects[i]);
 
 			int sonarTenPerCent = (sonars.size()*perCent) / 100 ;
@@ -242,10 +98,6 @@ public class Main {
 			System.out.println("Squore per cent: " + squoreTenPerCent);
 			int castTenPerCent = (cast.size()*perCent)/100;
 			System.out.println("Cast per cent: "+castTenPerCent);
-
-			//System.out.println("Sonar top: " + sonars.get(0).getKey_path());
-			//System.out.println("Squore top: " + squores.get(0).getPath());
-			//System.out.println("Cast top: " + cast.get(0).getPath());
 
 			List<SonarEntryWithIssues> sonarPart = new ArrayList<>();
 
@@ -265,11 +117,8 @@ public class Main {
 				castsPart.add(cast.get(k));
 			}			
 
-			//writer.writeSonars(projects[i]+"_"+perCent+"_Sonars",sonarPart);
-			//writer.writeSquores(projects[i]+"_"+perCent+"_Squores",squoresPart);
-			//writer.writeCasts(projects[i]+"_"+perCent+"_Casts",castsPart);
-
 			List<String> overall = Comparators.compareAllThree(sonarPart, squoresPart, castsPart);
+
 			//writer.writeClassNames(projects[i]+"_Same_Classes_"+perCent+"_All", "Compare All Three", overall);
 			//List<String> sonarVsSquore =Comparators.compareSonarWithSquore(sonarPart, squoresPart);
 			//writer.writeClassNames(projects[i]+"_Same_Classes_"+perCent+"_SonarVsSquore", "Compare Sonar With Squore", sonarVsSquore);
@@ -278,7 +127,7 @@ public class Main {
 			//List<String> squoreVsCast =Comparators.compareSquoreWithCast(squoresPart, castsPart);
 			//writer.writeClassNames(projects[i]+"_Same_Classes_"+perCent+"_SquoreVsCast", "Compare Squore With Cast", squoreVsCast);
 
-			 
+
 			//CsvReader csvReader = new CsvReader();
 			//squoreProjectsMap = csvReader.readFromCsv(projects);	
 
@@ -292,15 +141,14 @@ public class Main {
 			//	System.out.println(entry.getKey() + " List sortedSize: "+castEntriesSorted.size());
 			//	casts.put(entry.getKey(), castEntriesSorted);
 			//}
-
-			//SonarEntriesProcessor sonarEntriesProcessor = new SonarEntriesProcessor();
-			//for (int i = 0; i < projects.length;i++){
-			//	System.out.println(projects[i]);
+*/
+			SonarEntriesProcessor sonarEntriesProcessor = new SonarEntriesProcessor();
 
 			//Read from sonar and format a single entry to write in xml
-			//	MainPageEntry mainPageEntry = sonarEntriesProcessor.getMainEntry(projects[i]);
+				MainPageEntry mainPageEntry = sonarEntriesProcessor.getMainEntry(projects[i]);
 
-			//	MainPageWithEntries mainPageWithMetrics = sonarEntriesProcessor.getMainPageWithMetrics(projects[i]);
+			//Read from sonar api with metrics and write to xml file in one method
+			sonarEntriesProcessor.readFromAPIAndWriteToXML(projects[i]);
 
 			//Read from csv squore files
 			//SquoreEntriesProcessor squoreEntriesProcessor = new SquoreEntriesProcessor();
@@ -308,10 +156,9 @@ public class Main {
 			//System.out.println("Squores: "+squoreEntriesToWrite.size());
 
 			//Write to XML as one object
-			//	XmlWriter xmlWriter = new XmlWriter();
-			//	xmlWriter.writeCastsToXML(projects[i],casts.get(projects[i]));
+			//XmlWriter xmlWriter = new XmlWriter();
+			//xmlWriter.writeCastsToXML(projects[i],casts.get(projects[i]));
 			//xmlWriter.writeSonarsToXML(projects[i], mainPageEntry);	
-			//xmlWriter.writeSonarsWithMetricsToXML(projects[i], mainPageWithMetrics);
 			//xmlWriter.writeSquoresToXML(projects[i], squoreEntriesToWrite);
 
 			//}	

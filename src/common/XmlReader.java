@@ -140,6 +140,16 @@ public class XmlReader {
 		Element majorElement = (Element) majorNode;
 		sonarEntry.setMajor(majorElement.getTextContent());
 		
+		NodeList minor = doc.getElementsByTagName("Minor_Issues");
+		org.w3c.dom.Node minorNode = minor.item(temp);
+		Element minorElement = (Element) minorNode;
+		sonarEntry.setMinor(minorElement.getTextContent());
+		
+		NodeList info = doc.getElementsByTagName("Info_Issues");
+		org.w3c.dom.Node infoNode = info.item(temp);
+		Element infoElement = (Element) infoNode;
+		sonarEntry.setInfo(infoElement.getTextContent());
+		
 		NodeList squaleIndex = doc.getElementsByTagName("Sqale_Index");
 		org.w3c.dom.Node squaleIndexNode = squaleIndex.item(temp);
 		Element squaleIndexElement = (Element) squaleIndexNode;
@@ -204,10 +214,10 @@ public class XmlReader {
 	public List<SonarEntryWithIssues> calculateSonarSqualeIndex(SonarEntryWithIssues sonarEntry,
 			List<SonarEntryWithIssues> sonarEntries){
 		
-		Double squale = Double.valueOf(sonarEntry.getSqualeIndex());
-		if(squale>0){
+		//Double squale = Double.valueOf(sonarEntry.getSqualeIndex());
+		//if(squale>0){
 			sonarEntries.add(sonarEntry);
-		}
+		//}
 		
 		return sonarEntries;
 	}

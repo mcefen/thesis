@@ -13,12 +13,14 @@ import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import common.XmlWriter;
+
 /** Methods to handle sonar entries */
 public class SonarEntriesProcessor {
 
 	private final static String USER_AGENT = "Mozilla/5.0";
 	private final static String SONAR_BASE_URL="http://se.uom.gr:9907/api/components/tree?component=";
-	private final static String SONAR_BASE_METRICS_URL = "http://se.uom.gr:9907/api/measures/component_tree?metricKeys=complexity,sqale_index,sqale_debt_ratio,file_complexity,ncloc,blocker_violations,critical_violations,major_violations,minor_violations&component=";
+	private final static String SONAR_BASE_METRICS_URL = "http://se.uom.gr:9907/api/measures/component_tree?metricKeys=complexity,sqale_index,sqale_debt_ratio,file_complexity,ncloc,blocker_violations,critical_violations,major_violations,minor_violations,info_violations&component=";
 
 	public SonarEntriesProcessor(){
 		super();
@@ -181,6 +183,8 @@ public class SonarEntriesProcessor {
 		int pageNum = 1;
 		int pageElements = 500;
 		boolean hasMore = true;
+		
+		System.out.println("Get sonar metrics for API...");
 
 		List<MainPageWithEntries> projectObjects = new ArrayList<>();
 
@@ -220,7 +224,22 @@ public class SonarEntriesProcessor {
 			}
 
 		}
+		
+		System.out.println("End of reading from API...");
 		return mainPageEntry;
+
+	}
+	
+	public void readFromAPIAndWriteToXML(String project){
+		try {
+			MainPageWithEntries mainPageWithMetrics = getMainPageWithMetrics(project);
+			XmlWriter xmlWriter = new XmlWriter();
+			xmlWriter.writeSonarsWithMetricsToXML(project, mainPageWithMetrics);
+		
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
 	}
 

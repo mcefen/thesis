@@ -110,6 +110,8 @@ public class XmlWriter {
 	public void writeSonarsWithMetricsToXML(String projectName, MainPageWithEntries entry){
 		try {
 
+			System.out.println("Start writing to file... ");
+			
 			DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
 
@@ -190,6 +192,11 @@ public class XmlWriter {
 					Element minor = doc.createElement("Minor_Issues");
 					minor.appendChild(doc.createTextNode(String.valueOf(sEntry.getMinorIssues())));
 					staff.appendChild(minor);
+					
+					// info elements
+					Element info = doc.createElement("Info_Issues");
+					info.appendChild(doc.createTextNode(String.valueOf(sEntry.getInfoIssues())));
+					staff.appendChild(info);
 					
 					// total elements
 					Element total = doc.createElement("Total_Issues");
