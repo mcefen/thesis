@@ -1,0 +1,569 @@
+tink,/test/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenRecipientTest.java,63,1253.0,0,2h 7min,127.0,502,16561.8
+tink,rc/test/java/com/google/crypto/tink/KeysetManagerTest.java,85,1012.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/StreamingTestUtil.java,67,734.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/RegistryTest.java,62,690.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/TestUtil.java,29,550.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/AesGcmJceTest.java,39,537.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/util/KeysDownloaderTest.java,27,502.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/AesEaxJceTest.java,39,484.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/ChaCha20Poly1305Test.java,36,482.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/JsonKeysetReaderTest.java,38,476.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/EllipticCurvesTest.java,45,474.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Ed25519.java,37,395.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenSenderTest.java,21,373.0,0,37min 30s,37.5,152,4670.7
+tink,rc/test/java/com/google/crypto/tink/config/TinkConfigTest.java,19,367.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/EncryptThenAuthenticateTest.java,34,351.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/hybrid/HybridConfigTest.java,26,350.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/EcdsaVerifyJceTest.java,27,349.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/AesGcmKeyManagerTest.java,25,326.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/AeadKeyTemplatesTest.java,21,310.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/StreamingAeadThreadSafetyTest.java,18,292.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/AeadConfigTest.java,19,272.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/tinkey/CreatePublicKeysetCommandTest.java,19,257.0,0,7min 30s,7.5,73,2368.5
+tink,rc/test/java/com/google/crypto/tink/signature/SignatureConfigTest.java,17,253.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/AesCtrHmacStreamingTest.java,16,250.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/CleartextKeysetHandleTest.java,18,231.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/MacJceTest.java,20,229.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/X25519Test.java,17,225.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/AesCmacTest.java,19,221.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/AesGcmHkdfStreamingTest.java,15,219.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/streamingaead/AesGcmHkdfStreamingKeyManagerTest.java,10,209.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/signature/EcdsaSignKeyManagerTest.java,18,197.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/hybrid/RegistryEciesAeadHkdfDemHelperTest.java,13,190.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/Ed25519SignTest.java,15,184.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/ValidatorsTest.java,13,177.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/JsonKeysetWriterTest.java,14,175.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/streamingaead/StreamingAeadConfigTest.java,11,175.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/streamingaead/StreamingAeadKeyTemplatesTest.java,12,175.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/apps/webpush/WebPushHybridEncryptTest.java,18,173.0,0,30min,30.0,38,2234.4
+tink,rc/test/java/com/google/crypto/tink/streamingaead/AesCtrHmacStreamingKeyManagerTest.java,11,171.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/AeadThreadSafetyTest.java,9,165.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/daead/DeterministicAeadFactoryTest.java,10,163.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/TinkeyUtil.java,17,162.0,0,1h 2min,62.0,68,2551.2
+tink,rc/test/java/com/google/crypto/tink/mac/MacConfigTest.java,12,156.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/Ed25519VerifyTest.java,13,155.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/apps/webpush/WebPushHybridDecryptTest.java,12,150.0,0,22min 30s,22.5,53,2766.3
+tink,rc/test/java/com/google/crypto/tink/aead/AesEaxKeyManagerTest.java,14,146.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/AesSivTest.java,12,145.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/DaeadThreadSafetyTest.java,9,145.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/apps/rewardedads/RewardedAdsVerifierTest.java,10,145.0,0,7min 30s,7.5,112,3556.8
+tink,rc/test/java/com/google/crypto/tink/subtle/RewindableReadableByteChannelTest.java,13,145.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/daead/AesSivKeyManagerTest.java,11,144.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/apps/paymentmethodtoken/SenderIntermediateCertFactoryTest.java,9,143.0,0,7min 30s,7.5,53,1222.2
+tink,rc/main/java/com/google/crypto/tink/subtle/EllipticCurves.java,25,140.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/AeadFactoryTest.java,8,133.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/daead/DeterministicAeadConfigTest.java,10,133.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/EngineFactoryTest.java,9,133.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Base64.java,13,129.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/ChaCha20Test.java,12,129.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/signature/EcdsaVerifyKeyManagerTest.java,12,125.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/KeysetHandleTest.java,8,125.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/tinkey/AddKeyCommandTest.java,9,120.0,4,17min 30s,17.5,42,1881.9
+tink,rc/main/java/com/google/crypto/tink/mac/MacConfig.java,9,120.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/tinkey/RotateKeysetCommandTest.java,9,120.0,4,25min,25.0,40,1823.7
+tink,rc/test/java/com/google/crypto/tink/signature/SignatureKeyTemplatesTest.java,9,120.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/Poly1305Test.java,9,119.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/RsaSsaPkcs1VerifyJceTest.java,7,115.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/SignatureConfig.java,9,115.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/daead/DeterministicAeadCatalogueTest.java,9,111.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/hybrid/HybridDecryptCatalogueTest.java,9,111.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/hybrid/HybridEncryptCatalogueTest.java,9,111.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/signature/PublicKeySignCatalogueTest.java,9,111.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/signature/PublicKeyVerifyCatalogueTest.java,9,111.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/streamingaead/StreamingAeadCatalogueTest.java,9,111.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/NoSecretKeysetHandleTest.java,9,108.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/AeadConfig.java,8,105.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/hybrid/HybridKeyTemplatesTest.java,7,105.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/streamingaead/StreamingAeadFactoryTest.java,6,105.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/AeadCatalogueTest.java,8,103.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/mac/MacCatalogueTest.java,8,103.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/HkdfTest.java,7,101.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/StreamingAeadDecryptingChannel.java,9,101.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/AesCtrHmacAeadKeyManagerTest.java,7,100.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Field25519.java,7,95.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/HybridConfig.java,7,95.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/IntegrationTest.java,6,95.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/integration/awskms/AwsKmsAeadTest.java,6,93.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/mac/MacFactoryTest.java,6,93.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenRecipient.java,14,93.0,2,2h 45min,165.0,206,7121.7
+tink,rc/test/java/com/google/crypto/tink/subtle/SignatureThreadSafetyTest.java,13,90.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/PrimitiveSetTest.java,9,89.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/UtilTest.java,7,89.0,null,null,null,null,null
+tink,testing/java/com/google/crypto/tink/testing/AeadCli.java,9,85.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/AesCtrJceCipherTest.java,8,85.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/tinkey/CreateKeysetCommandTest.java,8,85.0,0,0,0.0,37,1209.3
+tink,testing/java/com/google/crypto/tink/testing/PublicKeyVerifyCli.java,9,85.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/WycheproofTestUtil.java,6,85.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/KmsEnvelopeAeadKeyManagerTest.java,6,81.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/ConfigTest.java,7,80.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Validators.java,7,80.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/SeekableByteChannelDecrypter.java,9,79.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/Registry.java,11,76.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/EcdsaSignJceTest.java,8,75.0,null,null,null,null,null
+tink,testing/java/com/google/crypto/tink/testing/HybridDecryptCli.java,8,75.0,null,null,null,null,null
+tink,testing/java/com/google/crypto/tink/testing/HybridEncryptCli.java,8,75.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/mac/MacKeyTemplatesTest.java,6,75.0,null,null,null,null,null
+tink,testing/java/com/google/crypto/tink/testing/PublicKeySignCli.java,8,75.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/ReadableByteChannelDecrypter.java,8,71.0,null,null,null,null,null
+tink,testing/java/com/google/crypto/tink/testing/CliUtil.java,8,70.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Curve25519.java,4,70.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/daead/DeterministicAeadConfig.java,5,70.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/StreamingAeadConfig.java,5,70.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/JsonKeysetReader.java,9,68.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/AesCtrKeyManagerTest.java,5,66.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/ChaCha20Poly1305KeyManagerTest.java,5,66.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/mac/HmacKeyManagerTest.java,5,66.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/InputStreamDecrypter.java,10,66.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/RsaSsaPkcs1SignJceTest.java,5,66.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/hybrid/EciesAeadHkdfPrivateKeyManagerTest.java,4,65.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/EciesHkdfSenderKem.java,3,65.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/config/TinkConfig.java,5,65.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/hybrid/EciesAeadHkdfHybridEncryptTest.java,6,56.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/HybridDecryptConfig.java,4,55.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/HybridEncryptConfig.java,4,55.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/PublicKeySignConfig.java,4,55.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/PublicKeyVerifyConfig.java,4,55.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/SubtleUtilTest.java,5,55.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/hybrid/EciesAeadHkdfHybridDecryptTest.java,4,53.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/AesCtrHmacStreaming.java,10,52.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/daead/DeterministicAeadKeyTemplatesTest.java,4,50.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenSender.java,7,50.0,0,20min,20.0,142,3669.9
+tink,rc/main/java/com/google/crypto/tink/PrimitiveSet.java,9,50.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/signature/Ed25519PrivateKeyManagerTest.java,4,47.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/StreamingAeadDecryptingStream.java,6,47.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenHybridEncryptTest.java,4,46.0,0,0,0.0,21,1175.4
+tink,rc/main/java/com/google/crypto/tink/CleartextKeysetHandle.java,3,45.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/CryptoFormatTest.java,3,45.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/Ed25519Test.java,3,45.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/hybrid/HybridEncryptFactoryTest.java,3,45.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/util/KeysDownloader.java,4,45.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/aead/KmsAeadKeyManagerTest.java,3,45.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/NoSecretKeysetHandle.java,3,45.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenHybridDecryptTest.java,3,45.0,0,15min,15.0,22,1329.0
+tink,rc/test/java/com/google/crypto/tink/signature/PublicKeySignFactoryTest.java,4,45.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/signature/PublicKeyVerifyFactoryTest.java,4,45.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Random.java,4,45.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/Tinkey.java,5,45.0,0,0,0.0,14,722.7
+tink,rc/main/java/com/google/crypto/tink/subtle/StreamingAeadSeekableDecryptingChannel.java,9,44.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/AesCtrHmacStreamingKeyManager.java,3,43.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/mac/HmacKeyManager.java,3,43.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/mac/MacFactory.java,3,43.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/AesGcmHkdfStreaming.java,7,42.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/signature/Ed25519PublicKeyManagerTest.java,4,41.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/PublicKeyVerifyFactory.java,3,41.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/HybridEncryptFactory.java,3,40.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/StreamingAeadFactory.java,3,40.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/apps/webpush/WebPushHybridDecrypt.java,5,40.0,0,22min 30s,22.5,76,1870.5
+tink,rc/main/java/com/google/crypto/tink/subtle/EngineFactory.java,15,39.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/AeadFactory.java,4,37.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/daead/DeterministicAeadFactory.java,4,37.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/HybridDecryptFactory.java,4,37.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/KmsClients.java,4,37.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/KeysetManager.java,5,36.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/apps/rewardedads/RewardedAdsVerifier.java,8,36.0,0,25min,25.0,86,2850.3
+tink,rc/main/java/com/google/crypto/tink/aead/AeadKeyTemplates.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/AesUtil.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Bytes.java,4,35.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/BytesTest.java,6,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/Config.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/CryptoFormat.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/daead/DeterministicAeadKeyTemplates.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Ed25519Constants.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Hex.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Hkdf.java,3,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/HybridKeyTemplates.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/HybridUtil.java,2,35.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/ListKeysetCommand.java,3,35.0,0,7min 30s,7.5,12,569.1
+tink,rc/main/java/com/google/crypto/tink/mac/MacKeyTemplates.java,2,35.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenRecipientKeyGen.java,4,35.0,0,0,0.0,28,1042.8
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenUtil.java,2,35.0,0,0,0.0,42,1267.5
+tink,rc/main/java/com/google/crypto/tink/signature/PublicKeySignFactory.java,2,35.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/SenderIntermediateCertFactory.java,4,35.0,0,17min 30s,17.5,68,1820.4
+tink,rc/main/java/com/google/crypto/tink/signature/SignatureKeyTemplates.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/SigUtil.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/StreamingAeadKeyTemplates.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/StreamingAeadUtil.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/SubtleUtil.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/Util.java,3,35.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/apps/webpush/WebPushConstants.java,5,35.0,0,7min 30s,7.5,23,669.3
+tink,/main/java/com/google/crypto/tink/apps/webpush/WebPushUtil.java,2,35.0,0,0,0.0,21,801.9
+tink,rc/main/java/com/google/crypto/tink/subtle/X25519.java,2,35.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/EcdsaVerifyKeyManager.java,3,33.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/EciesAeadHkdfPublicKeyManager.java,4,33.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/Ed25519PublicKeyManager.java,3,33.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/AesCtrHmacAeadKeyManager.java,3,30.0,null,null,null,null,null
+tink,/main/java/com/helloworld/HelloWorld.java,3,30.0,0,0,0.0,13,722.7
+tink,rc/test/java/com/google/crypto/tink/signature/SigUtilTest.java,3,30.0,null,null,null,null,null
+tink,/main/java/com/helloworld/TinkApplication.java,4,30.0,0,7min 30s,7.5,26,984.6
+tink,/main/java/com/google/crypto/tink/apps/webpush/WebPushHybridEncrypt.java,3,30.0,0,15min,15.0,67,1791.3
+tink,rc/main/java/com/google/crypto/tink/aead/AesCtrKeyManager.java,2,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/AesEaxKeyManager.java,2,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/AesGcmHkdfStreamingKeyManager.java,2,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/AesGcmKeyManager.java,2,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/daead/AesSivKeyManager.java,2,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/integration/android/AndroidKeystoreAesGcm.java,3,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/integration/awskms/AwsKmsClient.java,2,25.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/Command.java,2,25.0,0,0,0.0,5,116.4
+tink,/main/java/com/google/crypto/tink/tinkey/ConvertKeysetCommand.java,2,25.0,0,22min 30s,22.5,8,452.7
+tink,/main/java/com/google/crypto/tink/tinkey/CreatePublicKeysetCommand.java,2,25.0,0,15min,15.0,12,569.1
+tink,/main/java/com/google/crypto/tink/tinkey/DeleteKeyCommand.java,2,25.0,0,22min 30s,22.5,11,540.0
+tink,/main/java/com/google/crypto/tink/tinkey/DestroyKeyCommand.java,2,25.0,0,22min 30s,22.5,11,540.0
+tink,/main/java/com/google/crypto/tink/tinkey/DisableKeyCommand.java,2,25.0,0,22min 30s,22.5,11,540.0
+tink,rc/test/java/com/google/crypto/tink/EcdsaProtoTest.java,3,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/EciesAeadHkdfPrivateKeyManager.java,3,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/Ed25519PrivateKeyManager.java,2,25.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/EnableKeyCommand.java,2,25.0,0,22min 30s,22.5,11,540.0
+tink,rc/main/java/com/google/crypto/tink/integration/gcpkms/GcpKmsClient.java,2,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/KmsAeadKeyManager.java,2,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/KmsEnvelopeAeadKeyManager.java,2,25.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/PromoteKeyCommand.java,2,25.0,0,22min 30s,22.5,11,540.0
+tink,/main/java/com/google/crypto/tink/tinkey/RotateKeysetCommand.java,2,25.0,0,22min 30s,22.5,11,540.0
+tink,rc/main/java/com/google/crypto/tink/subtle/RsaSsaPkcs1SignJce.java,2,25.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/streamingaead/StreamingAeadUtilTest.java,2,25.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/TinkProtoTest.java,2,25.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/RewindableReadableByteChannel.java,2,21.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/integration/android/AndroidKeysetManager.java,3,20.0,null,null,null,null,null
+tink,/main/java/com/helloworld/Commands.java,1,20.0,0,25min,25.0,46,2035.5
+tink,rc/main/java/com/google/crypto/tink/daead/DeterministicAeadCatalogue.java,4,20.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/HybridDecryptCatalogue.java,4,20.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/HybridEncryptCatalogue.java,4,20.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/mac/MacCatalogue.java,4,20.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/AeadCatalogue.java,3,15.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/OutOptions.java,2,15.0,0,7min 30s,7.5,12,664.5
+tink,rc/main/java/com/google/crypto/tink/signature/PublicKeySignCatalogue.java,3,15.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/PublicKeyVerifyCatalogue.java,3,15.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/StreamingAeadCatalogue.java,3,15.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/AesEaxJce.java,2,13.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/EcdsaVerifyJce.java,2,13.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/MacJce.java,2,13.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/ChaCha20.java,2,10.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/SnufflePoly1305.java,2,10.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/StreamingAeadEncryptingChannel.java,4,10.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/StreamingAeadEncryptingStream.java,4,10.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenConstants.java,4,9.0,0,25min,25.0,44,1844.7
+tink,rc/main/java/com/google/crypto/tink/subtle/AesGcmJce.java,2,7.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/CreateKeysetOptions.java,2,7.0,0,0,0.0,6,270.0
+tink,rc/main/java/com/google/crypto/tink/subtle/Enums.java,2,7.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/KeysetHandle.java,2,6.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/AddKeyCommand.java,1,5.0,0,22min 30s,22.5,8,452.7
+tink,/main/java/com/google/crypto/tink/tinkey/AddRotateOptions.java,1,5.0,0,0,0.0,3,87.3
+tink,rc/main/java/com/google/crypto/tink/Aead.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/AesCmac.java,2,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/AesCtrJceCipher.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/AesSiv.java,1,5.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/AesUtilTest.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/annotations/Alpha.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/integration/android/AndroidKeystoreKmsClient.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/integration/awskms/AwsKmsAead.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/BinaryKeysetReader.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/BinaryKeysetWriter.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/Catalogue.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/ChaCha20Poly1305.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/ChaCha20Poly1305KeyManager.java,1,5.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/ConvertKeysetOptions.java,1,5.0,0,0,0.0,11,510.9
+tink,/main/java/com/google/crypto/tink/tinkey/CreateKeysetCommand.java,1,5.0,0,15min,15.0,8,452.7
+tink,rc/main/java/com/google/crypto/tink/DeterministicAead.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/EcdsaSignJce.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/signature/EcdsaSignKeyManager.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/EciesAeadHkdfDemHelper.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/EciesAeadHkdfHybridDecrypt.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/EciesAeadHkdfHybridEncrypt.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/EciesHkdfRecipientKem.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Ed25519Sign.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Ed25519Verify.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/EncryptThenAuthenticate.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/EngineWrapper.java,1,5.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/Field25519Test.java,2,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/integration/gcpkms/GcpKmsAead.java,1,5.0,null,null,null,null,null
+tink,/test/java/com/google/crypto/tink/apps/paymentmethodtoken/GooglePaymentsPublicKeyManagerTest.java,1,5.0,0,0,0.0,22,1088.1
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/GooglePaymentsPublicKeysManager.java,1,5.0,0,17min 30s,17.5,35,1188.3
+tink,rc/main/java/com/google/crypto/tink/HybridDecrypt.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/HybridEncrypt.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/ImmutableByteArray.java,1,5.0,null,null,null,null,null
+tink,rc/test/java/com/google/crypto/tink/subtle/ImmutableByteArrayTest.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/IndCpaCipher.java,1,5.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/InOptions.java,1,5.0,0,0,0.0,16,780.9
+tink,/main/java/com/google/crypto/tink/tinkey/InputStreamHandler.java,1,5.0,0,0,0.0,22,868.2
+tink,rc/main/java/com/google/crypto/tink/JsonKeysetWriter.java,1,5.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/KeyIdOptions.java,1,5.0,0,7min 30s,7.5,4,116.4
+tink,rc/main/java/com/google/crypto/tink/KeyManager.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/KeysetReader.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/KeysetWriter.java,1,5.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/KeyTemplateHandler.java,2,5.0,0,0,0.0,21,868.2
+tink,rc/main/java/com/google/crypto/tink/KmsClient.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/aead/KmsEnvelopeAead.java,1,5.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/ListKeyTemplatesCommand.java,1,5.0,0,0,0.0,8,423.6
+tink,rc/main/java/com/google/crypto/tink/Mac.java,1,5.0,null,null,null,null,null
+tink,/main/java/com/helloworld/MainActivity.java,1,5.0,0,0,0.0,34,1312.8
+tink,rc/main/java/com/google/crypto/tink/subtle/NonceBasedStreamingAead.java,2,5.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/OutputStreamHandler.java,1,5.0,0,0,0.0,22,868.2
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenHybridDecrypt.java,1,5.0,0,10min,10.0,41,1238.4
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenHybridEncrypt.java,1,5.0,0,17min 30s,17.5,18,531.9
+tink,rc/main/java/com/google/crypto/tink/subtle/Poly1305.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/PrivateKeyManager.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/PublicKeySign.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/PublicKeyVerify.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/hybrid/RegistryEciesAeadHkdfDemHelper.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/RsaSsaPkcs1VerifyJce.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/integration/android/SharedPrefKeysetReader.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/integration/android/SharedPrefKeysetWriter.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/Snuffle.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/StreamingAead.java,3,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/streamingaead/StreamingAeadHelper.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/StreamSegmentDecrypter.java,1,5.0,null,null,null,null,null
+tink,rc/main/java/com/google/crypto/tink/subtle/StreamSegmentEncrypter.java,1,5.0,null,null,null,null,null
+tink,/main/java/com/google/crypto/tink/tinkey/TinkeyCommands.java,1,5.0,0,0,0.0,3,87.3
+tink,/main/java/com/google/crypto/tink/apps/paymentmethodtoken/PaymentMethodTokenRecipientKem.java,0,0.0,0,0,0.0,5,145.5
+tink,/main/java/com/google/crypto/tink/subtle/EllipticCurves.java,0,0,16,1M/d 2h,600.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Base64.java,0,0,2,5h 35min,335.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Ed25519.java,0,0,4,4h 35min,275.0,null,null
+tink,/test/java/com/google/crypto/tink/StreamingTestUtil.java,0,0,3,4h 20min,260.0,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/HybridUtil.java,0,0,13,3h 20min,200.0,null,null
+tink,/main/java/com/google/crypto/tink/JsonKeysetReader.java,0,0,0,2h 57min,177.0,null,null
+tink,/main/java/com/google/crypto/tink/signature/SigUtil.java,0,0,11,2h 50min,170.0,null,null
+tink,/test/java/com/google/crypto/tink/WycheproofTestUtil.java,0,0,6,2h 30min,150.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/StreamingAeadDecryptingChannel.java,0,0,2,2h 25min,145.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EngineWrapper.java,0,0,0,2h 20min,140.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/StreamingAeadSeekableDecryptingChannel.java,0,0,0,2h 15min,135.0,null,null
+tink,/main/java/com/google/crypto/tink/aead/AeadCatalogue.java,0,0,6,2h,120.0,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/SeekableByteChannelDecrypter.java,0,0,2,1h 47min,107.0,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/InputStreamDecrypter.java,0,0,2,1h 47min,107.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/StreamingAeadDecryptingStream.java,0,0,0,1h 47min,107.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/AesEaxJceTest.java,0,0,3,1h 42min,102.0,null,null
+tink,/test/java/com/google/crypto/tink/TestUtil.java,0,0,0,1h 42min,102.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/EcdsaVerifyJceTest.java,0,0,2,1h 40min,100.0,null,null
+tink,/main/java/com/google/crypto/tink/mac/HmacKeyManager.java,0,0,6,1h 37min,97.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/AesGcmJceTest.java,0,0,3,1h 25min,85.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/AesCtrHmacStreamingTest.java,0,0,1,1h 25min,85.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/AesGcmHkdfStreamingTest.java,0,0,1,1h 22min,82.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Field25519.java,0,0,0,1h 17min,77.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/EllipticCurvesTest.java,0,0,3,1h 17min,77.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/ChaCha20Poly1305Test.java,0,0,2,1h 15min,75.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/RewindableReadableByteChannel.java,0,0,0,1h 15min,75.0,null,null
+tink,/main/java/com/google/crypto/tink/Registry.java,0,0,0,1h 12min,72.0,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/StreamingAeadUtil.java,0,0,6,1h 10min,70.0,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/ReadableByteChannelDecrypter.java,0,0,2,1h 10min,70.0,null,null
+tink,/main/java/com/google/crypto/tink/CryptoFormat.java,0,0,3,1h 7min,67.0,null,null
+tink,/main/java/com/google/crypto/tink/KeysetManager.java,0,0,1,1h 7min,67.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/StreamingAeadThreadSafetyTest.java,0,0,2,1h 7min,67.0,null,null
+tink,/test/java/com/google/crypto/tink/RegistryTest.java,0,0,0,1h 7min,67.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/Ed25519SignTest.java,0,0,3,1h 5min,65.0,null,null
+tink,/main/java/com/google/crypto/tink/util/KeysDownloader.java,0,0,0,1h 5min,65.0,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/EciesAeadHkdfPrivateKeyManager.java,0,0,0,1h 2min,62.0,null,null
+tink,/test/java/com/google/crypto/tink/aead/AeadConfigTest.java,0,0,3,1h,60.0,null,null
+tink,/test/java/com/google/crypto/tink/hybrid/HybridConfigTest.java,0,0,3,1h,60.0,null,null
+tink,/test/java/com/google/crypto/tink/signature/SignatureConfigTest.java,0,0,3,1h,60.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/AesEaxJce.java,0,0,0,1h,60.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/EncryptThenAuthenticateTest.java,0,0,3,1h,60.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/AesCtrHmacStreaming.java,0,0,3,1h,60.0,null,null
+tink,/test/java/com/google/crypto/tink/KeysetManagerTest.java,0,0,0,1h,60.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/SignatureThreadSafetyTest.java,0,0,1,57min 30s,57.5,null,null
+tink,/test/java/com/google/crypto/tink/aead/AesGcmKeyManagerTest.java,0,0,2,57min 30s,57.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EngineFactory.java,0,0,0,57min 30s,57.5,null,null
+tink,/main/java/com/google/crypto/tink/integration/awskms/AwsKmsClient.java,0,0,0,57min 30s,57.5,null,null
+tink,/main/java/com/google/crypto/tink/mac/MacFactory.java,0,0,0,52min 30s,52.5,null,null
+tink,/test/java/com/google/crypto/tink/subtle/RewindableReadableByteChannelTest.java,0,0,0,52min 30s,52.5,null,null
+tink,/test/java/com/google/crypto/tink/streamingaead/AesGcmHkdfStreamingKeyManagerTest.java,0,0,2,50min,50.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/AesCmacTest.java,0,0,2,50min,50.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/MacJceTest.java,0,0,2,50min,50.0,null,null
+tink,/main/java/com/google/crypto/tink/aead/AeadFactory.java,0,0,2,47min 30s,47.5,null,null
+tink,/main/java/com/google/crypto/tink/daead/DeterministicAeadFactory.java,0,0,2,47min 30s,47.5,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/HybridDecryptFactory.java,0,0,2,47min 30s,47.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/StreamingAeadEncryptingChannel.java,0,0,0,47min 30s,47.5,null,null
+tink,/test/java/com/google/crypto/tink/aead/AesEaxKeyManagerTest.java,0,0,1,47min 30s,47.5,null,null
+tink,/test/java/com/google/crypto/tink/signature/EcdsaSignKeyManagerTest.java,0,0,0,47min 30s,47.5,null,null
+tink,/main/java/com/google/crypto/tink/integration/gcpkms/GcpKmsClient.java,0,0,0,47min 30s,47.5,null,null
+tink,/main/java/com/google/crypto/tink/signature/EcdsaSignKeyManager.java,0,0,0,45min,45.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Curve25519.java,0,0,0,45min,45.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/AesSivTest.java,0,0,2,42min 30s,42.5,null,null
+tink,/main/java/com/google/crypto/tink/signature/PublicKeySignCatalogue.java,0,0,2,40min,40.0,null,null
+tink,/main/java/com/google/crypto/tink/signature/PublicKeyVerifyCatalogue.java,0,0,2,40min,40.0,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/StreamingAeadCatalogue.java,0,0,2,40min,40.0,null,null
+tink,/test/java/com/google/crypto/tink/daead/AesSivKeyManagerTest.java,0,0,2,40min,40.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EciesHkdfSenderKem.java,0,0,0,40min,40.0,null,null
+tink,/test/java/com/google/crypto/tink/signature/EcdsaVerifyKeyManagerTest.java,0,0,0,40min,40.0,null,null
+tink,/test/java/com/google/crypto/tink/streamingaead/AesCtrHmacStreamingKeyManagerTest.java,0,0,1,40min,40.0,null,null
+tink,/test/java/com/google/crypto/tink/aead/AeadFactoryTest.java,0,0,0,37min 30s,37.5,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/AesCtrHmacStreamingKeyManager.java,0,0,3,37min 30s,37.5,null,null
+tink,/test/java/com/google/crypto/tink/util/KeysDownloaderTest.java,0,0,0,37min 30s,37.5,null,null
+tink,/test/java/com/google/crypto/tink/aead/AeadKeyTemplatesTest.java,0,0,0,37min 30s,37.5,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/EciesAeadHkdfPublicKeyManager.java,0,0,0,35min,35.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/X25519Test.java,0,0,1,35min,35.0,null,null
+tink,/main/java/com/google/crypto/tink/signature/PublicKeyVerifyFactory.java,0,0,0,35min,35.0,null,null
+tink,/test/java/com/google/crypto/tink/IntegrationTest.java,0,0,0,35min,35.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Ed25519Constants.java,0,0,1,32min 30s,32.5,null,null
+tink,/test/java/com/google/crypto/tink/config/TinkConfigTest.java,0,0,0,30min,30.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/StreamingAeadEncryptingStream.java,0,0,0,30min,30.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Bytes.java,0,0,0,30min,30.0,null,null
+tink,/test/java/com/google/crypto/tink/PrimitiveSetTest.java,0,0,0,30min,30.0,null,null
+tink,/test/java/com/google/crypto/tink/daead/DeterministicAeadFactoryTest.java,0,0,0,30min,30.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/DaeadThreadSafetyTest.java,0,0,1,30min,30.0,null,null
+tink,/main/java/com/google/crypto/tink/integration/android/AndroidKeysetManager.java,0,0,0,30min,30.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/ValidatorsTest.java,0,0,0,30min,30.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Poly1305.java,0,0,0,30min,30.0,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/RegistryEciesAeadHkdfDemHelper.java,0,0,0,27min 30s,27.5,null,null
+tink,/test/java/com/google/crypto/tink/subtle/Ed25519VerifyTest.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/Util.java,0,0,0,27min 30s,27.5,null,null
+tink,/test/java/com/google/crypto/tink/subtle/RsaSsaPkcs1VerifyJceTest.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/aead/AesCtrHmacAeadKeyManager.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/aead/AesEaxKeyManager.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/aead/AesGcmKeyManager.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/aead/KmsAeadKeyManager.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/aead/KmsEnvelopeAeadKeyManager.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/daead/AesSivKeyManager.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/integration/android/AndroidKeystoreKmsClient.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/signature/Ed25519PrivateKeyManager.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/AesGcmHkdfStreamingKeyManager.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/AesGcmJce.java,0,0,0,27min 30s,27.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/AesSiv.java,0,0,0,27min 30s,27.5,null,null
+tink,/test/java/com/google/crypto/tink/signature/PublicKeyVerifyFactoryTest.java,0,0,0,25min,25.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Hkdf.java,0,0,0,25min,25.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/AesCmac.java,0,0,0,25min,25.0,null,null
+tink,/test/java/com/google/crypto/tink/UtilTest.java,0,0,0,25min,25.0,null,null
+tink,/test/java/com/google/crypto/tink/hybrid/RegistryEciesAeadHkdfDemHelperTest.java,0,0,0,25min,25.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/EcdsaSignJceTest.java,0,0,0,25min,25.0,null,null
+tink,/test/java/com/google/crypto/tink/aead/KmsEnvelopeAeadKeyManagerTest.java,0,0,1,25min,25.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/HkdfTest.java,0,0,1,25min,25.0,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/StreamingAeadKeyTemplates.java,0,0,0,22min 30s,22.5,null,null
+tink,/test/java/com/google/crypto/tink/mac/MacFactoryTest.java,0,0,0,22min 30s,22.5,null,null
+tink,/test/java/com/google/crypto/tink/hybrid/EciesAeadHkdfHybridDecryptTest.java,0,0,0,22min 30s,22.5,null,null
+tink,/test/java/com/google/crypto/tink/hybrid/HybridKeyTemplatesTest.java,0,0,0,22min 30s,22.5,null,null
+tink,/test/java/com/google/crypto/tink/JsonKeysetReaderTest.java,0,0,0,22min 30s,22.5,null,null
+tink,/test/java/com/google/crypto/tink/integration/awskms/AwsKmsAeadTest.java,0,0,0,22min 30s,22.5,null,null
+tink,/main/java/com/google/crypto/tink/daead/DeterministicAeadCatalogue.java,0,0,1,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/HybridDecryptCatalogue.java,0,0,1,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/HybridEncryptCatalogue.java,0,0,1,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/mac/MacCatalogue.java,0,0,1,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/CleartextKeysetHandle.java,0,0,3,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/NoSecretKeysetHandle.java,0,0,3,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Validators.java,0,0,1,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/StreamingAead.java,0,0,0,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/KmsClients.java,0,0,0,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/PrimitiveSet.java,0,0,0,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/aead/AesCtrKeyManager.java,0,0,0,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/integration/awskms/AwsKmsAead.java,0,0,0,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/integration/gcpkms/GcpKmsAead.java,0,0,0,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/AesGcmHkdfStreaming.java,0,0,3,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/ImmutableByteArray.java,0,0,0,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/SubtleUtil.java,0,0,0,20min,20.0,null,null
+tink,/main/java/com/google/crypto/tink/aead/ChaCha20Poly1305KeyManager.java,0,0,0,17min 30s,17.5,null,null
+tink,/main/java/com/google/crypto/tink/aead/KmsEnvelopeAead.java,0,0,0,17min 30s,17.5,null,null
+tink,/main/java/com/google/crypto/tink/signature/EcdsaVerifyKeyManager.java,0,0,0,17min 30s,17.5,null,null
+tink,/main/java/com/google/crypto/tink/signature/Ed25519PublicKeyManager.java,0,0,0,17min 30s,17.5,null,null
+tink,/test/java/com/google/crypto/tink/subtle/EngineFactoryTest.java,0,0,0,17min 30s,17.5,null,null
+tink,/test/java/com/google/crypto/tink/subtle/Field25519Test.java,0,0,1,17min 30s,17.5,null,null
+tink,/test/java/com/google/crypto/tink/hybrid/EciesAeadHkdfPrivateKeyManagerTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/signature/Ed25519PrivateKeyManagerTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/aead/AesCtrKeyManagerTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/hybrid/HybridEncryptFactoryTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/mac/HmacKeyManagerTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/signature/PublicKeySignFactoryTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/aead/AesCtrHmacAeadKeyManagerTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/hybrid/EciesAeadHkdfHybridEncryptTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/streamingaead/StreamingAeadFactoryTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/ChaCha20Test.java,0,0,0,15min,15.0,null,null
+tink,/main/java/com/google/crypto/tink/aead/AeadKeyTemplates.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/KeysetHandleTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/aead/AeadCatalogueTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/daead/DeterministicAeadCatalogueTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/hybrid/HybridDecryptCatalogueTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/hybrid/HybridEncryptCatalogueTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/mac/MacCatalogueTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/signature/Ed25519PublicKeyManagerTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/signature/PublicKeySignCatalogueTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/signature/PublicKeyVerifyCatalogueTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/streamingaead/StreamingAeadCatalogueTest.java,0,0,0,15min,15.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/RsaSsaPkcs1SignJceTest.java,0,0,0,15min,15.0,null,null
+tink,/main/java/com/google/crypto/tink/KeysetHandle.java,0,0,0,10min,10.0,null,null
+tink,/main/java/com/google/crypto/tink/integration/android/SharedPrefKeysetReader.java,0,0,0,10min,10.0,null,null
+tink,/main/java/com/google/crypto/tink/signature/PublicKeySignFactory.java,0,0,0,10min,10.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/NonceBasedStreamingAead.java,0,0,0,10min,10.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/AeadThreadSafetyTest.java,0,0,1,10min,10.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/AesCtrJceCipherTest.java,0,0,0,10min,10.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EcdsaVerifyJce.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/CleartextKeysetHandleTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/daead/DeterministicAeadKeyTemplates.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/mac/MacKeyTemplates.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/signature/SignatureKeyTemplates.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/aead/AeadConfig.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/config/TinkConfig.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/daead/DeterministicAeadConfig.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/HybridConfig.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/HybridKeyTemplates.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/mac/MacConfig.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/signature/SignatureConfig.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/StreamingAeadConfig.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/AesCtrJceCipher.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/AesUtil.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/ChaCha20.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EciesAeadHkdfHybridDecrypt.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EciesHkdfRecipientKem.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Ed25519Sign.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Ed25519Verify.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Snuffle.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/ConfigTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/CryptoFormatTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/aead/ChaCha20Poly1305KeyManagerTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/daead/DeterministicAeadConfigTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/mac/MacConfigTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/streamingaead/StreamingAeadConfigTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/streamingaead/StreamingAeadKeyTemplatesTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/subtle/AesUtilTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/test/java/com/google/crypto/tink/subtle/BytesTest.java,0,0,0,7min 30s,7.5,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/HybridDecryptConfig.java,0,0,1,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/HybridEncryptConfig.java,0,0,1,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/signature/PublicKeySignConfig.java,0,0,1,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/signature/PublicKeyVerifyConfig.java,0,0,1,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/MacJce.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/Aead.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/BinaryKeysetReader.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/BinaryKeysetWriter.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/Catalogue.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/Config.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/DeterministicAead.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/HybridDecrypt.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/HybridEncrypt.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/JsonKeysetWriter.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/KeyManager.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/KeysetReader.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/KeysetWriter.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/KmsClient.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/Mac.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/PrivateKeyManager.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/PublicKeySign.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/PublicKeyVerify.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/annotations/Alpha.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/hybrid/HybridEncryptFactory.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/integration/android/AndroidKeystoreAesGcm.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/integration/android/SharedPrefKeysetWriter.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/StreamingAeadFactory.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/streamingaead/StreamingAeadHelper.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/ChaCha20Poly1305.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EcdsaSignJce.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EciesAeadHkdfDemHelper.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EciesAeadHkdfHybridEncrypt.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/EncryptThenAuthenticate.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Enums.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Hex.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/IndCpaCipher.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/Random.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/RsaSsaPkcs1SignJce.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/RsaSsaPkcs1VerifyJce.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/SnufflePoly1305.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/StreamSegmentDecrypter.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/StreamSegmentEncrypter.java,0,0,0,0,0.0,null,null
+tink,/main/java/com/google/crypto/tink/subtle/X25519.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/EcdsaProtoTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/JsonKeysetWriterTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/NoSecretKeysetHandleTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/TinkProtoTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/aead/KmsAeadKeyManagerTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/daead/DeterministicAeadKeyTemplatesTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/mac/MacKeyTemplatesTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/signature/SignatureKeyTemplatesTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/signature/SigUtilTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/streamingaead/StreamingAeadUtilTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/Ed25519Test.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/ImmutableByteArrayTest.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/Poly1305Test.java,0,0,0,0,0.0,null,null
+tink,/test/java/com/google/crypto/tink/subtle/SubtleUtilTest.java,0,0,0,0,0.0,null,null

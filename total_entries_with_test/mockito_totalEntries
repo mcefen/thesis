@@ -1,0 +1,910 @@
+mockito,/test/java/org/mockitoutil/ClassLoadersTest.java,45,525.0,0,15min,15.0,133,4180.8
+mockito,/test/java/org/mockitousage/stubbing/StubbingWithAdditionalAnswersTest.java,38,498.0,0,22min 30s,22.5,121,4292.4
+mockito,/test/java/org/mockito/internal/util/reflection/FieldInitializerTest.java,48,482.0,0,15min,15.0,210,7487.1
+mockito,/test/java/org/mockito/moduletest/ModuleHandlingTest.java,24,442.0,4,2h 10min,130.0,110,3374.1
+mockito,/main/java/org/mockito/AdditionalMatchers.java,37,435.0,0,15min,15.0,42,1508.4
+mockito,/test/java/org/mockito/internal/stubbing/defaultanswers/ReturnsGenericDeepStubsTest.java,56,433.0,0,15min,15.0,115,4142.1
+mockito,/test/java/org/mockitousage/jls/JLS_15_12_2_5Test.java,31,380.0,0,0,0.0,121,3540.6
+mockito,/test/java/org/mockito/internal/stubbing/answers/ReturnsArgumentAtTest.java,32,371.0,0,22min 30s,22.5,108,3299.7
+mockito,/test/java/org/mockito/internal/creation/bytebuddy/TypeCachingMockBytecodeGeneratorTest.java,36,368.0,0,15min,15.0,66,2472.0
+mockito,/test/java/org/mockito/internal/matchers/apachecommons/EqualsBuilderTest.java,36,361.0,0,7h 30min,450.0,382,13850.7
+mockito,/test/java/org/mockito/internal/util/collections/HashCodeAndEqualsSafeSetTest.java,22,286.0,0,7min 30s,7.5,115,3336.9
+mockito,/test/java/org/mockitousage/annotation/MockInjectionUsingConstructorTest.java,28,286.0,0,7min 30s,7.5,153,4803.3
+mockito,/test/java/org/mockito/internal/creation/bytebuddy/AbstractByteBuddyMockMakerTest.java,33,280.0,0,1min,1.0,168,6206.7
+mockito,/test/java/org/mockito/internal/stubbing/answers/ThrowsExceptionTest.java,23,278.0,0,0,0.0,69,2185.8
+mockito,/test/java/org/mockitousage/junitrule/StubbingWarningsJUnitRuleTest.java,23,262.0,0,7min 30s,7.5,74,2273.1
+mockito,/test/java/org/mockito/internal/util/reflection/GenericMetadataSupportTest.java,37,253.0,0,1h 35min,95.0,222,6984.3
+mockito,/test/java/org/mockitousage/junitrule/StrictJUnitRuleTest.java,20,250.0,0,7min 30s,7.5,71,1928.7
+mockito,/test/java/org/mockitousage/stubbing/ReturningDefaultValuesTest.java,18,240.0,0,0,0.0,55,1662.0
+mockito,/test/java/org/mockitousage/stubbing/StrictStubbingTest.java,24,234.0,0,15min,15.0,81,2045.1
+mockito,/test/java/org/mockito/internal/verification/checkers/NumberOfInvocationsInOrderCheckerTest.java,13,230.0,5,37min 30s,37.5,119,3914.1
+mockito,/test/java/org/mockito/internal/util/reflection/SuperTypesLastSorterTest.java,26,222.0,0,37min 30s,37.5,82,2344.2
+mockito,/test/java/org/mockitoutil/SafeJUnitRuleTest.java,16,215.0,0,0,0.0,62,2003.1
+mockito,/main/java/org/mockito/internal/creation/settings/CreationSettings.java,12,214.0,0,32min 30s,32.5,85,2182.5
+mockito,/test/java/org/mockito/internal/configuration/MockInjectionTest.java,20,206.0,0,7min 30s,7.5,98,2585.1
+mockito,/test/java/org/mockito/errorprone/bugpatterns/MockitoAnyClassWithPrimitiveTypeTest.java,17,206.0,3,45min,45.0,27,984.6
+mockito,/test/java/org/mockito/internal/stubbing/InvocationContainerImplTest.java,19,203.0,0,7min 30s,7.5,54,1463.1
+mockito,/main/java/org/mockito/errorprone/bugpatterns/AbstractMockitoAnyForPrimitiveType.java,4,200.0,0,1h 5min,65.0,20,1021.8
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/MockMethodInterceptor.java,8,200.0,0,20min,20.0,88,3186.6
+mockito,/test/java/org/mockitousage/junitrunner/StubbingWarningsJUnitRunnerTest.java,10,200.0,0,0,0.0,94,3822.0
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/MockMethodAdvice.java,15,198.0,0,30min,30.0,186,6232.5
+mockito,/test/java/org/mockito/errorprone/bugpatterns/MockitoAnyIncorrectPrimitiveTypeTest.java,16,194.0,1,25min,25.0,25,677.4
+mockito,/test/java/org/mockito/internal/stubbing/answers/InvocationInfoTest.java,20,191.0,0,15min,15.0,81,2148.6
+mockito,/test/java/org/mockito/internal/util/reflection/GenericMasterTest.java,11,190.0,0,0,0.0,82,2564.1
+mockito,/test/java/org/mockitousage/MethodsImpl.java,15,190.0,0,22min 30s,22.5,464,9664.5
+mockito,/test/java/org/mockito/internal/util/reflection/ParameterizedConstructorInstantiatorTest.java,20,190.0,0,0,0.0,141,4416.9
+mockito,/test/java/org/mockito/internal/util/reflection/BeanPropertySetterTest.java,19,186.0,0,0,0.0,120,4075.8
+mockito,/test/java/org/mockitousage/stubbing/StubbingWithDelegateTest.java,29,185.0,0,0,0.0,94,2900.4
+mockito,/test/java/org/mockito/internal/util/StringUtilTest.java,15,183.0,0,7min 30s,7.5,56,1616.7
+mockito,/test/java/org/mockitousage/stubbing/StubbingConsecutiveAnswersTest.java,25,177.0,0,1h,60.0,108,4142.1
+mockito,/test/java/org/mockitousage/stubbing/StubbingWarningsTest.java,15,175.0,0,10min,10.0,58,1571.4
+mockito,/test/java/org/mockito/internal/handler/InvocationNotifierHandlerTest.java,17,174.0,0,0,0.0,65,1936.8
+mockito,/test/java/org/mockito/internal/verification/checkers/NumberOfInvocationsCheckerTest.java,10,164.0,5,37min 30s,37.5,94,3207.6
+mockito,/test/java/org/mockito/internal/util/DefaultMockingDetailsTest.java,23,163.0,0,0,0.0,98,2950.5
+mockito,/test/java/org/mockito/internal/stubbing/answers/ReturnsTest.java,13,158.0,0,7min 30s,7.5,49,1413.0
+mockito,/test/java/org/mockitousage/matchers/VarargsTest.java,31,155.0,0,15min,15.0,113,3220.5
+mockito,/test/java/org/mockitousage/annotation/MockInjectionUsingSetterOrPropertyTest.java,9,151.0,0,7min 30s,7.5,155,5247.9
+mockito,/main/java/org/mockito/ArgumentMatchers.java,17,150.0,0,37min,37.0,34,955.5
+mockito,/test/java/org/mockitousage/junitrule/MutableStrictJUnitRuleTest.java,12,150.0,0,15min,15.0,56,1733.1
+mockito,/main/java/org/mockito/android/internal/creation/AndroidTempFileLocator.java,13,145.0,2,30min,30.0,41,1341.9
+mockito,/test/java/org/mockito/internal/util/reflection/FieldsTest.java,15,143.0,0,0,0.0,101,2664.3
+mockito,/test/java/org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNullsTest.java,16,142.0,0,7min 30s,7.5,171,4821.0
+mockito,/test/java/org/mockito/internal/junit/JUnitRuleTest.java,10,140.0,0,7min 30s,7.5,32,939.3
+mockito,/test/java/org/mockito/internal/debugging/VerboseMockInvocationLoggerTest.java,14,140.0,0,7min 30s,7.5,59,1521.3
+mockito,/test/java/org/mockitousage/matchers/MatchersTest.java,11,139.0,0,2h 52min,172.0,159,5380.5
+mockito,/test/java/org/mockitousage/stubbing/DeepStubbingTest.java,36,136.0,0,1h 17min,77.0,178,6701.4
+mockito,/test/java/org/mockitousage/debugging/InvocationListenerCallbackTest.java,13,135.0,0,0,0.0,75,2331.3
+mockito,/test/java/org/mockitousage/serialization/DeepStubsSerializableTest.java,15,128.0,0,7min 30s,7.5,78,2654.7
+mockito,/test/java/org/mockito/internal/util/PlatformTest.java,13,126.0,0,30min,30.0,27,889.2
+mockito,/test/java/org/mockitousage/bugs/creation/ConstructorInvokingMethodShouldNotRaiseExceptionTest.java,11,125.0,0,0,0.0,86,3290.1
+mockito,/test/java/org/mockito/internal/util/MockCreationValidatorTest.java,10,125.0,0,0,0.0,32,873.0
+mockito,/main/java/org/mockito/internal/matchers/CapturingMatcher.java,6,122.0,0,27min 30s,27.5,27,611.1
+mockito,/test/java/org/mockitousage/PlaygroundTest.java,25,122.0,1,10min,10.0,46,1852.8
+mockito,/test/java/org/mockitousage/stubbing/StubbingWithThrowablesTest.java,18,122.0,0,30min,30.0,183,6074.1
+mockito,/test/java/org/mockitousage/annotation/InjectionOfInlinedMockDeclarationTest.java,11,115.0,0,0,0.0,67,2281.2
+mockito,/test/java/org/mockito/internal/hamcrest/MatcherGenericTypeExtractorTest.java,18,115.0,0,22min 30s,22.5,134,5661.9
+mockito,/test/java/org/mockitousage/strictness/StrictnessPerStubbingTest.java,17,115.0,0,20min,20.0,92,3286.8
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/InlineBytecodeGenerator.java,15,112.0,0,1h 37min,97.0,102,4041.9
+mockito,/test/java/org/mockitoutil/ClassLoaders.java,23,111.0,2,3h 22min,202.0,362,8702.7
+mockito,/test/java/org/mockito/internal/util/ChecksTest.java,9,110.0,0,7min 30s,7.5,34,939.3
+mockito,/main/java/org/mockito/internal/matchers/apachecommons/EqualsBuilder.java,2,109.0,9,1M/d 2h,600.0,32,2873.1
+mockito,/test/java/org/mockito/internal/stubbing/answers/AnswersWithDelayTest.java,9,108.0,0,0,0.0,38,1122.0
+mockito,/test/java/org/mockitousage/customization/BDDMockitoTest.java,20,106.0,0,22min 30s,22.5,268,9480.6
+mockito,/test/java/org/mockitousage/annotation/SpyAnnotationTest.java,19,106.0,0,15min,15.0,222,8408.7
+mockito,/test/java/org/mockitousage/verification/BasicVerificationInOrderTest.java,15,100.0,1,17min 30s,17.5,114,5204.4
+mockito,/test/java/org/mockitousage/bugs/EqualsWithDeltaTest.java,8,100.0,0,0,0.0,36,1092.9
+mockito,/test/java/org/mockitoutil/async/AsyncTesting.java,12,99.0,0,10min,10.0,19,685.5
+mockito,/test/java/org/mockito/internal/creation/bytebuddy/InlineByteBuddyMockMakerTest.java,15,96.0,0,46min,46.0,256,11306.1
+mockito,/main/java/org/mockito/internal/util/reflection/GenericMetadataSupport.java,17,95.0,2,5h 19min,319.0,197,5891.4
+mockito,/test/java/org/mockitousage/junitrule/LenientJUnitRuleTest.java,7,95.0,0,7min 30s,7.5,32,1130.1
+mockito,/test/java/org/mockito/internal/verification/checkers/MissingInvocationInOrderCheckerTest.java,6,93.0,0,7min 30s,7.5,55,1712.1
+mockito,/test/java/org/mockito/internal/stubbing/answers/DoesNothingTest.java,13,91.0,0,0,0.0,55,1720.2
+mockito,/test/java/org/mockito/internal/util/PrimitivesTest.java,9,90.0,0,37min 30s,37.5,44,1794.6
+mockito,/test/java/org/mockito/internal/matchers/text/ValuePrinterTest.java,7,90.0,0,15min,15.0,36,1445.4
+mockito,/test/java/org/mockitousage/serialization/AcrossClassLoaderSerializationTest.java,11,89.0,0,7min 30s,7.5,72,2501.1
+mockito,/test/java/org/mockito/InvocationFactoryTest.java,6,87.0,0,10min,10.0,43,1400.1
+mockito,/test/java/org/mockitousage/bugs/MockitoRunnerBreaksWhenNoTestMethodsTest.java,13,87.0,0,7min 30s,7.5,28,1262.7
+mockito,/test/java/org/mockitousage/CompilationWarningsTest.java,8,85.0,0,22min 30s,22.5,45,1362.9
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/InlineByteBuddyMockMaker.java,7,85.0,1,1h 52min,112.0,55,1450.2
+mockito,/main/java/org/mockito/internal/debugging/MockitoDebuggerImpl.java,10,85.0,0,27min 30s,27.5,26,1167.3
+mockito,/test/java/org/mockitousage/verification/VerificationWithAfterTest.java,22,85.0,0,57min 30s,57.5,78,3186.6
+mockito,/main/java/org/mockito/internal/exceptions/Reporter.java,12,84.0,0,53min 30s,53.5,376,7897.5
+mockito,/test/java/org/mockitousage/constructor/CreatingMocksWithConstructorTest.java,15,82.0,0,27min 30s,27.5,310,9032.7
+mockito,/test/java/org/mockito/internal/stubbing/answers/CallsRealMethodsTest.java,7,80.0,0,0,0.0,26,1071.9
+mockito,/test/java/org/mockito/internal/util/reflection/GenericTypeExtractorTest.java,14,80.0,0,1h 7min,67.0,94,5859.3
+mockito,/test/java/org/mockitousage/junitrunner/SilentRunnerTest.java,8,80.0,1,10min,10.0,77,2895.6
+mockito,/test/java/org/mockito/internal/exceptions/stacktrace/StackTraceFilterTest.java,6,80.0,0,0,0.0,41,785.7
+mockito,/test/java/org/mockito/internal/configuration/injection/SimpleArgumentResolverTest.java,7,76.0,0,0,0.0,43,1773.6
+mockito,/main/java/org/mockito/internal/junit/util/JUnitFailureHacker.java,6,75.0,0,50min,50.0,31,1167.3
+mockito,/test/java/org/mockitousage/verification/RelaxedVerificationInOrderTest.java,10,75.0,1,17min 30s,17.5,116,3872.1
+mockito,/test/java/org/mockitousage/debugging/VerboseLoggingOfInvocationsOnMockTest.java,7,74.0,0,7min 30s,7.5,73,2310.3
+mockito,/test/java/org/mockitousage/basicapi/ReplacingObjectMethodsTest.java,5,73.0,0,0,0.0,49,1985.4
+mockito,/test/java/org/mockitousage/verification/VerificationInOrderWithTimeoutTest.java,15,71.0,0,17min 30s,17.5,66,2742.0
+mockito,/test/java/org/mockito/internal/matchers/InstanceOfTest.java,14,70.0,0,22min 30s,22.5,25,772.8
+mockito,/test/java/org/mockitousage/junitrule/StubbingWarningsMultiThreadingTest.java,8,70.0,0,7min 30s,7.5,23,706.5
+mockito,/test/java/org/mockitousage/matchers/InvalidUseOfMatchersTest.java,10,68.0,0,0,0.0,40,1151.1
+mockito,/test/java/org/concurrentmockito/ThreadsRunAllTestsHalfManualTest.java,9,68.0,0,7min 30s,7.5,40,1122.0
+mockito,/test/java/org/mockitousage/debugging/VerificationListenerCallBackTest.java,4,68.0,0,7min 30s,7.5,94,3771.9
+mockito,/test/java/org/mockitousage/verification/VerificationWithTimeoutTest.java,17,68.0,0,47min 30s,47.5,64,2559.3
+mockito,/test/java/org/mockito/internal/configuration/GlobalConfigurationTest.java,7,65.0,0,0,0.0,38,1283.7
+mockito,/main/java/org/mockito/internal/util/collections/ListUtil.java,8,62.0,0,0,0.0,24,889.2
+mockito,/test/java/org/mockitousage/stubbing/StrictStubbingEndToEndTest.java,10,61.0,2,20min,20.0,120,3585.9
+mockito,/test/java/org/mockitousage/stubbing/StubbingReturnsSelfTest.java,13,61.0,0,0,0.0,119,2958.6
+mockito,/main/java/org/mockito/internal/util/reflection/BeanPropertySetter.java,3,60.0,0,10min,10.0,17,320.1
+mockito,/main/java/org/mockito/internal/stubbing/answers/DefaultAnswerValidator.java,3,60.0,0,0,0.0,13,569.1
+mockito,/main/java/org/mockito/internal/handler/InvocationNotifierHandler.java,3,60.0,0,10min,10.0,35,1532.7
+mockito,/main/java/org/mockito/errorprone/bugpatterns/MockitoAnyIncorrectPrimitiveType.java,1,60.0,0,0,0.0,16,627.3
+mockito,/main/java/org/mockito/errorprone/bugpatterns/MockitoInternalUsage.java,1,60.0,0,27min 30s,27.5,11,510.9
+mockito,/main/java/org/mockito/runners/MockitoJUnitRunner.java,6,60.0,0,30min,30.0,40,1707.3
+mockito,/test/java/org/mockitousage/session/MockitoSessionTest.java,9,60.0,0,0,0.0,178,6460.5
+mockito,/main/java/org/mockito/internal/runners/util/RunnerProvider.java,3,60.0,0,10min,10.0,17,810.0
+mockito,/test/java/org/mockitoutil/SimpleSerializationUtil.java,4,60.0,0,0,0.0,35,1466.4
+mockito,/test/java/org/mockito/internal/invocation/TypeSafeMatchingTest.java,4,60.0,2,17min 30s,17.5,61,3131.7
+mockito,/test/java/org/mockitousage/matchers/MoreMatchersTest.java,8,59.0,0,15min,15.0,37,1055.7
+mockito,/test/java/org/mockito/internal/util/reflection/AccessibilityChangerTest.java,5,58.0,0,0,0.0,27,793.8
+mockito,/test/java/org/mockitousage/junitrule/VerificationCollectorImplTest.java,11,58.0,0,15min,15.0,64,1990.2
+mockito,/test/java/org/mockito/internal/session/DefaultMockitoSessionBuilderTest.java,10,56.0,0,22min 30s,22.5,47,1371.0
+mockito,/test/java/org/mockitousage/basicapi/MockingMultipleInterfacesTest.java,10,56.0,0,0,0.0,46,1574.7
+mockito,/test/java/org/mockitousage/examples/use/ArticleDatabase.java,6,55.0,0,0,0.0,26,831.0
+mockito,/test/java/org/mockitousage/bugs/CompareMatcherTest.java,4,55.0,2,17min 30s,17.5,39,1678.2
+mockito,/test/java/org/mockito/internal/stubbing/answers/DefaultAnswerValidatorTest.java,5,55.0,0,0,0.0,17,685.5
+mockito,/test/java/org/mockitousage/bugs/creation/PublicMethodInParentWithNonPublicTypeInSignatureTest.java,5,55.0,0,0,0.0,17,436.5
+mockito,/test/java/org/mockitousage/junitrunner/StrictRunnerTest.java,8,55.0,0,0,0.0,121,5254.5
+mockito,/test/java/org/mockitousage/configuration/ClassCacheVersusClassReloadingTest.java,5,53.0,0,10min,10.0,55,1603.8
+mockito,/test/java/org/mockito/internal/handler/MockHandlerImplTest.java,9,52.0,0,7min 30s,7.5,53,1998.3
+mockito,/test/java/org/mockitointegration/NoByteCodeDependenciesTest.java,6,52.0,0,0,0.0,26,735.6
+mockito,/main/java/org/mockito/internal/util/reflection/Fields.java,9,51.0,0,10min,10.0,44,1217.4
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/ModuleHandler.java,14,51.0,0,2h 10min,130.0,123,4221.3
+mockito,/test/java/org/mockitousage/bugs/ConcurrentModificationExceptionOnMultiThreadedVerificationTest.java,5,50.0,0,0,0.0,46,1383.9
+mockito,/test/java/org/mockito/internal/junit/ExceptionFactoryTest.java,7,50.0,0,7min 30s,7.5,60,1367.7
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations.java,2,50.0,0,37min 30s,37.5,27,947.4
+mockito,/test/java/org/mockito/internal/util/io/IOUtilTest.java,4,50.0,0,7min 30s,7.5,26,1233.6
+mockito,/test/java/org/mockitousage/spies/PartialMockingWithSpiesTest.java,3,50.0,0,0,0.0,71,2750.1
+mockito,/main/java/org/mockito/internal/configuration/plugins/PluginLoader.java,4,50.0,0,50min,50.0,18,436.5
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java,3,50.0,0,1h 2min,62.0,89,2439.6
+mockito,/test/java/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValuesTest.java,6,50.0,0,42min 30s,42.5,78,2045.1
+mockito,/test/java/org/mockitousage/StrictnessTest.java,10,50.0,0,0,0.0,100,4307.1
+mockito,/test/java/org/mockitointegration/NoJUnitDependenciesTest.java,6,49.0,0,0,0.0,24,801.9
+mockito,/test/java/org/mockitousage/debugging/StubbingLookupListenerCallbackTest.java,10,49.0,0,0,0.0,54,2048.4
+mockito,/main/java/org/mockito/internal/listeners/VerificationStartedNotifier.java,3,48.0,0,10min,10.0,39,1283.7
+mockito,/main/java/org/mockito/internal/util/io/IOUtil.java,3,46.0,0,10min,10.0,17,1154.4
+mockito,/test/java/org/mockito/internal/runners/DefaultInternalRunnerTest.java,6,45.0,0,7min 30s,7.5,65,1990.2
+mockito,/test/java/org/mockitousage/junitrule/MockitoJUnitRuleTest.java,3,45.0,0,7min 30s,7.5,37,1869.0
+mockito,/test/java/org/mockitousage/basicapi/MocksSerializationTest.java,4,45.0,0,37min 30s,37.5,243,8717.4
+mockito,/test/java/org/mockitousage/junitrule/RuleTestWithFactoryMethodTest.java,3,45.0,2,17min 30s,17.5,35,1686.3
+mockito,/test/java/org/mockitousage/junitrule/RuleTestWithParameterConstructorTest.java,3,45.0,2,17min 30s,17.5,35,1686.3
+mockito,/test/java/org/mockitousage/stubbing/SmartNullsStubbingTest.java,9,45.0,0,0,0.0,96,2879.4
+mockito,/test/java/org/mockito/internal/creation/bytebuddy/SubclassByteBuddyMockMakerTest.java,7,45.0,0,7min 30s,7.5,57,2409.0
+mockito,/test/java/org/mockitousage/stubbing/SmartNullsGenericBugTest.java,8,43.0,0,0,0.0,55,2101.8
+mockito,/test/java/org/mockito/errorprone/bugpatterns/MockitoInternalUsageTest.java,4,42.0,0,7min 30s,7.5,17,378.3
+mockito,/test/java/org/mockito/osgitest/OsgiTest.java,3,42.0,0,7min 30s,7.5,59,1550.4
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/inject/MockMethodDispatcher.java,3,41.0,0,20min,20.0,24,793.8
+mockito,/main/java/org/mockito/internal/util/collections/Sets.java,3,41.0,0,0,0.0,18,656.4
+mockito,/main/java/org/mockito/BDDMockito.java,13,40.0,0,0,0.0,189,4119.3
+mockito,/main/java/org/mockito/internal/util/reflection/FieldSetter.java,2,40.0,0,0,0.0,14,481.8
+mockito,/test/java/org/mockito/internal/util/collections/IdentitySetTest.java,3,40.0,0,0,0.0,28,1042.8
+mockito,/test/java/org/mockitousage/junitrunner/JUnit45RunnerTest.java,2,40.0,0,0,0.0,32,976.5
+mockito,/test/java/org/mockitousage/basicapi/MockAccessTest.java,2,40.0,0,0,0.0,21,743.7
+mockito,/main/java/org/mockito/errorprone/bugpatterns/MockitoAnyClassWithPrimitiveType.java,1,40.0,0,0,0.0,14,569.1
+mockito,/main/java/org/mockito/internal/invocation/RealMethod.java,2,40.0,0,25min,25.0,44,1333.8
+mockito,/test/java/org/mockitoutil/SafeJUnitRule.java,5,40.0,0,10min,10.0,42,1304.7
+mockito,/main/java/org/mockito/internal/progress/SequenceNumber.java,2,40.0,0,0,0.0,10,481.8
+mockito,/test/java/org/mockitousage/bugs/ShouldNotDeadlockAnswerExecutionTest.java,2,40.0,0,0,0.0,49,1566.6
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/SubclassInjectionLoader.java,2,40.0,0,50min,50.0,63,1998.3
+mockito,/test/java/org/mockitousage/verification/VerificationInOrderTest.java,5,40.0,0,15min,15.0,35,1437.3
+mockito,/test/java/org/mockitousage/matchers/VerificationAndStubbingUsingMatchersTest.java,5,39.0,0,15min,15.0,23,772.8
+mockito,/main/java/org/mockito/internal/util/JavaEightUtil.java,5,38.0,0,50min,50.0,13,722.7
+mockito,/main/java/org/mockito/internal/listeners/StubbingLookupNotifier.java,5,38.0,0,10min,10.0,31,1071.9
+mockito,/test/java/org/mockito/internal/util/reflection/LenientCopyToolTest.java,9,37.0,0,22min 30s,22.5,89,3075.0
+mockito,/test/java/org/mockitousage/bugs/injection/ShouldNotTryToInjectInFinalOrStaticFieldsTest.java,7,37.0,0,7min 30s,7.5,31,1130.1
+mockito,/main/java/org/mockito/internal/invocation/ArgumentsProcessor.java,3,36.0,0,11min,11.0,23,955.5
+mockito,/test/java/org/mockito/internal/debugging/LoggingListenerTest.java,2,36.0,0,0,0.0,33,1034.7
+mockito,/test/java/org/mockitousage/spies/SpyingOnRealObjectsTest.java,8,36.0,0,0,0.0,71,2442.9
+mockito,/test/java/org/mockito/StaticMockingExperimentTest.java,5,36.0,0,15min,15.0,100,3485.7
+mockito,/test/java/org/mockitousage/stubbing/BasicStubbingTest.java,7,35.0,0,0,0.0,91,3120.3
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport.java,3,35.0,0,1h 20min,80.0,73,2559.3
+mockito,/test/java/org/mockitousage/bugs/ConfusedSignatureTest.java,3,35.0,0,7min 30s,7.5,35,1283.7
+mockito,/test/java/org/mockitousage/plugins/DeprecatedInstantiatorProviderTest.java,4,35.0,0,0,0.0,26,1080.0
+mockito,/test/java/org/mockitousage/bugs/DiamondInheritanceIsConfusingMockitoTest.java,3,35.0,0,7min 30s,7.5,35,1283.7
+mockito,/test/java/org/mockitousage/bugs/EnabledMockingInterfaceCloneMethodTest.java,2,35.0,0,0,0.0,11,540.0
+mockito,/test/java/org/mockito/internal/creation/InterfaceOverrideTest.java,2,35.0,0,0,0.0,14,569.1
+mockito,/main/java/org/mockito/internal/reporting/Pluralizer.java,2,35.0,0,20min,20.0,18,656.4
+mockito,/test/java/org/mockito/moduletest/ReplicatingClassLoader.java,2,35.0,0,30min,30.0,20,868.2
+mockito,/test/java/org/mockitousage/verification/SelectedMocksInOrderVerificationTest.java,7,35.0,1,10min,10.0,74,2750.1
+mockito,/test/java/org/mockitousage/stubbing/StubbingUsingDoReturnTest.java,7,35.0,0,15min,15.0,154,5600.4
+mockito,/test/java/org/mockitousage/basicapi/UsingVarargsTest.java,7,35.0,0,30min,30.0,85,2784.0
+mockito,/test/java/org/mockitousage/verification/VerificationUsingMatchersTest.java,7,35.0,0,7min 30s,7.5,24,897.3
+mockito,/test/java/org/mockitousage/examples/use/ExampleTest.java,1,34.0,0,15min,15.0,32,881.1
+mockito,/main/java/org/mockito/internal/handler/MockHandlerFactory.java,4,33.0,0,0,0.0,8,452.7
+mockito,/main/java/org/mockito/internal/util/Primitives.java,3,32.0,0,35min,35.0,9,232.8
+mockito,/test/java/org/mockitoutil/ConcurrentTesting.java,2,31.0,0,0,0.0,11,569.1
+mockito,/test/java/org/mockito/internal/configuration/injection/ConstructorInjectionTest.java,4,31.0,0,0,0.0,42,1209.3
+mockito,/test/java/org/mockito/internal/invocation/InvocationBuilder.java,4,31.0,0,22min 30s,22.5,79,1725.0
+mockito,/main/java/org/mockito/internal/util/collections/Iterables.java,2,31.0,0,0,0.0,7,452.7
+mockito,/main/java/org/mockito/internal/configuration/injection/MockInjection.java,2,31.0,0,0,0.0,41,1101.0
+mockito,/main/java/org/mockito/AdditionalAnswers.java,1,30.0,0,0,0.0,5,394.5
+mockito,/test/java/org/mockito/AnnotationsAreCopiedFromMockedTypeTest.java,5,30.0,0,30min,30.0,59,1911.0
+mockito,/test/java/org/mockito/ArgumentCaptorTest.java,3,30.0,0,0,0.0,16,780.9
+mockito,/main/java/org/mockito/internal/verification/checkers/AtLeastXNumberOfInvocationsChecker.java,1,30.0,0,0,0.0,17,598.2
+mockito,/main/java/org/mockito/internal/util/Checks.java,1,30.0,0,0,0.0,16,627.3
+mockito,/test/java/org/mockitousage/bugs/ClassCastExOnVerifyZeroInteractionsTest.java,3,30.0,0,0,0.0,21,743.7
+mockito,/main/java/org/mockito/internal/matchers/CompareTo.java,1,30.0,0,35min,35.0,25,552.9
+mockito,/test/java/org/mockitoutil/Conditions.java,1,30.0,0,10min,10.0,45,1238.4
+mockito,/test/java/org/mockito/internal/configuration/ConfigurationAccess.java,1,30.0,0,0,0.0,10,452.7
+mockito,/test/java/org/mockito/runners/ConsoleSpammingMockitoJUnitRunnerTest.java,7,30.0,0,10min,10.0,47,1267.5
+mockito,/main/java/org/mockito/internal/matchers/Equality.java,1,30.0,0,51min,51.0,28,1138.2
+mockito,/main/java/org/mockito/internal/matchers/Equals.java,1,30.0,0,17min 30s,17.5,40,968.4
+mockito,/test/java/org/mockitousage/junitrunner/Filters.java,1,30.0,0,0,0.0,10,481.8
+mockito,/test/java/org/mockitoinline/FinalClassMockingTest.java,3,30.0,0,0,0.0,19,905.4
+mockito,/main/java/org/mockito/internal/util/reflection/GenericTypeExtractor.java,1,30.0,0,50min,50.0,12,1096.2
+mockito,/main/java/org/mockito/invocation/InvocationFactory.java,2,30.0,0,0,0.0,10,174.6
+mockito,/test/java/org/mockitousage/JunitJupiterTest.java,6,30.0,0,0,0.0,85,3194.7
+mockito,/main/java/org/mockito/internal/hamcrest/MatcherGenericTypeExtractor.java,2,30.0,0,10min,10.0,6,423.6
+mockito,/main/java/org/mockito/internal/matchers/text/MatcherToString.java,1,30.0,0,10min,10.0,8,481.8
+mockito,/main/java/org/mockito/MockitoAnnotations.java,1,30.0,0,0,0.0,10,452.7
+mockito,/main/java/org/mockito/hamcrest/MockitoHamcrest.java,1,30.0,0,0,0.0,28,772.8
+mockito,/main/java/org/mockito/junit/MockitoJUnit.java,1,30.0,0,0,0.0,5,365.4
+mockito,/test/java/org/mockitousage/basicapi/MocksSerializationForAnnotationTest.java,3,30.0,0,15min,15.0,214,7645.5
+mockito,/test/java/org/mockito/internal/configuration/plugins/PluginLoaderTest.java,6,30.0,0,7min 30s,7.5,41,1582.8
+mockito,/main/java/org/mockito/internal/configuration/plugins/Plugins.java,1,30.0,0,0,0.0,11,261.9
+mockito,/test/java/org/mockitousage/strictness/ProductionCode.java,1,30.0,0,0,0.0,11,481.8
+mockito,/main/java/org/mockito/internal/matchers/apachecommons/ReflectionEquals.java,1,30.0,0,7min 30s,7.5,16,349.2
+mockito,/main/java/org/mockito/internal/stubbing/answers/Returns.java,1,30.0,0,7min 30s,7.5,35,698.4
+mockito,/main/java/org/mockito/internal/matchers/Same.java,1,30.0,0,7min 30s,7.5,16,473.7
+mockito,/test/java/org/mockitoutil/SimpleClassGenerator.java,1,30.0,0,0,0.0,12,481.8
+mockito,/test/java/org/mockito/exceptions/stacktrace/StackTraceCleanerTest.java,3,30.0,0,7min 30s,7.5,28,582.0
+mockito,/test/java/org/mockitousage/strictness/StrictnessPerStubbingWithRunnerTest.java,3,30.0,3,20min,20.0,14,502.8
+mockito,/main/java/org/mockito/internal/stubbing/StrictnessSelector.java,1,30.0,0,20min,20.0,5,365.4
+mockito,/test/java/org/mockitousage/strictness/StrictnessWithRulesTest.java,3,30.0,3,27min 30s,27.5,19,1021.8
+mockito,/test/java/org/mockitoinline/StubbingLocationTest.java,3,30.0,0,0,0.0,21,963.6
+mockito,/main/java/org/mockito/internal/creation/SuspendMethod.java,1,30.0,0,11min,11.0,14,598.2
+mockito,/main/java/org/mockito/internal/stubbing/UnusedStubbingReporting.java,1,30.0,0,0,0.0,6,423.6
+mockito,/test/java/org/mockitousage/verification/VerificationInOrderWithCallsTest.java,3,30.0,0,1h 45min,105.0,96,5532.6
+mockito,/main/java/org/mockito/internal/verification/VerificationModeFactory.java,2,30.0,0,10min,10.0,37,1063.8
+mockito,/test/java/org/mockitoutil/VmArgAssumptions.java,1,30.0,0,10min,10.0,17,598.2
+mockito,/test/java/org/mockitousage/basicapi/MocksCreationTest.java,4,29.0,0,0,0.0,52,2247.3
+mockito,/test/java/org/mockitousage/verification/DescriptiveMessagesOnVerificationInOrderErrorsTest.java,3,28.0,0,0,0.0,39,785.7
+mockito,/test/java/org/mockito/internal/matchers/StringMatchersTest.java,3,28.0,0,0,0.0,54,1442.1
+mockito,/test/java/org/mockito/internal/verification/VerificationOverTimeImplTest.java,5,28.0,0,7min 30s,7.5,28,735.6
+mockito,/main/java/org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet.java,4,27.0,0,10min,10.0,91,2074.2
+mockito,/test/java/org/mockitousage/plugins/switcher/MyMockMaker.java,5,27.0,0,7min 30s,7.5,26,772.8
+mockito,/test/java/org/mockitoutil/SimplePerRealmReloadingClassLoader.java,3,26.0,0,50min,50.0,63,1886.7
+mockito,/test/java/org/mockitousage/verification/CustomVerificationTest.java,2,25.0,0,10min,10.0,20,963.6
+mockito,/test/java/org/mockitousage/misuse/DetectingMisusedMatchersTest.java,5,25.0,0,0,0.0,43,1495.5
+mockito,/test/java/org/mockitousage/bugs/FinalHashCodeAndEqualsRaiseNPEInInitMocksTest.java,2,25.0,0,0,0.0,35,1246.5
+mockito,/test/java/org/mockitousage/bugs/GenericsMockitoAnnotationsTest.java,2,25.0,0,0,0.0,25,1050.9
+mockito,/test/java/org/mockitousage/bugs/injection/InjectionByTypeShouldFirstLookForExactTypeThenAncestorTest.java,7,25.0,0,15min,15.0,57,2056.5
+mockito,/test/java/org/mockitousage/junitrule/InvalidTargetMockitoJUnitRuleTest.java,2,25.0,0,7min 30s,7.5,35,1686.3
+mockito,/test/java/org/mockito/internal/stubbing/InvocationContainerImplStubbingTest.java,4,25.0,0,0,0.0,61,2019.3
+mockito,/test/java/org/mockitousage/bugs/IOOBExceptionShouldNotBeThrownWhenNotCodingFluentlyTest.java,2,25.0,0,0,0.0,14,569.1
+mockito,/main/java/org/mockito/internal/verification/MockAwareVerificationMode.java,2,25.0,0,0,0.0,22,590.1
+mockito,/testBundle/java/org/mockito/osgitest/testbundle/MockNonPublicClassFailsTest.java,3,25.0,0,0,0.0,14,818.1
+mockito,/test/java/org/mockitousage/bugs/MultithreadedStubbingHalfManualTest.java,9,25.0,0,10min,10.0,27,1445.4
+mockito,/test/java/org/mockito/NestedParallelTest.java,2,25.0,2,10min,10.0,55,1757.4
+mockito,/test/java/org/mockitousage/verification/NoMoreInteractionsVerificationTest.java,5,25.0,0,0,0.0,91,3112.2
+mockito,/test/java/org/mockito/ParallelBugTest.java,2,25.0,2,10min,10.0,49,1487.4
+mockito,/test/java/org/mockitoinline/PluginTest.java,2,25.0,0,0,0.0,14,569.1
+mockito,/test/java/org/mockitousage/basicapi/ResetTest.java,5,25.0,0,0,0.0,70,1907.7
+mockito,/test/java/org/mockitousage/junitrunner/StrictStubsRunnerTest.java,5,25.0,0,0,0.0,41,873.0
+mockito,/test/java/org/mockitousage/serialization/StrictStubsSerializableTest.java,2,25.0,0,0,0.0,22,992.7
+mockito,/test/java/org/mockitousage/junitrunner/VerboseMockitoRunnerTest.java,3,25.0,0,7min 30s,7.5,51,1873.8
+mockito,/test/java/org/mockitousage/verification/VerificationInOrderMixedWithOrdiraryVerificationTest.java,5,25.0,0,15min,15.0,59,2334.6
+mockito,/main/java/org/mockito/internal/verification/VerificationOverTimeImpl.java,3,25.0,0,20min,20.0,38,1151.1
+mockito,/main/java/org/mockito/internal/progress/ArgumentMatcherStorageImpl.java,4,24.0,0,10min,10.0,41,756.6
+mockito,/test/java/org/mockitousage/verification/DescriptiveMessagesWhenVerificationFailsTest.java,2,24.0,0,7min 30s,7.5,146,4475.1
+mockito,/test/java/org/mockitousage/debugging/InvocationsPrinterTest.java,3,24.0,0,0,0.0,35,611.1
+mockito,/test/java/org/mockitousage/stubbing/CallingRealMethodTest.java,4,23.0,0,0,0.0,42,1122.0
+mockito,/main/java/org/mockito/internal/progress/MockingProgressImpl.java,5,23.0,0,20min,20.0,80,1783.2
+mockito,/test/java/org/mockito/errorprone/bugpatterns/MockitoNotExtensibleTest.java,4,23.0,0,0,0.0,19,407.4
+mockito,/test/java/org/mockitousage/matchers/NewMatchersTest.java,1,22.0,0,0,0.0,33,727.5
+mockito,/main/java/org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool.java,2,21.0,0,30min,30.0,21,714.6
+mockito,/test/java/org/mockitousage/annotation/CaptorAnnotationTest.java,4,21.0,0,0,0.0,96,3514.8
+mockito,/main/java/org/mockito/internal/stubbing/DoAnswerStyleStubbing.java,2,21.0,0,0,0.0,15,378.3
+mockito,/main/java/org/mockito/internal/exceptions/stacktrace/StackTraceFilter.java,7,21.0,0,40min,40.0,20,868.2
+mockito,/main/java/org/mockito/internal/util/reflection/AccessibilityChanger.java,1,20.0,0,0,0.0,9,328.2
+mockito,/main/java/org/mockito/stubbing/Answer.java,1,20.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/stubbing/Answer1.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/Answer2.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/Answer3.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/Answer4.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/Answer5.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/Answer6.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/exceptions/verification/opentest4j/ArgumentsAreDifferent.java,1,20.0,2,10min,10.0,18,407.4
+mockito,/main/java/org/mockito/exceptions/verification/junit/ArgumentsAreDifferent.java,1,20.0,2,10min,10.0,18,436.5
+mockito,/test/java/org/mockitousage/verification/BasicVerificationTest.java,4,20.0,0,0,0.0,61,1982.1
+mockito,/test/java/org/mockitousage/annotation/CaptorAnnotationBasicTest.java,3,20.0,0,0,0.0,49,1164.0
+mockito,/test/java/org/mockitousage/bugs/injection/ChildWithSameParentFieldInjectionTest.java,4,20.0,0,0,0.0,47,2014.5
+mockito,/test/java/org/mockitousage/stubbing/CloningParameterTest.java,1,20.0,0,1h 42min,102.0,70,1886.7
+mockito,/main/java/org/mockito/internal/creation/instance/ConstructorInstantiator.java,4,20.0,0,50min,50.0,53,1383.9
+mockito,/test/java/org/mockitoinline/bugs/CyclicMockMethodArgumentMemoryLeakTest.java,4,20.0,0,0,0.0,32,1262.7
+mockito,/test/java/org/mockitousage/bugs/deepstubs/DeepStubFailingWhenGenericNestedAsRawTypeTest.java,2,20.0,0,0,0.0,21,801.9
+mockito,/main/java/org/mockito/internal/runners/DefaultInternalRunner.java,2,20.0,0,15min,15.0,23,494.7
+mockito,/test/java/org/mockito/internal/matchers/EqualityTest.java,2,20.0,0,7min 30s,7.5,25,1146.3
+mockito,/test/java/org/mockitousage/bugs/FillInStackTraceScenariosTest.java,4,20.0,0,0,0.0,36,1723.5
+mockito,/test/java/org/mockito/internal/util/reflection/GenericArrayReturnTypeTest.java,1,20.0,0,0,0.0,33,1503.6
+mockito,/main/java/org/mockito/plugins/InstantiatorProvider.java,2,20.0,0,0,0.0,4,116.4
+mockito,/main/java/org/mockito/internal/InternalMockHandler.java,3,20.0,0,0,0.0,2,58.2
+mockito,/main/java/org/mockito/invocation/InvocationOnMock.java,1,20.0,0,0,0.0,4,29.1
+mockito,/main/java/org/mockito/internal/junit/JUnitRule.java,1,20.0,0,20min,20.0,23,582.0
+mockito,/main/java/org/mockito/internal/util/reflection/LenientCopyTool.java,1,20.0,1,10min,10.0,19,839.1
+mockito,/test/java/org/mockitousage/bugs/ListenersLostOnResetMockTest.java,1,20.0,0,0,0.0,13,569.1
+mockito,/main/java/org/mockito/internal/matchers/LocalizedMatcher.java,1,20.0,0,0,0.0,12,291.0
+mockito,/main/java/org/mockito/mock/MockCreationSettings.java,1,20.0,0,0,0.0,20,407.4
+mockito,/main/java/org/mockito/invocation/MockHandler.java,1,20.0,0,0,0.0,4,29.1
+mockito,/main/java/org/mockito/MockingDetails.java,1,20.0,0,0,0.0,10,145.5
+mockito,/main/java/org/mockito/internal/progress/MockingProgress.java,1,20.0,0,0,0.0,34,843.9
+mockito,/main/java/org/mockito/Mockito.java,2,20.0,0,15min,15.0,45,502.8
+mockito,/main/java/org/mockito/MockitoDebugger.java,2,20.0,0,0,0.0,3,87.3
+mockito,/main/java/org/mockito/errorprone/bugpatterns/MockitoNotExtensible.java,1,20.0,0,17min 30s,17.5,11,481.8
+mockito,/test/java/org/mockito/exceptions/base/MockitoSerializationIssueTest.java,3,20.0,0,0,0.0,15,656.4
+mockito,/test/java/org/mockitousage/plugins/instantiator/MyInstantiatorProvider.java,1,20.0,0,0,0.0,11,510.9
+mockito,/test/java/org/mockitousage/verification/OnlyVerificationTest.java,4,20.0,0,0,0.0,34,1225.5
+mockito,/main/java/org/mockito/internal/configuration/plugins/PluginFinder.java,1,20.0,2,30min,30.0,15,627.3
+mockito,/test/java/org/mockitousage/stacktrace/PointingStackTraceToActualInvocationInOrderTest.java,1,20.0,0,0,0.0,49,1545.6
+mockito,/test/java/org/mockitousage/stacktrace/PointingStackTraceToActualInvocationTest.java,1,20.0,0,0,0.0,24,436.5
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/ReturnsMocks.java,1,20.0,0,17min 30s,17.5,16,722.7
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java,1,20.0,0,27min 30s,27.5,31,1042.8
+mockito,/main/java/org/mockito/internal/runners/RunnerFactory.java,2,20.0,0,20min,20.0,24,860.1
+mockito,/test/java/org/mockitoutil/Stopwatch.java,2,20.0,0,4min,4.0,24,590.1
+mockito,/test/java/org/mockitoinline/StressTest.java,3,20.0,0,0,0.0,22,963.6
+mockito,/test/java/org/mockitousage/strictness/StrictnessPerMockTest.java,7,20.0,0,20min,20.0,38,989.4
+mockito,/test/java/org/concurrentmockito/ThreadsShareGenerouslyStubbedMockTest.java,1,20.0,0,0,0.0,23,1050.9
+mockito,/test/java/org/concurrentmockito/ThreadVerifiesContinuouslyInteractingMockTest.java,3,20.0,0,0,0.0,23,926.4
+mockito,/test/java/org/mockitoutil/ThrowableAssert.java,1,20.0,0,10min,10.0,22,590.1
+mockito,/test/java/org/mockito/internal/progress/TimesTest.java,1,20.0,0,7min 30s,7.5,14,722.7
+mockito,/test/java/org/mockitousage/junitrunner/UnusedStubsExceptionMessageTest.java,1,20.0,1,10min,10.0,29,1138.2
+mockito,/main/java/org/mockito/stubbing/VoidAnswer1.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/VoidAnswer2.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/VoidAnswer3.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/VoidAnswer4.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/VoidAnswer5.java,1,20.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/stubbing/VoidAnswer6.java,1,20.0,0,0,0.0,1,29.1
+mockito,/test/java/org/mockito/internal/InvalidStateDetectionTest.java,5,19.0,0,37min 30s,37.5,126,5540.7
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/SubclassBytecodeGenerator.java,3,19.0,0,37min 30s,37.5,57,1865.7
+mockito,/test/java/org/mockito/internal/exceptions/stacktrace/ConditionalStackTraceFilterTest.java,2,18.0,0,0,0.0,16,598.2
+mockito,/test/java/org/mockito/internal/junit/util/JUnitFailureHackerTest.java,2,18.0,0,0,0.0,33,931.2
+mockito,/main/java/org/mockito/internal/debugging/LoggingListener.java,6,18.0,0,27min 30s,27.5,33,698.4
+mockito,/test/java/org/mockito/internal/util/MockUtilTest.java,3,18.0,0,7min 30s,7.5,61,2056.5
+mockito,/test/java/org/mockito/internal/util/ObjectMethodsGuruTest.java,3,18.0,0,7min 30s,7.5,42,1325.7
+mockito,/test/java/org/mockito/internal/exceptions/ReporterTest.java,9,18.0,0,0,0.0,73,1820.4
+mockito,/test/java/org/mockito/internal/matchers/CapturingMatcherTest.java,6,17.0,0,0,0.0,31,1246.5
+mockito,/test/java/org/mockitousage/stubbing/StubbingWithDelegateVarArgsTest.java,4,17.0,0,0,0.0,34,1225.5
+mockito,/test/java/org/mockitousage/puzzlers/BridgeMethodPuzzleTest.java,3,16.0,0,0,0.0,44,1736.4
+mockito,/main/java/org/mockito/internal/invocation/InvocationMatcher.java,4,16.0,0,57min 30s,57.5,60,1259.4
+mockito,/main/java/org/mockito/internal/invocation/UnusedStubsFinder.java,3,16.0,0,0,0.0,8,481.8
+mockito,/main/java/org/mockito/internal/debugging/WarningsCollector.java,3,16.0,0,0,0.0,12,261.9
+mockito,/main/java/org/mockito/Answers.java,2,15.0,0,0,0.0,15,349.2
+mockito,/test/java/org/mockitousage/misuse/DetectingFinalMethodsTest.java,3,15.0,0,0,0.0,25,963.6
+mockito,/test/java/org/mockitousage/verification/ExactNumberOfTimesVerificationTest.java,3,15.0,0,7min 30s,7.5,61,1828.5
+mockito,/test/java/org/mockitousage/misuse/ExplicitFrameworkValidationTest.java,3,15.0,0,0,0.0,21,839.1
+mockito,/test/java/org/mockitousage/verification/FindingRedundantInvocationsInOrderTest.java,3,15.0,0,0,0.0,51,2326.5
+mockito,/test/java/org/mockitousage/bugs/ImplementationOfGenericAbstractMethodNotInvokedOnSpyTest.java,3,15.0,0,0,0.0,30,1416.3
+mockito,/test/java/org/mockito/internal/configuration/InjectingAnnotationEngineTest.java,3,15.0,0,0,0.0,46,2072.7
+mockito,/test/java/org/mockitousage/bugs/injection/Issue353InjectionMightNotHappenInCertainConfigurationTest.java,7,15.0,0,0,0.0,25,801.9
+mockito,/main/java/org/mockito/exceptions/base/MockitoException.java,2,15.0,0,17min 30s,17.5,19,685.5
+mockito,/main/java/org/mockito/exceptions/base/MockitoSerializationIssue.java,1,15.0,0,0,0.0,12,261.9
+mockito,/test/java/org/mockito/internal/util/MockNameImplTest.java,3,15.0,0,0,0.0,38,1620.0
+mockito,/main/java/org/mockito/internal/configuration/injection/filter/OngoingInjector.java,2,15.0,0,0,0.0,2,58.2
+mockito,/test/java/org/mockitousage/strictness/PotentialStubbingSensitivityTest.java,3,15.0,0,7min 30s,7.5,19,590.1
+mockito,/test/java/org/mockitousage/bugs/creation/otherpackage/PublicParentClass.java,3,15.0,0,0,0.0,17,847.2
+mockito,/main/java/org/mockito/internal/debugging/VerboseMockInvocationLogger.java,2,15.0,0,0,0.0,36,698.4
+mockito,/test/java/org/mockitousage/bugs/deepstubs/DeepStubsWronglyReportsSerializationProblemsTest.java,4,14.0,0,0,0.0,31,1358.1
+mockito,/main/java/org/mockito/internal/util/reflection/FieldInitializer.java,1,14.0,0,57min 30s,57.5,90,2082.3
+mockito,/test/java/org/mockito/internal/util/reflection/FieldReaderTest.java,4,14.0,0,0,0.0,28,918.3
+mockito,/test/java/org/mockito/MockitoTest.java,2,14.0,0,10min,10.0,43,1267.5
+mockito,/test/java/org/mockito/internal/configuration/plugins/PluginFinderTest.java,5,14.0,0,0,0.0,64,1974.0
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java,9,14.0,0,5h 27min,327.0,18,934.5
+mockito,/test/java/org/mockito/internal/matchers/text/MatcherToStringTest.java,2,13.0,0,0,0.0,43,1898.1
+mockito,/test/java/org/mockitousage/bugs/injection/ParentTestMockInjectionTest.java,3,12.0,0,0,0.0,55,2409.0
+mockito,/test/java/org/mockitousage/PlaygroundWithDemoOfUnclonedParametersProblemTest.java,3,12.0,0,57min,57.0,98,2622.3
+mockito,/test/java/org/mockito/junit/TestableJUnitRunner.java,3,12.0,0,0,0.0,14,291.0
+mockito,/test/java/org/mockitousage/bugs/InheritedGenericsPolimorphicCallTest.java,3,11.0,0,0,0.0,25,611.1
+mockito,/test/java/org/mockito/internal/invocation/InvocationMatcherTest.java,2,11.0,0,0,0.0,97,2568.9
+mockito,/test/java/org/mockito/internal/invocation/InvocationsFinderTest.java,3,11.0,0,0,0.0,119,3013.5
+mockito,/test/java/org/mockitousage/performance/LoadsOfMocksTest.java,2,11.0,0,0,0.0,14,569.1
+mockito,/test/java/org/mockitousage/plugins/logger/MyMockitoLogger.java,3,11.0,0,0,0.0,21,590.1
+mockito,/main/java/org/mockito/internal/util/concurrent/WeakConcurrentMap.java,7,11.0,0,1h 30min,90.0,123,3797.7
+mockito,/main/java/org/mockito/configuration/AnnotationEngine.java,1,10.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/matchers/ArrayEquals.java,2,10.0,0,2h 35min,155.0,33,1503.6
+mockito,/test/java/org/mockitoutil/async/AsyncTestingTest.java,2,10.0,0,0,0.0,14,320.1
+mockito,/test/java/org/mockitousage/bugs/AtLeastMarksAllInvocationsVerified.java,2,10.0,0,0,0.0,19,876.3
+mockito,/test/java/org/mockitousage/verification/AtMostXVerificationTest.java,2,10.0,0,0,0.0,53,1500.3
+mockito,/test/java/org/mockitousage/bugs/BridgeMethodsHitAgainTest.java,2,10.0,0,0,0.0,40,1018.5
+mockito,/main/java/org/mockito/internal/util/ConsoleMockitoLogger.java,1,10.0,0,0,0.0,7,452.7
+mockito,/main/java/org/mockito/runners/ConsoleSpammingMockitoJUnitRunner.java,1,10.0,0,7min 30s,7.5,29,852.0
+mockito,/test/java/org/mockito/internal/creation/instance/ConstructorInstantiatorTest.java,2,10.0,0,0,0.0,81,3102.6
+mockito,/test/java/org/mockitousage/matchers/CustomMatcherDoesYieldCCETest.java,2,10.0,0,0,0.0,15,751.8
+mockito,/main/java/org/mockito/internal/verification/Description.java,1,10.0,0,0,0.0,6,270.0
+mockito,/test/java/org/mockito/internal/matchers/EqualsTest.java,2,10.0,0,7min 30s,7.5,69,1965.9
+mockito,/test/java/org/mockitousage/matchers/HamcrestMatchersTest.java,2,10.0,0,7min 30s,7.5,79,2472.0
+mockito,/main/java/org/mockito/configuration/IMockitoConfiguration.java,1,10.0,0,0,0.0,5,145.5
+mockito,/main/java/org/mockito/internal/creation/instance/InstantiationException.java,1,10.0,0,0,0.0,6,394.5
+mockito,/main/java/org/mockito/internal/creation/instance/Instantiator.java,1,10.0,0,0,0.0,6,174.6
+mockito,/main/java/org/mockito/Matchers.java,1,10.0,0,0,0.0,3,336.3
+mockito,/test/java/org/mockitousage/packageprotected/MockingPackageProtectedTest.java,2,10.0,0,0,0.0,21,1183.5
+mockito,/test/java/org/mockitousage/MultiLevelNestedTest.java,2,10.0,0,0,0.0,31,1416.3
+mockito,/test/java/org/mockito/verification/NegativeDurationTest.java,2,10.0,0,7min 30s,7.5,13,415.5
+mockito,/test/java/org/mockito/internal/verification/NoMoreInteractionsTest.java,2,10.0,0,0,0.0,25,1196.4
+mockito,/main/java/org/mockito/internal/junit/NoOpTestListener.java,2,10.0,0,7min 30s,7.5,11,481.8
+mockito,/test/java/org/mockitousage/bugs/NPEWithCertainMatchersTest.java,2,10.0,0,0,0.0,28,582.0
+mockito,/test/java/org/mockitoinline/OneLinerStubStressTest.java,2,10.0,0,0,0.0,21,934.5
+mockito,/test/java/org/mockitousage/serialization/ParallelSerializationTest.java,4,10.0,0,7min 30s,7.5,21,1021.8
+mockito,/test/java/org/mockitousage/plugins/stacktrace/PluginStackTraceFilteringTest.java,2,10.0,0,0,0.0,28,1329.0
+mockito,/test/java/org/mockitousage/plugins/switcher/PluginSwitchTest.java,2,10.0,0,0,0.0,15,1000.8
+mockito,/test/java/org/mockitousage/verification/PrintingVerboseTypesWithArgumentsTest.java,4,10.0,0,0,0.0,56,1632.9
+mockito,/test/java/org/mockito/internal/stubbing/defaultanswers/ReturnsMocksTest.java,2,10.0,0,7min 30s,7.5,83,2696.7
+mockito,/test/java/org/mockitoinline/bugs/SelfSpyReferenceMemoryLeakTest.java,2,10.0,0,0,0.0,23,992.7
+mockito,/test/java/org/mockito/memorytest/ShouldNotStarveMemoryOnLargeStackTraceInvocationsTest.java,2,10.0,0,10min,10.0,25,1233.6
+mockito,/test/java/org/mockitousage/spies/SpyingOnInterfacesTest.java,2,10.0,0,15min,15.0,35,1400.1
+mockito,/test/java/org/mockitousage/strictness/StrictnessWhenRuleStrictnessIsUpdatedTest.java,2,10.0,0,7min 30s,7.5,15,531.9
+mockito,/test/java/org/mockitousage/performance/StubOnlyAvoidMemoryConsumptionTest.java,2,10.0,0,0,0.0,16,627.3
+mockito,/test/java/org/mockito/internal/runners/util/TestMethodsFinderTest.java,2,10.0,0,0,0.0,29,1329.0
+mockito,/test/java/org/mockito/verification/TimeoutTest.java,2,10.0,0,0,0.0,34,1437.3
+mockito,/main/java/org/mockito/exceptions/verification/TooLittleActualInvocations.java,1,10.0,0,0,0.0,5,240.9
+mockito,/test/java/org/mockitousage/bugs/varargs/VarargsErrorWhenCallingRealMethodTest.java,2,10.0,0,0,0.0,24,992.7
+mockito,/main/java/org/mockito/runners/VerboseMockitoJUnitRunner.java,1,10.0,0,7min 30s,7.5,29,881.1
+mockito,/main/java/org/mockito/internal/verification/api/VerificationData.java,1,10.0,0,0,0.0,6,116.4
+mockito,/test/java/org/concurrentmockito/VerificationInOrderFromMultipleThreadsTest.java,2,10.0,0,0,0.0,16,627.3
+mockito,/test/java/org/mockitousage/verification/VerificationOnMultipleMocksUsingMatchersTest.java,2,10.0,0,15min,15.0,24,860.1
+mockito,/main/java/org/mockito/internal/verification/VerificationWrapper.java,1,10.0,0,0,0.0,43,814.8
+mockito,/main/java/org/mockito/junit/jupiter/MockitoExtension.java,3,9.0,0,7min 30s,7.5,40,1333.8
+mockito,/test/java/org/mockito/internal/creation/MockSettingsImplTest.java,2,9.0,0,22min 30s,22.5,68,1754.1
+mockito,/main/java/org/mockito/internal/creation/MockSettingsImpl.java,7,8.0,0,1h 15min,75.0,130,3387.0
+mockito,/main/java/org/mockito/internal/invocation/SerializableMethod.java,2,8.0,0,3h 10min,190.0,45,1143.0
+mockito,/test/java/org/mockito/internal/junit/StubbingArgMismatchesTest.java,1,8.0,0,7min 30s,7.5,25,698.4
+mockito,/test/java/org/mockito/internal/listeners/VerificationStartedNotifierTest.java,1,8.0,0,0,0.0,53,1778.4
+mockito,/main/java/org/mockito/internal/util/concurrent/WeakConcurrentSet.java,4,8.0,0,7min 30s,7.5,32,669.3
+mockito,/main/java/org/mockito/internal/session/DefaultMockitoSessionBuilder.java,3,7.0,0,0,0.0,38,997.5
+mockito,/main/java/org/mockito/internal/junit/ExceptionFactory.java,2,7.0,0,0,0.0,16,810.0
+mockito,/test/java/org/mockitousage/misuse/InvalidUsageTest.java,6,7.0,0,0,0.0,122,3254.4
+mockito,/main/java/org/mockito/internal/stubbing/InvocationContainerImpl.java,4,7.0,0,47min 30s,47.5,78,2273.1
+mockito,/test/java/org/mockito/internal/progress/MockingProgressImplTest.java,3,7.0,0,0,0.0,35,1026.6
+mockito,/main/java/org/mockito/internal/progress/ThreadSafeMockingProgress.java,2,7.0,0,0,0.0,10,548.1
+mockito,/main/java/org/mockito/internal/configuration/injection/ConstructorInjection.java,4,6.0,0,51min,51.0,28,831.0
+mockito,/main/java/org/mockito/internal/configuration/InjectingAnnotationEngine.java,2,6.0,0,7min 30s,7.5,22,1146.3
+mockito,/test/java/org/mockitousage/internal/debugging/LocationImplTest.java,2,6.0,0,0,0.0,13,510.9
+mockito,/test/java/org/mockito/internal/invocation/MatcherApplicationStrategyTest.java,2,6.0,0,7min 30s,7.5,88,2323.2
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/MockFeatures.java,2,6.0,0,0,0.0,22,897.3
+mockito,/main/java/org/mockito/internal/invocation/mockref/MockWeakReference.java,2,6.0,0,0,0.0,19,407.4
+mockito,/main/java/org/mockito/internal/reporting/SmartPrinter.java,2,6.0,0,0,0.0,21,465.6
+mockito,/test/java/org/mockitoinline/SuperCallTest.java,2,6.0,0,0,0.0,19,1059.0
+mockito,/main/java/org/mockito/internal/util/reflection/SuperTypesLastSorter.java,2,6.0,0,0,0.0,14,971.7
+mockito,/test/java/org/mockitousage/bugs/ArgumentCaptorDontCapturePreviouslyVerifiedTest.java,1,5.0,0,0,0.0,9,481.8
+mockito,/test/java/org/mockito/internal/verification/argumentmatching/ArgumentMatchingToolTest.java,1,5.0,0,7min 30s,7.5,32,1167.3
+mockito,/test/java/org/mockitousage/examples/use/ArticleManager.java,1,5.0,0,0,0.0,15,320.1
+mockito,/test/java/org/mockitousage/verification/AtLeastXVerificationTest.java,1,5.0,0,0,0.0,23,735.6
+mockito,/test/java/org/mockitousage/matchers/CapturingArgumentsTest.java,1,5.0,0,0,0.0,127,3794.4
+mockito,/test/java/org/mockitousage/configuration/ClassToBeMocked.java,1,5.0,0,0,0.0,4,365.4
+mockito,/test/java/org/mockitousage/misuse/CleaningUpPotentialStubbingTest.java,1,5.0,0,0,0.0,18,561.0
+mockito,/test/java/org/mockitousage/junitrunner/DeepStubbingWithJUnitRunnerTest.java,1,5.0,0,0,0.0,28,1225.5
+mockito,/test/java/org/mockito/internal/framework/DefaultMockitoFrameworkTest.java,1,5.0,0,0,0.0,43,1487.4
+mockito,/main/java/org/mockito/internal/creation/DelegatingMethod.java,1,5.0,0,30min,30.0,33,698.4
+mockito,/test/java/org/mockitousage/annotation/DeprecatedAnnotationEngineApiTest.java,1,5.0,0,0,0.0,50,1911.0
+mockito,/test/java/org/mockito/internal/verification/DescriptionTest.java,1,5.0,0,0,0.0,15,627.3
+mockito,/test/java/org/mockito/internal/verification/DummyVerificationMode.java,1,5.0,0,0,0.0,13,510.9
+mockito,/test/java/org/mockitousage/bugs/injection/InjectMocksShouldTryPropertySettersFirstBeforeFieldAccessTest.java,1,5.0,0,0,0.0,32,1312.8
+mockito,/test/java/org/mockitousage/plugins/instantiator/InstantiatorProviderTest.java,1,5.0,0,0,0.0,10,759.9
+mockito,/test/java/org/mockitousage/strictness/LenientMockAnnotationTest.java,1,5.0,0,0,0.0,15,780.9
+mockito,/main/java/org/mockito/internal/debugging/LocationImpl.java,1,5.0,0,7min 30s,7.5,29,764.7
+mockito,/otherBundle/java/org/mockito/osgitest/otherbundle/Methods.java,1,5.0,0,0,0.0,9,452.7
+mockito,/main/java/org/mockito/internal/MockitoCore.java,1,5.0,0,7min 30s,7.5,105,3689.4
+mockito,/test/java/org/mockitousage/plugins/logger/MockitoLoggerTest.java,1,5.0,0,0,0.0,19,656.4
+mockito,/test/java/org/mockitousage/bugs/NPEWhenMockingThrowablesTest.java,1,5.0,0,0,0.0,18,780.9
+mockito,/test/java/org/mockito/internal/verification/OnlyTest.java,1,5.0,0,0,0.0,34,881.1
+mockito,/test/java/org/mockitousage/puzzlers/OverloadingPuzzleTest.java,1,5.0,0,0,0.0,27,764.7
+mockito,/test/java/org/mockitousage/packageprotected/PackageProtected.java,1,5.0,0,0,0.0,5,365.4
+mockito,/test/java/org/mockito/internal/invocation/SerializableMethodTest.java,2,5.0,0,10min,10.0,66,1725.0
+mockito,/test/java/org/mockitousage/misuse/SpyStubbingMisuseTest.java,1,5.0,0,0,0.0,49,1927.2
+mockito,/main/java/org/mockito/internal/junit/StrictStubsRunnerTestListener.java,1,5.0,0,7min 30s,7.5,9,481.8
+mockito,/test/java/org/mockitousage/stubbing/StubbingWithCustomAnswerTest.java,1,5.0,0,0,0.0,63,1521.3
+mockito,/test/java/org/mockitousage/stubbing/StubbingWithExtraAnswersTest.java,1,5.0,0,0,0.0,24,918.3
+mockito,/test/java/org/mockitoutil/TestBase.java,1,5.0,0,7min 30s,7.5,54,1728.3
+mockito,/main/java/org/mockito/internal/stubbing/answers/ThrowsException.java,1,5.0,0,17min 30s,17.5,15,349.2
+mockito,/test/java/org/mockitousage/UninstantiableThrowableTest.java,1,5.0,0,0,0.0,18,934.5
+mockito,/main/java/org/mockito/internal/matchers/text/ValuePrinter.java,2,5.0,1,2h 42min,162.0,29,1262.7
+mockito,/main/java/org/mockito/internal/junit/VerificationCollectorImpl.java,1,5.0,0,0,0.0,51,1172.1
+mockito,/test/java/org/mockito/internal/verification/VerificationDataImplTest.java,1,5.0,0,0,0.0,15,722.7
+mockito,/test/java/org/mockitousage/verification/VerificationExcludingStubsTest.java,1,5.0,0,7min 30s,7.5,30,910.2
+mockito,/test/java/org/mockito/internal/verification/VerificationWithDescriptionTest.java,1,5.0,0,0,0.0,15,569.1
+mockito,/test/java/org/mockitousage/bugs/VerifyingWithAnExtraCallToADifferentMockTest.java,1,5.0,0,0,0.0,14,751.8
+mockito,/test/java/org/mockitousage/verification/VerifyPrintsAllInvocationsOnErrorTest.java,1,5.0,0,0,0.0,22,905.4
+mockito,/main/java/org/mockito/internal/invocation/InterceptedInvocation.java,3,4.0,0,57min 30s,57.5,102,2240.7
+mockito,/main/java/org/mockito/internal/invocation/finder/AllInvocationsFinder.java,3,3.0,0,0,0.0,13,1162.5
+mockito,/main/java/org/mockito/internal/configuration/plugins/DefaultMockitoPlugins.java,2,3.0,0,37min 30s,37.5,24,706.5
+mockito,/main/java/org/mockito/internal/invocation/InvocationsFinder.java,3,3.0,1,1h 50min,110.0,89,2302.2
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/TypeCachingBytecodeGenerator.java,2,3.0,0,50min 30s,50.5,41,1034.7
+mockito,/main/java/org/mockito/ArgumentCaptor.java,2,2.0,0,0,0.0,11,299.1
+mockito,/test/java/org/mockito/internal/creation/bytebuddy/ByteBuddyMockMakerTest.java,2,2.0,0,7min 30s,7.5,14,598.2
+mockito,/main/java/org/mockito/internal/creation/instance/DefaultInstantiatorProvider.java,1,2.0,0,20min,20.0,12,510.9
+mockito,/main/java/org/mockito/internal/stubbing/DefaultLenientStubber.java,1,2.0,0,0,0.0,43,873.0
+mockito,/main/java/org/mockito/internal/verification/DefaultRegisteredInvocations.java,3,2.0,0,17min 30s,17.5,29,801.9
+mockito,/main/java/org/mockito/internal/exceptions/stacktrace/DefaultStackTraceCleaner.java,1,2.0,0,30min,30.0,24,772.8
+mockito,/test/java/org/mockito/internal/creation/DelegatingMethodTest.java,1,2.0,0,0,0.0,56,1396.8
+mockito,/main/java/org/mockito/internal/junit/MismatchReportingTestListener.java,3,2.0,0,7min 30s,7.5,15,349.2
+mockito,/test/java/org/mockitousage/plugins/stacktrace/MyStackTraceCleanerProvider.java,3,2.0,0,17min 30s,17.5,12,510.9
+mockito,/test/java/org/mockitousage/bugs/ShouldMocksCompareToBeConsistentWithEqualsTest.java,2,2.0,0,0,0.0,19,772.8
+mockito,/main/java/org/mockito/internal/junit/StubbingArgMismatches.java,2,2.0,0,10min,10.0,18,378.3
+mockito,/main/java/org/mockito/internal/invocation/TypeSafeMatching.java,1,2.0,0,41min,41.0,24,926.4
+mockito,/main/java/org/mockito/internal/junit/UniversalTestListener.java,5,2.0,0,45min,45.0,27,698.4
+mockito,/main/java/org/mockito/internal/junit/UnusedStubbingsFinder.java,2,2.0,0,0,0.0,13,540.0
+mockito,/test/java/org/mockitousage/verification/VerificationStartedListenerTest.java,2,2.0,0,0,0.0,38,1151.1
+mockito,/main/java/org/mockito/internal/debugging/WarningsFinder.java,2,2.0,0,0,0.0,13,415.5
+mockito,/test/java/org/mockito/internal/AllInvocationsFinderTest.java,1,1.0,0,0,0.0,36,960.3
+mockito,/test/java/org/mockitousage/annotation/AnnotationsTest.java,1,1.0,0,15min,15.0,91,3207.6
+mockito,/test/java/org/mockito/internal/matchers/ComparableMatchersTest.java,1,1.0,0,0,0.0,25,772.8
+mockito,/main/java/org/mockito/internal/junit/DefaultStubbingLookupListener.java,1,1.0,0,17min 30s,17.5,20,494.7
+mockito,/main/java/org/mockito/internal/configuration/GlobalConfiguration.java,1,1.0,0,37min 30s,37.5,39,1400.1
+mockito,/main/java/org/mockito/internal/configuration/IndependentAnnotationEngine.java,1,1.0,0,17min 30s,17.5,30,889.2
+mockito,/main/java/org/mockito/internal/configuration/injection/scanner/InjectMocksScanner.java,1,1.0,0,0,0.0,8,299.1
+mockito,/main/java/org/mockito/internal/InOrderImpl.java,1,1.0,0,27min 30s,27.5,34,947.4
+mockito,/test/java/org/mockito/internal/invocation/InvocationMarkerTest.java,1,1.0,0,0,0.0,16,656.4
+mockito,/test/java/org/mockito/internal/util/collections/ListUtilTest.java,1,1.0,0,0,0.0,20,685.5
+mockito,/main/java/org/mockito/internal/invocation/MatcherApplicationStrategy.java,1,1.0,0,51min,51.0,41,910.2
+mockito,/main/java/org/mockito/internal/invocation/MatchersBinder.java,1,1.0,0,0,0.0,15,598.2
+mockito,/main/java/org/mockito/internal/matchers/text/MatchersPrinter.java,1,1.0,0,0,0.0,22,897.3
+mockito,/test/java/org/mockito/internal/verification/checkers/MissingInvocationCheckerTest.java,1,1.0,0,15min,15.0,49,1641.0
+mockito,/main/java/org/mockito/internal/handler/MockHandlerImpl.java,2,1.0,0,57min 30s,57.5,26,889.2
+mockito,/test/java/org/mockitousage/plugins/switcher/MyPluginSwitch.java,1,1.0,0,0,0.0,13,540.0
+mockito,/main/java/org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java,1,1.0,0,20min,20.0,29,852.0
+mockito,/main/java/org/mockito/internal/stubbing/OngoingStubbingImpl.java,2,1.0,0,10min,10.0,19,436.5
+mockito,/main/java/org/mockito/internal/reporting/PrintSettings.java,1,1.0,0,27min 30s,27.5,36,843.9
+mockito,/main/java/org/mockito/internal/stubbing/answers/ReturnsElementsOf.java,1,1.0,0,22min,22.0,12,291.0
+mockito,/test/java/org/mockitousage/annotation/SpyInjectionTest.java,1,1.0,0,0,0.0,27,1167.3
+mockito,/test/java/org/mockitousage/bugs/SpyShouldHaveNiceNameTest.java,1,1.0,0,0,0.0,10,510.9
+mockito,/main/java/org/mockito/internal/stubbing/StubbedInvocationMatcher.java,1,1.0,0,15min,15.0,31,881.1
+mockito,/main/java/org/mockito/internal/stubbing/StubberImpl.java,1,1.0,0,20min,20.0,54,1105.8
+mockito,/test/java/org/mockito/exceptions/base/TraceBuilder.java,1,1.0,0,0,0.0,28,582.0
+mockito,/main/java/org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter.java,1,1.0,0,0,0.0,14,444.6
+mockito,/main/java/org/mockito/internal/junit/UnnecessaryStubbingsReporter.java,1,1.0,0,10min,10.0,9,203.7
+mockito,/main/java/org/mockito/internal/junit/UnusedStubbings.java,1,1.0,0,30min,30.0,20,407.4
+mockito,/main/java/org/mockito/internal/invocation/AbstractAwareMethod.java,0,0.0,0,0,0.0,4,116.4
+mockito,/test/java/org/mockitousage/bugs/ActualInvocationHasNullArgumentNPEBugTest.java,0,0.0,0,10min,10.0,14,627.3
+mockito,/main/java/org/mockito/verification/After.java,0,0.0,0,7min 30s,7.5,15,722.7
+mockito,/test/java/org/mockitousage/bugs/AIOOBExceptionWithAtLeastTest.java,0,0.0,0,0,0.0,19,772.8
+mockito,/main/java/org/mockito/internal/matchers/And.java,0,0.0,0,7min 30s,7.5,19,436.5
+mockito,/main/java/org/mockito/android/internal/creation/AndroidByteBuddyMockMaker.java,0,0.0,0,0,0.0,31,1138.2
+mockito,/main/java/org/mockito/android/internal/creation/AndroidLoadingStrategy.java,0,0.0,0,0,0.0,14,510.9
+mockito,/main/java/org/mockito/plugins/AnnotationEngine.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/stubbing/answers/AnswerFunctionalInterfaces.java,0,0.0,0,0,0.0,29,1188.3
+mockito,/main/java/org/mockito/internal/stubbing/answers/AnswersWithDelay.java,0,0.0,0,7min 30s,7.5,15,349.2
+mockito,/main/java/org/mockito/internal/matchers/Any.java,0,0.0,0,15min,15.0,12,386.4
+mockito,/test/java/org/mockitousage/matchers/AnyXMatchersAcceptNullsTest.java,0,0.0,0,15min,15.0,27,582.0
+mockito,/main/java/org/mockito/internal/junit/ArgMismatchFinder.java,0,0.0,1,10min,10.0,12,818.1
+mockito,/test/java/org/mockito/internal/junit/ArgMismatchFinderTest.java,0,0.0,0,0,0.0,61,1812.3
+mockito,/main/java/org/mockito/ArgumentMatcher.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/invocation/ArgumentMatcherAction.java,0,0.0,0,0,0.0,3,58.2
+mockito,/main/java/org/mockito/internal/progress/ArgumentMatcherStorage.java,0,0.0,0,0,0.0,14,320.1
+mockito,/main/java/org/mockito/exceptions/verification/ArgumentsAreDifferent.java,0,0.0,0,0,0.0,11,386.4
+mockito,/test/java/org/mockitousage/examples/use/Article.java,0,0.0,0,0,0.0,8,203.7
+mockito,/test/java/org/mockitousage/examples/use/ArticleCalculator.java,0,0.0,0,0,0.0,15,436.5
+mockito,/main/java/org/mockito/internal/verification/AtLeast.java,0,0.0,0,7min 30s,7.5,23,590.1
+mockito,/main/java/org/mockito/internal/verification/checkers/AtLeastDiscrepancy.java,0,0.0,0,0,0.0,11,481.8
+mockito,/test/java/org/mockito/internal/progress/AtLeastTest.java,0,0.0,0,0,0.0,21,743.7
+mockito,/test/java/org/mockito/internal/verification/checkers/AtLeastXNumberOfInvocationsCheckerTest.java,0,0.0,0,7min 30s,7.5,24,984.6
+mockito,/main/java/org/mockito/internal/verification/AtMost.java,0,0.0,0,0,0.0,18,378.3
+mockito,/main/java/org/mockito/internal/listeners/AutoCleanableListener.java,0,0.0,0,0,0.0,2,58.2
+mockito,/main/java/org/mockito/stubbing/BaseStubber.java,0,0.0,0,0,0.0,11,182.7
+mockito,/main/java/org/mockito/internal/stubbing/BaseStubbing.java,0,0.0,0,30min,30.0,51,1084.8
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java,0,0.0,0,0,0.0,29,1262.7
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/BytecodeGenerator.java,0,0.0,0,0,0.0,5,145.5
+mockito,/main/java/org/mockito/internal/verification/Calls.java,0,0.0,0,7min 30s,7.5,21,561.0
+mockito,/main/java/org/mockito/internal/stubbing/answers/CallsRealMethods.java,0,0.0,0,17min 30s,17.5,13,444.6
+mockito,/main/java/org/mockito/exceptions/misusing/CannotStubVoidMethodWithReturnValue.java,0,0.0,0,0,0.0,8,423.6
+mockito,/main/java/org/mockito/exceptions/misusing/CannotVerifyStubOnlyMock.java,0,0.0,0,0,0.0,8,423.6
+mockito,/main/java/org/mockito/Captor.java,0,0.0,0,0,0.0,1,29.1
+mockito,/test/java/org/mockitousage/bugs/CaptorAnnotationAutoboxingTest.java,0,0.0,0,0,0.0,20,523.8
+mockito,/main/java/org/mockito/internal/configuration/CaptorAnnotationProcessor.java,0,0.0,0,0,0.0,9,481.8
+mockito,/test/java/org/mockitousage/annotation/CaptorAnnotationUnhappyPathTest.java,0,0.0,0,0,0.0,14,502.8
+mockito,/main/java/org/mockito/internal/matchers/CapturesArguments.java,0,0.0,0,0,0.0,4,116.4
+mockito,/main/java/org/mockito/CheckReturnValue.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/ClassCreatingMockMaker.java,0,0.0,0,0,0.0,5,145.5
+mockito,/main/java/org/mockito/internal/configuration/ClassPathLoader.java,0,0.0,0,27min 30s,27.5,8,548.1
+mockito,/test/java/org/mockito/internal/configuration/ClassPathLoaderTest.java,0,0.0,0,0,0.0,10,423.6
+mockito,/test/java/org/mockitousage/stacktrace/ClickableStackTracesTest.java,0,0.0,0,0,0.0,15,291.0
+mockito,/test/java/org/mockitousage/stacktrace/ClickableStackTracesWhenFrameworkMisusedTest.java,0,0.0,0,0,0.0,29,582.0
+mockito,/main/java/org/mockito/internal/stubbing/answers/ClonesArguments.java,1,0.0,0,10min,10.0,13,722.7
+mockito,/main/java/org/mockito/internal/matchers/CompareEqual.java,0,0.0,0,7min 30s,7.5,15,569.1
+mockito,/main/java/org/mockito/internal/exceptions/stacktrace/ConditionalStackTraceFilter.java,0,0.0,0,10min,10.0,13,540.0
+mockito,/main/java/org/mockito/internal/stubbing/ConsecutiveStubbing.java,0,0.0,0,0,0.0,12,232.8
+mockito,/main/java/org/mockito/internal/matchers/Contains.java,0,0.0,0,7min 30s,7.5,14,291.0
+mockito,/main/java/org/mockito/internal/matchers/ContainsExtraTypeInfo.java,0,0.0,0,0,0.0,5,116.4
+mockito,/test/java/org/mockitousage/bugs/CovariantOverrideTest.java,0,0.0,0,0,0.0,25,947.4
+mockito,/test/java/org/mockitousage/configuration/CustomizedAnnotationForSmartMockTest.java,0,0.0,0,7min 30s,7.5,25,1175.4
+mockito,/test/java/org/mockitousage/matchers/CustomMatchersTest.java,0,0.0,0,7min 30s,7.5,98,3406.5
+mockito,/main/java/org/mockito/internal/configuration/DefaultInjectionEngine.java,0,0.0,0,0,0.0,8,452.7
+mockito,/main/java/org/mockito/internal/invocation/DefaultInvocationFactory.java,0,0.0,0,27min 30s,27.5,37,976.5
+mockito,/main/java/org/mockito/internal/util/DefaultMockingDetails.java,0,0.0,0,10min,10.0,43,756.6
+mockito,/main/java/org/mockito/configuration/DefaultMockitoConfiguration.java,0,0.0,0,0,0.0,13,598.2
+mockito,/main/java/org/mockito/internal/framework/DefaultMockitoFramework.java,0,0.0,0,0,0.0,32,860.1
+mockito,/test/java/org/mockito/internal/configuration/plugins/DefaultMockitoPluginsTest.java,0,0.0,0,0,0.0,16,627.3
+mockito,/main/java/org/mockito/internal/framework/DefaultMockitoSession.java,0,0.0,0,0,0.0,20,531.9
+mockito,/main/java/org/mockito/internal/configuration/plugins/DefaultPluginSwitch.java,0,0.0,0,0,0.0,10,452.7
+mockito,/test/java/org/mockito/internal/verification/DefaultRegisteredInvocationsTest.java,0,0.0,0,0,0.0,15,320.1
+mockito,/main/java/org/mockito/internal/exceptions/stacktrace/DefaultStackTraceCleanerProvider.java,0,0.0,0,0,0.0,7,423.6
+mockito,/main/java/org/mockito/internal/junit/DefaultTestFinishedEvent.java,0,0.0,0,0,0.0,16,349.2
+mockito,/main/java/org/mockito/invocation/DescribedInvocation.java,0,0.0,0,0,0.0,3,29.1
+mockito,/test/java/org/mockitousage/misuse/DescriptiveMessagesOnMisuseTest.java,0,0.0,1,10min,10.0,44,1333.8
+mockito,/test/java/org/mockitousage/verification/DescriptiveMessagesWhenTimesXVerificationFailsTest.java,0,0.0,0,0,0.0,18,407.4
+mockito,/main/java/org/mockito/internal/util/concurrent/DetachedThreadLocal.java,0,0.0,0,0,0.0,28,764.7
+mockito,/main/java/org/mockito/internal/reporting/Discrepancy.java,0,0.0,0,0,0.0,18,407.4
+mockito,/main/java/org/mockito/internal/stubbing/answers/DoesNothing.java,0,0.0,0,7min 30s,7.5,20,780.9
+mockito,/test/java/org/mockito/internal/util/reflection/DummyClassForTests.java,0,0.0,0,0,0.0,6,394.5
+mockito,/test/java/org/mockito/internal/util/reflection/DummyParentClassForTests.java,0,0.0,0,0,0.0,5,145.5
+mockito,/main/java/org/mockito/internal/matchers/EndsWith.java,0,0.0,0,7min 30s,7.5,14,291.0
+mockito,/main/java/org/mockito/internal/matchers/EqualsWithDelta.java,0,0.0,0,27min 30s,27.5,16,473.7
+mockito,/main/java/org/mockito/internal/exceptions/ExceptionIncludingMockitoWarnings.java,0,0.0,0,0,0.0,7,270.0
+mockito,/main/java/org/mockito/internal/runners/util/FailureDetector.java,0,0.0,0,0,0.0,13,320.1
+mockito,/main/java/org/mockito/internal/configuration/FieldAnnotationProcessor.java,0,0.0,0,0,0.0,4,116.4
+mockito,/main/java/org/mockito/internal/util/reflection/FieldCopier.java,0,0.0,0,0,0.0,11,510.9
+mockito,/main/java/org/mockito/internal/util/reflection/FieldInitializationReport.java,0,0.0,0,0,0.0,8,174.6
+mockito,/main/java/org/mockito/internal/util/reflection/FieldReader.java,0,0.0,0,10min,10.0,21,590.1
+mockito,/main/java/org/mockito/internal/matchers/Find.java,0,0.0,0,7min 30s,7.5,14,291.0
+mockito,/main/java/org/mockito/internal/debugging/FindingsListener.java,0,0.0,0,0,0.0,8,232.8
+mockito,/test/java/org/mockitousage/debugging/Foo.java,0,0.0,0,0,0.0,9,203.7
+mockito,/main/java/org/mockito/internal/matchers/text/FormattedText.java,0,0.0,0,0,0.0,7,174.6
+mockito,/test/java/org/mockito/internal/stubbing/defaultanswers/ForwardsInvocationsTest.java,0,0.0,0,0,0.0,36,1283.7
+mockito,/main/java/org/mockito/exceptions/misusing/FriendlyReminderException.java,0,0.0,0,0,0.0,7,270.0
+mockito,/main/java/org/mockito/internal/util/reflection/GenericMaster.java,0,0.0,0,30min,30.0,6,423.6
+mockito,/test/java/org/mockitousage/matchers/GenericMatchersTest.java,0,0.0,0,0,0.0,18,772.8
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/GloballyConfiguredAnswer.java,0,0.0,0,7min 30s,7.5,9,328.2
+mockito,/main/java/org/mockito/internal/matchers/GreaterOrEqual.java,0,0.0,0,7min 30s,7.5,16,569.1
+mockito,/main/java/org/mockito/internal/matchers/GreaterThan.java,0,0.0,0,7min 30s,7.5,16,569.1
+mockito,/main/java/org/mockito/internal/hamcrest/HamcrestArgumentMatcher.java,1,0.0,0,0,0.0,15,349.2
+mockito,/main/java/org/mockito/internal/util/collections/HashCodeAndEqualsMockWrapper.java,0,0.0,0,22min,22.0,29,735.6
+mockito,/test/java/org/mockito/internal/stubbing/defaultanswers/HasPrimitiveMethods.java,0,0.0,0,0,0.0,26,756.6
+mockito,/main/java/org/mockito/internal/util/collections/IdentitySet.java,0,0.0,0,10min,10.0,12,386.4
+mockito,/test/java/org/mockitousage/IMethods.java,1,0.0,0,0,0.0,350,9108.3
+mockito,/main/java/org/mockito/Incubating.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/codegen/InjectionBase.java,0,0.0,0,0,0.0,5,365.4
+mockito,/main/java/org/mockito/InjectMocks.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/exceptions/misusing/InjectMocksException.java,0,0.0,0,0,0.0,6,394.5
+mockito,/main/java/org/mockito/plugins/InlineMockMaker.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/InOrder.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/verification/api/InOrderContext.java,0,0.0,0,0,0.0,9,203.7
+mockito,/main/java/org/mockito/internal/verification/InOrderContextImpl.java,0,0.0,0,0,0.0,15,415.5
+mockito,/test/java/org/mockito/internal/InOrderImplTest.java,0,0.0,0,0,0.0,13,598.2
+mockito,/main/java/org/mockito/internal/verification/InOrderWrapper.java,0,0.0,0,0,0.0,15,291.0
+mockito,/main/java/org/mockito/internal/util/reflection/InstanceField.java,0,0.0,0,22min,22.0,22,648.3
+mockito,/main/java/org/mockito/internal/matchers/InstanceOf.java,0,0.0,0,15min,15.0,33,889.2
+mockito,/main/java/org/mockito/creation/instance/InstantiationException.java,0,0.0,0,0,0.0,4,365.4
+mockito,/main/java/org/mockito/creation/instance/Instantiator.java,0,0.0,0,0,0.0,5,145.5
+mockito,/main/java/org/mockito/plugins/InstantiatorProvider2.java,0,0.0,0,0,0.0,4,87.3
+mockito,/main/java/org/mockito/internal/creation/instance/InstantiatorProvider2Adapter.java,0,0.0,4,30min,30.0,18,561.0
+mockito,/main/java/org/mockito/internal/creation/instance/InstantiatorProviderAdapter.java,0,0.0,4,30min,30.0,20,590.1
+mockito,/main/java/org/mockito/internal/runners/InternalRunner.java,0,0.0,0,0,0.0,7,145.5
+mockito,/main/java/org/mockito/exceptions/misusing/InvalidUseOfMatchersException.java,0,0.0,0,0,0.0,9,299.1
+mockito,/main/java/org/mockito/invocation/Invocation.java,0,0.0,0,0,0.0,5,58.2
+mockito,/main/java/org/mockito/internal/invocation/InvocationComparator.java,0,0.0,0,0,0.0,7,423.6
+mockito,/main/java/org/mockito/invocation/InvocationContainer.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/internal/stubbing/answers/InvocationInfo.java,0,0.0,0,30min,30.0,40,1092.9
+mockito,/main/java/org/mockito/listeners/InvocationListener.java,0,0.0,0,0,0.0,3,29.1
+mockito,/main/java/org/mockito/internal/invocation/InvocationMarker.java,0,0.0,0,0,0.0,18,598.2
+mockito,/main/java/org/mockito/internal/debugging/InvocationsPrinter.java,0,0.0,0,35min,35.0,11,481.8
+mockito,/test/java/org/mockitoutil/JUnitResultAssert.java,0,0.0,0,30min,30.0,41,1188.3
+mockito,/main/java/org/mockito/stubbing/LenientStubber.java,0,0.0,0,0,0.0,4,87.3
+mockito,/main/java/org/mockito/internal/matchers/LessOrEqual.java,0,0.0,0,7min 30s,7.5,16,569.1
+mockito,/main/java/org/mockito/internal/matchers/LessThan.java,0,0.0,0,7min 30s,7.5,16,569.1
+mockito,/main/java/org/mockito/internal/debugging/Localized.java,0,0.0,0,0,0.0,12,291.0
+mockito,/main/java/org/mockito/invocation/Location.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/invocation/MatchableInvocation.java,0,0.0,0,0,0.0,12,261.9
+mockito,/test/java/org/mockitousage/matchers/MatchersMixedWithRawArgumentsTest.java,0,0.0,0,0,0.0,10,540.0
+mockito,/test/java/org/mockito/internal/matchers/MatchersPrinterTest.java,0,0.0,0,0,0.0,24,465.6
+mockito,/test/java/org/mockito/internal/matchers/MatchersToStringTest.java,0,0.0,0,0,0.0,73,1915.8
+mockito,/main/java/org/mockito/internal/matchers/Matches.java,0,0.0,0,7min 30s,7.5,17,349.2
+mockito,/main/java/org/mockito/listeners/MethodInvocationReport.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/internal/verification/checkers/MissingInvocationChecker.java,0,0.0,0,20min,20.0,20,569.1
+mockito,/main/java/org/mockito/exceptions/misusing/MissingMethodInvocationException.java,0,0.0,0,0,0.0,7,270.0
+mockito,/test/java/org/mockitousage/stubbing/MisusingStubbingTest.java,0,0.0,0,0,0.0,16,627.3
+mockito,/main/java/org/mockito/Mock.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/MockAccess.java,0,0.0,0,0,0.0,6,174.6
+mockito,/main/java/org/mockito/internal/configuration/MockAnnotationProcessor.java,0,0.0,0,0,0.0,13,722.7
+mockito,/main/java/org/mockito/internal/configuration/injection/filter/MockCandidateFilter.java,0,0.0,0,0,0.0,5,145.5
+mockito,/testBundle/java/org/mockito/osgitest/testbundle/MockClassInOtherBundleTest.java,0,0.0,0,0,0.0,11,481.8
+mockito,/main/java/org/mockito/listeners/MockCreationListener.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/util/MockCreationValidator.java,0,0.0,0,30min,30.0,30,1196.4
+mockito,/test/java/org/mockito/internal/handler/MockHandlerFactoryTest.java,0,0.0,0,0,0.0,18,561.0
+mockito,/main/java/org/mockito/internal/configuration/injection/MockInjectionStrategy.java,0,0.0,0,17min 30s,17.5,11,386.4
+mockito,/test/java/org/mockitousage/annotation/MockInjectionUsingConstructorIssue421Test.java,0,0.0,0,0,0.0,29,860.1
+mockito,/main/java/org/mockito/exceptions/base/MockitoAssertionError.java,0,0.0,0,7min 30s,7.5,10,232.8
+mockito,/test/java/org/mockito/exceptions/base/MockitoAssertionErrorTest.java,0,0.0,0,0,0.0,16,569.1
+mockito,/test/java/org/mockito/configuration/MockitoConfiguration.java,0,0.0,0,37min 30s,37.5,36,873.0
+mockito,/main/java/org/mockito/exceptions/misusing/MockitoConfigurationException.java,0,0.0,0,0,0.0,11,357.3
+mockito,/test/java/org/mockito/exceptions/base/MockitoExceptionTest.java,0,0.0,0,0,0.0,12,481.8
+mockito,/main/java/org/mockito/MockitoFramework.java,0,0.0,0,0,0.0,9,87.3
+mockito,/main/java/org/mockito/quality/MockitoHint.java,0,0.0,0,0,0.0,3,58.2
+mockito,/main/java/org/mockito/exceptions/base/MockitoInitializationException.java,0,0.0,0,0,0.0,11,357.3
+mockito,/main/java/org/mockito/junit/MockitoJUnitRunner.java,0,0.0,0,15min,15.0,54,2085.6
+mockito,/main/java/org/mockito/listeners/MockitoListener.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/plugins/MockitoLogger.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/session/MockitoLoggerAdapter.java,0,0.0,0,0,0.0,11,203.7
+mockito,/main/java/org/mockito/internal/invocation/MockitoMethod.java,0,0.0,0,0,0.0,14,407.4
+mockito,/main/java/org/mockito/internal/creation/util/MockitoMethodProxy.java,1,0.0,0,10min,10.0,7,203.7
+mockito,/main/java/org/mockito/plugins/MockitoPlugins.java,0,0.0,0,0,0.0,3,29.1
+mockito,/test/java/org/mockitousage/plugins/MockitoPluginsTest.java,0,0.0,0,7min 30s,7.5,16,349.2
+mockito,/main/java/org/mockito/junit/MockitoRule.java,0,0.0,0,0,0.0,6,116.4
+mockito,/main/java/org/mockito/MockitoSession.java,0,0.0,0,0,0.0,3,29.1
+mockito,/main/java/org/mockito/session/MockitoSessionBuilder.java,0,0.0,0,0,0.0,7,29.1
+mockito,/main/java/org/mockito/session/MockitoSessionLogger.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/session/MockitoSessionLoggerAdapter.java,0,0.0,0,0,0.0,12,261.9
+mockito,/main/java/org/mockito/junit/jupiter/MockitoSettings.java,0,0.0,0,0,0.0,1,29.1
+mockito,/test/java/org/mockitousage/bugs/MockitoStubbedCallInAnswerTest.java,0,0.0,0,0,0.0,40,1479.3
+mockito,/main/java/org/mockito/internal/junit/MockitoTestListener.java,0,0.0,0,0,0.0,4,87.3
+mockito,/main/java/org/mockito/plugins/MockMaker.java,0,0.0,0,0,0.0,9,116.4
+mockito,/main/java/org/mockito/mock/MockName.java,0,0.0,0,0,0.0,4,87.3
+mockito,/main/java/org/mockito/internal/util/MockNameImpl.java,0,0.0,0,7min 30s,7.5,22,494.7
+mockito,/main/java/org/mockito/internal/invocation/mockref/MockReference.java,0,0.0,0,0,0.0,3,87.3
+mockito,/main/java/org/mockito/internal/configuration/injection/scanner/MockScanner.java,0,0.0,0,20min,20.0,21,772.8
+mockito,/main/java/org/mockito/MockSettings.java,0,0.0,0,0,0.0,21,87.3
+mockito,/test/java/org/mockito/internal/util/MockSettingsTest.java,0,0.0,0,0,0.0,22,831.0
+mockito,/main/java/org/mockito/internal/invocation/mockref/MockStrongReference.java,0,0.0,0,20min,20.0,18,407.4
+mockito,/main/java/org/mockito/internal/util/MockUtil.java,2,0.0,0,20min,20.0,58,1653.9
+mockito,/test/java/org/mockito/internal/invocation/mockref/MockWeakReferenceTest.java,0,0.0,0,0,0.0,10,635.4
+mockito,/test/java/org/mockitousage/stacktrace/ModellingDescriptiveMessagesTest.java,1,0.0,0,7min 30s,7.5,97,2190.6
+mockito,/test/java/org/mockitousage/junitrunner/ModellingVerboseMockitoTest.java,2,0.0,0,20min,20.0,21,552.9
+mockito,/main/java/org/mockito/exceptions/verification/MoreThanAllowedActualInvocations.java,0,0.0,0,0,0.0,6,394.5
+mockito,/test/java/org/mockitousage/bugs/MultipleInOrdersTest.java,0,0.0,0,7min 30s,7.5,11,481.8
+mockito,/test/java/org/mockitousage/plugins/MyDeprecatedInstantiatorProvider.java,0,0.0,0,0,0.0,19,868.2
+mockito,/test/java/org/mockitousage/plugins/instantiator/MyInstantiatorProvider2.java,0,0.0,0,0,0.0,13,540.0
+mockito,/main/java/org/mockito/exceptions/verification/NeverWantedButInvoked.java,0,0.0,0,0,0.0,7,270.0
+mockito,/test/java/org/mockitousage/debugging/NewMockito.java,1,0.0,0,10min,10.0,10,510.9
+mockito,/test/java/org/mockitousage/NoExtendsTest.java,0,0.0,0,0,0.0,12,510.9
+mockito,/main/java/org/mockito/internal/verification/NoInteractions.java,0,0.0,0,0,0.0,10,452.7
+mockito,/test/java/org/mockito/internal/verification/NoInteractionsTest.java,0,0.0,0,0,0.0,10,540.0
+mockito,/main/java/org/mockito/exceptions/verification/NoInteractionsWanted.java,0,0.0,0,0,0.0,5,240.9
+mockito,/main/java/org/mockito/internal/verification/NoMoreInteractions.java,0,0.0,0,7min 30s,7.5,16,693.6
+mockito,/main/java/org/mockito/internal/matchers/Not.java,0,0.0,0,7min 30s,7.5,15,320.1
+mockito,/main/java/org/mockito/exceptions/misusing/NotAMockException.java,0,0.0,0,0,0.0,8,270.0
+mockito,/main/java/org/mockito/NotExtensible.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/internal/handler/NotifiedMethodInvocationReport.java,0,0.0,0,22min,22.0,27,764.7
+mockito,/main/java/org/mockito/internal/matchers/NotNull.java,0,0.0,0,15min,15.0,14,415.5
+mockito,/test/java/org/mockitousage/bugs/NPEOnAnyClassMatcherAutounboxTest.java,0,0.0,0,0,0.0,12,569.1
+mockito,/main/java/org/mockito/internal/matchers/Null.java,0,0.0,0,15min,15.0,14,415.5
+mockito,/main/java/org/mockito/exceptions/misusing/NullInsteadOfMockException.java,0,0.0,0,0,0.0,7,270.0
+mockito,/main/java/org/mockito/internal/handler/NullResultGuardian.java,0,0.0,0,10min,10.0,23,897.3
+mockito,/main/java/org/mockito/internal/verification/checkers/NumberOfInvocationsChecker.java,0,0.0,0,0,0.0,26,992.7
+mockito,/main/java/org/mockito/internal/util/ObjectMethodsGuru.java,0,0.0,0,0,0.0,20,810.0
+mockito,/test/java/org/mockitousage/basicapi/ObjectsSerializationTest.java,0,0.0,0,7min 30s,7.5,28,1387.2
+mockito,/main/java/org/mockito/internal/creation/instance/ObjenesisInstantiator.java,2,0.0,0,20min,20.0,9,481.8
+mockito,/main/java/org/mockito/stubbing/OngoingStubbing.java,0,0.0,0,0,0.0,12,29.1
+mockito,/main/java/org/mockito/internal/verification/Only.java,0,0.0,0,0,0.0,11,481.8
+mockito,/main/java/org/mockito/internal/matchers/Or.java,0,0.0,0,7min 30s,7.5,17,378.3
+mockito,/test/java/org/mockitousage/verification/OrdinaryVerificationPrintsAllInteractionsTest.java,0,0.0,0,0,0.0,31,727.5
+mockito,/test/java/org/mockitointegration/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/test/java/org/concurrentmockito/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/test/java/org/mockitousage/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/test/java/org/mockitousage/internal/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/stubbing/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/runners/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/stubbing/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/stubbing/answers/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/runners/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/runners/util/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/debugging/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/inject/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/creation/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/creation/util/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/progress/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/configuration/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/configuration/injection/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/configuration/plugins/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/invocation/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/matchers/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/matchers/apachecommons/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/reporting/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/junit/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/verification/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/verification/api/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/verification/argumentmatching/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/verification/checkers/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/util/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/util/reflection/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/exceptions/stacktrace/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/configuration/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/invocation/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/listeners/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/quality/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/plugins/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/junit/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/hamcrest/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/mock/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/verification/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/exceptions/base/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/exceptions/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/exceptions/misusing/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/exceptions/stacktrace/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/exceptions/verification/opentest4j/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/exceptions/verification/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/exceptions/verification/junit/package-info.java,0,0.0,0,0,0.0,null,null
+mockito,/main/java/org/mockito/internal/util/Platform.java,0,0.0,0,47min 30s,47.5,44,1209.3
+mockito,/main/java/org/mockito/internal/configuration/plugins/PluginFileReader.java,0,0.0,0,10min,10.0,15,722.7
+mockito,/test/java/org/mockito/internal/configuration/plugins/PluginFileReaderTest.java,0,0.0,0,15min,15.0,23,706.5
+mockito,/main/java/org/mockito/internal/configuration/plugins/PluginInitializer.java,0,0.0,0,27min 30s,27.5,14,502.8
+mockito,/main/java/org/mockito/internal/configuration/plugins/PluginRegistry.java,1,0.0,0,10min,10.0,20,772.8
+mockito,/main/java/org/mockito/plugins/PluginSwitch.java,0,0.0,0,0,0.0,4,87.3
+mockito,/test/java/org/mockito/internal/reporting/PluralizerTest.java,0,0.0,0,0,0.0,19,656.4
+mockito,/test/java/org/mockitousage/stacktrace/PointingStackTraceToActualInvocationChunkInOrderTest.java,0,0.0,0,0,0.0,38,785.7
+mockito,/main/java/org/mockito/exceptions/misusing/PotentialStubbingProblem.java,0,0.0,0,0,0.0,7,394.5
+mockito,/main/java/org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java,0,0.0,0,10min,10.0,34,1283.7
+mockito,/test/java/org/mockitousage/bugs/creation/api/PublicClass.java,0,0.0,0,0,0.0,5,365.4
+mockito,/test/java/org/mockitoinline/RecursionTest.java,0,0.0,0,0,0.0,10,481.8
+mockito,/main/java/org/mockito/exceptions/misusing/RedundantListenerException.java,0,0.0,0,0,0.0,7,394.5
+mockito,/test/java/org/mockitousage/matchers/ReflectionMatchersTest.java,0,0.0,0,0,0.0,94,2476.8
+mockito,/main/java/org/mockito/internal/verification/RegisteredInvocations.java,0,0.0,0,0,0.0,10,291.0
+mockito,/test/java/org/mockitousage/basicapi/ResetInvocationsTest.java,0,0.0,0,0,0.0,25,552.9
+mockito,/test/java/org/mockitousage/misuse/RestrictedObjectMethodsTest.java,0,0.0,0,0,0.0,19,465.6
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/RetrieveGenericsForDefaultAnswers.java,0,0.0,0,1h 10min,70.0,23,860.1
+mockito,/main/java/org/mockito/internal/stubbing/answers/ReturnsArgumentAt.java,0,0.0,0,1h 36min,96.0,38,902.1
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/ReturnsMoreEmptyValues.java,0,0.0,0,47min 30s,47.5,16,656.4
+mockito,/test/java/org/mockito/internal/stubbing/defaultanswers/ReturnsMoreEmptyValuesTest.java,0,0.0,0,0,0.0,13,261.9
+mockito,/test/java/org/mockito/internal/runners/util/RunnerProviderTest.java,0,0.0,0,0,0.0,11,540.0
+mockito,/main/java/org/mockito/internal/exceptions/util/ScenarioPrinter.java,0,0.0,0,10min,10.0,11,510.9
+mockito,/test/java/org/mockito/internal/exceptions/util/ScenarioPrinterTest.java,0,0.0,0,0,0.0,10,261.9
+mockito,/main/java/org/mockito/mock/SerializableMode.java,0,0.0,0,0,0.0,1,29.1
+mockito,/test/java/org/mockitousage/bugs/creation/ShouldAllowInlineMockCreationTest.java,0,0.0,0,0,0.0,11,510.9
+mockito,/test/java/org/mockitousage/bugs/ShouldOnlyModeAllowCapturingArgumentsTest.java,0,0.0,0,0,0.0,10,510.9
+mockito,/test/java/org/mockito/internal/util/SimpleMockitoLogger.java,0,0.0,0,0,0.0,19,378.3
+mockito,/test/java/org/mockito/internal/util/SimpleMockitoLoggerTest.java,0,0.0,0,0,0.0,12,569.1
+mockito,/testBundle/java/org/mockito/osgitest/testbundle/SimpleMockTest.java,0,0.0,0,0,0.0,11,481.8
+mockito,/main/java/org/mockito/internal/verification/SingleRegisteredInvocation.java,0,0.0,0,7min 30s,7.5,18,349.2
+mockito,/main/java/org/mockito/exceptions/verification/SmartNullPointerException.java,0,0.0,0,0,0.0,7,270.0
+mockito,/test/java/org/mockito/internal/verification/SmartPrinterTest.java,0,0.0,0,0,0.0,24,640.2
+mockito,/main/java/org/mockito/Spy.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/configuration/SpyAnnotationEngine.java,1,0.0,0,1h 5min,65.0,45,1794.6
+mockito,/test/java/org/mockitousage/annotation/SpyAnnotationInitializedInBaseClassTest.java,0,0.0,0,0,0.0,41,1582.8
+mockito,/main/java/org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler.java,1,0.0,0,10min,10.0,9,635.4
+mockito,/test/java/org/mockito/exceptions/base/StackTraceBuilder.java,0,0.0,0,0,0.0,18,531.9
+mockito,/main/java/org/mockito/exceptions/stacktrace/StackTraceCleaner.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/plugins/StackTraceCleanerProvider.java,0,0.0,0,0,0.0,1,29.1
+mockito,/test/java/org/mockitousage/stacktrace/StackTraceFilteringTest.java,0,0.0,0,0,0.0,50,989.4
+mockito,/main/java/org/mockito/internal/matchers/StartsWith.java,0,0.0,0,7min 30s,7.5,15,291.0
+mockito,/test/java/org/mockito/StateMaster.java,0,0.0,0,0,0.0,12,510.9
+mockito,/main/java/org/mockito/quality/Strictness.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/runners/StrictRunner.java,1,0.0,0,10min,10.0,20,743.7
+mockito,/main/java/org/mockito/internal/util/StringUtil.java,0,0.0,0,30min,30.0,24,955.5
+mockito,/main/java/org/mockito/stubbing/Stubber.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/stubbing/Stubbing.java,0,0.0,0,0,0.0,8,116.4
+mockito,/main/java/org/mockito/internal/stubbing/StubbingComparator.java,0,0.0,0,0,0.0,8,452.7
+mockito,/main/java/org/mockito/internal/junit/StubbingHint.java,0,0.0,0,0,0.0,11,232.8
+mockito,/main/java/org/mockito/listeners/StubbingLookupEvent.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/listeners/StubbingLookupListener.java,0,0.0,0,0,0.0,3,29.1
+mockito,/test/java/org/mockito/internal/listeners/StubbingLookupNotifierTest.java,0,0.0,0,0,0.0,31,1225.5
+mockito,/test/java/org/mockitousage/bugs/StubbingMocksThatAreConfiguredToReturnMocksTest.java,0,0.0,0,0,0.0,14,598.2
+mockito,/test/java/org/mockitousage/spies/StubbingSpiesDoesNotYieldNPETest.java,0,0.0,0,0,0.0,30,1138.2
+mockito,/test/java/org/mockitousage/stubbing/StubbingWithBadThrowablesTest.java,0,0.0,0,0,0.0,17,905.4
+mockito,/main/java/org/mockito/invocation/StubInfo.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/internal/invocation/StubInfoImpl.java,0,0.0,0,7min 30s,7.5,13,540.0
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/SubclassByteBuddyMockMaker.java,0,0.0,1,1h 25min,85.0,55,1354.8
+mockito,/main/java/org/mockito/internal/creation/bytebuddy/SubclassLoader.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/internal/util/Supplier.java,0,0.0,0,0,0.0,2,58.2
+mockito,/main/java/org/mockito/internal/configuration/injection/filter/TerminalMockCandidateFilter.java,0,0.0,0,10min,10.0,9,452.7
+mockito,/test/java/org/mockitoutil/TestBaseTest.java,0,0.0,0,7min 30s,7.5,12,481.8
+mockito,/main/java/org/mockito/internal/junit/TestFinishedEvent.java,0,0.0,0,0,0.0,6,174.6
+mockito,/main/java/org/mockito/internal/runners/util/TestMethodsFinder.java,0,0.0,0,10min,10.0,11,481.8
+mockito,/test/java/org/mockito/internal/progress/ThreadSafeMockingProgressTest.java,0,0.0,0,0,0.0,21,801.9
+mockito,/test/java/org/concurrentmockito/ThreadsShareAMockTest.java,0,0.0,0,0,0.0,21,868.2
+mockito,/main/java/org/mockito/verification/Timeout.java,0,0.0,0,7min 30s,7.5,21,868.2
+mockito,/main/java/org/mockito/internal/util/Timer.java,0,0.0,0,0,0.0,17,378.3
+mockito,/test/java/org/mockito/internal/util/TimerTest.java,0,0.0,0,7min 30s,7.5,24,1013.7
+mockito,/main/java/org/mockito/internal/verification/Times.java,0,0.0,0,7min 30s,7.5,26,677.4
+mockito,/main/java/org/mockito/exceptions/verification/TooFewActualInvocations.java,0,0.0,0,7min 30s,7.5,6,270.0
+mockito,/main/java/org/mockito/exceptions/verification/TooManyActualInvocations.java,0,0.0,0,0,0.0,7,270.0
+mockito,/main/java/org/mockito/internal/stubbing/defaultanswers/TriesToReturnSelf.java,0,0.0,0,17min 30s,17.5,14,598.2
+mockito,/main/java/org/mockito/exceptions/misusing/UnfinishedMockingSessionException.java,0,0.0,0,0,0.0,7,394.5
+mockito,/main/java/org/mockito/exceptions/misusing/UnfinishedStubbingException.java,0,0.0,0,0,0.0,7,270.0
+mockito,/main/java/org/mockito/exceptions/misusing/UnfinishedVerificationException.java,0,0.0,0,0,0.0,7,270.0
+mockito,/main/java/org/mockito/exceptions/misusing/UnnecessaryStubbingException.java,0,0.0,0,0,0.0,7,394.5
+mockito,/test/java/org/mockitousage/internal/junit/UnusedStubbingsFinderTest.java,0,0.0,0,0,0.0,62,1870.5
+mockito,/test/java/org/mockito/internal/junit/UnusedStubbingsTest.java,0,0.0,0,0,0.0,19,494.7
+mockito,/main/java/org/mockito/stubbing/ValidableAnswer.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/matchers/VarargMatcher.java,0,0.0,0,0,0.0,1,29.1
+mockito,/test/java/org/mockitousage/bugs/varargs/VarargsAndAnyObjectPicksUpExtraInvocationsTest.java,0,0.0,0,7min 30s,7.5,16,465.6
+mockito,/test/java/org/mockitousage/bugs/varargs/VarargsNotPlayingWithAnyObjectTest.java,0,0.0,0,7min 30s,7.5,23,523.8
+mockito,/main/java/org/mockito/internal/invocation/finder/VerifiableInvocationsFinder.java,0,0.0,0,0,0.0,21,1059.0
+mockito,/main/java/org/mockito/verification/VerificationAfterDelay.java,0,0.0,0,0,0.0,13,349.2
+mockito,/main/java/org/mockito/internal/exceptions/VerificationAwareInvocation.java,0,0.0,0,0,0.0,4,116.4
+mockito,/main/java/org/mockito/junit/VerificationCollector.java,0,0.0,0,0,0.0,3,29.1
+mockito,/main/java/org/mockito/internal/verification/VerificationDataImpl.java,0,0.0,0,10min,10.0,24,590.1
+mockito,/main/java/org/mockito/internal/verification/api/VerificationDataInOrder.java,0,0.0,0,0,0.0,8,232.8
+mockito,/main/java/org/mockito/internal/verification/api/VerificationDataInOrderImpl.java,0,0.0,0,0,0.0,18,378.3
+mockito,/main/java/org/mockito/verification/VerificationEvent.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/internal/verification/VerificationEventImpl.java,0,0.0,0,0,0.0,19,465.6
+mockito,/main/java/org/mockito/exceptions/verification/VerificationInOrderFailure.java,0,0.0,0,0,0.0,7,270.0
+mockito,/main/java/org/mockito/internal/verification/api/VerificationInOrderMode.java,0,0.0,0,0,0.0,4,116.4
+mockito,/main/java/org/mockito/listeners/VerificationListener.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/verification/VerificationMode.java,0,0.0,0,0,0.0,5,58.2
+mockito,/test/java/org/mockito/internal/progress/VerificationModeBuilder.java,0,0.0,0,0,0.0,14,320.1
+mockito,/main/java/org/mockito/listeners/VerificationStartedEvent.java,0,0.0,0,0,0.0,3,58.2
+mockito,/main/java/org/mockito/listeners/VerificationStartedListener.java,0,0.0,0,0,0.0,1,29.1
+mockito,/main/java/org/mockito/verification/VerificationStrategy.java,0,0.0,0,0,0.0,1,29.1
+mockito,/test/java/org/mockitousage/verification/VerificationWithAfterAndCaptorTest.java,0,0.0,0,7min 30s,7.5,28,1254.6
+mockito,/main/java/org/mockito/verification/VerificationWithTimeout.java,0,0.0,0,0,0.0,2,29.1
+mockito,/main/java/org/mockito/internal/verification/VerificationWrapperInOrderWrapper.java,1,0.0,0,20min,20.0,21,839.1
+mockito,/main/java/org/mockito/exceptions/verification/WantedButNotInvoked.java,0,0.0,0,0,0.0,10,328.2
+mockito,/test/java/org/mockito/internal/debugging/WarningsFinderTest.java,0,0.0,0,0,0.0,19,494.7
+mockito,/main/java/org/mockito/internal/debugging/WarningsPrinterImpl.java,0,0.0,0,0,0.0,15,291.0
+mockito,/test/java/org/mockitousage/annotation/WrongSetOfAnnotationsTest.java,0,0.0,0,0,0.0,58,1558.5
+mockito,/main/java/org/mockito/exceptions/misusing/WrongTypeOfReturnValue.java,0,0.0,0,0,0.0,7,270.0

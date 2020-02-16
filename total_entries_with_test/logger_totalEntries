@@ -1,0 +1,24 @@
+logger,/test/java/com.orhanobut.logger/DiskLogAdapterTest.java,4,65.0,0,0,0.0,25,523.8
+logger,/main/java/com/orhanobut/logger/PrettyFormatStrategy.java,5,50.0,1,47min 30s,47.5,109,3477.6
+logger,/test/java/com.orhanobut.logger/LoggerPrinterTest.java,4,49.0,0,7min 30s,7.5,97,2323.2
+logger,/test/java/com.orhanobut.logger/LoggerTest.java,3,45.0,0,0,0.0,66,1425.9
+logger,/test/java/com.orhanobut.logger/PrettyFormatStrategyTest.java,6,45.0,0,30min,30.0,67,2538.3
+logger,/main/java/com/orhanobut/logger/CsvFormatStrategy.java,2,25.0,0,10min,10.0,66,1550.4
+logger,/test/java/com.orhanobut.logger/CsvFormatStrategyTest.java,2,13.0,0,0,0.0,14,481.8
+logger,/test/java/com.orhanobut.logger/LogcatLogStrategyTest.java,2,13.0,0,0,0.0,15,569.1
+logger,/test/java/com.orhanobut.logger/UtilsTest.java,2,13.0,0,22min 30s,22.5,44,1304.7
+logger,/main/java/com/orhanobut/logger/Utils.java,1,9.0,7,5h 27min,327.0,26,1167.3
+logger,/test/java/com.orhanobut.logger/AndroidLogAdapterTest.java,1,5.0,0,0,0.0,14,540.0
+logger,/main/java/com/orhanobut/logger/DiskLogStrategy.java,2,5.0,0,30min,30.0,37,1524.6
+logger,/test/java/com.orhanobut.logger/DiskLogStrategyTest.java,1,5.0,0,0,0.0,11,481.8
+logger,/test/java/com.orhanobut.logger/LogAssert.java,1,5.0,0,0,0.0,77,1820.4
+logger,/main/java/com/orhanobut/logger/AndroidLogAdapter.java,0,0.0,0,0,0.0,14,291.0
+logger,/main/java/com/orhanobut/logger/DiskLogAdapter.java,0,0.0,0,0,0.0,14,291.0
+logger,/main/java/com/orhanobut/logger/FormatStrategy.java,0,0.0,0,0,0.0,4,87.3
+logger,/main/java/com/orhanobut/logger/LogAdapter.java,0,0.0,0,0,0.0,2,29.1
+logger,/main/java/com/orhanobut/logger/LogcatLogStrategy.java,0,0.0,0,0,0.0,7,423.6
+logger,/main/java/com/orhanobut/logger/Logger.java,0,0.0,0,7min 30s,7.5,45,1143.0
+logger,/main/java/com/orhanobut/logger/LoggerPrinter.java,0,0.0,0,50min,50.0,61,1595.7
+logger,/main/java/com/orhanobut/logger/LogStrategy.java,0,0.0,0,0,0.0,2,29.1
+logger,/main/java/com/orhanobut/sample/MainActivity.java,0,0.0,0,15min,15.0,9,481.8
+logger,/main/java/com/orhanobut/logger/Printer.java,0,0.0,0,0,0.0,30,785.7

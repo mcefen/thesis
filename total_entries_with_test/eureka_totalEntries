@@ -1,0 +1,402 @@
+eureka,/test/java/com/netflix/discovery/converters/EurekaJsonAndXmlJacksonCodecTest.java,30,600.0,0,22min 30s,22.5,179,4140.3
+eureka,/main/java/com/netflix/discovery/DiscoveryClient.java,49,519.0,1,5h 50min,350.0,312,11425.5
+eureka,/test/java/com/netflix/discovery/converters/EurekaCodecCompatibilityTest.java,22,402.0,4,1h 12min,72.0,123,3959.4
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaHttpClientCompatibilityTestSuite.java,18,360.0,0,7min 30s,7.5,172,4023.9
+eureka,/main/java/com/netflix/eureka/registry/AbstractInstanceRegistry.java,31,288.0,1,6h 50min,410.0,207,8117.7
+eureka,/test/java/com/netflix/discovery/converters/CodecLoadTester.java,31,287.0,1,1h 40min,100.0,105,3615.0
+eureka,/main/java/com/netflix/appinfo/InstanceInfo.java,34,285.0,0,5h 5min,305.0,372,12927.6
+eureka,/test/java/com/netflix/discovery/DiscoveryClientRegistryTest.java,14,270.0,0,1h 37min,97.0,119,3503.4
+eureka,/main/java/com/netflix/discovery/converters/EurekaJacksonCodec.java,31,262.0,3,7h 17min,437.0,341,10845.0
+eureka,/test/java/com/netflix/discovery/converters/EurekaJacksonCodecTest.java,14,260.0,0,15min,15.0,96,4552.8
+eureka,/main/java/com/netflix/eureka/aws/EIPManager.java,18,244.0,2,1h 22min,82.0,53,2525.4
+eureka,/test/java/com/netflix/discovery/InstanceRegionCheckerTest.java,10,240.0,0,0,0.0,66,3073.5
+eureka,/main/java/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java,26,232.0,1,2h 35min,155.0,97,3843.0
+eureka,/main/java/com/netflix/eureka/registry/RemoteRegionRegistry.java,14,223.0,0,2h 55min,175.0,63,1828.5
+eureka,/test/java/com/netflix/discovery/MockRemoteEurekaServer.java,25,218.0,0,1h 22min,82.0,140,5786.4
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/EurekaJerseyClientImpl.java,10,209.0,0,42min 30s,42.5,171,5409.6
+eureka,/test/java/com/netflix/eureka/transport/Jersey2ReplicationClientTest.java,11,202.0,9,1h 35min,95.0,83,3194.7
+eureka,/test/java/com/netflix/eureka/cluster/JerseyReplicationClientTest.java,11,202.0,9,1h 35min,95.0,83,3194.7
+eureka,/test/java/com/netflix/eureka/cluster/PeerEurekaNodeTest.java,10,200.0,0,0,0.0,90,2373.3
+eureka,/test/java/com/netflix/eureka/cluster/ReplicationTaskProcessorTest.java,10,200.0,0,0,0.0,76,1870.5
+eureka,/test/java/com/netflix/eureka/resources/EurekaClientServerRestIntegrationTest.java,12,198.0,0,30min,30.0,113,3204.3
+eureka,/test/java/com/netflix/discovery/shared/ApplicationsTest.java,11,194.0,0,1h 22min,82.0,74,2093.7
+eureka,/test/java/com/netflix/eureka/util/batcher/AcceptorExecutorTest.java,10,190.0,0,0,0.0,62,1542.3
+eureka,/main/java/com/netflix/eureka/transport/JerseyReplicationClient.java,5,180.0,3,1h 2min,62.0,48,1180.2
+eureka,/test/java/com/netflix/discovery/shared/transport/EurekaHttpClientsTest.java,8,177.0,0,52min 30s,52.5,86,2622.3
+eureka,/main/java/com/netflix/eureka/ExampleServiceBase.java,23,175.0,0,0,0.0,31,1188.3
+eureka,/main/java/com/netflix/eureka/util/batcher/TaskExecutors.java,18,175.0,5,1h 17min,77.0,118,4565.7
+eureka,/test/java/com/netflix/discovery/DiscoveryClientRedirectTest.java,10,173.0,0,45min,45.0,70,2808.3
+eureka,/main/java/com/netflix/discovery/endpoint/EndpointUtils.java,18,166.0,0,2h,120.0,52,2218.2
+eureka,/test/java/com/netflix/eureka/util/batcher/TaskExecutorsTest.java,8,160.0,0,0,0.0,54,1367.7
+eureka,/test/java/com/netflix/discovery/DiscoveryClientRegisterUpdateTest.java,10,155.0,0,15min,15.0,91,4174.5
+eureka,/main/java/com/netflix/discovery/endpoint/DnsResolver.java,10,154.0,0,1h 40min,100.0,32,1312.8
+eureka,/main/java/com/netflix/discovery/converters/Converters.java,15,152.0,2,3h 5min,185.0,154,6518.7
+eureka,/main/java/com/netflix/eureka/aws/ElasticNetworkInterfaceBinder.java,10,152.0,1,45min,45.0,86,3377.4
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey2/EurekaJersey2ClientImpl.java,10,150.0,0,42min 30s,42.5,177,5584.2
+eureka,/test/java/com/netflix/discovery/shared/transport/decorator/RetryableEurekaHttpClientTest.java,11,147.0,0,22min 30s,22.5,108,3527.7
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/JerseyEurekaHttpClientFactory.java,4,145.0,0,1h 7min,67.0,98,3282.0
+eureka,/main/java/com/netflix/eureka/registry/ResponseCacheImpl.java,13,144.0,1,2h 47min,167.0,99,3631.2
+eureka,/main/java/com/netflix/discovery/converters/wrappers/CodecWrappers.java,2,140.0,9,4h 55min,295.0,297,6891.9
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java,4,136.0,0,2h 22min,142.0,97,2484.9
+eureka,/test/java/com/netflix/discovery/converters/EurekaJacksonCodecIntegrationTest.java,12,135.0,0,17min 30s,17.5,38,1898.1
+eureka,/main/java/com/netflix/discovery/shared/transport/SimpleEurekaHttpServer.java,9,129.0,5,3h 22min,202.0,103,3345.0
+eureka,/test/java/com/netflix/eureka/RateLimitingFilterTest.java,8,128.0,0,0,0.0,56,1923.9
+eureka,/main/java/com/netflix/eureka/cluster/DynamicGZIPContentEncodingFilter.java,2,125.0,0,10min,10.0,40,1400.1
+eureka,/test/java/com/netflix/eureka/resources/PeerReplicationResourceTest.java,7,125.0,0,0,0.0,67,1674.9
+eureka,/test/java/com/netflix/discovery/InstanceInfoReplicatorTest.java,11,124.0,0,7min 30s,7.5,47,1442.1
+eureka,/main/java/com/netflix/eureka/ExampleEurekaClient.java,13,120.0,0,15min,15.0,35,1503.6
+eureka,/main/java/com/netflix/eureka/cluster/PeerEurekaNode.java,6,120.0,0,1h 57min,117.0,66,1733.1
+eureka,/test/java/com/netflix/discovery/TimedSupervisorTaskTest.java,8,120.0,0,7min 30s,7.5,82,3070.2
+eureka,/main/java/com/netflix/eureka/aws/AwsAsgUtil.java,11,119.0,0,3h 4min,184.0,84,2169.6
+eureka,/main/java/com/netflix/appinfo/AmazonInfo.java,26,114.0,1,1h 8min,68.0,130,4279.5
+eureka,/main/java/com/netflix/eureka/EurekaInjectorCreator.java,6,113.0,0,17min 30s,17.5,12,789.0
+eureka,/test/java/com/netflix/discovery/DiscoveryClientEventBusTest.java,6,111.0,0,15min,15.0,36,1026.6
+eureka,/main/java/com/netflix/discovery/util/EurekaEntityComparators.java,18,101.0,0,1M/d 6h,840.0,125,6404.1
+eureka,/main/java/com/netflix/appinfo/PropertyBasedInstanceConfigConstants.java,4,100.0,0,0,0.0,31,843.9
+eureka,/main/java/com/netflix/eureka/aws/Route53Binder.java,7,100.0,0,2h 22min,142.0,116,3403.2
+eureka,/test/java/com/netflix/eureka/DefaultEurekaServerConfigTest.java,6,96.0,0,0,0.0,38,1956.3
+eureka,/test/java/com/netflix/eureka/cluster/TestableHttpReplicationClient.java,13,95.0,0,15min,15.0,138,2830.8
+eureka,/test/java/com/netflix/discovery/EurekaEventListenerTest.java,4,90.0,0,7min 30s,7.5,43,1392.0
+eureka,/main/java/com/netflix/eureka/util/batcher/AcceptorExecutor.java,13,86.0,0,1h,60.0,126,5649.0
+eureka,/main/java/com/netflix/appinfo/ApplicationInfoManager.java,7,86.0,0,27min 30s,27.5,77,2223.0
+eureka,/main/java/com/netflix/eureka/resources/InstanceResource.java,5,85.0,0,3h 52min,232.0,21,465.6
+eureka,/test/java/com/netflix/eureka/util/batcher/TaskDispatchersTest.java,6,85.0,0,7min 30s,7.5,68,1944.9
+eureka,/main/java/com/netflix/discovery/util/ThresholdLevelsMetric.java,9,85.0,0,7min 30s,7.5,30,1262.7
+eureka,/test/java/com/netflix/eureka/mock/MockRemoteEurekaServer.java,7,81.0,0,42min 30s,42.5,89,2784.0
+eureka,/main/java/com/netflix/appinfo/RefreshableAmazonInfoProvider.java,5,81.0,0,1h 5min,65.0,36,814.8
+eureka,/test/java/com/netflix/discovery/provider/DiscoveryJerseyProviderTest.java,4,80.0,0,7min 30s,7.5,39,931.2
+eureka,/test/java/com/netflix/discovery/EurekaClientLifecycleTest.java,7,80.0,0,52min 30s,52.5,110,4216.5
+eureka,/main/java/com/netflix/discovery/EurekaIdentityHeaderFilter.java,1,80.0,0,0,0.0,12,261.9
+eureka,/test/java/com/netflix/appinfo/InstanceInfoTest.java,5,80.0,0,22min 30s,22.5,59,2151.9
+eureka,/test/java/com/netflix/eureka/cluster/protocol/JacksonEncodingTest.java,4,80.0,0,0,0.0,24,640.2
+eureka,/main/java/com/netflix/eureka/transport/Jersey2ReplicationClient.java,4,80.0,3,1h 2min,62.0,42,1034.7
+eureka,/test/java/com/netflix/discovery/converters/XmlXStreamTest.java,4,80.0,0,0,0.0,32,1063.8
+eureka,/test/java/com/netflix/discovery/shared/resolver/aws/ZoneAffinityClusterResolverTest.java,5,76.0,0,0,0.0,31,947.4
+eureka,/test/java/com/netflix/discovery/shared/transport/decorator/RedirectingEurekaHttpClientTest.java,6,75.0,0,7min 30s,7.5,33,1246.5
+eureka,/test/java/com/netflix/eureka/resources/ReplicationConcurrencyTest.java,6,75.0,0,37min 30s,37.5,52,2085.6
+eureka,/test/java/com/netflix/discovery/BackUpRegistryTest.java,7,70.0,0,32min 30s,32.5,98,2929.5
+eureka,/test/java/com/netflix/discovery/DiscoveryClientDisableRegistryTest.java,6,70.0,0,0,0.0,22,714.6
+eureka,/main/java/com/netflix/eureka/util/batcher/TaskDispatchers.java,4,70.0,4,35min,35.0,13,510.9
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey2/AbstractJersey2EurekaHttpClient.java,5,69.0,0,2h 22min,142.0,107,3062.1
+eureka,/main/java/com/netflix/eureka/EurekaBootStrap.java,5,67.0,0,7min 30s,7.5,60,2193.9
+eureka,/test/java/com/netflix/eureka/AbstractTester.java,12,66.0,1,1h 2min,62.0,132,4353.9
+eureka,/test/java/com/netflix/discovery/DiscoveryClientHealthTest.java,5,66.0,0,22min 30s,22.5,101,2572.2
+eureka,/test/java/com/netflix/eureka/util/AwsAsgUtilTest.java,9,65.0,0,17min 30s,17.5,33,968.4
+eureka,/main/java/com/netflix/eureka/cluster/ReplicationTask.java,4,65.0,0,0,0.0,26,611.1
+eureka,/main/java/com/netflix/discovery/AbstractAzToRegionMapper.java,7,63.0,0,27min 30s,27.5,25,706.5
+eureka,/main/java/com/netflix/appinfo/CloudInstanceConfig.java,4,60.0,3,25min,25.0,50,1662.0
+eureka,/main/java/com/netflix/discovery/util/DiagnosticClient.java,8,60.0,0,15min,15.0,15,847.2
+eureka,/test/java/com/netflix/discovery/converters/JsonXStreamTest.java,3,60.0,0,0,0.0,27,918.3
+eureka,/test/java/com/netflix/eureka/cluster/PeerEurekaNodesTest.java,3,60.0,0,17min 30s,17.5,61,1733.1
+eureka,/main/java/com/netflix/appinfo/PropertyBasedAmazonInfoConfigConstants.java,2,60.0,0,0,0.0,13,320.1
+eureka,/main/java/com/netflix/discovery/PropertyBasedClientConfigConstants.java,3,60.0,0,0,0.0,58,1629.6
+eureka,/main/java/com/netflix/discovery/shared/transport/PropertyBasedTransportConfigConstants.java,2,60.0,0,0,0.0,22,582.0
+eureka,/test/java/com/netflix/discovery/shared/resolver/ReloadingClusterResolverTest.java,3,60.0,0,10min,10.0,38,1400.1
+eureka,/main/java/com/netflix/eureka/cluster/ReplicationTaskProcessor.java,3,60.0,0,2h 42min,162.0,49,1537.5
+eureka,/test/java/com/netflix/discovery/shared/resolver/ResolverUtilsTest.java,3,60.0,0,0,0.0,28,918.3
+eureka,/main/java/com/netflix/eureka/ExampleEurekaGovernatedService.java,6,55.0,0,0,0.0,31,1320.9
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/Jersey1TransportClientFactories.java,3,55.0,6,20min,20.0,28,955.5
+eureka,/main/java/com/netflix/eureka/cluster/PeerEurekaNodes.java,6,55.0,0,55min,55.0,53,2093.7
+eureka,/test/java/com/netflix/discovery/converters/jackson/builder/StringInterningAmazonInfoBuilderTest.java,5,54.0,0,0,0.0,72,2442.9
+eureka,/main/java/com/netflix/discovery/provider/DiscoveryJerseyProvider.java,3,50.0,0,1h 20min,80.0,64,1396.8
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaHttpClients.java,2,50.0,4,1h 32min,92.0,49,1267.5
+eureka,/test/java/com/netflix/discovery/shared/resolver/StaticClusterResolverTest.java,4,50.0,0,7min 30s,7.5,15,722.7
+eureka,/test/java/com/netflix/discovery/converters/StringCacheTest.java,3,50.0,0,7min 30s,7.5,14,751.8
+eureka,/test/java/com/netflix/eureka/registry/TimeConsumingInstanceRegistryTest.java,5,50.0,0,15min,15.0,11,481.8
+eureka,/main/java/com/netflix/discovery/util/ApplicationFunctions.java,8,48.0,3,30min,30.0,52,1969.2
+eureka,/main/java/com/netflix/discovery/shared/Applications.java,14,48.0,0,7min 30s,7.5,76,2297.4
+eureka,/test/java/com/netflix/discovery/guice/Ec2EurekaClientModuleTest.java,3,48.0,0,22min 30s,22.5,21,897.3
+eureka,/test/java/com/netflix/discovery/guice/NonEc2EurekaClientModuleTest.java,3,48.0,0,15min,15.0,22,897.3
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/ApacheHttpClientConnectionCleaner.java,3,45.0,0,0,0.0,20,685.5
+eureka,/test/java/com/netflix/discovery/providers/DefaultEurekaClientConfigProviderTest.java,3,45.0,0,7min 30s,7.5,23,648.3
+eureka,/main/java/com/netflix/appinfo/Ec2EurekaArchaius2InstanceConfig.java,3,45.0,3,25min,25.0,41,1582.8
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/JerseyApplicationClient.java,2,45.0,0,0,0.0,10,174.6
+eureka,/main/java/com/netflix/eureka/resources/PeerReplicationResource.java,3,45.0,1,40min,40.0,62,1595.7
+eureka,/main/java/com/netflix/discovery/converters/jackson/builder/StringInterningAmazonInfoBuilder.java,4,45.0,0,45min,45.0,53,1500.3
+eureka,/main/java/com/netflix/eureka/DefaultEurekaServerConfig.java,5,44.0,0,1h 47min,107.0,252,5690.7
+eureka,/main/java/com/netflix/eureka/GzipEncodingEnforcingFilter.java,6,43.0,0,57min 30s,57.5,37,1005.6
+eureka,/main/java/com/netflix/discovery/junit/resource/DiscoveryClientResource.java,4,42.0,0,1h 2min,62.0,177,5451.6
+eureka,/test/java/com/netflix/eureka/test/async/executor/AsyncSequentialExecutor.java,5,41.0,0,0,0.0,13,847.2
+eureka,/main/java/com/netflix/eureka/resources/ASGResource.java,2,40.0,0,30min,30.0,20,465.6
+eureka,/main/java/com/netflix/eureka/aws/AwsBinder.java,2,40.0,0,0,0.0,7,203.7
+eureka,/main/java/com/netflix/eureka/aws/AwsBinderDelegate.java,2,40.0,0,0,0.0,18,876.3
+eureka,/main/java/com/netflix/discovery/util/DiscoveryBuildInfo.java,2,40.0,0,30min,30.0,30,669.3
+eureka,/main/java/com/netflix/discovery/DiscoveryManager.java,3,40.0,0,0,0.0,36,1122.0
+eureka,/main/java/com/netflix/discovery/EurekaClient.java,4,40.0,0,0,0.0,5,240.9
+eureka,/test/java/com/netflix/discovery/guice/EurekaModuleTest.java,2,40.0,4,17min 30s,17.5,21,868.2
+eureka,/main/java/com/netflix/eureka/EurekaServerContext.java,2,40.0,0,0,0.0,18,465.6
+eureka,/test/java/com/netflix/discovery/guice/Jersey2EurekaModuleTest.java,2,40.0,4,25min,25.0,21,868.2
+eureka,/main/java/com/netflix/eureka/transport/JerseyRemoteRegionClientFactory.java,1,40.0,0,17min 30s,17.5,28,552.9
+eureka,/main/java/com/netflix/discovery/shared/transport/decorator/ServerStatusEvaluators.java,4,40.0,0,1h,60.0,10,606.3
+eureka,/test/java/com/netflix/discovery/shared/transport/jersey/UnexpectedContentTypeTest.java,2,40.0,0,15min,15.0,27,860.1
+eureka,/main/java/com/netflix/discovery/util/EurekaEntityFunctions.java,6,37.0,3,1h 45min,105.0,140,5076.6
+eureka,/main/java/com/netflix/discovery/util/DeserializerStringCache.java,8,36.0,0,1h 23min,83.0,198,5572.8
+eureka,/main/java/com/netflix/discovery/shared/transport/decorator/MetricsCollectingEurekaHttpClient.java,9,33.0,6,2h,120.0,81,2413.8
+eureka,/main/java/com/netflix/discovery/internal/util/Archaius1Utils.java,2,32.0,0,0,0.0,13,598.2
+eureka,/main/java/com/netflix/discovery/internal/util/AmazonInfoUtils.java,2,30.0,0,10min,10.0,12,693.6
+eureka,/main/java/com/netflix/discovery/CommonConstants.java,1,30.0,0,7min 30s,7.5,2,58.2
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaClientFactoryBuilder.java,4,30.0,0,7min 30s,7.5,116,2984.4
+eureka,/main/java/com/netflix/discovery/util/EurekaUtils.java,1,30.0,0,20min,20.0,10,510.9
+eureka,/main/java/com/netflix/eureka/Names.java,1,30.0,0,7min 30s,7.5,2,58.2
+eureka,/main/java/com/netflix/discovery/util/SystemUtil.java,3,30.0,0,10min,10.0,12,664.5
+eureka,/test/java/com/netflix/eureka/registry/InstanceRegistryTest.java,7,28.0,0,37min 30s,37.5,100,3556.8
+eureka,/main/java/com/netflix/discovery/InstanceInfoReplicator.java,4,26.0,0,37min 30s,37.5,35,881.1
+eureka,/test/java/com/netflix/appinfo/CloudInstanceConfigTest.java,2,25.0,5,27min 30s,27.5,21,714.6
+eureka,/test/java/com/netflix/eureka/test/async/executor/ConcreteAsyncResult.java,3,25.0,0,10min,10.0,37,1026.6
+eureka,/test/java/com/netflix/appinfo/Ec2EurekaArchaius2InstanceConfigTest.java,2,25.0,5,27min 30s,27.5,21,619.2
+eureka,/main/java/com/netflix/discovery/util/EurekaEntityTransformers.java,5,25.0,4,1h 10min,70.0,21,897.3
+eureka,/main/java/com/netflix/discovery/shared/Application.java,7,24.0,0,35min,35.0,40,1005.6
+eureka,/test/java/com/netflix/eureka/aws/EIPManagerTest.java,10,24.0,0,0,0.0,25,1329.0
+eureka,/main/java/com/netflix/discovery/shared/transport/decorator/EurekaHttpClientDecorator.java,12,24.0,0,7min 30s,7.5,98,3941.7
+eureka,/main/java/com/netflix/eureka/DefaultEurekaServerContext.java,2,22.0,0,0,0.0,29,793.8
+eureka,/main/java/com/netflix/eureka/util/StatusUtil.java,2,22.0,0,20min,20.0,22,772.8
+eureka,/test/java/com/netflix/appinfo/AmazonInfoTest.java,1,20.0,0,0,0.0,13,664.5
+eureka,/main/java/com/netflix/discovery/converters/jackson/serializer/ApplicationsJsonBeanSerializer.java,1,20.0,3,20min,20.0,16,531.9
+eureka,/main/java/com/netflix/discovery/converters/jackson/serializer/ApplicationsXmlBeanSerializer.java,1,20.0,3,20min,20.0,16,531.9
+eureka,/test/java/com/netflix/discovery/util/DiscoveryBuildInfoTest.java,1,20.0,0,0,0.0,11,510.9
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/EurekaJerseyClient.java,1,20.0,0,0,0.0,3,58.2
+eureka,/main/java/com/netflix/eureka/ExampleEurekaService.java,1,20.0,0,0,0.0,24,1175.4
+eureka,/main/java/com/netflix/appinfo/HealthCheckResource.java,1,20.0,4,1h 30min,90.0,9,510.9
+eureka,/test/java/com/netflix/discovery/util/InstanceInfoGeneratorTest.java,1,20.0,0,0,0.0,11,510.9
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/Jersey1DiscoveryClientOptionalArgs.java,1,20.0,0,0,0.0,2,307.2
+eureka,/main/java/com/netflix/discovery/converters/JsonXStream.java,1,20.0,0,10min,10.0,16,569.1
+eureka,/main/java/com/netflix/eureka/util/MeasuredRate.java,1,20.0,0,0,0.0,13,320.1
+eureka,/main/java/com/netflix/eureka/RateLimitingFilter.java,7,20.0,0,50min,50.0,54,1251.3
+eureka,/main/java/com/netflix/discovery/shared/resolver/ReloadingClusterResolver.java,1,20.0,0,20min,20.0,38,1275.6
+eureka,/main/java/com/netflix/eureka/resources/ServerInfoResource.java,1,20.0,0,0,0.0,13,291.0
+eureka,/test/java/com/netflix/discovery/shared/transport/decorator/SessionedEurekaHttpClientTest.java,1,20.0,0,0,0.0,15,627.3
+eureka,/main/java/com/netflix/discovery/TimedSupervisorTask.java,1,20.0,0,22min 30s,22.5,25,764.7
+eureka,/main/java/com/netflix/discovery/converters/XmlXStream.java,1,20.0,0,10min,10.0,16,569.1
+eureka,/test/java/com/netflix/eureka/registry/ResponseCacheTest.java,2,18.0,0,7min 30s,7.5,32,1188.3
+eureka,/main/java/com/netflix/discovery/shared/resolver/DefaultEndpoint.java,3,17.0,0,1h 42min,102.0,55,1317.6
+eureka,/main/java/com/netflix/discovery/shared/MonitoredConnectionManager.java,4,17.0,0,10min,10.0,38,1151.1
+eureka,/main/java/com/netflix/discovery/shared/resolver/aws/ApplicationsResolver.java,2,15.0,0,0,0.0,27,735.6
+eureka,/main/java/com/netflix/discovery/EurekaArchaius2ClientConfig.java,2,15.0,0,15min,15.0,163,3267.3
+eureka,/main/java/com/netflix/discovery/EurekaClientConfig.java,2,15.0,0,0,0.0,20,116.4
+eureka,/main/java/com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider.java,1,15.0,0,15min,15.0,16,656.4
+eureka,/main/java/com/netflix/eureka/EurekaServerConfig.java,2,15.0,0,0,0.0,15,436.5
+eureka,/main/java/com/netflix/eureka/registry/InstanceRegistry.java,2,15.0,0,0,0.0,38,1047.6
+eureka,/test/java/com/netflix/eureka/resources/InstanceResourceTest.java,2,15.0,0,0,0.0,42,1018.5
+eureka,/main/java/com/netflix/discovery/internal/util/InternalPrefixedConfig.java,2,15.0,0,0,0.0,36,822.9
+eureka,/main/java/com/netflix/discovery/util/RateLimiter.java,3,15.0,0,40min,40.0,28,793.8
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/TransportClientFactories.java,2,15.0,0,0,0.0,11,320.1
+eureka,/main/java/com/netflix/discovery/util/InstanceInfoGenerator.java,3,14.0,0,30min,30.0,134,3146.1
+eureka,/test/java/com/netflix/discovery/shared/resolver/aws/SampleCluster.java,4,14.0,0,0,0.0,54,2064.6
+eureka,/main/java/com/netflix/appinfo/AbstractInstanceConfig.java,7,12.0,0,47min 30s,47.5,58,1820.4
+eureka,/main/java/com/netflix/discovery/shared/transport/decorator/RetryableEurekaHttpClient.java,1,12.0,0,40min,40.0,43,1487.4
+eureka,/main/java/com/netflix/discovery/DefaultEurekaClientConfig.java,2,11.0,0,25min,25.0,129,3092.7
+eureka,/main/java/com/netflix/discovery/shared/resolver/AsyncResolver.java,2,10.0,0,32min 30s,32.5,41,1267.5
+eureka,/main/java/com/netflix/discovery/converters/EnumLookup.java,2,10.0,0,1h 11min,71.0,49,1105.8
+eureka,/main/java/com/netflix/discovery/shared/resolver/EurekaEndpoint.java,1,10.0,0,0,0.0,14,378.3
+eureka,/main/java/com/netflix/appinfo/HealthCheckCallback.java,1,10.0,0,0,0.0,null,null
+eureka,/main/java/com/netflix/discovery/InternalEurekaStatusModule.java,1,10.0,4,20min,20.0,27,1358.1
+eureka,/main/java/com/netflix/discovery/shared/resolver/LegacyClusterResolver.java,2,10.0,0,10min,10.0,40,997.5
+eureka,/main/java/com/netflix/eureka/cluster/protocol/ReplicationList.java,1,10.0,0,22min,22.0,24,590.1
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey/SSLSocketFactoryAdapter.java,2,10.0,0,7min 30s,7.5,117,2984.4
+eureka,/main/java/com/netflix/eureka/util/batcher/TaskDispatcher.java,1,10.0,0,0,0.0,4,87.3
+eureka,/main/java/com/netflix/eureka/util/batcher/TaskHolder.java,1,10.0,0,0,0.0,15,407.4
+eureka,/main/java/com/netflix/eureka/resources/ApplicationResource.java,1,9.0,0,2h 22min,142.0,27,889.2
+eureka,/main/java/com/netflix/eureka/util/StatusInfo.java,4,9.0,0,10min,10.0,61,2392.8
+eureka,/test/java/com/netflix/eureka/resources/ApplicationResourceTest.java,1,8.0,0,22min 30s,22.5,62,1923.9
+eureka,/test/java/com/netflix/discovery/shared/resolver/aws/ConfigClusterResolverTest.java,1,8.0,0,0,0.0,24,772.8
+eureka,/main/java/com/netflix/eureka/lease/Lease.java,4,8.0,0,7min 30s,7.5,25,582.0
+eureka,/main/java/com/netflix/eureka/util/batcher/TaskProcessor.java,4,8.0,0,0,0.0,5,145.5
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaHttpResponse.java,3,7.0,0,0,0.0,77,1687.8
+eureka,/main/java/com/netflix/eureka/registry/Key.java,2,7.0,0,27min 30s,27.5,60,1463.1
+eureka,/main/java/com/netflix/appinfo/DataCenterInfo.java,3,6.0,0,0,0.0,6,116.4
+eureka,/test/java/com/netflix/eureka/cluster/TestableInstanceReplicationTask.java,3,6.0,0,15min,15.0,65,1309.5
+eureka,/main/java/com/netflix/appinfo/Archaius2AmazonInfoConfig.java,1,5.0,0,0,0.0,29,611.1
+eureka,/main/java/com/netflix/discovery/shared/transport/ClusterSampleData.java,1,5.0,6,2h 5min,125.0,32,1130.1
+eureka,/test/java/com/netflix/discovery/converters/wrappers/CodecWrappersTest.java,1,5.0,0,7min 30s,7.5,45,1611.9
+eureka,/main/java/com/netflix/discovery/shared/resolver/aws/ConfigClusterResolver.java,1,5.0,0,20min,20.0,27,889.2
+eureka,/main/java/com/netflix/discovery/shared/transport/DefaultEurekaTransportConfig.java,1,5.0,0,0,0.0,45,785.7
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaArchaius2TransportConfig.java,1,5.0,0,0,0.0,46,902.1
+eureka,/main/java/com/netflix/discovery/guice/EurekaClientModule.java,1,5.0,0,0,0.0,22,714.6
+eureka,/test/java/com/netflix/discovery/shared/resolver/aws/EurekaHttpResolverTest.java,1,5.0,0,7min 30s,7.5,34,727.5
+eureka,/main/java/com/netflix/eureka/resources/EurekaServerContextBinder.java,1,5.0,0,0,0.0,20,934.5
+eureka,/main/java/com/netflix/eureka/registry/rule/FirstMatchWinsCompositeRule.java,1,5.0,0,10min,10.0,14,349.2
+eureka,/main/java/com/netflix/eureka/transport/Jersey2DynamicGZIPContentEncodingFilter.java,1,5.0,0,7min 30s,7.5,30,669.3
+eureka,/main/java/com/netflix/discovery/shared/LookupService.java,1,5.0,0,0,0.0,3,58.2
+eureka,/test/java/com/netflix/eureka/util/batcher/RecordingProcessor.java,1,5.0,1,10min,10.0,43,1113.9
+eureka,/main/java/com/netflix/eureka/ServerRequestAuthFilter.java,1,5.0,0,7min 30s,7.5,30,727.5
+eureka,/main/java/com/netflix/discovery/util/ServoUtil.java,1,5.0,0,10min,10.0,23,1021.8
+eureka,/main/java/com/netflix/eureka/StatusFilter.java,2,5.0,0,10min,10.0,15,685.5
+eureka,/main/java/com/netflix/eureka/resources/StatusResource.java,1,5.0,0,0,0.0,20,714.6
+eureka,/main/java/com/netflix/appinfo/EurekaAccept.java,2,4.0,0,45min,45.0,16,473.7
+eureka,/main/java/com/netflix/eureka/registry/PeerAwareInstanceRegistry.java,2,4.0,0,0,0.0,12,291.0
+eureka,/main/java/com/netflix/appinfo/PropertiesInstanceConfig.java,2,3.0,0,55min,55.0,76,1716.9
+eureka,/test/java/com/netflix/eureka/resources/AbstractVIPResourceTest.java,1,2.0,0,22min 30s,22.5,33,1005.6
+eureka,/main/java/com/netflix/discovery/shared/resolver/aws/AwsEndpoint.java,1,2.0,0,1h 27min,87.0,29,640.2
+eureka,/main/java/com/netflix/appinfo/EurekaClientIdentity.java,1,2.0,0,7min 30s,7.5,20,465.6
+eureka,/main/java/com/netflix/eureka/transport/EurekaServerHttpClients.java,1,2.0,2,27min 30s,27.5,20,934.5
+eureka,/main/java/com/netflix/eureka/EurekaServerIdentity.java,1,2.0,0,7min 30s,7.5,16,378.3
+eureka,/main/java/com/netflix/discovery/EurekaUpStatusResolver.java,1,2.0,0,0,0.0,20,465.6
+eureka,/main/java/com/netflix/discovery/util/ExceptionsMetric.java,1,2.0,0,0,0.0,23,619.2
+eureka,/main/java/com/netflix/eureka/Jersey2EurekaBootStrap.java,1,2.0,0,0,0.0,11,481.8
+eureka,/main/java/com/netflix/discovery/PreRegistrationHandler.java,1,2.0,0,0,0.0,3,58.2
+eureka,/main/java/com/netflix/eureka/cluster/protocol/ReplicationInstanceResponse.java,1,2.0,0,44min,44.0,37,968.4
+eureka,/main/java/com/netflix/eureka/registry/rule/StatusOverrideResult.java,3,2.0,0,7min 30s,7.5,21,561.0
+eureka,/test/java/com/netflix/discovery/MockBackupRegistry.java,1,1.0,0,10min,10.0,17,436.5
+eureka,/main/java/com/netflix/discovery/PropertyBasedAzToRegionMapper.java,1,1.0,0,0,0.0,10,452.7
+eureka,/main/java/com/netflix/eureka/cluster/protocol/ReplicationListResponse.java,1,1.0,0,22min,22.0,21,590.1
+eureka,/main/java/com/netflix/discovery/shared/resolver/StaticClusterResolver.java,1,1.0,0,0,0.0,23,465.6
+eureka,/main/java/com/netflix/discovery/util/StringCache.java,1,1.0,0,47min 30s,47.5,23,648.3
+eureka,/main/java/com/netflix/discovery/AbstractDiscoveryClientOptionalArgs.java,0,0.0,0,7min 30s,7.5,55,1704.0
+eureka,/test/java/com/netflix/discovery/AbstractDiscoveryClientTester.java,0,0.0,0,0,0.0,13,569.1
+eureka,/main/java/com/netflix/appinfo/AbstractEurekaIdentity.java,0,0.0,0,7min 30s,7.5,14,502.8
+eureka,/main/java/com/netflix/discovery/converters/jackson/AbstractEurekaJacksonCodec.java,0,0.0,0,10min,10.0,22,772.8
+eureka,/test/java/com/netflix/discovery/shared/transport/jersey2/AbstractJersey2EurekaHttpClientTest.java,0,0.0,0,0,0.0,15,320.1
+eureka,/main/java/com/netflix/eureka/resources/AbstractVIPResource.java,0,0.0,0,37min 30s,37.5,17,531.9
+eureka,/main/java/com/netflix/eureka/registry/rule/AlwaysMatchInstanceStatusRule.java,0,0.0,0,0,0.0,13,569.1
+eureka,/main/java/com/netflix/appinfo/AmazonInfoConfig.java,0,0.0,0,0,0.0,null,null
+eureka,/test/java/com/netflix/appinfo/ApplicationInfoManagerTest.java,0,0.0,0,15min,15.0,35,1196.4
+eureka,/main/java/com/netflix/discovery/converters/jackson/builder/ApplicationsJacksonBuilder.java,0,0.0,0,20min,20.0,23,677.4
+eureka,/main/java/com/netflix/discovery/converters/jackson/mixin/ApplicationsJsonMixIn.java,0,0.0,0,0,0.0,3,336.3
+eureka,/test/java/com/netflix/discovery/shared/resolver/aws/ApplicationsResolverTest.java,0,0.0,0,0,0.0,23,582.0
+eureka,/main/java/com/netflix/eureka/resources/ApplicationsResource.java,0,0.0,0,1h,60.0,24,860.1
+eureka,/test/java/com/netflix/eureka/resources/ApplicationsResourceTest.java,0,0.0,0,15min,15.0,37,1084.8
+eureka,/main/java/com/netflix/discovery/converters/jackson/builder/ApplicationsXmlJacksonBuilder.java,0,0.0,0,0,0.0,7,423.6
+eureka,/main/java/com/netflix/discovery/converters/jackson/mixin/ApplicationsXmlMixIn.java,0,0.0,0,0,0.0,3,87.3
+eureka,/main/java/com/netflix/discovery/converters/jackson/serializer/ApplicationXmlDeserializer.java,0,0.0,0,0,0.0,17,780.9
+eureka,/main/java/com/netflix/discovery/converters/jackson/mixin/ApplicationXmlMixIn.java,0,0.0,0,0,0.0,3,87.3
+eureka,/main/java/com/netflix/appinfo/Archaius1AmazonInfoConfig.java,0,0.0,0,0,0.0,25,523.8
+eureka,/main/java/com/netflix/appinfo/providers/Archaius1VipAddressResolver.java,0,0.0,3,20min,20.0,15,1000.8
+eureka,/main/java/com/netflix/appinfo/providers/Archaius2VipAddressResolver.java,0,0.0,3,20min,20.0,18,810.0
+eureka,/main/java/com/netflix/eureka/aws/AsgClient.java,0,0.0,0,0,0.0,7,203.7
+eureka,/main/java/com/netflix/eureka/registry/rule/AsgEnabledRule.java,0,0.0,0,20min,20.0,16,502.8
+eureka,/main/java/com/netflix/eureka/cluster/AsgReplicationTask.java,0,0.0,0,0,0.0,12,291.0
+eureka,/test/java/com/netflix/eureka/test/async/executor/AsyncExecutorException.java,0,0.0,0,0,0.0,21,714.6
+eureka,/test/java/com/netflix/discovery/shared/resolver/AsyncResolverTest.java,0,0.0,0,7min 30s,7.5,19,465.6
+eureka,/test/java/com/netflix/eureka/test/async/executor/AsyncResult.java,0,0.0,0,0,0.0,4,116.4
+eureka,/main/java/com/netflix/discovery/converters/Auto.java,0,0.0,0,0,0.0,null,null
+eureka,/main/java/com/netflix/eureka/aws/AwsBindingStrategy.java,0,0.0,0,0,0.0,3,58.2
+eureka,/main/java/com/netflix/eureka/registry/AwsInstanceRegistry.java,0,0.0,0,7min 30s,7.5,18,590.1
+eureka,/test/java/com/netflix/eureka/registry/AwsInstanceRegistryTest.java,1,0.0,0,22min 30s,22.5,45,1831.8
+eureka,/main/java/com/netflix/discovery/AzToRegionMapper.java,0,0.0,0,0,0.0,null,null
+eureka,/test/java/com/netflix/eureka/test/async/executor/Backoff.java,0,0.0,0,0,0.0,3,87.3
+eureka,/main/java/com/netflix/discovery/BackupRegistry.java,0,0.0,0,0,0.0,5,145.5
+eureka,/test/java/com/netflix/discovery/BaseDiscoveryClientTester.java,1,0.0,1,17min 30s,17.5,83,2829.3
+eureka,/main/java/com/netflix/discovery/CacheRefreshedEvent.java,0,0.0,0,0,0.0,5,365.4
+eureka,/main/java/com/netflix/discovery/shared/resolver/ClosableResolver.java,0,0.0,0,0,0.0,2,29.1
+eureka,/main/java/com/netflix/appinfo/providers/CloudInstanceConfigProvider.java,1,0.0,0,10min,10.0,10,664.5
+eureka,/main/java/com/netflix/discovery/shared/resolver/ClusterResolver.java,0,0.0,0,0,0.0,6,116.4
+eureka,/main/java/com/netflix/discovery/shared/resolver/ClusterResolverException.java,0,0.0,0,0,0.0,7,270.0
+eureka,/main/java/com/netflix/discovery/shared/resolver/ClusterResolverFactory.java,0,0.0,0,0,0.0,2,58.2
+eureka,/main/java/com/netflix/discovery/converters/wrappers/CodecWrapper.java,0,0.0,0,0,0.0,null,null
+eureka,/main/java/com/netflix/discovery/converters/wrappers/CodecWrapperBase.java,0,0.0,0,0,0.0,7,145.5
+eureka,/main/java/com/netflix/appinfo/providers/CompositeInstanceConfigFactory.java,1,0.0,0,1h,60.0,32,1005.6
+eureka,/main/java/com/netflix/eureka/resources/CurrentRequestVersion.java,0,0.0,0,0,0.0,7,116.4
+eureka,/main/java/com/netflix/discovery/converters/jackson/mixin/DataCenterInfoXmlMixIn.java,0,0.0,0,0,0.0,null,null
+eureka,/main/java/com/netflix/discovery/converters/jackson/DataCenterTypeInfoResolver.java,0,0.0,0,27min 30s,27.5,19,436.5
+eureka,/main/java/com/netflix/discovery/converters/wrappers/DecoderWrapper.java,0,0.0,0,0,0.0,12,291.0
+eureka,/main/java/com/netflix/discovery/providers/DefaultEurekaClientConfigProvider.java,1,0.0,0,0,0.0,10,664.5
+eureka,/main/java/com/netflix/eureka/resources/DefaultServerCodecs.java,0,0.0,4,1h 20min,80.0,91,1928.7
+eureka,/test/java/com/netflix/discovery/util/DeserializerStringCacheTest.java,0,0.0,0,17min 30s,17.5,20,685.5
+eureka,/test/java/com/netflix/discovery/DiscoveryClientCloseJerseyThreadTest.java,0,0.0,0,10min,10.0,17,685.5
+eureka,/main/java/com/netflix/discovery/DiscoveryEvent.java,0,0.0,0,0,0.0,4,87.3
+eureka,/main/java/com/netflix/discovery/DNSBasedAzToRegionMapper.java,0,0.0,0,10min,10.0,9,452.7
+eureka,/main/java/com/netflix/discovery/shared/resolver/DnsClusterResolver.java,0,0.0,0,7min 30s,7.5,12,291.0
+eureka,/main/java/com/netflix/discovery/shared/dns/DnsService.java,0,0.0,0,0,0.0,3,87.3
+eureka,/main/java/com/netflix/discovery/shared/dns/DnsServiceImpl.java,0,0.0,0,0,0.0,10,481.8
+eureka,/main/java/com/netflix/discovery/shared/resolver/aws/DnsTxtRecordClusterResolver.java,0,0.0,0,25min,25.0,30,822.9
+eureka,/main/java/com/netflix/eureka/registry/rule/DownOrStartingRule.java,0,0.0,0,10min,10.0,13,722.7
+eureka,/main/java/com/netflix/eureka/guice/Ec2EurekaServerModule.java,1,0.0,0,7min 30s,7.5,15,598.2
+eureka,/main/java/com/netflix/discovery/converters/wrappers/EncoderWrapper.java,0,0.0,0,0,0.0,11,261.9
+eureka,/main/java/com/netflix/discovery/shared/resolver/EndpointRandomizer.java,0,0.0,0,0,0.0,5,145.5
+eureka,/main/java/com/netflix/discovery/converters/EntityBodyConverter.java,0,0.0,0,20min,20.0,19,772.8
+eureka,/test/java/com/netflix/discovery/converters/EnumLookupTest.java,0,0.0,0,0,0.0,17,598.2
+eureka,/main/java/com/netflix/appinfo/EurekaArchaius2InstanceConfig.java,0,0.0,0,7min 30s,7.5,98,2256.9
+eureka,/test/java/com/netflix/discovery/guice/EurekaClientModuleConfigurationTest.java,0,0.0,0,7min 30s,7.5,5,336.3
+eureka,/main/java/com/netflix/discovery/EurekaClientNames.java,0,0.0,0,7min 30s,7.5,12,444.6
+eureka,/main/java/com/netflix/eureka/EurekaContextListener.java,0,0.0,0,0,0.0,15,407.4
+eureka,/test/java/com/netflix/discovery/util/EurekaEntityFunctionsTest.java,0,0.0,0,7min 30s,7.5,84,2119.5
+eureka,/main/java/com/netflix/discovery/EurekaEvent.java,0,0.0,0,0,0.0,1,29.1
+eureka,/main/java/com/netflix/discovery/EurekaEventListener.java,0,0.0,0,0,0.0,2,58.2
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaHttpClient.java,0,0.0,0,0,0.0,50,1076.7
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaHttpClientFactory.java,0,0.0,0,0,0.0,4,87.3
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaHttpRequest.java,0,0.0,0,0,0.0,14,378.3
+eureka,/main/java/com/netflix/discovery/shared/resolver/aws/EurekaHttpResolver.java,0,0.0,0,27min 30s,27.5,27,889.2
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey2/EurekaIdentityHeaderFilter.java,0,0.0,3,10min,10.0,16,473.7
+eureka,/main/java/com/netflix/appinfo/EurekaInstanceConfig.java,0,0.0,0,0,0.0,1,29.1
+eureka,/main/java/com/netflix/appinfo/providers/EurekaInstanceConfigFactory.java,0,0.0,0,0,0.0,2,58.2
+eureka,/main/java/com/netflix/discovery/converters/jackson/EurekaJacksonJsonModifiers.java,0,0.0,0,20min,20.0,11,577.2
+eureka,/main/java/com/netflix/discovery/converters/jackson/EurekaJacksonXmlModifiers.java,0,0.0,0,20min,20.0,12,635.4
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey2/EurekaJersey2Client.java,0,0.0,0,0,0.0,2,58.2
+eureka,/main/java/com/netflix/discovery/converters/jackson/EurekaJsonJacksonCodec.java,0,0.0,0,0,0.0,19,349.2
+eureka,/main/java/com/netflix/discovery/guice/EurekaModule.java,0,0.0,3,10min,10.0,19,810.0
+eureka,/main/java/com/netflix/eureka/util/EurekaMonitors.java,0,0.0,0,0,0.0,14,320.1
+eureka,/main/java/com/netflix/discovery/EurekaNamespace.java,0,0.0,0,0,0.0,2,58.2
+eureka,/main/java/com/netflix/eureka/EurekaServerContextHolder.java,0,0.0,0,0,0.0,16,444.6
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaTransportConfig.java,0,0.0,0,0,0.0,4,0.0
+eureka,/main/java/com/netflix/discovery/shared/transport/EurekaTransportEventListener.java,0,0.0,0,0,0.0,3,87.3
+eureka,/test/java/com/netflix/discovery/util/EurekaUtilsTest.java,0,0.0,0,0,0.0,13,423.6
+eureka,/main/java/com/netflix/discovery/converters/jackson/EurekaXmlJacksonCodec.java,0,0.0,0,0,0.0,14,203.7
+eureka,/main/java/com/netflix/appinfo/HealthCheckCallbackToHandlerBridge.java,0,0.0,0,10min,10.0,14,320.1
+eureka,/main/java/com/netflix/appinfo/HealthCheckHandler.java,0,0.0,0,0,0.0,3,87.3
+eureka,/main/java/com/netflix/eureka/cluster/HttpReplicationClient.java,0,0.0,0,0,0.0,6,174.6
+eureka,/main/java/com/netflix/discovery/converters/jackson/serializer/InstanceInfoJsonBeanSerializer.java,0,0.0,0,0,0.0,14,349.2
+eureka,/main/java/com/netflix/discovery/converters/jackson/mixin/InstanceInfoJsonMixIn.java,0,0.0,0,0,0.0,4,87.3
+eureka,/main/java/com/netflix/discovery/converters/jackson/serializer/InstanceInfoXmlBeanSerializer.java,0,0.0,0,7min 30s,7.5,14,598.2
+eureka,/main/java/com/netflix/discovery/InstanceRegionChecker.java,0,0.0,0,20min,20.0,22,494.7
+eureka,/main/java/com/netflix/eureka/cluster/InstanceReplicationTask.java,0,0.0,0,0,0.0,26,582.0
+eureka,/main/java/com/netflix/eureka/resources/InstancesResource.java,0,0.0,0,20min,20.0,15,349.2
+eureka,/main/java/com/netflix/eureka/registry/rule/InstanceStatusOverrideRule.java,0,0.0,0,0,0.0,3,29.1
+eureka,/main/java/com/netflix/discovery/guice/InternalEurekaClientModule.java,0,0.0,0,0,0.0,72,2596.5
+eureka,/test/java/com/netflix/discovery/internal/util/InternalPrefixedConfigTest.java,0,0.0,0,0,0.0,7,423.6
+eureka,/main/java/com/netflix/discovery/provider/ISerializer.java,0,0.0,0,0,0.0,9,261.9
+eureka,/test/java/com/netflix/discovery/Jersey1DiscoveryClientOptionalArgsTest.java,0,0.0,0,0,0.0,34,1225.5
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey2/Jersey2ApplicationClient.java,0,0.0,0,0,0.0,9,145.5
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey2/Jersey2ApplicationClientFactory.java,1,0.0,0,40min,40.0,76,2472.0
+eureka,/main/java/com/netflix/discovery/Jersey2DiscoveryClientOptionalArgs.java,0,0.0,0,0,0.0,4,365.4
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey2/Jersey2EurekaIdentityHeaderFilter.java,0,0.0,3,10min,10.0,16,473.7
+eureka,/main/java/com/netflix/discovery/guice/Jersey2EurekaModule.java,0,0.0,3,10min,10.0,23,897.3
+eureka,/main/java/com/netflix/eureka/cluster/Jersey2PeerEurekaNodes.java,0,0.0,0,0,0.0,10,452.7
+eureka,/main/java/com/netflix/discovery/shared/transport/jersey2/Jersey2TransportClientFactories.java,0,0.0,4,10min,10.0,29,984.6
+eureka,/test/java/com/netflix/discovery/shared/transport/jersey/JerseyApplicationClientTest.java,0,0.0,0,0,0.0,16,349.2
+eureka,/main/java/com/netflix/discovery/converters/KeyFormatter.java,0,0.0,0,7min 30s,7.5,20,436.5
+eureka,/main/java/com/netflix/eureka/registry/rule/LeaseExistsRule.java,0,0.0,0,10min,10.0,14,751.8
+eureka,/main/java/com/netflix/appinfo/LeaseInfo.java,1,0.0,0,25min,25.0,48,1773.6
+eureka,/main/java/com/netflix/eureka/lease/LeaseManager.java,0,0.0,0,0,0.0,4,58.2
+eureka,/main/java/com/netflix/eureka/guice/LocalDevEurekaServerModule.java,1,0.0,0,7min 30s,7.5,15,598.2
+eureka,/main/java/com/netflix/discovery/converters/jackson/mixin/MiniInstanceInfoMixIn.java,0,0.0,0,0,0.0,24,698.4
+eureka,/main/java/com/netflix/appinfo/MyDataCenterInfo.java,0,0.0,0,0,0.0,7,145.5
+eureka,/main/java/com/netflix/appinfo/MyDataCenterInstanceConfig.java,0,0.0,0,15min,15.0,12,481.8
+eureka,/main/java/com/netflix/appinfo/providers/MyDataCenterInstanceConfigProvider.java,1,0.0,0,10min,10.0,12,722.7
+eureka,/main/java/com/netflix/discovery/shared/NamedConnectionPool.java,0,0.0,0,35min,35.0,100,2298.9
+eureka,/main/java/com/netflix/discovery/NotImplementedRegistryImpl.java,0,0.0,0,0,0.0,9,452.7
+eureka,/main/java/com/netflix/eureka/registry/rule/OverrideExistsRule.java,0,0.0,0,10min,10.0,17,531.9
+eureka,/main/java/com/netflix/discovery/shared/Pair.java,0,0.0,0,0,0.0,17,407.4
+eureka,/main/java/com/netflix/discovery/converters/jackson/serializer/PortWrapperXmlDeserializer.java,0,0.0,0,0,0.0,18,780.9
+eureka,/main/java/com/netflix/discovery/converters/jackson/mixin/PortWrapperXmlMixIn.java,0,0.0,0,0,0.0,1,29.1
+eureka,/test/java/com/netflix/discovery/util/RateLimiterTest.java,0,0.0,0,7min 30s,7.5,18,407.4
+eureka,/main/java/com/netflix/discovery/shared/transport/decorator/RedirectingEurekaHttpClient.java,0,0.0,2,1h 15min,75.0,44,1794.6
+eureka,/test/java/com/netflix/appinfo/RefreshableAmazonInfoProviderTest.java,0,0.0,0,15min,15.0,37,1063.8
+eureka,/main/java/com/netflix/appinfo/RefreshableInstanceConfig.java,0,0.0,0,0,0.0,4,116.4
+eureka,/test/java/com/netflix/eureka/RemoteRegionSoftDependencyTest.java,0,0.0,0,0,0.0,16,598.2
+eureka,/main/java/com/netflix/eureka/cluster/protocol/ReplicationInstance.java,0,0.0,0,1h 58min,118.0,118,2780.7
+eureka,/main/java/com/netflix/discovery/shared/resolver/ResolverUtils.java,0,0.0,0,1h,60.0,24,984.6
+eureka,/main/java/com/netflix/eureka/registry/ResponseCache.java,0,0.0,0,0,0.0,6,174.6
+eureka,/main/java/com/netflix/eureka/resources/SecureVIPResource.java,0,0.0,0,0,0.0,12,510.9
+eureka,/test/java/com/netflix/eureka/test/async/executor/SequentialEvents.java,0,0.0,0,0,0.0,10,386.4
+eureka,/main/java/com/netflix/discovery/provider/Serializer.java,0,0.0,0,0,0.0,null,null
+eureka,/main/java/com/netflix/eureka/resources/ServerCodecs.java,0,0.0,0,0,0.0,14,407.4
+eureka,/main/java/com/netflix/discovery/shared/transport/decorator/ServerStatusEvaluator.java,0,0.0,0,0,0.0,3,87.3
+eureka,/main/java/com/netflix/eureka/util/ServoControl.java,0,0.0,0,0,0.0,10,481.8
+eureka,/main/java/com/netflix/discovery/shared/transport/decorator/SessionedEurekaHttpClient.java,0,0.0,0,0,0.0,30,793.8
+eureka,/main/java/com/netflix/discovery/junit/resource/SimpleEurekaHttpServerResource.java,0,0.0,0,0,0.0,18,436.5
+eureka,/test/java/com/netflix/discovery/shared/transport/SimpleEurekaHttpServerTest.java,0,0.0,0,0,0.0,16,407.4
+eureka,/test/java/com/netflix/eureka/test/async/executor/SingleEvent.java,0,0.0,0,0,0.0,37,910.2
+eureka,/main/java/com/netflix/discovery/StatusChangeEvent.java,0,0.0,0,0,0.0,10,203.7
+eureka,/test/java/com/netflix/eureka/util/StatusUtilTest.java,0,0.0,0,25min,25.0,29,1167.3
+eureka,/main/java/com/netflix/discovery/util/StringUtil.java,0,0.0,0,10min,10.0,8,452.7
+eureka,/test/java/com/netflix/discovery/shared/resolver/aws/TestEurekaHttpResolver.java,0,0.0,0,0,0.0,6,365.4
+eureka,/main/java/com/netflix/eureka/util/batcher/TrafficShaper.java,1,0.0,0,40min,40.0,15,349.2
+eureka,/main/java/com/netflix/discovery/shared/transport/TransportClientFactory.java,0,0.0,0,0,0.0,6,116.4
+eureka,/main/java/com/netflix/discovery/shared/transport/TransportException.java,0,0.0,0,0,0.0,8,423.6
+eureka,/main/java/com/netflix/discovery/shared/transport/TransportUtils.java,0,0.0,0,10min,10.0,16,722.7
+eureka,/main/java/com/netflix/appinfo/UniqueIdentifier.java,0,0.0,0,0,0.0,3,58.2
+eureka,/main/java/com/netflix/eureka/V1AwareInstanceInfoConverter.java,0,0.0,0,20min,20.0,6,423.6
+eureka,/main/java/com/netflix/eureka/Version.java,0,0.0,0,10min,10.0,4,87.3
+eureka,/main/java/com/netflix/appinfo/providers/VipAddressResolver.java,0,0.0,0,0,0.0,1,29.1
+eureka,/main/java/com/netflix/eureka/resources/VIPResource.java,0,0.0,0,0,0.0,12,510.9
+eureka,/main/java/com/netflix/discovery/shared/resolver/aws/ZoneAffinityClusterResolver.java,0,0.0,0,20min,20.0,20,465.6

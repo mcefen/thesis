@@ -1,0 +1,300 @@
+quartz,quartz-core/src/main/java/org/quartz/core/jmx/QuartzSchedulerMBean.java,54,1070.0,0,0,0.0,214,6227.4
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/StdJDBCConstants.java,30,959.0,0,0,0.0,104,3026.4
+quartz,quartz-core/src/main/java/org/quartz/CronExpression.java,56,871.0,33,2M/d 2h,1080.0,224,9496.8
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/DefaultClusteredJobStore.java,79,734.0,30,1M/d 7h,900.0,407,13488.3
+quartz,quartz-core/src/main/java/org/quartz/impl/StdSchedulerFactory.java,39,616.0,0,3h 50min,230.0,188,7092.6
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/JobStoreSupport.java,72,546.0,8,1M/d 6h,840.0,748,26724.6
+quartz,quartz-core/src/main/java/org/quartz/core/QuartzSchedulerThread.java,28,516.0,11,3h 47min,227.0,84,4079.1
+quartz,quartz-core/src/main/java/org/quartz/xml/XMLSchedulingDataProcessor.java,39,468.0,5,5h 36min,336.0,155,5708.7
+quartz,quartz-core/src/main/java/org/quartz/simpl/RAMJobStore.java,64,401.0,18,1M/d 3h,660.0,290,13396.5
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/StdJDBCDelegate.java,51,372.0,5,2M/d 5h,1260.0,524,20773.5
+quartz,quartz-core/src/main/java/org/quartz/core/QuartzScheduler.java,58,339.0,10,7h 12min,432.0,585,23627.1
+quartz,quartz-core/src/main/java/org/quartz/core/QuartzSchedulerMBeanImpl.java,35,280.0,0,4h 45min,285.0,563,25740.6
+quartz,quartz-oracle/src/main/java/org/quartz/impl/jdbcjobstore/oracle/OracleDelegate.java,14,266.0,0,3h 56min,236.0,97,4341.0
+quartz,quartz-core/src/main/java/org/quartz/impl/triggers/SimpleTriggerImpl.java,16,252.0,8,5h 48min,348.0,103,4311.9
+quartz,quartz-core/src/main/java/org/quartz/core/JobRunShell.java,10,243.0,8,2h 30min,150.0,72,2625.6
+quartz,quartz-core/src/main/java/org/quartz/impl/RemoteMBeanScheduler.java,18,217.0,16,3h 52min,232.0,261,8170.8
+quartz,quartz-core/src/main/java/org/quartz/impl/triggers/CalendarIntervalTriggerImpl.java,5,214.0,8,5h 17min,317.0,104,4918.2
+quartz,quartz-core/src/main/java/org/quartz/impl/triggers/DailyTimeIntervalTriggerImpl.java,9,196.0,7,4h 43min,283.0,124,4785.6
+quartz,quartz-core/src/main/java/org/quartz/core/jmx/TriggerSupport.java,15,182.0,1,35min,35.0,68,2376.6
+quartz,quartz-core/src/main/java/org/quartz/impl/triggers/CronTriggerImpl.java,11,180.0,3,3h 10min,190.0,111,4134.0
+quartz,quartz-core/src/main/java/org/quartz/simpl/PropertySettingJobFactory.java,10,171.0,5,3h 17min,197.0,44,1421.1
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/PointbaseDelegate.java,16,151.0,0,1h 56min,116.0,49,2803.5
+quartz,quartz-core/src/main/java/org/quartz/impl/calendar/AnnualCalendar.java,15,148.0,4,3h 12min,192.0,58,2085.6
+quartz,quartz-core/src/main/java/org/quartz/impl/calendar/DailyCalendar.java,18,147.0,0,1h 45min,105.0,65,2924.7
+quartz,quartz-core/src/main/java/org/quartz/utils/PropertiesParser.java,26,147.0,0,4h 25min,265.0,163,5356.2
+quartz,distribution/examples/src/main/java/org/quartz/examples/example2/SimpleTriggerExample.java,7,146.0,0,15min,15.0,17,934.5
+quartz,distribution/examples/src/main/java/org/quartz/examples/example3/CronTriggerExample.java,5,142.0,0,15min,15.0,17,934.5
+quartz,quartz-core/src/main/java/org/quartz/impl/RemoteScheduler.java,4,134.0,0,5h 35min,335.0,239,6924.3
+quartz,quartz-core/src/main/java/org/quartz/core/jmx/SimpleTriggerSupport.java,11,130.0,3,20min,20.0,56,2019.3
+quartz,quartz-core/src/main/java/org/quartz/core/jmx/JobDetailSupport.java,8,129.0,1,27min 30s,27.5,32,1400.1
+quartz,quartz-core/src/main/java/org/quartz/impl/QuartzServer.java,14,125.0,0,0,0.0,30,1495.5
+quartz,quartz-core/src/main/java/org/quartz/ee/jta/UserTransactionHelper.java,12,120.0,0,7min 30s,7.5,58,1836.6
+quartz,quartz-core/src/main/java/org/quartz/core/jmx/JobExecutionContextSupport.java,10,119.0,1,20min,20.0,26,1254.6
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/jmx/JMXInvokerJob.java,10,110.0,1,50min,50.0,33,1898.1
+quartz,quartz-core/src/main/java/org/quartz/core/jmx/CronTriggerSupport.java,9,108.0,3,20min,20.0,55,2114.7
+quartz,quartz-core/src/main/java/org/quartz/simpl/SimpleThreadPool.java,25,108.0,0,1h 53min,113.0,117,4623.9
+quartz,quartz-core/src/main/java/org/quartz/impl/JobDetailImpl.java,11,104.0,0,58min,58.0,78,1878.6
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/collections/SerializedToolkitStore.java,12,103.0,0,1h 5min,65.0,320,7079.4
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/StdRowLockSemaphore.java,8,97.0,2,1h 16min,76.0,38,1707.3
+quartz,quartz-core/src/main/java/org/quartz/JobDataMap.java,9,95.0,0,1h 55min,115.0,65,2206.8
+quartz,distribution/examples/src/main/java/org/quartz/examples/example13/ClusterExample.java,8,90.0,4,55min,55.0,22,1299.9
+quartz,distribution/examples/src/main/java/org/quartz/examples/example15/ClusterExample.java,8,90.0,4,55min,55.0,22,1299.9
+quartz,quartz-core/src/main/java/org/quartz/utils/StringKeyDirtyFlagMap.java,13,87.0,0,2h 46min,166.0,88,4606.2
+quartz,quartz-core/src/main/java/org/quartz/utils/DirtyFlagMap.java,13,86.0,0,40min,40.0,194,5838.0
+quartz,quartz-core/src/main/java/org/quartz/impl/DirectSchedulerFactory.java,5,85.0,0,45min,45.0,43,2313.6
+quartz,quartz-core/src/main/java/org/quartz/core/ListenerManagerImpl.java,14,85.0,0,4h 28min,268.0,116,3432.3
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/collections/SerializationHelper.java,6,80.0,0,1h 10min,70.0,75,2580.3
+quartz,quartz-core/src/main/java/org/quartz/management/ManagementRESTServiceConfiguration.java,16,75.0,0,37min 30s,37.5,6,116.4
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/DB2v6Delegate.java,5,74.0,4,1h 45min,105.0,43,1852.8
+quartz,quartz-core/src/main/java/org/quartz/core/jmx/JobDataMapSupport.java,5,73.0,0,17min 30s,17.5,30,1063.8
+quartz,distribution/examples/src/main/java/org/quartz/examples/example11/LoadExample.java,4,72.0,0,17min 30s,17.5,23,1050.9
+quartz,distribution/examples/src/main/java/org/quartz/examples/example10/PlugInExample.java,3,72.0,0,10min,10.0,19,1088.1
+quartz,distribution/examples/src/main/java/org/quartz/examples/example4/JobStateExample.java,3,70.0,0,15min,15.0,17,934.5
+quartz,distribution/examples/src/main/java/org/quartz/examples/example5/MisfireExample.java,3,70.0,0,15min,15.0,17,934.5
+quartz,distribution/examples/src/main/java/org/quartz/examples/example12/RemoteServerExample.java,2,70.0,0,0,0.0,16,1059.0
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/SimplePropertiesTriggerPersistenceDelegateSupport.java,4,68.0,3,1h 20min,80.0,64,2098.5
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/JobStoreCMT.java,4,65.0,0,10min,10.0,29,1005.6
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/collections/ToolkitDSHolder.java,18,57.0,0,1h 7min,67.0,101,2489.7
+quartz,quartz-core/src/main/java/org/quartz/impl/calendar/CronCalendar.java,3,55.0,0,17min 30s,17.5,24,1511.7
+quartz,quartz-core/src/main/java/org/quartz/impl/calendar/MonthlyCalendar.java,6,55.0,0,1h 5min,65.0,34,1092.9
+quartz,quartz-jboss/src/main/java/org/quartz/ee/jmx/jboss/QuartzService.java,5,52.0,0,55min,55.0,78,2937.6
+quartz,quartz-core/src/main/java/org/quartz/impl/triggers/AbstractTrigger.java,2,50.0,0,2h 27min,147.0,111,2614.2
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/AttributeRestoringConnectionInvocationHandler.java,4,50.0,0,10min,10.0,34,902.1
+quartz,quartz-core/src/main/java/org/quartz/impl/calendar/BaseCalendar.java,4,50.0,0,46min,46.0,39,1071.9
+quartz,distribution/examples/src/main/java/org/quartz/examples/example8/CalendarExample.java,2,50.0,0,7min 30s,7.5,19,1117.2
+quartz,quartz-core/src/main/java/org/quartz/CronScheduleBuilder.java,3,50.0,0,23min,23.0,18,590.1
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/DirectoryScanJob.java,5,50.0,0,1h 4min,64.0,18,598.2
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/DriverDelegate.java,5,50.0,0,0,0.0,221,6227.4
+quartz,distribution/examples/src/main/java/org/quartz/examples/example6/JobExceptionExample.java,3,50.0,0,15min,15.0,18,1088.1
+quartz,distribution/examples/src/main/java/org/quartz/examples/example9/ListenerExample.java,2,50.0,0,7min 30s,7.5,17,963.6
+quartz,management-quartz-impl/src/main/java/org/quartz/management/ManagementServerImpl.java,4,50.0,0,0,0.0,14,693.6
+quartz,distribution/examples/src/main/java/org/quartz/examples/example14/PriorityExample.java,2,50.0,0,7min 30s,7.5,17,963.6
+quartz,distribution/examples/src/main/java/org/quartz/examples/example1/SimpleExample.java,2,50.0,0,7min 30s,7.5,16,934.5
+quartz,quartz-core/src/main/java/org/quartz/Trigger.java,3,50.0,0,1h 5min,65.0,50,939.3
+quartz,quartz-core/src/main/java/org/quartz/impl/calendar/WeeklyCalendar.java,5,50.0,0,1h 12min,72.0,33,1034.7
+quartz,quartz-core/src/main/java/org/quartz/impl/calendar/HolidayCalendar.java,6,47.0,0,25min,25.0,35,1283.7
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/AbstractTerracottaJobStore.java,6,45.0,0,5h 40min,340.0,331,8479.5
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/CacheDelegate.java,3,45.0,0,1h 27min,87.0,71,2442.9
+quartz,quartz-core/src/main/java/org/quartz/ee/servlet/QuartzInitializerListener.java,7,45.0,1,1h 4min,64.0,31,1312.8
+quartz,quartz-plugins/src/main/java/org/quartz/plugins/SchedulerPluginWithUserTransactionSupport.java,3,45.0,0,10min,10.0,24,611.1
+quartz,quartz-plugins/src/main/java/org/quartz/plugins/xml/XMLSchedulingDataProcessorPlugin.java,11,45.0,0,32min 30s,32.5,83,3186.6
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/JTANonClusteredSemaphore.java,9,42.0,0,55min,55.0,55,2143.8
+quartz,quartz-core/src/main/java/org/quartz/TriggerUtils.java,3,42.0,3,42min,42.0,13,722.7
+quartz,quartz-core/src/main/java/org/quartz/simpl/CascadingClassLoadHelper.java,3,41.0,0,30min,30.0,30,1503.6
+quartz,management-quartz-impl/src/main/java/org/quartz/management/resource/services/AgentsResourceServiceImpl.java,11,40.0,1,20min,20.0,18,1088.1
+quartz,quartz-stubs/src/main/java/oracle/sql/BLOB.java,3,40.0,0,0,0.0,77,2198.7
+quartz,quartz-core/src/main/java/org/quartz/Calendar.java,2,40.0,0,0,0.0,14,320.1
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/NativeJob.java,3,40.0,0,32min 30s,32.5,35,1744.5
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/ejb/EJBInvokerJob.java,4,38.0,0,22min 30s,22.5,32,1649.1
+quartz,quartz-core/src/main/java/org/quartz/xml/ValidationException.java,5,38.0,0,10min,10.0,4,116.4
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/TerracottaToolkitBuilder.java,5,37.0,2,50min,50.0,82,2037.0
+quartz,quartz-stubs/src/main/java/weblogic/jdbc/jts/Driver.java,2,35.0,0,0,0.0,35,1034.7
+quartz,quartz-core/src/main/java/org/quartz/ee/servlet/QuartzInitializerServlet.java,5,35.0,1,43min 30s,43.5,43,1977.3
+quartz,distribution/examples/src/main/java/org/quartz/examples/example13/SimpleRecoveryJob.java,4,35.0,3,20min,20.0,13,942.6
+quartz,distribution/examples/src/main/java/org/quartz/examples/example15/SimpleRecoveryJob.java,4,35.0,3,20min,20.0,15,1000.8
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/jms/JmsHelper.java,7,32.0,0,54min 30s,54.5,48,2093.7
+quartz,quartz-core/src/main/java/org/quartz/impl/matchers/AndMatcher.java,2,31.0,5,2h 13min,133.0,32,1437.3
+quartz,quartz-core/src/main/java/org/quartz/utils/ClassUtils.java,2,31.0,0,1h 4min,64.0,19,839.1
+quartz,quartz-core/src/main/java/org/quartz/impl/JobExecutionContextImpl.java,2,31.0,0,25min,25.0,55,1712.1
+quartz,quartz-core/src/main/java/org/quartz/impl/matchers/OrMatcher.java,2,31.0,5,2h 13min,133.0,32,1437.3
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/FileScanJob.java,4,30.0,0,1h 2min,62.0,19,714.6
+quartz,quartz-core/src/main/java/org/quartz/JobDetail.java,1,30.0,0,0,0.0,17,232.8
+quartz,quartz-core/src/main/java/org/quartz/spi/MutableTrigger.java,1,30.0,0,0,0.0,21,320.1
+quartz,quartz-core/src/main/java/org/quartz/Scheduler.java,2,30.0,0,0,0.0,114,2240.7
+quartz,quartz-core/src/main/java/org/quartz/simpl/SimpleClassLoadHelper.java,4,29.0,0,20min,20.0,13,598.2
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/CUBRIDDelegate.java,5,26.0,0,27min 30s,27.5,27,1511.7
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/HSQLDBDelegate.java,4,26.0,5,47min 30s,47.5,13,664.5
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/MSSQLDelegate.java,4,26.0,5,47min 30s,47.5,13,664.5
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/SybaseDelegate.java,4,26.0,3,37min 30s,37.5,18,780.9
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/Constants.java,3,25.0,0,0,0.0,61,1775.1
+quartz,quartz-core/src/main/java/org/quartz/spi/JobStore.java,5,25.0,0,0,0.0,151,2851.8
+quartz,quartz-core/src/main/java/org/quartz/simpl/LoadingLoaderClassLoadHelper.java,2,25.0,2,10min,10.0,12,569.1
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/SimpleSemaphore.java,6,25.0,0,27min 30s,27.5,25,1013.7
+quartz,distribution/examples/src/main/java/org/quartz/examples/example5/StatefulDumbJob.java,3,25.0,0,7min 30s,7.5,14,876.3
+quartz,quartz-core/src/main/java/org/quartz/simpl/ThreadContextClassLoadHelper.java,2,25.0,2,10min,10.0,12,569.1
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/DBSemaphore.java,5,24.0,0,36min,36.0,66,2156.7
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/PostgreSQLDelegate.java,3,24.0,0,27min 30s,27.5,14,818.1
+quartz,quartz-weblogic/src/main/java/org/quartz/impl/jdbcjobstore/oracle/weblogic/WebLogicOracleDelegate.java,8,22.0,0,45min,45.0,14,693.6
+quartz,quartz-core/src/main/java/org/quartz/utils/C3p0PoolingConnectionProvider.java,1,20.0,0,32min,32.0,33,1092.9
+quartz,management-quartz-impl/src/main/java/org/quartz/management/service/EntityResourceFactory.java,4,20.0,0,0,0.0,9,261.9
+quartz,distribution/examples/src/main/java/org/quartz/examples/example7/InterruptExample.java,1,20.0,0,7min 30s,7.5,18,1088.1
+quartz,quartz-core/src/main/java/org/quartz/core/RemotableQuartzScheduler.java,1,20.0,0,0,0.0,262,7507.8
+quartz,distribution/examples/src/main/java/org/quartz/examples/example12/RemoteClientExample.java,1,20.0,0,0,0.0,13,598.2
+quartz,quartz-core/src/main/java/org/quartz/SchedulerMetaData.java,1,20.0,0,57min 30s,57.5,55,1666.8
+quartz,quartz-core/src/main/java/org/quartz/impl/StdScheduler.java,1,20.0,0,7min 30s,7.5,195,4955.1
+quartz,quartz-core/src/main/java/org/quartz/spi/TriggerFiredBundle.java,1,20.0,0,15min,15.0,29,756.6
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/TriggerPersistenceDelegate.java,1,20.0,0,0,0.0,51,1251.3
+quartz,quartz-commonj/src/main/java/org/quartz/commonj/WorkManagerThreadExecutor.java,2,20.0,0,0,0.0,22,677.4
+quartz,quartz-core/src/main/java/org/quartz/simpl/ZeroSizeThreadPool.java,4,20.0,0,0,0.0,34,947.4
+quartz,distribution/examples/src/main/java/org/quartz/examples/example6/BadJob1.java,4,17.0,0,0,0.0,12,664.5
+quartz,distribution/examples/src/main/java/org/quartz/examples/example6/BadJob2.java,5,17.0,0,0,0.0,12,664.5
+quartz,quartz-core/src/main/java/org/quartz/utils/JNDIConnectionProvider.java,3,15.0,0,20min,20.0,40,1574.7
+quartz,quartz-core/src/main/java/org/quartz/StatefulJob.java,2,15.0,0,0,0.0,null,null
+quartz,quartz-core/src/main/java/org/quartz/spi/TimeBroker.java,2,15.0,0,0,0.0,3,87.3
+quartz,quartz-core/src/main/java/org/quartz/SimpleScheduleBuilder.java,1,14.0,0,13min 30s,13.5,33,785.7
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/Util.java,4,14.0,0,29min 30s,29.5,23,1146.3
+quartz,quartz-weblogic/src/main/java/org/quartz/impl/jdbcjobstore/WebLogicDelegate.java,4,14.0,0,17min 30s,17.5,19,1461.6
+quartz,quartz-plugins/src/main/java/org/quartz/plugins/interrupt/JobInterruptMonitorPlugin.java,3,12.0,0,15min,15.0,64,1542.3
+quartz,distribution/examples/src/main/java/org/quartz/examples/example7/DumbInterruptableJob.java,5,11.0,0,10min,10.0,18,531.9
+quartz,quartz-core/src/main/java/org/quartz/TriggerBuilder.java,2,11.0,0,12min 30s,12.5,42,1151.1
+quartz,quartz-core/src/main/java/org/quartz/CalendarIntervalTrigger.java,1,10.0,0,0,0.0,7,174.6
+quartz,quartz-core/src/main/java/org/quartz/CronTrigger.java,1,10.0,0,0,0.0,9,203.7
+quartz,quartz-core/src/main/java/org/quartz/DailyTimeIntervalTrigger.java,1,10.0,0,0,0.0,9,203.7
+quartz,quartz-jboss/src/main/java/org/quartz/ee/jmx/jboss/JBoss4RMIRemoteMBeanScheduler.java,2,10.0,0,30min,30.0,44,1728.3
+quartz,quartz-plugins/src/main/java/org/quartz/plugins/history/LoggingJobHistoryPlugin.java,2,10.0,0,1h 2min,62.0,28,1188.3
+quartz,quartz-plugins/src/main/java/org/quartz/plugins/history/LoggingTriggerHistoryPlugin.java,2,10.0,0,55min,55.0,35,1151.1
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/NoOpJob.java,2,10.0,0,0,0.0,7,452.7
+quartz,quartz-core/src/main/java/org/quartz/utils/PoolingConnectionProvider.java,2,10.0,0,0,0.0,3,87.3
+quartz,quartz-core/src/main/java/org/quartz/SimpleTrigger.java,1,10.0,0,0,0.0,6,116.4
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/TransactionControllingLock.java,2,10.0,0,40min,40.0,69,2011.2
+quartz,quartz-core/src/main/java/org/quartz/helpers/VersionPrinter.java,1,10.0,0,0,0.0,5,394.5
+quartz,distribution/examples/src/main/java/org/quartz/examples/example4/ColorJob.java,3,9.0,0,7min 30s,7.5,14,569.1
+quartz,distribution/examples/src/main/java/org/quartz/examples/example1/HelloJob.java,2,7.0,0,0,0.0,6,394.5
+quartz,distribution/examples/src/main/java/org/quartz/examples/example8/SimpleJob.java,2,7.0,2,10min,10.0,8,452.7
+quartz,distribution/examples/src/main/java/org/quartz/examples/example3/SimpleJob.java,2,7.0,2,10min,10.0,8,452.7
+quartz,distribution/examples/src/main/java/org/quartz/examples/example2/SimpleJob.java,2,7.0,2,10min,10.0,8,452.7
+quartz,distribution/examples/src/main/java/org/quartz/examples/example11/SimpleJob.java,2,7.0,0,7min 30s,7.5,13,818.1
+quartz,distribution/examples/src/main/java/org/quartz/examples/example10/SimpleJob.java,2,7.0,0,0,0.0,10,452.7
+quartz,distribution/examples/src/main/java/org/quartz/examples/example12/SimpleJob.java,2,7.0,0,7min 30s,7.5,9,481.8
+quartz,distribution/examples/src/main/java/org/quartz/examples/example9/SimpleJob1.java,2,7.0,0,0,0.0,8,452.7
+quartz,distribution/examples/src/main/java/org/quartz/examples/example9/SimpleJob2.java,2,7.0,0,0,0.0,8,452.7
+quartz,quartz-core/src/main/java/org/quartz/DailyTimeIntervalScheduleBuilder.java,5,6.0,0,53min,53.0,36,843.9
+quartz,quartz-core/src/main/java/org/quartz/impl/DefaultThreadExecutor.java,1,5.0,0,0,0.0,8,548.1
+quartz,quartz-core/src/main/java/org/quartz/impl/matchers/GroupMatcher.java,5,5.0,0,7min 30s,7.5,37,1084.8
+quartz,quartz-core/src/main/java/org/quartz/JobExecutionContext.java,1,5.0,0,0,0.0,22,465.6
+quartz,quartz-core/src/main/java/org/quartz/ee/jta/JTAAnnotationAwareJobRunShellFactory.java,1,5.0,0,31min,31.0,13,349.2
+quartz,quartz-core/src/main/java/org/quartz/ee/jta/JTAJobRunShell.java,1,5.0,0,17min 30s,17.5,19,714.6
+quartz,quartz-core/src/main/java/org/quartz/ee/jta/JTAJobRunShellFactory.java,1,5.0,0,0,0.0,10,291.0
+quartz,quartz-stubs/src/main/java/weblogic/jdbc/vendor/oracle/OracleThinBlob.java,1,5.0,0,0,0.0,29,843.9
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/PlainTerracottaJobStore.java,2,5.0,0,15min,15.0,328,7836.0
+quartz,quartz-core/src/main/java/org/quartz/ScheduleBuilder.java,1,5.0,0,7min 30s,7.5,7,423.6
+quartz,quartz-plugins/src/main/java/org/quartz/plugins/management/ShutdownHookPlugin.java,1,5.0,0,0,0.0,14,378.3
+quartz,distribution/examples/src/main/java/org/quartz/examples/example14/TriggerEchoJob.java,1,5.0,0,0,0.0,6,423.6
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/wrappers/TriggerWrapper.java,2,5.0,0,0,0.0,80,1695.9
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/UpdateLockRowSemaphore.java,2,5.0,0,35min,35.0,36,1217.4
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/DB2v7Delegate.java,2,4.0,0,7min 30s,7.5,10,481.8
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/DB2v8Delegate.java,2,4.0,0,7min 30s,7.5,6,394.5
+quartz,quartz-core/src/main/java/org/quartz/impl/matchers/NameMatcher.java,4,4.0,0,7min 30s,7.5,39,1201.2
+quartz,quartz-core/src/main/java/org/quartz/core/SampledStatisticsImpl.java,2,4.0,0,7min 30s,7.5,56,1587.6
+quartz,quartz-core/src/main/java/org/quartz/simpl/SimpleJobFactory.java,2,4.0,0,10min,10.0,13,473.7
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/DailyTimeIntervalTriggerPersistenceDelegate.java,2,3.0,0,48min 30s,48.5,30,1167.3
+quartz,management-quartz-impl/src/main/java/org/quartz/management/DfltSamplerRepositoryService.java,2,2.0,0,7min 30s,7.5,18,502.8
+quartz,quartz-core/src/main/java/org/quartz/impl/matchers/EverythingMatcher.java,2,2.0,0,11min,11.0,17,473.7
+quartz,distribution/examples/src/main/java/org/quartz/examples/example9/Job1Listener.java,1,2.0,0,0,0.0,16,349.2
+quartz,quartz-core/src/main/java/org/quartz/TimeOfDay.java,1,2.0,0,2h 2min,122.0,32,698.4
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/collections/TimeTriggerSet.java,1,2.0,0,0,0.0,31,611.1
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/wrappers/TriggerFacade.java,2,2.0,0,0,0.0,94,2007.9
+quartz,quartz-core/src/main/java/org/quartz/listeners/BroadcastJobListener.java,1,1.0,0,10min,10.0,43,1823.7
+quartz,quartz-core/src/main/java/org/quartz/listeners/BroadcastSchedulerListener.java,1,1.0,0,0,0.0,79,1878.6
+quartz,quartz-core/src/main/java/org/quartz/listeners/BroadcastTriggerListener.java,1,1.0,0,20min,20.0,49,1940.1
+quartz,quartz-core/src/main/java/org/quartz/utils/CircularLossyQueue.java,1,1.0,0,10min,10.0,17,963.6
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/CounterManagerImpl.java,1,1.0,0,11min,11.0,11,291.0
+quartz,quartz-core/src/main/java/org/quartz/utils/DBConnectionManager.java,1,1.0,0,7min 30s,7.5,22,677.4
+quartz,quartz-core/src/main/java/org/quartz/listeners/JobChainingJobListener.java,1,1.0,0,10min,10.0,14,349.2
+quartz,quartz-core/src/main/java/org/quartz/impl/matchers/KeyMatcher.java,1,1.0,0,1h 5min,65.0,21,590.1
+quartz,quartz-core/src/main/java/org/quartz/impl/matchers/NotMatcher.java,1,1.0,0,1h 6min,66.0,28,1196.4
+quartz,quartz-core/src/main/java/org/quartz/core/QuartzSchedulerResources.java,1,1.0,0,45min,45.0,98,3233.4
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/sampled/SampledCounterImpl.java,1,1.0,0,7min 30s,7.5,9,232.8
+quartz,management-quartz/src/main/java/org/quartz/management/resource/SchedulerEntity.java,2,1.0,0,10min,10.0,5,145.5
+quartz,quartz-core/src/main/java/org/quartz/impl/SchedulerRepository.java,1,1.0,0,0,0.0,28,764.7
+quartz,quartz-core/src/main/java/org/quartz/CalendarIntervalScheduleBuilder.java,0,0.0,0,2min,2.0,30,785.7
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/CalendarIntervalTriggerPersistenceDelegate.java,0,0.0,0,16min,16.0,23,772.8
+quartz,quartz-core/src/main/java/org/quartz/spi/ClassLoadHelper.java,0,0.0,0,0,0.0,5,29.1
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/ClusteredJobStore.java,0,0.0,0,0,0.0,6,174.6
+quartz,quartz-core/src/main/java/org/quartz/utils/ConnectionProvider.java,0,0.0,0,0,0.0,9,174.6
+quartz,quartz-core/src/main/java/org/quartz/impl/triggers/CoreTrigger.java,0,0.0,0,0,0.0,3,87.3
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/Counter.java,0,0.0,0,0,0.0,4,116.4
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/CounterConfig.java,0,0.0,0,0,0.0,2,58.2
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/CounterImpl.java,0,0.0,0,7min 30s,7.5,3,87.3
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/CounterManager.java,0,0.0,0,0,0.0,3,87.3
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/CronTriggerPersistenceDelegate.java,0,0.0,3,1h 6min,66.0,51,1508.4
+quartz,quartz-core/src/main/java/org/quartz/DateBuilder.java,0,0.0,8,4h 36min,276.0,143,5687.7
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/wrappers/DefaultWrapperFactory.java,0,0.0,0,0,0.0,13,540.0
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/DirectoryScanListener.java,0,0.0,0,0,0.0,1,0.0
+quartz,quartz-core/src/main/java/org/quartz/DisallowConcurrentExecution.java,0,0.0,1,0,0.0,null,null
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/ejb/EJB3InvokerJob.java,0,0.0,0,7min 30s,7.5,12,818.1
+quartz,quartz-core/src/main/java/org/quartz/ExecuteInJTATransaction.java,0,0.0,0,0,0.0,1,0.0
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/FileScanListener.java,0,0.0,0,0,0.0,2,58.2
+quartz,quartz-core/src/main/java/org/quartz/utils/FindbugsSuppressWarnings.java,0,0.0,0,0,0.0,3,87.3
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/wrappers/FiredTrigger.java,0,0.0,0,2h 14min,134.0,35,1063.8
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/FiredTriggerRecord.java,0,0.0,0,7min 30s,7.5,52,1762.2
+quartz,quartz-core/src/main/java/org/quartz/utils/HikariCpPoolingConnectionProvider.java,0,0.0,0,22min 30s,22.5,30,910.2
+quartz,quartz-core/src/main/java/org/quartz/simpl/HostnameInstanceIdGenerator.java,0,0.0,0,10min,10.0,9,606.3
+quartz,quartz-core/src/main/java/org/quartz/simpl/InitThreadContextClassLoadHelper.java,0,0.0,0,0,0.0,12,320.1
+quartz,quartz-core/src/main/java/org/quartz/spi/InstanceIdGenerator.java,0,0.0,0,0,0.0,3,87.3
+quartz,quartz-core/src/main/java/org/quartz/InterruptableJob.java,0,0.0,0,0,0.0,1,0.0
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/InvalidConfigurationException.java,0,0.0,0,0,0.0,7,299.1
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/jms/JmsJobException.java,0,0.0,0,0,0.0,12,386.4
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/jms/JmsMessageFactory.java,0,0.0,0,0,0.0,null,null
+quartz,quartz-core/src/main/java/org/quartz/Job.java,0,0.0,0,0,0.0,2,29.1
+quartz,quartz-core/src/main/java/org/quartz/JobBuilder.java,0,0.0,0,2min,2.0,31,611.1
+quartz,quartz-core/src/main/java/org/quartz/JobExecutionException.java,0,0.0,0,0,0.0,36,873.0
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/wrappers/JobFacade.java,0,0.0,0,0,0.0,68,1455.0
+quartz,quartz-core/src/main/java/org/quartz/spi/JobFactory.java,0,0.0,0,0,0.0,null,null
+quartz,quartz-core/src/main/java/org/quartz/JobKey.java,0,0.0,0,0,0.0,20,502.8
+quartz,quartz-core/src/main/java/org/quartz/JobListener.java,0,0.0,0,0,0.0,6,58.2
+quartz,quartz-core/src/main/java/org/quartz/listeners/JobListenerSupport.java,0,0.0,0,7min 30s,7.5,14,569.1
+quartz,quartz-core/src/main/java/org/quartz/JobPersistenceException.java,0,0.0,0,7min 30s,7.5,5,211.8
+quartz,quartz-core/src/main/java/org/quartz/core/JobRunShellFactory.java,0,0.0,0,0,0.0,7,203.7
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/JobStoreTX.java,0,0.0,0,0,0.0,7,423.6
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/wrappers/JobWrapper.java,0,0.0,0,10min,10.0,50,1172.1
+quartz,quartz-core/src/main/java/org/quartz/utils/Key.java,0,0.0,0,2h 44min,164.0,24,590.1
+quartz,quartz-core/src/main/java/org/quartz/ListenerManager.java,0,0.0,0,0,0.0,13,349.2
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/LockException.java,0,0.0,0,7min 30s,7.5,7,299.1
+quartz,quartz-core/src/main/java/org/quartz/management/ManagementServer.java,0,0.0,0,0,0.0,null,null
+quartz,quartz-core/src/main/java/org/quartz/Matcher.java,0,0.0,0,0,0.0,11,232.8
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/NoSuchDelegateException.java,0,0.0,0,7min 30s,7.5,6,270.0
+quartz,quartz-core/src/main/java/org/quartz/core/NullSampledStatisticsImpl.java,0,0.0,0,0,0.0,14,569.1
+quartz,quartz-core/src/main/java/org/quartz/ObjectAlreadyExistsException.java,0,0.0,0,7min 30s,7.5,8,299.1
+quartz,quartz-core/src/main/java/org/quartz/spi/OperableTrigger.java,0,0.0,0,0,0.0,20,378.3
+quartz,quartz-core/src/main/java/org/quartz/PersistJobDataAfterExecution.java,0,0.0,1,0,0.0,null,null
+quartz,management-quartz/src/main/java/org/quartz/management/jaxrs/QuartzObjectMapperProvider.java,0,0.0,0,22min,22.0,7,174.6
+quartz,quartz-jboss/src/main/java/org/quartz/ee/jmx/jboss/QuartzServiceMBean.java,0,0.0,0,0,0.0,12,349.2
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/sampled/SampledCounter.java,0,0.0,0,0,0.0,null,null
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/sampled/SampledCounterConfig.java,0,0.0,0,0,0.0,4,116.4
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/sampled/SampledRateCounter.java,0,0.0,0,0,0.0,5,145.5
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/sampled/SampledRateCounterConfig.java,0,0.0,0,0,0.0,5,116.4
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/sampled/SampledRateCounterImpl.java,0,0.0,0,15min,15.0,19,552.9
+quartz,quartz-core/src/main/java/org/quartz/core/SampledStatistics.java,0,0.0,0,0,0.0,9,261.9
+quartz,management-quartz-impl/src/main/java/org/quartz/management/service/SamplerRepositoryService.java,0,0.0,0,0,0.0,10,291.0
+quartz,quartz-core/src/main/java/org/quartz/SchedulerConfigException.java,0,0.0,0,0,0.0,5,211.8
+quartz,quartz-core/src/main/java/org/quartz/SchedulerContext.java,0,0.0,0,15min,15.0,4,365.4
+quartz,quartz-core/src/main/java/org/quartz/impl/SchedulerDetailsSetter.java,0,0.0,0,30min,30.0,17,810.0
+quartz,quartz-core/src/main/java/org/quartz/SchedulerException.java,0,0.0,0,27min 30s,27.5,20,502.8
+quartz,quartz-core/src/main/java/org/quartz/SchedulerFactory.java,0,0.0,0,0,0.0,10,261.9
+quartz,quartz-core/src/main/java/org/quartz/SchedulerListener.java,0,0.0,0,0,0.0,13,320.1
+quartz,quartz-core/src/main/java/org/quartz/listeners/SchedulerListenerSupport.java,0,0.0,0,7min 30s,7.5,60,1413.0
+quartz,quartz-core/src/main/java/org/quartz/spi/SchedulerPlugin.java,0,0.0,0,0,0.0,5,58.2
+quartz,quartz-core/src/main/java/org/quartz/spi/SchedulerSignaler.java,0,0.0,0,0,0.0,11,291.0
+quartz,quartz-core/src/main/java/org/quartz/core/SchedulerSignalerImpl.java,0,0.0,0,0,0.0,20,465.6
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/SchedulerStateRecord.java,0,0.0,0,0,0.0,9,261.9
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/Semaphore.java,0,0.0,0,0,0.0,7,174.6
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/jms/SendDestinationMessageJob.java,0,0.0,0,7min 30s,7.5,10,635.4
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/mail/SendMailJob.java,1,0.0,0,32min 30s,32.5,107,3204.3
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/jms/SendQueueMessageJob.java,0,0.0,0,7min 30s,7.5,11,664.5
+quartz,quartz-jobs/src/main/java/org/quartz/jobs/ee/jms/SendTopicMessageJob.java,0,0.0,0,7min 30s,7.5,10,635.4
+quartz,quartz-core/src/main/java/org/quartz/simpl/SimpleInstanceIdGenerator.java,0,0.0,0,10min,10.0,9,606.3
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/SimplePropertiesTriggerProperties.java,0,0.0,0,7min 30s,7.5,60,1965.9
+quartz,distribution/examples/src/main/java/org/quartz/examples/example13/SimpleRecoveryStatefulJob.java,0,0.0,0,0,0.0,5,365.4
+quartz,distribution/examples/src/main/java/org/quartz/examples/example15/SimpleRecoveryStatefulJob.java,0,0.0,0,0,0.0,5,365.4
+quartz,quartz-core/src/main/java/org/quartz/simpl/SimpleTimeBroker.java,0,0.0,0,0,0.0,9,510.9
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/SimpleTriggerPersistenceDelegate.java,0,0.0,3,1h 20min,80.0,51,1508.4
+quartz,quartz-core/src/main/java/org/quartz/impl/StdJobRunShellFactory.java,0,0.0,0,0,0.0,7,203.7
+quartz,quartz-core/src/main/java/org/quartz/impl/matchers/StringMatcher.java,0,0.0,1,1h 54min,114.0,89,3202.8
+quartz,quartz-core/src/main/java/org/quartz/simpl/SystemPropertyInstanceIdGenerator.java,0,0.0,0,9min 30s,9.5,7,174.6
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/TablePrefixAware.java,0,0.0,0,0,0.0,5,145.5
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/TerracottaJobStore.java,0,0.0,0,0,0.0,9,452.7
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/TerracottaJobStoreExtensions.java,0,0.0,0,0,0.0,13,378.3
+quartz,quartz-core/src/main/java/org/quartz/spi/ThreadExecutor.java,0,0.0,0,0,0.0,null,null
+quartz,quartz-core/src/main/java/org/quartz/spi/ThreadPool.java,0,0.0,0,0,0.0,7,203.7
+quartz,quartz-core/src/main/java/org/quartz/utils/counter/sampled/TimeStampedCounterValue.java,0,0.0,0,0,0.0,3,87.3
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/collections/TimeTrigger.java,0,0.0,0,17min 30s,17.5,32,727.5
+quartz,quartz-core/src/main/java/org/quartz/spi/TriggerFiredResult.java,0,0.0,0,0,0.0,14,349.2
+quartz,quartz-core/src/main/java/org/quartz/TriggerKey.java,0,0.0,0,0,0.0,18,473.7
+quartz,quartz-core/src/main/java/org/quartz/TriggerListener.java,0,0.0,0,0,0.0,3,58.2
+quartz,quartz-core/src/main/java/org/quartz/listeners/TriggerListenerSupport.java,0,0.0,0,0,0.0,18,656.4
+quartz,quartz-core/src/main/java/org/quartz/impl/jdbcjobstore/TriggerStatus.java,1,0.0,0,0,0.0,15,436.5
+quartz,quartz-core/src/main/java/org/quartz/UnableToInterruptJobException.java,0,0.0,0,0,0.0,3,211.8
+quartz,quartz-weblogic/src/main/java/org/quartz/utils/weblogic/WeblogicConnectionProvider.java,0,0.0,0,0,0.0,22,735.6
+quartz,terracotta/bootstrap/src/main/java/org/terracotta/quartz/wrappers/WrapperFactory.java,0,0.0,0,0,0.0,8,232.8

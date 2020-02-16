@@ -1,0 +1,239 @@
+arduino,/processing/app/Editor.java,152,1931.0,8,1M/d 7h,900.0,606,23697.0
+arduino,/processing/app/Base.java,128,985.0,13,1M/d 6h,840.0,486,20906.4
+arduino,/processing/app/legacy/PApplet.java,111,590.0,0,5h 53min,353.0,182,7220.4
+arduino,/cc/arduino/view/preferences/Preferences.java,50,560.0,0,1h 35min,95.0,216,5794.2
+arduino,/processing/app/BaseNoGui.java,123,550.0,5,5h 8min,308.0,284,8704.5
+arduino,/processing/app/helpers/CommandlineParser.java,13,457.0,14,4h 47min,287.0,122,3876.9
+arduino,/cc/arduino/contributions/ui/InstallerJDialog.java,15,418.0,0,1h,60.0,74,2069.4
+arduino,/cc/arduino/view/findreplace/FindReplace.java,17,398.0,0,2h 25min,145.0,85,2784.0
+arduino,/processing/app/AbstractMonitor.java,16,382.0,0,45min,45.0,84,2784.0
+arduino,/cc/arduino/contributions/libraries/ui/MultiLibraryInstallDialog.java,7,370.0,3,1h 5min,65.0,32,1291.8
+arduino,/cc/arduino/view/preferences/AdditionalBoardsManagerURLTextArea.java,14,369.0,0,15min,15.0,48,1296.6
+arduino,/cc/arduino/view/NotificationPopup.java,8,345.0,0,30min,30.0,35,939.3
+arduino,/processing/app/tools/MenuScroller.java,8,319.0,0,1h 17min,77.0,120,4910.1
+arduino,/cc/arduino/view/GoToLineNumber.java,6,310.0,0,15min,15.0,22,897.3
+arduino,/processing/app/EditorHeader.java,32,303.0,0,1h 49min,109.0,111,4814.7
+arduino,/processing/app/windows/Platform.java,15,300.0,2,1h 49min,109.0,136,3632.7
+arduino,/cc/arduino/packages/uploaders/SerialUploader.java,23,295.0,0,2h 46min,166.0,67,2961.9
+arduino,/processing/app/TextAreaFIFO.java,6,295.0,0,20min 30s,20.5,36,1063.8
+arduino,/processing/app/forms/PasswordAuthorizationDialog.java,3,280.0,0,15min,15.0,25,552.9
+arduino,/cc/arduino/contributions/ui/FilterJTextField.java,2,275.0,0,17min 30s,17.5,26,706.5
+arduino,/cc/arduino/Compiler.java,31,272.0,0,3h 15min,195.0,166,5791.2
+arduino,/processing/app/EditorToolbar.java,28,270.0,1,3h 29min,209.0,144,5007.0
+arduino,/processing/app/Platform.java,23,265.0,4,1h 40min,100.0,162,5139.6
+arduino,/cc/arduino/utils/ArchiveExtractor.java,19,258.0,4,1h 37min,97.0,41,1860.9
+arduino,/processing/app/SketchController.java,30,223.0,0,7h 1min,421.0,113,4860.0
+arduino,/processing/app/Preferences.java,33,218.0,0,7min 30s,7.5,53,1259.4
+arduino,/processing/app/SerialPortList.java,15,213.0,1,1h 50min,110.0,18,685.5
+arduino,/cc/arduino/contributions/packages/ContributionsIndexer.java,17,209.0,5,4h 42min,282.0,167,4774.2
+arduino,/cc/arduino/contributions/DownloadableContributionsDownloader.java,12,194.0,1,2h 7min,127.0,82,3020.1
+arduino,/processing/app/helpers/StringReplacer.java,9,191.0,5,1h 25min,85.0,40,1641.0
+arduino,/processing/app/Theme.java,52,191.0,0,3h 31min,211.0,256,7060.2
+arduino,/cc/arduino/os/windows/Win32KnownFolders.java,5,190.0,0,30min,30.0,26,1204.5
+arduino,/cc/arduino/contributions/packages/ContributionInstaller.java,14,140.0,2,2h 37min,157.0,85,3854.4
+arduino,/processing/app/EditorTab.java,25,135.0,0,2h 17min,137.0,119,4134.0
+arduino,/cc/arduino/contributions/libraries/ui/LibraryManagerUI.java,7,135.0,0,1h 18min,78.0,74,2480.1
+arduino,/processing/app/PreferencesData.java,27,131.0,1,2h 6min,126.0,132,3598.8
+arduino,/cc/arduino/contributions/packages/ui/ContributedPlatformTableCellJPanel.java,10,122.0,4,1h 57min,117.0,65,2845.5
+arduino,/cc/arduino/contributions/libraries/ui/ContributedLibraryTableCellJPanel.java,10,118.0,4,1h 44min,104.0,53,2459.1
+arduino,/processing/app/helpers/FileUtils.java,11,118.0,2,2h 19min,139.0,149,4146.9
+arduino,/processing/app/SerialPlotter.java,17,114.0,2,2h 17min,137.0,121,4777.5
+arduino,/processing/app/Serial.java,15,103.0,0,36min 30s,36.5,91,3104.1
+arduino,/cc/arduino/packages/uploaders/SSHUploader.java,9,103.0,0,1h 47min,107.0,69,2011.2
+arduino,/cc/arduino/packages/discoverers/PluggableDiscovery.java,16,102.0,5,3h 53min,233.0,81,3501.9
+arduino,/cc/arduino/contributions/libraries/LibraryInstaller.java,11,100.0,0,1h 33min,93.0,54,2181.0
+arduino,/processing/app/EditorStatus.java,12,94.0,0,1h 56min,116.0,113,3797.7
+arduino,/processing/app/helpers/PreferencesHelper.java,12,90.0,0,46min,46.0,17,1088.1
+arduino,/processing/app/macosx/ThinkDifferent.java,8,88.0,0,27min 30s,27.5,23,1299.9
+arduino,/cc/arduino/packages/DiscoveryManager.java,11,86.0,1,37min 30s,37.5,37,1553.7
+arduino,/cc/arduino/contributions/packages/ContributionsIndex.java,6,84.0,0,1h 33min,93.0,53,1172.1
+arduino,/cc/arduino/contributions/packages/ContributedPackage.java,8,83.0,0,1h 3min,63.0,44,1143.0
+arduino,/cc/arduino/utils/network/FileDownloaderCache.java,13,81.0,0,2h 35min,155.0,129,3100.8
+arduino,/cc/arduino/contributions/packages/ui/ContributionManagerUI.java,4,80.0,0,25min,25.0,55,1450.2
+arduino,/processing/app/debug/RunnerException.java,6,80.0,0,0,0.0,57,1434.0
+arduino,/processing/app/linux/Platform.java,9,79.0,0,58min 30s,58.5,43,1852.8
+arduino,/processing/app/EditorLineStatus.java,11,77.0,0,28min,28.0,51,1836.6
+arduino,/processing/app/PresentMode.java,8,77.0,0,7min 30s,7.5,19,1146.3
+arduino,/cc/arduino/utils/FileHash.java,5,70.0,0,11min,11.0,11,789.0
+arduino,/processing/app/linux/GTKLookAndFeelFixer.java,4,70.0,0,10min,10.0,13,876.3
+arduino,/processing/app/debug/LegacyTargetPlatform.java,8,69.0,0,1h 6min,66.0,74,2244.0
+arduino,/processing/app/packages/UserLibrary.java,5,69.0,3,1h 51min,111.0,105,3050.7
+arduino,/cc/arduino/packages/formatter/AStyleInterface.java,10,65.0,1,10min,10.0,22,897.3
+arduino,/cc/arduino/packages/discoverers/serial/SerialDiscovery.java,7,65.0,1,1h 25min,85.0,45,1977.3
+arduino,/processing/app/macosx/SystemProfilerParser.java,11,65.0,4,2h 20min,140.0,31,1159.2
+arduino,/cc/arduino/contributions/ContributionsSelfCheck.java,7,63.0,3,1h 32min,92.0,50,2064.6
+arduino,/processing/app/helpers/OSUtils.java,10,63.0,0,0,0.0,19,1059.0
+arduino,/cc/arduino/utils/network/FileDownloader.java,5,62.0,0,1h 4min,64.0,94,2900.4
+arduino,/processing/app/debug/Sizer.java,8,58.0,0,38min,38.0,39,1296.6
+arduino,/processing/app/syntax/SketchTextArea.java,13,58.0,1,1h 40min,100.0,91,2352.3
+arduino,/cc/arduino/packages/Uploader.java,10,58.0,0,1h 24min,84.0,62,1637.7
+arduino,/processing/app/I18n.java,19,57.0,0,27min,27.0,35,814.8
+arduino,/cc/arduino/contributions/packages/ui/ContributionIndexTableModel.java,7,56.0,3,1h 14min,74.0,56,1529.4
+arduino,/cc/arduino/contributions/libraries/LibrariesIndex.java,5,55.0,2,1h 49min,109.0,53,1940.1
+arduino,/processing/app/syntax/PdeKeywords.java,5,53.0,1,38min 30s,38.5,47,1574.7
+arduino,/cc/arduino/contributions/packages/ContributedTool.java,5,50.0,0,31min,31.0,63,2048.4
+arduino,/cc/arduino/contributions/GPGDetachedSignatureVerifier.java,3,50.0,0,57min 30s,57.5,37,785.7
+arduino,/cc/arduino/contributions/libraries/LibrariesIndexer.java,6,50.0,1,1h 51min,111.0,84,2800.2
+arduino,/cc/arduino/UploaderUtils.java,4,50.0,0,16min,16.0,20,714.6
+arduino,/processing/app/tools/FixEncoding.java,4,48.0,0,30min,30.0,26,831.0
+arduino,/cc/arduino/contributions/libraries/ui/LibrariesIndexTableModel.java,9,48.0,1,1h 32min,92.0,72,1936.8
+arduino,/processing/app/EditorConsole.java,4,46.0,1,42min 30s,42.5,42,1362.9
+arduino,/processing/app/helpers/NetUtils.java,2,45.0,0,50min,50.0,24,1080.0
+arduino,/processing/app/tools/ZipDeflater.java,8,45.0,0,37min 30s,37.5,43,1217.4
+arduino,/cc/arduino/net/CustomProxySelector.java,4,42.0,0,1h 17min,77.0,60,1317.6
+arduino,/processing/app/tools/Archiver.java,9,40.0,1,36min,36.0,39,2139.0
+arduino,/cc/arduino/packages/Discovery.java,2,40.0,0,0,0.0,8,232.8
+arduino,/cc/arduino/i18n/Languages.java,3,40.0,0,25min,25.0,12,540.0
+arduino,/processing/app/helpers/PreferencesMap.java,5,40.0,3,2h,120.0,66,2143.8
+arduino,/processing/app/AbstractTextMonitor.java,3,36.0,0,30min,30.0,66,1492.2
+arduino,/cc/arduino/i18n/ExternalProcessOutputParser.java,2,35.0,0,17min 30s,17.5,26,1109.1
+arduino,/cc/arduino/contributions/GZippedJsonDownloader.java,2,35.0,0,10min,10.0,29,1042.8
+arduino,/processing/app/debug/MessageSiphon.java,6,35.0,1,41min 30s,41.5,32,1744.5
+arduino,/cc/arduino/contributions/VersionHelper.java,4,35.0,0,40min,40.0,14,722.7
+arduino,/processing/app/helpers/SimpleAction.java,3,34.0,0,0,0.0,41,902.1
+arduino,/processing/app/helpers/BasicUserNotifier.java,6,32.0,0,5min,5.0,16,656.4
+arduino,/processing/app/SketchFile.java,6,32.0,0,1h 36min,96.0,87,2360.4
+arduino,/cc/arduino/Constants.java,6,30.0,0,15min,15.0,33,1055.7
+arduino,/cc/arduino/contributions/packages/ContributedPlatform.java,3,30.0,0,1h 45min,105.0,71,1965.9
+arduino,/cc/arduino/view/Event.java,1,30.0,0,0,0.0,14,320.1
+arduino,/cc/arduino/packages/uploaders/GenericNetworkUploader.java,2,30.0,0,8min 30s,8.5,30,764.7
+arduino,/cc/arduino/view/JMenuUtils.java,1,30.0,0,10min,10.0,11,510.9
+arduino,/processing/app/helpers/Keys.java,1,30.0,0,6min,6.0,31,881.1
+arduino,/processing/app/legacy/PConstants.java,2,30.0,0,7min 30s,7.5,9,261.9
+arduino,/processing/app/helpers/ProcessUtils.java,1,30.0,0,11min,11.0,12,598.2
+arduino,/processing/app/helpers/Ticks.java,2,30.0,1,17min 30s,17.5,23,831.0
+arduino,/processing/app/UpdateCheck.java,5,30.0,0,27min 30s,27.5,25,1138.2
+arduino,/processing/app/Sketch.java,9,29.0,0,2h,120.0,99,2746.8
+arduino,/cc/arduino/packages/discoverers/NetworkDiscovery.java,6,27.0,0,1h 5min,65.0,51,1662.0
+arduino,/processing/app/NetworkMonitor.java,11,27.0,0,32min 30s,32.5,49,1786.5
+arduino,/processing/app/NewBoardListener.java,4,25.0,3,39min 30s,39.5,22,897.3
+arduino,/cc/arduino/contributions/ui/InstallerTableCell.java,3,24.0,0,7min 30s,7.5,19,743.7
+arduino,/cc/arduino/net/PACSupportMethods.java,4,24.0,0,40min,40.0,64,1915.8
+arduino,/cc/arduino/contributions/packages/ContributedTargetPackage.java,2,22.0,0,0,0.0,33,698.4
+arduino,/processing/app/debug/LegacyTargetPackage.java,2,22.0,0,0,0.0,25,523.8
+arduino,/processing/app/SerialMonitor.java,5,22.0,2,46min,46.0,41,1553.7
+arduino,/processing/app/macosx/Platform.java,6,21.0,0,10min,10.0,73,1995.0
+arduino,/cc/arduino/contributions/libraries/ContributedLibrary.java,2,20.0,0,1h 2min,62.0,77,2111.4
+arduino,/cc/arduino/contributions/JsonDownloader.java,2,20.0,0,0,0.0,14,444.6
+arduino,/cc/arduino/packages/ssh/NoInteractionUserInfo.java,2,20.0,0,0,0.0,27,582.0
+arduino,/Mangler.java,5,19.0,1,10min,10.0,17,502.8
+arduino,/processing/app/helpers/BoardCloudResolver.java,3,15.0,1,37min 30s,37.5,49,1720.2
+arduino,/cc/arduino/contributions/ui/InstallerJDialogUncaughtExceptionHandler.java,3,15.0,0,0,0.0,17,349.2
+arduino,/cc/arduino/packages/uploaders/MergeSketchWithBooloader.java,1,15.0,0,0,0.0,14,569.1
+arduino,/cc/arduino/packages/ssh/SCP.java,1,15.0,0,23min,23.0,48,1354.8
+arduino,/cc/arduino/view/StubMenuListener.java,3,15.0,0,0,0.0,14,540.0
+arduino,/cc/arduino/contributions/libraries/UnavailableContributedLibrary.java,3,14.0,0,0,0.0,69,1425.9
+arduino,/processing/app/helpers/UserNotifier.java,3,14.0,0,0,0.0,20,714.6
+arduino,/cc/arduino/LoadVIDPIDSpecificPreferences.java,3,12.0,0,30min,30.0,20,627.3
+arduino,/processing/app/CommandHistory.java,2,11.0,0,50min,50.0,11,320.1
+arduino,/processing/app/syntax/SketchTextAreaEditorKit.java,6,11.0,0,1h 2min,62.0,104,4092.0
+arduino,/processing/app/helpers/ConsoleLogger.java,2,10.0,0,0,0.0,10,606.3
+arduino,/cc/arduino/contributions/ConsoleProgressListener.java,1,10.0,0,0,0.0,13,598.2
+arduino,/cc/arduino/contributions/packages/ContributedHelp.java,1,10.0,0,0,0.0,7,423.6
+arduino,/cc/arduino/DefaultUncaughtExceptionHandler.java,2,10.0,0,0,0.0,11,510.9
+arduino,/processing/app/helpers/LogFormatter.java,2,10.0,0,7min 30s,7.5,17,656.4
+arduino,/cc/arduino/view/SplashScreenHelper.java,1,10.0,0,30min,30.0,42,1026.6
+arduino,/cc/arduino/contributions/BuiltInCoreIsNewerCheck.java,7,8.0,0,37min 30s,37.5,26,868.2
+arduino,/cc/arduino/utils/network/HttpConnectionManager.java,4,8.0,0,17min 30s,17.5,39,1026.6
+arduino,/cc/arduino/i18n/I18NAwareMessageConsumer.java,1,8.0,0,10min,10.0,27,706.5
+arduino,/cc/arduino/ConsoleOutputStream.java,2,7.0,0,10min,10.0,27,764.7
+arduino,/cc/arduino/contributions/packages/HostDependentDownloadableContribution.java,1,7.0,0,1h 45min,105.0,14,627.3
+arduino,/cc/arduino/packages/BoardPort.java,1,6.0,0,1h 8min,68.0,69,2148.6
+arduino,/cc/arduino/contributions/packages/ui/ContributedPlatformTableCellEditor.java,3,6.0,0,15min,15.0,37,1254.6
+arduino,/cc/arduino/packages/formatter/AStyle.java,1,5.0,0,10min,10.0,22,772.8
+arduino,/edazdarevic/commons/net/CIDRUtils.java,3,5.0,0,7min 30s,7.5,40,1392.0
+arduino,/cc/arduino/contributions/libraries/ui/DropdownInstalledLibraryItem.java,1,5.0,0,0,0.0,13,510.9
+arduino,/cc/arduino/contributions/libraries/ui/DropdownLibraryOfCategoryItem.java,1,5.0,0,0,0.0,15,291.0
+arduino,/cc/arduino/contributions/libraries/ui/DropdownLibraryOfTypeItem.java,1,5.0,0,0,0.0,15,291.0
+arduino,/cc/arduino/contributions/libraries/ui/DropdownUpdatableLibrariesItem.java,1,5.0,0,10min,10.0,13,510.9
+arduino,/processing/app/windows/ListComPortsParser.java,1,5.0,0,20min,20.0,15,627.3
+arduino,/cc/arduino/contributions/NoopProgressListener.java,1,5.0,0,0,0.0,8,423.6
+arduino,/processing/app/helpers/filefilters/OnlyFilesWithExtension.java,1,5.0,0,10min,10.0,13,261.9
+arduino,/cc/arduino/packages/UploaderFactory.java,1,5.0,0,30min,30.0,11,510.9
+arduino,/cc/arduino/contributions/packages/ContributedTargetPlatform.java,2,4.0,0,0,0.0,11,481.8
+arduino,/processing/app/debug/LegacyTargetBoard.java,2,4.0,0,1min,1.0,49,1134.9
+arduino,/processing/app/packages/LibraryList.java,2,4.0,0,24min,24.0,41,1217.4
+arduino,/cc/arduino/utils/MultiStepProgress.java,2,4.0,0,0,0.0,31,640.2
+arduino,/cc/arduino/contributions/packages/ui/ContributedPlatformReleases.java,2,2.0,0,38min 30s,38.5,38,1773.6
+arduino,/cc/arduino/contributions/ui/FilteredAbstractTableModel.java,1,2.0,0,10min,10.0,12,510.9
+arduino,/processing/app/helpers/GUIUserNotifier.java,3,2.0,0,5min,5.0,13,320.1
+arduino,/cc/arduino/utils/Progress.java,1,2.0,0,0,0.0,10,291.0
+arduino,/processing/app/packages/UserLibraryPriorityComparator.java,1,2.0,0,1min,1.0,23,523.8
+arduino,/cc/arduino/contributions/ui/listeners/AbstractKeyListener.java,0,0.0,0,0,0.0,14,540.0
+arduino,/processing/app/syntax/ArduinoTokenMakerFactory.java,0,0.0,0,0,0.0,14,291.0
+arduino,/cc/arduino/packages/discoverers/network/BoardReachabilityFilter.java,0,0.0,0,7min 30s,7.5,20,531.9
+arduino,/cc/arduino/utils/network/CacheControl.java,0,0.0,0,0,0.0,44,1113.9
+arduino,/cc/arduino/contributions/packages/filters/CategoryPredicate.java,0,0.0,0,0,0.0,11,232.8
+arduino,/processing/app/helpers/CircularBuffer.java,0,0.0,0,10min,10.0,39,1371.0
+arduino,/cc/arduino/CompilerProgressListener.java,0,0.0,0,0,0.0,4,116.4
+arduino,/cc/arduino/CompilerUtils.java,0,0.0,0,0,0.0,16,569.1
+arduino,/cc/arduino/contributions/packages/ContributedBoard.java,0,0.0,0,0,0.0,4,116.4
+arduino,/cc/arduino/contributions/libraries/ContributedLibraryDependency.java,0,0.0,0,0,0.0,12,540.0
+arduino,/cc/arduino/contributions/libraries/ContributedLibraryReleases.java,0,0.0,0,30min,30.0,40,1180.2
+arduino,/cc/arduino/contributions/libraries/ui/ContributedLibraryReleasesComparator.java,0,0.0,0,47min 30s,47.5,17,378.3
+arduino,/cc/arduino/contributions/libraries/ui/ContributedLibraryTableCellEditor.java,0,0.0,0,15min,15.0,35,1254.6
+arduino,/cc/arduino/contributions/libraries/ui/ContributedLibraryTableCellRenderer.java,0,0.0,0,7min 30s,7.5,11,664.5
+arduino,/cc/arduino/contributions/packages/ui/ContributedPlatformTableCellRenderer.java,0,0.0,0,7min 30s,7.5,11,664.5
+arduino,/cc/arduino/contributions/packages/ContributedToolReference.java,0,0.0,0,12min,12.0,20,743.7
+arduino,/cc/arduino/contributions/ui/listeners/DelegatingKeyListener.java,0,0.0,0,30min,30.0,18,378.3
+arduino,/cc/arduino/files/DeleteFilesOnShutdown.java,0,0.0,0,17min 30s,17.5,20,349.2
+arduino,/processing/app/tools/DiscourseFormat.java,0,0.0,0,36min,36.0,13,569.1
+arduino,/processing/app/helpers/DocumentTextChangeListener.java,0,0.0,0,0,0.0,17,407.4
+arduino,/processing/app/tools/DoubleQuotedArgumentsOnWindowsCommandLine.java,0,0.0,0,0,0.0,20,685.5
+arduino,/cc/arduino/contributions/DownloadableContribution.java,0,0.0,0,17min 30s,17.5,33,756.6
+arduino,/cc/arduino/contributions/DownloadableContributionVersionComparator.java,0,0.0,0,0,0.0,9,452.7
+arduino,/cc/arduino/contributions/filters/DownloadableContributionWithVersionPredicate.java,0,0.0,0,0,0.0,11,232.8
+arduino,/cc/arduino/contributions/packages/ui/DropdownAllCoresItem.java,0,0.0,0,0,0.0,12,481.8
+arduino,/cc/arduino/contributions/libraries/ui/DropdownAllLibraries.java,0,0.0,0,0,0.0,12,481.8
+arduino,/cc/arduino/contributions/packages/ui/DropdownCoreOfCategoryItem.java,0,0.0,0,0,0.0,13,261.9
+arduino,/cc/arduino/contributions/ui/DropdownItem.java,0,0.0,0,0,0.0,5,116.4
+arduino,/cc/arduino/contributions/packages/ui/DropdownUpdatableCoresItem.java,0,0.0,0,0,0.0,11,481.8
+arduino,/cc/arduino/contributions/packages/EmptyContributionIndex.java,0,0.0,0,0,0.0,11,481.8
+arduino,/cc/arduino/contributions/libraries/EmptyLibrariesIndex.java,0,0.0,0,0,0.0,11,481.8
+arduino,/cc/arduino/view/EventListener.java,0,0.0,0,0,0.0,6,174.6
+arduino,/cc/arduino/filters/FileExecutablePredicate.java,0,0.0,0,0,0.0,10,452.7
+arduino,/processing/app/javax/swing/filechooser/FileNameExtensionFilter.java,0,0.0,0,30min,30.0,16,349.2
+arduino,/cc/arduino/i18n/Language.java,0,0.0,0,10min,10.0,14,320.1
+arduino,/processing/app/packages/LegacyUserLibrary.java,0,0.0,0,0,0.0,18,561.0
+arduino,/cc/arduino/contributions/libraries/LibraryOfSameTypeComparator.java,0,0.0,0,47min 30s,47.5,10,481.8
+arduino,/cc/arduino/contributions/libraries/LibraryTypeComparator.java,0,0.0,0,40min,40.0,13,261.9
+arduino,/processing/app/debug/MessageConsumer.java,0,0.0,0,0,0.0,4,87.3
+arduino,/cc/arduino/MessageConsumerOutputStream.java,0,0.0,0,10min,10.0,21,714.6
+arduino,/cc/arduino/packages/MonitorFactory.java,0,0.0,0,20min,20.0,9,510.9
+arduino,/processing/app/syntax/MyConfigurableCaret.java,0,0.0,0,20min,20.0,10,481.8
+arduino,/cc/arduino/MyStreamPumper.java,0,0.0,0,10min,10.0,13,971.7
+arduino,/processing/app/helpers/filefilters/OnlyDirs.java,0,0.0,0,29min 30s,29.5,6,240.9
+arduino,/cc/arduino/contributions/packages/PackageIndexFilenameFilter.java,0,0.0,0,0,0.0,13,232.8
+arduino,/cc/arduino/utils/Pair.java,0,0.0,0,7min 30s,7.5,16,627.3
+arduino,/cc/arduino/contributions/packages/filters/PlatformArchitecturePredicate.java,0,0.0,0,0,0.0,11,232.8
+arduino,/cc/arduino/packages/discoverers/PluggableDiscoveryMessage.java,0,0.0,0,0,0.0,12,598.2
+arduino,/processing/app/helpers/PreferencesMapException.java,0,0.0,0,0,0.0,8,423.6
+arduino,/cc/arduino/ProgressAwareMessageConsumer.java,0,0.0,0,10min,10.0,15,349.2
+arduino,/cc/arduino/contributions/ui/ProgressJProgressBar.java,0,0.0,0,0,0.0,9,635.4
+arduino,/cc/arduino/contributions/ProgressListener.java,0,0.0,0,0,0.0,5,116.4
+arduino,/processing/app/Resources.java,0,0.0,0,0,0.0,7,452.7
+arduino,/cc/arduino/utils/ReverseComparator.java,0,0.0,0,0,0.0,11,232.8
+arduino,/processing/app/RunnerListener.java,0,0.0,0,0,0.0,8,232.8
+arduino,/processing/app/SerialException.java,0,0.0,0,0,0.0,16,569.1
+arduino,/processing/app/SerialNotFoundException.java,0,0.0,0,0,0.0,18,627.3
+arduino,/cc/arduino/contributions/SignatureVerifier.java,0,0.0,0,50min,50.0,26,1080.0
+arduino,/processing/app/syntax/SketchTextAreaDefaultInputMap.java,0,0.0,0,15min,15.0,6,394.5
+arduino,/processing/app/syntax/SketchTextAreaUI.java,0,0.0,0,0,0.0,21,743.7
+arduino,/processing/app/syntax/SketchTokenMaker.java,0,0.0,0,27min 30s,27.5,8,203.7
+arduino,/cc/arduino/packages/ssh/SSH.java,0,0.0,0,20min,20.0,39,1429.2
+arduino,/cc/arduino/packages/ssh/SSHClientSetupChainRing.java,0,0.0,0,0,0.0,7,203.7
+arduino,/cc/arduino/packages/ssh/SSHConfigFileSetup.java,0,0.0,0,20min,20.0,57,1164.0
+arduino,/cc/arduino/packages/ssh/SSHPwdSetup.java,0,0.0,0,0,0.0,10,481.8
+arduino,/processing/app/debug/TargetBoard.java,0,0.0,0,0,0.0,17,436.5
+arduino,/processing/app/debug/TargetPackage.java,0,0.0,0,0,0.0,16,407.4
+arduino,/processing/app/debug/TargetPlatform.java,0,0.0,0,0,0.0,22,494.7
+arduino,/processing/app/debug/TargetPlatformException.java,0,0.0,0,0,0.0,17,598.2
+arduino,/cc/arduino/contributions/packages/TestPackageIndexFilenameFilter.java,0,0.0,0,0,0.0,16,291.0
+arduino,/processing/app/syntax/Token.java,3,0.0,0,7min 30s,7.5,24,1320.9
+arduino,/processing/app/tools/Tool.java,0,0.0,0,0,0.0,8,174.6
+arduino,/processing/app/linux/UDevAdmParser.java,0,0.0,0,11min,11.0,14,722.7
+arduino,/cc/arduino/UpdatableBoardsLibsFakeURLsHandler.java,1,0.0,0,30min,30.0,22,714.6
+arduino,/cc/arduino/contributions/libraries/filters/UpdatableLibraryPredicate.java,1,0.0,0,10min,10.0,18,531.9
+arduino,/cc/arduino/contributions/packages/filters/UpdatablePlatformPredicate.java,0,0.0,0,10min,10.0,13,664.5
+arduino,/processing/app/packages/UserLibraryFolder.java,2,0.0,0,7min 30s,7.5,18,876.3
+arduino,/cc/arduino/contributions/VersionComparator.java,0,0.0,0,30min,30.0,41,1180.2

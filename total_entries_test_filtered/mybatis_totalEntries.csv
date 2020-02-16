@@ -1,0 +1,383 @@
+mybatis,/main/java/org/apache/ibatis/jdbc/AbstractSQL.java,46,253.0,1,1h 5min,65.0,302,8549.1
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLConfigBuilder.java,16,239.0,0,1h 45min,105.0,155,4479.9
+mybatis,/main/java/org/apache/ibatis/io/DefaultVFS.java,10,205.0,0,2h 12min,132.0,47,3089.7
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/PooledDataSource.java,9,161.0,0,1h 32min,92.0,192,6211.5
+mybatis,/main/java/org/apache/ibatis/jdbc/SqlBuilder.java,26,155.0,0,10min,10.0,102,2394.3
+mybatis,/main/java/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.java,15,125.0,8,1M/d 2h,600.0,450,15228.0
+mybatis,/main/java/org/apache/ibatis/jdbc/SelectBuilder.java,20,125.0,0,10min,10.0,77,1687.8
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/BeanWrapper.java,6,120.0,0,2h 50min,170.0,79,2405.7
+mybatis,/main/java/org/apache/ibatis/builder/MapperBuilderAssistant.java,7,115.0,0,2h 37min,157.0,120,3644.1
+mybatis,/main/java/org/apache/ibatis/jdbc/ScriptRunner.java,9,106.0,0,1h 5min,65.0,131,6027.3
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLMapperBuilder.java,13,105.0,0,1h 57min,117.0,143,5545.5
+mybatis,/main/java/org/apache/ibatis/executor/loader/cglib/CglibProxyFactory.java,4,102.0,5,1h 45min,105.0,95,2667.6
+mybatis,/main/java/org/apache/ibatis/executor/loader/javassist/JavassistProxyFactory.java,4,102.0,5,1h 45min,105.0,96,2821.2
+mybatis,/main/java/org/apache/ibatis/binding/MapperProxy.java,4,90.0,0,1h 7min,67.0,86,2410.5
+mybatis,/main/java/org/apache/ibatis/type/TypeHandlerRegistry.java,5,90.0,0,2h 20min,140.0,122,3810.6
+mybatis,/main/java/org/apache/ibatis/mapping/MappedStatement.java,6,85.0,0,42min 30s,42.5,251,8508.9
+mybatis,/main/java/org/apache/ibatis/reflection/Reflector.java,5,82.0,3,2h 20min,140.0,115,2817.9
+mybatis,/main/java/org/apache/ibatis/reflection/Jdk.java,9,81.0,0,7min 30s,7.5,14,876.3
+mybatis,/main/java/org/apache/ibatis/session/Configuration.java,5,78.0,0,1h 12min,72.0,471,11497.8
+mybatis,/main/java/org/apache/ibatis/io/VFS.java,8,75.0,0,1h 35min,95.0,31,1781.7
+mybatis,/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java,5,69.0,0,1h 22min,82.0,72,2530.2
+mybatis,/main/java/org/apache/ibatis/io/JBoss6VFS.java,9,66.0,0,37min 30s,37.5,63,1982.1
+mybatis,/main/java/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.java,7,66.0,0,5h 5min,305.0,140,4761.3
+mybatis,/main/java/org/apache/ibatis/executor/loader/AbstractSerialStateHolder.java,3,60.0,0,17min 30s,17.5,66,2003.1
+mybatis,/main/java/org/apache/ibatis/cache/CacheKey.java,2,60.0,0,1h 22min,82.0,49,1172.1
+mybatis,/main/java/org/apache/ibatis/logging/LogFactory.java,3,60.0,0,17min 30s,17.5,42,1217.4
+mybatis,/main/java/org/apache/ibatis/logging/stdout/StdOutImpl.java,6,60.0,0,0,0.0,37,976.5
+mybatis,/main/java/org/apache/ibatis/mapping/ResultMap.java,3,56.0,0,1h 15min,75.0,126,4404.0
+mybatis,/main/java/org/apache/ibatis/executor/loader/AbstractEnhancedDeserializationProxy.java,4,52.0,0,27min 30s,27.5,28,852.0
+mybatis,/main/java/org/apache/ibatis/session/SqlSessionManager.java,3,48.0,0,35min,35.0,286,11281.8
+mybatis,/main/java/org/apache/ibatis/builder/SqlSourceBuilder.java,2,42.0,0,47min 30s,47.5,50,1545.6
+mybatis,/main/java/org/apache/ibatis/builder/BaseBuilder.java,2,40.0,0,2h 7min,127.0,71,2003.1
+mybatis,/main/java/org/apache/ibatis/reflection/factory/DefaultObjectFactory.java,2,40.0,0,1h 2min,62.0,29,1013.7
+mybatis,/main/java/org/apache/ibatis/binding/MapperMethod.java,4,35.0,0,2h 20min,140.0,141,3852.6
+mybatis,/main/java/org/apache/ibatis/executor/BaseExecutor.java,2,34.0,0,1h 12min,72.0,159,4214.7
+mybatis,/main/java/org/apache/ibatis/scripting/defaults/DefaultParameterHandler.java,2,32.0,0,15min,15.0,20,743.7
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/PreparedStatementLogger.java,2,32.0,0,1h 32min,92.0,15,473.7
+mybatis,/main/java/org/apache/ibatis/reflection/ArrayUtil.java,1,30.0,0,6h 52min,412.0,10,540.0
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/ConnectionLogger.java,2,30.0,0,1h 5min,65.0,14,473.7
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/DynamicContext.java,1,30.0,0,1h 15min,75.0,64,1587.6
+mybatis,/main/java/org/apache/ibatis/cache/decorators/SoftCache.java,1,30.0,0,10min,10.0,66,2737.2
+mybatis,/main/java/org/apache/ibatis/cache/decorators/WeakCache.java,1,30.0,0,10min,10.0,65,2583.6
+mybatis,/main/java/org/apache/ibatis/jdbc/Null.java,2,25.0,0,0,0.0,11,291.0
+mybatis,/main/java/org/apache/ibatis/executor/loader/ResultLoaderMap.java,5,25.0,0,42min 30s,42.5,114,3498.6
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/ForEachSqlNode.java,2,24.0,0,40min,40.0,107,3265.8
+mybatis,/main/java/org/apache/ibatis/type/BaseTypeHandler.java,2,20.0,0,45min,45.0,71,2413.8
+mybatis,/main/java/org/apache/ibatis/type/ClobTypeHandler.java,1,20.0,2,10min,10.0,35,1495.5
+mybatis,/main/java/org/apache/ibatis/cursor/defaults/DefaultCursor.java,1,20.0,0,37min 30s,37.5,75,2530.2
+mybatis,/main/java/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java,1,20.0,0,30min,30.0,64,1741.2
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/ExpressionEvaluator.java,1,20.0,0,50min,50.0,16,598.2
+mybatis,/main/java/org/apache/ibatis/builder/InitializingObject.java,1,20.0,0,0,0.0,1,0.0
+mybatis,/main/java/org/apache/ibatis/plugin/Interceptor.java,1,20.0,0,0,0.0,11,291.0
+mybatis,/main/java/org/apache/ibatis/logging/commons/JakartaCommonsLoggingImpl.java,1,20.0,0,0,0.0,32,523.8
+mybatis,/main/java/org/apache/ibatis/logging/log4j2/Log4j2Impl.java,1,20.0,0,0,0.0,47,1985.4
+mybatis,/main/java/org/apache/ibatis/cache/decorators/LoggingCache.java,1,20.0,0,0,0.0,55,1852.8
+mybatis,/main/java/org/apache/ibatis/type/NClobTypeHandler.java,1,20.0,2,10min,10.0,35,1495.5
+mybatis,/main/java/org/apache/ibatis/reflection/OptionalUtil.java,2,20.0,0,0,0.0,11,510.9
+mybatis,/main/java/org/apache/ibatis/mapping/ParameterMapping.java,1,20.0,0,15min,15.0,114,4033.8
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/PooledConnection.java,1,20.0,0,57min 30s,57.5,22,582.0
+mybatis,/main/java/org/apache/ibatis/reflection/property/PropertyCopier.java,1,20.0,0,0,0.0,12,789.0
+mybatis,/main/java/org/apache/ibatis/io/ResolverUtil.java,1,20.0,0,20min,20.0,41,1516.5
+mybatis,/main/java/org/apache/ibatis/mapping/ResultMapping.java,1,20.0,0,1h 20min,80.0,197,6921.3
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/ResultSetLogger.java,1,20.0,0,35min,35.0,28,852.0
+mybatis,/main/java/org/apache/ibatis/executor/resultset/ResultSetWrapper.java,1,20.0,0,55min,55.0,66,1936.8
+mybatis,/main/java/org/apache/ibatis/cache/decorators/SerializedCache.java,1,20.0,0,10min,10.0,83,3086.4
+mybatis,/main/java/org/apache/ibatis/logging/slf4j/Slf4jImpl.java,1,20.0,0,10min,10.0,51,2321.7
+mybatis,/main/java/org/apache/ibatis/logging/slf4j/Slf4jLoggerImpl.java,1,20.0,0,0,0.0,30,494.7
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/StatementLogger.java,1,20.0,0,57min 30s,57.5,14,473.7
+mybatis,/main/java/org/apache/ibatis/datasource/unpooled/UnpooledDataSource.java,1,20.0,0,15min,15.0,169,4360.2
+mybatis,/main/java/org/apache/ibatis/mapping/CacheBuilder.java,1,18.0,0,1h 45min,105.0,94,3485.7
+mybatis,/main/java/org/apache/ibatis/jdbc/SqlRunner.java,2,18.0,0,1h 12min,72.0,45,2533.5
+mybatis,/main/java/org/apache/ibatis/parsing/GenericTokenParser.java,1,16.0,0,35min,35.0,16,627.3
+mybatis,/main/java/org/apache/ibatis/executor/BatchResult.java,2,15.0,0,0,0.0,26,640.2
+mybatis,/main/java/org/apache/ibatis/executor/loader/CglibProxyFactory.java,2,15.0,0,0,0.0,4,489.9
+mybatis,/main/java/org/apache/ibatis/mapping/DefaultDatabaseIdProvider.java,2,15.0,0,0,0.0,3,336.3
+mybatis,/main/java/org/apache/ibatis/io/ExternalResources.java,3,15.0,0,0,0.0,22,926.4
+mybatis,/main/java/org/apache/ibatis/exceptions/IbatisException.java,2,15.0,0,0,0.0,12,357.3
+mybatis,/main/java/org/apache/ibatis/executor/loader/JavassistProxyFactory.java,2,15.0,0,0,0.0,4,489.9
+mybatis,/main/java/org/apache/ibatis/parsing/XNode.java,3,15.0,0,5h 20min,320.0,195,4966.5
+mybatis,/main/java/org/apache/ibatis/executor/statement/CallableStatementHandler.java,1,11.0,0,27min 30s,27.5,52,1691.1
+mybatis,/main/java/org/apache/ibatis/executor/Executor.java,1,10.0,0,0,0.0,54,1455.0
+mybatis,/main/java/org/apache/ibatis/cache/NullCacheKey.java,1,10.0,0,0,0.0,10,328.2
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/OgnlCache.java,1,10.0,0,10min,10.0,17,685.5
+mybatis,/main/java/org/apache/ibatis/type/TypeReference.java,3,10.0,0,20min,20.0,13,444.6
+mybatis,/main/java/org/apache/ibatis/type/UnknownTypeHandler.java,2,10.0,0,1h 17min,77.0,55,1587.6
+mybatis,/main/java/org/apache/ibatis/reflection/MetaClass.java,3,9.0,0,2h 10min,130.0,89,2974.8
+mybatis,/main/java/org/apache/ibatis/executor/keygen/SelectKeyGenerator.java,2,9.0,0,15min,15.0,28,764.7
+mybatis,/main/java/org/apache/ibatis/session/defaults/DefaultSqlSession.java,1,8.0,0,1h 55min,115.0,175,4853.4
+mybatis,/main/java/org/apache/ibatis/executor/ResultExtractor.java,1,8.0,0,17min 30s,17.5,14,444.6
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLIncludeTransformer.java,1,8.0,0,55min,55.0,25,1109.1
+mybatis,/main/java/org/apache/ibatis/reflection/ParamNameResolver.java,1,6.0,1,55min,55.0,26,822.9
+mybatis,/main/java/org/apache/ibatis/reflection/TypeParameterResolver.java,1,6.0,0,2h 45min,165.0,111,3228.6
+mybatis,/main/java/org/apache/ibatis/reflection/DefaultReflectorFactory.java,1,5.0,0,20min,20.0,16,349.2
+mybatis,/main/java/org/apache/ibatis/mapping/Discriminator.java,1,5.0,0,0,0.0,26,889.2
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/MapWrapper.java,1,5.0,0,2h 20min,140.0,64,2268.3
+mybatis,/main/java/org/apache/ibatis/mapping/ParameterMap.java,1,5.0,0,0,0.0,35,1466.4
+mybatis,/main/java/org/apache/ibatis/reflection/SystemMetaObject.java,1,5.0,0,7min 30s,7.5,18,876.3
+mybatis,/main/java/org/apache/ibatis/type/JdbcType.java,1,2.0,0,7min 30s,7.5,11,357.3
+mybatis,/main/java/org/apache/ibatis/scripting/LanguageDriverRegistry.java,1,2.0,0,10min,10.0,27,677.4
+mybatis,/main/java/org/apache/ibatis/type/Alias.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/AmbiguousMethodInvoker.java,0,0.0,0,0,0.0,13,291.0
+mybatis,/main/java/org/apache/ibatis/annotations/Arg.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/ArrayTypeHandler.java,0,0.0,0,25min,25.0,42,1296.6
+mybatis,/main/java/org/apache/ibatis/annotations/AutomapConstructor.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/AutoMappingBehavior.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/AutoMappingUnknownColumnBehavior.java,0,0.0,0,0,0.0,33,1503.6
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/BaseJdbcLogger.java,0,0.0,0,27min 30s,27.5,63,1492.2
+mybatis,/main/java/org/apache/ibatis/executor/statement/BaseStatementHandler.java,0,0.0,0,52min 30s,52.5,50,1529.4
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/BaseWrapper.java,0,0.0,0,2h 40min,160.0,32,1225.5
+mybatis,/main/java/org/apache/ibatis/executor/BatchExecutor.java,0,0.0,0,1h 2min,62.0,45,1662.0
+mybatis,/main/java/org/apache/ibatis/executor/BatchExecutorException.java,0,0.0,0,7min 30s,7.5,7,174.6
+mybatis,/main/java/org/apache/ibatis/type/BigDecimalTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/BigIntegerTypeHandler.java,0,0.0,0,0,0.0,26,860.1
+mybatis,/main/java/org/apache/ibatis/binding/BindingException.java,0,0.0,0,7min 30s,7.5,15,415.5
+mybatis,/main/java/org/apache/ibatis/type/BlobByteObjectArrayTypeHandler.java,0,0.0,0,0,0.0,33,1188.3
+mybatis,/main/java/org/apache/ibatis/type/BlobInputStreamTypeHandler.java,0,0.0,0,20min,20.0,9,481.8
+mybatis,/main/java/org/apache/ibatis/type/BlobTypeHandler.java,0,0.0,0,0,0.0,28,1320.9
+mybatis,/main/java/org/apache/ibatis/cache/decorators/BlockingCache.java,3,0.0,0,0,0.0,60,1844.7
+mybatis,/main/java/org/apache/ibatis/type/BooleanTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/mapping/BoundSql.java,0,0.0,0,0,0.0,29,640.2
+mybatis,/main/java/org/apache/ibatis/builder/BuilderException.java,0,0.0,0,7min 30s,7.5,14,357.3
+mybatis,/main/java/org/apache/ibatis/type/ByteArrayTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/ByteArrayUtils.java,0,0.0,0,0,0.0,11,510.9
+mybatis,/main/java/org/apache/ibatis/type/ByteObjectArrayTypeHandler.java,0,0.0,0,0,0.0,31,976.5
+mybatis,/main/java/org/apache/ibatis/type/ByteTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/cache/Cache.java,0,0.0,0,0,0.0,6,0.0
+mybatis,/main/java/org/apache/ibatis/cache/CacheException.java,0,0.0,0,7min 30s,7.5,16,415.5
+mybatis,/main/java/org/apache/ibatis/annotations/CacheNamespace.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/CacheNamespaceRef.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/builder/CacheRefResolver.java,0,0.0,0,0,0.0,8,174.6
+mybatis,/main/java/org/apache/ibatis/executor/CachingExecutor.java,0,0.0,0,17min 30s,17.5,95,3589.2
+mybatis,/main/java/org/apache/ibatis/annotations/Case.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/loader/cglib/CglibSerialStateHolder.java,0,0.0,0,0,0.0,12,357.3
+mybatis,/main/java/org/apache/ibatis/type/CharacterTypeHandler.java,0,0.0,0,1h,60.0,26,860.1
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/ChooseSqlNode.java,0,0.0,0,20min,20.0,12,415.5
+mybatis,/main/java/org/apache/ibatis/io/ClassLoaderWrapper.java,0,0.0,0,30min,30.0,16,656.4
+mybatis,/main/java/org/apache/ibatis/type/ClobReaderTypeHandler.java,0,0.0,0,20min,20.0,9,481.8
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/CollectionWrapper.java,0,0.0,0,0,0.0,50,1047.6
+mybatis,/main/java/org/apache/ibatis/annotations/ConstructorArgs.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cursor/Cursor.java,0,0.0,0,0,0.0,3,0.0
+mybatis,/main/java/org/apache/ibatis/mapping/DatabaseIdProvider.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/main/java/org/apache/ibatis/datasource/DataSourceException.java,0,0.0,0,7min 30s,7.5,14,415.5
+mybatis,/main/java/org/apache/ibatis/datasource/DataSourceFactory.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/main/java/org/apache/ibatis/type/DateOnlyTypeHandler.java,0,0.0,0,30min,30.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/DateTypeHandler.java,0,0.0,0,30min,30.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/executor/result/DefaultMapResultHandler.java,1,0.0,0,10min,10.0,14,349.2
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/DefaultObjectWrapperFactory.java,0,0.0,0,0,0.0,11,481.8
+mybatis,/main/java/org/apache/ibatis/executor/result/DefaultResultContext.java,0,0.0,0,0,0.0,20,465.6
+mybatis,/main/java/org/apache/ibatis/executor/result/DefaultResultHandler.java,0,0.0,0,0,0.0,14,232.8
+mybatis,/main/java/org/apache/ibatis/annotations/Delete.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/DeleteProvider.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/DoubleTypeHandler.java,0,0.0,0,0,0.0,28,1320.9
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/DynamicSqlSource.java,0,0.0,0,0,0.0,12,261.9
+mybatis,/main/java/org/apache/ibatis/type/EnumOrdinalTypeHandler.java,0,0.0,0,40min,40.0,35,939.3
+mybatis,/main/java/org/apache/ibatis/type/EnumTypeHandler.java,0,0.0,0,0,0.0,27,793.8
+mybatis,/main/java/org/apache/ibatis/mapping/Environment.java,0,0.0,0,0,0.0,44,931.2
+mybatis,/main/java/org/apache/ibatis/executor/ErrorContext.java,0,0.0,0,7min 30s,7.5,63,1367.7
+mybatis,/main/java/org/apache/ibatis/exceptions/ExceptionFactory.java,0,0.0,0,0,0.0,8,423.6
+mybatis,/main/java/org/apache/ibatis/reflection/ExceptionUtil.java,0,0.0,0,10min,10.0,9,452.7
+mybatis,/main/java/org/apache/ibatis/executor/ExecutionPlaceholder.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/ExecutorException.java,0,0.0,0,7min 30s,7.5,16,415.5
+mybatis,/main/java/org/apache/ibatis/session/ExecutorType.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/mapping/FetchType.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cache/decorators/FifoCache.java,0,0.0,0,0,0.0,51,1977.3
+mybatis,/main/java/org/apache/ibatis/type/FloatTypeHandler.java,0,0.0,0,0,0.0,28,1320.9
+mybatis,/main/java/org/apache/ibatis/annotations/Flush.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/GetFieldInvoker.java,0,0.0,0,20min,20.0,13,291.0
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/IfSqlNode.java,0,0.0,0,10min,10.0,14,444.6
+mybatis,/main/java/org/apache/ibatis/builder/IncompleteElementException.java,0,0.0,0,7min 30s,7.5,14,415.5
+mybatis,/main/java/org/apache/ibatis/annotations/Insert.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/InsertProvider.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/InstantTypeHandler.java,0,0.0,0,10min,10.0,30,947.4
+mybatis,/main/java/org/apache/ibatis/type/IntegerTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/plugin/InterceptorChain.java,0,0.0,0,0,0.0,10,232.8
+mybatis,/main/java/org/apache/ibatis/plugin/Intercepts.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/plugin/Invocation.java,0,0.0,0,0,0.0,17,436.5
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/Invoker.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/main/java/org/apache/ibatis/type/JapaneseDateTypeHandler.java,0,0.0,0,10min,10.0,30,976.5
+mybatis,/main/java/org/apache/ibatis/executor/loader/javassist/JavassistSerialStateHolder.java,0,0.0,0,0,0.0,12,357.3
+mybatis,/main/java/org/apache/ibatis/executor/keygen/Jdbc3KeyGenerator.java,0,0.0,0,2h 30min,150.0,88,2784.0
+mybatis,/main/java/org/apache/ibatis/transaction/jdbc/JdbcTransaction.java,0,0.0,0,0,0.0,54,1778.4
+mybatis,/main/java/org/apache/ibatis/transaction/jdbc/JdbcTransactionFactory.java,0,0.0,0,0,0.0,10,481.8
+mybatis,/main/java/org/apache/ibatis/logging/jdk14/Jdk14LoggingImpl.java,0,0.0,0,0,0.0,31,523.8
+mybatis,/main/java/org/apache/ibatis/datasource/jndi/JndiDataSourceFactory.java,0,0.0,0,17min 30s,17.5,18,590.1
+mybatis,/main/java/org/apache/ibatis/executor/keygen/KeyGenerator.java,0,0.0,0,0,0.0,5,116.4
+mybatis,/main/java/org/apache/ibatis/annotations/Lang.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/scripting/LanguageDriver.java,0,0.0,0,0,0.0,7,116.4
+mybatis,/main/java/org/apache/ibatis/session/LocalCacheScope.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/LocalDateTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/LocalDateTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/LocalTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/logging/Log.java,0,0.0,0,0,0.0,21,407.4
+mybatis,/main/java/org/apache/ibatis/logging/log4j2/Log4j2AbstractLoggerImpl.java,0,0.0,0,0,0.0,32,552.9
+mybatis,/main/java/org/apache/ibatis/logging/log4j2/Log4j2LoggerImpl.java,0,0.0,0,0,0.0,31,523.8
+mybatis,/main/java/org/apache/ibatis/logging/log4j/Log4jImpl.java,0,0.0,0,0,0.0,40,552.9
+mybatis,/main/java/org/apache/ibatis/logging/LogException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/main/java/org/apache/ibatis/type/LongTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/cache/decorators/LruCache.java,0,0.0,0,0,0.0,54,2006.4
+mybatis,/main/java/org/apache/ibatis/transaction/managed/ManagedTransaction.java,0,0.0,0,0,0.0,43,1201.2
+mybatis,/main/java/org/apache/ibatis/transaction/managed/ManagedTransactionFactory.java,0,0.0,0,0,0.0,12,291.0
+mybatis,/main/java/org/apache/ibatis/annotations/Many.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/MapKey.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/MappedJdbcTypes.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/MappedTypes.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/Mapper.java,0,0.0,0,0,0.0,1,29.1
+mybatis,/main/java/org/apache/ibatis/binding/MapperProxyFactory.java,0,0.0,0,0,0.0,17,407.4
+mybatis,/main/java/org/apache/ibatis/binding/MapperRegistry.java,0,0.0,0,10min,10.0,22,801.9
+mybatis,/main/java/org/apache/ibatis/reflection/MetaObject.java,0,0.0,0,1h 7min,67.0,90,3041.1
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/MethodInvoker.java,0,0.0,0,20min,20.0,14,320.1
+mybatis,/main/java/org/apache/ibatis/builder/annotation/MethodResolver.java,0,0.0,0,0,0.0,7,145.5
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/MixedSqlNode.java,0,0.0,0,0,0.0,12,232.8
+mybatis,/main/java/org/apache/ibatis/type/MonthTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/executor/keygen/NoKeyGenerator.java,0,0.0,0,7min 30s,7.5,5,270.0
+mybatis,/main/java/org/apache/ibatis/logging/nologging/NoLoggingImpl.java,0,0.0,0,0,0.0,26,801.9
+mybatis,/main/java/org/apache/ibatis/type/NStringTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/reflection/factory/ObjectFactory.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/main/java/org/apache/ibatis/type/ObjectTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/ObjectWrapper.java,0,0.0,0,0,0.0,33,960.3
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/ObjectWrapperFactory.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/main/java/org/apache/ibatis/type/OffsetDateTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/OffsetTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/OgnlClassResolver.java,0,0.0,0,0,0.0,10,510.9
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/OgnlMemberAccess.java,0,0.0,0,0,0.0,13,291.0
+mybatis,/main/java/org/apache/ibatis/annotations/One.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/Options.java,0,0.0,0,0,0.0,1,29.1
+mybatis,/main/java/org/apache/ibatis/builder/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/builder/annotation/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/builder/xml/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/jdbc/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cache/decorators/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cache/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cache/impl/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/transaction/jdbc/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/transaction/managed/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/transaction/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/datasource/jndi/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/datasource/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/datasource/unpooled/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/mapping/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/result/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/parameter/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/statement/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/keygen/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/loader/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/loader/cglib/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/loader/javassist/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/resultset/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/scripting/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/scripting/defaults/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cursor/defaults/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cursor/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/defaults/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/parsing/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/factory/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/property/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/plugin/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/binding/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/slf4j/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/log4j/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/stdout/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/commons/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/nologging/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/log4j2/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/io/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/jdk14/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/exceptions/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/Param.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/builder/ParameterExpression.java,0,0.0,0,30min,30.0,45,1611.9
+mybatis,/main/java/org/apache/ibatis/executor/parameter/ParameterHandler.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/main/java/org/apache/ibatis/mapping/ParameterMode.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/ParamNameUtil.java,0,0.0,0,0,0.0,20,810.0
+mybatis,/main/java/org/apache/ibatis/parsing/ParsingException.java,0,0.0,0,7min 30s,7.5,16,473.7
+mybatis,/main/java/org/apache/ibatis/cache/impl/PerpetualCache.java,0,0.0,0,27min 30s,27.5,41,756.6
+mybatis,/main/java/org/apache/ibatis/exceptions/PersistenceException.java,0,0.0,0,7min 30s,7.5,19,444.6
+mybatis,/main/java/org/apache/ibatis/plugin/Plugin.java,0,0.0,0,30min,30.0,33,1005.6
+mybatis,/main/java/org/apache/ibatis/plugin/PluginException.java,0,0.0,0,7min 30s,7.5,14,415.5
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/PooledDataSourceFactory.java,0,0.0,0,0,0.0,5,365.4
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/PoolState.java,0,0.0,0,15min,15.0,50,1508.4
+mybatis,/main/java/org/apache/ibatis/executor/statement/PreparedStatementHandler.java,0,0.0,0,47min 30s,47.5,45,1421.1
+mybatis,/main/java/org/apache/ibatis/annotations/Property.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/property/PropertyNamer.java,0,0.0,0,0,0.0,21,714.6
+mybatis,/main/java/org/apache/ibatis/parsing/PropertyParser.java,0,0.0,0,27min 30s,27.5,31,793.8
+mybatis,/main/java/org/apache/ibatis/reflection/property/PropertyTokenizer.java,1,0.0,0,0,0.0,32,611.1
+mybatis,/main/java/org/apache/ibatis/builder/annotation/ProviderContext.java,0,0.0,0,0,0.0,5,87.3
+mybatis,/main/java/org/apache/ibatis/builder/annotation/ProviderMethodResolver.java,0,0.0,0,17min 30s,17.5,4,29.1
+mybatis,/main/java/org/apache/ibatis/executor/loader/ProxyFactory.java,0,0.0,0,0,0.0,7,145.5
+mybatis,/main/java/org/apache/ibatis/scripting/defaults/RawLanguageDriver.java,0,0.0,0,0,0.0,13,540.0
+mybatis,/main/java/org/apache/ibatis/scripting/defaults/RawSqlSource.java,0,0.0,0,0,0.0,17,349.2
+mybatis,/main/java/org/apache/ibatis/reflection/ReflectionException.java,0,0.0,0,7min 30s,7.5,15,415.5
+mybatis,/main/java/org/apache/ibatis/reflection/ReflectorFactory.java,0,0.0,0,0,0.0,10,261.9
+mybatis,/main/java/org/apache/ibatis/io/Resources.java,0,0.0,0,0,0.0,45,1757.4
+mybatis,/main/java/org/apache/ibatis/annotations/Result.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/ResultContext.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/main/java/org/apache/ibatis/mapping/ResultFlag.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/ResultHandler.java,0,0.0,0,0,0.0,3,58.2
+mybatis,/main/java/org/apache/ibatis/executor/loader/ResultLoader.java,0,0.0,0,25min,25.0,39,1084.8
+mybatis,/main/java/org/apache/ibatis/annotations/ResultMap.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/result/ResultMapException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/main/java/org/apache/ibatis/builder/ResultMapResolver.java,0,0.0,0,7min 30s,7.5,15,320.1
+mybatis,/main/java/org/apache/ibatis/annotations/Results.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/resultset/ResultSetHandler.java,0,0.0,0,0,0.0,14,407.4
+mybatis,/main/java/org/apache/ibatis/mapping/ResultSetType.java,0,0.0,0,0,0.0,7,145.5
+mybatis,/main/java/org/apache/ibatis/annotations/ResultType.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/ReuseExecutor.java,0,0.0,0,20min,20.0,47,1076.7
+mybatis,/main/java/org/apache/ibatis/executor/statement/RoutingStatementHandler.java,0,0.0,0,7min 30s,7.5,48,1354.8
+mybatis,/main/java/org/apache/ibatis/session/RowBounds.java,0,0.0,0,7min 30s,7.5,16,349.2
+mybatis,/main/java/org/apache/ibatis/jdbc/RuntimeSqlException.java,0,0.0,0,0,0.0,14,415.5
+mybatis,/main/java/org/apache/ibatis/cache/decorators/ScheduledCache.java,0,0.0,0,10min,10.0,58,2064.6
+mybatis,/main/java/org/apache/ibatis/scripting/ScriptingException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/main/java/org/apache/ibatis/annotations/Select.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/SelectKey.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/SelectProvider.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/SetFieldInvoker.java,0,0.0,0,0,0.0,13,291.0
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/SetSqlNode.java,0,0.0,0,0,0.0,6,394.5
+mybatis,/main/java/org/apache/ibatis/type/ShortTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/plugin/Signature.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/SimpleExecutor.java,0,0.0,0,20min,20.0,38,1180.2
+mybatis,/main/java/org/apache/ibatis/executor/statement/SimpleStatementHandler.java,0,0.0,0,27min 30s,27.5,43,1641.0
+mybatis,/main/java/org/apache/ibatis/type/SimpleTypeRegistry.java,0,0.0,0,7min 30s,7.5,7,452.7
+mybatis,/main/java/org/apache/ibatis/logging/slf4j/Slf4jLocationAwareLoggerImpl.java,0,0.0,0,0,0.0,32,552.9
+mybatis,/main/java/org/apache/ibatis/jdbc/SQL.java,0,0.0,0,0,0.0,5,365.4
+mybatis,/main/java/org/apache/ibatis/mapping/SqlCommandType.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/SqlDateTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/SqlNode.java,0,0.0,0,0,0.0,4,87.3
+mybatis,/main/java/org/apache/ibatis/session/SqlSession.java,0,0.0,0,0,0.0,14,116.4
+mybatis,/main/java/org/apache/ibatis/session/SqlSessionException.java,0,0.0,0,7min 30s,7.5,16,444.6
+mybatis,/main/java/org/apache/ibatis/session/SqlSessionFactory.java,0,0.0,0,0,0.0,31,756.6
+mybatis,/main/java/org/apache/ibatis/session/SqlSessionFactoryBuilder.java,0,0.0,0,20min,20.0,54,2218.2
+mybatis,/main/java/org/apache/ibatis/mapping/SqlSource.java,0,0.0,0,0,0.0,4,87.3
+mybatis,/main/java/org/apache/ibatis/type/SqlTimestampTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/SqlTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/SqlxmlTypeHandler.java,0,0.0,0,20min,20.0,32,1034.7
+mybatis,/main/java/org/apache/ibatis/executor/statement/StatementHandler.java,0,0.0,0,0,0.0,35,931.2
+mybatis,/main/java/org/apache/ibatis/mapping/StatementType.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/statement/StatementUtil.java,0,0.0,0,10min,10.0,4,336.3
+mybatis,/main/java/org/apache/ibatis/builder/StaticSqlSource.java,0,0.0,0,0,0.0,14,291.0
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/StaticTextSqlNode.java,0,0.0,0,0,0.0,8,174.6
+mybatis,/main/java/org/apache/ibatis/type/StringTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/cache/decorators/SynchronizedCache.java,0,0.0,0,0,0.0,49,1707.3
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/TextSqlNode.java,0,0.0,0,10min,10.0,56,1222.2
+mybatis,/main/java/org/apache/ibatis/type/TimeOnlyTypeHandler.java,0,0.0,0,30min,30.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/parsing/TokenHandler.java,0,0.0,0,0,0.0,4,87.3
+mybatis,/main/java/org/apache/ibatis/exceptions/TooManyResultsException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/main/java/org/apache/ibatis/transaction/Transaction.java,0,0.0,0,0,0.0,4,29.1
+mybatis,/main/java/org/apache/ibatis/cache/decorators/TransactionalCache.java,0,0.0,0,20min,20.0,57,1911.0
+mybatis,/main/java/org/apache/ibatis/cache/TransactionalCacheManager.java,0,0.0,0,0,0.0,21,685.5
+mybatis,/main/java/org/apache/ibatis/transaction/TransactionException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/main/java/org/apache/ibatis/transaction/TransactionFactory.java,0,0.0,0,0,0.0,1,29.1
+mybatis,/main/java/org/apache/ibatis/session/TransactionIsolationLevel.java,0,0.0,0,0,0.0,6,145.5
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/TrimSqlNode.java,0,0.0,0,25min,25.0,79,2559.3
+mybatis,/main/java/org/apache/ibatis/type/TypeAliasRegistry.java,0,0.0,0,27min 30s,27.5,28,706.5
+mybatis,/main/java/org/apache/ibatis/annotations/TypeDiscriminator.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/TypeException.java,0,0.0,0,7min 30s,7.5,15,415.5
+mybatis,/main/java/org/apache/ibatis/type/TypeHandler.java,0,0.0,0,0,0.0,22,523.8
+mybatis,/main/java/org/apache/ibatis/datasource/unpooled/UnpooledDataSourceFactory.java,0,0.0,0,10min,10.0,17,407.4
+mybatis,/main/java/org/apache/ibatis/annotations/Update.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/UpdateProvider.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/lang/UsesJava7.java,0,0.0,1,0,0.0,2,58.2
+mybatis,/main/java/org/apache/ibatis/lang/UsesJava8.java,0,0.0,1,0,0.0,2,58.2
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/VarDeclSqlNode.java,0,0.0,0,0,0.0,11,261.9
+mybatis,/main/java/org/apache/ibatis/mapping/VendorDatabaseIdProvider.java,0,0.0,0,40min,40.0,31,1005.6
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/WhereSqlNode.java,0,0.0,0,0,0.0,8,423.6
+mybatis,/main/java/org/apache/ibatis/executor/loader/WriteReplaceInterface.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/XMLLanguageDriver.java,0,0.0,0,30min,30.0,16,627.3
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLMapperEntityResolver.java,0,0.0,0,40min,40.0,18,992.7
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/XMLScriptBuilder.java,0,0.0,0,45min,45.0,117,5474.4
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLStatementBuilder.java,0,0.0,0,1h 2min,62.0,39,939.3
+mybatis,/main/java/org/apache/ibatis/parsing/XPathParser.java,0,0.0,0,45min,45.0,160,4048.2
+mybatis,/main/java/org/apache/ibatis/type/YearMonthTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/YearTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/ZonedDateTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1

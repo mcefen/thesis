@@ -1,0 +1,938 @@
+openrefine,/com/google/refine/clustering/binning/Metaphone3.java,355,1951.0,4,7M/d 4h,3600.0,359,15629.1
+openrefine,/com/google/refine/expr/util/CalendarParser.java,89,1339.0,10,1M/d 6h,840.0,85,4299.0
+openrefine,/com/google/refine/tests/importers/TsvCsvImporterTests.java,19,812.0,0,3h 7min,187.0,211,15110.7
+openrefine,/com/google/refine/importing/ImportingUtilities.java,93,624.0,1,7h 37min,457.0,258,10061.1
+openrefine,/com/google/refine/Refine.java,37,499.0,0,2h 7min,127.0,119,3951.3
+openrefine,/com/google/refine/tests/expr/functions/strings/RangeTests.java,6,478.0,1,1h 30min,90.0,53,1990.2
+openrefine,/com/google/refine/tests/exporters/sql/SqlExporterTests.java,37,425.0,8,2h 52min,172.0,134,7953.0
+openrefine,/com/google/refine/tests/expr/functions/strings/ToFromConversionTests.java,15,380.0,3,1h,60.0,48,1479.3
+openrefine,/com/google/refine/model/changes/DataExtensionChange.java,45,328.0,4,2h 52min,172.0,84,3613.5
+openrefine,/com/google/refine/RefineServlet.java,59,324.0,0,1h 7min,67.0,139,4599.6
+openrefine,/com/google/refine/pcaxis/PCAxisTableDataReader.java,27,317.0,8,3h 2min,182.0,71,2376.6
+openrefine,/com/google/refine/tests/model/CellTests.java,14,280.0,0,0,0.0,95,2269.8
+openrefine,/org/openrefine/wikidata/qa/WikidataConstraintFetcher.java,109,274.0,0,2h 36min,156.0,200,4360.2
+openrefine,/com/google/refine/extension/database/DBExtensionTestUtils.java,54,268.0,0,1h 37min,97.0,111,5466.3
+openrefine,/com/google/refine/importers/tree/XmlImportUtilities.java,43,267.0,2,4h 17min,257.0,91,5498.7
+openrefine,/com/google/refine/operations/cell/TransposeColumnsIntoRowsOperation.java,29,262.0,2,2h 27min,147.0,63,2151.9
+openrefine,/com/google/refine/tests/browsing/util/ExpressionNominalValueGrouperTests.java,16,241.0,0,30min,30.0,55,2260.2
+openrefine,/com/google/refine/model/changes/ColumnSplitChange.java,34,230.0,1,2h 15min,135.0,71,2824.5
+openrefine,/com/google/refine/extension/database/DatabaseUtils.java,36,229.0,27,1M/d 2h,600.0,72,2940.9
+openrefine,/com/google/refine/commands/expr/PreviewExpressionCommand.java,11,206.0,2,1h 37min,97.0,76,4638.6
+openrefine,/com/google/refine/extension/database/DBQueryResultImportReader.java,18,204.0,5,1h 55min,115.0,77,2564.1
+openrefine,/com/google/refine/browsing/facets/ScatterplotFacet.java,66,200.0,0,3h 32min,212.0,222,6856.5
+openrefine,/com/google/refine/model/Recon.java,41,196.0,0,5h 12min,312.0,167,6256.8
+openrefine,/com/google/refine/browsing/facets/RangeFacet.java,33,191.0,3,2h 40min,160.0,161,4395.9
+openrefine,/org/openrefine/wikidata/updates/scheduler/PointerExtractor.java,11,190.0,0,30min,30.0,52,1529.4
+openrefine,/com/google/refine/tests/expr/functions/strings/TrimTests.java,20,187.0,3,37min 30s,37.5,73,2172.9
+openrefine,/com/google/refine/operations/column/ColumnAdditionByFetchingURLsOperation.java,36,186.0,0,2h 20min,140.0,133,4083.9
+openrefine,/com/google/refine/tests/importers/RdfTripleImporterTests.java,13,186.0,2,1h 35min,95.0,106,6677.4
+openrefine,/com/google/refine/tests/exporters/HtmlExporterTests.java,14,182.0,4,20min,20.0,68,2911.8
+openrefine,/com/google/refine/tests/importers/XmlImportUtilitiesTests.java,17,179.0,1,1h 52min,112.0,143,6197.1
+openrefine,/com/google/refine/extension/database/DBQueryResultPreviewReader.java,18,173.0,5,1h 47min,107.0,76,2784.0
+openrefine,/com/google/refine/tests/expr/functions/booleans/BooleanTests.java,9,171.0,4,47min 30s,47.5,39,1736.4
+openrefine,/com/google/refine/extension/gdata/FusionTableImporter.java,20,167.0,2,2h 22min,142.0,82,3033.0
+openrefine,/com/google/refine/commands/Command.java,27,166.0,2,1h 5min,65.0,135,5508.3
+openrefine,/com/google/refine/browsing/facets/TimeRangeFacet.java,31,166.0,3,1h 45min,105.0,150,4345.8
+openrefine,/com/google/refine/importing/DefaultImportingController.java,16,163.0,0,2h 15min,135.0,97,4407.3
+openrefine,/com/google/refine/extension/database/cmd/SavedConnectionCommandTest.java,25,163.0,1,1h 47min,107.0,83,4548.0
+openrefine,/com/google/refine/operations/cell/MultiValuedCellSplitOperation.java,22,161.0,3,1h 27min,87.0,62,1653.9
+openrefine,/com/google/refine/grel/Scanner.java,27,161.0,1,4h 5min,245.0,82,4161.6
+openrefine,/com/google/refine/extension/database/mysql/MySQLDatabaseService.java,26,160.0,4,2h 5min,125.0,94,4195.5
+openrefine,/com/google/refine/util/JSONUtilities.java,26,158.0,0,2h 30min,150.0,87,2090.4
+openrefine,/com/google/refine/tests/expr/functions/strings/StringCaseTests.java,4,158.0,3,37min 30s,37.5,29,918.3
+openrefine,/com/google/refine/tests/model/recon/StandardReconConfigTests.java,16,154.0,0,0,0.0,112,4137.3
+openrefine,/com/google/refine/tests/expr/functions/date/DatePartTests.java,5,151.0,3,37min 30s,37.5,37,1304.7
+openrefine,/com/google/refine/tests/expr/functions/FunctionTests.java,8,151.0,4,47min 30s,47.5,38,1487.4
+openrefine,/com/google/refine/importers/TabularImportingParserBase.java,12,151.0,1,1h 45min,105.0,37,1869.0
+openrefine,/com/google/refine/tests/expr/functions/strings/FingerprintTests.java,4,150.0,3,30min,30.0,37,1275.6
+openrefine,/com/google/refine/importers/FixedWidthImporter.java,18,150.0,6,3h 7min,187.0,35,1408.2
+openrefine,/com/google/refine/expr/functions/Get.java,2,149.0,0,2h 30min,150.0,25,1175.4
+openrefine,/com/google/refine/model/RecordModel.java,24,148.0,0,1h 20min,80.0,108,4195.5
+openrefine,/com/google/refine/tests/importers/XmlImporterTests.java,14,146.0,5,1h 20min,80.0,127,6184.2
+openrefine,/com/google/refine/tests/operations/recon/ExtendDataOperationTests.java,13,145.0,0,37min 30s,37.5,112,3930.3
+openrefine,/com/google/refine/model/recon/StandardReconConfig.java,34,145.0,0,4h 5min,245.0,204,9188.1
+openrefine,/com/google/refine/operations/column/ColumnAdditionOperation.java,16,144.0,0,50min,50.0,61,1595.7
+openrefine,/com/google/refine/importing/ImportingManager.java,60,143.0,0,1h 5min,65.0,139,5068.5
+openrefine,/com/google/refine/tests/importers/WikitextImporterTests.java,5,143.0,2,1h 20min,80.0,72,4164.9
+openrefine,/com/google/refine/operations/cell/MultiValuedCellJoinOperation.java,14,141.0,2,35min,35.0,38,1312.8
+openrefine,/com/google/refine/extension/gdata/GoogleAPIExtension.java,14,140.0,3,2h 15min,135.0,74,2331.3
+openrefine,/com/google/refine/importers/OdsImporter.java,18,140.0,1,2h 8min,128.0,40,1956.3
+openrefine,/com/google/refine/extension/database/DatabaseImportController.java,23,139.0,0,1h 47min,107.0,76,2580.3
+openrefine,/com/google/refine/operations/cell/TextTransformOperation.java,15,138.0,2,2h 50min,170.0,46,1209.3
+openrefine,/com/google/refine/tests/exporters/TemplatingExporterTests.java,12,137.0,4,42min 30s,42.5,80,4124.4
+openrefine,/com/google/refine/tests/expr/functions/CrossFunctionTests.java,9,132.0,1,37min 30s,37.5,118,4528.5
+openrefine,/com/google/refine/importers/JsonImporter.java,17,130.0,33,1M/d 4h,720.0,120,3108.9
+openrefine,/com/google/refine/operations/recon/ReconJudgeSimilarCellsOperation.java,18,130.0,0,2h 50min,170.0,59,1691.1
+openrefine,/com/google/refine/tests/expr/functions/xml/ParseXmlTests.java,4,128.0,3,37min 30s,37.5,34,1188.3
+openrefine,/com/google/refine/tests/importers/JsonImporterTests.java,15,126.0,6,2h 20min,140.0,140,6504.3
+openrefine,/com/google/refine/importers/SeparatorBasedImporter.java,20,125.0,4,2h 40min,160.0,72,2721.0
+openrefine,/com/google/refine/exporters/sql/SqlInsertBuilder.java,10,125.0,0,1h 2min,62.0,32,1408.2
+openrefine,/com/google/refine/importers/ExcelImporter.java,15,124.0,1,2h 23min,143.0,42,1773.6
+openrefine,/com/google/refine/browsing/util/NumericBinIndex.java,20,123.0,1,1h 42min,102.0,79,1579.5
+openrefine,/com/google/refine/ProjectManager.java,40,123.0,2,2h 48min,168.0,102,3880.2
+openrefine,/com/google/refine/extension/gdata/GDataImporter.java,11,122.0,0,1h 10min,70.0,58,1645.8
+openrefine,/com/google/refine/model/changes/MassRowColumnChange.java,21,121.0,0,1h 5min,65.0,44,1582.8
+openrefine,/com/google/refine/extension/database/mariadb/MariaDBDatabaseService.java,20,120.0,8,2h 35min,155.0,95,4502.7
+openrefine,/com/google/refine/tests/expr/functions/html/ParseHtmlTests.java,3,120.0,3,37min 30s,37.5,34,1034.7
+openrefine,/com/google/refine/extension/database/pgsql/PgSQLDatabaseService.java,19,118.0,8,2h 15min,135.0,96,4502.7
+openrefine,/com/google/refine/exporters/CustomizableTabularExporterUtilities.java,23,117.0,1,2h 25min,145.0,115,3739.5
+openrefine,/com/google/refine/tests/importers/ExcelImporterTests.java,12,117.0,2,1h 7min,67.0,54,2342.7
+openrefine,/com/google/refine/tests/expr/functions/strings/DiffTests.java,5,116.0,3,1h 7min,67.0,59,1704.0
+openrefine,/com/google/refine/tests/RefineServletTests.java,25,116.0,0,20min,20.0,76,2829.3
+openrefine,/com/google/refine/operations/column/ColumnSplitOperation.java,29,115.0,0,1h 5min,65.0,115,3037.8
+openrefine,/com/google/refine/commands/HttpUtilities.java,18,113.0,2,37min 30s,37.5,67,2750.1
+openrefine,/com/google/refine/operations/recon/ReconOperation.java,41,111.0,1,1h 17min,77.0,115,4502.7
+openrefine,/com/google/refine/history/History.java,27,110.0,0,2h 42min,162.0,108,5636.1
+openrefine,/com/google/refine/io/ProjectUtilities.java,18,108.0,0,47min 30s,47.5,43,2014.5
+openrefine,/com/google/refine/tests/expr/functions/strings/SmartSplitTests.java,7,108.0,1,30min,30.0,48,1296.6
+openrefine,/com/google/refine/exporters/sql/SqlCreateBuilder.java,4,108.0,0,30min,30.0,26,860.1
+openrefine,/com/google/refine/importers/tree/TreeImportUtilities.java,27,106.0,0,1h 32min,92.0,51,2620.8
+openrefine,/com/google/refine/util/ParsingUtilities.java,26,105.0,0,2h 7min,127.0,103,3096.0
+openrefine,/com/google/refine/oauth/Credentials.java,8,104.0,0,0,0.0,52,1164.0
+openrefine,/com/google/refine/clustering/knn/kNNClusterer.java,28,104.0,4,35min,35.0,189,5451.6
+openrefine,/com/google/refine/process/QuickHistoryEntryProcess.java,13,104.0,0,7min 30s,7.5,55,1296.6
+openrefine,/com/google/refine/expr/functions/strings/Range.java,11,104.0,0,4h 42min,282.0,46,1728.3
+openrefine,/com/google/refine/browsing/util/TimeBinIndex.java,19,104.0,1,42min 30s,42.5,79,1608.6
+openrefine,/com/google/refine/grel/ast/OperatorCallExpr.java,7,103.0,1,6h 7min,367.0,28,955.5
+openrefine,/com/google/refine/model/ColumnModel.java,43,102.0,0,1h 40min,100.0,95,2850.3
+openrefine,/com/google/refine/oauth/OAuthUtilities.java,11,102.0,0,0,0.0,30,698.4
+openrefine,/com/google/refine/model/Project.java,28,102.0,0,1h 7min,67.0,87,4182.6
+openrefine,/com/google/refine/grel/controls/Filter.java,5,101.0,4,2h,120.0,29,1262.7
+openrefine,/com/google/refine/extension/gdata/GDataImportingController.java,10,101.0,0,1h 51min,111.0,78,2821.2
+openrefine,/com/google/refine/commands/recon/ReconJudgeOneCellCommand.java,5,101.0,0,45min,45.0,53,2305.5
+openrefine,/com/google/refine/importers/ImporterUtilities.java,19,100.0,0,1h 17min,77.0,70,3679.8
+openrefine,/com/google/refine/tests/expr/functions/CoalesceTests.java,5,96.0,3,37min 30s,37.5,33,1005.6
+openrefine,/com/google/refine/history/HistoryProcess.java,12,96.0,0,0,0.0,41,1034.7
+openrefine,/com/google/refine/model/changes/ColumnReorderChange.java,22,95.0,0,1h 20min,80.0,47,1765.5
+openrefine,/com/google/refine/operations/cell/KeyValueColumnizeOperation.java,22,94.0,1,1h 28min,88.0,49,2035.5
+openrefine,/com/google/refine/templating/Parser.java,6,94.0,3,55min,55.0,17,934.5
+openrefine,/com/google/refine/expr/MetaParser.java,21,93.0,0,55min,55.0,47,1765.5
+openrefine,/com/google/refine/extension/database/cmd/SavedConnectionCommand.java,11,93.0,0,1h 15min,75.0,47,2130.9
+openrefine,/com/google/refine/extension/database/DBExtensionTests.java,46,92.0,0,15min,15.0,68,1396.8
+openrefine,/com/google/refine/tests/model/ReconTests.java,7,92.0,0,0,0.0,25,648.3
+openrefine,/com/google/refine/expr/functions/Slice.java,2,92.0,0,1h 30min,90.0,26,1175.4
+openrefine,/com/google/refine/expr/functions/arrays/Join.java,3,91.0,0,40min,40.0,22,714.6
+openrefine,/org/openrefine/wikidata/qa/MockConstraintFetcher.java,39,90.0,0,1h 15min,75.0,110,2926.2
+openrefine,/com/google/refine/process/ProcessManager.java,14,90.0,0,47min 30s,47.5,69,2575.5
+openrefine,/com/google/refine/operations/recon/ExtendDataOperation.java,33,89.0,0,47min 30s,47.5,84,2903.7
+openrefine,/com/google/refine/grel/controls/ForEach.java,5,89.0,3,1h 35min,95.0,25,926.4
+openrefine,/com/google/refine/extension/gdata/FusionTableHandler.java,13,89.0,1,50min,50.0,46,1537.5
+openrefine,/com/google/refine/model/Row.java,13,89.0,0,1h 17min,77.0,86,2792.1
+openrefine,/com/google/refine/importers/tree/TreeImportingParserBase.java,6,87.0,0,45min,45.0,37,2147.1
+openrefine,/com/google/refine/extension/database/DatabaseImportControllerTest.java,12,86.0,2,1h 22min,82.0,89,4328.1
+openrefine,/com/google/refine/importers/ImportingParserBase.java,7,86.0,4,1h 55min,115.0,42,1860.9
+openrefine,/com/google/refine/ClientSideResourceManager.java,20,85.0,0,37min 30s,37.5,43,1304.7
+openrefine,/com/google/refine/operations/recon/ReconDiscardJudgmentsOperation.java,4,85.0,0,22min 30s,22.5,38,1034.7
+openrefine,/com/google/refine/model/recon/DataExtensionReconConfig.java,6,84.0,0,7min 30s,7.5,25,801.9
+openrefine,/com/google/refine/io/ProjectMetadataUtilities.java,11,83.0,0,7min 30s,7.5,43,1275.6
+openrefine,/com/google/refine/tests/browsing/facets/TextSearchFacetTests.java,11,83.0,0,30min,30.0,76,2858.4
+openrefine,/com/google/refine/tests/exporters/XlsxExporterTests.java,2,82.0,5,45min,45.0,61,2729.1
+openrefine,/com/google/refine/io/FileProjectManager.java,22,81.0,0,2h 12min,132.0,166,5184.9
+openrefine,/com/google/refine/tests/exporters/CsvExporterTests.java,5,80.0,3,10min,10.0,67,2911.8
+openrefine,/com/google/refine/extension/database/model/DatabaseInfo.java,7,80.0,0,10min,10.0,58,1455.0
+openrefine,/com/google/refine/expr/functions/strings/Diff.java,3,80.0,0,2h 40min,160.0,24,963.6
+openrefine,/com/google/refine/tests/expr/functions/date/IncTests.java,3,80.0,3,37min 30s,37.5,28,918.3
+openrefine,/com/google/refine/extension/database/mariadb/MariaDBConnectionManager.java,5,80.0,5,1h,60.0,38,1678.2
+openrefine,/com/google/refine/model/changes/MassRowChange.java,12,80.0,1,35min,35.0,35,1437.3
+openrefine,/com/google/refine/tests/expr/functions/date/NowTests.java,3,80.0,3,30min,30.0,28,1071.9
+openrefine,/com/google/refine/commands/recon/GuessTypesOfColumnCommand.java,11,78.0,1,50min,50.0,69,3468.0
+openrefine,/com/google/refine/tests/commands/util/CancelProcessesCommandTests.java,11,77.0,3,47min 30s,47.5,53,2085.6
+openrefine,/com/google/refine/operations/recon/ReconMatchSpecificTopicOperation.java,5,77.0,0,30min,30.0,52,1728.3
+openrefine,/com/google/refine/tests/expr/functions/arrays/InArrayTests.java,5,75.0,3,45min,45.0,43,1267.5
+openrefine,/com/google/refine/tests/exporters/TsvExporterTests.java,6,75.0,3,10min,10.0,65,2882.7
+openrefine,/com/google/refine/expr/ExpressionUtils.java,19,74.0,0,1h 7min,67.0,69,1704.0
+openrefine,/com/google/refine/expr/functions/strings/Partition.java,2,74.0,3,55min,55.0,22,810.0
+openrefine,/com/google/refine/model/ReconCandidate.java,12,74.0,0,1h 42min,102.0,41,1611.9
+openrefine,/com/google/refine/expr/functions/strings/RPartition.java,2,74.0,3,55min,55.0,23,963.6
+openrefine,/com/google/refine/operations/cell/MassEditOperation.java,12,73.0,0,45min,45.0,61,2151.9
+openrefine,/com/google/refine/importers/XmlImporter.java,13,73.0,15,7h 5min,425.0,116,2942.4
+openrefine,/com/google/refine/tests/operations/column/ColumnAdditionByFetchingURLsOperationTests.java,11,72.0,0,1h 2min,62.0,66,2779.2
+openrefine,/com/google/refine/model/changes/ColumnChange.java,8,72.0,0,7min 30s,7.5,21,714.6
+openrefine,/com/google/refine/util/CookiesUtilities.java,8,72.0,0,17min 30s,17.5,18,436.5
+openrefine,/com/google/refine/Configurations.java,3,70.0,0,20min,20.0,26,831.0
+openrefine,/com/google/refine/grel/ControlFunctionRegistry.java,23,70.0,0,22min 30s,22.5,46,931.2
+openrefine,/com/google/util/logging/IndentingLayout.java,5,70.0,4,1h 10min,70.0,28,1167.3
+openrefine,/com/google/refine/logging/IndentingLayout.java,5,70.0,4,1h 10min,70.0,28,1167.3
+openrefine,/com/google/refine/model/changes/RowRemovalChange.java,12,70.0,1,35min,35.0,36,1466.4
+openrefine,/com/google/refine/extension/gdata/FusionTableSerializer.java,12,68.0,0,50min,50.0,45,1574.7
+openrefine,/com/google/refine/tests/clustering/binning/KeyerTests.java,5,68.0,0,10min,10.0,33,1092.9
+openrefine,/com/google/refine/model/changes/MassReconChange.java,15,68.0,0,27min 30s,27.5,53,1815.6
+openrefine,/com/google/refine/importers/WikitextImporter.java,40,68.0,0,2h 46min,166.0,300,12114.3
+openrefine,/com/google/refine/browsing/filters/ExpressionEqualRowFilter.java,17,67.0,2,3h 37min,217.0,47,1362.9
+openrefine,/com/google/refine/tests/util/TestUtils.java,10,67.0,0,35min,35.0,32,1101.0
+openrefine,/com/google/refine/commands/browsing/GetScatterplotCommand.java,28,66.0,0,52min 30s,52.5,53,2957.1
+openrefine,/com/google/refine/model/changes/RowReorderChange.java,12,66.0,0,10min,10.0,35,1466.4
+openrefine,/com/google/refine/tests/commands/project/SetProjectMetadataCommandTests.java,9,66.0,3,47min 30s,47.5,47,1632.9
+openrefine,/com/google/refine/extension/database/pgsql/PgSQLConnectionManager.java,4,65.0,4,50min,50.0,38,1678.2
+openrefine,/com/google/refine/grel/Parser.java,5,64.0,0,45min,45.0,74,3978.9
+openrefine,/com/google/refine/browsing/filters/DualExpressionsNumberComparisonRowFilter.java,27,62.0,0,1h 17min,77.0,29,611.1
+openrefine,/org/openrefine/wikidata/schema/WikibaseSchema.java,15,62.0,1,20min,20.0,69,1944.9
+openrefine,/com/google/refine/tests/exporters/XlsExporterTests.java,3,62.0,5,40min,40.0,70,3335.4
+openrefine,/com/google/refine/model/changes/ColumnMoveChange.java,14,61.0,0,35min,35.0,37,1188.3
+openrefine,/com/google/refine/browsing/facets/ListFacet.java,14,61.0,0,1h 40min,100.0,141,5699.1
+openrefine,/com/google/refine/model/recon/ReconciledDataExtensionJob.java,21,61.0,2,1h 40min,100.0,135,6533.4
+openrefine,/com/google/refine/model/recon/ReconConfig.java,23,61.0,0,37min 30s,37.5,44,1691.1
+openrefine,/com/google/refine/clustering/binning/BinningClusterer.java,16,60.0,0,42min 30s,42.5,131,3519.6
+openrefine,/com/google/refine/commands/recon/ReconClearOneCellCommand.java,3,60.0,0,7min 30s,7.5,56,2583.6
+openrefine,/com/google/refine/extension/database/stub/RefineDbServletStub.java,3,60.0,3,20min,20.0,25,984.6
+openrefine,/com/google/refine/tests/RefineServletStub.java,3,60.0,3,20min,20.0,22,868.2
+openrefine,/com/google/refine/tests/expr/functions/ContainsFunctionTests.java,4,59.0,3,37min 30s,37.5,26,918.3
+openrefine,/com/google/refine/extension/database/DatabaseModuleImpl.java,11,59.0,0,38min 30s,38.5,35,939.3
+openrefine,/com/google/refine/tests/grel/GrelTests.java,11,59.0,1,45min,45.0,79,2667.6
+openrefine,/com/google/refine/history/HistoryEntry.java,18,58.0,0,7min 30s,7.5,66,3007.2
+openrefine,/com/google/refine/operations/recon/ReconMatchBestCandidatesOperation.java,3,57.0,0,22min 30s,22.5,35,1254.6
+openrefine,/com/google/refine/browsing/facets/ScatterplotDrawingRowVisitor.java,18,57.0,0,37min 30s,37.5,54,1828.5
+openrefine,/com/google/refine/extension/gdata/UploadCommand.java,10,57.0,0,2h 5min,125.0,48,1632.9
+openrefine,/com/google/refine/extension/database/cmd/ConnectCommand.java,5,55.0,0,7min 30s,7.5,16,934.5
+openrefine,/com/google/refine/extension/database/cmd/ExecuteQueryCommand.java,5,55.0,0,7min 30s,7.5,17,1088.1
+openrefine,/com/google/refine/importers/LineBasedImporter.java,6,55.0,0,52min 30s,52.5,28,1013.7
+openrefine,/com/google/refine/extension/database/mysql/MySQLConnectionManager.java,4,55.0,5,1h,60.0,40,1707.3
+openrefine,/com/google/refine/extension/database/cmd/TestQueryCommand.java,5,55.0,0,7min 30s,7.5,17,1088.1
+openrefine,/com/google/refine/tests/operations/cell/MassOperationTests.java,2,54.0,0,0,0.0,64,2970.0
+openrefine,/com/google/refine/tests/expr/functions/math/RandomNumberTests.java,4,54.0,3,30min,30.0,36,1063.8
+openrefine,/com/google/refine/commands/row/GetRowsCommand.java,7,53.0,0,52min 30s,52.5,92,3925.5
+openrefine,/com/google/refine/tests/browsing/facets/ListFacetTests.java,7,53.0,0,0,0.0,40,902.1
+openrefine,/com/google/refine/operations/OperationRegistry.java,12,53.0,0,17min 30s,17.5,16,502.8
+openrefine,/com/google/refine/tests/operations/cell/SplitMultiValuedCellsTests.java,3,52.0,0,22min 30s,22.5,50,1940.1
+openrefine,/com/google/refine/expr/functions/strings/Phonetic.java,8,51.0,0,1h 55min,115.0,28,860.1
+openrefine,/com/google/refine/tests/commands/CommandTests.java,7,50.0,0,32min 30s,32.5,49,2687.1
+openrefine,/com/google/refine/extension/database/cmd/ConnectCommandTest.java,3,50.0,5,42min 30s,42.5,28,1320.9
+openrefine,/com/google/refine/extension/database/mysql/MySQLDatabaseServiceTest.java,4,50.0,1,17min 30s,17.5,58,1558.5
+openrefine,/com/google/refine/operations/recon/ReconUseValuesAsIdentifiersOperation.java,1,50.0,0,22min 30s,22.5,33,852.0
+openrefine,/com/google/refine/expr/functions/xml/SelectXml.java,3,50.0,0,20min,20.0,21,780.9
+openrefine,/com/google/refine/extension/database/cmd/TestConnectCommand.java,4,50.0,0,7min 30s,7.5,17,963.6
+openrefine,/com/google/refine/extension/database/cmd/TestConnectCommandTest.java,3,50.0,5,35min,35.0,28,1320.9
+openrefine,/com/google/refine/expr/functions/xml/XmlAttr.java,3,50.0,0,20min,20.0,21,780.9
+openrefine,/com/google/refine/commands/HttpHeadersSupport.java,11,49.0,0,7min 30s,7.5,32,1474.5
+openrefine,/org/openrefine/wikidata/updates/ItemUpdate.java,5,49.0,1,1h 20min,80.0,50,902.1
+openrefine,/com/google/refine/operations/recon/ReconCopyAcrossColumnsOperation.java,16,49.0,0,15min,15.0,44,1180.2
+openrefine,/org/openrefine/wikidata/operations/SaveWikibaseSchemaOperation.java,16,49.0,0,35min,35.0,62,1712.1
+openrefine,/com/google/refine/operations/column/ColumnMoveOperation.java,6,48.0,0,0,0.0,30,889.2
+openrefine,/com/google/refine/operations/column/ColumnRenameOperation.java,6,48.0,0,0,0.0,29,860.1
+openrefine,/com/google/refine/commands/project/CreateProjectCommand.java,9,48.0,0,55min,55.0,27,1291.8
+openrefine,/com/google/refine/browsing/filters/ExpressionStringComparisonRowFilter.java,11,48.0,0,1h 15min,75.0,23,494.7
+openrefine,/com/google/refine/model/AbstractOperation.java,4,47.0,0,7min 30s,7.5,36,1312.8
+openrefine,/com/google/refine/model/changes/ColumnAdditionChange.java,17,47.0,0,50min,50.0,45,1765.5
+openrefine,/com/google/refine/ProjectMetadata.java,25,47.0,0,26min,26.0,205,4659.3
+openrefine,/com/google/refine/browsing/facets/TextSearchFacet.java,15,47.0,0,1h 7min,67.0,75,1704.0
+openrefine,/com/google/refine/expr/functions/ToDate.java,8,47.0,2,3h 12min,192.0,51,1815.6
+openrefine,/com/google/refine/browsing/util/ExpressionNumericValueBinner.java,11,46.0,4,1h 5min,65.0,51,2496.3
+openrefine,/com/google/refine/clustering/binning/FingerprintKeyer.java,4,46.0,20,6h 45min,405.0,21,926.4
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/QuantityScrutinizer.java,10,46.0,0,30min,30.0,16,656.4
+openrefine,/com/google/refine/model/changes/ReconChange.java,10,46.0,0,42min 30s,42.5,46,1362.9
+openrefine,/com/google/refine/extension/database/DatabaseServiceException.java,3,45.0,0,0,0.0,29,698.4
+openrefine,/com/google/refine/extension/database/cmd/ExecuteQueryCommandTest.java,2,45.0,6,52min 30s,52.5,31,1379.1
+openrefine,/com/google/refine/io/FileHistoryEntryManager.java,6,45.0,0,0,0.0,59,2400.9
+openrefine,/com/google/refine/tests/expr/functions/strings/FindTests.java,3,45.0,3,30min,30.0,49,1442.1
+openrefine,/com/google/refine/expr/functions/html/InnerHtml.java,2,45.0,0,20min,20.0,20,627.3
+openrefine,/com/google/refine/expr/functions/xml/InnerXml.java,2,45.0,0,40min,40.0,24,714.6
+openrefine,/com/google/refine/clustering/binning/KeyerFactory.java,6,45.0,0,0,0.0,10,415.5
+openrefine,/com/google/refine/expr/functions/xml/OwnText.java,2,45.0,0,20min,20.0,21,780.9
+openrefine,/com/google/refine/expr/functions/xml/ParseXml.java,2,45.0,0,30min,30.0,24,714.6
+openrefine,/com/google/refine/extension/database/cmd/TestQueryCommandTest.java,2,45.0,6,52min 30s,52.5,31,1379.1
+openrefine,/com/google/refine/expr/functions/xml/XmlText.java,2,45.0,0,20min,20.0,21,780.9
+openrefine,/com/google/refine/commands/auth/AuthorizeCommand.java,4,44.0,0,15min,15.0,31,1350.0
+openrefine,/com/google/refine/model/changes/ColumnRemovalChange.java,12,44.0,0,57min 30s,57.5,39,1429.2
+openrefine,/com/google/refine/expr/functions/strings/Escape.java,3,44.0,0,1h 7min,67.0,25,1021.8
+openrefine,/com/google/refine/util/JsonViews.java,5,44.0,0,0,0.0,13,1038.0
+openrefine,/org/openrefine/wikidata/operations/PerformWikibaseEditsOperation.java,11,44.0,0,35min,35.0,75,2588.4
+openrefine,/com/google/refine/util/Pool.java,7,44.0,0,35min,35.0,51,2218.2
+openrefine,/org/openrefine/wikidata/testing/TestingData.java,13,44.0,0,7min 30s,7.5,96,3178.5
+openrefine,/com/google/refine/model/Column.java,15,43.0,0,45min,45.0,111,2240.7
+openrefine,/com/google/refine/importers/tree/ImportRecord.java,6,43.0,0,17min 30s,17.5,21,772.8
+openrefine,/com/google/refine/expr/functions/ToNumber.java,3,43.0,0,1h,60.0,22,839.1
+openrefine,/com/google/refine/commands/project/ImportProjectCommand.java,3,42.0,0,15min,15.0,36,2022.6
+openrefine,/com/google/refine/process/Process.java,8,42.0,0,7min 30s,7.5,25,801.9
+openrefine,/com/google/refine/sampleExtension/SampleUtil.java,3,42.0,0,0,0.0,12,540.0
+openrefine,/com/google/refine/process/LongRunningProcess.java,10,41.0,0,7min 30s,7.5,45,785.7
+openrefine,/com/google/refine/expr/functions/strings/Unescape.java,3,41.0,0,1h 7min,67.0,24,992.7
+openrefine,/com/google/refine/tests/model/ColumnGroupTests.java,2,40.0,0,0,0.0,20,590.1
+openrefine,/com/google/refine/browsing/filters/ExpressionNumberComparisonRowFilter.java,13,40.0,0,2h 7min,127.0,29,611.1
+openrefine,/com/google/refine/browsing/util/ExpressionTimeValueBinner.java,10,40.0,4,1h 5min,65.0,50,2496.3
+openrefine,/com/google/refine/util/IOUtils.java,3,40.0,0,20min,20.0,25,984.6
+openrefine,/org/openrefine/wikidata/updates/ItemUpdateTest.java,5,40.0,0,7min 30s,7.5,98,2423.4
+openrefine,/com/google/refine/expr/functions/Jsonize.java,2,40.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/extension/database/mariadb/MariaDBDatabaseServiceTest.java,4,40.0,1,17min 30s,17.5,62,1558.5
+openrefine,/com/google/refine/tests/model/ReconCandidateTests.java,2,40.0,0,0,0.0,18,685.5
+openrefine,/com/google/refine/expr/functions/math/Sum.java,2,40.0,0,10min,10.0,22,714.6
+openrefine,/org/openrefine/wikidata/schema/WbMonolingualExpr.java,2,40.0,0,20min,20.0,30,727.5
+openrefine,/org/openrefine/wikidata/schema/WbQuantityExpr.java,2,40.0,0,17min 30s,17.5,18,494.7
+openrefine,/org/openrefine/wikidata/schema/WbSnakExpr.java,2,40.0,0,10min,10.0,25,611.1
+openrefine,/com/google/refine/tests/importers/XmlImportUtilitiesStub.java,2,40.0,0,37min 30s,37.5,42,1209.3
+openrefine,/com/google/refine/expr/functions/date/DatePart.java,6,39.0,0,4h 57min,297.0,42,1707.3
+openrefine,/com/google/refine/clustering/knn/DistanceFactory.java,4,39.0,1,10min,10.0,13,444.6
+openrefine,/com/google/refine/exporters/ExporterRegistry.java,6,39.0,0,7min 30s,7.5,14,320.1
+openrefine,/com/google/refine/expr/functions/arrays/Reverse.java,2,39.0,0,17min 30s,17.5,21,685.5
+openrefine,/org/openrefine/wikidata/schema/WbStatementExprTest.java,12,39.0,0,22min 30s,22.5,93,3464.7
+openrefine,/com/google/refine/commands/recon/PreviewExtendDataCommand.java,6,38.0,1,1h,60.0,35,1906.2
+openrefine,/com/google/refine/exporters/sql/SqlExporter.java,9,38.0,0,30min,30.0,33,1188.3
+openrefine,/org/openrefine/wikidata/schema/WbItemDocumentExprTest.java,6,38.0,0,7min 30s,7.5,39,1275.6
+openrefine,/com/google/refine/model/changes/ColumnRenameChange.java,10,37.0,0,27min 30s,27.5,35,1130.1
+openrefine,/com/google/refine/operations/recon/ReconMarkNewTopicsOperation.java,5,37.0,0,50min,50.0,36,881.1
+openrefine,/com/google/refine/operations/cell/TransposeRowsIntoColumnsOperation.java,7,37.0,0,30min,30.0,32,1071.9
+openrefine,/com/google/refine/sorting/Criterion.java,9,36.0,0,1h 32min,92.0,47,2496.3
+openrefine,/com/google/refine/extension/database/DatabaseService.java,3,36.0,0,7min 30s,7.5,77,2024.1
+openrefine,/com/google/refine/tests/operations/cell/FillDownTests.java,3,36.0,0,22min 30s,22.5,51,2305.5
+openrefine,/com/google/refine/importers/MarcImporter.java,7,36.0,0,17min,17.0,18,1059.0
+openrefine,/com/google/refine/model/changes/MassCellChange.java,11,36.0,0,27min 30s,27.5,47,1736.4
+openrefine,/com/google/refine/expr/functions/strings/Match.java,2,36.0,0,30min,30.0,21,685.5
+openrefine,/com/google/refine/model/Cell.java,8,35.0,0,2h 35min,155.0,53,1720.2
+openrefine,/com/google/refine/extension/database/DatabaseServiceTest.java,3,35.0,0,7min 30s,7.5,73,1783.2
+openrefine,/com/google/refine/operations/EngineDependentMassCellOperation.java,10,35.0,0,7min 30s,7.5,43,1275.6
+openrefine,/com/google/refine/extension/database/mysql/MySQLConnectionManagerTest.java,2,35.0,3,17min 30s,17.5,28,793.8
+openrefine,/com/google/refine/expr/functions/strings/NGram.java,2,35.0,0,30min,30.0,19,627.3
+openrefine,/com/google/refine/extension/database/pgsql/PgSQLDatabaseServiceTest.java,3,35.0,0,7min 30s,7.5,58,1404.9
+openrefine,/com/google/refine/tests/RefineTest.java,11,35.0,1,40min,40.0,89,4095.3
+openrefine,/com/google/refine/util/SerializationFilters.java,6,35.0,0,37min 30s,37.5,89,2937.6
+openrefine,/com/google/refine/util/IndentWriter.java,8,34.0,0,0,0.0,57,2143.8
+openrefine,/com/google/refine/exporters/XlsExporter.java,5,34.0,0,32min 30s,32.5,25,772.8
+openrefine,/com/google/refine/tests/importers/ImporterUtilitiesTests.java,9,33.0,0,0,0.0,44,1458.3
+openrefine,/com/google/refine/model/changes/MassChange.java,10,33.0,0,27min 30s,27.5,37,1466.4
+openrefine,/com/google/refine/templating/Template.java,9,33.0,1,32min 30s,32.5,87,3319.2
+openrefine,/com/google/refine/expr/WrappedRow.java,9,33.0,0,2h 15min,135.0,65,2143.8
+openrefine,/com/google/refine/commands/project/ExportRowsCommand.java,5,32.0,0,17min 30s,17.5,23,1358.1
+openrefine,/org/openrefine/wikidata/utils/LanguageCodeStore.java,7,32.0,0,7min 30s,7.5,6,116.4
+openrefine,/com/google/refine/importers/RdfTripleImporter.java,4,32.0,0,40min,40.0,25,1050.9
+openrefine,/com/google/refine/expr/functions/strings/ToTitlecase.java,2,32.0,0,30min,30.0,22,714.6
+openrefine,/com/google/refine/expr/functions/arrays/Uniques.java,4,32.0,0,10min,10.0,21,685.5
+openrefine,/com/google/refine/expr/functions/Coalesce.java,2,31.0,1,30min,30.0,19,627.3
+openrefine,/com/google/refine/expr/functions/Cross.java,3,31.0,0,47min 30s,47.5,24,1146.3
+openrefine,/com/google/refine/expr/functions/strings/Split.java,2,31.0,0,30min,30.0,21,627.3
+openrefine,/com/google/refine/operations/cell/BlankDownOperation.java,1,30.0,0,15min,15.0,28,1109.1
+openrefine,/com/google/refine/tests/operations/cell/BlankDownTests.java,3,30.0,0,7min 30s,7.5,47,1852.8
+openrefine,/com/google/refine/model/changes/CellAtRowCellIndex.java,6,30.0,0,7min 30s,7.5,27,1042.8
+openrefine,/com/google/refine/model/changes/CellChange.java,6,30.0,0,35min,35.0,39,1831.8
+openrefine,/com/google/refine/expr/functions/math/Combin.java,3,30.0,0,37min 30s,37.5,24,897.3
+openrefine,/org/openrefine/wikidata/commands/CommandUtilities.java,1,30.0,0,0,0.0,7,577.2
+openrefine,/com/google/refine/extension/database/DatabaseTestConfig.java,3,30.0,0,15min,15.0,22,801.9
+openrefine,/com/google/refine/expr/functions/math/FactN.java,3,30.0,0,50min,50.0,25,1050.9
+openrefine,/com/google/refine/operations/cell/FillDownOperation.java,1,30.0,0,25min,25.0,28,1109.1
+openrefine,/com/google/refine/expr/functions/strings/Fingerprint.java,2,30.0,0,10min,10.0,22,685.5
+openrefine,/com/google/refine/grel/controls/ForNonBlank.java,1,30.0,0,50min,50.0,24,926.4
+openrefine,/com/google/refine/tests/commands/row/GetRowsCommandTest.java,4,30.0,0,0,0.0,34,910.2
+openrefine,/com/google/refine/tests/HistoryEntryManagerStub.java,6,30.0,0,0,0.0,50,1574.7
+openrefine,/com/google/refine/expr/functions/arrays/InArray.java,1,30.0,0,1h,60.0,22,685.5
+openrefine,/org/openrefine/wikidata/testing/JacksonSerializationTest.java,2,30.0,0,0,0.0,19,656.4
+openrefine,/com/google/refine/expr/util/JsonValueConverter.java,1,30.0,0,1h 55min,115.0,8,452.7
+openrefine,/com/google/refine/util/StringUtils.java,1,30.0,0,30min,30.0,6,394.5
+openrefine,/com/google/refine/importers/TextFormatGuesser.java,7,30.0,0,1h 50min,110.0,27,1387.2
+openrefine,/com/google/refine/extension/gdata/TokenCookie.java,1,30.0,0,0,0.0,16,320.1
+openrefine,/com/google/refine/expr/functions/strings/Unicode.java,1,30.0,0,10min,10.0,21,934.5
+openrefine,/com/google/refine/expr/functions/strings/UnicodeType.java,1,30.0,31,1M/d 2h,600.0,27,1204.5
+openrefine,/com/google/refine/grel/controls/With.java,1,30.0,1,50min,50.0,24,926.4
+openrefine,/com/google/refine/grel/controls/ForEachIndex.java,5,29.0,0,1h 35min,95.0,25,926.4
+openrefine,/com/google/refine/expr/functions/date/Inc.java,2,29.0,0,1h 55min,115.0,28,1109.1
+openrefine,/com/google/refine/grel/ast/ControlCallExpr.java,5,28.0,3,30min,30.0,21,685.5
+openrefine,/com/google/refine/grel/ast/FunctionCallExpr.java,5,28.0,3,40min,40.0,21,839.1
+openrefine,/org/openrefine/wikidata/updates/ItemUpdateBuilder.java,7,28.0,0,7min 30s,7.5,35,873.0
+openrefine,/com/google/refine/browsing/Engine.java,14,27.0,0,47min 30s,47.5,77,2193.9
+openrefine,/com/google/refine/expr/functions/strings/Find.java,3,27.0,0,20min,20.0,22,839.1
+openrefine,/com/google/refine/jython/JythonEvaluable.java,7,27.0,0,2h 45min,165.0,33,852.0
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/NewItemScrutinizer.java,7,27.0,0,22min 30s,22.5,18,743.7
+openrefine,/com/google/refine/model/changes/RowFlagChange.java,3,27.0,0,27min 30s,27.5,35,1246.5
+openrefine,/com/google/refine/model/changes/RowStarChange.java,3,27.0,0,27min 30s,27.5,35,1246.5
+openrefine,/com/google/refine/model/changes/CellAtRow.java,4,26.0,0,7min 30s,7.5,24,831.0
+openrefine,/com/google/refine/history/ChangeSequence.java,6,26.0,0,0,0.0,35,1590.9
+openrefine,/org/openrefine/wikidata/schema/WbItemVariableTest.java,3,26.0,0,17min 30s,17.5,36,1810.8
+openrefine,/com/google/refine/exporters/CsvExporter.java,6,25.0,0,7min 30s,7.5,35,881.1
+openrefine,/com/google/refine/extension/database/cmd/DatabaseCommand.java,3,25.0,0,7min 30s,7.5,22,1109.1
+openrefine,/com/google/refine/exporters/HtmlTableExporter.java,2,25.0,0,32min 30s,32.5,17,905.4
+openrefine,/com/google/refine/extension/database/mariadb/MariaDBConnectionManagerTest.java,2,25.0,1,17min 30s,17.5,28,793.8
+openrefine,/com/google/refine/expr/functions/html/ParseHtml.java,2,25.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/extension/database/pgsql/PgSQLConnectionManagerTest.java,2,25.0,0,7min 30s,7.5,28,793.8
+openrefine,/com/google/refine/operations/row/RowFlagOperation.java,4,25.0,5,30min,30.0,32,976.5
+openrefine,/com/google/refine/operations/row/RowStarOperation.java,4,25.0,5,30min,30.0,32,976.5
+openrefine,/com/google/util/threads/ThreadPoolExecutorAdapter.java,3,25.0,0,27min 30s,27.5,69,1542.3
+openrefine,/com/google/refine/expr/functions/ToString.java,2,25.0,0,1h,60.0,22,685.5
+openrefine,/com/google/refine/expr/functions/strings/Trim.java,2,25.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/operations/column/ColumnRemovalOperation.java,3,24.0,0,0,0.0,25,801.9
+openrefine,/com/google/refine/exporters/OdsExporter.java,5,24.0,0,25min,25.0,19,1088.1
+openrefine,/com/google/refine/expr/functions/strings/SmartSplit.java,3,24.0,0,27min 30s,27.5,25,772.8
+openrefine,/org/openrefine/wikidata/schema/WbStatementExpr.java,5,24.0,0,17min 30s,17.5,44,1267.5
+openrefine,/org/openrefine/wikidata/schema/WbStatementGroupExpr.java,4,24.0,1,30min,30.0,34,881.1
+openrefine,/com/google/refine/importing/ImportingJob.java,12,23.0,0,25min,25.0,73,2787.3
+openrefine,/com/google/refine/clustering/binning/NGramFingerprintKeyer.java,3,23.0,0,0,0.0,17,714.6
+openrefine,/com/google/refine/operations/row/RowReorderOperation.java,9,23.0,0,7min 30s,7.5,54,1201.2
+openrefine,/com/google/refine/importers/tree/TreeReader.java,6,23.0,0,0,0.0,44,1164.0
+openrefine,/com/google/refine/expr/functions/strings/Contains.java,2,22.0,0,41min,41.0,19,627.3
+openrefine,/com/google/refine/sorting/NumberCriterion.java,3,22.0,0,1h 15min,75.0,19,780.9
+openrefine,/com/google/refine/tests/process/ProcessManagerTests.java,2,22.0,0,0,0.0,19,436.5
+openrefine,/com/google/refine/expr/functions/math/RandomNumber.java,2,22.0,0,10min,10.0,21,656.4
+openrefine,/com/google/refine/sorting/BaseSorter.java,9,21.0,0,1h 45min,105.0,57,1940.1
+openrefine,/com/google/refine/browsing/util/ExpressionNominalValueGrouper.java,14,21.0,0,1h 15min,75.0,78,2721.0
+openrefine,/org/openrefine/wikidata/schema/WbItemDocumentExpr.java,2,21.0,1,20min,20.0,32,939.3
+openrefine,/com/google/refine/expr/functions/math/Abs.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/ACos.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/booleans/And.java,1,20.0,0,20min,20.0,20,780.9
+openrefine,/com/google/refine/expr/functions/math/ASin.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/ATan.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/ATan2.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/Ceil.java,1,20.0,0,10min,10.0,21,810.0
+openrefine,/com/google/refine/expr/functions/strings/Chomp.java,1,20.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/tests/model/ColumnTests.java,1,20.0,0,0,0.0,15,540.0
+openrefine,/com/google/refine/expr/functions/math/Cos.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/Cosh.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/Degrees.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/commands/cell/EditOneCellCommand.java,1,20.0,0,15min,15.0,54,2554.5
+openrefine,/com/google/refine/expr/functions/strings/EndsWith.java,1,20.0,4,20min,20.0,20,780.9
+openrefine,/com/google/refine/expr/functions/math/Exp.java,1,20.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/tests/commands/expr/ExpressionCommandTestBase.java,3,20.0,0,7min 30s,7.5,28,955.5
+openrefine,/com/google/refine/browsing/facets/FacetConfigResolver.java,1,20.0,2,10min,10.0,31,1005.6
+openrefine,/com/google/refine/expr/functions/FacetCount.java,1,20.0,0,37min 30s,37.5,22,839.1
+openrefine,/com/google/refine/expr/functions/math/Fact.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/Floor.java,1,20.0,0,10min,10.0,21,810.0
+openrefine,/com/google/refine/history/HistoryEntryManager.java,1,20.0,0,0,0.0,12,349.2
+openrefine,/com/google/refine/grel/controls/If.java,1,20.0,0,40min,40.0,23,772.8
+openrefine,/com/google/refine/importing/ImportingParser.java,1,20.0,0,0,0.0,4,116.4
+openrefine,/com/google/refine/expr/functions/strings/IndexOf.java,1,20.0,4,20min,20.0,20,780.9
+openrefine,/com/google/refine/expr/functions/strings/LastIndexOf.java,1,20.0,4,20min,20.0,20,780.9
+openrefine,/com/google/refine/expr/functions/Length.java,1,20.0,0,57min 30s,57.5,22,714.6
+openrefine,/com/google/refine/expr/functions/math/Ln.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/commands/lang/LoadLanguageCommand.java,2,20.0,1,28min 30s,28.5,34,1686.3
+openrefine,/com/google/refine/expr/functions/math/Log.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/Max.java,1,20.0,4,20min,20.0,21,810.0
+openrefine,/com/google/refine/expr/functions/strings/MD5.java,1,20.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/expr/functions/math/Min.java,1,20.0,4,20min,20.0,21,810.0
+openrefine,/com/google/refine/expr/functions/math/Mod.java,1,20.0,0,10min,10.0,19,627.3
+openrefine,/org/openrefine/wikidata/editing/NewItemLibrary.java,1,20.0,1,45min,45.0,28,1013.7
+openrefine,/com/google/refine/expr/functions/booleans/Or.java,1,20.0,0,20min,20.0,20,780.9
+openrefine,/com/google/refine/expr/functions/strings/ParseJson.java,1,20.0,0,20min,20.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/Pow.java,1,20.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/tests/commands/expr/PreviewExpressionCommandTests.java,2,20.0,0,0,0.0,27,764.7
+openrefine,/org/openrefine/wikidata/commands/PreviewWikibaseSchemaCommand.java,1,20.0,0,27min 30s,27.5,16,1029.9
+openrefine,/com/google/refine/expr/functions/math/Quotient.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/Radians.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/model/recon/ReconConfigResolver.java,1,20.0,2,10min,10.0,31,1005.6
+openrefine,/com/google/refine/expr/functions/strings/Reinterpret.java,1,20.0,0,30min,30.0,29,955.5
+openrefine,/com/google/refine/expr/functions/strings/Replace.java,1,20.0,0,30min,30.0,20,627.3
+openrefine,/com/google/refine/expr/functions/strings/ReplaceChars.java,1,20.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/expr/functions/math/Round.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/strings/SHA1.java,1,20.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/expr/functions/math/Sin.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/Sinh.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/arrays/Sort.java,1,20.0,0,40min,40.0,21,685.5
+openrefine,/com/google/refine/expr/functions/strings/SplitByCharType.java,1,20.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/expr/functions/strings/SplitByLengths.java,1,20.0,0,10min,10.0,22,714.6
+openrefine,/com/google/refine/expr/functions/strings/StartsWith.java,1,20.0,4,20min,20.0,20,780.9
+openrefine,/com/google/refine/expr/functions/math/Tan.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/math/Tanh.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/strings/ToLowercase.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/strings/ToUppercase.java,1,20.0,0,10min,10.0,20,656.4
+openrefine,/com/google/refine/expr/functions/Type.java,1,20.0,0,1h 17min,77.0,21,685.5
+openrefine,/com/google/refine/expr/functions/booleans/Xor.java,1,20.0,0,10min,10.0,19,627.3
+openrefine,/com/google/refine/jython/JythonAttributeTest.java,2,18.0,0,10min,10.0,26,1050.9
+openrefine,/com/google/refine/tests/browsing/facets/TimeRangeFacetTests.java,7,18.0,0,7min 30s,7.5,28,764.7
+openrefine,/com/google/refine/model/ColumnGroup.java,12,17.0,0,7min 30s,7.5,47,1757.4
+openrefine,/com/google/refine/InterProjectModel.java,9,16.0,0,52min 30s,52.5,62,2430.0
+openrefine,/com/google/refine/tests/clustering/BinningClustererTests.java,3,15.0,0,0,0.0,33,727.5
+openrefine,/com/google/refine/tests/clustering/kNNClustererTests.java,7,15.0,0,7min 30s,7.5,26,611.1
+openrefine,/org/openrefine/wikidata/schema/WbDateConstant.java,3,15.0,0,35min,35.0,25,889.2
+openrefine,/com/google/refine/operations/row/DenormalizeOperation.java,3,14.0,0,7min 30s,7.5,22,992.7
+openrefine,/com/google/refine/tests/importers/ImporterTest.java,5,14.0,0,17min 30s,17.5,50,1794.6
+openrefine,/com/google/refine/tests/util/PatternSyntaxExceptionParserTests.java,1,14.0,0,0,0.0,49,1209.3
+openrefine,/org/openrefine/wikidata/editing/ReconEntityRewriter.java,7,14.0,0,27min 30s,27.5,25,561.0
+openrefine,/org/openrefine/wikidata/schema/WbQuantityExprTest.java,2,13.0,0,0,0.0,42,1267.5
+openrefine,/com/google/refine/browsing/util/ExpressionBasedRowEvaluable.java,6,12.0,0,0,0.0,18,349.2
+openrefine,/com/google/refine/browsing/filters/ExpressionTimeComparisonRowFilter.java,6,12.0,0,40min,40.0,19,436.5
+openrefine,/com/google/refine/tests/history/HistoryEntryTests.java,3,12.0,0,7min 30s,7.5,34,756.6
+openrefine,/com/google/refine/clustering/binning/Metaphone3Keyer.java,3,12.0,0,0,0.0,10,635.4
+openrefine,/org/openrefine/wikidata/exporters/QSValuePrinterTest.java,1,12.0,0,0,0.0,57,1923.9
+openrefine,/com/google/refine/model/recon/ReconJob.java,2,12.0,0,0,0.0,8,452.7
+openrefine,/com/google/refine/tests/model/RowTests.java,1,12.0,0,0,0.0,67,1982.1
+openrefine,/org/openrefine/wikidata/schema/WbMonolingualExprTest.java,1,12.0,0,0,0.0,26,552.9
+openrefine,/com/google/refine/tests/operations/cell/KeyValueColumnizeTests.java,3,11.0,1,40min,40.0,59,2268.3
+openrefine,/org/openrefine/wikidata/exporters/QuickStatementsExporter.java,5,11.0,0,15min,15.0,61,2106.6
+openrefine,/com/google/refine/tests/model/CacheTests.java,2,10.0,0,7min 30s,7.5,53,1500.3
+openrefine,/com/google/refine/browsing/util/ConjunctiveFilteredRecords.java,4,10.0,0,20min,20.0,17,473.7
+openrefine,/com/google/refine/browsing/util/ConjunctiveFilteredRows.java,4,10.0,0,10min,10.0,26,831.0
+openrefine,/org/openrefine/wikidata/editing/EditBatchProcessor.java,6,10.0,0,1h 7min,67.0,38,1084.8
+openrefine,/com/google/refine/tests/operations/cell/JoinMultiValuedCellsTests.java,1,10.0,0,0,0.0,37,1400.1
+openrefine,/com/google/refine/clustering/binning/Keyer.java,1,10.0,0,7min 30s,7.5,17,627.3
+openrefine,/org/openrefine/wikidata/editing/NewItemLibraryTest.java,1,10.0,0,15min,15.0,32,1196.4
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/QualifierCompatibilityScrutinizer.java,5,10.0,0,22min 30s,22.5,30,889.2
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/QuantityScrutinizerTest.java,1,10.0,0,7min 30s,7.5,61,2517.3
+openrefine,/com/google/refine/tests/browsing/facets/RangeFacetTests.java,6,10.0,0,15min,15.0,27,764.7
+openrefine,/com/google/refine/tests/browsing/facets/ScatterplotFacetTests.java,6,10.0,0,22min 30s,22.5,27,764.7
+openrefine,/com/google/refine/exporters/TabularSerializer.java,5,10.0,0,7min 30s,7.5,26,1358.1
+openrefine,/com/google/refine/tests/util/ParsingUtilitiesTests.java,3,9.0,0,15min,15.0,36,1034.7
+openrefine,/com/google/refine/sorting/SortingRowVisitor.java,5,9.0,0,7min 30s,7.5,44,1217.4
+openrefine,/com/google/refine/grel/ast/FieldAccessorExpr.java,4,8.0,0,50min,50.0,18,502.8
+openrefine,/com/google/refine/tests/commands/expr/GetExpressionHistoryCommandTests.java,1,8.0,0,0,0.0,16,598.2
+openrefine,/org/openrefine/wikidata/schema/entityvalues/ReconEntityIdValueTest.java,1,8.0,0,7min 30s,7.5,48,1479.3
+openrefine,/org/openrefine/wikidata/editing/ReconEntityRewriterTest.java,1,8.0,0,7min 30s,7.5,36,1312.8
+openrefine,/com/google/refine/tests/operations/recon/ReconOperationTests.java,1,8.0,0,0,0.0,26,611.1
+openrefine,/com/google/refine/model/ReconStats.java,5,8.0,0,17min 30s,17.5,25,1329.0
+openrefine,/com/google/refine/commands/project/SetProjectTagsCommand.java,3,8.0,0,17min 30s,17.5,14,876.3
+openrefine,/org/openrefine/wikidata/updates/scheduler/UpdateSchedulerTest.java,1,8.0,0,7min 30s,7.5,52,1471.2
+openrefine,/org/openrefine/wikidata/schema/WbNameDescExprTest.java,3,8.0,0,7min 30s,7.5,38,1620.0
+openrefine,/org/openrefine/wikidata/schema/WbReferenceExprTest.java,1,8.0,0,0,0.0,26,860.1
+openrefine,/org/openrefine/wikidata/schema/WbStringConstantTest.java,1,8.0,0,0,0.0,20,436.5
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/DistinctValuesScrutinizer.java,4,7.0,0,15min,15.0,11,232.8
+openrefine,/org/openrefine/wikidata/editing/EditBatchProcessorTest.java,2,7.0,0,30min,30.0,46,1201.2
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/InverseConstraintScrutinizer.java,5,7.0,0,47min 30s,47.5,20,743.7
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/ScrutinizerTest.java,2,7.0,0,7min 30s,7.5,39,881.1
+openrefine,/com/google/refine/sorting/SortingRecordVisitor.java,4,7.0,0,7min 30s,7.5,30,831.0
+openrefine,/com/google/refine/tests/preference/TopListTests.java,2,7.0,0,0,0.0,16,569.1
+openrefine,/com/google/refine/operations/EngineDependentOperation.java,3,6.0,0,7min 30s,7.5,21,407.4
+openrefine,/org/openrefine/wikidata/utils/EntityCache.java,3,6.0,0,10min,10.0,27,772.8
+openrefine,/com/google/refine/operations/OnError.java,3,6.0,0,0,0.0,4,58.2
+openrefine,/com/google/refine/oauth/Provider.java,3,6.0,0,0,0.0,32,756.6
+openrefine,/com/google/refine/model/Record.java,3,6.0,0,7min 30s,7.5,15,1000.8
+openrefine,/com/google/refine/extension/gdata/SpreadsheetSerializer.java,2,6.0,0,7min 30s,7.5,49,1537.5
+openrefine,/org/openrefine/wikidata/schema/entityvalues/SuggestedEntityIdValue.java,3,6.0,0,10min,10.0,39,785.7
+openrefine,/org/openrefine/wikidata/schema/WbExpressionTest.java,2,6.0,0,17min 30s,17.5,22,868.2
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/WhitespaceScrutinizer.java,3,6.0,0,25min,25.0,17,531.9
+openrefine,/com/google/refine/expr/WrappedCell.java,3,6.0,0,7min 30s,7.5,22,868.2
+openrefine,/com/google/refine/clustering/ClusteredEntry.java,3,5.0,0,7min 30s,7.5,14,569.1
+openrefine,/com/google/refine/templating/Fragment.java,1,5.0,0,0,0.0,5,365.4
+openrefine,/com/google/refine/expr/functions/math/GreatestCommonDenominator.java,1,5.0,0,10min,10.0,26,1050.9
+openrefine,/com/google/refine/tests/process/HistoryProcessTests.java,1,5.0,0,0,0.0,16,473.7
+openrefine,/com/google/refine/tests/importing/ImportingUtilitiesTests.java,1,5.0,0,0,0.0,29,1042.8
+openrefine,/com/google/refine/expr/functions/math/LeastCommonMultiple.java,1,5.0,0,20min,20.0,25,897.3
+openrefine,/com/google/refine/expr/functions/math/Multinomial.java,1,5.0,0,20min,20.0,22,685.5
+openrefine,/com/google/refine/expr/functions/strings/NGramFingerprint.java,3,5.0,0,20min,20.0,31,918.3
+openrefine,/com/google/refine/expr/functions/booleans/Not.java,1,5.0,0,10min,10.0,24,743.7
+openrefine,/com/google/refine/tests/preference/PreferenceStoreTests.java,3,5.0,0,7min 30s,7.5,19,656.4
+openrefine,/com/google/refine/tests/io/ProjectMetadataTests.java,1,5.0,0,0,0.0,27,611.1
+openrefine,/org/openrefine/wikidata/qa/QAWarning.java,3,5.0,0,30min,30.0,35,1026.6
+openrefine,/org/openrefine/wikidata/qa/QAWarningStoreTest.java,3,5.0,0,7min 30s,7.5,23,619.2
+openrefine,/com/google/refine/commands/cell/TextTransformCommand.java,1,5.0,0,0,0.0,16,905.4
+openrefine,/com/google/refine/preference/TopList.java,3,5.0,0,7min 30s,7.5,27,648.3
+openrefine,/com/google/refine/tests/expr/functions/xml/xmlAttrTests.java,1,5.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/tests/expr/functions/xml/xmlTextTests.java,1,5.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/browsing/filters/AllRowsRecordFilter.java,2,4.0,0,10min,10.0,14,540.0
+openrefine,/com/google/refine/browsing/filters/AnyRowRecordFilter.java,2,4.0,0,10min,10.0,16,598.2
+openrefine,/com/google/refine/expr/CellTuple.java,2,4.0,0,17min 30s,17.5,21,868.2
+openrefine,/com/google/refine/clustering/Clusterer.java,2,4.0,0,0,0.0,15,693.6
+openrefine,/com/google/refine/operations/column/ColumnReorderOperation.java,2,4.0,0,0,0.0,21,436.5
+openrefine,/com/google/refine/commands/browsing/ComputeClustersCommand.java,2,4.0,0,7min 30s,7.5,19,934.5
+openrefine,/com/google/refine/browsing/DecoratedValue.java,2,4.0,0,7min 30s,7.5,11,789.0
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/EditScrutinizer.java,2,4.0,0,7min 30s,7.5,26,523.8
+openrefine,/com/google/refine/browsing/EngineConfig.java,3,4.0,0,30min,30.0,24,436.5
+openrefine,/com/google/refine/commands/EngineDependentCommand.java,2,4.0,3,17min 30s,17.5,19,839.1
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/EntityTypeScrutinizer.java,2,4.0,0,15min,15.0,11,510.9
+openrefine,/com/google/refine/browsing/util/FilteredRecordsAsFilteredRows.java,2,4.0,0,0,0.0,12,203.7
+openrefine,/com/google/refine/tests/importers/FixedWidthImporterTests.java,2,4.0,0,15min,15.0,22,868.2
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/FormatScrutinizer.java,2,4.0,0,45min,45.0,12,261.9
+openrefine,/com/google/refine/commands/expr/GetExpressionHistoryCommand.java,3,4.0,0,0,0.0,46,2014.5
+openrefine,/com/google/refine/commands/GetVersionCommand.java,2,4.0,0,7min 30s,7.5,28,1416.3
+openrefine,/com/google/refine/jython/JythonHasFieldsWrapper.java,3,4.0,0,57min 30s,57.5,25,677.4
+openrefine,/com/google/refine/grel/ast/LiteralExpr.java,2,4.0,0,0,0.0,14,261.9
+openrefine,/com/google/refine/preference/PreferenceStore.java,3,4.0,0,47min 30s,47.5,31,976.5
+openrefine,/org/openrefine/wikidata/exporters/QSValuePrinter.java,2,4.0,0,10min,10.0,38,1180.2
+openrefine,/com/google/refine/operations/recon/ReconClearSimilarCellsOperation.java,2,4.0,0,15min,15.0,37,881.1
+openrefine,/org/openrefine/wikidata/schema/entityvalues/ReconEntityIdValue.java,2,4.0,0,2h,120.0,53,2035.5
+openrefine,/com/google/refine/browsing/util/RowVisitorAsRecordVisitor.java,2,4.0,0,10min,10.0,24,772.8
+openrefine,/com/google/refine/grel/ast/VariableExpr.java,2,4.0,0,0,0.0,18,320.1
+openrefine,/org/openrefine/wikidata/schema/WbLanguageConstant.java,2,4.0,0,40min,40.0,21,561.0
+openrefine,/org/openrefine/wikidata/schema/WbLocationConstant.java,2,4.0,0,27min 30s,27.5,26,611.1
+openrefine,/com/google/refine/grel/controls/ForRange.java,2,3.0,0,2h 5min,125.0,29,1013.7
+openrefine,/com/google/refine/sorting/BooleanCriterion.java,1,2.0,0,30min,30.0,16,569.1
+openrefine,/com/google/refine/clustering/binning/ColognePhoneticKeyer.java,1,2.0,0,0,0.0,12,232.8
+openrefine,/org/openrefine/wikidata/editing/ConnectionManager.java,1,2.0,0,37min 30s,37.5,33,1005.6
+openrefine,/com/google/refine/grel/Control.java,1,2.0,0,0,0.0,19,378.3
+openrefine,/com/google/refine/commands/importing/CreateImportingJobCommand.java,1,2.0,0,0,0.0,15,598.2
+openrefine,/com/google/refine/sorting/DateCriterion.java,1,2.0,0,20min,20.0,16,569.1
+openrefine,/com/google/refine/clustering/binning/DoubleMetaphoneKeyer.java,1,2.0,0,0,0.0,12,232.8
+openrefine,/com/google/refine/templating/DynamicFragment.java,1,2.0,0,7min 30s,7.5,11,635.4
+openrefine,/com/google/refine/expr/EvalError.java,1,2.0,0,7min 30s,7.5,18,502.8
+openrefine,/com/google/refine/grel/Function.java,1,2.0,0,0,0.0,15,291.0
+openrefine,/com/google/refine/commands/browsing/GetClusteringFunctionsAndDistancesCommand.java,1,2.0,0,7min 30s,7.5,25,955.5
+openrefine,/com/google/refine/commands/column/GetColumnsInfoCommand.java,2,2.0,0,7min 30s,7.5,31,1503.6
+openrefine,/com/google/refine/commands/history/GetOperationsCommand.java,1,2.0,0,0,0.0,41,1715.4
+openrefine,/com/google/refine/commands/expr/GetStarredExpressionsCommand.java,1,2.0,0,0,0.0,41,1839.9
+openrefine,/com/google/refine/tests/history/HistoryTests.java,1,2.0,0,0,0.0,36,939.3
+openrefine,/com/google/refine/importers/tree/ImportColumnGroup.java,6,2.0,0,17min 30s,17.5,14,847.2
+openrefine,/com/google/refine/commands/importing/ImportingControllerCommand.java,1,2.0,2,30min,30.0,27,1071.9
+openrefine,/com/google/refine/grel/controls/IsTest.java,1,2.0,0,17min 30s,17.5,27,984.6
+openrefine,/com/google/refine/tests/expr/util/JsonValueConverterTests.java,2,2.0,0,0,0.0,45,1209.3
+openrefine,/com/google/refine/jython/JythonObjectWrapper.java,2,2.0,0,7min 30s,7.5,15,693.6
+openrefine,/com/google/refine/clustering/binning/MetaphoneKeyer.java,1,2.0,0,0,0.0,12,232.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/NoEditsMadeScrutinizer.java,1,2.0,0,7min 30s,7.5,14,291.0
+openrefine,/com/google/refine/browsing/facets/NominalFacetChoice.java,1,2.0,0,7min 30s,7.5,13,971.7
+openrefine,/com/google/refine/tests/ProjectManagerStub.java,1,2.0,0,0,0.0,32,1122.0
+openrefine,/com/google/refine/tests/ProjectManagerTests.java,5,2.0,0,40min,40.0,79,2331.3
+openrefine,/com/google/refine/model/ReconType.java,1,2.0,0,7min 30s,7.5,20,743.7
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/SelfReferentialScrutinizer.java,1,2.0,0,15min,15.0,7,423.6
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/SingleValueScrutinizer.java,1,2.0,0,17min 30s,17.5,11,789.0
+openrefine,/com/google/refine/sorting/SortingConfig.java,1,2.0,0,0,0.0,16,349.2
+openrefine,/com/google/refine/clustering/binning/SoundexKeyer.java,1,2.0,0,0,0.0,12,232.8
+openrefine,/org/openrefine/wikidata/utils/StatementGroupJson.java,1,2.0,0,0,0.0,15,291.0
+openrefine,/com/google/refine/templating/StaticFragment.java,1,2.0,0,7min 30s,7.5,11,635.4
+openrefine,/com/google/refine/util/TrackingInputStream.java,1,2.0,0,0,0.0,54,1624.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/UnsourcedScrutinizer.java,1,2.0,0,7min 30s,7.5,7,423.6
+openrefine,/com/google/refine/importing/UrlRewriter.java,4,2.0,0,7min 30s,7.5,15,780.9
+openrefine,/com/google/refine/clustering/knn/VicinoDistance.java,1,2.0,0,0,0.0,10,203.7
+openrefine,/org/openrefine/wikidata/schema/WbReferenceExpr.java,2,2.0,1,30min,30.0,24,552.9
+openrefine,/com/google/refine/extension/database/model/DatabaseTable.java,1,1.0,0,0,0.0,20,494.7
+openrefine,/com/google/refine/tests/model/changes/MassChangeTests.java,1,1.0,0,0,0.0,20,619.2
+openrefine,/com/google/refine/operations/row/RowRemovalOperation.java,1,1.0,0,0,0.0,27,889.2
+openrefine,/com/google/refine/extension/database/SQLType.java,2,1.0,0,27min 30s,27.5,54,1632.9
+openrefine,/org/openrefine/wikidata/schema/WbNameDescExpr.java,1,1.0,1,30min,30.0,24,706.5
+openrefine,/com/google/refine/tests/expr/functions/math/AbsTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/ACosTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/column/AddColumnByFetchingURLsCommand.java,0,0.0,0,0,0.0,14,540.0
+openrefine,/com/google/refine/commands/column/AddColumnCommand.java,0,0.0,0,0,0.0,12,540.0
+openrefine,/com/google/refine/tests/expr/functions/booleans/AndTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/row/AnnotateOneRowCommand.java,0,0.0,0,20min,20.0,49,1603.8
+openrefine,/com/google/refine/commands/row/AnnotateRowsCommand.java,0,0.0,0,20min,20.0,12,540.0
+openrefine,/com/google/refine/commands/history/ApplyOperationsCommand.java,1,0.0,0,0,0.0,29,1599.0
+openrefine,/com/google/refine/expr/functions/arrays/ArgsToArray.java,0,0.0,0,0,0.0,19,627.3
+openrefine,/com/google/refine/tests/expr/functions/math/ASinTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/ATan2Tests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/ATanTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/oauth/AuthorizationHeaderSigningStrategy.java,0,0.0,0,0,0.0,15,722.7
+openrefine,/org/openrefine/phonetic/keyers/BeiderMorseKeyer.java,0,0.0,0,20min,20.0,8,481.8
+openrefine,/org/openrefine/phonetic/keyers/BeiderMorseKeyerTest.java,0,0.0,0,0,0.0,16,320.1
+openrefine,/com/google/refine/importers/BinaryFormatGuesser.java,1,0.0,0,10min,10.0,8,452.7
+openrefine,/com/google/refine/expr/Binder.java,0,0.0,0,0,0.0,6,174.6
+openrefine,/com/google/refine/commands/cell/BlankDownCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/tests/sorting/BooleanCriterionTest.java,0,0.0,0,0,0.0,14,569.1
+openrefine,/com/google/refine/expr/util/CalendarParserException.java,0,0.0,0,0,0.0,4,211.8
+openrefine,/com/google/refine/commands/importing/CancelImportingJobCommand.java,0,0.0,0,0,0.0,14,818.1
+openrefine,/com/google/refine/commands/history/CancelProcessesCommand.java,0,0.0,0,0,0.0,14,693.6
+openrefine,/com/google/refine/tests/expr/functions/math/CeilTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/history/Change.java,0,0.0,0,0,0.0,12,261.9
+openrefine,/com/google/refine/tests/expr/functions/strings/ChompTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/clustering/ClustererConfig.java,0,0.0,0,0,0.0,8,232.8
+openrefine,/com/google/refine/tests/operations/column/ColumnAdditionOperationTests.java,0,0.0,0,0,0.0,17,627.3
+openrefine,/com/google/refine/tests/model/ColumnModelTests.java,0,0.0,0,0,0.0,15,693.6
+openrefine,/com/google/refine/tests/operations/column/ColumnMoveOperationTests.java,0,0.0,0,0,0.0,15,598.2
+openrefine,/com/google/refine/tests/operations/column/ColumnRemovalOperationTests.java,0,0.0,0,0,0.0,15,598.2
+openrefine,/com/google/refine/tests/operations/column/ColumnRenameOperationTests.java,0,0.0,0,0,0.0,15,598.2
+openrefine,/com/google/refine/tests/operations/column/ColumnReorderOperationTests.java,0,0.0,0,7min 30s,7.5,23,648.3
+openrefine,/com/google/refine/tests/operations/column/ColumnSplitOperationTests.java,0,0.0,0,0,0.0,25,801.9
+openrefine,/com/google/refine/tests/expr/functions/math/CombinTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/commands/CommandStub.java,0,0.0,0,0,0.0,26,889.2
+openrefine,/org/openrefine/wikidata/commands/CommandTest.java,0,0.0,0,0,0.0,16,751.8
+openrefine,/com/google/refine/commands/browsing/ComputeFacetsCommand.java,0,0.0,0,0,0.0,12,635.4
+openrefine,/org/openrefine/wikidata/qa/ConstraintFetcher.java,0,0.0,0,0,0.0,32,931.2
+openrefine,/com/google/refine/tests/expr/functions/strings/ContainsTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/CoshTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/CosTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/CrossTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/phonetic/keyers/DaitchMokotoffKeyer.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/org/openrefine/phonetic/keyers/DaitchMokotoffKeyerTest.java,0,0.0,0,0,0.0,15,291.0
+openrefine,/com/google/refine/extension/database/model/DatabaseColumn.java,0,0.0,0,0,0.0,34,843.9
+openrefine,/com/google/refine/extension/database/DatabaseColumnType.java,0,0.0,0,0,0.0,3,58.2
+openrefine,/com/google/refine/extension/database/DatabaseConfiguration.java,0,0.0,0,7min 30s,7.5,66,1425.9
+openrefine,/com/google/refine/extension/database/model/DatabaseQueryInfo.java,0,0.0,0,0,0.0,16,407.4
+openrefine,/com/google/refine/extension/database/model/DatabaseRow.java,0,0.0,0,0,0.0,15,349.2
+openrefine,/com/google/refine/tests/model/changes/DataExtensionChangeTest.java,4,0.0,0,0,0.0,31,1561.8
+openrefine,/com/google/refine/tests/sorting/DateCriterionTest.java,0,0.0,0,0,0.0,14,569.1
+openrefine,/com/google/refine/commands/auth/DeAuthorizeCommand.java,0,0.0,0,0,0.0,12,664.5
+openrefine,/com/google/refine/extension/gdata/DeAuthorizeCommand.java,0,0.0,0,0,0.0,13,693.6
+openrefine,/com/google/refine/tests/browsing/DecoratedValueTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/DegreesTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/project/DeleteProjectCommand.java,0,0.0,0,8min 30s,8.5,16,1000.8
+openrefine,/com/google/refine/commands/row/DenormalizeCommand.java,0,0.0,3,10min,10.0,14,693.6
+openrefine,/com/google/refine/tests/operations/row/DenormalizeOperationTests.java,0,0.0,0,0,0.0,17,656.4
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/DistinctValuesScrutinizerTest.java,0,0.0,0,0,0.0,14,693.6
+openrefine,/org/openrefine/wikidata/qa/EditInspector.java,0,0.0,0,7min 30s,7.5,14,531.9
+openrefine,/com/google/refine/tests/expr/functions/strings/EndsWithTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/browsing/facets/EngineConfigTests.java,6,0.0,0,7min 30s,7.5,29,947.4
+openrefine,/com/google/refine/tests/browsing/EngineTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/EntityTypeScrutinizerTest.java,0,0.0,0,0,0.0,14,415.5
+openrefine,/com/google/refine/tests/expr/functions/strings/EscapeTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/EvalErrorTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/expr/Evaluable.java,0,0.0,0,0,0.0,5,116.4
+openrefine,/com/google/refine/expr/functions/math/Even.java,0,0.0,0,10min,10.0,25,897.3
+openrefine,/com/google/refine/tests/expr/functions/math/EvenTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/exporters/Exporter.java,0,0.0,0,0,0.0,3,58.2
+openrefine,/com/google/refine/commands/project/ExportProjectCommand.java,0,0.0,0,0,0.0,15,847.2
+openrefine,/org/openrefine/wikidata/schema/ExpressionContext.java,0,0.0,0,20min,20.0,20,494.7
+openrefine,/org/openrefine/wikidata/schema/ExpressionContextTest.java,0,0.0,0,0,0.0,21,810.0
+openrefine,/com/google/refine/tests/expr/functions/ExpressionUtilsTests.java,0,0.0,0,15min,15.0,15,598.2
+openrefine,/com/google/refine/tests/expr/functions/math/ExpTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/commands/recon/ExtendDataCommand.java,0,0.0,0,0,0.0,13,540.0
+openrefine,/com/google/refine/browsing/facets/Facet.java,0,0.0,0,0,0.0,15,320.1
+openrefine,/com/google/refine/browsing/facets/FacetConfig.java,0,0.0,0,0,0.0,2,58.2
+openrefine,/com/google/refine/tests/expr/functions/FacetCountTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/FactNTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/FactTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/history/FileHistoryEntryManagerTests.java,0,0.0,0,0,0.0,18,407.4
+openrefine,/com/google/refine/tests/io/FileProjectManagerTests.java,0,0.0,0,0,0.0,27,714.6
+openrefine,/com/google/refine/commands/cell/FillDownCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/browsing/FilteredRecords.java,0,0.0,0,0,0.0,3,58.2
+openrefine,/com/google/refine/browsing/FilteredRows.java,0,0.0,0,0,0.0,3,58.2
+openrefine,/com/google/refine/tests/grel/controls/FilterTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/FloorTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/grel/controls/ForEachIndexTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/grel/controls/ForEachTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/importing/FormatGuesser.java,0,0.0,0,0,0.0,6,145.5
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/FormatScrutinizerTest.java,0,0.0,0,7min 30s,7.5,18,627.3
+openrefine,/com/google/refine/tests/grel/controls/ForNonBlankTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/grel/controls/ForRangeTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/schema/entityvalues/FullyPropertySerializingValueSnak.java,0,0.0,0,0,0.0,10,452.7
+openrefine,/com/google/refine/commands/GetAllPreferencesCommand.java,0,0.0,0,0,0.0,16,876.3
+openrefine,/com/google/refine/commands/workspace/GetAllProjectMetadataCommand.java,0,0.0,0,0,0.0,24,1146.3
+openrefine,/com/google/refine/commands/workspace/GetAllProjectTagsCommand.java,0,0.0,0,0,0.0,22,1088.1
+openrefine,/com/google/refine/tests/commands/browsing/GetClusteringFunctionsAndDistancesCommandTest.java,1,0.0,0,0,0.0,20,590.1
+openrefine,/com/google/refine/commands/expr/GetExpressionLanguageInfoCommand.java,0,0.0,0,0,0.0,24,1146.3
+openrefine,/com/google/refine/tests/commands/expr/GetExpressionLanguageInfoCommandTests.java,0,0.0,0,0,0.0,16,598.2
+openrefine,/com/google/refine/commands/history/GetHistoryCommand.java,0,0.0,0,0,0.0,11,635.4
+openrefine,/com/google/refine/commands/importing/GetImportingConfigurationCommand.java,0,0.0,0,0,0.0,19,627.3
+openrefine,/com/google/refine/commands/importing/GetImportingJobStatusCommand.java,0,0.0,0,0,0.0,26,1175.4
+openrefine,/com/google/refine/commands/lang/GetLanguagesCommand.java,0,0.0,0,0,0.0,49,2168.1
+openrefine,/com/google/refine/commands/project/GetModelsCommand.java,0,0.0,0,7min 30s,7.5,39,1495.5
+openrefine,/com/google/refine/commands/GetPreferenceCommand.java,0,0.0,0,0,0.0,25,1270.8
+openrefine,/com/google/refine/commands/history/GetProcessesCommand.java,0,0.0,0,0,0.0,14,693.6
+openrefine,/com/google/refine/util/GetProjectIDException.java,0,0.0,0,0,0.0,2,182.7
+openrefine,/com/google/refine/commands/project/GetProjectMetadataCommand.java,0,0.0,0,10min,10.0,12,664.5
+openrefine,/com/google/refine/tests/commands/expr/GetStarredExpressionsCommandTests.java,0,0.0,0,0,0.0,16,598.2
+openrefine,/com/google/refine/tests/expr/functions/GetTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/oauth/GoogleProvider.java,0,0.0,0,0,0.0,17,1000.8
+openrefine,/com/google/refine/tests/expr/functions/math/GreatestCommonDenominatorTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/expr/functions/HasField.java,0,0.0,0,30min,30.0,19,627.3
+openrefine,/com/google/refine/expr/HasFields.java,0,0.0,0,0,0.0,9,203.7
+openrefine,/com/google/refine/expr/HasFieldsList.java,0,0.0,0,0,0.0,9,261.9
+openrefine,/com/google/refine/expr/HasFieldsListImpl.java,0,0.0,0,27min 30s,27.5,25,1080.0
+openrefine,/com/google/refine/tests/expr/functions/HasFieldTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/HttpResponder.java,0,0.0,0,0,0.0,12,349.2
+openrefine,/com/google/refine/tests/grel/controls/IfTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/importers/tree/ImportColumn.java,4,0.0,0,17min 30s,17.5,11,789.0
+openrefine,/com/google/refine/importers/ImportException.java,0,0.0,0,0,0.0,5,240.9
+openrefine,/com/google/refine/importing/ImportingController.java,0,0.0,0,0,0.0,2,58.2
+openrefine,/com/google/refine/importers/tree/ImportParameters.java,0,0.0,0,0,0.0,16,627.3
+openrefine,/com/google/refine/importers/tree/ImportVertical.java,2,0.0,0,7min 30s,7.5,10,759.9
+openrefine,/org/openrefine/wikidata/updates/scheduler/ImpossibleSchedulingException.java,0,0.0,0,0,0.0,3,58.2
+openrefine,/com/google/refine/tests/expr/functions/strings/IndexOfTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/html/InnerHtmlTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/xml/InnerXmlTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/schema/exceptions/InvalidSchemaException.java,0,0.0,0,0,0.0,4,87.3
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/InverseConstaintScrutinizerTest.java,0,0.0,0,0,0.0,29,698.4
+openrefine,/com/google/refine/grel/controls/IsBlank.java,0,0.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/tests/grel/controls/IsBlankTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/grel/controls/IsEmptyString.java,0,0.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/tests/grel/controls/IsEmptyStringTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/grel/controls/IsError.java,0,0.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/tests/grel/controls/IsErrorTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/grel/controls/IsNonBlank.java,0,0.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/tests/grel/controls/IsNonBlankTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/grel/controls/IsNotNull.java,0,0.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/tests/grel/controls/IsNotNullTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/grel/controls/IsNull.java,0,0.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/tests/grel/controls/IsNullTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/grel/controls/IsNumeric.java,0,0.0,0,10min,10.0,12,510.9
+openrefine,/com/google/refine/tests/grel/controls/IsNumericTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/util/JoinException.java,0,0.0,0,0,0.0,3,211.8
+openrefine,/com/google/refine/commands/cell/JoinMultiValueCellsCommand.java,0,0.0,0,0,0.0,15,847.2
+openrefine,/com/google/refine/tests/expr/functions/arrays/JoinTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/JsonizeTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/jython/JythonEvaluableTest.java,0,0.0,0,7min 30s,7.5,8,481.8
+openrefine,/com/google/refine/commands/cell/KeyValueColumnizeCommand.java,0,0.0,0,0,0.0,15,847.2
+openrefine,/com/google/refine/expr/LanguageSpecificParser.java,0,0.0,0,0,0.0,7,203.7
+openrefine,/com/google/refine/tests/expr/functions/strings/LastIndexOfTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/LeastCommonMultipleTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/LengthTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/importers/LineBasedFormatGuesser.java,0,0.0,0,20min,20.0,11,452.7
+openrefine,/com/google/refine/tests/grel/ast/LiteralExprTest.java,0,0.0,0,0,0.0,15,569.1
+openrefine,/com/google/refine/tests/expr/functions/math/LnTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/expr/LogExpressionCommand.java,0,0.0,0,0,0.0,16,1000.8
+openrefine,/org/openrefine/wikidata/commands/LoginCommand.java,0,0.0,0,17min 30s,17.5,19,810.0
+openrefine,/org/openrefine/wikidata/commands/LoginCommandTest.java,0,0.0,0,0,0.0,18,780.9
+openrefine,/com/google/refine/tests/expr/functions/math/LogTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/process/LongRunningProcessTests.java,0,0.0,0,0,0.0,23,934.5
+openrefine,/com/google/refine/commands/cell/MassEditCommand.java,0,0.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/tests/expr/functions/strings/MatchTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/MaxTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/MD5Tests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/MinTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/model/ModelException.java,4,0.0,0,30min,30.0,13,502.8
+openrefine,/com/google/refine/tests/expr/functions/math/ModTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/column/MoveColumnCommand.java,0,0.0,0,0,0.0,15,847.2
+openrefine,/com/google/refine/tests/expr/functions/math/MultinomialTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/NewItemScrutinizerTest.java,0,0.0,0,0,0.0,30,1262.7
+openrefine,/com/google/refine/tests/expr/functions/strings/NGramFingerprintTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/NGramTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/NoEditsMadeScrutinizerTest.java,0,0.0,0,0,0.0,19,905.4
+openrefine,/com/google/refine/tests/browsing/facets/NominalFacetChoiceTests.java,0,0.0,0,0,0.0,11,635.4
+openrefine,/com/google/refine/tests/expr/functions/booleans/NotTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/expr/functions/date/Now.java,0,0.0,0,10min,10.0,16,569.1
+openrefine,/com/google/refine/tests/sorting/NumberCriterionTest.java,0,0.0,0,0,0.0,14,569.1
+openrefine,/com/google/refine/browsing/util/NumericBinRecordIndex.java,0,0.0,0,0,0.0,15,971.7
+openrefine,/com/google/refine/browsing/util/NumericBinRowIndex.java,0,0.0,0,0,0.0,16,1125.3
+openrefine,/com/google/refine/expr/functions/math/Odd.java,0,0.0,0,10min,10.0,25,897.3
+openrefine,/com/google/refine/tests/expr/functions/math/OddTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/OpenWorkspaceDirCommand.java,1,0.0,0,0,0.0,18,876.3
+openrefine,/com/google/refine/operations/OperationResolver.java,0,0.0,0,20min,20.0,30,1005.6
+openrefine,/org/openrefine/wikidata/operations/OperationTest.java,0,0.0,0,0,0.0,41,1113.9
+openrefine,/com/google/refine/tests/expr/functions/booleans/OrTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/model/OverlayModel.java,0,0.0,0,0,0.0,7,203.7
+openrefine,/com/google/refine/tests/expr/functions/xml/OwnTextTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/ParseJsonTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/expr/ParsingException.java,0,0.0,0,0,0.0,11,357.3
+openrefine,/com/google/refine/tests/expr/functions/strings/PartitionTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/util/PatternSyntaxExceptionParser.java,0,0.0,0,7min 30s,7.5,11,203.7
+openrefine,/com/google/refine/pcaxis/PCAxisImporter.java,0,0.0,0,15min,15.0,18,714.6
+openrefine,/org/openrefine/wikidata/commands/PerformWikibaseEditsCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/org/openrefine/wikidata/operations/PerformWikibaseEditsOperationTest.java,0,0.0,0,7min 30s,7.5,33,1225.5
+openrefine,/com/google/refine/tests/expr/functions/strings/PhoneticTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/updates/scheduler/PointerExtractorTest.java,0,0.0,0,15min,15.0,52,1998.3
+openrefine,/com/google/refine/tests/expr/functions/math/PowTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/preference/PreferenceValue.java,0,0.0,0,0,0.0,3,58.2
+openrefine,/org/openrefine/wikidata/schema/entityvalues/PrefetchedEntityIdValue.java,0,0.0,0,0,0.0,1,29.1
+openrefine,/org/openrefine/wikidata/commands/PreviewResults.java,0,0.0,0,20min,20.0,24,611.1
+openrefine,/org/openrefine/wikidata/commands/PreviewWikibaseSchemaCommandTest.java,0,0.0,0,7min 30s,7.5,18,780.9
+openrefine,/com/google/refine/tests/model/ProjectStub.java,0,0.0,0,0,0.0,8,423.6
+openrefine,/org/openrefine/wikidata/qa/QAWarningStore.java,0,0.0,0,0,0.0,14,378.3
+openrefine,/org/openrefine/wikidata/qa/QAWarningTest.java,4,0.0,0,15min,15.0,22,494.7
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/QualifierCompatibilityScrutinizerTest.java,0,0.0,0,0,0.0,33,852.0
+openrefine,/com/google/refine/tests/process/QuickHistoryEntryProcessTests.java,0,0.0,0,0,0.0,28,1050.9
+openrefine,/org/openrefine/wikidata/exporters/QuickStatementsExporterTest.java,0,0.0,1,17min 30s,17.5,62,1637.7
+openrefine,/org/openrefine/wikidata/updates/scheduler/QuickStatementsUpdateScheduler.java,2,0.0,0,15min,15.0,17,619.2
+openrefine,/org/openrefine/wikidata/updates/scheduler/QuickStatementsUpdateSchedulerTest.java,0,0.0,0,0,0.0,29,889.2
+openrefine,/com/google/refine/tests/expr/functions/math/QuotientTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/RadiansTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/importers/RdfJsonldTripleImporter.java,0,0.0,0,7min 30s,7.5,9,452.7
+openrefine,/com/google/refine/importers/RdfXmlTripleImporter.java,0,0.0,0,7min 30s,7.5,9,452.7
+openrefine,/com/google/refine/commands/recon/ReconcileCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/commands/recon/ReconClearSimilarCellsCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/tests/operations/recon/ReconClearSimilarCellsOperationTests.java,0,0.0,0,0,0.0,17,627.3
+openrefine,/com/google/refine/commands/recon/ReconCopyAcrossColumnsCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/tests/operations/recon/ReconCopyAcrossColumnsOperationTests.java,0,0.0,0,0,0.0,18,627.3
+openrefine,/com/google/refine/commands/recon/ReconDiscardJudgmentsCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/tests/operations/recon/ReconDiscardJudgmentsOperationTests.java,0,0.0,0,0,0.0,19,627.3
+openrefine,/org/openrefine/wikidata/schema/entityvalues/ReconItemIdValue.java,0,0.0,0,15min,15.0,12,481.8
+openrefine,/com/google/refine/tests/commands/recon/ReconJudgeOneCellCommandTest.java,0,0.0,0,7min 30s,7.5,43,1948.2
+openrefine,/com/google/refine/commands/recon/ReconJudgeSimilarCellsCommand.java,0,0.0,0,0,0.0,15,627.3
+openrefine,/com/google/refine/tests/operations/recon/ReconJudgeSimilarCellsOperationTests.java,0,0.0,0,0,0.0,19,627.3
+openrefine,/com/google/refine/tests/operations/recon/ReconJudgeSimilarCellsTests.java,0,0.0,0,7min 30s,7.5,37,1283.7
+openrefine,/com/google/refine/commands/recon/ReconMarkNewTopicsCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/tests/operations/recon/ReconMarkNewTopicsOperationTests.java,0,0.0,0,0,0.0,19,627.3
+openrefine,/com/google/refine/commands/recon/ReconMatchBestCandidatesCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/tests/operations/recon/ReconMatchBestCandidatesOperationTests.java,0,0.0,0,0,0.0,19,627.3
+openrefine,/com/google/refine/commands/recon/ReconMatchSpecificTopicCommand.java,0,0.0,0,0,0.0,13,540.0
+openrefine,/com/google/refine/tests/operations/recon/ReconMatchSpecificTopicOperationTests.java,0,0.0,0,0,0.0,18,627.3
+openrefine,/org/openrefine/wikidata/schema/entityvalues/ReconPropertyIdValue.java,0,0.0,0,15min,15.0,11,481.8
+openrefine,/com/google/refine/tests/model/ReconStatsTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/tests/model/ReconTypeTest.java,0,0.0,0,0,0.0,17,839.1
+openrefine,/com/google/refine/commands/recon/ReconUseValuesAsIdentifiersCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/tests/operations/recon/ReconUseValuesAsIdsOperationTests.java,0,0.0,0,15min,15.0,27,677.4
+openrefine,/com/google/refine/importers/tree/RecordElementCandidate.java,0,0.0,0,0,0.0,10,510.9
+openrefine,/com/google/refine/browsing/RecordFilter.java,0,0.0,0,0,0.0,4,116.4
+openrefine,/com/google/refine/tests/model/RecordModelTests.java,0,0.0,0,0,0.0,10,606.3
+openrefine,/com/google/refine/browsing/RecordVisitor.java,0,0.0,0,0,0.0,11,232.8
+openrefine,/com/google/refine/tests/expr/functions/strings/ReinterpretTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/column/RemoveColumnCommand.java,0,0.0,0,0,0.0,15,847.2
+openrefine,/com/google/refine/commands/row/RemoveRowsCommand.java,0,0.0,0,0,0.0,11,510.9
+openrefine,/com/google/refine/commands/column/RenameColumnCommand.java,0,0.0,0,0,0.0,15,847.2
+openrefine,/com/google/refine/commands/project/RenameProjectCommand.java,0,0.0,0,0,0.0,13,789.0
+openrefine,/com/google/refine/commands/column/ReorderColumnsCommand.java,0,0.0,0,0,0.0,12,510.9
+openrefine,/com/google/refine/commands/row/ReorderRowsCommand.java,0,0.0,0,0,0.0,11,693.6
+openrefine,/com/google/refine/tests/expr/functions/strings/ReplaceCharsTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/ReplaceTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/RestrictedPositionScrutinizer.java,0,0.0,0,40min,40.0,25,1109.1
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/RestrictedPositionScrutinizerTest.java,0,0.0,0,7min 30s,7.5,23,868.2
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/RestrictedValuesScrutinizer.java,2,0.0,0,15min,15.0,13,569.1
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/RestrictedValuesScrutinizerTest.java,0,0.0,0,7min 30s,7.5,27,1080.0
+openrefine,/com/google/refine/tests/expr/functions/arrays/ReverseTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/RoundTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/browsing/util/RowEvaluable.java,0,0.0,0,0,0.0,6,145.5
+openrefine,/com/google/refine/browsing/RowFilter.java,0,0.0,0,0,0.0,5,116.4
+openrefine,/com/google/refine/tests/operations/row/RowFlagOperationTests.java,0,0.0,0,0,0.0,16,627.3
+openrefine,/com/google/refine/tests/operations/row/RowRemovalOperationTests.java,0,0.0,0,0,0.0,16,627.3
+openrefine,/com/google/refine/tests/operations/row/RowReorderOperationTests.java,0,0.0,0,7min 30s,7.5,32,947.4
+openrefine,/com/google/refine/tests/operations/row/RowStarOperationTests.java,0,0.0,0,0,0.0,16,627.3
+openrefine,/com/google/refine/browsing/RowVisitor.java,0,0.0,0,0,0.0,6,87.3
+openrefine,/com/google/refine/tests/expr/functions/strings/RPartitionTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/extension/database/SavedConnectionContainer.java,0,0.0,0,0,0.0,14,320.1
+openrefine,/org/openrefine/wikidata/commands/SaveWikibaseSchemaCommand.java,0,0.0,0,10min,10.0,14,876.3
+openrefine,/org/openrefine/wikidata/commands/SaveWikibaseSchemaCommandTest.java,0,0.0,0,7min 30s,7.5,22,868.2
+openrefine,/org/openrefine/wikidata/operations/SaveWikibaseSchemaOperationTest.java,0,0.0,0,0,0.0,28,1138.2
+openrefine,/org/openrefine/wikidata/commands/SchemaCommandTest.java,0,0.0,0,0,0.0,19,810.0
+openrefine,/org/openrefine/wikidata/exporters/SchemaExporter.java,0,0.0,0,0,0.0,15,693.6
+openrefine,/org/openrefine/wikidata/exporters/SchemaExporterTest.java,0,0.0,1,10min,10.0,15,627.3
+openrefine,/com/google/refine/tests/expr/functions/xml/SelectXmlTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/SelfReferentialScrutinizerTest.java,0,0.0,0,0,0.0,16,847.2
+openrefine,/com/google/refine/commands/SetPreferenceCommand.java,0,0.0,0,0,0.0,16,876.3
+openrefine,/com/google/refine/commands/project/SetProjectMetadataCommand.java,0,0.0,0,10min,10.0,16,1000.8
+openrefine,/com/google/refine/tests/expr/functions/strings/SHA1Tests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/clustering/knn/SimilarityDistance.java,0,0.0,0,0,0.0,3,87.3
+openrefine,/com/google/refine/extension/database/SimpleTextEncryptor.java,0,0.0,0,0,0.0,21,494.7
+openrefine,/com/google/refine/extension/database/SimpleTextEncryptorTest.java,2,0.0,0,0,0.0,14,569.1
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/SingleValueScrutinizerTest.java,0,0.0,0,0,0.0,18,905.4
+openrefine,/com/google/refine/tests/expr/functions/math/SinhTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/SinTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/schema/exceptions/SkipSchemaExpressionException.java,0,0.0,0,0,0.0,3,58.2
+openrefine,/com/google/refine/tests/expr/functions/SliceTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/SnakScrutinizer.java,0,0.0,0,7min 30s,7.5,14,722.7
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/SnakScrutinizerTest.java,2,0.0,0,15min,15.0,26,984.6
+openrefine,/com/google/refine/tests/sorting/SortingConfigTests.java,0,0.0,0,0,0.0,13,540.0
+openrefine,/com/google/refine/tests/expr/functions/arrays/SortTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/SplitByCharTypeTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/SplitByLengthsTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/column/SplitColumnCommand.java,0,0.0,0,20min,20.0,13,569.1
+openrefine,/com/google/refine/commands/cell/SplitMultiValueCellsCommand.java,0,0.0,0,7min 30s,7.5,15,847.2
+openrefine,/com/google/refine/tests/expr/functions/strings/SplitTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/exporters/sql/SqlData.java,0,0.0,0,7min 30s,7.5,32,1063.8
+openrefine,/com/google/refine/exporters/sql/SqlExporterException.java,1,0.0,0,10min,10.0,5,270.0
+openrefine,/com/google/refine/tests/expr/functions/strings/StartsWithTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/StatementScrutinizer.java,0,0.0,0,7min 30s,7.5,13,693.6
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/StatementScrutinizerTest.java,0,0.0,0,7min 30s,7.5,11,452.7
+openrefine,/com/google/refine/exporters/StreamExporter.java,0,0.0,0,0,0.0,7,174.6
+openrefine,/com/google/refine/sorting/StringCriterion.java,0,0.0,0,7min 30s,7.5,19,810.0
+openrefine,/org/openrefine/wikidata/schema/entityvalues/SuggestedItemIdValue.java,0,0.0,0,15min,15.0,12,510.9
+openrefine,/org/openrefine/wikidata/schema/entityvalues/SuggestedPropertyIdValue.java,0,0.0,0,15min,15.0,15,569.1
+openrefine,/com/google/refine/tests/expr/functions/math/SumTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/TanhTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/math/TanTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/exporters/TemplatingExporter.java,0,0.0,0,7min 30s,7.5,30,1138.2
+openrefine,/com/google/refine/browsing/util/TimeBinRecordIndex.java,0,0.0,0,0,0.0,15,971.7
+openrefine,/com/google/refine/browsing/util/TimeBinRowIndex.java,0,0.0,0,0,0.0,16,1125.3
+openrefine,/com/google/refine/tests/expr/functions/ToDateTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/expr/ToggleStarredExpressionCommand.java,0,0.0,0,0,0.0,16,1000.8
+openrefine,/com/google/refine/tests/commands/expr/ToggleStarredExpressionCommandTests.java,0,0.0,0,0,0.0,18,751.8
+openrefine,/com/google/refine/tests/expr/functions/strings/ToLowercaseTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/ToNumberTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/tests/expr/functions/ToStringTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/ToTitlecaseTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/ToUppercaseTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/commands/cell/TransposeColumnsIntoRowsCommand.java,0,0.0,0,7min 30s,7.5,15,847.2
+openrefine,/com/google/refine/commands/cell/TransposeRowsIntoColumnsCommand.java,0,0.0,0,0,0.0,15,847.2
+openrefine,/com/google/refine/tests/operations/cell/TransposeTests.java,0,0.0,0,0,0.0,17,598.2
+openrefine,/com/google/refine/importers/tree/TreeReaderException.java,0,0.0,0,0,0.0,12,386.4
+openrefine,/com/google/refine/tests/expr/functions/TypeTests.java,0,0.0,0,0,0.0,10,481.8
+openrefine,/com/google/refine/commands/history/UndoRedoCommand.java,0,0.0,0,0,0.0,16,1000.8
+openrefine,/com/google/refine/tests/expr/functions/strings/UnescapeTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/UnicodeTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/strings/UnicodeTypeTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/tests/expr/functions/arrays/UniquesTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/operations/UnknownOperation.java,0,0.0,0,0,0.0,23,523.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/UnsourcedScrutinizerTest.java,0,0.0,0,0,0.0,12,635.4
+openrefine,/org/openrefine/wikidata/updates/scheduler/UpdateScheduler.java,0,0.0,0,0,0.0,null,null
+openrefine,/org/openrefine/wikidata/updates/scheduler/UpdateSequence.java,0,0.0,0,0,0.0,4,116.4
+openrefine,/com/google/refine/exporters/UrlExporter.java,0,0.0,0,0,0.0,8,232.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/ValueScrutinizer.java,0,0.0,0,7min 30s,7.5,10,481.8
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/ValueScrutinizerTest.java,0,0.0,0,15min,15.0,21,992.7
+openrefine,/org/openrefine/wikidata/schema/WbDateConstantTest.java,0,0.0,0,22min 30s,22.5,37,1055.7
+openrefine,/org/openrefine/wikidata/schema/WbDateVariable.java,1,0.0,0,10min,10.0,21,1021.8
+openrefine,/org/openrefine/wikidata/schema/WbDateVariableTest.java,0,0.0,0,7min 30s,7.5,30,852.0
+openrefine,/org/openrefine/wikidata/schema/WbExpression.java,0,0.0,0,0,0.0,6,145.5
+openrefine,/org/openrefine/wikidata/schema/WbItemConstant.java,0,0.0,0,10min,10.0,24,582.0
+openrefine,/org/openrefine/wikidata/schema/WbItemConstantTest.java,0,0.0,0,0,0.0,12,261.9
+openrefine,/org/openrefine/wikidata/schema/WbItemVariable.java,1,0.0,0,10min,10.0,19,963.6
+openrefine,/org/openrefine/wikidata/schema/WbLanguageConstantTest.java,0,0.0,0,7min 30s,7.5,17,349.2
+openrefine,/org/openrefine/wikidata/schema/WbLanguageVariable.java,1,0.0,0,10min,10.0,19,963.6
+openrefine,/org/openrefine/wikidata/schema/WbLanguageVariableTest.java,0,0.0,0,7min 30s,7.5,19,780.9
+openrefine,/org/openrefine/wikidata/schema/WbLocationConstantTest.java,0,0.0,0,0,0.0,57,1367.7
+openrefine,/org/openrefine/wikidata/schema/WbLocationVariable.java,1,0.0,0,10min,10.0,25,1080.0
+openrefine,/org/openrefine/wikidata/schema/WbLocationVariableTest.java,0,0.0,0,7min 30s,7.5,31,1042.8
+openrefine,/org/openrefine/wikidata/schema/WbPropConstant.java,0,0.0,0,10min,10.0,27,669.3
+openrefine,/org/openrefine/wikidata/schema/WbPropConstantTest.java,0,0.0,0,0,0.0,12,261.9
+openrefine,/org/openrefine/wikidata/schema/WbSnakExprTest.java,2,0.0,0,17min 30s,17.5,19,868.2
+openrefine,/org/openrefine/wikidata/schema/WbStatementGroupExprTest.java,4,0.0,0,15min,15.0,49,1794.6
+openrefine,/org/openrefine/wikidata/schema/WbStringConstant.java,0,0.0,0,10min,10.0,19,465.6
+openrefine,/org/openrefine/wikidata/schema/WbStringVariable.java,1,0.0,0,10min,10.0,18,1059.0
+openrefine,/org/openrefine/wikidata/schema/WbStringVariableTest.java,0,0.0,0,7min 30s,7.5,29,947.4
+openrefine,/org/openrefine/wikidata/schema/WbVariableExpr.java,1,0.0,0,27min 30s,27.5,18,531.9
+openrefine,/org/openrefine/wikidata/schema/WbVariableTest.java,0,0.0,0,7min 30s,7.5,13,291.0
+openrefine,/org/openrefine/wikidata/qa/scrutinizers/WhitespaceScrutinizerTest.java,0,0.0,0,7min 30s,7.5,25,743.7
+openrefine,/org/openrefine/wikidata/updates/scheduler/WikibaseAPIUpdateScheduler.java,0,0.0,0,7min 30s,7.5,13,349.2
+openrefine,/org/openrefine/wikidata/updates/scheduler/WikibaseAPIUpdateSchedulerTest.java,0,0.0,0,0,0.0,24,772.8
+openrefine,/org/openrefine/wikidata/editing/WikibaseCredentials.java,0,0.0,0,0,0.0,22,523.8
+openrefine,/org/openrefine/wikidata/schema/WikibaseSchemaTest.java,0,0.0,0,7min 30s,7.5,80,2439.6
+openrefine,/org/openrefine/wikidata/qa/WikidataConstraintFetcherTests.java,0,0.0,0,7min 30s,7.5,44,1047.6
+openrefine,/com/google/refine/tests/grel/controls/WithTests.java,0,0.0,0,0,0.0,11,481.8
+openrefine,/com/google/refine/exporters/WriterExporter.java,0,0.0,0,0,0.0,7,174.6
+openrefine,/com/google/refine/tests/expr/functions/booleans/XorTests.java,0,0.0,0,0,0.0,11,481.8

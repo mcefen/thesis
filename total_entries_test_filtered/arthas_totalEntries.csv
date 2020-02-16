@@ -1,0 +1,300 @@
+arthas,/main/java/org/apache/commons/net/telnet/TelnetInputStream.java,81,752.0,41,1M/d 3h,660.0,109,4449.3
+arthas,/main/java/com/taobao/arthas/core/advisor/AdviceWeaver.java,72,497.0,0,2h 47min,167.0,104,3249.6
+arthas,/main/java/com/taobao/arthas/core/view/ObjectView.java,11,492.0,2,2h,120.0,53,2533.5
+arthas,/main/java/com/taobao/arthas/core/util/ObjectUtils.java,15,337.0,11,2M/d 2h,1080.0,211,8337.6
+arthas,/main/java/org/apache/commons/net/telnet/Telnet.java,51,316.0,5,2h,120.0,102,3416.1
+arthas,/main/java/com/taobao/arthas/core/advisor/Enhancer.java,18,270.0,0,1h 42min,102.0,54,1953.0
+arthas,/main/java/com/taobao/arthas/boot/Bootstrap.java,24,249.0,1,1h 40min,100.0,151,5019.9
+arthas,/main/java/com/taobao/arthas/core/command/logger/LoggerCommand.java,24,237.0,2,2h 12min,132.0,96,2709.6
+arthas,/main/java/com/taobao/arthas/common/ReflectUtils.java,18,215.0,0,4h 9min,249.0,181,6137.1
+arthas,/main/java/com/taobao/arthas/core/util/StringUtils.java,16,212.0,4,1M/d 6h,840.0,248,8969.7
+arthas,/main/java/com/taobao/arthas/boot/ProcessUtils.java,24,203.0,3,3h 25min,205.0,58,2554.5
+arthas,/main/java/com/taobao/arthas/client/TelnetConsole.java,26,200.0,1,1h 17min,77.0,90,3324.0
+arthas,/main/java/com/taobao/arthas/common/AnsiLog.java,21,177.0,0,3h 20min,200.0,148,3595.5
+arthas,/main/java/com/taobao/arthas/core/command/logger/Log4j2Helper.java,14,175.0,0,1h 40min,100.0,42,1238.4
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/MBeanCommand.java,18,166.0,4,4h 7min,247.0,146,4408.8
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/ProfilerCommand.java,27,166.0,0,2h 22min,142.0,74,2418.6
+arthas,/main/java/com/taobao/arthas/core/util/reflect/ArthasReflectUtils.java,18,158.0,1,3h 17min,197.0,26,1980.6
+arthas,/main/java/com/taobao/arthas/core/util/NetUtils.java,11,155.0,0,2h 52min,172.0,48,2965.2
+arthas,/main/java/com/taobao/arthas/agent/AgentBootstrap.java,10,152.0,0,1h 20min,80.0,76,2829.3
+arthas,/main/java/com/taobao/arthas/core/command/klass100/ClassLoaderCommand.java,25,146.0,2,3h 50min,230.0,188,5610.0
+arthas,/main/java/com/taobao/arthas/core/util/UserStatUtil.java,10,141.0,0,27min 30s,27.5,41,1641.0
+arthas,/main/java/com/taobao/arthas/core/shell/command/internal/GrepHandler.java,8,132.0,0,1h,60.0,28,669.3
+arthas,/main/java/com/taobao/arthas/core/util/ThreadUtil.java,24,120.0,2,3h 27min,207.0,59,2766.3
+arthas,/main/java/com/taobao/arthas/boot/DownloadUtils.java,11,119.0,0,1h 2min,62.0,55,2795.4
+arthas,/main/java/com/taobao/arthas/core/server/ArthasBootstrap.java,12,117.0,0,47min 30s,47.5,48,2093.7
+arthas,/main/java/com/taobao/arthas/core/advisor/ReflectAdviceListenerAdapter.java,14,116.0,0,1h 5min,65.0,74,2148.6
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/TimeTunnelTable.java,11,114.0,0,15min,15.0,64,2289.3
+arthas,/main/java/com/taobao/arthas/core/Arthas.java,7,113.0,0,42min 30s,42.5,36,1092.9
+arthas,/main/java/com/taobao/arthas/core/command/logger/LogbackHelper.java,13,113.0,0,52min 30s,52.5,34,1715.4
+arthas,/main/java/com/taobao/arthas/core/command/hidden/OptionsCommand.java,15,112.0,0,1h 2min,62.0,56,1770.3
+arthas,/main/java/com/taobao/arthas/core/command/logger/Log4jHelper.java,12,107.0,0,1h 45min,105.0,35,1254.6
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/TimeTunnelCommand.java,8,105.0,0,1h 57min,117.0,151,4368.3
+arthas,/main/java/org/apache/commons/net/telnet/TelnetOptionHandler.java,4,95.0,0,7min 30s,7.5,9,232.8
+arthas,/main/java/com/taobao/arthas/core/command/klass100/JadCommand.java,6,91.0,3,1h 5min,65.0,53,1595.7
+arthas,/main/java/com/taobao/arthas/core/util/reflect/FieldUtils.java,10,86.0,1,1h 20min,80.0,24,1519.8
+arthas,/main/java/com/taobao/arthas/core/util/LogUtil.java,10,84.0,0,30min,30.0,29,1042.8
+arthas,/main/java/com/taobao/arthas/core/shell/cli/CompletionUtils.java,15,81.0,2,3h 35min,215.0,49,1662.0
+arthas,/main/java/com/taobao/arthas/core/util/FileUtils.java,7,81.0,0,30min,30.0,34,1877.1
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/DashboardCommand.java,4,80.0,0,1h 30min,90.0,141,4935.9
+arthas,/main/java/com/taobao/arthas/core/util/matcher/WildcardMatcher.java,3,80.0,3,2h 10min,130.0,18,810.0
+arthas,/main/java/com/taobao/arthas/core/shell/system/impl/JobControllerImpl.java,13,74.0,1,1h 2min,62.0,69,2567.4
+arthas,/main/java/org/apache/commons/net/SocketClient.java,19,71.0,0,2h 10min,130.0,58,2297.4
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/StackCommand.java,1,70.0,0,0,0.0,36,960.3
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/http/HttpRequestHandler.java,3,67.0,0,15min,15.0,32,727.5
+arthas,/main/java/java/arthas/Spy.java,27,66.0,0,30min,30.0,33,1101.0
+arthas,/main/java/com/taobao/arthas/core/config/FeatureCodec.java,7,63.0,2,47min 30s,47.5,11,664.5
+arthas,/main/java/com/taobao/arthas/core/shell/system/impl/ProcessImpl.java,7,62.0,0,1h 52min,112.0,307,9892.8
+arthas,/main/java/com/taobao/arthas/compiler/DynamicCompiler.java,11,61.0,4,55min,55.0,45,1325.7
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/VMOptionCommand.java,3,61.0,0,0,0.0,28,640.2
+arthas,/main/java/com/taobao/arthas/core/advisor/AdviceListener.java,3,60.0,0,0,0.0,1,29.1
+arthas,/main/java/com/taobao/arthas/core/util/ArrayUtils.java,2,60.0,0,37min 30s,37.5,3,336.3
+arthas,/main/java/com/taobao/arthas/core/util/ArthasBanner.java,8,60.0,0,7min 30s,7.5,48,1267.5
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/HeapDumpCommand.java,6,60.0,0,0,0.0,23,523.8
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/Helper.java,5,60.0,0,30min,30.0,14,1000.8
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/httptelnet/HttpTelnetTermServer.java,3,60.0,5,47min 30s,47.5,34,1063.8
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/HttpTermServer.java,3,60.0,5,47min 30s,47.5,34,1063.8
+arthas,/main/java/com/taobao/arthas/core/advisor/InvokeTraceable.java,3,60.0,0,0,0.0,1,29.1
+arthas,/main/java/com/taobao/arthas/core/view/TableView.java,6,60.0,2,2h,120.0,79,2771.1
+arthas,/main/java/com/taobao/arthas/core/util/ApplicationUtils.java,3,52.0,3,10min,10.0,11,759.9
+arthas,/main/java/com/taobao/arthas/compiler/DynamicCompilerException.java,5,52.0,0,0,0.0,23,494.7
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/TelnetTermServer.java,3,50.0,4,37min 30s,37.5,33,1034.7
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/WatchCommand.java,1,50.0,0,15min,15.0,92,2547.9
+arthas,/main/java/com/taobao/arthas/core/util/IPUtils.java,3,49.0,0,0,0.0,11,789.0
+arthas,/main/java/com/taobao/arthas/core/view/Ansi.java,12,48.0,0,2h 7min,127.0,533,12037.8
+arthas,/main/java/com/taobao/arthas/common/IOUtils.java,7,47.0,0,57min 30s,57.5,57,2363.7
+arthas,/main/java/demo/MathGame.java,7,46.0,0,7min 30s,7.5,30,1101.0
+arthas,/main/java/com/taobao/arthas/core/command/logger/AsmRenameUtil.java,4,45.0,0,0,0.0,8,577.2
+arthas,/main/java/com/taobao/arthas/core/util/IOUtils.java,2,45.0,0,40min,40.0,14,1154.4
+arthas,/main/java/org/apache/commons/net/telnet/TerminalTypeOptionHandler.java,4,45.0,0,10min,10.0,4,240.9
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/shell/ShellLineHandler.java,3,43.0,0,1h 47min,107.0,45,1919.1
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/ThreadCommand.java,6,43.0,0,40min,40.0,54,1653.9
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/MonitorCommand.java,1,40.0,0,0,0.0,39,1018.5
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/httptelnet/NettyHttpTelnetTtyBootstrap.java,2,40.0,0,0,0.0,47,1076.7
+arthas,/main/java/com/taobao/arthas/core/util/TokenUtils.java,3,40.0,0,1h 40min,100.0,20,1175.4
+arthas,/main/java/com/taobao/arthas/core/command/klass100/SearchMethodCommand.java,2,39.0,5,1h 22min,82.0,49,1691.1
+arthas,/main/java/com/taobao/arthas/core/util/SearchUtils.java,6,39.0,0,20min,20.0,45,1392.0
+arthas,/main/java/com/taobao/arthas/core/command/logger/LoggerHelper.java,15,38.0,0,0,0.0,28,814.8
+arthas,/main/java/com/alibaba/arthas/tunnel/client/ForwardClientSocketClientHandler.java,6,37.0,0,7min 30s,7.5,42,1018.5
+arthas,/main/java/com/taobao/arthas/client/IOUtil.java,5,37.0,0,17min 30s,17.5,16,1125.3
+arthas,/main/java/com/taobao/arthas/core/util/ClassLoaderUtils.java,3,36.0,0,20min,20.0,18,810.0
+arthas,/main/java/one/profiler/AsyncProfiler.java,7,35.0,0,10min,10.0,55,2612.7
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/CompletionHandler.java,3,35.0,0,7min 30s,7.5,11,415.5
+arthas,/main/java/com/taobao/arthas/core/util/DateUtils.java,2,35.0,0,0,0.0,9,452.7
+arthas,/main/java/com/taobao/arthas/core/command/express/ExpressFactory.java,2,35.0,0,0,0.0,13,540.0
+arthas,/main/java/com/taobao/arthas/common/SocketUtils.java,3,35.0,0,40min,40.0,17,1059.0
+arthas,/main/java/com/taobao/arthas/core/util/Decompiler.java,4,34.0,0,17min 30s,17.5,7,423.6
+arthas,/main/java/org/apache/commons/net/ProtocolCommandSupport.java,3,34.0,0,0,0.0,6,116.4
+arthas,/main/java/com/taobao/arthas/compiler/PackageInternalsFinder.java,6,33.0,0,27min 30s,27.5,35,1371.0
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/http/DirectoryBrowser.java,2,32.0,0,42min 30s,42.5,33,1101.0
+arthas,/main/java/com/taobao/arthas/core/command/klass100/RedefineCommand.java,4,32.0,1,1h 30min,90.0,34,1532.7
+arthas,/main/java/com/taobao/arthas/core/command/klass100/ClassDumpTransformer.java,2,31.0,0,17min 30s,17.5,33,881.1
+arthas,/main/java/com/taobao/arthas/core/util/TypeRenderUtils.java,2,31.0,0,20min,20.0,70,2098.5
+arthas,/main/java/com/taobao/arthas/core/util/ArthasCheckUtils.java,1,30.0,0,10min,10.0,4,365.4
+arthas,/main/java/com/taobao/arthas/core/util/ClassUtils.java,1,30.0,0,25min,25.0,22,714.6
+arthas,/main/java/com/taobao/arthas/core/shell/cli/CliTokens.java,1,30.0,0,0,0.0,5,394.5
+arthas,/main/java/com/taobao/arthas/core/command/klass100/DumpClassCommand.java,2,30.0,0,25min,25.0,56,1222.2
+arthas,/main/java/one/profiler/Events.java,1,30.0,0,7min 30s,7.5,12,349.2
+arthas,/main/java/com/taobao/arthas/core/GlobalOptions.java,10,30.0,0,15min,15.0,12,349.2
+arthas,/main/java/com/alibaba/arthas/tunnel/server/TunnelServer.java,5,29.0,0,15min,15.0,67,1658.7
+arthas,/main/java/com/alibaba/arthas/tunnel/server/RelayHandler.java,3,27.0,0,0,0.0,29,640.2
+arthas,/main/java/org/apache/commons/net/telnet/TelnetClient.java,9,27.0,0,0,0.0,34,902.1
+arthas,/main/java/com/alibaba/arthas/tunnel/client/TunnelClientSocketClientHandler.java,3,27.0,0,15min,15.0,38,902.1
+arthas,/main/java/com/taobao/arthas/core/advisor/Advice.java,4,26.0,0,30min,30.0,47,1404.9
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/MonitorAdviceListener.java,3,26.0,1,1h 20min,80.0,103,2788.8
+arthas,/main/java/org/apache/commons/net/telnet/TelnetOutputStream.java,8,26.0,0,37min 30s,37.5,19,436.5
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/AbstractTraceAdviceListener.java,4,25.0,0,35min,35.0,36,1495.5
+arthas,/main/java/com/taobao/arthas/core/advisor/AdviceListenerAdapter.java,5,25.0,0,22min 30s,22.5,22,743.7
+arthas,/main/java/com/taobao/arthas/core/shell/system/impl/JobImpl.java,5,25.0,0,32min 30s,32.5,123,4192.2
+arthas,/main/java/com/taobao/arthas/core/command/ScriptSupportCommand.java,5,25.0,0,0,0.0,21,714.6
+arthas,/main/java/com/taobao/arthas/core/shell/impl/ShellImpl.java,3,24.0,0,22min 30s,22.5,78,1928.7
+arthas,/main/java/com/taobao/arthas/core/config/Configure.java,3,23.0,1,25min,25.0,60,2119.5
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/GroovyScriptCommand.java,3,23.0,0,7min 30s,7.5,31,814.8
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/TraceCommand.java,4,23.0,0,20min,20.0,53,1425.9
+arthas,/main/java/com/taobao/arthas/common/PidUtils.java,2,22.0,3,10min,10.0,12,759.9
+arthas,/main/java/com/taobao/arthas/core/view/ClassInfoView.java,2,21.0,1,42min 30s,42.5,46,1670.1
+arthas,/main/java/com/alibaba/arthas/Test.java,7,21.0,0,7min 30s,7.5,25,1042.8
+arthas,/main/java/com/taobao/arthas/core/shell/command/impl/AnnotatedCommandImpl.java,1,20.0,0,1h 20min,80.0,56,2612.7
+arthas,/main/java/one/profiler/AsyncProfilerMXBean.java,4,20.0,0,0,0.0,30,873.0
+arthas,/main/java/com/taobao/arthas/core/shell/command/impl/CommandBuilderImpl.java,1,20.0,0,0,0.0,45,1985.4
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/EnhancerCommand.java,2,20.0,0,1h 40min,100.0,35,1437.3
+arthas,/main/java/com/taobao/arthas/core/command/klass100/MemoryCompilerCommand.java,1,20.0,0,17min 30s,17.5,32,1005.6
+arthas,/main/java/com/taobao/arthas/common/ReflectException.java,2,20.0,0,0,0.0,14,569.1
+arthas,/main/java/com/alibaba/arthas/tunnel/client/RelayHandler.java,2,20.0,0,0,0.0,28,640.2
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/SystemPropertyCommand.java,1,20.0,0,0,0.0,21,465.6
+arthas,/main/java/com/alibaba/arthas/tunnel/server/TunnelSocketServerInitializer.java,1,20.0,0,0,0.0,16,407.4
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/CompletionAdaptor.java,6,19.0,0,17min 30s,17.5,23,523.8
+arthas,/main/java/com/taobao/arthas/core/util/usage/StyledUsageFormatter.java,1,18.0,0,25min,25.0,29,793.8
+arthas,/main/java/com/taobao/arthas/core/view/TreeView.java,4,17.0,0,32min 30s,32.5,85,2514.0
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/GrepCommand.java,1,15.0,0,7min 30s,7.5,55,1455.0
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/GroovyAdviceListener.java,2,15.0,0,15min,15.0,51,1047.6
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/KeymapCommand.java,1,15.0,1,1h 27min,87.0,19,1088.1
+arthas,/main/java/com/alibaba/arthas/tunnel/client/LocalFrameHandler.java,4,15.0,0,0,0.0,34,785.7
+arthas,/main/java/org/apache/commons/net/telnet/TelnetNotificationHandler.java,3,14.0,0,0,0.0,1,29.1
+arthas,/main/java/com/taobao/arthas/core/shell/system/impl/InternalCommandManager.java,6,13.0,0,45min,45.0,37,1400.1
+arthas,/main/java/com/alibaba/arthas/tunnel/client/TunnelClient.java,4,13.0,0,7min 30s,7.5,48,1404.9
+arthas,/main/java/com/taobao/arthas/common/UsageRender.java,2,13.0,0,20min,20.0,10,606.3
+arthas,/main/java/com/taobao/arthas/core/command/express/CustomClassResolver.java,2,11.0,0,17min 30s,17.5,18,839.1
+arthas,/main/java/com/taobao/arthas/core/shell/command/AnnotatedCommand.java,1,10.0,0,7min 30s,7.5,8,394.5
+arthas,/main/java/com/taobao/arthas/core/shell/command/Command.java,1,10.0,0,0,0.0,8,519.0
+arthas,/main/java/com/taobao/arthas/core/shell/command/CommandBuilder.java,1,10.0,0,0,0.0,4,489.9
+arthas,/main/java/com/taobao/arthas/core/command/Constants.java,2,10.0,0,10min,10.0,11,320.1
+arthas,/main/java/org/apache/commons/net/DefaultSocketFactory.java,6,10.0,0,50min,50.0,28,2059.8
+arthas,/main/java/com/taobao/arthas/compiler/MemoryByteCode.java,2,10.0,0,0,0.0,31,852.0
+arthas,/main/java/org/apache/commons/net/ProtocolCommandEvent.java,5,10.0,0,0,0.0,10,174.6
+arthas,/main/java/com/taobao/arthas/core/shell/session/Session.java,1,10.0,0,0,0.0,7,145.5
+arthas,/main/java/com/taobao/arthas/core/shell/ShellServer.java,1,10.0,0,0,0.0,8,606.3
+arthas,/main/java/com/taobao/arthas/core/shell/impl/ShellServerImpl.java,7,10.0,0,52min 30s,52.5,74,2792.1
+arthas,/main/java/com/taobao/arthas/core/shell/term/TermServer.java,2,10.0,0,17min 30s,17.5,8,606.3
+arthas,/main/java/com/taobao/arthas/common/ExecutingCommand.java,5,9.0,0,1h 5min,65.0,9,730.8
+arthas,/main/java/org/apache/commons/net/telnet/TelnetCommand.java,3,9.0,0,7min 30s,7.5,20,831.0
+arthas,/main/java/org/apache/commons/net/telnet/TelnetOption.java,3,9.0,0,27min 30s,27.5,87,2751.6
+arthas,/main/java/org/apache/commons/net/telnet/WindowSizeOptionHandler.java,3,9.0,0,7min 30s,7.5,5,270.0
+arthas,/main/java/org/apache/commons/net/DatagramSocketClient.java,5,8.0,0,10min,10.0,14,291.0
+arthas,/main/java/com/taobao/arthas/compiler/DynamicClassLoader.java,4,8.0,0,10min,10.0,24,552.9
+arthas,/main/java/com/taobao/arthas/core/view/MethodInfoView.java,1,8.0,1,10min,10.0,28,889.2
+arthas,/main/java/org/apache/commons/net/PrintCommandListener.java,4,8.0,0,27min 30s,27.5,31,1350.0
+arthas,/main/java/com/taobao/arthas/compiler/DynamicJavaFileManager.java,5,7.0,0,1h,60.0,56,1463.1
+arthas,/main/java/com/taobao/arthas/core/shell/command/internal/PlainTextHandler.java,4,7.0,0,7min 30s,7.5,13,415.5
+arthas,/main/java/com/alibaba/arthas/tunnel/server/TunnelSocketFrameHandler.java,2,7.0,0,32min 30s,32.5,41,960.3
+arthas,/main/java/com/taobao/arthas/core/command/BuiltinCommandPack.java,3,6.0,0,25min,25.0,8,299.1
+arthas,/main/java/com/taobao/arthas/core/shell/system/impl/GlobalJobControllerImpl.java,2,6.0,0,0,0.0,29,1071.9
+arthas,/main/java/com/taobao/arthas/core/command/klass100/SearchClassCommand.java,3,6.0,0,17min 30s,17.5,43,1113.9
+arthas,/main/java/com/taobao/arthas/compiler/CustomJavaFileObject.java,1,5.0,0,0,0.0,62,1463.1
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/term/EventHandler.java,1,5.0,1,10min,10.0,10,357.3
+arthas,/main/java/com/taobao/arthas/core/shell/future/Future.java,5,5.0,0,0,0.0,82,1716.9
+arthas,/main/java/com/taobao/arthas/core/command/klass100/GetStaticCommand.java,1,5.0,1,25min,25.0,50,1566.6
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/HistoryCommand.java,1,5.0,0,7min 30s,7.5,15,349.2
+arthas,/main/java/com/taobao/arthas/core/command/hidden/JulyCommand.java,1,5.0,0,0,0.0,12,481.8
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/JvmCommand.java,1,5.0,0,1h 10min,70.0,90,2630.4
+arthas,/main/java/com/taobao/arthas/core/command/express/OgnlExpress.java,1,5.0,0,10min,10.0,36,1246.5
+arthas,/main/java/com/taobao/arthas/common/OSUtils.java,1,5.0,0,10min,10.0,18,378.3
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/httptelnet/ProtocolDetectHandler.java,1,5.0,0,17min 30s,17.5,28,727.5
+arthas,/main/java/com/taobao/arthas/core/shell/session/impl/SessionImpl.java,3,5.0,0,0,0.0,46,931.2
+arthas,/main/java/com/taobao/arthas/compiler/StringSource.java,1,5.0,0,0,0.0,14,444.6
+arthas,/main/java/com/taobao/arthas/core/util/ThreadLocalWatch.java,1,5.0,0,20min,20.0,33,669.3
+arthas,/main/java/com/taobao/arthas/core/util/collection/ThreadUnsafeGaStack.java,2,4.0,0,10min,10.0,26,582.0
+arthas,/main/java/org/apache/commons/net/util/ListenerList.java,3,3.0,0,17min 30s,17.5,15,291.0
+arthas,/main/java/com/taobao/arthas/core/shell/command/CommandRegistry.java,2,2.0,0,0,0.0,12,320.1
+arthas,/main/java/com/alibaba/arthas/tunnel/client/ForwardClient.java,2,2.0,0,17min 30s,17.5,23,677.4
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/HelpCommand.java,2,2.0,2,30min,30.0,31,727.5
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/http/NettyWebsocketTtyBootstrap.java,2,2.0,0,7min 30s,7.5,41,1018.5
+arthas,/main/java/com/taobao/arthas/core/util/metrics/RateCounter.java,1,2.0,0,17min 30s,17.5,23,1021.8
+arthas,/main/java/com/alibaba/arthas/tunnel/server/app/web/StatController.java,1,2.0,0,0,0.0,10,635.4
+arthas,/main/java/com/taobao/arthas/core/util/collection/ThreadUnsafeFixGaStack.java,1,2.0,0,0,0.0,23,523.8
+arthas,/main/java/com/alibaba/arthas/tunnel/server/endpoint/ArthasEndpoint.java,1,1.0,0,0,0.0,15,627.3
+arthas,/main/java/com/taobao/arthas/core/command/express/ClassLoaderClassResolver.java,1,1.0,0,20min,20.0,15,502.8
+arthas,/main/java/com/taobao/arthas/core/shell/cli/impl/CliTokenImpl.java,2,1.0,0,30min,30.0,62,1712.1
+arthas,/main/java/com/taobao/arthas/core/util/affect/EnhancerAffect.java,1,1.0,0,0,0.0,16,473.7
+arthas,/main/java/com/taobao/arthas/core/util/matcher/GroupMatcher.java,1,1.0,0,20min,20.0,28,764.7
+arthas,/main/java/com/taobao/arthas/core/view/LadderView.java,1,1.0,0,0,0.0,7,203.7
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/StackAdviceListener.java,2,1.0,0,25min,25.0,32,1063.8
+arthas,/main/java/com/taobao/arthas/core/shell/command/internal/StdoutHandler.java,1,1.0,0,1h 7min,67.0,22,1175.4
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/TermImpl.java,1,1.0,0,22min 30s,22.5,106,2452.5
+arthas,/main/java/com/alibaba/arthas/tunnel/server/endpoint/ActuatorSecurity.java,0,0.0,0,0,0.0,15,598.2
+arthas,/main/java/com/taobao/arthas/core/util/affect/Affect.java,0,0.0,0,0,0.0,6,394.5
+arthas,/main/java/com/alibaba/arthas/tunnel/server/AgentInfo.java,0,0.0,0,0,0.0,15,436.5
+arthas,/main/java/com/taobao/arthas/agent/ArthasClassloader.java,0,0.0,0,30min,30.0,12,818.1
+arthas,/main/java/com/alibaba/arthas/tunnel/server/endpoint/ArthasEndPointAutoconfiguration.java,0,0.0,0,0,0.0,12,664.5
+arthas,/main/java/com/taobao/arthas/core/advisor/ArthasMethod.java,0,0.0,0,0,0.0,36,939.3
+arthas,/main/java/com/alibaba/arthas/tunnel/server/app/ArthasProperties.java,0,0.0,0,0,0.0,27,793.8
+arthas,/main/java/com/alibaba/arthas/tunnel/server/app/ArthasTunnelApplication.java,0,0.0,0,0,0.0,9,452.7
+arthas,/main/java/com/taobao/arthas/core/advisor/AsmCodeLock.java,0,0.0,0,27min 30s,27.5,22,552.9
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/BindHandler.java,0,0.0,0,0,0.0,11,261.9
+arthas,/main/java/com/taobao/arthas/core/shell/impl/BuiltinCommandResolver.java,0,0.0,0,7min 30s,7.5,8,299.1
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/CatCommand.java,0,0.0,0,40min,40.0,25,831.0
+arthas,/main/java/com/alibaba/arthas/tunnel/client/ChannelUtils.java,0,0.0,1,0,0.0,8,423.6
+arthas,/main/java/com/alibaba/arthas/tunnel/server/ChannelUtils.java,0,0.0,1,0,0.0,9,452.7
+arthas,/main/java/com/alibaba/arthas/tunnel/server/ClientConnectionInfo.java,0,0.0,0,0,0.0,20,552.9
+arthas,/main/java/com/taobao/arthas/core/shell/cli/CliToken.java,0,0.0,0,0,0.0,4,58.2
+arthas,/main/java/com/taobao/arthas/core/shell/command/internal/CloseFunction.java,0,0.0,0,0,0.0,1,29.1
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/shell/CloseHandler.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/term/CloseHandlerWrapper.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/ClsCommand.java,0,0.0,0,0,0.0,8,423.6
+arthas,/main/java/com/taobao/arthas/core/advisor/CodeLock.java,0,0.0,0,0,0.0,2,58.2
+arthas,/main/java/com/taobao/arthas/core/shell/system/impl/CommandCompletion.java,0,0.0,0,0,0.0,27,897.3
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/command/CommandInterruptHandler.java,0,0.0,0,0,0.0,9,203.7
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/shell/CommandManagerCompletionHandler.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/shell/command/CommandProcess.java,0,0.0,0,0,0.0,15,291.0
+arthas,/main/java/com/taobao/arthas/core/shell/command/CommandResolver.java,0,0.0,0,0,0.0,1,0.0
+arthas,/main/java/com/taobao/arthas/core/shell/cli/Completion.java,0,0.0,0,0,0.0,4,0.0
+arthas,/main/java/com/taobao/arthas/core/util/Constants.java,0,0.0,0,7min 30s,7.5,5,240.9
+arthas,/main/java/one/profiler/Counter.java,0,0.0,0,0,0.0,1,29.1
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/DashboardInterruptHandler.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/org/apache/commons/net/DatagramSocketFactory.java,0,0.0,0,0,0.0,4,116.4
+arthas,/main/java/org/apache/commons/net/DefaultDatagramSocketFactory.java,0,0.0,0,0,0.0,6,423.6
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/term/DefaultTermStdinHandler.java,0,0.0,0,0,0.0,8,203.7
+arthas,/main/java/org/apache/commons/net/telnet/EchoOptionHandler.java,0,0.0,0,0,0.0,6,423.6
+arthas,/main/java/com/taobao/arthas/core/util/matcher/EqualsMatcher.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/shell/system/ExecStatus.java,0,0.0,0,0,0.0,null,null
+arthas,/main/java/com/taobao/arthas/core/command/express/Express.java,0,0.0,0,0,0.0,2,29.1
+arthas,/main/java/com/taobao/arthas/core/command/express/ExpressException.java,0,0.0,0,0,0.0,2,58.2
+arthas,/main/java/com/taobao/arthas/core/util/matcher/FalseMatcher.java,0,0.0,0,0,0.0,3,336.3
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/shell/FutureHandler.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/util/collection/GaStack.java,0,0.0,0,0,0.0,9,261.9
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/Handler.java,0,0.0,0,0,0.0,3,58.2
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/shell/InterruptHandler.java,0,0.0,0,10min,10.0,9,203.7
+arthas,/main/java/org/apache/commons/net/telnet/InvalidTelnetOptionException.java,0,0.0,0,0,0.0,1,29.1
+arthas,/main/java/com/taobao/arthas/common/JavaVersionUtils.java,0,0.0,0,0,0.0,34,698.4
+arthas,/main/java/com/taobao/arthas/core/shell/system/Job.java,0,0.0,0,0,0.0,5,87.3
+arthas,/main/java/com/taobao/arthas/core/shell/system/JobController.java,0,0.0,0,0,0.0,1,29.1
+arthas,/main/java/com/taobao/arthas/core/view/KVView.java,0,0.0,0,0,0.0,19,531.9
+arthas,/main/java/org/apache/commons/net/MalformedServerReplyException.java,0,0.0,0,0,0.0,5,270.0
+arthas,/main/java/com/taobao/arthas/core/util/matcher/Matcher.java,0,0.0,0,0,0.0,2,29.1
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/httptelnet/NettyHttpTelnetBootstrap.java,0,0.0,0,7min 30s,7.5,33,910.2
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/NoOpHandler.java,0,0.0,0,0,0.0,8,423.6
+arthas,/main/java/com/taobao/arthas/core/command/klass100/OgnlCommand.java,0,0.0,0,17min 30s,17.5,21,523.8
+arthas,/main/java/com/taobao/arthas/core/Option.java,0,0.0,0,0,0.0,1,29.1
+arthas,/main/java/one/profiler/package-info.java,0,0.0,0,0,0.0,null,null
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/http/package-info.java,0,0.0,0,0,0.0,null,null
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/PathTraceAdviceListener.java,0,0.0,0,7min 30s,7.5,5,365.4
+arthas,/main/java/com/taobao/arthas/common/PlatformEnum.java,0,0.0,0,0,0.0,1,29.1
+arthas,/main/java/com/alibaba/arthas/Pojo.java,0,0.0,0,0,0.0,21,582.0
+arthas,/main/java/com/taobao/arthas/core/shell/system/Process.java,0,0.0,0,0,0.0,8,203.7
+arthas,/main/java/org/apache/commons/net/ProtocolCommandListener.java,0,0.0,0,0,0.0,1,29.1
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/PwdCommand.java,0,0.0,0,0,0.0,10,452.7
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/shell/QExitHandler.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/shell/command/internal/RedirectHandler.java,0,0.0,0,15min,15.0,18,378.3
+arthas,/main/java/com/taobao/arthas/core/util/matcher/RegexMatcher.java,0,0.0,0,0,0.0,9,174.6
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/term/RequestHandler.java,0,0.0,0,0,0.0,10,232.8
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/ResetCommand.java,0,0.0,0,0,0.0,15,502.8
+arthas,/main/java/com/taobao/arthas/core/util/affect/RowAffect.java,0,0.0,0,0,0.0,13,203.7
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/server/SessionClosedHandler.java,0,0.0,0,0,0.0,10,232.8
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/SessionCommand.java,0,0.0,0,0,0.0,12,540.0
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/server/SessionsClosedHandler.java,0,0.0,0,0,0.0,9,203.7
+arthas,/main/java/com/taobao/arthas/core/shell/Shell.java,0,0.0,0,0,0.0,3,87.3
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/shell/ShellForegroundUpdateHandler.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/shell/ShellServerOptions.java,2,0.0,0,7min 30s,7.5,24,669.3
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/ShutdownCommand.java,0,0.0,0,0,0.0,10,635.4
+arthas,/main/java/com/taobao/arthas/core/shell/term/SignalHandler.java,0,0.0,0,0,0.0,3,87.3
+arthas,/main/java/org/apache/commons/net/telnet/SimpleOptionHandler.java,0,0.0,0,0,0.0,6,423.6
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/term/SizeHandlerWrapper.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/shell/command/internal/StatisticsFunction.java,0,0.0,0,0,0.0,2,58.2
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/term/StdinHandlerWrapper.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/StopCommand.java,0,0.0,0,0,0.0,5,365.4
+arthas,/main/java/com/taobao/arthas/core/util/metrics/SumRateCounter.java,0,0.0,0,10min,10.0,20,436.5
+arthas,/main/java/org/apache/commons/net/telnet/SuppressGAOptionHandler.java,0,0.0,0,0,0.0,6,423.6
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/shell/SuspendHandler.java,0,0.0,0,0,0.0,10,232.8
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/SystemEnvCommand.java,0,0.0,0,0,0.0,17,407.4
+arthas,/main/java/org/apache/commons/net/telnet/TelnetInputListener.java,0,0.0,0,0,0.0,1,29.1
+arthas,/main/java/com/taobao/arthas/core/shell/term/Term.java,0,0.0,0,0,0.0,13,349.2
+arthas,/main/java/com/taobao/arthas/core/shell/command/internal/TermHandler.java,0,0.0,0,0,0.0,9,203.7
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/server/TermServerListenHandler.java,0,0.0,0,0,0.0,20,494.7
+arthas,/main/java/com/taobao/arthas/core/shell/handlers/server/TermServerTermHandler.java,0,0.0,0,0,0.0,8,174.6
+arthas,/main/java/com/taobao/arthas/core/command/hidden/ThanksCommand.java,0,0.0,0,0,0.0,5,365.4
+arthas,/main/java/com/taobao/arthas/core/util/ThreadLocalRandom.java,0,0.0,2,37min 30s,37.5,68,3290.1
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/TimeFragment.java,0,0.0,0,0,0.0,14,349.2
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/TimeTunnelAdviceListener.java,1,0.0,0,42min 30s,42.5,29,822.9
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/TraceAdviceListener.java,0,0.0,0,15min,15.0,23,1146.3
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/TraceEntity.java,0,0.0,0,0,0.0,18,436.5
+arthas,/main/java/com/taobao/arthas/core/advisor/TracingAsmCodeLock.java,0,0.0,0,0,0.0,7,423.6
+arthas,/main/java/com/taobao/arthas/core/util/matcher/TrueMatcher.java,0,0.0,0,0,0.0,4,365.4
+arthas,/main/java/com/taobao/arthas/core/shell/term/Tty.java,0,0.0,0,0,0.0,1,0.0
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/http/TtyServerInitializer.java,0,0.0,0,0,0.0,16,349.2
+arthas,/main/java/com/taobao/arthas/core/shell/term/impl/http/TtyWebSocketFrameHandler.java,0,0.0,0,7min 30s,7.5,39,931.2
+arthas,/main/java/com/alibaba/arthas/tunnel/server/app/TunnelServerConfiguration.java,0,0.0,0,0,0.0,14,722.7
+arthas,/main/java/com/alibaba/arthas/Type.java,0,0.0,0,0,0.0,3,58.2
+arthas,/main/java/com/taobao/arthas/core/command/basic1000/VersionCommand.java,0,0.0,0,0,0.0,5,365.4
+arthas,/main/java/com/taobao/arthas/core/view/View.java,0,0.0,0,0,0.0,3,58.2
+arthas,/main/java/com/taobao/arthas/core/command/monitor200/WatchAdviceListener.java,1,0.0,0,32min 30s,32.5,39,1151.1
+arthas,/main/java/com/taobao/arthas/core/shell/command/internal/WordCountHandler.java,1,0.0,0,25min,25.0,21,494.7

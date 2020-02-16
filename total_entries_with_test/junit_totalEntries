@@ -1,0 +1,936 @@
+junit,est/java/org/junit/tests/running/methods/AnnotationTest.java,157,2057.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/ParameterizedTestTest.java,81,805.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/SortableTest.java,27,690.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/OrderableTest.java,27,680.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/OrderWithTest.java,23,570.0,null,null,null,null,null
+junit,est/java/org/junit/rules/TestWatcherTest.java,31,534.0,null,null,null,null,null
+junit,est/java/org/junit/rules/RuleMemberValidatorTest.java,26,511.0,null,null,null,null,null
+junit,est/java/org/junit/rules/MethodRulesTest.java,33,482.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/ForwardCompatibilityTest.java,26,415.0,null,null,null,null,null
+junit,est/java/org/junit/rules/TestRuleTest.java,32,330.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/internal/AllMembersSupplierTest.java,32,321.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/ParentRunnerTest.java,24,272.0,null,null,null,null,null
+junit,est/java/org/junit/experimental/categories/CategoryTest.java,38,263.0,null,null,null,null,null
+junit,est/java/org/junit/internal/StackTracesTest.java,20,263.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/SingleMethodTest.java,27,260.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/AllTestsTest.java,13,254.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/methods/TimeoutTest.java,26,250.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/internal/SpecificDataPointsSupplierTest.java,26,238.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/WithExtendedParameterSources.java,38,235.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/TestCaseTest.java,14,223.0,null,null,null,null,null
+junit,est/java/org/junit/rules/ExternalResourceRuleTest.java,15,221.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/SuiteMethodTest.java,17,213.0,null,null,null,null,null
+junit,est/java/org/junit/internal/MethodSorterTest.java,28,211.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/notification/RunListener.java,17,205.0,null,null,null,null,null
+junit,est/java/org/junit/experimental/categories/MultiCategoryTest.java,12,199.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/WithParameterSupplier.java,12,191.0,null,null,null,null,null
+junit,est/java/org/junit/rules/TempFolderRuleTest.java,21,188.0,null,null,null,null,null
+junit,est/java/org/junit/runner/JUnitCommandLineParseResultTest.java,11,185.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/parallel/ParallelClassTest.java,9,180.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/max/MaxStarterTest.java,19,176.0,null,null,null,null,null
+junit,est/java/org/junit/internal/builders/AnnotatedBuilderTest.java,16,170.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/max/DescriptionTest.java,14,167.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/Parameterized.java,13,165.0,null,null,null,null,null
+junit,est/java/org/junit/rules/StopwatchTest.java,11,157.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/UnsuccessfulWithDataPointFields.java,28,151.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/FailingDataPointMethods.java,19,150.0,null,null,null,null,null
+junit,ain/java/org/junit/matchers/JUnitMatchers.java,11,150.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/core/CommandLineTest.java,11,144.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/internal/AllMembersSupplier.java,10,143.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/SuiteTest.java,11,138.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/methods/TestMethodTest.java,18,138.0,null,null,null,null,null
+junit,est/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java,14,136.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/ClassLevelMethodsWithIgnoredTestsTest.java,9,135.0,null,null,null,null,null
+junit,est/java/org/junit/runner/FilterFactoriesTest.java,9,135.0,null,null,null,null,null
+junit,est/java/org/junit/tests/assertion/AssertionTest.java,16,134.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/ParentRunnerFilteringTest.java,8,133.0,null,null,null,null,null
+junit,est/java/org/junit/tests/description/TestDescriptionMethodNameTest.java,3,132.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/TestWatcher.java,8,131.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/EnclosedTest.java,11,127.0,null,null,null,null,null
+junit,est/java/org/junit/rules/ErrorCollectorTest.java,14,126.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/MethodRoadie.java,10,126.0,null,null,null,null,null
+junit,ain/java/junit/textui/TestRunner.java,15,126.0,null,null,null,null,null
+junit,est/java/org/junit/rules/TimeoutRuleTest.java,9,120.0,null,null,null,null,null
+junit,est/java/org/junit/runner/notification/ConcurrentRunNotifierTest.java,8,110.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/WithAutoGeneratedDataPoints.java,11,110.0,null,null,null,null,null
+junit,ain/java/junit/framework/Assert.java,44,108.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/BlockJUnit4ClassRunnerTest.java,6,105.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/AssumptionTest.java,16,104.0,null,null,null,null,null
+junit,est/java/org/junit/tests/assertion/MultipleFailureExceptionTest.java,7,102.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/SuccessfulWithDataPointFields.java,30,101.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/InitializationErrorForwardCompatibilityTest.java,8,100.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/RunWithTest.java,5,100.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/TestClass.java,14,98.0,null,null,null,null,null
+junit,est/java/org/junit/rules/TemporaryFolderUsageTest.java,9,95.0,null,null,null,null,null
+junit,ain/java/junit/runner/BaseTestRunner.java,13,94.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/ParameterSignatureTest.java,13,94.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParameters.java,6,90.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/methods/ExpectedTest.java,6,90.0,null,null,null,null,null
+junit,est/java/org/junit/tests/SampleJUnit4Tests.java,4,90.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/core/JUnitCoreReturnsCorrectExitCodeTest.java,10,89.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/JUnit38ClassRunnerTest.java,9,87.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/ExpectedException.java,8,85.0,null,null,null,null,null
+junit,ain/java/org/junit/Assert.java,9,84.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/WithOnlyTestAnnotations.java,12,84.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/ParentRunner.java,14,83.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/AssumptionViolatedException.java,6,80.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/parallel/ParallelMethodTest.java,4,80.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/WithUnresolvedGenericTypeVariablesOnTheoryParms.java,22,80.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/Throwables.java,6,77.0,null,null,null,null,null
+junit,est/java/org/junit/runners/model/TestClassTest.java,11,76.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/ClassRoadie.java,5,75.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/internal/Assignments.java,7,73.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/ForwardCompatibilityPrintingTest.java,3,70.0,null,null,null,null,null
+junit,est/java/org/junit/runners/model/FrameworkMethodTest.java,5,70.0,null,null,null,null,null
+junit,est/java/org/junit/tests/listening/ListenerTest.java,5,67.0,null,null,null,null,null
+junit,est/java/junit/tests/runner/TextFeedbackTest.java,6,67.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/WithDataPointMethod.java,11,65.0,null,null,null,null,null
+junit,est/java/org/junit/runners/model/FrameworkFieldTest.java,5,64.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/WhenNoParametersMatch.java,11,64.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/methods/ParameterizedTestMethodTest.java,9,63.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/BlockJUnit4ClassRunner.java,10,62.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/parent/ParentRunnerClassLoaderTest.java,5,62.0,null,null,null,null,null
+junit,est/java/org/junit/experimental/categories/CategoryValidatorTest.java,7,60.0,null,null,null,null,null
+junit,est/java/org/junit/internal/runners/statements/ExpectExceptionTest.java,3,60.0,null,null,null,null,null
+junit,est/java/org/junit/rules/VerifierRuleTest.java,3,60.0,null,null,null,null,null
+junit,ain/java/junit/framework/TestSuite.java,9,58.0,null,null,null,null,null
+junit,est/java/org/junit/tests/validation/BadlyFormedClassesTest.java,6,57.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/max/JUnit38SortingTest.java,8,55.0,null,null,null,null,null
+junit,est/java/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParametersTest.java,4,50.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/ClassRequestTest.java,2,50.0,null,null,null,null,null
+junit,est/java/org/junit/rules/ExpectedExceptionTest.java,7,50.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/JUnit4TestAdapterTest.java,2,50.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/management/ManagementFactory.java,5,50.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/TestWatchman.java,6,50.0,null,null,null,null,null
+junit,est/java/org/junit/tests/listening/TextListenerTest.java,4,50.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/max/MaxHistory.java,8,48.0,null,null,null,null,null
+junit,est/java/org/junit/runner/FilterOptionIntegrationTest.java,9,47.0,null,null,null,null,null
+junit,est/java/org/junit/runners/parameterized/ParameterizedNamesTest.java,3,47.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/results/ResultMatchers.java,4,47.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/TemporaryFolder.java,9,47.0,null,null,null,null,null
+junit,est/java/org/junit/internal/ArrayComparisonFailureTest.java,3,45.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/AssertTest.java,9,45.0,null,null,null,null,null
+junit,ain/java/org/junit/Assume.java,3,45.0,null,null,null,null,null
+junit,est/java/junit/tests/runner/BaseTestRunnerTest.java,4,45.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/Classes.java,3,45.0,null,null,null,null,null
+junit,est/java/junit/samples/money/MoneyTest.java,9,45.0,null,null,null,null,null
+junit,est/java/org/junit/tests/listening/TestListenerTest.java,3,45.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/Timeout.java,4,45.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/Description.java,4,42.0,null,null,null,null,null
+junit,est/java/org/junit/rules/ClassRulesTest.java,8,41.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/ExternalResource.java,3,41.0,null,null,null,null,null
+junit,est/java/junit/tests/runner/ResultTest.java,7,41.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/statements/RunAfters.java,3,41.0,null,null,null,null,null
+junit,est/java/org/junit/experimental/categories/CategoryFilterFactoryTest.java,2,40.0,null,null,null,null,null
+junit,ain/java/org/junit/ComparisonFailure.java,4,40.0,null,null,null,null,null
+junit,est/java/org/junit/runners/CustomBlockJUnit4ClassRunnerTest.java,2,40.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/statements/ExpectException.java,2,40.0,null,null,null,null,null
+junit,est/java/org/junit/samples/money/MoneyTest.java,8,40.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/management/ReflectiveThreadMXBean.java,8,40.0,null,null,null,null,null
+junit,est/java/org/junit/runner/notification/RunNotifierTest.java,2,40.0,null,null,null,null,null
+junit,est/java/org/junit/internal/matchers/StacktracePrintingMatcherTest.java,2,40.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/SuiteMethod.java,2,40.0,null,null,null,null,null
+junit,est/java/org/junit/rules/TemporaryFolderRuleAssuredDeletionTest.java,2,40.0,null,null,null,null,null
+junit,est/java/junit/tests/runner/TextRunnerSingleMethodTest.java,2,40.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/TestClass.java,5,37.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/statements/FailOnTimeout.java,5,36.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/categories/Categories.java,8,34.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/max/MaxCore.java,4,32.0,null,null,null,null,null
+junit,est/java/org/junit/rules/NameRulesTest.java,2,32.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/OldTests.java,2,32.0,null,null,null,null,null
+junit,est/java/org/junit/tests/AllTests.java,1,30.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/FilterFactories.java,1,30.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/extendingwithstubs/GuesserQueue.java,1,30.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/core/MainRunner.java,3,30.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/ParameterSupplier.java,2,30.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/PotentialAssignment.java,2,30.0,null,null,null,null,null
+junit,est/java/org/junit/rules/RuleChainTest.java,5,30.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/notification/RunNotifier.java,6,30.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/Statement.java,2,30.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/Stopwatch.java,6,30.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/TypeMatchingBetweenMultiDataPointsMethod.java,7,30.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/matchers/TypeSafeMatcher.java,2,30.0,null,null,null,null,null
+junit,est/java/org/junit/rules/DisableOnDebugTest.java,4,28.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/FilterableTest.java,3,27.0,null,null,null,null,null
+junit,est/java/org/junit/experimental/categories/CategoriesAndParameterizedTest.java,4,26.0,null,null,null,null,null
+junit,est/java/org/junit/tests/validation/FailedConstructionTest.java,2,25.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/FloatAssertTest.java,5,25.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/JUnit4ClassRunner.java,4,25.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/RealSystem.java,3,25.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/management/ReflectiveRuntimeMXBean.java,5,25.0,null,null,null,null,null
+junit,ain/java/junit/framework/TestCase.java,2,25.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/TestedOnSupplierTest.java,2,25.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/TestListenerTest.java,2,25.0,null,null,null,null,null
+junit,est/java/org/junit/tests/listening/UserStopTest.java,2,25.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/WithNamedDataPoints.java,8,25.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/JUnitCommandLineParseResult.java,5,24.0,null,null,null,null,null
+junit,ain/java/junit/framework/TestResult.java,5,24.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/Theories.java,4,24.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/MethodValidator.java,4,23.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/RunnerBuilder.java,3,22.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/core/SystemExitTest.java,2,22.0,null,null,null,null,null
+junit,ain/java/org/junit/validator/AnnotationValidatorFactory.java,2,21.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/runners/Enclosed.java,2,21.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/ErrorCollector.java,2,21.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/MultipleFailureException.java,2,21.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/extendingwithstubs/StubbedTheories.java,2,21.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/AllTests.java,1,20.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/Computer.java,1,20.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/DoublePrecisionAssertTest.java,4,20.0,null,null,null,null,null
+junit,est/java/junit/tests/extensions/ExtensionTest.java,1,20.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/results/FailureList.java,1,20.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/FrameworkMethod.java,3,20.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/JUnit38ClassRunner.java,4,20.0,null,null,null,null,null
+junit,est/java/org/junit/tests/deprecated/JUnit4ClassRunnerTest.java,3,20.0,null,null,null,null,null
+junit,ain/java/junit/framework/JUnit4TestCaseFacade.java,1,20.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/internal/ParameterizedAssertionError.java,1,20.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/PotentialAssignmentTest.java,1,20.0,null,null,null,null,null
+junit,ain/java/junit/framework/Protectable.java,1,20.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/model/ReflectiveCallable.java,1,20.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/Suite.java,1,20.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/parent/TestWithClassRule.java,4,20.0,null,null,null,null,null
+junit,est/java/junit/tests/runner/TextRunnerTest.java,3,20.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/TheoryTestUtils.java,1,20.0,null,null,null,null,null
+junit,est/java/org/junit/internal/matchers/ThrowableCauseMatcherTest.java,1,20.0,null,null,null,null,null
+junit,ain/java/org/junit/function/ThrowingRunnable.java,1,20.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/Result.java,5,17.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/TestMethod.java,3,17.0,null,null,null,null,null
+junit,est/java/org/junit/internal/ChecksTest.java,2,16.0,null,null,null,null,null
+junit,est/java/org/junit/internal/runners/ErrorReportingRunnerTest.java,4,16.0,null,null,null,null,null
+junit,est/java/org/junit/tests/description/AnnotatedDescriptionTest.java,3,15.0,null,null,null,null,null
+junit,est/java/org/junit/validator/AnnotationsValidatorTest.java,3,15.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/InitializationError.java,2,15.0,null,null,null,null,null
+junit,est/java/org/junit/experimental/categories/JavadocTest.java,3,15.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/JUnitSystem.java,2,15.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/model/MultipleFailureException.java,2,15.0,null,null,null,null,null
+junit,est/java/org/junit/tests/ObjectContractTest.java,5,15.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/OneTestCase.java,3,15.0,null,null,null,null,null
+junit,est/java/org/junit/tests/listening/RunnerTest.java,3,15.0,null,null,null,null,null
+junit,est/java/junit/samples/SimpleTest.java,6,15.0,null,null,null,null,null
+junit,est/java/org/junit/tests/description/TestDescriptionTest.java,2,15.0,null,null,null,null,null
+junit,est/java/org/junit/tests/TestSystem.java,3,15.0,null,null,null,null,null
+junit,est/java/org/junit/runners/parameterized/TestWithParametersTest.java,3,15.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/ThreeTestCases.java,3,15.0,null,null,null,null,null
+junit,ain/java/junit/runner/Version.java,2,15.0,null,null,null,null,null
+junit,est/java/org/junit/AssumptionViolatedExceptionTest.java,7,14.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/ComparisonCriteria.java,1,14.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/MatcherTest.java,7,14.0,null,null,null,null,null
+junit,est/java/org/junit/rules/BlockJUnit4ClassRunnerOverrideTest.java,7,12.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/ParameterSignature.java,3,12.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.java,1,10.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/FailedBefore.java,1,10.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/methods/InheritedTestTest.java,1,10.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/MethodSorter.java,2,10.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/NotPublicTestCase.java,2,10.0,null,null,null,null,null
+junit,est/java/org/junit/runner/OrderWithValidatorTest.java,2,10.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/ParallelComputer.java,2,10.0,null,null,null,null,null
+junit,est/java/org/junit/validator/PublicClassValidatorTest.java,2,10.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/Request.java,1,10.0,null,null,null,null,null
+junit,est/java/org/junit/runner/RequestTest.java,2,10.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/results/ResultMatchersTest.java,2,10.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/RuleContainer.java,6,10.0,null,null,null,null,null
+junit,est/java/org/junit/samples/SimpleTest.java,4,10.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/Success.java,2,10.0,null,null,null,null,null
+junit,est/java/org/junit/tests/description/SuiteDescriptionTest.java,2,10.0,null,null,null,null,null
+junit,ain/java/junit/runner/TestRunListener.java,1,10.0,null,null,null,null,null
+junit,ain/java/junit/extensions/TestSetup.java,2,10.0,null,null,null,null,null
+junit,est/java/org/junit/tests/validation/ValidationTest.java,2,10.0,null,null,null,null,null
+junit,est/java/org/junit/samples/ListTest.java,7,9.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/ComparisonCompactorTest.java,1,8.0,null,null,null,null,null
+junit,est/java/junit/samples/money/MoneyBag.java,3,8.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/internal/ParameterizedAssertionErrorTest.java,9,8.0,null,null,null,null,null
+junit,ain/java/junit/extensions/ActiveTestSuite.java,3,7.0,null,null,null,null,null
+junit,est/java/org/junit/rules/EventCollector.java,8,7.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/FrameworkField.java,2,7.0,null,null,null,null,null
+junit,est/java/org/junit/tests/assertion/ComparisonFailureTest.java,3,6.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/extendingwithstubs/Guesser.java,2,6.0,null,null,null,null,null
+junit,ain/java/junit/framework/JUnit4TestAdapterCache.java,2,6.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/Sorter.java,2,6.0,null,null,null,null,null
+junit,est/java/junit/tests/extensions/ActiveTestTest.java,1,5.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/Alphanumeric.java,1,5.0,null,null,null,null,null
+junit,ain/java/org/junit/validator/AnnotationsValidator.java,4,5.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/ErrorReportingRunner.java,1,5.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/InheritedTestCase.java,1,5.0,null,null,null,null,null
+junit,est/java/org/junit/runners/model/InvalidTestClassErrorTest.java,1,5.0,null,null,null,null,null
+junit,est/java/junit/samples/money/Money.java,1,5.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/NoTestCaseClass.java,1,5.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/NoTestCases.java,1,5.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/NotVoidTestCase.java,1,5.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/OverrideTestCase.java,1,5.0,null,null,null,null,null
+junit,est/java/junit/tests/extensions/RepeatedTestTest.java,1,5.0,null,null,null,null,null
+junit,ain/java/junit/textui/ResultPrinter.java,1,5.0,null,null,null,null,null
+junit,est/java/org/junit/runner/RunnerSpy.java,1,5.0,null,null,null,null,null
+junit,est/java/org/junit/tests/validation/anotherpackage/Super.java,1,5.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/TestImplementorTest.java,1,5.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/UseSuiteAsASuperclassTest.java,1,5.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/internal/SpecificDataPointsSupplier.java,4,4.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/AssumingInTheoriesTest.java,1,2.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/ExpectedExceptionMatcherBuilder.java,2,2.0,null,null,null,null,null
+junit,est/java/junit/samples/ListTest.java,4,2.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/Orderer.java,2,2.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/results/PrintableResultTest.java,2,2.0,null,null,null,null,null
+junit,est/java/org/junit/runners/RuleContainerTest.java,1,2.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/matchers/StacktracePrintingMatcher.java,2,2.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/ArrayComparisonFailure.java,1,1.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/categories/CategoryFilterFactory.java,1,1.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/categories/CategoryValidator.java,1,1.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/ComparatorBasedOrdering.java,1,1.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/internal/EnumSupplier.java,1,1.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/extendingwithstubs/MethodCall.java,3,1.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/Ordering.java,1,1.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/RuleChain.java,1,1.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/rules/RuleMemberValidator.java,1,1.0,null,null,null,null,null
+junit,est/java/org/junit/runner/notification/SynchronizedRunListenerTest.java,3,1.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/suppliers/TestedOnSupplier.java,1,1.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/ThreadsTest.java,1,1.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/matchers/ThrowableCauseMatcher.java,1,1.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/matchers/ThrowableMessageMatcher.java,1,1.0,null,null,null,null,null
+junit,ain/java/org/junit/After.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/AfterClass.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/assertion/AllAssertionTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/experimental/categories/AllCategoriesTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/AllClassesTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/core/AllCoreTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/deprecated/AllDeprecatedTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/description/AllDescriptionTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/AllExperimentalTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/internal/AllInternalTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/AllJUnit3CompatibilityTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/listening/AllListeningTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/AllManipulationTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/max/AllMaxTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/methods/AllMethodsTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/runners/model/AllModelTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/runner/notification/AllNotificationTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/parallel/AllParallelTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/runners/parameterized/AllParameterizedTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/results/AllResultsTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/rules/AllRulesTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/runners/AllRunnersTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/runner/AllRunnerTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/AllRunningTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/samples/AllSamplesTests.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/runner/AllTests.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/samples/AllTests.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/AllTests.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/AllTests.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/extensions/AllTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/internal/AllTheoriesInternalTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/AllTheoriesRunnerTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/AllTheoriesTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/validation/AllValidationTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/validator/AllValidatorTests.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/AlphanumericOrdering.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/Annotatable.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/builders/AnnotatedBuilder.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/validator/AnnotationValidator.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/validator/AnnotationValidatorFactoryTest.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/framework/AssertionFailedError.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/AssertionFailedErrorTest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/AssumptionViolatedException.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/Before.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/BeforeClass.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParametersFactory.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/internal/BooleanSupplier.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/categories/Category.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/Checks.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/requests/ClassRequest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/ClassRule.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/Comparators.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/framework/ComparisonCompactor.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/framework/ComparisonFailure.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/ComparisonFailureTest.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/extendingwithstubs/Correspondent.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/max/CouldNotReadCoreException.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/DataPoint.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/DataPoints.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/Describable.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/DisableOnDebug.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/model/EachTestNotifier.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/ExactComparisonCriteria.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/categories/ExcludeCategories.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/statements/Fail.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/Failure.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/notification/Failure.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/management/FakeRuntimeMXBean.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/management/FakeThreadMXBean.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/Filter.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/Filterable.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/FilterFactory.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/FilterFactoryParams.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/requests/FilterRequest.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/FilterTest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/FixMethodOrder.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/FrameworkMember.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/FromDataPoints.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/Ignore.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/running/classes/IgnoreClassTest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/builders/IgnoredBuilder.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/builders/IgnoredClassRunner.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/samples/money/IMoney.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/categories/IncludeCategories.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/InexactComparisonCriteria.java,1,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/InitializationError.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/InvalidOrderingException.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/InvalidTestClassError.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/statements/InvokeMethod.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/builders/JUnit3Builder.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/JUnit4.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/builders/JUnit4Builder.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/framework/JUnit4TestAdapter.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/JUnitCore.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/runner/JUnitCoreTest.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/rules/LoggingMethodRule.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/rules/LoggingStatement.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/rules/LoggingTestRule.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/rules/LoggingTestWatcher.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/MemberValueConsumer.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/requests/MemoizingRequest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/MethodRule.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/MethodSorters.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/NoArgTestCaseTest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/NoGenericTypeParametersValidator.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/NoTestsRemainException.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/builders/NullBuilder.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/junit3compatibility/OldTestClassAdaptingListenerTest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/Orderable.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/requests/OrderingRequest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/OrderWith.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/OrderWithValidator.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/runner/package-info.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/samples/package-info.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/samples/money/package-info.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/package-info.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/package-info.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/extensions/package-info.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/samples/money/package-info.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/samples/package-info.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/textui/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/runner/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/framework/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/extensions/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/requests/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/notification/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/matchers/package-info.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/parameterized/ParametersRunnerFactory.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/ParametersSuppliedBy.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/results/PrintableResult.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/validator/PublicClassValidator.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/extendingwithstubs/ReguessableValue.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/extensions/RepeatedTest.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/ReverseAlphanumericOrdering.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/manipulation/ReverseAlphanumericSorter.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/Rule.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/statements/RunBefores.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/Runner.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/runners/model/RunnerBuilderStub.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/RunnerScheduler.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/RunRules.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/management/RuntimeMXBean.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/RunWith.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/manipulation/Sortable.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/requests/SortingRequest.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/runner/StackFilterTest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/notification/StoppedByUserException.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/extendingwithstubs/StringableObject.java,1,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/extendingwithstubs/Stub.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/extendingwithstubs/StubbedTheoriesTest.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/validation/anotherpackage/Sub.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/builders/SuiteMethodBuilder.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/framework/SuiteTest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runner/notification/SynchronizedRunListener.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/framework/Test.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/Test.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/validator/TestClassValidator.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/TestCouldNotBeSkippedException.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/extensions/TestDecorator.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/suppliers/TestedOn.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/framework/TestFailure.java,0,0.0,null,null,null,null,null
+junit,ain/java/junit/framework/TestListener.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/TestName.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/TestRule.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/model/TestTimedOutException.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/rules/TestWatchmanTest.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/runners/parameterized/TestWithParameters.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/TextListener.java,0,0.0,null,null,null,null,null
+junit,est/java/org/junit/tests/experimental/theories/runner/TheoriesPerformanceTest.java,2,0.0,null,null,null,null,null
+junit,ain/java/org/junit/experimental/theories/Theory.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/management/ThreadMXBean.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/validator/ValidateWith.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/internal/runners/rules/ValidationError.java,0,0.0,null,null,null,null,null
+junit,ain/java/org/junit/rules/Verifier.java,0,0.0,null,null,null,null,null
+junit,est/java/junit/tests/WasRun.java,1,0.0,null,null,null,null,null
+junit,/test/java/org/junit/tests/assertion/AssertionTest.java,0,0,0,7h,420.0,null,null
+junit,/test/java/org/junit/rules/TestRuleTest.java,0,0,14,3h 52min,232.0,null,null
+junit,/test/java/org/junit/rules/ExpectedExceptionTest.java,0,0,0,3h 7min,187.0,null,null
+junit,/main/java/org/junit/internal/Throwables.java,0,0,0,3h,180.0,null,null
+junit,/main/java/junit/runner/BaseTestRunner.java,0,0,0,2h 42min,162.0,null,null
+junit,/test/java/org/junit/rules/ErrorCollectorTest.java,0,0,0,2h 30min,150.0,null,null
+junit,/main/java/org/junit/experimental/categories/Categories.java,0,0,0,2h 25min,145.0,null,null
+junit,/test/java/org/junit/tests/running/methods/AnnotationTest.java,0,0,21,2h 15min,135.0,null,null
+junit,/main/java/org/junit/internal/runners/statements/FailOnTimeout.java,0,0,0,2h 10min,130.0,null,null
+junit,/main/java/org/junit/Assert.java,0,0,0,2h 5min,125.0,null,null
+junit,/main/java/junit/framework/TestSuite.java,0,0,0,2h,120.0,null,null
+junit,/test/java/junit/tests/framework/AssertTest.java,0,0,0,2h,120.0,null,null
+junit,/main/java/org/junit/internal/runners/JUnit38ClassRunner.java,0,0,0,1h 47min,107.0,null,null
+junit,/test/java/junit/samples/money/MoneyBag.java,0,0,0,1h 42min,102.0,null,null
+junit,/test/java/org/junit/internal/StackTracesTest.java,0,0,1,1h 40min,100.0,null,null
+junit,/main/java/org/junit/runners/Parameterized.java,0,0,0,1h 37min,97.0,null,null
+junit,/test/java/org/junit/rules/TestWatcherTest.java,0,0,0,1h 37min,97.0,null,null
+junit,/test/java/org/junit/tests/manipulation/OrderableTest.java,0,0,12,1h 27min,87.0,null,null
+junit,/main/java/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParameters.java,0,0,2,1h 25min,85.0,null,null
+junit,/main/java/junit/framework/Assert.java,0,0,0,1h 25min,85.0,null,null
+junit,/main/java/org/junit/runner/Description.java,0,0,0,1h 25min,85.0,null,null
+junit,/main/java/org/junit/runners/model/TestClass.java,0,0,0,1h 25min,85.0,null,null
+junit,/test/java/org/junit/rules/MethodRulesTest.java,0,0,1,1h 25min,85.0,null,null
+junit,/test/java/org/junit/tests/manipulation/OrderWithTest.java,0,0,13,1h 20min,80.0,null,null
+junit,/main/java/org/junit/runners/BlockJUnit4ClassRunner.java,0,0,0,1h 20min,80.0,null,null
+junit,/main/java/org/junit/experimental/max/MaxCore.java,0,0,0,1h 20min,80.0,null,null
+junit,/test/java/org/junit/tests/manipulation/SortableTest.java,0,0,10,1h 17min,77.0,null,null
+junit,/main/java/org/junit/runner/JUnitCommandLineParseResult.java,0,0,0,1h 15min,75.0,null,null
+junit,/main/java/org/junit/internal/ComparisonCriteria.java,0,0,0,1h 15min,75.0,null,null
+junit,/test/java/org/junit/rules/RuleMemberValidatorTest.java,0,0,0,1h 15min,75.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/SuccessfulWithDataPointFields.java,0,0,0,1h 15min,75.0,null,null
+junit,/main/java/org/junit/runners/ParentRunner.java,0,0,0,1h 7min,67.0,null,null
+junit,/test/java/org/junit/rules/ClassRulesTest.java,0,0,3,1h 5min,65.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/FailingDataPointMethods.java,0,0,2,1h 5min,65.0,null,null
+junit,/test/java/org/junit/tests/running/classes/ParameterizedTestTest.java,0,0,0,1h 2min,62.0,null,null
+junit,/main/java/junit/framework/JUnit4TestAdapterCache.java,0,0,0,1h,60.0,null,null
+junit,/main/java/org/junit/experimental/theories/ParameterSignature.java,0,0,0,1h,60.0,null,null
+junit,/main/java/org/junit/experimental/theories/internal/Assignments.java,0,0,0,1h,60.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/WithUnresolvedGenericTypeVariablesOnTheoryParms.java,0,0,0,1h,60.0,null,null
+junit,/main/java/org/junit/runner/manipulation/Filter.java,0,0,0,55min,55.0,null,null
+junit,/test/java/org/junit/runner/notification/SynchronizedRunListenerTest.java,0,0,0,55min,55.0,null,null
+junit,/test/java/org/junit/rules/BlockJUnit4ClassRunnerOverrideTest.java,0,0,0,52min 30s,52.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/internal/AllMembersSupplierTest.java,0,0,0,52min 30s,52.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/WithExtendedParameterSources.java,0,0,0,52min 30s,52.5,null,null
+junit,/main/java/org/junit/experimental/theories/internal/AllMembersSupplier.java,0,0,0,50min,50.0,null,null
+junit,/main/java/org/junit/ComparisonFailure.java,0,0,0,50min,50.0,null,null
+junit,/main/java/org/junit/experimental/max/MaxHistory.java,0,0,0,50min,50.0,null,null
+junit,/main/java/org/junit/internal/builders/AnnotatedBuilder.java,0,0,0,50min,50.0,null,null
+junit,/main/java/org/junit/internal/runners/ErrorReportingRunner.java,0,0,0,47min 30s,47.5,null,null
+junit,/main/java/junit/textui/TestRunner.java,0,0,0,46min,46.0,null,null
+junit,/main/java/org/junit/experimental/theories/Theories.java,0,0,2,45min,45.0,null,null
+junit,/test/java/org/junit/rules/TempFolderRuleTest.java,0,0,0,45min,45.0,null,null
+junit,/test/java/org/junit/rules/TimeoutRuleTest.java,0,0,0,45min,45.0,null,null
+junit,/test/java/org/junit/experimental/categories/CategoriesAndParameterizedTest.java,0,0,2,42min 30s,42.5,null,null
+junit,/test/java/org/junit/internal/MethodSorterTest.java,0,0,4,40min,40.0,null,null
+junit,/main/java/org/junit/internal/runners/TestClass.java,0,0,0,40min,40.0,null,null
+junit,/main/java/org/junit/rules/TemporaryFolder.java,0,0,0,40min,40.0,null,null
+junit,/main/java/org/junit/runners/model/FrameworkMethod.java,0,0,0,40min,40.0,null,null
+junit,/test/java/junit/samples/money/Money.java,0,0,0,40min,40.0,null,null
+junit,/main/java/org/junit/internal/runners/MethodRoadie.java,0,0,0,37min 30s,37.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/extendingwithstubs/Guesser.java,0,0,0,37min 30s,37.5,null,null
+junit,/main/java/org/junit/internal/MethodSorter.java,0,0,0,37min 30s,37.5,null,null
+junit,/main/java/org/junit/runners/model/RunnerBuilder.java,0,0,0,37min 30s,37.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/UnsuccessfulWithDataPointFields.java,0,0,0,37min 30s,37.5,null,null
+junit,/test/java/org/junit/tests/running/methods/TimeoutTest.java,0,0,0,36min,36.0,null,null
+junit,/main/java/org/junit/internal/runners/TestMethod.java,0,0,0,30min,30.0,null,null
+junit,/main/java/org/junit/rules/DisableOnDebug.java,0,0,0,30min,30.0,null,null
+junit,/main/java/org/junit/rules/ErrorCollector.java,0,0,0,30min,30.0,null,null
+junit,/main/java/org/junit/runners/parameterized/TestWithParameters.java,0,0,0,30min,30.0,null,null
+junit,/test/java/junit/tests/framework/ComparisonFailureTest.java,0,0,0,30min,30.0,null,null
+junit,/test/java/org/junit/runners/model/TestClassTest.java,0,0,0,30min,30.0,null,null
+junit,/test/java/org/junit/tests/running/classes/ParentRunnerTest.java,0,0,0,30min,30.0,null,null
+junit,/test/java/org/junit/tests/running/methods/ParameterizedTestMethodTest.java,0,0,3,27min 30s,27.5,null,null
+junit,/test/java/org/junit/tests/running/methods/TestMethodTest.java,0,0,3,27min 30s,27.5,null,null
+junit,/main/java/org/junit/internal/runners/JUnit4ClassRunner.java,0,0,0,27min 30s,27.5,null,null
+junit,/main/java/org/junit/runner/Request.java,0,0,0,27min 30s,27.5,null,null
+junit,/test/java/org/junit/internal/builders/AnnotatedBuilderTest.java,0,0,2,27min 30s,27.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/extendingwithstubs/StringableObject.java,0,0,0,27min 30s,27.5,null,null
+junit,/test/java/org/junit/tests/running/classes/ParentRunnerFilteringTest.java,0,0,0,27min 30s,27.5,null,null
+junit,/main/java/org/junit/runners/Suite.java,0,0,0,25min,25.0,null,null
+junit,/test/java/org/junit/rules/ExternalResourceRuleTest.java,0,0,0,22min 30s,22.5,null,null
+junit,/test/java/org/junit/experimental/categories/MultiCategoryTest.java,0,0,0,22min 30s,22.5,null,null
+junit,/main/java/org/junit/runner/manipulation/Orderer.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/experimental/theories/internal/ParameterizedAssertionError.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/internal/builders/SuiteMethodBuilder.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/internal/management/ReflectiveThreadMXBean.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/internal/requests/FilterRequest.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/rules/Timeout.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/runner/notification/SynchronizedRunListener.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/runners/model/FrameworkMember.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/validator/AnnotationValidatorFactory.java,0,0,0,20min,20.0,null,null
+junit,/main/java/org/junit/validator/PublicClassValidator.java,0,0,0,20min,20.0,null,null
+junit,/test/java/org/junit/tests/running/core/MainRunner.java,0,0,0,20min,20.0,null,null
+junit,/main/java/junit/textui/ResultPrinter.java,0,0,0,18min 30s,18.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/extendingwithstubs/StubbedTheories.java,0,0,0,18min 30s,18.5,null,null
+junit,/test/java/junit/samples/SimpleTest.java,0,0,1,17min 30s,17.5,null,null
+junit,/main/java/junit/framework/JUnit4TestAdapter.java,0,0,0,17min 30s,17.5,null,null
+junit,/main/java/org/junit/experimental/categories/CategoryFilterFactory.java,0,0,0,17min 30s,17.5,null,null
+junit,/main/java/org/junit/internal/TextListener.java,0,0,0,17min 30s,17.5,null,null
+junit,/test/java/org/junit/tests/ObjectContractTest.java,0,0,0,17min 30s,17.5,null,null
+junit,/test/java/org/junit/tests/manipulation/SingleMethodTest.java,0,0,1,17min 30s,17.5,null,null
+junit,/main/java/junit/framework/TestCase.java,0,0,0,17min,17.0,null,null
+junit,/test/java/org/junit/runner/notification/ConcurrentRunNotifierTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/tests/experimental/max/DescriptionTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/WhenNoParametersMatch.java,0,0,0,15min,15.0,null,null
+junit,/main/java/org/junit/runner/manipulation/Sorter.java,0,0,0,15min,15.0,null,null
+junit,/test/java/junit/tests/runner/ResultTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/rules/DisableOnDebugTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/rules/NameRulesTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/rules/RuleChainTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/rules/StopwatchTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/rules/TemporaryFolderUsageTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/rules/TestWatchmanTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/runners/model/FrameworkFieldTest.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/TypeMatchingBetweenMultiDataPointsMethod.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/WithAutoGeneratedDataPoints.java,0,0,0,15min,15.0,null,null
+junit,/test/java/org/junit/tests/SampleJUnit4Tests.java,0,0,1,10min,10.0,null,null
+junit,/main/java/org/junit/runner/manipulation/Ordering.java,0,0,0,10min,10.0,null,null
+junit,/test/java/org/junit/rules/EventCollector.java,0,0,0,10min,10.0,null,null
+junit,/main/java/junit/extensions/ActiveTestSuite.java,0,0,0,10min,10.0,null,null
+junit,/main/java/junit/framework/ComparisonCompactor.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/internal/builders/IgnoredBuilder.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/internal/builders/JUnit3Builder.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/internal/management/ManagementFactory.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/internal/management/ReflectiveRuntimeMXBean.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/internal/matchers/TypeSafeMatcher.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/internal/requests/ClassRequest.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/internal/requests/OrderingRequest.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/internal/runners/model/ReflectiveCallable.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/rules/ExpectedException.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/rules/ExpectedExceptionMatcherBuilder.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/runner/FilterFactories.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/runner/OrderWithValidator.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/runners/RuleContainer.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/runners/model/MultipleFailureException.java,0,0,0,10min,10.0,null,null
+junit,/main/java/org/junit/runners/model/NoGenericTypeParametersValidator.java,0,0,0,10min,10.0,null,null
+junit,/test/java/junit/samples/ListTest.java,0,0,0,10min,10.0,null,null
+junit,/test/java/junit/tests/extensions/RepeatedTestTest.java,0,0,0,10min,10.0,null,null
+junit,/test/java/org/junit/internal/runners/statements/ExpectExceptionTest.java,0,0,0,10min,10.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/extendingwithstubs/MethodCall.java,0,0,0,10min,10.0,null,null
+junit,/test/java/junit/tests/runner/StackFilterTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/experimental/theories/PotentialAssignment.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/internal/runners/MethodValidator.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/assertion/MultipleFailureExceptionTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/rules/TestWatcher.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/runner/Runner.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/runners/AllTests.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/runners/JUnit4.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/junit/tests/WasRun.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/junit/tests/extensions/ExtensionTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/manipulation/AlphanumericOrdering.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/junit/extensions/TestDecorator.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/junit/framework/JUnit4TestCaseFacade.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/experimental/runners/Enclosed.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/experimental/theories/ParameterSupplier.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/internal/AssumptionViolatedException.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/internal/InexactComparisonCriteria.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/internal/runners/SuiteMethod.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/internal/runners/rules/RuleMemberValidator.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/runner/manipulation/Alphanumeric.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/runner/notification/RunListener.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/runners/model/Statement.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/validator/AnnotationsValidator.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/validator/AnnotationValidator.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/junit/tests/framework/AllTests.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/junit/tests/framework/InheritedTestCase.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/junit/tests/framework/OverrideTestCase.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/junit/tests/framework/SuiteTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/junit/tests/framework/TestListenerTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/AssumptionViolatedExceptionTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/experimental/categories/CategoryFilterFactoryTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/experimental/categories/CategoryTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/rules/TemporaryFolderRuleAssuredDeletionTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/rules/VerifierRuleTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/runner/FilterFactoriesTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/runner/FilterOptionIntegrationTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/runner/JUnitCommandLineParseResultTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/runner/RunnerSpy.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/runners/CustomBlockJUnit4ClassRunnerTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/runners/model/FrameworkMethodTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParametersTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/runners/parameterized/TestWithParametersTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/samples/SimpleTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/TestSystem.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/assertion/ComparisonFailureTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/description/TestDescriptionMethodNameTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/MatcherTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/results/PrintableResultTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/AssumingInTheoriesTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/ParameterSignatureTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/internal/ParameterizedAssertionErrorTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/internal/SpecificDataPointsSupplierTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/TheoriesPerformanceTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/WithDataPointMethod.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/WithNamedDataPoints.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/WithOnlyTestAnnotations.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/WithParameterSupplier.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/InitializationErrorForwardCompatibilityTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/JUnit38ClassRunnerTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/SuiteMethodTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/manipulation/FilterableTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/manipulation/ReverseAlphanumericOrdering.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/running/classes/ClassLevelMethodsWithIgnoredTestsTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/running/classes/UseSuiteAsASuperclassTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/tests/running/classes/parent/TestWithClassRule.java,0,0,0,7min 30s,7.5,null,null
+junit,/test/java/org/junit/validator/AnnotationValidatorFactoryTest.java,0,0,0,7min 30s,7.5,null,null
+junit,/main/java/org/junit/Assume.java,0,0,0,1min,1.0,null,null
+junit,/test/java/junit/tests/runner/TextRunnerTest.java,0,0,0,1min,1.0,null,null
+junit,/test/java/org/junit/tests/running/core/SystemExitTest.java,0,0,0,1min,1.0,null,null
+junit,/main/java/org/junit/internal/runners/statements/ExpectException.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/rules/ExternalResource.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/ForwardCompatibilityPrintingTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/ForwardCompatibilityTest.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/extensions/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/extensions/RepeatedTest.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/extensions/TestSetup.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/framework/AssertionFailedError.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/framework/ComparisonFailure.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/framework/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/framework/Protectable.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/framework/Test.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/framework/TestFailure.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/framework/TestListener.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/framework/TestResult.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/runner/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/runner/TestRunListener.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/runner/Version.java,0,0,0,0,0.0,null,null
+junit,/main/java/junit/textui/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/After.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/AfterClass.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/AssumptionViolatedException.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/Before.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/BeforeClass.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/ClassRule.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/FixMethodOrder.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/Ignore.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/Rule.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/Test.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/TestCouldNotBeSkippedException.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/ParallelComputer.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/categories/Category.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/categories/CategoryValidator.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/categories/ExcludeCategories.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/categories/IncludeCategories.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/max/CouldNotReadCoreException.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/results/FailureList.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/results/PrintableResult.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/results/ResultMatchers.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/DataPoint.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/DataPoints.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/FromDataPoints.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/ParametersSuppliedBy.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/Theory.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/internal/BooleanSupplier.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/internal/EnumSupplier.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/internal/SpecificDataPointsSupplier.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/suppliers/TestedOn.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/experimental/theories/suppliers/TestedOnSupplier.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/function/ThrowingRunnable.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/ArrayComparisonFailure.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/Checks.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/Classes.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/ExactComparisonCriteria.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/JUnitSystem.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/RealSystem.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/builders/IgnoredClassRunner.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/builders/JUnit4Builder.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/builders/NullBuilder.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/management/FakeRuntimeMXBean.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/management/FakeThreadMXBean.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/management/RuntimeMXBean.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/management/ThreadMXBean.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/matchers/StacktracePrintingMatcher.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/matchers/ThrowableCauseMatcher.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/matchers/ThrowableMessageMatcher.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/requests/MemoizingRequest.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/requests/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/requests/SortingRequest.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/ClassRoadie.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/FailedBefore.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/InitializationError.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/model/EachTestNotifier.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/model/MultipleFailureException.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/rules/ValidationError.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/statements/Fail.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/statements/InvokeMethod.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/statements/RunAfters.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/internal/runners/statements/RunBefores.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/matchers/JUnitMatchers.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/matchers/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/rules/MethodRule.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/rules/RuleChain.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/rules/RunRules.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/rules/Stopwatch.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/rules/TestName.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/rules/TestRule.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/rules/TestWatchman.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/rules/Verifier.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/Computer.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/Describable.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/FilterFactory.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/FilterFactoryParams.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/JUnitCore.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/OrderWith.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/Result.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/RunWith.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/manipulation/Filterable.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/manipulation/InvalidOrderingException.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/manipulation/NoTestsRemainException.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/manipulation/Orderable.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/manipulation/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/manipulation/Sortable.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/notification/Failure.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/notification/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/notification/RunNotifier.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runner/notification/StoppedByUserException.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/MethodSorters.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/package-info.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/model/Annotatable.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/model/FrameworkField.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/model/InitializationError.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/model/InvalidTestClassError.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/model/MemberValueConsumer.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/model/RunnerScheduler.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/model/TestTimedOutException.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParametersFactory.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/runners/parameterized/ParametersRunnerFactory.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/validator/TestClassValidator.java,0,0,0,0,0.0,null,null
+junit,/main/java/org/junit/validator/ValidateWith.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/samples/AllTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/samples/package-info.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/samples/money/IMoney.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/samples/money/MoneyTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/samples/money/package-info.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/AllTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/package-info.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/extensions/ActiveTestTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/extensions/AllTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/extensions/package-info.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/AssertionFailedErrorTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/ComparisonCompactorTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/DoublePrecisionAssertTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/Failure.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/FloatAssertTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/NoArgTestCaseTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/NoTestCaseClass.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/NoTestCases.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/NotPublicTestCase.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/NotVoidTestCase.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/OneTestCase.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/package-info.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/Success.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/TestCaseTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/TestImplementorTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/framework/ThreeTestCases.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/runner/AllTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/runner/BaseTestRunnerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/runner/package-info.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/runner/TextFeedbackTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/junit/tests/runner/TextRunnerSingleMethodTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/experimental/categories/AllCategoriesTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/experimental/categories/CategoryValidatorTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/experimental/categories/JavadocTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/internal/AllInternalTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/internal/ArrayComparisonFailureTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/internal/ChecksTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/internal/matchers/StacktracePrintingMatcherTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/internal/matchers/ThrowableCauseMatcherTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/internal/runners/ErrorReportingRunnerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/rules/AllRulesTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/rules/LoggingMethodRule.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/rules/LoggingStatement.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/rules/LoggingTestRule.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/rules/LoggingTestWatcher.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runner/AllRunnerTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runner/JUnitCoreTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runner/OrderWithValidatorTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runner/RequestTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runner/notification/AllNotificationTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runner/notification/RunNotifierTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runners/AllRunnersTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runners/RuleContainerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runners/model/AllModelTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runners/model/InvalidTestClassErrorTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runners/model/RunnerBuilderStub.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runners/parameterized/AllParameterizedTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/runners/parameterized/ParameterizedNamesTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/samples/AllSamplesTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/samples/ListTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/samples/package-info.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/samples/money/MoneyTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/samples/money/package-info.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/AllTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/package-info.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/assertion/AllAssertionTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/deprecated/AllDeprecatedTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/deprecated/JUnit4ClassRunnerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/description/AllDescriptionTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/description/AnnotatedDescriptionTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/description/SuiteDescriptionTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/description/TestDescriptionTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/AllExperimentalTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/AssumptionTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/max/AllMaxTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/max/JUnit38SortingTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/max/MaxStarterTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/parallel/AllParallelTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/parallel/ParallelClassTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/parallel/ParallelMethodTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/results/AllResultsTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/results/ResultMatchersTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/AllTheoriesTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/PotentialAssignmentTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/TestedOnSupplierTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/TheoryTestUtils.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/extendingwithstubs/Correspondent.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/extendingwithstubs/GuesserQueue.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/extendingwithstubs/ReguessableValue.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/extendingwithstubs/Stub.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/extendingwithstubs/StubbedTheoriesTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/internal/AllTheoriesInternalTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/experimental/theories/runner/AllTheoriesRunnerTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/AllJUnit3CompatibilityTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/AllTestsTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/ClassRequestTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/JUnit4TestAdapterTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/OldTestClassAdaptingListenerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/junit3compatibility/OldTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/listening/AllListeningTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/listening/ListenerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/listening/RunnerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/listening/TestListenerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/listening/TextListenerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/listening/UserStopTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/manipulation/AllManipulationTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/manipulation/ComparatorBasedOrdering.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/manipulation/Comparators.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/manipulation/FilterTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/manipulation/ReverseAlphanumericSorter.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/AllRunningTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/classes/AllClassesTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/classes/BlockJUnit4ClassRunnerTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/classes/EnclosedTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/classes/IgnoreClassTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/classes/RunWithTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/classes/SuiteTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/classes/ThreadsTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/classes/parent/ParentRunnerClassLoaderTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/core/AllCoreTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/core/CommandLineTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/core/JUnitCoreReturnsCorrectExitCodeTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/methods/AllMethodsTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/methods/ExpectedTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/running/methods/InheritedTestTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/validation/AllValidationTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/validation/BadlyFormedClassesTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/validation/FailedConstructionTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/validation/ValidationTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/validation/anotherpackage/Sub.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/tests/validation/anotherpackage/Super.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/validator/AllValidatorTests.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/validator/AnnotationsValidatorTest.java,0,0,0,0,0.0,null,null
+junit,/test/java/org/junit/validator/PublicClassValidatorTest.java,0,0,0,0,0.0,null,null

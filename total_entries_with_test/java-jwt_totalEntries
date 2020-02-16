@@ -1,0 +1,67 @@
+java-jwt,/test/java/com/auth0/jwt/algorithms/ECDSAAlgorithmTest.java,100,1808.0,47,1M/d 2h,600.0,663,22058.7
+java-jwt,/test/java/com/auth0/jwt/algorithms/ECDSABouncyCastleProviderTests.java,99,1806.0,47,1M/d 1h,540.0,643,21219.6
+java-jwt,/test/java/com/auth0/jwt/algorithms/AlgorithmTest.java,72,1308.0,0,22min 30s,22.5,413,10579.5
+java-jwt,/test/java/com/auth0/jwt/JWTVerifierTest.java,62,1178.0,2,35min,35.0,406,11876.4
+java-jwt,/test/java/com/auth0/jwt/algorithms/RSAAlgorithmTest.java,61,1032.0,0,37min 30s,37.5,362,9949.2
+java-jwt,/test/java/com/auth0/jwt/impl/JsonNodeClaimTest.java,46,866.0,0,22min 30s,22.5,250,6185.4
+java-jwt,/test/java/com/auth0/jwt/JWTTest.java,42,840.0,0,1h,60.0,329,8516.7
+java-jwt,/test/java/com/auth0/jwt/JWTCreatorTest.java,38,716.0,0,52min 30s,52.5,223,6620.4
+java-jwt,/test/java/com/auth0/jwt/JWTDecoderTest.java,35,672.0,0,37min 30s,37.5,242,5997.9
+java-jwt,/test/java/com/auth0/jwt/algorithms/HMACAlgorithmTest.java,33,548.0,0,15min,15.0,166,4596.3
+java-jwt,/test/java/com/auth0/jwt/impl/PayloadImplTest.java,33,475.0,0,15min,15.0,142,3682.8
+java-jwt,/test/java/com/auth0/jwt/impl/PayloadSerializerTest.java,24,406.0,0,0,0.0,137,3383.7
+java-jwt,/test/java/com/auth0/jwt/impl/PayloadDeserializerTest.java,19,380.0,0,30min,30.0,117,3540.6
+java-jwt,/main/java/com/auth0/jwt/algorithms/Algorithm.java,57,327.0,0,15min,15.0,77,1595.7
+java-jwt,/test/java/com/auth0/jwt/impl/BasicHeaderTest.java,14,268.0,0,7min 30s,7.5,89,2277.9
+java-jwt,/test/java/com/auth0/jwt/ConcurrentVerifyTest.java,16,258.0,0,7min 30s,7.5,141,3881.7
+java-jwt,/test/java/com/auth0/jwt/impl/NullClaimTest.java,12,240.0,0,0,0.0,77,1833.3
+java-jwt,/test/java/com/auth0/jwt/impl/JWTParserTest.java,13,230.0,0,7min 30s,7.5,70,1783.2
+java-jwt,/test/java/com/auth0/jwt/impl/HeaderDeserializerTest.java,8,145.0,0,15min,15.0,51,1595.7
+java-jwt,/test/java/com/auth0/jwt/algorithms/NoneAlgorithmTest.java,4,80.0,0,7min 30s,7.5,32,852.0
+java-jwt,/main/java/com/auth0/jwt/impl/NullClaim.java,3,80.0,0,0,0.0,52,1296.6
+java-jwt,/test/java/com/auth0/jwt/TokenUtilsTest.java,4,80.0,0,7min 30s,7.5,31,822.9
+java-jwt,/main/java/com/auth0/jwt/JWTVerifier.java,15,75.0,0,1h 7min,67.0,105,2439.6
+java-jwt,/test/java/com/auth0/jwt/PemUtils.java,5,70.0,0,0,0.0,43,1304.7
+java-jwt,/main/java/com/auth0/jwt/impl/JsonNodeClaim.java,3,62.0,0,1h 10min,70.0,59,1500.3
+java-jwt,/main/java/com/auth0/jwt/interfaces/Verification.java,12,60.0,0,0,0.0,81,2269.8
+java-jwt,/main/java/com/auth0/jwt/JWTCreator.java,11,55.0,0,20min,20.0,69,1143.0
+java-jwt,/test/java/com/auth0/jwt/impl/ClaimsHolderTest.java,2,40.0,0,0,0.0,21,743.7
+java-jwt,/main/java/com/auth0/jwt/algorithms/CryptoHelper.java,4,40.0,0,0,0.0,29,552.9
+java-jwt,/main/java/com/auth0/jwt/TokenUtils.java,2,40.0,0,0,0.0,7,394.5
+java-jwt,/main/java/com/auth0/jwt/algorithms/ECDSAAlgorithm.java,5,35.0,0,42min 30s,42.5,79,2493.0
+java-jwt,/main/java/com/auth0/jwt/algorithms/HMACAlgorithm.java,6,35.0,0,20min,20.0,50,1134.9
+java-jwt,/main/java/com/auth0/jwt/impl/PayloadDeserializer.java,2,35.0,0,47min 30s,47.5,41,1122.0
+java-jwt,/test/java/com/auth0/jwt/algorithms/CryptoTestHelper.java,1,30.0,0,0,0.0,26,743.7
+java-jwt,/main/java/com/auth0/jwt/algorithms/RSAAlgorithm.java,5,27.0,0,20min,20.0,54,1537.5
+java-jwt,/test/java/com/auth0/jwt/ClockImplTest.java,1,20.0,0,0,0.0,14,569.1
+java-jwt,/main/java/com/auth0/jwt/impl/PayloadImpl.java,1,20.0,0,22min 30s,22.5,40,960.3
+java-jwt,/main/java/com/auth0/jwt/algorithms/NoneAlgorithm.java,2,15.0,0,0,0.0,25,831.0
+java-jwt,/main/java/com/auth0/jwt/impl/PayloadSerializer.java,2,13.0,0,17min 30s,17.5,25,926.4
+java-jwt,/main/java/com/auth0/jwt/impl/PublicClaims.java,1,10.0,0,0,0.0,13,378.3
+java-jwt,/main/java/com/auth0/jwt/impl/HeaderDeserializer.java,1,5.0,0,10min,10.0,24,523.8
+java-jwt,/main/java/com/auth0/jwt/impl/ClaimsHolder.java,1,1.0,0,0,0.0,9,203.7
+java-jwt,/main/java/com/auth0/jwt/exceptions/AlgorithmMismatchException.java,0,0.0,0,0,0.0,8,423.6
+java-jwt,/main/java/com/auth0/jwt/impl/BasicHeader.java,0,0.0,0,15min,15.0,26,640.2
+java-jwt,/main/java/com/auth0/jwt/interfaces/Claim.java,0,0.0,0,0,0.0,8,29.1
+java-jwt,/main/java/com/auth0/jwt/interfaces/Clock.java,0,0.0,0,0,0.0,2,29.1
+java-jwt,/main/java/com/auth0/jwt/ClockImpl.java,0,0.0,0,0,0.0,12,606.3
+java-jwt,/main/java/com/auth0/jwt/interfaces/DecodedJWT.java,0,0.0,0,0,0.0,4,29.1
+java-jwt,/main/java/com/auth0/jwt/interfaces/ECDSAKeyProvider.java,0,0.0,0,0,0.0,1,29.1
+java-jwt,/main/java/com/auth0/jwt/interfaces/Header.java,0,0.0,0,0,0.0,5,29.1
+java-jwt,/main/java/com/auth0/jwt/exceptions/InvalidClaimException.java,0,0.0,0,0,0.0,8,423.6
+java-jwt,/test/java/com/auth0/jwt/JsonMatcher.java,0,0.0,0,40min,40.0,59,1836.6
+java-jwt,/main/java/com/auth0/jwt/JWT.java,0,0.0,0,0,0.0,10,116.4
+java-jwt,/main/java/com/auth0/jwt/exceptions/JWTCreationException.java,0,0.0,0,0,0.0,8,423.6
+java-jwt,/main/java/com/auth0/jwt/exceptions/JWTDecodeException.java,0,0.0,0,0,0.0,11,481.8
+java-jwt,/main/java/com/auth0/jwt/JWTDecoder.java,0,0.0,0,7min 30s,7.5,98,3846.3
+java-jwt,/main/java/com/auth0/jwt/impl/JWTParser.java,0,0.0,0,20min,20.0,39,1122.0
+java-jwt,/main/java/com/auth0/jwt/interfaces/JWTPartsParser.java,0,0.0,0,0,0.0,1,29.1
+java-jwt,/main/java/com/auth0/jwt/exceptions/JWTVerificationException.java,0,0.0,0,7min 30s,7.5,12,510.9
+java-jwt,/main/java/com/auth0/jwt/interfaces/JWTVerifier.java,0,0.0,0,0,0.0,2,58.2
+java-jwt,/main/java/com/auth0/jwt/interfaces/KeyProvider.java,0,0.0,0,0,0.0,6,29.1
+java-jwt,/main/java/com/auth0/jwt/interfaces/Payload.java,0,0.0,0,0,0.0,9,29.1
+java-jwt,/main/java/com/auth0/jwt/interfaces/RSAKeyProvider.java,0,0.0,0,0,0.0,1,29.1
+java-jwt,/main/java/com/auth0/jwt/exceptions/SignatureGenerationException.java,0,0.0,0,0,0.0,9,423.6
+java-jwt,/main/java/com/auth0/jwt/exceptions/SignatureVerificationException.java,0,0.0,0,0,0.0,11,481.8
+java-jwt,/main/java/com/auth0/jwt/exceptions/TokenExpiredException.java,0,0.0,0,0,0.0,7,270.0
+java-jwt,/test/java/com/auth0/jwt/UserPojo.java,1,0.0,0,22min,22.0,25,860.1

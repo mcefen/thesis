@@ -1,0 +1,2004 @@
+fop,/test/java/org/apache/fop/complexscripts/fonts/ttx/TTXFile.java,226,7009.0,15,1M/d 6h,840.0,715,26204.4
+fop,/test/java/org/apache/fop/complexscripts/fonts/GSUBTestCase.java,357,5546.0,4,1h 47min,107.0,92,2995.8
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphPositioningTable.java,114,2124.0,34,4M/d 7h,2340.0,574,18752.7
+fop,/main/java/org/apache/fop/complexscripts/fonts/OTFAdvancedTypographicTableReader.java,114,1459.0,12,1M/d 7h,900.0,739,25323.0
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphSubstitutionTable.java,77,1455.0,23,3M/d 1h,1500.0,418,15212.1
+fop,/main/java/org/apache/fop/fonts/Glyphs.java,166,1327.0,0,47min 30s,47.5,9,481.8
+fop,/main/codegen/unicode/java/org/apache/fop/complexscripts/bidi/GenerateBidiTestData.java,104,1159.0,15,2M/d,960.0,309,10628.4
+fop,/main/java/org/apache/fop/complexscripts/util/NumberConverter.java,82,1060.0,2,2M/d,960.0,296,12549.3
+fop,/main/codegen/unicode/java/org/apache/fop/text/linebreak/GenerateLineBreakUtils.java,56,1055.0,2,2h 25min,145.0,54,2957.1
+fop,/main/java/org/apache/fop/render/rtf/RTFHandler.java,62,891.0,8,1M/d 5h,780.0,165,9747.6
+fop,/test/java/org/apache/fop/complexscripts/util/NumberConverterTestCase.java,63,839.0,0,45min,45.0,76,2813.1
+fop,/org/apache/fop/hyphenation/HyphenationTreeAnalysis.java,65,811.0,5,3h,180.0,62,4779.3
+fop,/main/java/org/apache/fop/fo/FOPropertyMapping.java,73,807.0,1,7h 10min,430.0,143,3391.8
+fop,/main/java/org/apache/fop/fonts/truetype/OpenFont.java,61,679.0,7,1M/d 3h,660.0,268,10536.3
+fop,/main/codegen/unicode/java/org/apache/fop/complexscripts/bidi/GenerateBidiClass.java,31,651.0,6,5h 7min,307.0,90,4116.3
+fop,/main/java/org/apache/fop/cli/CommandLineOptions.java,59,644.0,9,1M/d 4h,720.0,370,10232.1
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphTable.java,64,637.0,3,1M/d,480.0,158,3773.4
+fop,/main/java/org/apache/fop/hyphenation/HyphenationTree.java,39,636.0,13,6h 15min,375.0,80,4805.1
+fop,/main/java/org/apache/fop/complexscripts/bidi/UnicodeBidiAlgorithm.java,42,603.0,36,2M/d,960.0,138,4944.0
+fop,/main/java/org/apache/fop/layoutmgr/inline/LineLayoutManager.java,55,580.0,6,1M/d 1h,540.0,225,12285.9
+fop,/test/java/org/apache/fop/complexscripts/fonts/GDEFTestCase.java,54,521.0,2,50min,50.0,64,2223.0
+fop,/main/java/org/apache/fop/complexscripts/util/CharScript.java,36,516.0,2,3M/d 2h,1560.0,29,1379.1
+fop,/main/java/org/apache/fop/area/AreaTreeParser.java,97,509.0,1,3h 35min,215.0,551,28491.0
+fop,/test/java/org/apache/fop/pdf/PDFLinkTestCase.java,29,496.0,0,15min,15.0,24,735.6
+fop,/main/java/org/apache/fop/fonts/type1/AFMParser.java,41,482.0,4,3h 47min,227.0,376,14623.5
+fop,/main/java/org/apache/fop/render/afp/AFPPainter.java,49,435.0,2,6h 20min,380.0,305,11031.0
+fop,/main/java/org/apache/fop/pdf/PDFFactory.java,33,415.0,1,1M/d,480.0,168,7456.5
+fop,/main/java/org/apache/fop/fonts/FontSetup.java,15,385.0,1,35min,35.0,11,1162.5
+fop,/main/java/org/apache/fop/fonts/base14/Base14FontCollection.java,13,380.0,1,25min,25.0,5,394.5
+fop,/main/java/org/apache/fop/layoutmgr/inline/TextLayoutManager.java,34,373.0,4,7h 50min,470.0,227,11729.7
+fop,/main/java/org/apache/fop/hyphenation/TernaryTree.java,26,371.0,3,4h 42min,282.0,67,4331.4
+fop,/main/java/org/apache/fop/render/intermediate/IFRenderer.java,34,351.0,0,3h 30min,210.0,236,8678.7
+fop,/main/java/org/apache/fop/render/pcl/PCLPainter.java,24,349.0,1,4h 40min,280.0,128,6803.4
+fop,/main/java/org/apache/fop/render/intermediate/IFParser.java,52,348.0,1,3h 17min,197.0,438,20369.7
+fop,/org/apache/fop/hyphenation/TernaryTreeAnalysis.java,21,340.0,2,35min,35.0,41,3076.8
+fop,/main/codegen/unicode/java/org/apache/fop/hyphenation/UnicodeClasses.java,31,339.0,9,4h 2min,242.0,32,2499.6
+fop,/main/java/org/apache/fop/render/awt/viewer/PreviewDialog.java,9,335.0,0,1h 10min,70.0,52,2255.4
+fop,/main/java/org/apache/fop/render/java2d/Base14FontCollection.java,14,324.0,1,25min,25.0,3,336.3
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphProcessingState.java,43,321.0,4,1M/d 1h,540.0,132,5021.7
+fop,/main/java/org/apache/fop/complexscripts/scripts/IndicScriptProcessor.java,37,321.0,5,5h 42min,342.0,162,5475.9
+fop,/main/java/org/apache/fop/layoutmgr/BreakingAlgorithm.java,28,307.0,5,7h 15min,435.0,136,6997.5
+fop,/main/java/org/apache/fop/render/pcl/PCLGraphics2D.java,28,305.0,6,3h 42min,222.0,67,2837.4
+fop,/main/java/org/apache/fop/pdf/PDFText.java,16,304.0,2,1h 57min,117.0,14,656.4
+fop,/test/java/org/apache/fop/visual/BatchDiffer.java,20,292.0,0,37min 30s,37.5,39,1466.4
+fop,/main/java/org/apache/fop/render/awt/viewer/GoToPageDialog.java,5,290.0,0,15min,15.0,17,378.3
+fop,/main/java/org/apache/fop/fonts/apps/TTFReader.java,29,289.0,0,2h 20min,140.0,30,1196.4
+fop,/main/java/org/apache/fop/render/AbstractPathOrientedRenderer.java,14,288.0,0,3h 40min,220.0,47,2637.0
+fop,/test/java/org/apache/fop/layoutengine/ElementListCheck.java,13,286.0,0,1h 55min,115.0,44,1641.0
+fop,/main/java/org/apache/fop/render/pcl/fonts/PCLSymbolSet.java,138,276.0,0,0,0.0,13,320.1
+fop,/main/java/org/apache/fop/complexscripts/scripts/ArabicScriptProcessor.java,37,275.0,4,1M/d 4h,720.0,159,6808.2
+fop,/main/java/org/apache/fop/layoutmgr/list/ListItemLayoutManager.java,24,275.0,2,4h 7min,247.0,100,3278.7
+fop,/main/java/org/apache/fop/layoutmgr/PageBreakingAlgorithm.java,34,275.0,6,1M/d 1h,540.0,238,11044.2
+fop,/main/java/org/apache/fop/layoutmgr/SpaceResolver.java,18,272.0,11,5h 32min,332.0,104,4428.3
+fop,/main/java/org/apache/fop/hyphenation/PatternParser.java,22,265.0,0,1h 32min,92.0,84,3543.9
+fop,/main/java/org/apache/fop/fonts/type1/AdobeStandardEncoding.java,128,263.0,0,17min 30s,17.5,13,320.1
+fop,/main/java/org/apache/fop/render/ps/PSPainter.java,17,261.0,2,2h 22min,142.0,80,3626.4
+fop,/main/java/org/apache/fop/render/mif/MIFHandler.java,47,255.0,0,55min,55.0,15,656.4
+fop,/test/java/org/apache/fop/util/ColorUtilTestCase.java,20,251.0,0,1h 17min,77.0,42,1852.8
+fop,/main/java/org/apache/fop/svg/PDFGraphics2D.java,39,251.0,1,7h 17min,437.0,111,4640.1
+fop,/main/java/org/apache/fop/layoutmgr/BlockContainerLayoutManager.java,36,247.0,1,5h 47min,347.0,185,7967.4
+fop,/main/java/org/apache/fop/util/text/AdvancedMessageFormat.java,18,246.0,0,2h 15min,135.0,125,3577.8
+fop,/main/java/org/apache/fop/util/ColorUtil.java,28,246.0,0,4h 37min,277.0,95,3075.0
+fop,/main/java/org/apache/fop/render/txt/TXTRenderer.java,22,245.0,0,1h 37min,97.0,38,2475.3
+fop,/main/java/org/apache/fop/fonts/truetype/OTFSubSetFile.java,53,243.0,2,6h 20min,380.0,366,10211.1
+fop,/test/java/org/apache/fop/apps/FopConfBuilder.java,21,238.0,0,25min,25.0,125,3760.5
+fop,/main/java/org/apache/fop/render/ps/PSFontUtils.java,27,238.0,1,5h 42min,342.0,143,6310.2
+fop,/main/java/org/apache/fop/accessibility/fo/StructureTreeEventTrigger.java,16,229.0,0,32min 30s,32.5,273,6056.1
+fop,/main/java/org/apache/fop/fo/FONode.java,13,227.0,2,4h,240.0,93,3160.8
+fop,/main/java/org/apache/fop/pdf/PDFPattern.java,14,225.0,1,7h 22min,442.0,9,701.7
+fop,/test/java/org/apache/fop/complexscripts/scripts/arabic/GenerateArabicTestData.java,20,221.0,0,47min 30s,47.5,54,2562.6
+fop,/main/java/org/apache/fop/pdf/StandardStructureTypes.java,9,221.0,0,52min 30s,52.5,116,3399.9
+fop,/test/java/org/apache/fop/apps/io/ResourceResolverFactoryTestCase.java,13,220.0,0,0,0.0,159,4135.5
+fop,/main/java/org/apache/fop/layoutmgr/AbstractBreaker.java,20,218.0,10,1M/d,480.0,139,6255.3
+fop,/main/java/org/apache/fop/fonts/type1/Type1SubsetFile.java,25,217.0,2,4h 47min,287.0,193,6735.3
+fop,mples/embedding/java/embedding/events/ExampleEvents.java,19,215.0,null,null,null,null,null
+fop,/test/java/org/apache/fop/image/loader/batik/ImageLoaderTestCase.java,12,214.0,0,1h,60.0,50,2035.5
+fop,/main/java/org/apache/fop/pdf/PDFTextUtil.java,11,210.0,0,22min 30s,22.5,55,2114.7
+fop,/main/java/org/apache/fop/tools/fontlist/FontListMain.java,19,202.0,0,1h 22min,82.0,96,2834.1
+fop,/main/java/org/apache/fop/util/XMLUtil.java,13,201.0,0,2h 35min,155.0,21,751.8
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfExternalGraphic.java,21,198.0,3,4h 10min,250.0,117,6096.9
+fop,/main/java/org/apache/fop/render/java2d/Java2DRenderer.java,16,196.0,3,4h 17min,257.0,60,3177.0
+fop,/test/java/org/apache/fop/image/loader/batik/ImagePreloaderTestCase.java,13,195.0,1,17min 30s,17.5,50,1873.8
+fop,/main/java/org/apache/fop/render/intermediate/BorderPainter.java,18,194.0,0,5h 25min,325.0,337,10072.2
+fop,/test/java/org/apache/fop/render/AbstractPathOrientedRendererTestCase.java,24,193.0,0,30min,30.0,88,1936.8
+fop,/main/java/org/apache/fop/layoutmgr/BlockStackingLayoutManager.java,27,193.0,2,1M/d 3h,660.0,92,5311.2
+fop,/main/java/org/apache/fop/util/XMLResourceBundle.java,19,193.0,0,3h 50min,230.0,73,2895.6
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/NestedTable.java,18,190.0,0,37min 30s,37.5,32,1246.5
+fop,/main/java/org/apache/fop/fonts/autodetect/FontInfoFinder.java,10,189.0,2,2h 25min,145.0,26,1445.4
+fop,/main/java/org/apache/fop/fonts/GlyphMapping.java,19,189.0,0,2h 32min,152.0,81,4813.2
+fop,/main/java/org/apache/fop/render/ps/PSGraphicsPainter.java,12,188.0,1,2h 7min,127.0,42,1545.6
+fop,/main/java/org/apache/fop/util/UnitConv.java,19,185.0,0,7min 30s,7.5,20,677.4
+fop,/main/java/org/apache/fop/util/AbstractPaintingState.java,14,183.0,0,2h 10min,130.0,48,1964.4
+fop,/test/java/org/apache/fop/apps/FopConfParserTestCase.java,11,178.0,0,20min,20.0,79,2061.3
+fop,/main/java/org/apache/fop/fonts/MultiByteFont.java,19,177.0,0,5h 57min,357.0,153,5986.8
+fop,/main/java/org/apache/fop/render/pcl/PCLGenerator.java,22,175.0,1,3h 50min,230.0,201,8300.4
+fop,/test/java/org/apache/fop/complexscripts/bidi/BidiAlgorithmTestCase.java,14,171.0,0,4h 2min,242.0,51,1529.4
+fop,mples/embedding/java/embedding/ExampleFO2PDF.java,15,170.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/tools/TestConverter.java,12,170.0,0,2h 50min,170.0,43,2263.5
+fop,/test/java/org/apache/fop/fonts/truetype/OTFSubSetFileTestCase.java,22,169.0,64,3M/d 1h,1500.0,253,8405.4
+fop,/test/java/org/apache/fop/text/linebreak/LineBreakStatusTestCase.java,24,168.0,0,47min 30s,47.5,18,810.0
+fop,/main/java/org/apache/fop/layoutmgr/PageBreaker.java,21,168.0,4,5h 30min,330.0,188,8332.8
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphMappingTable.java,21,166.0,0,1h,60.0,40,1831.8
+fop,/main/java/org/apache/fop/complexscripts/util/CharAssociation.java,16,165.0,2,3h 17min,197.0,44,1450.2
+fop,/main/java/org/apache/fop/layoutmgr/table/TableCellLayoutManager.java,14,164.0,1,3h 27min,207.0,131,5184.9
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfTextrun.java,16,163.0,1,1h 35min,95.0,46,2072.7
+fop,/main/java/org/apache/fop/pdf/PDFColorHandler.java,9,161.0,0,1h 32min,92.0,49,1317.6
+fop,/main/java/org/apache/fop/render/rtf/rtflib/tools/BuilderContext.java,13,160.0,0,10min,10.0,24,1204.5
+fop,/main/java/org/apache/fop/area/Trait.java,14,160.0,4,2h 45min,165.0,61,1886.7
+fop,/test/java/org/apache/fop/util/AdvancedMessageFormatTestCase.java,9,156.0,0,15min,15.0,40,1238.4
+fop,/main/java/org/apache/fop/fonts/cff/CFFDataReader.java,23,154.0,7,5h 15min,315.0,429,10977.3
+fop,/main/java/org/apache/fop/render/intermediate/extensions/DocumentNavigationHandler.java,12,154.0,0,1h 10min,70.0,37,1333.8
+fop,/main/java/org/apache/fop/render/java2d/Java2DGraphicsPainter.java,10,153.0,2,1h 30min,90.0,42,1450.2
+fop,/test/java/org/apache/fop/layoutengine/LayoutEngineTestUtils.java,13,152.0,0,7min 30s,7.5,47,1458.3
+fop,/test/java/org/apache/fop/render/RendererFactoryTestCase.java,10,151.0,0,7min 30s,7.5,37,1773.6
+fop,/org/apache/fop/plan/SimplePlanDrawer.java,18,151.0,0,1h,60.0,48,2181.0
+fop,/main/java/org/apache/fop/render/intermediate/IFUtil.java,9,150.0,0,2h 35min,155.0,16,1278.9
+fop,/main/java/org/apache/fop/text/linebreak/LineBreakUtils.java,1,150.0,0,1h 40min,100.0,38,1209.3
+fop,mples/embedding/java/embedding/MultipleFO2PDF.java,15,150.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/fonts/LazyFont.java,8,149.0,0,2h 47min,167.0,59,2135.7
+fop,/main/java/org/apache/fop/complexscripts/scripts/DevanagariScriptProcessor.java,8,148.0,24,1M/d,480.0,166,6373.2
+fop,/main/java/org/apache/fop/complexscripts/scripts/GujaratiScriptProcessor.java,8,148.0,26,1M/d,480.0,167,6402.3
+fop,/main/java/org/apache/fop/complexscripts/scripts/GurmukhiScriptProcessor.java,8,148.0,26,1M/d,480.0,167,6402.3
+fop,/main/java/org/apache/fop/render/pcl/fonts/truetype/PCLTTFFontReader.java,15,141.0,1,7h 30min,450.0,279,8976.0
+fop,mples/embedding/java/embedding/ExampleFO2RTF.java,13,140.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/ExampleJava2D2PDF.java,13,140.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/render/intermediate/IFGraphicContext.java,8,140.0,0,0,0.0,23,552.9
+fop,/test/java/org/apache/fop/render/afp/AFPPainterTestCase.java,16,139.0,0,37min 30s,37.5,50,2409.0
+fop,/main/java/org/apache/fop/complexscripts/util/GlyphSequence.java,10,139.0,0,5h 35min,335.0,35,976.5
+fop,/main/java/org/apache/fop/render/pdf/PDFContentGenerator.java,9,138.0,0,47min 30s,47.5,66,1990.2
+fop,/main/java/org/apache/fop/complexscripts/scripts/TamilScriptProcessor.java,8,138.0,24,1M/d,480.0,169,6460.5
+fop,/test/java/org/apache/fop/fo/DelegatingFOEventHandlerTestCase.java,9,137.0,0,32min 30s,32.5,261,5831.4
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphDefinitionTable.java,10,137.0,0,6h 32min,392.0,112,4942.5
+fop,/main/java/org/apache/fop/fo/properties/TextDecorationMaker.java,9,137.0,14,2h 50min,170.0,10,789.0
+fop,/main/java/org/apache/fop/fonts/apps/PFMReader.java,13,135.0,1,1h 22min,82.0,21,1270.8
+fop,/main/java/org/apache/fop/fonts/type1/PostscriptParser.java,19,134.0,3,4h 32min,272.0,174,5302.8
+fop,/main/java/org/apache/fop/tools/anttasks/Fop.java,10,132.0,1,2h 40min,160.0,120,4208.4
+fop,/main/java/org/apache/fop/fonts/XMLFontMetricsReader.java,17,130.0,0,1h 20min,80.0,51,2546.4
+fop,/test/java/org/apache/fop/intermediate/AbstractIntermediateTest.java,7,125.0,2,20min,20.0,30,801.9
+fop,/main/java/org/apache/fop/render/afp/AFPFontConfig.java,15,125.0,0,5h 17min,317.0,212,6112.8
+fop,mples/embedding/java/embedding/ExampleFO2PDFUsingSAXParser.java,11,125.0,null,null,null,null,null
+fop,/test/java/org/apache/fop/memory/MemoryEater.java,13,125.0,0,7min 30s,7.5,44,1392.0
+fop,/main/java/org/apache/fop/layoutmgr/inline/InlineLayoutManager.java,13,124.0,1,3h 25min,205.0,40,2599.8
+fop,/main/java/org/apache/fop/render/ps/PSTextPainter.java,10,124.0,0,2h 2min,122.0,176,5559.9
+fop,/test/java/org/apache/fop/threading/FOPTestbed.java,13,122.0,1,1h 20min,80.0,130,4711.2
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfTableRow.java,10,121.0,0,1h 2min,62.0,32,1620.0
+fop,/test/java/org/apache/fop/complexscripts/layout/ComplexScriptsLayoutTestCase.java,11,120.0,5,1h 45min,105.0,136,4623.9
+fop,/main/java/org/apache/fop/util/ConversionUtils.java,4,120.0,0,1h,60.0,7,672.6
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFExtensionHandler.java,5,120.0,0,1h 25min,85.0,47,1383.9
+fop,/main/java/org/apache/fop/layoutmgr/FlowLayoutManager.java,14,119.0,0,2h 50min,170.0,40,1678.2
+fop,/main/java/org/apache/fop/fonts/type1/Type1FontLoader.java,8,119.0,0,1h 15min,75.0,67,3518.1
+fop,/main/java/org/apache/fop/render/pdf/ImageRawPNGAdapter.java,13,118.0,0,1h 10min,70.0,38,2263.5
+fop,/main/java/org/apache/fop/complexscripts/bidi/InlineRun.java,10,118.0,0,2h 15min,135.0,40,1267.5
+fop,/main/java/org/apache/fop/layoutmgr/TraitSetter.java,20,117.0,1,4h 17min,257.0,48,2205.3
+fop,/main/java/org/apache/fop/datatypes/URISpecification.java,12,117.0,1,1h 27min,87.0,36,1246.5
+fop,/main/java/org/apache/fop/fo/XMLWhiteSpaceHandler.java,6,117.0,1,2h 5min,125.0,65,2903.7
+fop,/main/java/org/apache/fop/afp/AFPPaintingState.java,5,115.0,0,15min,15.0,54,1641.0
+fop,/main/java/org/apache/fop/apps/FOPException.java,15,115.0,0,1h,60.0,24,611.1
+fop,/test/java/org/apache/fop/render/pdf/PDFAMetadataTestCase.java,10,115.0,0,22min 30s,22.5,25,1262.7
+fop,/test/java/org/apache/fop/layoutengine/LayoutEngineTestCase.java,7,114.0,5,1h 30min,90.0,85,3451.8
+fop,/main/java/org/apache/fop/render/xml/XMLRenderer.java,10,114.0,1,2h 12min,132.0,82,3941.7
+fop,/main/java/org/apache/fop/render/pdf/PDFPainter.java,12,113.0,2,3h 2min,182.0,110,5254.5
+fop,/main/java/org/apache/fop/fo/properties/VerticalAlignShorthandParser.java,10,113.0,53,1M/d 7h,900.0,6,519.0
+fop,/test/java/org/apache/fop/accessibility/fo/FO2StructureTreeConverterTestCase.java,8,112.0,0,0,0.0,130,3071.7
+fop,/org/apache/fop/plan/PlanRenderer.java,21,112.0,0,1h 12min,72.0,89,3141.3
+fop,/test/java/org/apache/fop/util/ElementListUtilsTestCase.java,5,110.0,0,30min,30.0,26,1474.5
+fop,mples/embedding/java/embedding/ExampleAWTViewer.java,10,110.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/ExampleFO2OldStylePrint.java,10,110.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/ExampleObj2PDF.java,10,110.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/ExampleXML2FO.java,10,110.0,null,null,null,null,null
+fop,/test/java/org/apache/fop/BasicDriverTestCase.java,6,108.0,0,22min 30s,22.5,34,1532.7
+fop,/main/java/org/apache/fop/fonts/FontInfo.java,23,108.0,0,3h 40min,220.0,55,1969.2
+fop,/main/java/org/apache/fop/apps/FopConfParser.java,7,108.0,1,1h 30min,90.0,51,2064.6
+fop,/test/java/org/apache/fop/complexscripts/fonts/GPOSTestCase.java,10,108.0,4,1h 55min,115.0,104,3191.4
+fop,/test/java/org/apache/fop/complexscripts/scripts/arabic/ArabicWordFormsTestCase.java,10,106.0,0,42min 30s,42.5,55,2292.6
+fop,/main/java/org/apache/fop/layoutmgr/AbstractLayoutManager.java,9,105.0,0,2h 50min,170.0,67,2679.0
+fop,/main/java/org/apache/fop/svg/text/BidiAttributedCharacterIterator.java,6,105.0,0,37min 30s,37.5,77,1783.2
+fop,/main/java/org/apache/fop/fo/expr/PropertyParser.java,8,104.0,2,2h 40min,160.0,44,2774.4
+fop,/main/java/org/apache/fop/tools/anttasks/RunTest.java,22,103.0,0,7min 30s,7.5,31,939.3
+fop,/main/java/org/apache/fop/cli/Main.java,16,102.0,0,1h 7min,67.0,22,1615.2
+fop,/main/java/org/apache/fop/fo/flow/Markers.java,11,101.0,0,1h 12min,72.0,19,619.2
+fop,/main/java/org/apache/fop/complexscripts/bidi/DelimitedTextRange.java,7,100.0,0,20min,20.0,40,1487.4
+fop,mples/embedding/java/embedding/atxml/ExampleConcat.java,7,100.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/ExampleFO2JPSPrint.java,10,100.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/ExampleSVG2PDF.java,11,100.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/layoutmgr/inline/LeaderLayoutManager.java,6,100.0,0,1h 47min,107.0,36,1707.3
+fop,/main/java/org/apache/fop/fonts/type1/PFBParser.java,12,100.0,0,25min,25.0,37,1736.4
+fop,/main/java/org/apache/fop/util/TransformerDefaultHandler.java,20,100.0,0,0,0.0,24,698.4
+fop,/main/java/org/apache/fop/render/AbstractRenderer.java,13,99.0,0,2h 2min,122.0,65,3277.2
+fop,/main/java/org/apache/fop/complexscripts/bidi/UnflattenProcessor.java,12,99.0,2,2h 12min,132.0,140,4130.7
+fop,/main/java/org/apache/fop/util/DOM2SAX.java,4,98.0,0,57min 30s,57.5,24,1071.9
+fop,/main/java/org/apache/fop/complexscripts/bidi/BidiResolver.java,7,97.0,1,15min,15.0,64,1674.9
+fop,/main/java/org/apache/fop/render/awt/viewer/PreviewPanel.java,11,95.0,2,1h 30min,90.0,81,4248.9
+fop,/main/java/org/apache/fop/fo/properties/CommonBorderPaddingBackground.java,11,94.0,0,4h 45min,285.0,132,5005.5
+fop,/main/java/org/apache/fop/render/mif/MIFFile.java,13,93.0,0,17min 30s,17.5,11,1067.1
+fop,/main/java/org/apache/fop/fo/properties/PropertyMaker.java,11,93.0,0,3h 5min,185.0,44,1159.2
+fop,/main/java/org/apache/fop/render/svg/SVGPainter.java,15,93.0,1,2h 17min,137.0,70,3049.2
+fop,/test/java/org/apache/fop/render/intermediate/BorderPainterTestCase.java,13,91.0,0,1h 37min,97.0,340,10180.5
+fop,/main/java/org/apache/fop/render/intermediate/IFSerializer.java,10,91.0,0,3h 22min,202.0,160,5708.7
+fop,/main/java/org/apache/fop/render/pdf/PDFGraphicsPainter.java,12,91.0,1,3h 5min,185.0,173,3948.0
+fop,/main/java/org/apache/fop/render/afp/AFPDocumentHandler.java,11,90.0,2,2h,120.0,64,2223.0
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPExtensionHandler.java,6,90.0,0,37min 30s,37.5,22,926.4
+fop,mples/embedding/java/embedding/intermediate/ExampleConcat.java,7,90.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/atxml/ExampleStamp.java,8,90.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/ExampleXML2PDF.java,10,90.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/render/ps/PSImageHandlerSVG.java,8,89.0,3,3h 25min,205.0,68,2961.9
+fop,/main/java/org/apache/fop/fo/pagination/SimplePageMaster.java,7,89.0,0,55min,55.0,39,1699.2
+fop,/main/java/org/apache/fop/fo/flow/table/Table.java,5,88.0,2,1h 42min,102.0,113,4213.2
+fop,/main/java/org/apache/fop/pdf/PDFColor.java,9,87.0,0,57min 30s,57.5,37,2168.1
+fop,/main/java/org/apache/fop/fo/pagination/Root.java,12,86.0,0,1h 35min,95.0,37,1421.1
+fop,/main/java/org/apache/fop/svg/ACIUtils.java,7,85.0,0,2h 40min,160.0,23,1204.5
+fop,/main/java/org/apache/fop/util/CharUtilities.java,10,85.0,6,3h 42min,222.0,24,1702.5
+fop,/main/java/org/apache/fop/layoutmgr/inline/ContentLayoutManager.java,11,85.0,0,1h 7min,67.0,28,1254.6
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/CreateTestDocuments.java,8,85.0,0,7min 30s,7.5,27,1387.2
+fop,/main/java/org/apache/fop/fo/FOTreeBuilder.java,15,85.0,0,55min,55.0,50,2122.8
+fop,/test/java/org/apache/fop/intermediate/IFMimickingTestCase.java,5,85.0,2,27min 30s,27.5,31,881.1
+fop,/main/java/org/apache/fop/pdf/PDFWArray.java,6,85.0,0,0,0.0,21,619.2
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfContainer.java,11,85.0,0,57min 30s,57.5,40,1707.3
+fop,/test/java/org/apache/fop/apps/FopFactoryBuilderTestCase.java,17,84.0,0,15min,15.0,61,1354.8
+fop,/main/java/org/apache/fop/render/ps/PSDocumentHandler.java,9,83.0,1,2h 7min,127.0,118,3993.3
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfColorTable.java,6,82.0,0,17min 30s,17.5,21,860.1
+fop,/test/java/org/apache/fop/events/EventProcessingTestCase.java,5,81.0,0,15min,15.0,89,2037.0
+fop,/main/java/org/apache/fop/fo/properties/FontShorthandProperty.java,3,81.0,0,50min,50.0,24,1856.1
+fop,/test/java/org/apache/fop/fonts/type1/Type1SubsetFileTestCase.java,14,81.0,30,1M/d 2h,600.0,103,3660.3
+fop,mples/embedding/java/embedding/ExampleObj2XML.java,8,80.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/fonts/FontCache.java,15,80.0,0,2h 5min,125.0,72,1828.5
+fop,/main/java/org/apache/fop/fo/FOText.java,11,80.0,39,2M/d,960.0,131,4965.0
+fop,/main/java/org/apache/fop/render/pcl/HardcodedFonts.java,7,80.0,4,1h 35min,95.0,15,876.3
+fop,/main/java/org/apache/fop/pdf/PDFNumber.java,4,80.0,0,0,0.0,13,203.7
+fop,/main/java/org/apache/fop/accessibility/StructureTree2SAXEventAdapter.java,4,80.0,0,10min,10.0,6,270.0
+fop,/test/java/org/apache/fop/URIResolutionTestCase.java,4,80.0,0,25min,25.0,62,1463.1
+fop,/main/java/org/apache/fop/area/inline/WordArea.java,6,80.0,0,2h 30min,150.0,28,698.4
+fop,/main/java/org/apache/fop/fo/flow/ListItem.java,7,79.0,0,1h,60.0,33,1055.7
+fop,/main/java/org/apache/fop/layoutmgr/BalancingColumnBreakingAlgorithm.java,9,78.0,1,1h 25min,85.0,98,3244.8
+fop,/main/java/org/apache/fop/afp/fonts/CharacterSetBuilder.java,10,77.0,0,2h 47min,167.0,151,6845.4
+fop,/main/java/org/apache/fop/cli/InputHandler.java,9,77.0,0,57min 30s,57.5,37,1620.0
+fop,/main/java/org/apache/fop/fonts/type1/AFMFile.java,13,76.0,2,1h 50min,110.0,43,2064.6
+fop,/main/java/org/apache/fop/render/RendererFactory.java,13,76.0,0,2h 22min,142.0,57,2040.3
+fop,/main/java/org/apache/fop/afp/DataStream.java,4,75.0,0,1h 17min,77.0,34,1466.4
+fop,/test/java/org/apache/fop/pdf/PDFPageLabelsTestCase.java,2,75.0,0,15min,15.0,16,598.2
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfTableCell.java,12,75.0,3,2h 45min,165.0,73,2725.8
+fop,/main/java/org/apache/fop/layoutmgr/table/TableContentLayoutManager.java,9,75.0,1,2h 35min,155.0,65,3269.1
+fop,/main/java/org/apache/fop/fonts/truetype/OFFontLoader.java,4,73.0,0,1h 2min,62.0,48,2151.9
+fop,/main/java/org/apache/fop/pdf/PDFEncryptionJCE.java,15,73.0,0,3h 12min,192.0,293,12366.6
+fop,/main/java/org/apache/fop/layoutmgr/inline/AlignmentContext.java,8,72.0,0,1h 5min,65.0,22,1387.2
+fop,/main/java/org/apache/fop/area/AreaTreeHandler.java,8,72.0,0,15min,15.0,59,2260.2
+fop,/main/java/org/apache/fop/events/model/EventModelParser.java,6,72.0,0,15min,15.0,28,889.2
+fop,/main/java/org/apache/fop/area/PageViewport.java,9,72.0,0,40min,40.0,41,1113.9
+fop,/main/java/org/apache/fop/layoutmgr/RetrieveTableMarkerLayoutManager.java,5,72.0,0,37min 30s,37.5,16,656.4
+fop,/main/java/org/apache/fop/complexscripts/scripts/DefaultScriptProcessor.java,5,71.0,0,50min,50.0,14,569.1
+fop,/main/java/org/apache/fop/afp/Factory.java,31,71.0,0,22min 30s,22.5,80,2526.9
+fop,/main/java/org/apache/fop/layoutmgr/list/ListBlockLayoutManager.java,5,71.0,0,32min 30s,32.5,23,1329.0
+fop,mples/embedding/java/embedding/intermediate/ExampleStamp.java,7,70.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/fonts/substitute/FontQualifier.java,6,70.0,0,1h 37min,97.0,24,1042.8
+fop,/test/java/org/apache/fop/memory/Stats.java,6,70.0,0,0,0.0,53,1691.1
+fop,/main/java/org/apache/fop/complexscripts/util/UTF32.java,5,70.0,0,55min,55.0,13,818.1
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFPageExtension.java,6,69.0,3,1h 32min,92.0,12,540.0
+fop,/main/java/org/apache/fop/pdf/PDFPageLabels.java,5,69.0,1,55min,55.0,38,1670.1
+fop,/test/java/org/apache/fop/fo/pagination/LayoutMasterSetTestCase.java,5,68.0,0,0,0.0,25,1021.8
+fop,/main/java/org/apache/fop/layoutmgr/list/ListItemContentLayoutManager.java,9,68.0,1,1h 2min,62.0,17,1337.1
+fop,mples/embedding/java/embedding/ExampleDOM2PDF.java,10,66.0,null,null,null,null,null
+fop,/test/java/org/apache/fop/fotreetest/FOTreeTestCase.java,7,66.0,0,17min 30s,17.5,34,1254.6
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphPositioningState.java,8,66.0,0,1h 15min,75.0,16,540.0
+fop,/test/java/org/apache/fop/render/afp/AFPBorderPainterTestCase.java,4,65.0,0,0,0.0,42,1362.9
+fop,/test/java/org/apache/fop/render/ps/ImageHandlingTestCase.java,5,65.0,0,25min,25.0,48,1603.8
+fop,/main/java/org/apache/fop/hyphenation/SerializeHyphPattern.java,7,65.0,0,20min,20.0,27,984.6
+fop,/main/java/org/apache/fop/render/svg/SVGDocumentHandler.java,4,65.0,0,22min 30s,22.5,43,1479.3
+fop,/main/java/org/apache/fop/layoutmgr/inline/InlineStackingLayoutManager.java,8,64.0,0,1h 20min,80.0,23,1731.6
+fop,/main/java/org/apache/fop/svg/NativeTextPainter.java,6,64.0,2,1h 40min,100.0,96,3461.4
+fop,/main/java/org/apache/fop/render/rtf/TextAttributesConverter.java,12,64.0,1,2h 32min,152.0,75,3655.5
+fop,/test/java/org/apache/fop/datatypes/URISpecificationTestCase.java,4,64.0,0,15min,15.0,21,1021.8
+fop,/main/java/org/apache/fop/layoutmgr/BlockLayoutManager.java,9,63.0,0,2h 2min,122.0,42,2417.1
+fop,/main/java/org/apache/fop/fonts/Font.java,6,63.0,1,5h 10min,310.0,28,1768.8
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphClassTable.java,9,63.0,4,3h 2min,182.0,73,3240.0
+fop,/main/java/org/apache/fop/area/Area.java,6,62.0,0,40min,40.0,51,2176.2
+fop,/main/java/org/apache/fop/accessibility/fo/FO2StructureTreeConverter.java,5,62.0,0,15min,15.0,251,5415.9
+fop,/main/java/org/apache/fop/events/EventExceptionManager.java,4,61.0,0,0,0.0,14,569.1
+fop,/main/java/org/apache/fop/layoutmgr/inline/LineLayoutPossibilities.java,9,61.0,0,45min,45.0,60,1653.9
+fop,/main/java/org/apache/fop/render/pdf/PDFRendererConfig.java,8,61.0,0,55min,55.0,86,2514.0
+fop,/main/java/org/apache/fop/render/ps/ResourceHandler.java,5,61.0,0,2h,120.0,52,1807.5
+fop,/main/java/org/apache/fop/complexscripts/scripts/ScriptProcessor.java,7,61.0,0,1h 42min,102.0,41,947.4
+fop,/test/java/org/apache/fop/apps/AbstractRendererConfigParserTester.java,3,60.0,0,7min 30s,7.5,39,785.7
+fop,/test/java/org/apache/fop/afp/AFPResourceUtilTestCase.java,5,60.0,0,0,0.0,52,1338.6
+fop,/main/java/org/apache/fop/render/java2d/CustomFontMetricsMapper.java,2,60.0,0,2h 25min,145.0,33,881.1
+fop,/test/java/org/apache/fop/util/DigestFilter.java,6,60.0,0,27min 30s,27.5,37,1707.3
+fop,/main/java/org/apache/fop/layoutmgr/KnuthElement.java,3,60.0,0,15min,15.0,8,145.5
+fop,/main/java/org/apache/fop/layoutmgr/LayoutContext.java,3,60.0,0,1h 17min,77.0,72,1865.7
+fop,/main/java/org/apache/fop/fo/flow/Leader.java,6,60.0,0,22min 30s,22.5,40,1201.2
+fop,/test/java/org/apache/fop/afp/parser/MODCAParserTestCase.java,3,60.0,0,45min,45.0,27,1723.5
+fop,/test/java/org/apache/fop/pdf/ObjectStreamTestCase.java,3,60.0,0,15min,15.0,68,1982.1
+fop,/test/java/org/apache/fop/fo/properties/PropertyListMocks.java,3,60.0,0,17min 30s,17.5,6,365.4
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfStyleSheetTable.java,3,60.0,0,47min 30s,47.5,19,801.9
+fop,/test/java/org/apache/fop/apps/io/URIResolverWrapperTestCase.java,6,60.0,0,0,0.0,60,1828.5
+fop,/test/java/org/apache/fop/util/XMLResourceBundleTestCase.java,4,60.0,0,7min 30s,7.5,18,868.2
+fop,/main/java/org/apache/fop/layoutmgr/table/TableStepper.java,6,59.0,0,2h 10min,130.0,48,2525.4
+fop,/test/java/org/apache/fop/events/BasicEventTestCase.java,4,58.0,0,7min 30s,7.5,36,1561.8
+fop,/main/java/org/apache/fop/render/java2d/Java2DPainter.java,9,58.0,0,25min,25.0,42,1977.3
+fop,/test/java/org/apache/fop/render/extensions/prepress/PageBoundariesTestCase.java,3,58.0,0,7min 30s,7.5,32,2022.6
+fop,/test/java/org/apache/fop/render/pdf/PDFRendererConfigParserTestCase.java,6,58.0,8,3h 2min,182.0,118,4594.8
+fop,/main/java/org/apache/fop/render/pdf/PDFRenderingUtil.java,9,57.0,0,4h 52min,292.0,180,6460.5
+fop,/test/java/org/apache/fop/pdf/PDFEncryptionJCETestCase.java,6,56.0,0,45min,45.0,270,5698.8
+fop,/main/java/org/apache/fop/pdf/PDFToUnicodeCMap.java,6,56.0,0,2h 42min,162.0,38,2798.7
+fop,/main/java/org/apache/fop/svg/AbstractFOPTextPainter.java,6,55.0,0,42min 30s,42.5,53,2085.6
+fop,/main/java/org/apache/fop/fo/flow/BasicLink.java,8,55.0,0,32min 30s,32.5,35,1267.5
+fop,/main/java/org/apache/fop/fo/flow/BlockContainer.java,4,55.0,0,37min 30s,37.5,51,2048.4
+fop,/main/java/org/apache/fop/fonts/DefaultFontConfig.java,8,55.0,4,1h 50min,110.0,115,4155.0
+fop,/main/java/org/apache/fop/fo/flow/ListBlock.java,2,55.0,0,15min,15.0,29,968.4
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFCollectionEntryElement.java,4,55.0,0,1h 30min,90.0,53,1442.1
+fop,/main/java/org/apache/fop/layoutmgr/table/RowGroupLayoutManager.java,10,55.0,0,32min 30s,32.5,28,1196.4
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfFile.java,7,55.0,0,37min 30s,37.5,18,772.8
+fop,/main/java/org/apache/fop/afp/AFPGraphics2D.java,8,54.0,1,3h 17min,197.0,67,2691.9
+fop,/main/java/org/apache/fop/pdf/PDFDocument.java,27,54.0,0,3h 37min,217.0,208,7304.4
+fop,/main/java/org/apache/fop/fo/expr/PropertyTokenizer.java,6,54.0,13,6h 5min,365.0,59,2376.6
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfParagraph.java,9,54.0,3,1h 35min,95.0,48,1624.8
+fop,/main/java/org/apache/fop/layoutmgr/SpaceSpecifier.java,3,54.0,0,1h 5min,65.0,15,685.5
+fop,/main/java/org/apache/fop/util/ColorExt.java,8,52.0,0,2h 40min,160.0,32,997.5
+fop,/main/java/org/apache/fop/pdf/PDFFilterList.java,9,52.0,0,2h 22min,142.0,36,1275.6
+fop,/test/java/org/apache/fop/fo/pagination/RepeatablePageMasterAlternativesTestCase.java,4,52.0,0,0,0.0,26,1167.3
+fop,/main/java/org/apache/fop/fo/expr/RGBICCColorFunction.java,4,52.0,1,35min,35.0,14,847.2
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfFontManager.java,5,52.0,0,10min,10.0,17,619.2
+fop,/main/java/org/apache/fop/afp/util/AFPResourceUtil.java,5,51.0,1,1h 7min,67.0,43,1603.8
+fop,/test/java/org/apache/fop/util/CompareUtilTestCase.java,5,51.0,0,15min,15.0,15,818.1
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphCoverageTable.java,6,51.0,4,2h 27min,147.0,62,2729.1
+fop,/main/java/org/apache/fop/layoutmgr/inline/ImageLayout.java,4,51.0,2,1h 57min,117.0,47,2247.3
+fop,/main/java/org/apache/fop/layoutmgr/PageSequenceLayoutManager.java,7,51.0,0,1h 45min,105.0,102,3631.2
+fop,/main/java/org/apache/fop/area/RegionReference.java,3,51.0,0,7min 30s,7.5,12,349.2
+fop,/main/java/org/apache/fop/render/AbstractGraphics2DAdapter.java,5,50.0,1,50min,50.0,17,1183.5
+fop,/test/java/org/apache/fop/render/intermediate/AbstractIFPainterTestCase.java,10,50.0,0,15min,15.0,24,523.8
+fop,/main/java/org/apache/fop/render/pdf/AbstractImageAdapter.java,5,50.0,2,1h 20min,80.0,38,1362.9
+fop,/test/java/org/apache/fop/visual/BitmapComparator.java,6,50.0,0,1h 25min,85.0,11,510.9
+fop,/test/java/org/apache/fop/fonts/cff/CFFDataReaderTestCase.java,1,50.0,0,15min,15.0,23,1080.0
+fop,/main/java/org/apache/fop/fo/properties/CommonTextDecoration.java,2,50.0,0,40min,40.0,25,947.4
+fop,/main/java/org/apache/fop/events/model/EventModel.java,5,50.0,0,15min,15.0,20,772.8
+fop,/test/java/org/apache/fop/config/FontsSubstitutionTestCase.java,2,50.0,0,15min,15.0,20,897.3
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/MergedTableCells.java,5,50.0,0,7min 30s,7.5,10,540.0
+fop,/test/java/org/apache/fop/render/pdf/PDFPainterTestCase.java,7,50.0,0,22min 30s,22.5,97,3332.1
+fop,/main/java/org/apache/fop/layoutmgr/table/RowPainter.java,5,50.0,1,3h,180.0,64,2961.9
+fop,/main/java/org/apache/fop/fo/extensions/svg/SVGDOMContentHandlerFactory.java,3,50.0,0,37min 30s,37.5,22,897.3
+fop,/main/java/org/apache/fop/fo/flow/table/TableAndCaption.java,6,50.0,0,42min 30s,42.5,17,590.1
+fop,/main/java/org/apache/fop/layoutmgr/table/TableAndCaptionLayoutManager.java,11,50.0,4,57min 30s,57.5,12,971.7
+fop,/main/java/org/apache/fop/layoutmgr/table/TableCaptionLayoutManager.java,11,50.0,4,47min 30s,47.5,12,971.7
+fop,/main/java/org/apache/fop/area/inline/TextArea.java,2,50.0,1,1h 15min,75.0,28,1042.8
+fop,/main/java/org/apache/fop/afp/parser/UnparsedStructuredField.java,2,50.0,47,2M/d,960.0,50,1807.5
+fop,/test/java/org/apache/fop/visual/AbstractPSPDFBitmapProducer.java,9,49.0,0,35min,35.0,19,531.9
+fop,/test/java/org/apache/fop/fonts/FontSelectorTestCase.java,3,48.0,0,30min,30.0,63,2040.3
+fop,/test/java/org/apache/fop/util/LanguageTagsTestCase.java,3,48.0,0,15min,15.0,27,889.2
+fop,/main/java/org/apache/fop/svg/AbstractFOPTranscoder.java,4,47.0,0,1h 22min,82.0,39,1699.2
+fop,/main/java/org/apache/fop/layoutmgr/inline/CharacterLayoutManager.java,7,47.0,0,57min 30s,57.5,27,1320.9
+fop,/main/java/org/apache/fop/fo/CharIterator.java,5,47.0,0,35min,35.0,8,548.1
+fop,/test/java/org/apache/fop/layoutmgr/PageSequenceLayoutManagerTestCase.java,5,47.0,0,15min,15.0,21,494.7
+fop,/main/java/org/apache/fop/pdf/PDFStream.java,10,47.0,0,1h 5min,65.0,39,997.5
+fop,/main/java/org/apache/fop/render/afp/AFPImageHandlerRenderedImage.java,6,46.0,0,2h 15min,135.0,82,3369.3
+fop,/main/java/org/apache/fop/render/rtf/rtflib/tools/ImageUtil.java,5,46.0,0,2h 17min,137.0,7,577.2
+fop,/main/java/org/apache/fop/pdf/PDFPaintingState.java,6,46.0,1,2h 20min,140.0,49,1333.8
+fop,/test/java/org/apache/fop/render/ps/PSPainterTestCase.java,9,46.0,0,30min,30.0,70,2991.0
+fop,/main/java/org/apache/fop/render/rtf/TableAttributesConverter.java,15,46.0,1,2h 12min,132.0,25,1723.5
+fop,/main/java/org/apache/fop/fo/flow/AbstractGraphics.java,4,45.0,0,47min 30s,47.5,62,2368.5
+fop,/main/java/org/apache/fop/fo/flow/AbstractPageNumberCitation.java,6,45.0,3,32min 30s,32.5,42,1413.0
+fop,/test/java/org/apache/fop/complexscripts/scripts/arabic/ArabicJoinersTestCase.java,5,45.0,0,15min,15.0,36,1034.7
+fop,/main/java/org/apache/fop/svg/font/ComplexGlyphVector.java,6,45.0,0,32min 30s,32.5,51,1537.5
+fop,/test/java/org/apache/fop/fo/FONodeMocks.java,3,45.0,0,10min,10.0,28,984.6
+fop,/test/java/org/apache/fop/svg/font/FontInfoBuilder.java,3,45.0,0,27min 30s,27.5,45,1238.4
+fop,/main/java/org/apache/fop/fo/flow/PageNumber.java,6,45.0,3,35min,35.0,48,1932.0
+fop,/main/java/org/apache/fop/pdf/PDFGState.java,3,45.0,1,57min 30s,57.5,40,1757.4
+fop,/main/java/org/apache/fop/pdf/PDFLinearization.java,13,45.0,0,1h 45min,105.0,182,8926.2
+fop,/main/java/org/apache/fop/render/ps/extensions/PSExtensionHandler.java,6,45.0,0,32min 30s,32.5,19,648.3
+fop,/main/java/org/apache/fop/render/svg/SVGPrintDocumentHandler.java,6,45.0,0,7min 30s,7.5,19,1050.9
+fop,/main/java/org/apache/fop/util/WriterOutputStream.java,7,45.0,0,0,0.0,8,232.8
+fop,/main/java/org/apache/fop/hyphenation/Hyphenator.java,6,44.0,0,2h 40min,160.0,36,1400.1
+fop,/main/java/org/apache/fop/render/pcl/fonts/PCLSoftFontManager.java,9,44.0,2,1h 50min,110.0,117,3598.8
+fop,/main/java/org/apache/fop/fo/PropertyList.java,9,43.0,0,4h 17min,257.0,61,2488.2
+fop,/main/java/org/apache/fop/layoutmgr/AbstractPageSequenceLayoutManager.java,7,42.0,0,1h 57min,117.0,21,1212.6
+fop,/main/java/org/apache/fop/render/xml/AbstractXMLRenderer.java,3,42.0,0,15min,15.0,21,627.3
+fop,/main/java/org/apache/fop/afp/AFPResourceManager.java,9,42.0,1,1h 35min,95.0,81,2961.9
+fop,/main/java/org/apache/fop/events/model/EventMethodModel.java,2,42.0,0,15min,15.0,19,465.6
+fop,/main/java/org/apache/fop/fo/expr/FromTableColumnFunction.java,2,42.0,0,1h 15min,75.0,8,606.3
+fop,/main/java/org/apache/fop/fo/flow/table/TablePart.java,4,42.0,0,42min 30s,42.5,29,1034.7
+fop,/test/java/org/apache/fop/intermediate/TestAssistant.java,3,42.0,0,30min,30.0,35,881.1
+fop,/test/java/org/apache/fop/render/java2d/Java2DUtilTestCase.java,3,41.0,0,7min 30s,7.5,49,1413.0
+fop,/test/java/org/apache/fop/accessibility/pdf/MissingLanguageWarningTestCase.java,3,41.0,0,0,0.0,38,814.8
+fop,/test/java/org/apache/fop/traits/BorderPropsTestCase.java,2,40.0,0,0,0.0,17,934.5
+fop,/main/java/org/apache/fop/layoutmgr/table/CellPart.java,2,40.0,0,55min,55.0,35,1026.6
+fop,/main/java/org/apache/fop/fo/flow/Character.java,4,40.0,0,55min,55.0,81,2908.5
+fop,/test/java/org/apache/fop/DigestFilterTestCase.java,2,40.0,0,20min,20.0,47,1574.7
+fop,/main/java/org/apache/fop/layoutmgr/ElementListUtils.java,3,40.0,0,1h 30min,90.0,20,1021.8
+fop,/test/java/org/apache/fop/layoutengine/EvalCheck.java,2,40.0,0,7min 30s,7.5,19,619.2
+fop,/main/java/org/apache/fop/tools/anttasks/FileCompare.java,6,40.0,0,37min 30s,37.5,34,1225.5
+fop,/test/java/org/apache/fop/events/FlowNamedNotMappedTestCase.java,3,40.0,0,7min 30s,7.5,29,1233.6
+fop,/main/java/org/apache/fop/fo/FOEventHandler.java,1,40.0,0,15min,15.0,63,423.6
+fop,/test/java/org/apache/fop/fonts/FontEventProcessingTestCase.java,2,40.0,0,0,0.0,17,436.5
+fop,/test/java/org/apache/fop/accessibility/pdf/FootnoteSeparatorTestCase.java,4,40.0,0,15min,15.0,15,598.2
+fop,/test/java/org/apache/fop/threading/FOProcessorImpl.java,2,40.0,0,15min,15.0,25,640.2
+fop,/main/java/org/apache/fop/render/rtf/FoUnitsConverter.java,3,40.0,0,7min 30s,7.5,39,1948.2
+fop,/test/java/org/apache/fop/render/intermediate/IFStructureTreeBuilderTestCase.java,2,40.0,0,1h 15min,75.0,52,1354.8
+fop,/main/java/org/apache/fop/fo/flow/Inline.java,3,40.0,0,17min 30s,17.5,26,881.1
+fop,/main/java/org/apache/fop/render/ps/NativeTextHandler.java,2,40.0,0,7min 30s,7.5,33,968.4
+fop,/main/java/org/apache/fop/util/OCAColor.java,3,40.0,0,10min,10.0,23,619.2
+fop,/main/java/org/apache/fop/render/print/PageableRenderer.java,4,40.0,1,1h 55min,115.0,34,1590.9
+fop,/test/java/org/apache/fop/fo/pagination/PageSequenceMasterTestCase.java,2,40.0,0,7min 30s,7.5,27,1101.0
+fop,/main/java/org/apache/fop/pdf/PDFAnnotList.java,2,40.0,0,0,0.0,8,481.8
+fop,/test/java/org/apache/fop/render/pdf/PDFBorderPainterTestCase.java,3,40.0,0,0,0.0,22,677.4
+fop,/main/java/org/apache/fop/pdf/PDFCIDFont.java,2,40.0,0,1h 12min,72.0,29,814.8
+fop,/test/java/org/apache/fop/pdf/PDFDocumentGraphics2DTestCase.java,2,40.0,0,7min 30s,7.5,12,818.1
+fop,/main/java/org/apache/fop/pdf/PDFICCBasedColorSpace.java,2,40.0,0,27min 30s,27.5,15,378.3
+fop,/main/java/org/apache/fop/svg/PDFTextPainter.java,3,40.0,0,7min 30s,7.5,52,1911.0
+fop,/main/java/org/apache/fop/fo/properties/Property.java,3,40.0,0,17min 30s,17.5,20,577.2
+fop,/main/java/org/apache/fop/fo/expr/RelativeNumericProperty.java,2,40.0,27,1M/d 2h,600.0,23,1050.9
+fop,/main/java/org/apache/fop/fo/expr/RGBNamedColorFunction.java,2,40.0,1,25min,25.0,14,847.2
+fop,/main/java/org/apache/fop/afp/util/StringUtils.java,2,40.0,0,40min,40.0,8,672.6
+fop,/test/java/org/apache/fop/layoutengine/TrueCheck.java,2,40.0,0,7min 30s,7.5,13,349.2
+fop,/test/java/org/apache/fop/area/ViewportTest.java,2,40.0,0,7min 30s,7.5,18,685.5
+fop,/main/java/org/apache/fop/layoutmgr/table/ActiveCell.java,9,39.0,0,3h 45min,225.0,104,3125.1
+fop,/main/java/org/apache/fop/pdf/PDFResources.java,12,39.0,0,1h 25min,85.0,64,2326.5
+fop,/main/java/org/apache/fop/layoutmgr/AreaAdditionUtil.java,6,38.0,1,55min,55.0,12,759.9
+fop,/main/java/org/apache/fop/fo/properties/CommonFont.java,6,38.0,2,1h 17min,77.0,8,577.2
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfAttributes.java,2,38.0,0,17min 30s,17.5,13,510.9
+fop,/main/java/org/apache/fop/fonts/truetype/TTFSubSetFile.java,7,38.0,1,1h 45min,105.0,150,6543.0
+fop,/test/java/org/apache/fop/render/pdf/extensions/PDFDocumentInformationElementTestCase.java,4,37.0,0,0,0.0,26,984.6
+fop,/test/java/org/apache/fop/render/AbstractRenderingTest.java,4,36.0,0,7min 30s,7.5,10,481.8
+fop,/test/java/org/apache/fop/svg/PDFTextPainterTestCase.java,4,36.0,0,30min,30.0,55,2093.7
+fop,/test/java/org/apache/fop/afp/modca/AbstractAFPObjectTest.java,3,35.0,0,15min,15.0,61,2451.0
+fop,/main/java/org/apache/fop/render/AbstractImageHandlerGraphics2D.java,2,35.0,1,25min,25.0,15,1000.8
+fop,/main/java/org/apache/fop/render/intermediate/AffineTransformArrayParser.java,2,35.0,0,37min 30s,37.5,18,648.3
+fop,/main/java/org/apache/fop/render/awt/AWTRenderer.java,6,35.0,1,52min 30s,52.5,18,839.1
+fop,/main/java/org/apache/fop/util/ColorProfileUtil.java,4,35.0,0,0,0.0,6,394.5
+fop,/main/java/org/apache/fop/util/DataURLUtil.java,4,35.0,0,0,0.0,10,510.9
+fop,/test/java/org/apache/fop/fo/FODocumentParser.java,4,35.0,0,0,0.0,24,706.5
+fop,/main/java/org/apache/fop/afp/ioca/ImageSegment.java,5,35.0,0,7min 30s,7.5,20,619.2
+fop,/main/java/org/apache/fop/area/inline/InlineArea.java,6,35.0,0,35min,35.0,18,664.5
+fop,/main/java/org/apache/fop/layoutmgr/LayoutException.java,4,35.0,0,20min,20.0,13,598.2
+fop,/main/java/org/apache/fop/traits/MinOptMax.java,7,35.0,0,1h 7min,67.0,34,743.7
+fop,/main/java/org/apache/fop/fo/pagination/PageProductionException.java,3,35.0,0,20min,20.0,10,510.9
+fop,/main/java/org/apache/fop/afp/modca/PresentationEnvironmentControl.java,10,35.0,0,17min 30s,17.5,5,394.5
+fop,/main/java/org/apache/fop/render/print/PrintRenderer.java,3,35.0,0,15min,15.0,16,407.4
+fop,/main/java/org/apache/fop/fo/RecursiveCharIterator.java,2,35.0,0,27min 30s,27.5,7,203.7
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfText.java,9,35.0,1,1h 27min,87.0,22,1013.7
+fop,/test/java/org/apache/fop/fonts/type1/Type1FontLoaderTestCase.java,7,35.0,0,7min 30s,7.5,16,751.8
+fop,/main/java/org/apache/fop/layoutmgr/AbstractBaseLayoutManager.java,2,34.0,5,2h 57min,177.0,15,942.6
+fop,/main/java/org/apache/fop/pdf/AlphaRasterImage.java,3,34.0,0,15min,15.0,15,561.0
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphSubstitutionState.java,7,34.0,0,1h 17min,77.0,21,963.6
+fop,/main/java/org/apache/fop/fo/flow/Marker.java,5,34.0,0,3h 10min,190.0,45,2599.8
+fop,/main/java/org/apache/fop/svg/PDFANode.java,6,34.0,0,7min 30s,7.5,13,444.6
+fop,/main/java/org/apache/fop/fonts/truetype/TTFFile.java,4,34.0,0,30min,30.0,24,1146.3
+fop,/main/java/org/apache/fop/fonts/autodetect/WindowsFontDirFinder.java,3,34.0,0,15min,15.0,17,810.0
+fop,/main/java/org/apache/fop/area/RenderPagesModel.java,6,33.0,0,17min 30s,17.5,21,648.3
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/WhitespaceCollapser.java,3,33.0,0,30min,30.0,13,378.3
+fop,/main/java/org/apache/fop/area/AreaTreeObject.java,3,32.0,0,1h 17min,77.0,7,270.0
+fop,/main/codegen/unicode/java/org/apache/fop/util/License.java,5,32.0,0,17min 30s,17.5,6,145.5
+fop,/org/apache/fop/plan/Main.java,6,32.0,0,17min 30s,17.5,15,1029.9
+fop,/main/java/org/apache/fop/afp/modca/MapCodedFont.java,9,32.0,1,1h 50min,110.0,23,1146.3
+fop,/main/java/org/apache/fop/fo/flow/MultiPropertySet.java,4,32.0,0,7min 30s,7.5,8,730.8
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFDictionaryElement.java,2,32.0,0,1h 57min,117.0,48,1296.6
+fop,/test/java/org/apache/fop/render/pdf/PDFEncodingTestCase.java,3,32.0,2,20min,20.0,32,785.7
+fop,/test/java/org/apache/fop/pdf/PDFLinearizationTestCase.java,5,32.0,0,1h 52min,112.0,127,4885.8
+fop,/main/java/org/apache/fop/fonts/type1/PFMFile.java,7,32.0,3,2h 55min,175.0,55,2164.8
+fop,/main/java/org/apache/fop/apps/io/ResourceResolverFactory.java,7,32.0,0,1h,60.0,132,4088.7
+fop,/main/java/org/apache/fop/pdf/StandardStructureAttributes.java,2,32.0,0,7min 30s,7.5,17,656.4
+fop,/main/java/org/apache/fop/layoutmgr/table/TableLayoutManager.java,9,32.0,5,3h 37min,217.0,93,4100.1
+fop,/main/java/org/apache/fop/render/ps/Type1FontFormatter.java,2,32.0,0,1h 10min,70.0,41,1055.7
+fop,/main/java/org/apache/fop/events/Event.java,2,31.0,0,40min,40.0,20,407.4
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphPositioningSubtable.java,2,31.0,0,50min,50.0,12,481.8
+fop,/test/java/org/apache/fop/intermediate/IFTestCase.java,4,31.0,0,0,0.0,29,611.1
+fop,/main/java/org/apache/fop/area/Span.java,4,31.0,0,27min 30s,27.5,17,810.0
+fop,/test/java/org/apache/fop/afp/AFPResourceManagerTestCase.java,2,30.0,0,7min 30s,7.5,30,793.8
+fop,/main/java/org/apache/fop/util/bitmap/BitmapImageUtil.java,6,30.0,0,1h 7min,67.0,24,1453.5
+fop,/main/java/org/apache/fop/area/BodyRegion.java,1,30.0,0,7min 30s,7.5,21,523.8
+fop,/main/java/org/apache/fop/hyphenation/CharVector.java,1,30.0,1,17min 30s,17.5,13,627.3
+fop,/main/java/org/apache/fop/util/ColorWithFallback.java,1,30.0,0,50min,50.0,19,465.6
+fop,/main/java/org/apache/fop/util/DOMBuilderContentHandlerFactory.java,1,30.0,0,7min 30s,7.5,23,1050.9
+fop,/main/java/org/apache/fop/fo/ElementMapping.java,2,30.0,0,25min,25.0,18,905.4
+fop,/main/java/org/apache/fop/events/model/EventProducerModel.java,1,30.0,0,7min 30s,7.5,8,357.3
+fop,/main/java/org/apache/fop/fo/pagination/Flow.java,3,30.0,1,25min,25.0,16,685.5
+fop,/main/java/org/apache/fop/fo/expr/FromNearestSpecifiedValueFunction.java,1,30.0,0,20min,20.0,7,577.2
+fop,/main/java/org/apache/fop/fo/expr/FromParentFunction.java,1,30.0,2,30min,30.0,7,577.2
+fop,/test/java/org/apache/fop/HyphenationTestCase.java,7,30.0,0,0,0.0,22,839.1
+fop,/main/java/org/apache/fop/afp/modca/ImageObject.java,5,30.0,0,35min,35.0,14,627.3
+fop,/test/java/org/apache/fop/render/pdf/ImageRawPNGAdapterTestCase.java,5,30.0,0,45min,45.0,62,2662.8
+fop,/main/java/org/apache/fop/fo/expr/InheritedPropFunction.java,1,30.0,2,30min,30.0,7,577.2
+fop,/main/java/org/apache/fop/layoutmgr/inline/LeafNodeLayoutManager.java,1,30.0,0,35min,35.0,29,1262.7
+fop,/main/java/org/apache/fop/fo/flow/MultiToggle.java,4,30.0,0,15min,15.0,10,789.0
+fop,/main/java/org/apache/fop/render/afp/exceptions/NestedRuntimeException.java,4,30.0,0,20min,20.0,5,145.5
+fop,/main/java/org/apache/fop/util/OCAColorSpace.java,1,30.0,0,1h 45min,105.0,23,897.3
+fop,/main/java/org/apache/fop/area/Page.java,1,30.0,5,2h 57min,177.0,27,1657.2
+fop,/test/java/org/apache/fop/render/pcl/fonts/truetype/PCLTTFCharacterWriterTestCase.java,3,30.0,0,7min 30s,7.5,27,1071.9
+fop,/main/java/org/apache/fop/pdf/PDFFontDescriptor.java,3,30.0,0,30min,30.0,4,489.9
+fop,/main/java/org/apache/fop/pdf/PDFPages.java,3,30.0,0,0,0.0,7,452.7
+fop,/main/java/org/apache/fop/pdf/PDFProfile.java,3,30.0,0,50min,50.0,45,1084.8
+fop,/main/java/org/apache/fop/pdf/PDFSetOCGStateAction.java,1,30.0,0,7min 30s,7.5,43,960.3
+fop,/main/java/org/apache/fop/pdf/PDFTransitionAction.java,1,30.0,0,7min 30s,7.5,43,960.3
+fop,/main/java/org/apache/fop/render/ps/PSSVGHandler.java,4,30.0,0,42min 30s,42.5,15,847.2
+fop,/main/java/org/apache/fop/area/RegionViewport.java,1,30.0,0,35min,35.0,24,582.0
+fop,/main/java/org/apache/fop/fo/extensions/svg/SVGElement.java,5,30.0,0,25min,25.0,15,722.7
+fop,/main/java/org/apache/fop/layoutmgr/table/TableRowIterator.java,2,30.0,0,17min 30s,17.5,10,415.5
+fop,/main/java/org/apache/fop/render/XMLHandler.java,2,30.0,0,0,0.0,3,58.2
+fop,/main/java/org/apache/fop/afp/util/BinaryUtils.java,2,29.0,0,7min 30s,7.5,13,818.1
+fop,/main/java/org/apache/fop/afp/ioca/ImageContent.java,6,29.0,0,1h 2min,62.0,30,1839.9
+fop,/test/java/org/apache/fop/afp/AFPEventProcessingTestCase.java,2,28.0,0,0,0.0,38,1180.2
+fop,/test/java/org/apache/fop/afp/fonts/CharactersetEncoderTestCase.java,8,28.0,1,10min,10.0,27,822.9
+fop,/main/java/org/apache/fop/layoutmgr/table/ColumnSetup.java,9,28.0,1,1h 57min,117.0,29,1437.3
+fop,/main/java/org/apache/fop/fo/properties/CommonHyphenation.java,4,28.0,0,1h 7min,67.0,25,1789.8
+fop,/main/java/org/apache/fop/fonts/truetype/FontFileReader.java,6,28.0,0,20min,20.0,31,1299.9
+fop,/main/java/org/apache/fop/fonts/FontManagerConfigurator.java,8,28.0,1,35min,35.0,24,552.9
+fop,/main/java/org/apache/fop/render/mif/MIFElement.java,2,28.0,0,45min,45.0,11,577.2
+fop,/main/java/org/apache/fop/render/pdf/PDFStructureTreeBuilder.java,9,28.0,0,50min,50.0,214,7008.6
+fop,/main/java/org/apache/fop/layoutmgr/StaticContentLayoutManager.java,3,28.0,0,35min,35.0,26,1042.8
+fop,/main/java/org/apache/fop/svg/SVGUtilities.java,4,28.0,0,0,0.0,12,569.1
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPPageSetupElement.java,2,27.0,0,25min,25.0,17,810.0
+fop,/test/java/org/apache/fop/cli/CommandLineOptionsTestCase.java,3,27.0,0,0,0.0,28,698.4
+fop,/main/java/org/apache/fop/layoutmgr/ExternalDocumentLayoutManager.java,2,27.0,0,52min 30s,52.5,25,1262.7
+fop,/main/java/org/apache/fop/fo/FObj.java,10,27.0,0,5h,300.0,114,5768.7
+fop,/main/java/org/apache/fop/fo/properties/IndentPropertyMaker.java,2,27.0,2,3h 22min,202.0,19,743.7
+fop,/main/java/org/apache/fop/fo/properties/LengthRangeProperty.java,3,27.0,0,2h 37min,157.0,38,1122.0
+fop,/main/java/org/apache/fop/pdf/PDFJavaScriptLaunchAction.java,3,27.0,0,37min 30s,37.5,4,116.4
+fop,/main/java/org/apache/fop/pdf/PDFLaunch.java,3,27.0,0,37min 30s,37.5,7,203.7
+fop,/main/java/org/apache/fop/afp/AFPBorderPainter.java,2,26.0,1,1h 7min,67.0,12,1191.6
+fop,/test/java/org/apache/fop/render/afp/AFPRendererConfiguratorTestCase.java,3,26.0,0,0,0.0,139,4533.3
+fop,/main/java/org/apache/fop/render/svg/EmbeddedSVGImageHandler.java,4,26.0,0,42min 30s,42.5,11,789.0
+fop,/test/java/org/apache/fop/afp/goca/GraphicsCharacterStringTestCase.java,4,26.0,0,7min 30s,7.5,25,669.3
+fop,/test/java/org/apache/fop/KnuthAlgorithmTestCase.java,3,26.0,0,7min 30s,7.5,44,1392.0
+fop,/test/java/org/apache/fop/render/ps/ResourceOptimizationTestCase.java,4,26.0,0,15min,15.0,18,810.0
+fop,/test/java/org/apache/fop/accessibility/fo/ArtifactImageBugTestCase.java,2,25.0,0,7min 30s,7.5,34,1341.9
+fop,/test/java/org/apache/fop/render/pdf/BasePDFTest.java,2,25.0,0,55min,55.0,24,743.7
+fop,/test/java/org/apache/fop/complexscripts/bidi/BidiTestData.java,3,25.0,0,17min 30s,17.5,14,598.2
+fop,/main/java/org/apache/fop/layoutmgr/BreakElement.java,2,25.0,0,10min,10.0,16,407.4
+fop,/main/java/org/apache/fop/fo/expr/CIELabColorFunction.java,2,25.0,0,15min,15.0,25,1021.8
+fop,/main/java/org/apache/fop/pdf/CMapBuilder.java,4,25.0,1,17min 30s,17.5,9,635.4
+fop,/main/java/org/apache/fop/fo/expr/CMYKColorFunction.java,2,25.0,0,0,0.0,7,423.6
+fop,/main/java/org/apache/fop/layoutmgr/table/CollapsingBorderModel.java,7,25.0,18,6h 40min,400.0,21,1050.9
+fop,/test/java/org/apache/fop/fo/properties/CommonAccessibilityHolderTestCase.java,4,25.0,0,15min,15.0,32,1063.8
+fop,/main/java/org/apache/fop/area/CTM.java,2,25.0,4,2h 12min,132.0,31,1561.8
+fop,/main/java/org/apache/fop/util/DataURIResolver.java,3,25.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/fo/extensions/ExternalDocument.java,2,25.0,0,22min 30s,22.5,26,756.6
+fop,/main/java/org/apache/fop/afp/apps/FontPatternExtractor.java,3,25.0,0,17min 30s,17.5,25,1021.8
+fop,/main/java/org/apache/fop/svg/font/FOPGVTGlyphVector.java,11,25.0,0,2h 52min,172.0,186,5112.0
+fop,/main/java/org/apache/fop/fo/properties/GenericShorthandParser.java,2,25.0,0,37min 30s,37.5,10,664.5
+fop,/test/java/org/apache/fop/threading/IFProcessorImpl.java,2,25.0,0,15min,15.0,22,582.0
+fop,/main/java/org/apache/fop/fo/flow/InitialPropertySet.java,5,25.0,0,15min,15.0,9,386.4
+fop,/main/java/org/apache/fop/layoutmgr/LMiter.java,5,25.0,0,20min,20.0,7,203.7
+fop,/main/java/org/apache/fop/fo/flow/MultiProperties.java,2,25.0,0,7min 30s,7.5,9,386.4
+fop,/main/java/org/apache/fop/fonts/NamedCharacter.java,2,25.0,0,40min,40.0,10,386.4
+fop,/main/java/org/apache/fop/fo/expr/OCAColorFunction.java,2,25.0,0,0,0.0,7,452.7
+fop,/main/java/org/apache/fop/svg/PDFDocumentGraphics2D.java,2,25.0,0,50min,50.0,22,984.6
+fop,/main/java/org/apache/fop/pdf/PDFGoToRemote.java,2,25.0,0,57min 30s,57.5,9,261.9
+fop,/main/java/org/apache/fop/pdf/PDFSeparationColorSpace.java,2,25.0,0,15min,15.0,4,489.9
+fop,/main/java/org/apache/fop/image/loader/batik/PreloaderWMF.java,2,25.0,0,1h 7min,67.0,26,1607.1
+fop,/main/java/org/apache/fop/render/ps/svg/PSSVGGraphics2D.java,2,25.0,0,10min,10.0,25,984.6
+fop,/main/java/org/apache/fop/render/Renderer.java,3,25.0,0,0,0.0,8,174.6
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfExtraRowSet.java,7,25.0,0,1h 15min,75.0,57,1683.0
+fop,/main/java/org/apache/fop/render/svg/SVGRenderer.java,3,25.0,0,52min 30s,52.5,26,1042.8
+fop,/main/java/org/apache/fop/fo/flow/table/TableCaption.java,2,25.0,3,25min,25.0,12,598.2
+fop,/main/java/org/apache/fop/fo/flow/table/TableCell.java,2,25.0,1,32min 30s,32.5,45,1537.5
+fop,/main/java/org/apache/fop/fo/flow/table/TableColumn.java,2,25.0,0,30min,30.0,28,1005.6
+fop,/main/java/org/apache/fop/fo/flow/table/VariableColRowGroupBuilder.java,6,25.0,0,10min,10.0,10,203.7
+fop,/main/java/org/apache/fop/svg/AbstractFOPBridgeContext.java,4,24.0,0,15min,15.0,6,548.1
+fop,/main/java/org/apache/fop/fo/pagination/PageSequence.java,5,24.0,1,4h 7min,247.0,51,1434.0
+fop,/test/java/org/apache/fop/fo/flow/table/CollapsedConditionalBorderTestCase.java,5,23.0,1,32min 30s,32.5,41,1487.4
+fop,/main/java/org/apache/fop/layoutmgr/inline/FootnoteLayoutManager.java,5,23.0,0,25min,25.0,19,1050.9
+fop,/main/java/org/apache/fop/afp/modca/PresentationTextObject.java,3,23.0,0,47min 30s,47.5,42,1516.5
+fop,/main/java/org/apache/fop/render/RendererContext.java,3,23.0,0,0,0.0,12,203.7
+fop,/main/java/org/apache/fop/render/intermediate/AbstractIFPainter.java,2,22.0,0,2h 10min,130.0,51,1823.7
+fop,/main/java/org/apache/fop/afp/AFPStreamer.java,5,22.0,0,37min 30s,37.5,18,648.3
+fop,/main/java/org/apache/fop/traits/BorderProps.java,2,22.0,0,1h 35min,95.0,64,2546.4
+fop,/main/java/org/apache/fop/fonts/CustomFont.java,9,22.0,0,1h 40min,100.0,86,2871.3
+fop,/main/java/org/apache/fop/tools/EventProducerCollectorTask.java,8,22.0,0,42min 30s,42.5,40,1437.3
+fop,/test/java/org/apache/fop/intermediate/IFTester.java,2,22.0,0,0,0.0,10,203.7
+fop,/main/java/org/apache/fop/apps/io/InternalResourceResolver.java,2,22.0,0,40min,40.0,17,320.1
+fop,/test/java/org/apache/fop/pdf/PDFObjectTestCase.java,2,22.0,0,15min,15.0,32,1071.9
+fop,/main/java/org/apache/fop/layoutmgr/Position.java,2,22.0,0,57min 30s,57.5,12,174.6
+fop,/main/java/org/apache/fop/image/loader/batik/PreloaderSVG.java,2,22.0,0,1h 45min,105.0,38,1898.1
+fop,/test/java/org/apache/fop/render/afp/AFPRendererConfigParserTestCase.java,6,21.0,0,15min,15.0,113,4851.9
+fop,/test/java/org/apache/fop/fonts/type1/CharMetricsHandlerTestCase.java,2,21.0,0,7min 30s,7.5,19,714.6
+fop,/main/java/org/apache/fop/svg/text/ComplexGlyphLayout.java,2,21.0,1,10min,10.0,19,685.5
+fop,/test/java/org/apache/fop/pdf/FileIDGeneratorTestCase.java,2,21.0,0,0,0.0,47,1603.8
+fop,/main/java/org/apache/fop/area/LineArea.java,3,21.0,0,47min 30s,47.5,28,822.9
+fop,/main/java/org/apache/fop/fo/properties/ListProperty.java,2,21.0,0,47min 30s,47.5,15,598.2
+fop,/test/java/org/apache/fop/fo/flow/MarkersTestCase.java,12,21.0,0,15min,15.0,12,693.6
+fop,/test/java/org/apache/fop/render/pcl/fonts/PCLTTFFontReaderTestCase.java,4,21.0,0,32min 30s,32.5,54,1894.8
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFArrayElement.java,6,21.0,0,7min 30s,7.5,32,852.0
+fop,/main/java/org/apache/fop/fonts/Typeface.java,2,21.0,0,15min,15.0,17,569.1
+fop,/main/java/org/apache/fop/layoutmgr/WhitespaceManagementPenalty.java,2,21.0,0,15min,15.0,42,1092.9
+fop,/main/java/org/apache/fop/afp/modca/AbstractAFPObject.java,2,20.0,0,15min,15.0,28,1350.0
+fop,/test/java/org/apache/fop/AbstractBasicTranscoderTest.java,1,20.0,0,0,0.0,8,423.6
+fop,/main/java/org/apache/fop/afp/goca/AbstractGraphicsCoord.java,1,20.0,0,15min,15.0,6,423.6
+fop,/main/java/org/apache/fop/render/ps/extensions/AbstractPSExtensionElement.java,1,20.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/render/ps/extensions/AbstractPSExtensionObject.java,1,20.0,0,0,0.0,7,203.7
+fop,/test/java/org/apache/fop/fo/flow/table/AbstractTableTest.java,1,20.0,0,7min 30s,7.5,23,619.2
+fop,/main/java/org/apache/fop/fonts/type1/AFMCharMetrics.java,1,20.0,0,0,0.0,10,232.8
+fop,/main/java/org/apache/fop/afp/svg/AFPBridgeContext.java,2,20.0,0,15min,15.0,10,232.8
+fop,/main/java/org/apache/fop/afp/svg/AFPTextHandler.java,2,20.0,0,25min,25.0,9,357.3
+fop,/test/java/org/apache/fop/render/intermediate/ArcToBezierCurveTransformerTestCase.java,4,20.0,0,15min,15.0,23,926.4
+fop,/main/java/org/apache/fop/cli/AreaTreeInputHandler.java,1,20.0,0,0,0.0,10,481.8
+fop,/main/java/org/apache/fop/area/AreaTreeModel.java,6,20.0,0,0,0.0,9,203.7
+fop,/test/java/org/apache/fop/intermediate/AreaTreeParserTestCase.java,1,20.0,3,17min 30s,17.5,22,1204.5
+fop,/main/java/org/apache/fop/pdf/ASCII85Filter.java,1,20.0,0,20min,20.0,4,365.4
+fop,/main/java/org/apache/fop/pdf/ASCIIHexFilter.java,1,20.0,0,20min,20.0,4,365.4
+fop,/test/java/org/apache/fop/apps/io/BaseURIResolutionTest.java,1,20.0,0,7min 30s,7.5,35,881.1
+fop,/main/java/org/apache/fop/fo/extensions/svg/BatikExtensionElementMapping.java,2,20.0,0,37min 30s,37.5,30,1569.9
+fop,/main/java/org/apache/fop/complexscripts/bidi/BidiClass.java,1,20.0,1,1h 20min,80.0,16,751.8
+fop,/test/java/org/apache/fop/complexscripts/bidi/BidiClassTestCase.java,1,20.0,0,0,0.0,21,992.7
+fop,/test/java/org/apache/fop/util/BitmapImageUtilTestCase.java,1,20.0,0,30min,30.0,43,1574.7
+fop,/main/java/org/apache/fop/layoutmgr/BorderElement.java,1,20.0,0,15min,15.0,6,423.6
+fop,/test/java/org/apache/fop/render/rtf/Bug39607TestCase.java,1,20.0,0,0,0.0,8,481.8
+fop,/main/java/org/apache/fop/fonts/type1/CharMetricsHandler.java,1,20.0,0,20min,20.0,54,1442.1
+fop,/main/java/org/apache/fop/complexscripts/util/CharMirror.java,1,20.0,0,30min,30.0,12,386.4
+fop,/main/java/org/apache/fop/util/text/ChoiceFieldPart.java,1,20.0,0,0,0.0,14,751.8
+fop,/main/java/org/apache/fop/fo/properties/CommonAbsolutePosition.java,6,20.0,0,15min,15.0,8,855.3
+fop,/main/java/org/apache/fop/fo/flow/table/ConditionalBorder.java,2,20.0,0,15min,15.0,16,780.9
+fop,/test/java/org/apache/fop/render/java2d/ConfiguredFontCollectionTestCase.java,5,20.0,0,7min 30s,7.5,23,897.3
+fop,/test/java/org/apache/fop/util/ConsoleEventListenerForTests.java,2,20.0,0,1h 5min,65.0,12,386.4
+fop,/test/java/org/apache/fop/pdf/xref/CrossReferenceObjectTest.java,2,20.0,0,17min 30s,17.5,49,1873.8
+fop,/test/java/org/apache/fop/fonts/DejaVuLGCSerifTestCase.java,1,20.0,0,0,0.0,18,378.3
+fop,/main/java/org/apache/fop/fo/flow/table/EffRow.java,2,20.0,0,1h 5min,65.0,20,1204.5
+fop,/main/java/org/apache/fop/fonts/EmbedFontInfo.java,2,20.0,0,45min,45.0,21,494.7
+fop,/main/java/org/apache/fop/datatypes/FODimension.java,3,20.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/fonts/FontLoader.java,1,20.0,0,7min 30s,7.5,16,905.4
+fop,/main/java/org/apache/fop/fonts/FontUtil.java,2,20.0,0,45min,45.0,10,481.8
+fop,/main/java/org/apache/fop/util/text/GlyphNameFieldPart.java,1,20.0,0,10min,10.0,15,751.8
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphSubtable.java,3,20.0,0,3h 25min,205.0,21,714.6
+fop,/main/java/org/apache/fop/render/ps/Gradient.java,1,20.0,0,0,0.0,20,963.6
+fop,/main/java/org/apache/fop/afp/goca/GraphicsCharacterString.java,1,20.0,0,37min 30s,37.5,9,357.3
+fop,/main/java/org/apache/fop/render/intermediate/GraphicsPainter.java,1,20.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/fo/flow/table/GridUnit.java,3,20.0,13,4h 35min,275.0,41,1715.4
+fop,/test/java/org/apache/fop/fo/flow/table/HeaderColumnTestCase.java,1,20.0,0,0,0.0,42,1238.4
+fop,/main/java/org/apache/fop/util/text/HexFieldPart.java,1,20.0,0,0,0.0,11,664.5
+fop,/main/java/org/apache/fop/hyphenation/Hyphen.java,4,20.0,0,17min 30s,17.5,5,519.0
+fop,/main/java/org/apache/fop/hyphenation/Hyphenation.java,1,20.0,0,0,0.0,8,232.8
+fop,/main/java/org/apache/fop/hyphenation/HyphenationTreeCache.java,1,20.0,0,30min,30.0,4,116.4
+fop,/main/java/org/apache/fop/util/text/IfFieldPart.java,1,20.0,0,30min,30.0,7,548.1
+fop,/main/java/org/apache/fop/cli/IFInputHandler.java,1,20.0,0,0,0.0,10,481.8
+fop,/test/java/org/apache/fop/intermediate/IFParserTestCase.java,1,20.0,3,10min,10.0,20,1146.3
+fop,/main/java/org/apache/fop/render/ps/ImageEncoderPNG.java,4,20.0,0,17min 30s,17.5,14,1125.3
+fop,/main/java/org/apache/fop/cli/ImageInputHandler.java,1,20.0,0,0,0.0,7,548.1
+fop,/main/java/org/apache/fop/render/awt/viewer/ImageProxyPanel.java,4,20.0,0,0,0.0,11,569.1
+fop,/main/java/org/apache/fop/afp/modca/IncludeObject.java,1,20.0,1,42min 30s,42.5,20,743.7
+fop,/test/java/org/apache/fop/afp/modca/IncludeObjectTestCase.java,1,20.0,1,17min 30s,17.5,32,1686.3
+fop,/main/java/org/apache/fop/fo/flow/InlineContainer.java,1,20.0,0,22min 30s,22.5,110,3378.9
+fop,/main/java/org/apache/fop/layoutmgr/KnuthBox.java,1,20.0,0,7min 30s,7.5,6,394.5
+fop,/main/java/org/apache/fop/layoutmgr/KnuthGlue.java,1,20.0,0,7min 30s,7.5,8,174.6
+fop,/main/java/org/apache/fop/layoutmgr/KnuthPenalty.java,2,20.0,0,42min 30s,42.5,16,320.1
+fop,/main/java/org/apache/fop/util/LanguageTags.java,1,20.0,0,20min,20.0,8,548.1
+fop,/main/java/org/apache/fop/layoutmgr/LayoutManager.java,1,20.0,0,0,0.0,21,211.8
+fop,/main/java/org/apache/fop/layoutmgr/LeafPosition.java,1,20.0,0,7min 30s,7.5,6,116.4
+fop,/main/java/org/apache/fop/util/text/LocatorFormatter.java,1,20.0,0,0,0.0,5,519.0
+fop,/test/java/org/apache/fop/threading/Main.java,3,20.0,0,7min 30s,7.5,17,876.3
+fop,/main/java/org/apache/fop/layoutmgr/MultiCaseLayoutManager.java,1,20.0,0,7min 30s,7.5,23,743.7
+fop,/main/java/org/apache/fop/fo/flow/MultiSwitch.java,4,20.0,0,7min 30s,7.5,10,415.5
+fop,/test/java/org/apache/fop/svg/NativeTextPainterTest.java,1,20.0,0,0,0.0,36,1092.9
+fop,/main/java/org/apache/fop/layoutmgr/NonLeafPosition.java,1,20.0,0,0,0.0,5,116.4
+fop,/test/java/org/apache/fop/fonts/truetype/OTFFileTestCase.java,1,20.0,0,0,0.0,19,743.7
+fop,/main/java/org/apache/fop/layoutmgr/PaddingElement.java,1,20.0,0,15min,15.0,6,423.6
+fop,/main/java/org/apache/fop/afp/modca/PageDescriptor.java,1,20.0,0,15min,15.0,7,577.2
+fop,/main/java/org/apache/fop/render/pcl/fonts/PCLFontReader.java,2,20.0,0,0,0.0,109,3516.3
+fop,/test/java/org/apache/fop/render/pcl/fonts/PCLFontReaderFactoryTestCase.java,1,20.0,0,0,0.0,14,502.8
+fop,/main/java/org/apache/fop/pdf/PDFCFFStream.java,1,20.0,0,27min 30s,27.5,26,640.2
+fop,/main/java/org/apache/fop/pdf/PDFCFFStreamType0C.java,1,20.0,0,27min 30s,27.5,14,531.9
+fop,/main/java/org/apache/fop/pdf/PDFCIDSystemInfo.java,1,20.0,0,0,0.0,9,261.9
+fop,/main/java/org/apache/fop/pdf/PDFCIELabColorSpace.java,1,20.0,0,15min,15.0,11,664.5
+fop,/test/java/org/apache/fop/render/pdf/PDFCMapTestCase.java,1,20.0,0,7min 30s,7.5,15,569.1
+fop,/main/java/org/apache/fop/pdf/PDFDeviceColorSpace.java,1,20.0,5,2h 17min,137.0,9,299.1
+fop,/main/java/org/apache/fop/svg/PDFDocumentGraphics2DConfigurator.java,3,20.0,0,7min 30s,7.5,10,452.7
+fop,/test/java/org/apache/fop/pdf/PDFParentTreeTestCase.java,1,20.0,0,0,0.0,18,839.1
+fop,/main/java/org/apache/fop/render/pdf/PDFRendererOption.java,1,20.0,0,20min,20.0,114,5109.0
+fop,/main/java/org/apache/fop/pdf/PDFShading.java,2,20.0,0,4h,240.0,9,328.2
+fop,/main/java/org/apache/fop/render/pdf/PDFSVGHandler.java,17,20.0,0,30min,30.0,22,2574.0
+fop,/main/java/org/apache/fop/fo/properties/PercentLength.java,1,20.0,0,47min 30s,47.5,15,627.3
+fop,/main/java/org/apache/fop/fonts/type1/PFMInputStream.java,2,20.0,0,0,0.0,9,730.8
+fop,/org/apache/fop/plan/PlanElement.java,1,20.0,0,17min 30s,17.5,14,502.8
+fop,/main/java/org/apache/fop/layoutmgr/PositionIterator.java,4,20.0,0,40min,40.0,20,685.5
+fop,/main/java/org/apache/fop/afp/modca/PresentationTextDescriptor.java,1,20.0,0,15min,15.0,7,577.2
+fop,/test/java/org/apache/fop/threading/Processor.java,1,20.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fo/expr/PropertyInfo.java,1,20.0,0,10min,10.0,15,349.2
+fop,/test/java/org/apache/fop/render/ps/PSBorderPainterTestCase.java,1,20.0,0,0,0.0,19,465.6
+fop,/main/java/org/apache/fop/render/ps/PSGraphics2DAdapter.java,1,20.0,0,15min,15.0,13,349.2
+fop,/main/java/org/apache/fop/render/ps/PSImageHandlerGraphics2D.java,1,20.0,0,40min,40.0,46,1728.3
+fop,/main/java/org/apache/fop/render/ps/extensions/PSSetPageDevice.java,1,20.0,3,10min,10.0,3,211.8
+fop,/main/java/org/apache/fop/render/ps/extensions/PSSetupCode.java,1,20.0,3,10min,10.0,3,211.8
+fop,/main/java/org/apache/fop/afp/modca/Registry.java,4,20.0,0,15min,15.0,29,1408.2
+fop,/test/java/org/apache/fop/layoutengine/ResultCheck.java,1,20.0,0,0,0.0,12,291.0
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfStringConverter.java,2,20.0,0,35min,35.0,15,876.3
+fop,/main/java/org/apache/fop/fo/flow/table/SeparateBorderResolver.java,4,20.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/layoutmgr/SpaceElement.java,1,20.0,0,15min,15.0,7,203.7
+fop,/main/java/org/apache/fop/fo/extensions/svg/SVGElementMapping.java,1,20.0,0,27min 30s,27.5,29,1540.8
+fop,/main/java/org/apache/fop/render/svg/SVGUtil.java,1,20.0,0,0,0.0,8,548.1
+fop,/main/java/org/apache/fop/layoutmgr/table/TableContentPosition.java,1,20.0,0,15min,15.0,16,531.9
+fop,/main/java/org/apache/fop/layoutmgr/table/TableHeaderFooterPosition.java,1,20.0,0,0,0.0,5,116.4
+fop,/main/java/org/apache/fop/layoutmgr/table/TableHFPenaltyPosition.java,1,20.0,0,0,0.0,7,423.6
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/TestDocument.java,3,20.0,0,7min 30s,7.5,37,1151.1
+fop,/main/java/org/apache/fop/complexscripts/bidi/TextInterval.java,1,20.0,0,1h 42min,102.0,54,1404.9
+fop,/test/java/org/apache/fop/complexscripts/fonts/ttx/TTXFileTestCase.java,1,20.0,0,0,0.0,17,780.9
+fop,/main/java/org/apache/fop/render/txt/TXTStream.java,1,20.0,0,10min,10.0,10,291.0
+fop,/main/java/org/apache/fop/layoutmgr/UnresolvedListElementWithLength.java,1,20.0,0,7min 30s,7.5,14,407.4
+fop,/main/java/org/apache/fop/Version.java,1,20.0,0,0,0.0,6,365.4
+fop,/main/java/org/apache/fop/fo/properties/WhiteSpaceShorthandParser.java,2,20.0,7,1h 50min,110.0,4,365.4
+fop,/main/java/org/apache/fop/fo/flow/table/CollapsingBorderResolver.java,7,19.0,0,1h,60.0,102,6682.2
+fop,/main/java/org/apache/fop/fo/properties/FontFamilyProperty.java,2,19.0,0,1h 15min,75.0,10,759.9
+fop,/test/java/org/apache/fop/fonts/CIDSubsetTestCase.java,5,18.0,2,35min,35.0,45,1595.7
+fop,/test/java/org/apache/fop/pdf/xref/CrossReferenceStreamTestCase.java,6,18.0,0,15min,15.0,56,1587.6
+fop,/main/java/org/apache/fop/apps/FopFactory.java,5,18.0,0,15min,15.0,35,1071.9
+fop,/main/java/org/apache/fop/layoutmgr/PageProvider.java,2,18.0,0,2h 27min,147.0,87,2879.4
+fop,/main/java/org/apache/fop/pdf/PDFFunction.java,2,18.0,0,4h 10min,250.0,21,714.6
+fop,/test/java/org/apache/fop/render/intermediate/SAXEventRecorderTestCase.java,2,18.0,0,7min 30s,7.5,31,735.6
+fop,/test/java/org/apache/fop/fonts/truetype/TTFFileTestCase.java,8,18.0,0,1h 47min,107.0,52,2239.2
+fop,/main/java/org/apache/fop/render/afp/AFPRendererConfig.java,6,17.0,0,42min 30s,42.5,132,3503.4
+fop,/test/java/org/apache/fop/fotreetest/ext/AssertElement.java,2,17.0,0,22min 30s,22.5,5,394.5
+fop,/main/java/org/apache/fop/fo/flow/table/FixedColRowGroupBuilder.java,5,17.0,0,7min 30s,7.5,27,1101.0
+fop,/main/java/org/apache/fop/tools/fontlist/FontListGenerator.java,3,17.0,0,7min 30s,7.5,18,868.2
+fop,/main/java/org/apache/fop/layoutmgr/inline/InlineContainerLayoutManager.java,5,17.0,7,3h 47min,227.0,125,3349.8
+fop,/main/java/org/apache/fop/render/pcl/fonts/PCLCharacterDefinition.java,9,17.0,0,7min 30s,7.5,64,1812.3
+fop,/main/java/org/apache/fop/pdf/PDFDestination.java,3,17.0,0,30min,30.0,10,261.9
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFDictionaryAttachment.java,2,17.0,0,32min 30s,32.5,41,1429.2
+fop,/main/java/org/apache/fop/render/XMLHandlerRegistry.java,5,17.0,0,10min,10.0,13,378.3
+fop,/test/java/org/apache/fop/fonts/EmbedFontInfoTestCase.java,7,16.0,0,7min 30s,7.5,33,785.7
+fop,/main/java/org/apache/fop/fo/properties/FixedLength.java,3,16.0,0,1h 12min,72.0,12,818.1
+fop,/test/java/org/apache/fop/apps/io/FontURIResolver.java,3,16.0,0,30min,30.0,45,1333.8
+fop,/main/java/org/apache/fop/apps/FopFactoryBuilder.java,3,16.0,0,22min 30s,22.5,259,8339.1
+fop,/main/java/org/apache/fop/fonts/truetype/GlyfTable.java,8,16.0,0,10min,10.0,42,1823.7
+fop,/main/java/org/apache/fop/area/IDTracker.java,8,16.0,0,1h,60.0,14,502.8
+fop,/main/java/org/apache/fop/events/LoggingEventListener.java,3,16.0,0,15min,15.0,10,415.5
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFDictionaryType.java,8,16.0,0,30min,30.0,26,706.5
+fop,/main/java/org/apache/fop/fonts/SingleByteFont.java,8,16.0,0,3h 37min,217.0,109,3893.1
+fop,/test/java/org/apache/fop/intermediate/AbstractIFTest.java,2,15.0,0,17min 30s,17.5,21,772.8
+fop,/test/java/org/apache/fop/fonts/type1/AdobeStandardEncodingTestCase.java,2,15.0,0,0,0.0,21,743.7
+fop,/main/java/org/apache/fop/render/afp/AFPForeignAttributeReader.java,3,15.0,0,7min 30s,7.5,9,510.9
+fop,/test/java/org/apache/fop/render/afp/AFPTrueTypeTestCase.java,2,15.0,0,22min 30s,22.5,68,2575.5
+fop,/main/java/org/apache/fop/fo/flow/BidiOverride.java,3,15.0,0,17min 30s,17.5,17,465.6
+fop,/test/java/org/apache/fop/visual/BitmapProducerJava2D.java,4,15.0,0,35min,35.0,16,502.8
+fop,/main/java/org/apache/fop/fo/pagination/bookmarks/Bookmark.java,2,15.0,0,25min,25.0,20,706.5
+fop,/main/java/org/apache/fop/fo/pagination/bookmarks/BookmarkTree.java,2,15.0,0,7min 30s,7.5,7,203.7
+fop,/main/java/org/apache/fop/render/rtf/BorderAttributesConverter.java,3,15.0,1,2h 22min,142.0,9,884.4
+fop,/main/java/org/apache/fop/render/txt/border/DashedBorderElement.java,1,15.0,0,0,0.0,12,722.7
+fop,/main/java/org/apache/fop/fonts/DefaultFontConfigurator.java,5,15.0,0,32min 30s,32.5,36,1524.6
+fop,/main/java/org/apache/fop/accessibility/DummyStructureTreeEventHandler.java,3,15.0,0,7min 30s,7.5,4,211.8
+fop,/main/java/org/apache/fop/fo/flow/Float.java,3,15.0,0,7min 30s,7.5,26,698.4
+fop,/main/java/org/apache/fop/apps/Fop.java,2,15.0,0,10min,10.0,10,261.9
+fop,/main/java/org/apache/fop/render/Graphics2DAdapter.java,2,15.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/render/Graphics2DImagePainter.java,2,15.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/svg/GraphicsConfiguration.java,3,15.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/render/pdf/ImageRawJPEGAdapter.java,4,15.0,4,57min 30s,57.5,9,510.9
+fop,/main/java/org/apache/fop/render/java2d/Java2DFontMetrics.java,3,15.0,0,30min,30.0,43,1852.8
+fop,/main/java/org/apache/fop/fo/expr/NumericProperty.java,2,15.0,0,57min 30s,57.5,16,780.9
+fop,/test/java/org/apache/fop/pdf/xref/ObjectReferenceTest.java,1,15.0,0,0,0.0,24,1080.0
+fop,/main/java/org/apache/fop/pdf/PDFFont.java,3,15.0,0,2h 5min,125.0,13,1000.8
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFObjectExtension.java,3,15.0,0,1h 40min,100.0,28,735.6
+fop,/main/java/org/apache/fop/util/QName.java,2,15.0,0,0,0.0,3,211.8
+fop,/main/java/org/apache/fop/afp/fonts/RasterFont.java,6,15.0,0,1h 32min,92.0,29,793.8
+fop,/main/java/org/apache/fop/afp/modca/ResourceEnvironmentGroup.java,3,15.0,0,15min,15.0,8,481.8
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfBookmark.java,3,15.0,0,17min 30s,17.5,6,299.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfListStyle.java,3,15.0,0,7min 30s,7.5,5,145.5
+fop,/main/java/org/apache/fop/render/gradient/Shading.java,3,15.0,0,7min 30s,7.5,57,1396.8
+fop,/main/java/org/apache/fop/svg/SimpleSVGUserAgent.java,3,15.0,0,0,0.0,16,465.6
+fop,/main/java/org/apache/fop/render/afp/AFPRendererConfigurator.java,4,14.0,0,40min,40.0,36,1122.0
+fop,/main/java/org/apache/fop/fo/properties/PageDimensionMaker.java,1,14.0,0,55min,55.0,6,548.1
+fop,/main/java/org/apache/fop/pdf/PDFEncryptionManager.java,4,14.0,0,1h 50min,110.0,6,270.0
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFObjectType.java,7,14.0,0,30min,30.0,19,531.9
+fop,/main/java/org/apache/fop/svg/PDFTranscoder.java,5,14.0,0,17min 30s,17.5,15,913.5
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/BasicLink.java,2,13.0,0,7min 30s,7.5,8,606.3
+fop,/main/java/org/apache/fop/area/BookmarkData.java,4,13.0,0,7min 30s,7.5,21,955.5
+fop,/main/java/org/apache/fop/render/ImageHandlerRegistry.java,5,13.0,0,10min,10.0,15,407.4
+fop,/main/java/org/apache/fop/fo/pagination/LayoutMasterSet.java,5,13.0,0,27min 30s,27.5,22,552.9
+fop,/main/java/org/apache/fop/text/linebreak/LineBreakStatus.java,3,13.0,14,4h 57min,297.0,5,145.5
+fop,/main/java/org/apache/fop/fo/pagination/PageSequenceMaster.java,4,13.0,0,17min 30s,17.5,30,814.8
+fop,/main/java/org/apache/fop/render/pdf/PDFImageHandlerSVG.java,3,13.0,0,57min 30s,57.5,26,1080.0
+fop,/main/java/org/apache/fop/render/svg/SVGSVGHandler.java,2,13.0,0,15min,15.0,8,606.3
+fop,/main/java/org/apache/fop/afp/fonts/DoubleByteFont.java,5,12.0,0,57min 30s,57.5,35,1341.9
+fop,/main/java/org/apache/fop/fo/ElementMappingRegistry.java,4,12.0,0,20min,20.0,9,357.3
+fop,/main/java/org/apache/fop/fo/properties/FontWeightPropertyMaker.java,1,12.0,0,1h,60.0,9,884.4
+fop,/test/java/org/apache/fop/svg/font/FOPFontFamilyResolverTestCase.java,2,12.0,0,7min 30s,7.5,43,931.2
+fop,/main/java/org/apache/fop/render/intermediate/IFStructureTreeBuilder.java,3,12.0,0,7min 30s,7.5,149,3715.2
+fop,/main/java/org/apache/fop/afp/fonts/IntegerKeyStore.java,3,12.0,0,0,0.0,5,270.0
+fop,/test/java/org/apache/fop/render/afp/NoOperationTestCase.java,2,12.0,0,25min,25.0,24,955.5
+fop,/main/java/org/apache/fop/pdf/PDFFormXObject.java,1,12.0,0,1h 2min,62.0,10,261.9
+fop,/main/java/org/apache/fop/pdf/PDFOutline.java,2,12.0,0,15min,15.0,27,976.5
+fop,/main/java/org/apache/fop/fo/properties/ToBeImplementedProperty.java,3,12.0,0,10min,10.0,19,1059.0
+fop,/main/java/org/apache/fop/fonts/AbstractCodePointMapping.java,1,11.0,0,57min 30s,57.5,24,889.2
+fop,/main/java/org/apache/fop/area/CachedRenderPagesModel.java,3,11.0,0,15min,15.0,11,540.0
+fop,/test/java/org/apache/fop/render/extensions/DocumentNavigationHandlerTestCase.java,4,11.0,0,30min,30.0,32,1291.8
+fop,/main/java/org/apache/fop/fo/properties/EnumNumber.java,2,11.0,0,27min 30s,27.5,9,357.3
+fop,/main/java/org/apache/fop/tools/EventProducerCollector.java,3,11.0,0,25min,25.0,28,1130.1
+fop,/main/java/org/apache/fop/area/inline/FilledArea.java,3,11.0,0,7min 30s,7.5,5,270.0
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphSubstitutionSubtable.java,1,11.0,0,50min,50.0,14,635.4
+fop,/test/java/org/apache/fop/pdf/PDFArrayTestCase.java,2,11.0,0,52min 30s,52.5,40,1392.0
+fop,/main/java/org/apache/fop/pdf/PDFGoTo.java,2,11.0,0,1h 15min,75.0,11,415.5
+fop,/test/java/org/apache/fop/fotreetest/ResultCollector.java,2,11.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfLeader.java,3,11.0,0,42min 30s,42.5,14,627.3
+fop,/main/java/org/apache/fop/render/AbstractFOEventHandlerMaker.java,1,10.0,0,10min,10.0,3,336.3
+fop,/main/java/org/apache/fop/fonts/apps/AbstractFontReader.java,2,10.0,0,0,0.0,10,481.8
+fop,/main/java/org/apache/fop/render/intermediate/AbstractIFDocumentHandlerMaker.java,1,10.0,0,17min 30s,17.5,7,365.4
+fop,/main/java/org/apache/fop/render/AbstractRendererMaker.java,1,10.0,0,17min 30s,17.5,10,423.6
+fop,/main/java/org/apache/fop/render/svg/AbstractSVGDocumentHandler.java,2,10.0,0,15min,15.0,19,868.2
+fop,/main/java/org/apache/fop/accessibility/Accessibility.java,1,10.0,0,7min 30s,7.5,4,211.8
+fop,/main/java/org/apache/fop/afp/AFPConstants.java,1,10.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/afp/AFPGraphicsObjectInfo.java,2,10.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPPageSetup.java,1,10.0,0,7min 30s,7.5,6,116.4
+fop,/main/java/org/apache/fop/render/afp/AFPRendererContextConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/afp/AFPShadingMode.java,2,10.0,0,20min,20.0,11,291.0
+fop,/test/java/org/apache/fop/complexscripts/scripts/arabic/ArabicWordFormsConstants.java,3,10.0,0,0,0.0,10,291.0
+fop,/test/java/org/apache/fop/threading/AvalonAdapter.java,2,10.0,0,0,0.0,13,598.2
+fop,/main/java/org/apache/fop/image/loader/batik/BatikImageFlavors.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/complexscripts/bidi/BidiConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/pdf/BitmapImage.java,2,10.0,0,7min 30s,7.5,26,727.5
+fop,/main/java/org/apache/fop/fo/properties/BoxPropShorthandParser.java,2,10.0,0,20min,20.0,6,423.6
+fop,/main/java/org/apache/fop/fo/Constants.java,1,10.0,0,0,0.0,47,1367.7
+fop,/main/java/org/apache/fop/render/intermediate/extensions/DocumentNavigationExtensionConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/DummyTableColumnsInfo.java,3,10.0,0,0,0.0,18,627.3
+fop,/test/java/org/apache/fop/layoutengine/ElementListCollector.java,1,10.0,0,0,0.0,13,320.1
+fop,/main/java/org/apache/fop/pdf/FileIDGenerator.java,1,10.0,0,0,0.0,46,1362.9
+fop,/main/java/org/apache/fop/layoutmgr/inline/FloatLayoutManager.java,1,10.0,0,7min 30s,7.5,30,756.6
+fop,/main/java/org/apache/fop/fonts/FontCacheManagerFactory.java,1,10.0,0,10min,10.0,49,1670.1
+fop,/main/java/org/apache/fop/fo/properties/FontStretchPropertyMaker.java,2,10.0,0,47min 30s,47.5,9,635.4
+fop,/main/java/org/apache/fop/apps/FopFactoryConfig.java,2,10.0,0,10min,10.0,6,174.6
+fop,/main/java/org/apache/fop/render/gradient/Function.java,2,10.0,0,1h 52min,112.0,77,2169.6
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphDefinitionSubtable.java,2,10.0,0,55min,55.0,4,365.4
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IBorderAttributes.java,2,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/intermediate/IFConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/afp/ioca/ImageOutputControl.java,1,10.0,0,15min,15.0,8,481.8
+fop,/main/java/org/apache/fop/layoutmgr/InlineKnuthSequence.java,2,10.0,0,20min,20.0,11,540.0
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/ITableAttributes.java,7,10.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/ITableColumnsInfo.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/java2d/Java2DRendererContextConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/layoutmgr/KnuthBlockBox.java,8,10.0,0,7min 30s,7.5,17,436.5
+fop,/main/java/org/apache/fop/apps/MimeConstants.java,1,10.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/area/OffDocumentItem.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fonts/truetype/OFTableName.java,1,10.0,0,37min 30s,37.5,24,926.4
+fop,/main/java/org/apache/fop/render/pcl/PCLConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/pcl/fonts/PCLFontReaderFactory.java,2,10.0,0,20min,20.0,17,934.5
+fop,/main/java/org/apache/fop/render/pcl/PCLRendererContextConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/svg/PDFBridgeContext.java,2,10.0,0,7min 30s,7.5,9,635.4
+fop,/test/java/org/apache/fop/pdf/PDFDictionaryTestCase.java,1,10.0,0,7min 30s,7.5,17,465.6
+fop,/main/java/org/apache/fop/render/pdf/PDFDocumentNavigationHandler.java,3,10.0,0,1h 32min,92.0,50,1998.3
+fop,/main/java/org/apache/fop/pdf/PDFInfo.java,3,10.0,0,47min 30s,47.5,17,465.6
+fop,/main/java/org/apache/fop/render/pdf/PDFRendererContextConstants.java,1,10.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/pdf/PDFStructElem.java,5,10.0,0,32min 30s,32.5,70,2376.6
+fop,/org/apache/fop/plan/PlanHints.java,1,10.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/render/ps/PSBridgeContext.java,4,10.0,0,7min 30s,7.5,7,577.2
+fop,/main/java/org/apache/fop/render/ps/PSFontResource.java,1,10.0,0,0,0.0,16,847.2
+fop,/main/java/org/apache/fop/render/ps/PSRendererContextConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/ps/PSSupportedFlavors.java,5,10.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/afp/ptoca/PtocaBuilder.java,2,10.0,0,1h 40min,100.0,40,1246.5
+fop,/main/java/org/apache/fop/afp/ptoca/PtocaConstants.java,2,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/RendererContextConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfElement.java,3,10.0,0,57min 30s,57.5,46,1831.8
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfListStyleText.java,2,10.0,0,0,0.0,10,789.0
+fop,/main/java/org/apache/fop/render/rtf/RTFPlaceHolderHelper.java,2,10.0,0,0,0.0,11,291.0
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfSection.java,2,10.0,0,7min 30s,7.5,48,1259.4
+fop,/main/java/org/apache/fop/fonts/SingleByteEncoding.java,1,10.0,0,0,0.0,4,29.1
+fop,/main/java/org/apache/fop/render/svg/SVGConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/svg/SVGDataUrlImageHandler.java,1,10.0,0,15min,15.0,11,386.4
+fop,/main/java/org/apache/fop/render/svg/SVGRendererContextConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/pdf/TempFileStreamCache.java,2,10.0,0,20min,20.0,10,510.9
+fop,/main/java/org/apache/fop/afp/ioca/TileSize.java,2,10.0,0,0,0.0,16,963.6
+fop,/main/java/org/apache/fop/pdf/xref/TrailerDictionary.java,2,10.0,0,10min,10.0,19,523.8
+fop,/main/java/org/apache/fop/afp/modca/triplets/Triplet.java,1,10.0,0,0,0.0,41,1193.1
+fop,/main/java/org/apache/fop/pdf/Version.java,1,10.0,0,10min,10.0,10,203.7
+fop,/test/java/org/apache/fop/pdf/VersionControllerTestCase.java,1,10.0,0,0,0.0,21,743.7
+fop,/main/java/org/apache/fop/util/XMLConstants.java,1,10.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/pdf/PDFLink.java,3,9.0,0,47min 30s,47.5,23,860.1
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPPageSegmentElement.java,1,8.0,0,22min 30s,22.5,17,693.6
+fop,/main/java/org/apache/fop/render/pdf/CTMHelper.java,1,8.0,0,0,0.0,15,847.2
+fop,/main/java/org/apache/fop/fo/properties/EnumProperty.java,3,8.0,0,40min,40.0,21,934.5
+fop,/main/java/org/apache/fop/afp/ioca/ImageCellPosition.java,4,8.0,0,7min 30s,7.5,4,116.4
+fop,/main/java/org/apache/fop/area/inline/InlineParent.java,3,8.0,1,25min,25.0,30,793.8
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFEmbeddedFileAttachment.java,1,8.0,0,0,0.0,3,87.3
+fop,/test/java/org/apache/fop/pdf/PDFFactoryTestCase.java,1,8.0,0,45min,45.0,51,2226.3
+fop,/test/java/org/apache/fop/pdf/PDFNameTestCase.java,1,8.0,0,7min 30s,7.5,27,1013.7
+fop,/test/java/org/apache/fop/pdf/PDFNumberTestCase.java,1,8.0,0,22min 30s,22.5,27,1379.1
+fop,/main/java/org/apache/fop/pdf/PDFRoot.java,2,8.0,0,35min,35.0,27,1225.5
+fop,/main/java/org/apache/fop/fo/properties/PositionShorthandParser.java,1,8.0,7,2h 27min,147.0,3,336.3
+fop,mples/embedding/java/embedding/model/ProjectTeamXMLReader.java,1,8.0,null,null,null,null,null
+fop,/test/java/org/apache/fop/svg/PSTextPainterTestCase.java,1,8.0,0,0,0.0,31,1138.2
+fop,/main/java/org/apache/fop/afp/modca/AbstractResourceGroupContainer.java,2,7.0,0,45min,45.0,12,473.7
+fop,/test/java/org/apache/fop/afp/modca/AbstractTripletStructuredObjectTest.java,3,7.0,0,0,0.0,22,801.9
+fop,/main/java/org/apache/fop/render/afp/AFPSVGHandler.java,2,7.0,0,25min,25.0,24,889.2
+fop,/main/java/org/apache/fop/fo/pagination/ConditionalPageMasterReference.java,1,7.0,0,15min,15.0,20,552.9
+fop,/main/java/org/apache/fop/util/ContentHandlerFactoryRegistry.java,2,7.0,0,0,0.0,9,261.9
+fop,/main/java/org/apache/fop/events/EventFormatter.java,2,7.0,0,0,0.0,55,1969.2
+fop,/main/java/org/apache/fop/image/loader/batik/GenericFOPImageElementBridge.java,2,7.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/render/bitmap/MultiFileRenderingUtil.java,2,7.0,0,20min,20.0,12,386.4
+fop,/main/java/org/apache/fop/layoutmgr/MultiSwitchLayoutManager.java,8,7.0,0,35min,35.0,73,2837.4
+fop,/main/java/org/apache/fop/pdf/PDFFileSpec.java,2,7.0,0,37min 30s,37.5,8,577.2
+fop,/main/java/org/apache/fop/svg/PDFImageElementBridge.java,2,7.0,0,0,0.0,6,394.5
+fop,/main/java/org/apache/fop/pdf/PDFMetadata.java,1,7.0,0,1h 12min,72.0,12,473.7
+fop,/main/java/org/apache/fop/fo/pagination/RepeatablePageMasterAlternatives.java,3,7.0,3,1h 45min,105.0,26,947.4
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfListItem.java,2,7.0,0,50min,50.0,40,1421.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/tools/TableContext.java,2,7.0,0,17min 30s,17.5,11,693.6
+fop,/main/java/org/apache/fop/render/bitmap/TIFFRenderer.java,2,7.0,0,42min 30s,42.5,32,881.1
+fop,/main/java/org/apache/fop/afp/modca/AbstractEnvironmentGroup.java,3,6.0,0,27min 30s,27.5,11,569.1
+fop,/main/java/org/apache/fop/afp/modca/ActiveEnvironmentGroup.java,2,6.0,0,1h 5min,65.0,60,1923.9
+fop,/test/java/org/apache/fop/fonts/CIDFullTestCase.java,2,6.0,1,10min,10.0,47,1662.0
+fop,/main/java/org/apache/fop/fo/properties/CondLengthProperty.java,3,6.0,1,2h 5min,125.0,16,656.4
+fop,/main/java/org/apache/fop/area/inline/Container.java,2,6.0,0,7min 30s,7.5,6,394.5
+fop,/main/java/org/apache/fop/fo/pagination/Declarations.java,2,6.0,0,7min 30s,7.5,12,444.6
+fop,/main/java/org/apache/fop/layoutmgr/FootnoteBodyLayoutManager.java,2,6.0,0,17min 30s,17.5,14,598.2
+fop,/main/java/org/apache/fop/render/gradient/GradientMaker.java,7,6.0,0,0,0.0,51,1720.2
+fop,/main/java/org/apache/fop/afp/modca/MapDataResource.java,2,6.0,0,7min 30s,7.5,18,685.5
+fop,/test/java/org/apache/fop/svg/OperatorValidator.java,2,6.0,0,10min,10.0,55,1259.4
+fop,/main/java/org/apache/fop/render/extensions/prepress/PageScale.java,4,6.0,0,27min 30s,27.5,9,452.7
+fop,/main/java/org/apache/fop/render/rtf/rtflib/tools/PercentContext.java,2,6.0,3,2h 47min,167.0,12,598.2
+fop,/main/java/org/apache/fop/fo/properties/PropertyCache.java,2,6.0,0,50min,50.0,17,531.9
+fop,/main/java/org/apache/fop/render/ps/PSRendererConfig.java,2,6.0,0,7min 30s,7.5,68,1923.9
+fop,/main/java/org/apache/fop/afp/ptoca/TransparentDataControlSequence.java,2,6.0,0,0,0.0,22,465.6
+fop,/test/java/org/apache/fop/fonts/truetype/TTFSubSetFileTestCase.java,3,6.0,0,0,0.0,13,349.2
+fop,/main/java/org/apache/fop/render/afp/AbstractAFPImageHandlerRawStream.java,1,5.0,0,22min 30s,22.5,15,780.9
+fop,/main/java/org/apache/fop/render/bitmap/AbstractBitmapDocumentHandler.java,1,5.0,1,55min,55.0,41,1450.2
+fop,/main/java/org/apache/fop/render/AbstractConfigurator.java,1,5.0,0,0,0.0,8,481.8
+fop,/main/java/org/apache/fop/svg/AbstractFOPImageElementBridge.java,2,5.0,0,35min,35.0,21,1088.1
+fop,/main/java/org/apache/fop/afp/goca/AbstractGraphicsDrawingOrder.java,1,5.0,0,15min,15.0,6,519.0
+fop,/main/java/org/apache/fop/afp/goca/AbstractGraphicsDrawingOrderContainer.java,1,5.0,0,15min,15.0,8,232.8
+fop,/main/java/org/apache/fop/fo/flow/AbstractListItemPart.java,1,5.0,3,25min,25.0,11,444.6
+fop,/main/java/org/apache/fop/afp/modca/AbstractPageObject.java,1,5.0,0,22min 30s,22.5,13,415.5
+fop,/main/java/org/apache/fop/fo/pagination/AbstractPageSequence.java,1,5.0,0,32min 30s,32.5,28,785.7
+fop,/main/java/org/apache/fop/render/pdf/AbstractPDFImageHandler.java,1,5.0,0,15min,15.0,9,606.3
+fop,/main/java/org/apache/fop/render/AbstractRendererConfigurator.java,1,5.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/area/inline/AbstractTextArea.java,1,5.0,0,7min 30s,7.5,23,868.2
+fop,/org/apache/fop/plan/ActionInfo.java,1,5.0,0,7min 30s,7.5,36,1267.5
+fop,/main/java/org/apache/fop/afp/AFPDataObjectInfo.java,1,5.0,0,15min,15.0,7,58.2
+fop,/main/java/org/apache/fop/afp/AFPDitheredRectanglePainter.java,1,5.0,0,17min 30s,17.5,10,635.4
+fop,/main/java/org/apache/fop/afp/util/AFPResourceAccessor.java,1,5.0,0,0,0.0,44,1794.6
+fop,/main/java/org/apache/fop/afp/AFPResourceInfo.java,1,5.0,0,45min,45.0,9,423.6
+fop,/main/java/org/apache/fop/afp/AFPResourceLevel.java,1,5.0,0,30min,30.0,20,619.2
+fop,/main/java/org/apache/fop/afp/modca/AxisOrientation.java,1,5.0,4,1h 20min,80.0,9,203.7
+fop,/test/java/org/apache/fop/config/BaseUserConfigTest.java,1,5.0,0,0,0.0,21,772.8
+fop,/main/java/org/apache/fop/area/inline/BasicLinkArea.java,1,5.0,0,7min 30s,7.5,7,452.7
+fop,/main/java/org/apache/fop/layoutmgr/inline/BasicLinkLayoutManager.java,1,5.0,0,25min,25.0,12,540.0
+fop,/test/java/org/apache/fop/apps/BitmapRendererConfBuilder.java,1,5.0,0,0,0.0,36,1159.2
+fop,/main/java/org/apache/fop/fo/flow/Block.java,1,5.0,0,45min,45.0,82,2701.5
+fop,/main/java/org/apache/fop/layoutmgr/BlockKnuthSequence.java,1,5.0,0,20min,20.0,8,481.8
+fop,/main/java/org/apache/fop/layoutmgr/BlockLevelEventProducer.java,1,5.0,0,0,0.0,12,664.5
+fop,/main/java/org/apache/fop/fo/properties/BoxCornerPropShorthandParser.java,1,5.0,0,20min,20.0,6,423.6
+fop,/main/java/org/apache/fop/util/ColorSpaceCache.java,4,5.0,0,10min,10.0,7,328.2
+fop,/main/java/org/apache/fop/fo/properties/CompoundPropertyMaker.java,1,5.0,0,47min 30s,47.5,8,452.7
+fop,/test/java/org/apache/fop/visual/ConvertUtils.java,2,5.0,0,7min 30s,7.5,12,481.8
+fop,/main/java/org/apache/fop/pdf/DestinationComparator.java,1,5.0,0,17min 30s,17.5,2,182.7
+fop,/main/java/org/apache/fop/fo/properties/DimensionPropertyMaker.java,2,5.0,0,37min 30s,37.5,6,299.1
+fop,/main/java/org/apache/fop/fonts/EncodingMode.java,1,5.0,0,10min,10.0,6,145.5
+fop,/main/java/org/apache/fop/events/EventListener.java,1,5.0,0,0,0.0,2,29.1
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/ExternalGraphic.java,1,5.0,0,15min,15.0,14,598.2
+fop,/main/java/org/apache/fop/fo/FOElementMapping.java,1,5.0,0,30min,30.0,566,28491.0
+fop,/test/java/org/apache/fop/fonts/FontManagerTestCase.java,1,5.0,0,0,0.0,41,1055.7
+fop,/main/java/org/apache/fop/fo/flow/FootnoteBody.java,1,5.0,0,15min,15.0,7,203.7
+fop,/main/java/org/apache/fop/apps/FormattingResults.java,1,5.0,0,0,0.0,6,174.6
+fop,/main/java/org/apache/fop/apps/FOUserAgent.java,2,5.0,0,1h 40min,100.0,67,1836.6
+fop,/main/java/org/apache/fop/afp/goca/GraphicsData.java,1,5.0,0,15min,15.0,8,232.8
+fop,/main/java/org/apache/fop/afp/ioca/IDEStructureParameter.java,1,5.0,0,7min 30s,7.5,10,789.0
+fop,/main/java/org/apache/fop/render/pdf/ImageRenderedAdapter.java,2,5.0,0,1h 10min,70.0,19,619.2
+fop,/main/java/org/apache/fop/area/inline/InlineBlockParent.java,1,5.0,0,7min 30s,7.5,5,394.5
+fop,/main/java/org/apache/fop/render/java2d/Java2DImageHandlerRenderedImage.java,2,5.0,0,7min 30s,7.5,14,751.8
+fop,/main/java/org/apache/fop/render/java2d/Java2DRendererConfigurator.java,1,5.0,0,7min 30s,7.5,6,548.1
+fop,/main/java/org/apache/fop/render/java2d/Java2DRenderingContext.java,1,5.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/render/java2d/Java2DSVGHandler.java,7,5.0,0,50min,50.0,24,2171.4
+fop,/main/java/org/apache/fop/layoutmgr/Keep.java,1,5.0,4,3h 7min,187.0,26,494.7
+fop,/main/java/org/apache/fop/layoutmgr/KnuthSequence.java,2,5.0,0,1h 10min,70.0,9,701.7
+fop,/main/java/org/apache/fop/area/inline/Leader.java,1,5.0,7,2h 52min,172.0,5,145.5
+fop,/main/java/org/apache/fop/datatypes/LengthBase.java,2,5.0,0,37min 30s,37.5,18,810.0
+fop,/main/java/org/apache/fop/afp/modca/MapPageOverlay.java,1,5.0,0,15min,15.0,11,540.0
+fop,/main/java/org/apache/fop/afp/modca/MapPageSegment.java,1,5.0,0,7min 30s,7.5,10,415.5
+fop,/main/java/org/apache/fop/afp/modca/triplets/MeasurementUnitsTriplet.java,1,5.0,0,7min 30s,7.5,8,357.3
+fop,/main/java/org/apache/fop/fo/flow/MultiCase.java,2,5.0,0,17min 30s,17.5,27,698.4
+fop,/main/java/org/apache/fop/fo/expr/NCnameProperty.java,1,5.0,0,40min,40.0,11,261.9
+fop,/main/java/org/apache/fop/fo/NullCharIterator.java,1,5.0,0,7min 30s,7.5,5,394.5
+fop,/main/java/org/apache/fop/datatypes/Numeric.java,1,5.0,0,0,0.0,9,182.7
+fop,/main/java/org/apache/fop/afp/modca/ObjectAreaDescriptor.java,1,5.0,0,7min 30s,7.5,9,635.4
+fop,/main/java/org/apache/fop/afp/modca/ObjectContainer.java,1,5.0,0,15min,15.0,9,261.9
+fop,/test/java/org/apache/fop/pdf/ObjectStreamManagerTestCase.java,1,5.0,0,0,0.0,51,1450.2
+fop,/main/java/org/apache/fop/fo/OneCharIterator.java,1,5.0,0,17min 30s,17.5,5,145.5
+fop,/main/java/org/apache/fop/fo/properties/PageBreakShorthandParser.java,1,5.0,3,1h 20min,80.0,5,394.5
+fop,/main/java/org/apache/fop/render/pdf/PageSequenceStructElem.java,5,5.0,0,15min,15.0,28,669.3
+fop,/main/java/org/apache/fop/fo/pagination/PageSequenceWrapper.java,1,5.0,0,7min 30s,7.5,8,232.8
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/ParagraphAlignment.java,1,5.0,0,7min 30s,7.5,8,481.8
+fop,/main/java/org/apache/fop/render/pcl/PCLDocumentHandler.java,2,5.0,0,1h 45min,105.0,62,2472.0
+fop,/main/java/org/apache/fop/render/pcl/PCLRenderingMode.java,1,5.0,0,10min,10.0,12,320.1
+fop,/main/java/org/apache/fop/render/pcl/PCLRenderingUtil.java,1,5.0,0,30min,30.0,31,1005.6
+fop,/main/java/org/apache/fop/svg/PDFAElementBridge.java,1,5.0,0,0,0.0,8,232.8
+fop,/main/java/org/apache/fop/pdf/PDFAMode.java,1,5.0,0,10min,10.0,12,261.9
+fop,/main/java/org/apache/fop/pdf/PDFEncoding.java,2,5.0,0,55min,55.0,15,598.2
+fop,/main/java/org/apache/fop/render/pdf/PDFEncryptionOption.java,1,5.0,0,7min 30s,7.5,16,407.4
+fop,/main/java/org/apache/fop/pdf/PDFFilter.java,1,5.0,0,7min 30s,7.5,5,58.2
+fop,/main/java/org/apache/fop/pdf/PDFFontNonBase14.java,1,5.0,0,15min,15.0,5,394.5
+fop,/main/java/org/apache/fop/svg/PDFGraphicsDevice.java,1,5.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/pdf/PDFObjectNumber.java,1,5.0,0,0,0.0,24,743.7
+fop,/test/java/org/apache/fop/pdf/PDFStreamTestCase.java,1,5.0,0,0,0.0,51,1259.4
+fop,/main/java/org/apache/fop/pdf/PDFUAMode.java,1,5.0,0,10min,10.0,9,203.7
+fop,/main/java/org/apache/fop/pdf/PDFXMode.java,1,5.0,0,10min,10.0,3,87.3
+fop,/main/java/org/apache/fop/render/awt/viewer/PreviewDialogAboutBox.java,1,5.0,0,22min 30s,22.5,9,232.8
+fop,/test/java/org/apache/fop/render/ps/PSGraphics2DAdapterTestCase.java,1,5.0,0,0,0.0,38,1466.4
+fop,/main/java/org/apache/fop/fo/pagination/Region.java,2,5.0,0,22min 30s,22.5,23,677.4
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfHeader.java,2,5.0,0,0,0.0,25,1071.9
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfJforCmd.java,2,5.0,0,0,0.0,14,502.8
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfPageNumber.java,1,5.0,1,17min 30s,17.5,17,743.7
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfPageNumberCitation.java,1,5.0,0,7min 30s,7.5,14,378.3
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfSpaceManager.java,1,5.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfTemplate.java,1,5.0,0,10min,10.0,5,270.0
+fop,/main/java/org/apache/fop/area/inline/Space.java,1,5.0,0,7min 30s,7.5,2,182.7
+fop,/main/java/org/apache/fop/fo/properties/SpacePropertyMaker.java,1,5.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/traits/SpaceVal.java,2,5.0,0,40min,40.0,14,349.2
+fop,/main/java/org/apache/fop/fo/pagination/StaticContent.java,1,5.0,0,7min 30s,7.5,7,452.7
+fop,/main/java/org/apache/fop/fo/StringCharIterator.java,1,5.0,0,17min 30s,17.5,5,145.5
+fop,/main/java/org/apache/fop/fo/expr/SystemColorFunction.java,1,5.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/render/java2d/SystemFontMetricsMapper.java,1,5.0,0,7min 30s,7.5,23,523.8
+fop,/test/java/org/apache/fop/fo/flow/table/TableColumnColumnNumberTestCase.java,2,5.0,0,15min,15.0,34,814.8
+fop,/test/java/org/apache/fop/pdf/TableHeaderScopeTestCase.java,1,5.0,0,0,0.0,65,1463.1
+fop,/main/java/org/apache/fop/fo/flow/table/TableRow.java,1,5.0,0,25min,25.0,37,1421.1
+fop,/main/java/org/apache/fop/fo/pagination/Title.java,1,5.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/render/txt/TXTState.java,1,5.0,0,0,0.0,10,635.4
+fop,/main/java/org/apache/fop/util/UnclosableInputStream.java,1,5.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/area/inline/UnresolvedPageNumber.java,2,5.0,0,25min,25.0,25,669.3
+fop,/main/java/org/apache/fop/pdf/VersionController.java,1,5.0,0,0,0.0,44,1275.6
+fop,/main/java/org/apache/fop/fo/properties/XMLLangShorthandParser.java,1,5.0,0,50min,50.0,7,452.7
+fop,/main/java/org/apache/fop/fo/XMLObj.java,2,5.0,0,25min,25.0,18,714.6
+fop,/test/java/org/apache/fop/afp/AFPGraphics2DTestCase.java,2,4.0,0,7min 30s,7.5,21,801.9
+fop,/test/java/org/apache/fop/render/afp/AFPParser.java,14,4.0,0,47min 30s,47.5,50,2122.8
+fop,/main/java/org/apache/fop/fonts/CIDSubset.java,5,4.0,0,1h 10min,70.0,13,627.3
+fop,/main/java/org/apache/fop/util/bitmap/DitherUtil.java,2,4.0,0,15min,15.0,16,502.8
+fop,/main/java/org/apache/fop/afp/modca/GraphicsDataDescriptor.java,2,4.0,0,22min 30s,22.5,13,627.3
+fop,/main/java/org/apache/fop/render/intermediate/IFContext.java,2,4.0,0,7min 30s,7.5,21,523.8
+fop,/main/java/org/apache/fop/area/MainReference.java,4,4.0,0,17min 30s,17.5,14,378.3
+fop,/main/java/org/apache/fop/render/extensions/prepress/PageBoundaries.java,3,4.0,0,35min,35.0,31,1005.6
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFArrayExtension.java,3,4.0,0,27min 30s,27.5,34,727.5
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFDictionaryExtension.java,3,4.0,0,55min,55.0,58,1251.3
+fop,/main/java/org/apache/fop/pdf/PDFResourceContext.java,4,4.0,0,7min 30s,7.5,27,822.9
+fop,/org/apache/fop/plan/PreloaderPlan.java,3,4.0,0,57min 30s,57.5,21,677.4
+fop,/main/java/org/apache/fop/afp/ioca/Tile.java,2,4.0,0,42min 30s,42.5,68,2924.7
+fop,/main/java/org/apache/fop/afp/modca/AbstractTripletStructuredObject.java,2,3.0,0,35min,35.0,12,203.7
+fop,/main/java/org/apache/fop/render/bitmap/BitmapRendererConfig.java,2,3.0,5,1h 57min,117.0,70,1762.2
+fop,/main/java/org/apache/fop/area/BlockParent.java,2,3.0,0,15min,15.0,14,452.7
+fop,/main/java/org/apache/fop/fonts/CFFToType1Font.java,3,3.0,0,7min 30s,7.5,45,1699.2
+fop,/main/java/org/apache/fop/pdf/PDFDictionary.java,3,3.0,0,7min 30s,7.5,25,494.7
+fop,/main/java/org/apache/fop/render/pdf/PDFDocumentHandler.java,4,3.0,0,47min 30s,47.5,95,2460.6
+fop,/main/java/org/apache/fop/render/pdf/PDFRendererOptionsConfig.java,3,3.0,0,20min,20.0,57,1076.7
+fop,/main/java/org/apache/fop/render/afp/extensions/AbstractAFPExtensionObject.java,1,2.0,0,7min 30s,7.5,6,174.6
+fop,mples/embedding/java/embedding/tools/AbstractObjectReader.java,1,2.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/render/ps/AbstractPSTranscoder.java,2,2.0,0,17min 30s,17.5,11,510.9
+fop,/main/java/org/apache/fop/render/AbstractRenderingContext.java,1,2.0,0,57min 30s,57.5,7,174.6
+fop,/main/java/org/apache/fop/afp/fonts/AFPFontCollection.java,1,2.0,0,7min 30s,7.5,9,357.3
+fop,/main/java/org/apache/fop/afp/svg/AFPImageElementBridge.java,1,2.0,0,0,0.0,6,394.5
+fop,/main/java/org/apache/fop/render/afp/AFPImageHandler.java,1,2.0,0,15min,15.0,17,1183.5
+fop,/main/java/org/apache/fop/render/afp/AFPImageHandlerRawJPEG.java,1,2.0,1,1h 52min,112.0,16,627.3
+fop,/test/java/org/apache/fop/fo/properties/AltTextHolderTestCase.java,1,2.0,0,0,0.0,33,1034.7
+fop,/test/java/org/apache/fop/svg/font/BasicGlyphVectorTestCase.java,1,2.0,0,15min,15.0,70,1799.4
+fop,/main/java/org/apache/fop/render/intermediate/extensions/Bookmark.java,1,2.0,0,20min,20.0,8,232.8
+fop,/test/java/org/apache/fop/check/ChecksFactory.java,2,2.0,0,10min,10.0,11,540.0
+fop,/test/java/org/apache/fop/fo/properties/CommonHyphenationTestCase.java,1,2.0,0,0,0.0,17,349.2
+fop,/main/java/org/apache/fop/render/java2d/ConfiguredFontCollection.java,1,2.0,0,17min 30s,17.5,11,664.5
+fop,/main/java/org/apache/fop/apps/EnvironmentalProfileFactory.java,1,2.0,0,0,0.0,31,1130.1
+fop,/main/java/org/apache/fop/fonts/autodetect/FontFileFinder.java,2,2.0,0,15min,15.0,15,232.8
+fop,/main/java/org/apache/fop/afp/fonts/FopCharacterSet.java,1,2.0,0,7min 30s,7.5,19,407.4
+fop,/main/java/org/apache/fop/servlet/FopServlet.java,3,2.0,0,0,0.0,25,1416.3
+fop,/main/java/org/apache/fop/render/intermediate/extensions/GoToXYAction.java,1,2.0,0,1h 35min,95.0,11,357.3
+fop,/test/java/org/apache/fop/afp/goca/GraphicsSetFractionalLineWidthTestCase.java,1,2.0,0,0,0.0,18,714.6
+fop,/test/java/org/apache/fop/afp/goca/GraphicsSetLineWidthTestCase.java,1,2.0,0,0,0.0,18,714.6
+fop,/main/java/org/apache/fop/image/loader/batik/ImageConverterSVG2G2D.java,2,2.0,0,17min 30s,17.5,11,540.0
+fop,/main/java/org/apache/fop/image/loader/batik/ImageConverterWMF2G2D.java,1,2.0,0,7min 30s,7.5,20,868.2
+fop,/main/java/org/apache/fop/image/loader/batik/ImageLoaderWMF.java,1,2.0,0,0,0.0,7,203.7
+fop,/main/java/org/apache/fop/fo/flow/InstreamForeignObject.java,1,2.0,0,57min 30s,57.5,19,743.7
+fop,/main/java/org/apache/fop/util/bitmap/JAIMonochromeBitmapConverter.java,1,2.0,0,7min 30s,7.5,10,415.5
+fop,/main/java/org/apache/fop/render/java2d/Java2DGraphicsState.java,2,2.0,0,1h 30min,90.0,16,531.9
+fop,/test/java/org/apache/fop/svg/font/KerningGlyphLayoutTestCase.java,1,2.0,0,7min 30s,7.5,33,976.5
+fop,/main/java/org/apache/fop/layoutmgr/LayoutManagerMapping.java,1,2.0,4,1h 22min,82.0,113,9815.7
+fop,/main/java/org/apache/fop/area/LinkResolver.java,2,2.0,0,7min 30s,7.5,24,582.0
+fop,/main/java/org/apache/fop/fonts/truetype/OTFFile.java,1,2.0,0,0,0.0,70,1936.8
+fop,/main/java/org/apache/fop/render/pcl/PCLRendererContext.java,1,2.0,0,0,0.0,6,423.6
+fop,/main/java/org/apache/fop/render/pcl/fonts/PCLSoftFont.java,2,2.0,0,1h 27min,87.0,82,2007.9
+fop,/main/java/org/apache/fop/pdf/PDFArray.java,2,2.0,0,0,0.0,18,510.9
+fop,/test/java/org/apache/fop/render/pdf/PDFRendererOptionsConfigTestCase.java,2,2.0,0,7min 30s,7.5,38,1122.0
+fop,/test/java/org/apache/fop/render/ps/PSRenderingUtilTestCase.java,1,2.0,0,0,0.0,16,627.3
+fop,/main/java/org/apache/fop/fo/pagination/RegionSE.java,1,2.0,0,7min 30s,7.5,8,730.8
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfHyperLink.java,1,2.0,1,37min 30s,37.5,13,473.7
+fop,/main/java/org/apache/fop/layoutmgr/inline/ScaledBaselineTable.java,2,2.0,0,7min 30s,7.5,19,523.8
+fop,/main/java/org/apache/fop/fonts/SimpleSingleByteEncoding.java,2,2.0,0,30min,30.0,13,847.2
+fop,/main/java/org/apache/fop/events/UnsupportedOperationExceptionFactory.java,1,2.0,0,0,0.0,5,519.0
+fop,/main/java/org/apache/fop/render/intermediate/extensions/URIAction.java,1,2.0,0,45min,45.0,6,174.6
+fop,/main/java/org/apache/fop/afp/fonts/AFPFont.java,2,1.0,0,10min,10.0,8,701.7
+fop,/main/java/org/apache/fop/render/bitmap/BitmapRendererConfigurator.java,1,1.0,0,25min,25.0,32,1379.1
+fop,/main/java/org/apache/fop/fo/properties/CharacterProperty.java,2,1.0,0,30min,30.0,16,751.8
+fop,/main/java/org/apache/fop/afp/fonts/CharacterSetOrientation.java,4,1.0,0,1h 5min,65.0,32,1320.9
+fop,/main/java/org/apache/fop/fonts/CIDFull.java,1,1.0,0,20min,20.0,9,357.3
+fop,/main/java/org/apache/fop/fo/properties/ColorProperty.java,1,1.0,0,40min,40.0,9,452.7
+fop,/main/java/org/apache/fop/events/CompositeEventListener.java,1,1.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/pdf/xref/CrossReferenceStream.java,1,1.0,0,15min,15.0,28,1042.8
+fop,/main/java/org/apache/fop/render/DefaultRendererConfigurator.java,1,1.0,0,7min 30s,7.5,12,664.5
+fop,/main/java/org/apache/fop/fo/extensions/ExtensionElementMapping.java,1,1.0,0,15min,15.0,25,1175.4
+fop,/main/java/org/apache/fop/layoutmgr/FloatContentLayoutManager.java,1,1.0,0,1h 5min,65.0,38,1055.7
+fop,/main/java/org/apache/fop/tools/fontlist/FontSpec.java,1,1.0,0,40min,40.0,22,552.9
+fop,/main/java/org/apache/fop/layoutmgr/FootenoteUtil.java,1,1.0,0,50min,50.0,17,810.0
+fop,/test/java/org/apache/fop/fonts/truetype/GlyfTableTestCase.java,1,1.0,1,10min,10.0,69,2559.3
+fop,/main/java/org/apache/fop/afp/modca/GraphicsObject.java,1,1.0,0,35min,35.0,29,1225.5
+fop,/main/java/org/apache/fop/render/java2d/InstalledFontCollection.java,1,1.0,1,25min,25.0,18,656.4
+fop,/test/java/org/apache/fop/afp/fonts/IntegerKeyStoreTestCase.java,1,1.0,0,0,0.0,9,606.3
+fop,/main/java/org/apache/fop/fo/extensions/InternalElementMapping.java,1,1.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/render/java2d/Java2DRendererConfig.java,1,1.0,0,0,0.0,24,648.3
+fop,/main/java/org/apache/fop/fo/properties/KeepProperty.java,1,1.0,1,1h 55min,115.0,16,722.7
+fop,/main/java/org/apache/fop/afp/ptoca/LineDataInfoProducer.java,1,1.0,0,27min 30s,27.5,9,232.8
+fop,/main/java/org/apache/fop/fonts/autodetect/NativeFontDirFinder.java,1,1.0,0,0,0.0,5,365.4
+fop,/main/java/org/apache/fop/fo/properties/NumberProperty.java,2,1.0,0,1h 27min,87.0,21,1395.3
+fop,/main/java/org/apache/fop/pdf/ObjectStream.java,1,1.0,0,7min 30s,7.5,26,611.1
+fop,/main/java/org/apache/fop/pdf/ObjectStreamManager.java,1,1.0,0,0,0.0,18,436.5
+fop,/main/java/org/apache/fop/fonts/truetype/OFMtxEntry.java,1,1.0,0,27min 30s,27.5,14,444.6
+fop,/main/java/org/apache/fop/area/PageSequence.java,1,1.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/render/pcl/PCLRendererConfig.java,1,1.0,0,7min 30s,7.5,45,1209.3
+fop,/main/java/org/apache/fop/render/pcl/PCLRendererConfigurator.java,1,1.0,0,7min 30s,7.5,22,926.4
+fop,/main/java/org/apache/fop/render/pcl/fonts/truetype/PCLTTFCharacterWriter.java,2,1.0,0,17min 30s,17.5,43,1603.8
+fop,/test/java/org/apache/fop/render/pdf/PDFAConformanceTestCase.java,1,1.0,0,0,0.0,48,1362.9
+fop,/test/java/org/apache/fop/pdf/PDFDestsTestCase.java,1,1.0,0,0,0.0,11,291.0
+fop,/test/java/org/apache/fop/render/pdf/PDFDocumentHandlerTestCase.java,1,1.0,0,7min 30s,7.5,21,868.2
+fop,/main/java/org/apache/fop/pdf/PDFDPart.java,1,1.0,0,7min 30s,7.5,20,465.6
+fop,/main/java/org/apache/fop/pdf/PDFNumsArray.java,1,1.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/pdf/PDFReference.java,1,1.0,0,20min,20.0,12,261.9
+fop,/main/java/org/apache/fop/fo/flow/table/PrimaryGridUnit.java,8,1.0,6,4h 50min,290.0,24,1042.8
+fop,/main/java/org/apache/fop/afp/modca/ResourceGroup.java,1,1.0,0,7min 30s,7.5,7,203.7
+fop,/main/java/org/apache/fop/fo/properties/StringProperty.java,1,1.0,0,57min 30s,57.5,14,942.6
+fop,/test/java/org/apache/fop/layoutmgr/table/TableLayoutManagerTestCase.java,1,1.0,0,15min,15.0,14,627.3
+fop,/test/java/org/apache/fop/apps/io/TestingResourceResolver.java,1,1.0,0,0,0.0,13,261.9
+fop,/main/java/org/apache/fop/render/bitmap/TIFFRendererConfig.java,1,1.0,0,0,0.0,41,1209.3
+fop,/main/java/org/apache/fop/render/txt/TxtRendererConfig.java,1,1.0,0,0,0.0,35,1188.3
+fop,/test/java/org/apache/fop/pdf/xref/UncompressedObjectReferenceTestCase.java,1,1.0,0,0,0.0,53,1595.7
+fop,/main/java/org/apache/fop/fo/expr/AbsFunction.java,1,0.0,0,10min,10.0,4,365.4
+fop,/main/java/org/apache/fop/render/intermediate/extensions/AbstractAction.java,0,0.0,0,7min 30s,7.5,6,116.4
+fop,/main/java/org/apache/fop/afp/AbstractAFPPainter.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/test/java/org/apache/fop/render/afp/AbstractAFPTest.java,0,0.0,0,0,0.0,7,548.1
+fop,/main/java/org/apache/fop/render/intermediate/AbstractBinaryWritingIFDocumentHandler.java,0,0.0,0,7min 30s,7.5,19,685.5
+fop,/test/java/org/apache/fop/visual/AbstractBitmapProducer.java,0,0.0,0,27min 30s,27.5,9,481.8
+fop,/test/java/org/apache/fop/render/bitmap/AbstractBitmapRendererConfigParserTester.java,0,0.0,0,15min,15.0,43,1860.9
+fop,/test/java/org/apache/fop/render/bitmap/AbstractBitmapRendererConfiguratorTest.java,0,0.0,0,7min 30s,7.5,41,1084.8
+fop,/main/java/org/apache/fop/render/txt/border/AbstractBorderElement.java,0,0.0,0,32min 30s,32.5,6,423.6
+fop,/main/java/org/apache/fop/afp/modca/AbstractDataObject.java,0,0.0,0,22min 30s,22.5,6,174.6
+fop,/main/java/org/apache/fop/afp/modca/AbstractDescriptor.java,0,0.0,0,15min,15.0,4,87.3
+fop,/main/java/org/apache/fop/svg/AbstractFOPTextElementBridge.java,0,0.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/render/AbstractGenericSVGHandler.java,0,0.0,0,32min 30s,32.5,15,751.8
+fop,/main/java/org/apache/fop/layoutmgr/inline/AbstractGraphicsLayoutManager.java,1,0.0,4,1h 42min,102.0,11,818.1
+fop,/main/java/org/apache/fop/render/intermediate/AbstractIFDocumentHandler.java,0,0.0,0,0,0.0,15,349.2
+fop,/main/java/org/apache/fop/fo/extensions/xmp/AbstractMetadataElement.java,0,0.0,0,35min,35.0,3,87.3
+fop,/main/java/org/apache/fop/afp/modca/AbstractNamedAFPObject.java,0,0.0,0,25min,25.0,15,232.8
+fop,/test/java/org/apache/fop/afp/modca/AbstractNamedAFPObjectTest.java,0,0.0,0,7min 30s,7.5,9,577.2
+fop,/main/java/org/apache/fop/area/AbstractOffDocumentItem.java,0,0.0,0,7min 30s,7.5,8,481.8
+fop,/main/java/org/apache/fop/afp/fonts/AbstractOutlineFont.java,0,0.0,0,7min 30s,7.5,10,357.3
+fop,/main/java/org/apache/fop/layoutmgr/inline/AbstractPageNumberCitationLayoutManager.java,3,0.0,0,37min 30s,37.5,33,1341.9
+fop,/main/java/org/apache/fop/render/pdf/extensions/AbstractPDFExtensionElement.java,0,0.0,0,0,0.0,4,336.3
+fop,/main/java/org/apache/fop/pdf/AbstractPDFFontStream.java,0,0.0,0,15min,15.0,4,365.4
+fop,/main/java/org/apache/fop/pdf/AbstractPDFStream.java,0,0.0,0,7min 30s,7.5,49,1084.8
+fop,/test/java/org/apache/fop/pdf/AbstractPDFStreamTestCase.java,0,0.0,0,7min 30s,7.5,21,523.8
+fop,/test/java/org/apache/fop/render/ps/AbstractPostScriptTest.java,0,0.0,0,10min,10.0,11,635.4
+fop,/main/java/org/apache/fop/render/ps/extensions/AbstractPSCommentElement.java,0,0.0,0,15min,15.0,3,336.3
+fop,/test/java/org/apache/fop/visual/AbstractRedirectorLineHandler.java,0,0.0,0,0,0.0,3,336.3
+fop,/test/java/org/apache/fop/apps/AbstractRendererConfiguratorTest.java,0,0.0,0,7min 30s,7.5,30,582.0
+fop,/main/java/org/apache/fop/afp/modca/AbstractResourceEnvironmentGroupContainer.java,0,0.0,0,7min 30s,7.5,5,270.0
+fop,/main/java/org/apache/fop/fo/flow/AbstractRetrieveMarker.java,0,0.0,0,42min 30s,42.5,62,2003.1
+fop,/main/java/org/apache/fop/afp/modca/AbstractStructuredObject.java,0,0.0,0,7min 30s,7.5,13,510.9
+fop,/test/java/org/apache/fop/afp/modca/AbstractStructuredObjectTest.java,0,0.0,0,0,0.0,11,569.1
+fop,/main/java/org/apache/fop/afp/modca/triplets/AbstractTriplet.java,0,0.0,0,15min,15.0,5,211.8
+fop,/main/java/org/apache/fop/render/intermediate/AbstractXMLWritingIFDocumentHandler.java,0,0.0,0,10min,10.0,9,452.7
+fop,/main/java/org/apache/fop/accessibility/AccessibilityEventProducer.java,0,0.0,0,0,0.0,8,577.2
+fop,/main/java/org/apache/fop/render/intermediate/extensions/ActionSet.java,0,0.0,0,10min,10.0,11,415.5
+fop,/main/java/org/apache/fop/layoutmgr/Adjustment.java,0,0.0,0,7min 30s,7.5,8,452.7
+fop,/main/java/org/apache/fop/complexscripts/fonts/AdvancedTypographicTableFormatException.java,0,0.0,0,0,0.0,4,336.3
+fop,/test/java/org/apache/fop/fonts/type1/AFMParserTestCase.java,0,0.0,0,0,0.0,37,1553.7
+fop,/main/java/org/apache/fop/fonts/type1/AFMWritingDirectionMetrics.java,0,0.0,0,0,0.0,6,174.6
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPAttribute.java,0,0.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/afp/fonts/AFPBase12FontCollection.java,0,0.0,0,15min,15.0,17,685.5
+fop,/main/java/org/apache/fop/render/afp/AFPCustomizable.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/afp/AFPDataObjectFactory.java,0,0.0,0,45min,45.0,18,934.5
+fop,/main/java/org/apache/fop/render/afp/AFPDocumentHandlerMaker.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPElementMapping.java,0,0.0,0,7min 30s,7.5,60,3081.6
+fop,/main/java/org/apache/fop/afp/AFPEventProducer.java,0,0.0,0,0,0.0,11,635.4
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPExtensionAttachment.java,0,0.0,0,15min,15.0,7,394.5
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPExtensionHandlerFactory.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/afp/fonts/AFPFontAttributes.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/afp/svg/AFPFontFamilyResolver.java,2,0.0,0,27min 30s,27.5,21,677.4
+fop,/main/java/org/apache/fop/afp/fonts/AFPFontInfo.java,0,0.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/render/afp/AFPGraphics2DAdapter.java,0,0.0,0,15min,15.0,9,232.8
+fop,/main/java/org/apache/fop/render/afp/AFPImageHandlerGraphics2D.java,0,0.0,0,35min,35.0,14,876.3
+fop,/main/java/org/apache/fop/render/afp/AFPImageHandlerRawCCITTFax.java,0,0.0,0,17min 30s,17.5,8,452.7
+fop,/main/java/org/apache/fop/render/afp/AFPImageHandlerRawStream.java,0,0.0,0,17min 30s,17.5,7,452.7
+fop,/main/java/org/apache/fop/render/afp/AFPImageHandlerSVG.java,0,0.0,0,37min 30s,37.5,15,1059.0
+fop,/test/java/org/apache/fop/render/afp/AFPImageHandlerTestCase.java,0,0.0,0,0,0.0,11,510.9
+fop,/main/java/org/apache/fop/afp/AFPImageObjectInfo.java,0,0.0,0,0,0.0,4,58.2
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPIncludeFormMap.java,0,0.0,0,0,0.0,4,87.3
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPIncludeFormMapElement.java,0,0.0,0,7min 30s,7.5,11,540.0
+fop,/main/java/org/apache/fop/render/afp/AFPInfo.java,0,0.0,0,15min,15.0,3,58.2
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPInvokeMediumMap.java,0,0.0,0,0,0.0,3,211.8
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPInvokeMediumMapElement.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/afp/AFPLineDataInfo.java,0,0.0,0,7min 30s,7.5,2,29.1
+fop,/main/java/org/apache/fop/afp/AFPObjectAreaInfo.java,0,0.0,0,7min 30s,7.5,13,232.8
+fop,/test/java/org/apache/fop/afp/AFPObjectAreaInfoTestCase.java,0,0.0,0,7min 30s,7.5,8,203.7
+fop,/main/java/org/apache/fop/afp/fonts/AFPPageFonts.java,0,0.0,0,0,0.0,2,182.7
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPPageOverlay.java,0,0.0,0,0,0.0,9,481.8
+fop,/main/java/org/apache/fop/render/afp/extensions/AFPPageOverlayElement.java,0,0.0,0,7min 30s,7.5,14,751.8
+fop,/test/java/org/apache/fop/afp/AFPPaintingStateTestCase.java,0,0.0,0,0,0.0,7,174.6
+fop,/main/java/org/apache/fop/afp/AFPRectanglePainter.java,0,0.0,0,15min,15.0,6,394.5
+fop,/test/java/org/apache/fop/apps/AFPRendererConfBuilder.java,0,0.0,0,0,0.0,120,2518.8
+fop,/main/java/org/apache/fop/render/afp/AFPRendererContext.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/render/afp/AFPRendererImageInfo.java,0,0.0,0,7min 30s,7.5,3,58.2
+fop,/main/java/org/apache/fop/render/afp/AFPRendererOption.java,0,0.0,0,0,0.0,9,203.7
+fop,/main/java/org/apache/fop/render/afp/AFPRenderingContext.java,0,0.0,0,0,0.0,11,261.9
+fop,/test/java/org/apache/fop/afp/util/AFPResourceAccessorTestCase.java,0,0.0,0,7min 30s,7.5,39,960.3
+fop,/main/java/org/apache/fop/afp/AFPResourceLevelDefaults.java,0,0.0,0,0,0.0,12,261.9
+fop,/test/java/org/apache/fop/render/afp/AFPTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/afp/AFPTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/afp/AFPTextDataInfo.java,0,0.0,0,7min 30s,7.5,4,87.3
+fop,/main/java/org/apache/fop/afp/svg/AFPTextElementBridge.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/afp/svg/AFPTextPainter.java,0,0.0,0,0,0.0,15,540.0
+fop,/main/java/org/apache/fop/afp/AFPUnitConverter.java,0,0.0,0,0,0.0,10,232.8
+fop,/main/java/org/apache/fop/svg/font/AggregatingFontFamilyResolver.java,0,0.0,0,40min,40.0,34,1063.8
+fop,/test/java/org/apache/fop/fo/flow/table/AllTests.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/fo/pagination/AllTests.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/area/inline/Anchor.java,0,0.0,0,7min 30s,7.5,1,29.1
+fop,/main/java/org/apache/fop/render/intermediate/ArcToBezierCurveTransformer.java,0,0.0,0,55min,55.0,14,598.2
+fop,/main/java/org/apache/fop/area/AreaEventProducer.java,0,0.0,0,0,0.0,7,548.1
+fop,/test/java/org/apache/fop/intermediate/AreaTreeXMLFormatTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/afp/modca/triplets/AttributeQualifierTriplet.java,0,0.0,0,7min 30s,7.5,7,203.7
+fop,/main/java/org/apache/fop/fonts/substitute/AttributeValue.java,0,0.0,0,0,0.0,7,423.6
+fop,/main/java/org/apache/fop/afp/modca/triplets/AttributeValueTriplet.java,0,0.0,0,7min 30s,7.5,11,291.0
+fop,/main/java/org/apache/fop/render/awt/AWTRendererMaker.java,0,0.0,0,0,0.0,17,656.4
+fop,/main/java/org/apache/fop/fo/properties/BackgroundPositionShorthand.java,0,0.0,0,20min,20.0,21,1548.9
+fop,/main/java/org/apache/fop/afp/ioca/BandImage.java,0,0.0,0,0,0.0,9,635.4
+fop,/main/java/org/apache/fop/fonts/Base14Font.java,0,0.0,0,0,0.0,11,510.9
+fop,/test/java/org/apache/fop/config/BaseConstructiveUserConfigTest.java,1,0.0,0,7min 30s,7.5,13,693.6
+fop,/test/java/org/apache/fop/config/BaseDestructiveUserConfigTest.java,0,0.0,0,7min 30s,7.5,13,598.2
+fop,/test/java/org/apache/fop/BasicDriverTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/BasicPDFTranscoderTestCase.java,0,0.0,0,0,0.0,7,423.6
+fop,/test/java/org/apache/fop/BasicPSTranscoderTestCase.java,0,0.0,0,0,0.0,7,423.6
+fop,/test/java/org/apache/fop/BasicTranscoderTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/image/loader/batik/BatikUtil.java,0,0.0,0,10min,10.0,7,672.6
+fop,/main/java/org/apache/fop/area/BeforeFloat.java,0,0.0,0,7min 30s,7.5,2,58.2
+fop,/main/java/org/apache/fop/render/intermediate/BezierCurvePainter.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/layoutmgr/inline/BidiLayoutManager.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/test/java/org/apache/fop/complexscripts/bidi/BidiTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/visual/BitmapProducer.java,0,0.0,0,0,0.0,2,29.1
+fop,/test/java/org/apache/fop/visual/BitmapProducerPDF.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/test/java/org/apache/fop/visual/BitmapProducerPS.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/test/java/org/apache/fop/render/bitmap/BitmapRendererConfigParserTestCase.java,0,0.0,0,0,0.0,10,452.7
+fop,/test/java/org/apache/fop/render/bitmap/BitmapRendererConfiguratorTestCase.java,0,0.0,0,0,0.0,15,693.6
+fop,/main/java/org/apache/fop/render/bitmap/BitmapRendererEventProducer.java,0,0.0,0,0,0.0,9,577.2
+fop,/main/java/org/apache/fop/render/bitmap/BitmapRendererOption.java,0,0.0,0,10min,10.0,17,378.3
+fop,/main/java/org/apache/fop/render/bitmap/BitmapRenderingSettings.java,0,0.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/area/Block.java,0,0.0,0,15min,15.0,25,926.4
+fop,/main/java/org/apache/fop/layoutmgr/BlockLevelLayoutManager.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/area/BlockViewport.java,0,0.0,0,35min,35.0,8,232.8
+fop,/test/java/org/apache/fop/area/BlockViewportTestCase.java,0,0.0,0,0,0.0,14,598.2
+fop,/main/java/org/apache/fop/fo/expr/BodyStartFunction.java,0,0.0,0,0,0.0,8,606.3
+fop,/main/java/org/apache/fop/fo/pagination/bookmarks/BookmarkTitle.java,0,0.0,0,15min,15.0,12,320.1
+fop,/main/java/org/apache/fop/render/intermediate/extensions/BookmarkTree.java,0,0.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/render/txt/border/BorderManager.java,0,0.0,0,10min,10.0,3,87.3
+fop,/main/java/org/apache/fop/layoutmgr/BorderOrPaddingElement.java,0,0.0,0,15min,15.0,3,336.3
+fop,/main/java/org/apache/fop/afp/BorderPaintingInfo.java,0,0.0,0,7min 30s,7.5,8,232.8
+fop,/main/java/org/apache/fop/fo/flow/table/BorderResolver.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fo/properties/BorderSpacingShorthandParser.java,0,0.0,0,30min,30.0,6,423.6
+fop,/main/java/org/apache/fop/fo/flow/table/BorderSpecification.java,4,0.0,1,50min,50.0,11,232.8
+fop,/main/java/org/apache/fop/traits/BorderStyle.java,0,0.0,0,27min 30s,27.5,17,685.5
+fop,/main/java/org/apache/fop/fo/properties/BorderWidthPropertyMaker.java,0,0.0,0,10min,10.0,6,299.1
+fop,/test/java/org/apache/fop/layoutmgr/BreakElementTestCase.java,0,0.0,0,0,0.0,8,452.7
+fop,/main/java/org/apache/fop/layoutmgr/BreakOpportunity.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/layoutmgr/BreakOpportunityHelper.java,0,0.0,0,0,0.0,6,394.5
+fop,/main/java/org/apache/fop/fo/properties/BreakPropertySet.java,0,0.0,0,0,0.0,3,29.1
+fop,/main/java/org/apache/fop/util/BreakUtil.java,2,0.0,5,2h 10min,130.0,10,481.8
+fop,/main/java/org/apache/fop/hyphenation/ByteVector.java,2,0.0,1,20min,20.0,10,415.5
+fop,/main/java/org/apache/fop/pdf/CCFFilter.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/fo/expr/CeilingFunction.java,0,0.0,0,0,0.0,6,423.6
+fop,/main/java/org/apache/fop/afp/fonts/CharacterSet.java,1,0.0,0,45min,45.0,17,656.4
+fop,/main/java/org/apache/fop/afp/fonts/CharactersetEncoder.java,0,0.0,0,30min,30.0,47,1238.4
+fop,/main/java/org/apache/fop/afp/fonts/CharacterSetType.java,0,0.0,0,0,0.0,33,1445.4
+fop,/main/java/org/apache/fop/complexscripts/util/CharNormalize.java,0,0.0,0,30min,30.0,16,378.3
+fop,/test/java/org/apache/fop/util/CharUtilitiesTestCase.java,0,0.0,0,0,0.0,27,831.0
+fop,/test/java/org/apache/fop/check/Check.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fonts/CIDFont.java,0,0.0,0,7min 30s,7.5,3,336.3
+fop,/main/java/org/apache/fop/fonts/CIDFontType.java,0,0.0,0,40min,40.0,8,232.8
+fop,/main/java/org/apache/fop/fonts/CIDSet.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/util/CloseBlockerOutputStream.java,0,0.0,0,0,0.0,8,606.3
+fop,/main/java/org/apache/fop/fonts/CMapSegment.java,0,0.0,0,17min 30s,17.5,15,291.0
+fop,/main/java/org/apache/fop/layoutmgr/table/CollapsingBorderModelEyeCatching.java,2,0.0,0,3h 25min,205.0,8,423.6
+fop,/main/java/org/apache/fop/fo/pagination/ColorProfile.java,0,0.0,0,7min 30s,7.5,10,291.0
+fop,/main/java/org/apache/fop/fo/flow/table/ColumnNumberManager.java,0,0.0,0,0,0.0,6,423.6
+fop,/main/java/org/apache/fop/fo/flow/table/ColumnNumberManagerHolder.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/render/awt/viewer/Command.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/afp/modca/triplets/CommentTriplet.java,0,0.0,0,7min 30s,7.5,4,116.4
+fop,/main/java/org/apache/fop/fo/properties/CommonAccessibility.java,0,0.0,0,20min,20.0,10,481.8
+fop,/main/java/org/apache/fop/fo/properties/CommonAccessibilityHolder.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/fo/properties/CommonAural.java,18,0.0,0,15min,15.0,39,3500.4
+fop,/main/java/org/apache/fop/fo/properties/CommonMarginBlock.java,8,0.0,0,22min 30s,22.5,12,1440.6
+fop,/main/java/org/apache/fop/fo/properties/CommonMarginInline.java,6,0.0,0,7min 30s,7.5,10,1287.0
+fop,/main/java/org/apache/fop/fo/properties/CommonRelativePosition.java,5,0.0,0,7min 30s,7.5,9,1133.4
+fop,/main/java/org/apache/fop/util/CompareUtil.java,2,0.0,0,10min,10.0,10,701.7
+fop,/main/java/org/apache/fop/afp/Completable.java,0,0.0,0,0,0.0,3,29.1
+fop,/test/java/org/apache/fop/complexscripts/layout/ComplexScriptsLayoutTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/complexscripts/ComplexScriptsTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/datatypes/CompoundDatatype.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/pdf/CompressedObject.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/pdf/xref/CompressedObjectReference.java,0,0.0,0,0,0.0,13,349.2
+fop,/test/java/org/apache/fop/pdf/xref/CompressedObjectReferenceTestCase.java,0,0.0,0,7min 30s,7.5,18,780.9
+fop,/main/java/org/apache/fop/layoutmgr/ConditionalElementListener.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/afp/modca/ContainerDataDescriptor.java,0,0.0,0,22min 30s,22.5,7,577.2
+fop,/main/java/org/apache/fop/util/ContentHandlerFactory.java,0,0.0,0,0,0.0,8,87.3
+fop,/main/java/org/apache/fop/fo/properties/CorrespondingPropertyMaker.java,0,0.0,0,57min 30s,57.5,4,240.9
+fop,/main/java/org/apache/fop/pdf/xref/CrossReferenceObject.java,0,0.0,0,0,0.0,8,452.7
+fop,/main/java/org/apache/fop/pdf/xref/CrossReferenceTable.java,0,0.0,0,7min 30s,7.5,29,727.5
+fop,/test/java/org/apache/fop/pdf/xref/CrossReferenceTableTestCase.java,0,0.0,0,0,0.0,37,997.5
+fop,/main/java/org/apache/fop/afp/util/CubicBezierApproximator.java,0,0.0,0,15min,15.0,15,789.0
+fop,/main/java/org/apache/fop/fonts/CustomFontCollection.java,0,0.0,0,10min,10.0,7,577.2
+fop,/main/java/org/apache/fop/pdf/DCTFilter.java,0,0.0,0,0,0.0,3,336.3
+fop,/test/java/org/apache/fop/DebugHelper.java,0,0.0,0,0,0.0,6,394.5
+fop,/main/java/org/apache/fop/util/DefaultErrorListener.java,0,0.0,0,0,0.0,6,145.5
+fop,/main/java/org/apache/fop/events/DefaultEventBroadcaster.java,0,0.0,0,35min,35.0,20,590.1
+fop,/main/java/org/apache/fop/util/bitmap/DefaultMonochromeBitmapConverter.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/util/DelegatingContentHandler.java,0,0.0,0,35min,35.0,35,931.2
+fop,/main/java/org/apache/fop/fo/DelegatingFOEventHandler.java,0,0.0,0,15min,15.0,218,4344.0
+fop,/main/java/org/apache/fop/render/intermediate/DelegatingFragmentContentHandler.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/afp/modca/triplets/DescriptorPositionTriplet.java,0,0.0,0,7min 30s,7.5,3,87.3
+fop,/main/java/org/apache/fop/fo/extensions/destination/Destination.java,0,0.0,0,0,0.0,8,232.8
+fop,/main/java/org/apache/fop/area/DestinationData.java,2,0.0,0,27min 30s,27.5,7,203.7
+fop,/main/java/org/apache/fop/traits/Direction.java,0,0.0,0,27min 30s,27.5,18,714.6
+fop,/main/java/org/apache/fop/complexscripts/util/DiscontinuousAssociationException.java,0,0.0,0,0,0.0,6,423.6
+fop,/main/java/org/apache/fop/afp/modca/Document.java,0,0.0,0,7min 30s,7.5,7,452.7
+fop,/test/java/org/apache/fop/accessibility/fo/DOMResultUtil.java,0,0.0,0,0,0.0,10,481.8
+fop,/main/java/org/apache/fop/render/txt/border/DottedBorderElement.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/afp/util/DTDEntityResolver.java,0,0.0,0,17min 30s,17.5,9,510.9
+fop,/test/java/org/apache/fop/fotreetest/DummyFOEventHandler.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/render/DummyPercentBaseContext.java,0,0.0,0,0,0.0,7,548.1
+fop,mples/embedding/java/embedding/tools/EasyGenerationContentHandlerProxy.java,0,0.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/layoutmgr/ElementListObserver.java,0,0.0,0,0,0.0,6,116.4
+fop,/main/java/org/apache/fop/fonts/EmbeddingMode.java,0,0.0,0,10min,10.0,1,29.1
+fop,/main/java/org/apache/fop/fo/flow/table/EmptyGridUnit.java,1,0.0,0,10min,10.0,4,365.4
+fop,/test/java/org/apache/fop/fonts/EncodingModeTestCase.java,0,0.0,0,0,0.0,16,598.2
+fop,/main/java/org/apache/fop/afp/modca/triplets/EncodingTriplet.java,0,0.0,0,7min 30s,7.5,7,452.7
+fop,/main/java/org/apache/fop/fo/properties/EnumLength.java,0,0.0,0,27min 30s,27.5,12,291.0
+fop,/test/java/org/apache/fop/apps/EnvironmentalProfileFactoryTestCase.java,0,0.0,0,0,0.0,11,481.8
+fop,/main/java/org/apache/fop/apps/EnvironmentProfile.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/ps/EPSTranscoder.java,0,0.0,0,7min 30s,7.5,5,394.5
+fop,/main/java/org/apache/fop/util/text/EqualsFieldPart.java,0,0.0,0,20min,20.0,11,789.0
+fop,/test/java/org/apache/fop/fo/flow/table/ErrorCheckTest.java,1,0.0,0,0,0.0,9,452.7
+fop,/main/java/org/apache/fop/events/EventBroadcaster.java,0,0.0,0,0,0.0,2,29.1
+fop,/test/java/org/apache/fop/events/EventChecker.java,0,0.0,0,0,0.0,14,320.1
+fop,/main/java/org/apache/fop/tools/EventConventionException.java,0,0.0,0,0,0.0,2,182.7
+fop,/org/apache/fop/plan/EventList.java,0,0.0,0,0,0.0,15,320.1
+fop,/main/java/org/apache/fop/events/EventProducer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/intermediate/EventProducingFilter.java,0,0.0,0,0,0.0,10,386.4
+fop,/main/java/org/apache/fop/events/model/EventSeverity.java,0,0.0,0,47min 30s,47.5,12,569.1
+fop,mples/embedding/java/embedding/ExampleEPS.java,2,0.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/ExampleEPSSimple.java,2,0.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/afp/modca/triplets/ExtendedResourceLocalIdentifierTriplet.java,0,0.0,0,15min,15.0,10,540.0
+fop,/main/java/org/apache/fop/fo/extensions/ExtensionAttachment.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/render/afp/extensions/ExtensionPlacement.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fo/flow/ExternalGraphic.java,0,0.0,0,15min,15.0,16,465.6
+fop,/main/java/org/apache/fop/layoutmgr/inline/ExternalGraphicLayoutManager.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/svg/font/FilteringFontFamilyResolver.java,0,0.0,0,0,0.0,31,698.4
+fop,/main/java/org/apache/fop/pdf/FlateFilter.java,0,0.0,0,37min 30s,37.5,13,378.3
+fop,/main/java/org/apache/fop/fo/expr/FloorFunction.java,0,0.0,0,0,0.0,6,423.6
+fop,/main/java/org/apache/fop/fo/FObjMixed.java,1,0.0,0,52min 30s,52.5,24,860.1
+fop,/main/java/org/apache/fop/fonts/FontAdder.java,0,0.0,1,10min,10.0,5,270.0
+fop,/test/java/org/apache/fop/config/FontAttributesMissingTestCase.java,0,0.0,0,7min 30s,7.5,12,569.1
+fop,/main/java/org/apache/fop/fonts/FontCacheManager.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fonts/FontCollection.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/fonts/FontConfig.java,0,0.0,0,0,0.0,2,58.2
+fop,/test/java/org/apache/fop/apps/FontConfigurator.java,0,0.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/fonts/FontConfigurator.java,1,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/fonts/FontDescriptor.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fonts/FontDetector.java,0,0.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/fonts/FontDetectorFactory.java,0,0.0,0,7min 30s,7.5,26,1482.6
+fop,/main/java/org/apache/fop/fonts/autodetect/FontDirFinder.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fonts/FontEventAdapter.java,0,0.0,0,0,0.0,8,174.6
+fop,/main/java/org/apache/fop/fonts/FontEventListener.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fonts/FontEventProducer.java,0,0.0,0,0,0.0,8,577.2
+fop,/test/java/org/apache/fop/fonts/truetype/FontFileReaderTestCase.java,0,0.0,0,0,0.0,39,2350.8
+fop,/main/java/org/apache/fop/fonts/autodetect/FontFinder.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/tools/fontlist/FontListSerializer.java,0,0.0,1,17min 30s,17.5,30,785.7
+fop,/main/java/org/apache/fop/fonts/FontManager.java,1,0.0,0,10min,10.0,14,349.2
+fop,/test/java/org/apache/fop/fonts/FontManagerConfiguratorTestCase.java,1,0.0,0,7min 30s,7.5,34,852.0
+fop,/main/java/org/apache/fop/fonts/FontMetrics.java,0,0.0,0,0,0.0,21,58.2
+fop,/main/java/org/apache/fop/render/java2d/FontMetricsMapper.java,0,0.0,0,0,0.0,1,29.1
+fop,/test/java/org/apache/fop/config/FontMetricsUrlBadTestCase.java,0,0.0,0,7min 30s,7.5,12,569.1
+fop,/test/java/org/apache/fop/config/FontMetricsUrlMalformedTestCase.java,0,0.0,0,7min 30s,7.5,12,569.1
+fop,/main/java/org/apache/fop/render/ps/FontResourceCache.java,0,0.0,0,20min,20.0,12,291.0
+fop,/main/java/org/apache/fop/afp/fonts/FontRuntimeException.java,0,0.0,0,0,0.0,2,182.7
+fop,/test/java/org/apache/fop/config/FontsAutoDetectTestCase.java,0,0.0,0,7min 30s,7.5,13,569.1
+fop,/test/java/org/apache/fop/config/FontsDirectoryRecursiveTestCase.java,0,0.0,0,7min 30s,7.5,11,540.0
+fop,/main/java/org/apache/fop/fonts/FontSelector.java,1,0.0,0,37min 30s,37.5,14,876.3
+fop,/main/java/org/apache/fop/fo/properties/FontShorthandParser.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/fo/properties/FontSizePropertyMaker.java,0,0.0,0,37min 30s,37.5,9,510.9
+fop,/test/java/org/apache/fop/complexscripts/fonts/FontsTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/fonts/FontsTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/fonts/substitute/FontSubstitution.java,0,0.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/fonts/substitute/FontSubstitutions.java,0,0.0,1,10min,10.0,7,577.2
+fop,/main/java/org/apache/fop/fonts/substitute/FontSubstitutionsConfigurator.java,1,0.0,0,0,0.0,11,415.5
+fop,/main/java/org/apache/fop/fonts/FontTriplet.java,0,0.0,0,45min,45.0,32,881.1
+fop,/test/java/org/apache/fop/config/FontTripletAttributeMissingTestCase.java,0,0.0,0,7min 30s,7.5,12,569.1
+fop,/main/java/org/apache/fop/fonts/FontType.java,0,0.0,0,2h 37min,157.0,14,378.3
+fop,/main/java/org/apache/fop/fonts/FontUris.java,0,0.0,0,0,0.0,23,523.8
+fop,/main/java/org/apache/fop/fonts/substitute/FontWeightRange.java,0,0.0,0,0,0.0,6,174.6
+fop,/main/java/org/apache/fop/area/Footnote.java,0,0.0,0,7min 30s,7.5,3,87.3
+fop,/main/java/org/apache/fop/fo/flow/Footnote.java,2,0.0,0,45min,45.0,12,349.2
+fop,/main/java/org/apache/fop/events/FOPEventListenerProxy.java,0,0.0,0,10min,10.0,9,261.9
+fop,/test/java/org/apache/fop/apps/FopFactoryTestCase.java,1,0.0,0,7min 30s,7.5,21,897.3
+fop,/main/java/org/apache/fop/svg/font/FOPFontFamilyResolver.java,0,0.0,0,0,0.0,11,291.0
+fop,/main/java/org/apache/fop/svg/font/FOPFontFamilyResolverImpl.java,0,0.0,0,10min,10.0,42,1084.8
+fop,/test/java/org/apache/fop/fonts/FOPFontsTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/svg/font/FOPGVTFont.java,1,0.0,0,1h 10min,70.0,103,2577.0
+fop,/main/java/org/apache/fop/svg/font/FOPGVTFontFamily.java,0,0.0,0,0,0.0,36,997.5
+fop,/test/java/org/apache/fop/svg/font/FOPGVTFontTestCase.java,0,0.0,0,15min,15.0,20,531.9
+fop,/test/java/org/apache/fop/svg/font/FOPGVTGlyphVectorTest.java,0,0.0,0,7min 30s,7.5,4,87.3
+fop,/main/java/org/apache/fop/servlet/FopPrintServlet.java,0,0.0,0,0,0.0,10,415.5
+fop,/main/java/org/apache/fop/render/ps/FOPProcSet.java,0,0.0,0,15min,15.0,6,270.0
+fop,/main/java/org/apache/fop/render/rtf/FOPRtfAttributes.java,1,0.0,0,10min,10.0,7,701.7
+fop,/main/java/org/apache/fop/svg/FOPSAXSVGDocumentFactory.java,1,0.0,0,10min,10.0,5,145.5
+fop,/test/java/org/apache/fop/FOPTestUtils.java,0,0.0,0,0,0.0,8,519.0
+fop,/main/java/org/apache/fop/svg/FOPTextHandler.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/svg/FOPTextHandlerAdapter.java,0,0.0,0,7min 30s,7.5,3,336.3
+fop,/main/java/org/apache/fop/area/inline/ForeignObject.java,0,0.0,0,7min 30s,7.5,5,145.5
+fop,/main/java/org/apache/fop/fo/FOTreeBuilderContext.java,0,0.0,0,0,0.0,3,87.3
+fop,/test/java/org/apache/fop/fotreetest/FOTreeTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/fo/FOValidationEventProducer.java,0,0.0,0,0,0.0,13,693.6
+fop,/main/java/org/apache/fop/afp/modca/triplets/FullyQualifiedNameTriplet.java,0,0.0,0,15min,15.0,32,1180.2
+fop,/main/java/org/apache/fop/fo/expr/Function.java,0,0.0,0,0,0.0,3,29.1
+fop,/main/java/org/apache/fop/fo/expr/FunctionBase.java,0,0.0,0,17min 30s,17.5,7,452.7
+fop,/main/java/org/apache/fop/util/GenerationHelperContentHandler.java,0,0.0,0,0,0.0,26,1445.4
+fop,/main/java/org/apache/fop/image/loader/batik/GenericFOPBridgeContext.java,0,0.0,0,7min 30s,7.5,9,635.4
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphClassMapping.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/complexscripts/util/GlyphContextTester.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphCoverageMapping.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphDefinition.java,0,0.0,0,0,0.0,1,29.1
+fop,/test/java/org/apache/fop/svg/font/GlyphLayoutTestCase.java,0,0.0,0,0,0.0,26,1042.8
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphPositioning.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/complexscripts/fonts/GlyphSubstitution.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/complexscripts/util/GlyphTester.java,0,0.0,0,0,0.0,2,29.1
+fop,/test/java/org/apache/fop/render/gradient/GradientTestCase.java,0,0.0,0,1h 15min,75.0,155,3299.7
+fop,/test/java/org/apache/fop/render/ps/svg/GradientTestCase.java,0,0.0,0,0,0.0,29,947.4
+fop,/main/java/org/apache/fop/image/loader/batik/Graphics2DImagePainterImpl.java,0,0.0,0,0,0.0,8,357.3
+fop,/main/java/org/apache/fop/afp/goca/GraphicsAreaBegin.java,0,0.0,0,7min 30s,7.5,7,328.2
+fop,/main/java/org/apache/fop/afp/goca/GraphicsAreaEnd.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/afp/goca/GraphicsBox.java,0,0.0,0,7min 30s,7.5,6,672.6
+fop,/main/java/org/apache/fop/afp/goca/GraphicsChainedSegment.java,0,0.0,0,22min 30s,22.5,20,677.4
+fop,/main/java/org/apache/fop/afp/goca/GraphicsEndProlog.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/afp/goca/GraphicsFillet.java,0,0.0,0,27min 30s,27.5,4,489.9
+fop,/main/java/org/apache/fop/afp/goca/GraphicsFullArc.java,0,0.0,0,7min 30s,7.5,5,240.9
+fop,/main/java/org/apache/fop/afp/goca/GraphicsImage.java,1,0.0,0,32min 30s,32.5,9,452.7
+fop,/main/java/org/apache/fop/afp/goca/GraphicsLine.java,0,0.0,0,27min 30s,27.5,5,519.0
+fop,/main/java/org/apache/fop/fo/GraphicsProperties.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/afp/goca/GraphicsSetArcParameters.java,0,0.0,0,7min 30s,7.5,4,336.3
+fop,/main/java/org/apache/fop/afp/goca/GraphicsSetCharacterSet.java,0,0.0,0,7min 30s,7.5,3,87.3
+fop,/main/java/org/apache/fop/afp/goca/GraphicsSetCurrentPosition.java,0,0.0,0,7min 30s,7.5,4,489.9
+fop,/main/java/org/apache/fop/afp/goca/GraphicsSetFractionalLineWidth.java,0,0.0,0,7min 30s,7.5,3,211.8
+fop,/main/java/org/apache/fop/afp/goca/GraphicsSetLineType.java,0,0.0,0,15min,15.0,8,481.8
+fop,/main/java/org/apache/fop/afp/goca/GraphicsSetLineWidth.java,0,0.0,0,7min 30s,7.5,3,211.8
+fop,/main/java/org/apache/fop/afp/goca/GraphicsSetMix.java,0,0.0,0,15min,15.0,9,635.4
+fop,/main/java/org/apache/fop/afp/goca/GraphicsSetPatternSymbol.java,0,0.0,0,15min,15.0,19,801.9
+fop,/main/java/org/apache/fop/afp/goca/GraphicsSetProcessColor.java,2,0.0,0,42min 30s,42.5,13,627.3
+fop,/main/java/org/apache/fop/afp/GrayScaleColorConverter.java,0,0.0,0,0,0.0,12,693.6
+fop,/org/apache/fop/plan/GroupInfo.java,0,0.0,0,0,0.0,23,523.8
+fop,/main/java/org/apache/fop/render/txt/Helper.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/util/HexEncoder.java,0,0.0,0,20min,20.0,8,672.6
+fop,/test/java/org/apache/fop/util/HexEncoderTestCase.java,0,0.0,0,30min,30.0,18,934.5
+fop,/main/java/org/apache/fop/layoutmgr/inline/HyphContext.java,0,0.0,0,20min,20.0,7,203.7
+fop,/main/java/org/apache/fop/hyphenation/HyphenationException.java,1,0.0,0,0,0.0,3,336.3
+fop,/test/java/org/apache/fop/layoutengine/HyphenationLayoutTestCase.java,0,0.0,0,0,0.0,7,423.6
+fop,/test/java/org/apache/fop/intermediate/IFCheck.java,0,0.0,0,0,0.0,1,29.1
+fop,/test/java/org/apache/fop/intermediate/IFChecksFactory.java,0,0.0,0,0,0.0,6,365.4
+fop,/main/java/org/apache/fop/render/intermediate/util/IFConcatenator.java,0,0.0,0,0,0.0,38,1333.8
+fop,/main/java/org/apache/fop/render/intermediate/IFContentHandler.java,11,0.0,0,40min,40.0,25,976.5
+fop,/main/java/org/apache/fop/render/intermediate/IFDocumentHandler.java,1,0.0,0,10min,10.0,24,87.3
+fop,/main/java/org/apache/fop/render/intermediate/IFDocumentHandlerConfigurator.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/intermediate/util/IFDocumentHandlerProxy.java,0,0.0,0,7min 30s,7.5,19,552.9
+fop,/main/java/org/apache/fop/render/intermediate/IFDocumentNavigationHandler.java,0,0.0,0,0,0.0,4,87.3
+fop,/main/java/org/apache/fop/render/intermediate/IFException.java,0,0.0,0,0,0.0,3,182.7
+fop,/main/java/org/apache/fop/render/intermediate/IFPainter.java,3,0.0,0,20min,20.0,11,29.1
+fop,/main/java/org/apache/fop/render/intermediate/IFRendererConfig.java,0,0.0,0,0,0.0,15,569.1
+fop,/main/java/org/apache/fop/render/intermediate/IFSerializerMaker.java,0,0.0,0,0,0.0,5,394.5
+fop,/test/java/org/apache/fop/render/intermediate/IFSerializerTestCase.java,0,0.0,0,0,0.0,39,1055.7
+fop,/main/java/org/apache/fop/render/intermediate/IFState.java,0,0.0,0,15min,15.0,23,590.1
+fop,/test/java/org/apache/fop/fo/flow/table/IllegalRowSpanTestCase.java,0,0.0,0,0,0.0,24,831.0
+fop,/main/java/org/apache/fop/area/inline/Image.java,0,0.0,0,7min 30s,7.5,5,394.5
+fop,/main/java/org/apache/fop/render/ImageAdapter.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/render/rtf/rtflib/tools/ImageConstants.java,0,0.0,0,7min 30s,7.5,8,357.3
+fop,/main/java/org/apache/fop/image/loader/batik/ImageConverterG2D2SVG.java,0,0.0,0,7min 30s,7.5,10,635.4
+fop,/main/java/org/apache/fop/afp/modca/ImageDataDescriptor.java,0,0.0,0,22min 30s,22.5,10,789.0
+fop,/main/java/org/apache/fop/render/ps/ImageEncoderCCITTFax.java,0,0.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/render/ps/ImageEncoderJPEG.java,0,0.0,0,0,0.0,6,174.6
+fop,/test/java/org/apache/fop/render/ps/ImageEncoderPNGTestCase.java,0,0.0,0,7min 30s,7.5,52,1720.2
+fop,/main/java/org/apache/fop/render/ImageHandler.java,0,0.0,0,0,0.0,3,29.1
+fop,/main/java/org/apache/fop/render/ImageHandlerBase.java,0,0.0,0,0,0.0,4,29.1
+fop,/main/java/org/apache/fop/render/ImageHandlerUtil.java,0,0.0,0,17min 30s,17.5,7,365.4
+fop,/main/java/org/apache/fop/afp/ioca/ImageInputDescriptor.java,0,0.0,0,15min,15.0,6,548.1
+fop,/main/java/org/apache/fop/image/loader/batik/ImageLoaderFactorySVG.java,0,0.0,0,0,0.0,11,569.1
+fop,/main/java/org/apache/fop/image/loader/batik/ImageLoaderFactoryWMF.java,0,0.0,0,0,0.0,11,569.1
+fop,/main/java/org/apache/fop/image/loader/batik/ImageLoaderSVG.java,0,0.0,0,0,0.0,7,203.7
+fop,/main/java/org/apache/fop/afp/ioca/ImageRasterData.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/afp/ioca/ImageRasterPattern.java,0,0.0,0,15min,15.0,5,365.4
+fop,/main/java/org/apache/fop/render/pdf/ImageRawCCITTFaxAdapter.java,0,0.0,0,0,0.0,7,174.6
+fop,/main/java/org/apache/fop/afp/ioca/ImageSizeParameter.java,0,0.0,0,7min 30s,7.5,13,751.8
+fop,/main/java/org/apache/fop/image/loader/batik/ImageWMF.java,0,0.0,0,7min 30s,7.5,7,452.7
+fop,/main/java/org/apache/fop/afp/modca/IMImageObject.java,0,0.0,0,7min 30s,7.5,10,291.0
+fop,/main/java/org/apache/fop/afp/modca/IncludedResourceObject.java,0,0.0,0,7min 30s,7.5,7,203.7
+fop,/main/java/org/apache/fop/afp/modca/IncludePageOverlay.java,0,0.0,0,15min,15.0,10,664.5
+fop,/main/java/org/apache/fop/afp/modca/IncludePageSegment.java,0,0.0,0,7min 30s,7.5,8,481.8
+fop,/main/java/org/apache/fop/complexscripts/fonts/IncompatibleSubtableException.java,0,0.0,0,0,0.0,6,423.6
+fop,/main/java/org/apache/fop/fo/flow/InlineLevel.java,0,0.0,0,30min,30.0,25,698.4
+fop,/main/java/org/apache/fop/layoutmgr/inline/InlineLevelEventProducer.java,0,0.0,0,0,0.0,7,548.1
+fop,/main/java/org/apache/fop/layoutmgr/inline/InlineLevelLayoutManager.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/area/inline/InlineViewport.java,0,0.0,0,35min,35.0,23,582.0
+fop,/test/java/org/apache/fop/area/inline/InlineViewportTestCase.java,0,0.0,0,0,0.0,14,598.2
+fop,/main/java/org/apache/fop/pdf/InMemoryStreamCache.java,0,0.0,0,30min,30.0,5,145.5
+fop,/main/java/org/apache/fop/layoutmgr/inline/InstreamForeignObjectLM.java,0,0.0,0,7min 30s,7.5,5,394.5
+fop,/main/java/org/apache/fop/afp/modca/InterchangeSet.java,0,0.0,0,37min 30s,37.5,7,203.7
+fop,/test/java/org/apache/fop/intermediate/IntermediateFormatTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/afp/modca/InvokeMediumMap.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfAfterContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfBeforeContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfBookmarkContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfExternalGraphicContainer.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfHyperLinkContainer.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfJforCmdContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfListContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfOptions.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfPageBreakContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfPageContainer.java,0,0.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfPageNumberCitationContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfPageNumberContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfParagraphContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfParagraphKeepTogetherContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfTableContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IrtfTemplateContainer.java,0,0.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfTextContainer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/IRtfTextrunContainer.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/render/java2d/Java2DDocumentHandler.java,0,0.0,0,7min 30s,7.5,116,2876.1
+fop,/main/java/org/apache/fop/render/java2d/Java2DGraphics2DAdapter.java,1,0.0,0,15min,15.0,10,635.4
+fop,/main/java/org/apache/fop/render/java2d/Java2DImageHandlerGraphics2D.java,0,0.0,0,7min 30s,7.5,9,606.3
+fop,/test/java/org/apache/fop/apps/Java2DRendererConfBuilder.java,0,0.0,0,0,0.0,13,664.5
+fop,/test/java/org/apache/fop/render/java2d/Java2DRendererConfigParserTestcase.java,0,0.0,0,0,0.0,24,1021.8
+fop,/main/java/org/apache/fop/render/pcl/Java2DRendererOption.java,0,0.0,0,0,0.0,8,203.7
+fop,/main/java/org/apache/fop/render/java2d/Java2DRendererOption.java,0,0.0,0,0,0.0,8,203.7
+fop,/main/java/org/apache/fop/render/java2d/Java2DRenderingSettings.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/java2d/Java2DUtil.java,0,0.0,0,10min,10.0,13,598.2
+fop,/main/java/org/apache/fop/datatypes/KeepValue.java,0,0.0,0,7min 30s,7.5,11,569.1
+fop,/main/java/org/apache/fop/layoutmgr/inline/KnuthInlineBox.java,0,0.0,0,7min 30s,7.5,13,320.1
+fop,/main/java/org/apache/fop/layoutmgr/KnuthPossPosIter.java,0,0.0,0,27min 30s,27.5,4,87.3
+fop,/main/java/org/apache/fop/fo/expr/LabelEndFunction.java,1,0.0,0,17min 30s,17.5,8,606.3
+fop,/test/java/org/apache/fop/layoutengine/LayoutEngineCheck.java,0,0.0,0,0,0.0,2,29.1
+fop,/test/java/org/apache/fop/layoutengine/LayoutEngineChecksFactory.java,0,0.0,0,7min 30s,7.5,6,365.4
+fop,/test/java/org/apache/fop/layoutengine/LayoutEngineTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/intermediate/LayoutIFTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/layoutmgr/LayoutManagerMaker.java,0,0.0,0,0,0.0,1,29.1
+fop,/test/java/org/apache/fop/layoutengine/LayoutResult.java,0,0.0,0,0,0.0,7,203.7
+fop,/test/java/org/apache/fop/fonts/LazyFontTestCase.java,0,0.0,0,0,0.0,14,598.2
+fop,/main/java/org/apache/fop/datatypes/Length.java,0,0.0,0,0,0.0,3,29.1
+fop,/main/java/org/apache/fop/fo/properties/LengthPairProperty.java,0,0.0,0,1h 25min,85.0,18,685.5
+fop,/main/java/org/apache/fop/fo/properties/LengthProperty.java,0,0.0,0,55min,55.0,12,789.0
+fop,/test/java/org/apache/fop/text/linebreak/LineBreakUtilsTestCase.java,1,0.0,0,15min,15.0,13,540.0
+fop,/main/java/org/apache/fop/fo/properties/LineHeightPropertyMaker.java,0,0.0,0,20min,20.0,9,635.4
+fop,/main/java/org/apache/fop/render/intermediate/extensions/Link.java,0,0.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/render/rtf/ListAttributesConverter.java,0,0.0,0,0,0.0,5,519.0
+fop,/main/java/org/apache/fop/layoutmgr/ListElement.java,0,0.0,0,20min,20.0,9,58.2
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/ListInTable.java,0,0.0,0,0,0.0,17,810.0
+fop,/main/java/org/apache/fop/fo/flow/ListItemBody.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/fo/flow/ListItemLabel.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/util/ListUtil.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/fo/LoadingException.java,0,0.0,0,0,0.0,5,240.9
+fop,/main/java/org/apache/fop/layoutmgr/LocalBreaker.java,1,0.0,0,20min,20.0,64,1762.2
+fop,/test/java/org/apache/fop/logging/LoggingElementListObserver.java,1,0.0,0,27min 30s,27.5,7,394.5
+fop,/main/java/org/apache/fop/util/LogUtil.java,0,0.0,0,0,0.0,7,394.5
+fop,/main/java/org/apache/fop/fonts/autodetect/MacFontDirFinder.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/afp/modca/MapContainerData.java,0,0.0,3,17min 30s,17.5,6,548.1
+fop,/main/java/org/apache/fop/afp/modca/MapImageObject.java,0,0.0,3,17min 30s,17.5,6,548.1
+fop,/main/java/org/apache/fop/afp/modca/triplets/MappingOptionTriplet.java,0,0.0,0,15min,15.0,11,569.1
+fop,/main/java/org/apache/fop/fo/expr/MaxFunction.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/afp/modca/MaximumSizeExceededException.java,0,0.0,0,0,0.0,2,182.7
+fop,/main/java/org/apache/fop/render/mif/MIFFOEventHandlerMaker.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/fo/expr/MinFunction.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/traits/MinOptMaxTestCase.java,0,0.0,0,37min 30s,37.5,82,2821.2
+fop,/test/java/org/apache/fop/render/pcl/fonts/MockPCLTTFFontReader.java,1,0.0,0,10min,10.0,15,780.9
+fop,/main/java/org/apache/fop/afp/parser/MODCAParser.java,1,0.0,0,27min 30s,27.5,12,510.9
+fop,/main/java/org/apache/fop/util/bitmap/MonochromeBitmapConverter.java,0,0.0,0,0,0.0,1,29.1
+fop,/test/java/org/apache/fop/apps/MutableConfig.java,0,0.0,0,0,0.0,76,1571.4
+fop,/main/java/org/apache/fop/fonts/MutableFont.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/render/intermediate/extensions/NamedDestination.java,0,0.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/svg/NativeImageHandler.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/afp/modca/NoOperation.java,0,0.0,0,15min,15.0,6,299.1
+fop,/main/java/org/apache/fop/area/NormalFlow.java,0,0.0,0,7min 30s,7.5,2,182.7
+fop,/main/java/org/apache/fop/pdf/NullFilter.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/fo/expr/NumericOp.java,0,0.0,0,3h,180.0,15,722.7
+fop,/main/java/org/apache/fop/afp/modca/ObjectAreaPosition.java,0,0.0,0,22min 30s,22.5,10,386.4
+fop,/main/java/org/apache/fop/afp/modca/triplets/ObjectAreaSizeTriplet.java,0,0.0,0,7min 30s,7.5,6,299.1
+fop,/main/java/org/apache/fop/afp/modca/triplets/ObjectByteExtentTriplet.java,0,0.0,0,7min 30s,7.5,6,174.6
+fop,/main/java/org/apache/fop/afp/modca/triplets/ObjectClassificationTriplet.java,0,0.0,0,37min 30s,37.5,16,780.9
+fop,/main/java/org/apache/fop/afp/modca/ObjectEnvironmentGroup.java,0,0.0,0,22min 30s,22.5,14,378.3
+fop,/main/java/org/apache/fop/pdf/xref/ObjectReference.java,0,0.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/fonts/truetype/OFDirTabEntry.java,0,0.0,0,20min,20.0,21,436.5
+fop,/main/java/org/apache/fop/area/OffDocumentExtensionAttachment.java,0,0.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/fo/extensions/OldExtensionElementMapping.java,0,0.0,0,7min 30s,7.5,4,87.3
+fop,/main/java/org/apache/fop/complexscripts/fonts/OTFLanguage.java,0,0.0,0,7min 30s,7.5,801,23441.7
+fop,/main/java/org/apache/fop/complexscripts/fonts/OTFScript.java,0,0.0,0,7min 30s,7.5,242,7174.8
+fop,/main/java/org/apache/fop/fonts/truetype/OTFSubSetWriter.java,0,0.0,0,0,0.0,26,955.5
+fop,/test/java/org/apache/fop/fonts/truetype/OTFToType1TestCase.java,0,0.0,0,0,0.0,32,1005.6
+fop,/main/java/org/apache/fop/afp/fonts/OutlineFont.java,0,0.0,0,7min 30s,7.5,7,423.6
+fop,/main/java/org/apache/fop/afp/modca/Overlay.java,0,0.0,0,15min,15.0,8,481.8
+fop,/test/java/org/apache/fop/check/package-info.java,0,0.0,0,0,0.0,null,null
+fop,/main/java/org/apache/fop/layoutmgr/Page.java,0,0.0,0,7min 30s,7.5,9,203.7
+fop,/main/java/org/apache/fop/render/rtf/PageAttributesConverter.java,0,0.0,0,15min,15.0,10,789.0
+fop,/main/java/org/apache/fop/render/awt/viewer/PageChangeEvent.java,0,0.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/render/awt/viewer/PageChangeListener.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/afp/modca/PageGroup.java,0,0.0,0,7min 30s,7.5,8,452.7
+fop,/main/java/org/apache/fop/fo/flow/PageNumberCitation.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/fo/flow/PageNumberCitationLast.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/layoutmgr/inline/PageNumberCitationLastLayoutManager.java,1,0.0,0,27min 30s,27.5,11,510.9
+fop,/main/java/org/apache/fop/layoutmgr/inline/PageNumberCitationLayoutManager.java,1,0.0,0,7min 30s,7.5,11,510.9
+fop,/main/java/org/apache/fop/fo/pagination/PageNumberGenerator.java,0,0.0,0,7min 30s,7.5,3,87.3
+fop,/main/java/org/apache/fop/layoutmgr/inline/PageNumberLayoutManager.java,3,0.0,0,27min 30s,27.5,22,1233.6
+fop,/main/java/org/apache/fop/afp/modca/PageObject.java,0,0.0,0,30min,30.0,9,510.9
+fop,/test/java/org/apache/fop/render/extensions/prepress/PageScaleTestCase.java,0,0.0,0,0,0.0,14,751.8
+fop,/main/java/org/apache/fop/afp/modca/PageSegment.java,0,0.0,0,7min 30s,7.5,8,232.8
+fop,/main/java/org/apache/fop/render/afp/PageSegmentDescriptor.java,0,0.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/apps/PageSequenceResults.java,0,0.0,0,0,0.0,5,145.5
+fop,/main/java/org/apache/fop/render/print/PagesMode.java,0,0.0,0,37min 30s,37.5,4,240.9
+fop,/main/java/org/apache/fop/afp/PaintingInfo.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/ParagraphKeeptogetherContext.java,0,0.0,0,0,0.0,6,145.5
+fop,/main/java/org/apache/fop/render/gradient/Pattern.java,0,0.0,0,0,0.0,13,349.2
+fop,/main/java/org/apache/fop/hyphenation/PatternConsumer.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/pcl/fonts/PCLByteWriterUtil.java,0,0.0,0,0,0.0,72,2874.6
+fop,/test/java/org/apache/fop/render/pcl/fonts/PCLByteWriterUtilTestCase.java,0,0.0,0,7min 30s,7.5,18,685.5
+fop,/main/java/org/apache/fop/render/pcl/fonts/PCLCharacterWriter.java,0,0.0,0,0,0.0,19,743.7
+fop,/main/java/org/apache/fop/render/pcl/PCLDocumentHandlerMaker.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/render/pcl/extensions/PCLElementMapping.java,0,0.0,0,7min 30s,7.5,6,548.1
+fop,/main/java/org/apache/fop/render/pcl/PCLEventProducer.java,0,0.0,0,0,0.0,10,635.4
+fop,/main/java/org/apache/fop/render/pcl/fonts/PCLFontSegment.java,0,0.0,0,0,0.0,26,640.2
+fop,/main/java/org/apache/fop/render/pcl/PCLImageHandlerGraphics2D.java,0,0.0,3,27min 30s,27.5,11,730.8
+fop,/main/java/org/apache/fop/render/pcl/PCLImageHandlerRenderedImage.java,0,0.0,0,0,0.0,8,606.3
+fop,/main/java/org/apache/fop/render/pcl/PCLPageDefinition.java,1,0.0,0,45min,45.0,30,976.5
+fop,/test/java/org/apache/fop/render/pcl/PCLPainterTestCase.java,0,0.0,0,7min 30s,7.5,26,611.1
+fop,/test/java/org/apache/fop/render/pcl/PCLRendererConfBuilder.java,0,0.0,0,0,0.0,28,1013.7
+fop,/test/java/org/apache/fop/render/pcl/PCLRendererConfigParserTestCase.java,0,0.0,0,0,0.0,48,1699.2
+fop,/test/java/org/apache/fop/render/pcl/PCLRendererConfiguratorTestCase.java,0,0.0,0,7min 30s,7.5,49,1354.8
+fop,/main/java/org/apache/fop/render/pcl/PCLRenderingContext.java,0,0.0,0,0,0.0,7,203.7
+fop,/main/java/org/apache/fop/render/pcl/PCLSVGHandler.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/render/pcl/fonts/truetype/PCLTTFOS2FontTable.java,0,0.0,0,0,0.0,33,1055.7
+fop,/main/java/org/apache/fop/render/pcl/fonts/truetype/PCLTTFPCLTFontTable.java,0,0.0,0,7min 30s,7.5,64,1804.2
+fop,/main/java/org/apache/fop/render/pcl/fonts/truetype/PCLTTFPOSTFontTable.java,0,0.0,0,0,0.0,19,677.4
+fop,/main/java/org/apache/fop/render/pcl/fonts/truetype/PCLTTFTable.java,0,0.0,0,7min 30s,7.5,27,889.2
+fop,/main/java/org/apache/fop/render/pcl/fonts/truetype/PCLTTFTableFactory.java,0,0.0,0,40min,40.0,20,714.6
+fop,/main/java/org/apache/fop/pdf/PDFAction.java,0,0.0,0,7min 30s,7.5,5,365.4
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFActionElement.java,0,0.0,0,15min,15.0,16,627.3
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFActionExtension.java,0,0.0,0,15min,15.0,7,299.1
+fop,/test/java/org/apache/fop/pdf/PDFAModeTestCase.java,0,0.0,0,0,0.0,83,1616.7
+fop,/test/java/org/apache/fop/pdf/PDFAttachmentTestCase.java,0,0.0,0,0,0.0,16,627.3
+fop,/main/java/org/apache/fop/svg/PDFBatikFlowTextElementBridge.java,0,0.0,0,0,0.0,7,203.7
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFCatalogElement.java,0,0.0,0,7min 30s,7.5,11,510.9
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFCatalogExtension.java,0,0.0,0,7min 30s,7.5,7,423.6
+fop,/main/java/org/apache/fop/pdf/PDFCharProcs.java,1,0.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/pdf/PDFCIDFontDescriptor.java,0,0.0,0,15min,15.0,5,519.0
+fop,/main/java/org/apache/fop/pdf/PDFCMap.java,0,0.0,0,15min,15.0,59,1965.9
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFCollectionEntryExtension.java,0,0.0,0,7min 30s,7.5,14,598.2
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFCollectionExtension.java,0,0.0,0,0,0.0,11,540.0
+fop,/main/java/org/apache/fop/pdf/PDFColorSpace.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/pdf/PDFConformanceException.java,0,0.0,0,0,0.0,5,365.4
+fop,/main/java/org/apache/fop/svg/PDFContext.java,0,0.0,0,0,0.0,3,87.3
+fop,/main/java/org/apache/fop/pdf/PDFDests.java,0,0.0,0,7min 30s,7.5,3,336.3
+fop,/main/java/org/apache/fop/render/pdf/PDFDocumentHandlerMaker.java,0,0.0,0,0,0.0,10,510.9
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFDocumentInformationElement.java,0,0.0,0,7min 30s,7.5,30,947.4
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFDocumentInformationExtension.java,0,0.0,0,7min 30s,7.5,8,423.6
+fop,/test/java/org/apache/fop/pdf/PDFDocumentTestCase.java,0,0.0,0,7min 30s,7.5,9,481.8
+fop,/main/java/org/apache/fop/pdf/PDFDPartRoot.java,0,0.0,0,7min 30s,7.5,14,320.1
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFElementMapping.java,0,0.0,0,22min 30s,22.5,127,6088.8
+fop,/main/java/org/apache/fop/pdf/PDFEmbeddedFile.java,0,0.0,0,7min 30s,7.5,7,577.2
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFEmbeddedFileElement.java,0,0.0,0,7min 30s,7.5,20,714.6
+fop,/main/java/org/apache/fop/pdf/PDFEmbeddedFiles.java,0,0.0,0,7min 30s,7.5,7,452.7
+fop,/test/java/org/apache/fop/pdf/PDFEncodingTestCase.java,0,0.0,0,0,0.0,15,780.9
+fop,/main/java/org/apache/fop/pdf/PDFEncryption.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/pdf/PDFEncryptionParams.java,4,0.0,0,22min 30s,22.5,30,582.0
+fop,/main/java/org/apache/fop/render/pdf/PDFEventProducer.java,0,0.0,0,0,0.0,5,519.0
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFExtensionAttachment.java,0,0.0,0,15min,15.0,11,510.9
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFExtensionEventProducer.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFExtensionHandlerFactory.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/pdf/PDFFilterException.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/pdf/PDFFilterListTestCase.java,0,0.0,0,0,0.0,11,481.8
+fop,/main/java/org/apache/fop/svg/PDFFlowExtTextPainter.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/svg/PDFFlowTextPainter.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/pdf/PDFFontTrueType.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/pdf/PDFFontType0.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/pdf/PDFFontType1.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/pdf/PDFFontType3.java,0,0.0,0,15min,15.0,7,452.7
+fop,/test/java/org/apache/fop/svg/PDFGraphics2DTestCase.java,0,0.0,0,0,0.0,15,569.1
+fop,/main/java/org/apache/fop/svg/PDFGraphicsConfiguration.java,1,0.0,0,40min,40.0,4,116.4
+fop,/test/java/org/apache/fop/render/pdf/PDFGraphicsPainterTestCase.java,1,0.0,0,0,0.0,92,2037.0
+fop,/main/java/org/apache/fop/pdf/PDFICCStream.java,0,0.0,0,7min 30s,7.5,8,232.8
+fop,/main/java/org/apache/fop/pdf/PDFIdentifiedDictionary.java,0,0.0,0,15min,15.0,11,261.9
+fop,/main/java/org/apache/fop/pdf/PDFImage.java,1,0.0,0,0,0.0,7,58.2
+fop,/main/java/org/apache/fop/render/pdf/PDFImageHandlerGraphics2D.java,1,0.0,3,35min,35.0,12,789.0
+fop,/main/java/org/apache/fop/render/pdf/PDFImageHandlerRawCCITTFax.java,0,0.0,0,7min 30s,7.5,9,481.8
+fop,/main/java/org/apache/fop/render/pdf/PDFImageHandlerRawJPEG.java,0,0.0,0,7min 30s,7.5,9,481.8
+fop,/main/java/org/apache/fop/render/pdf/PDFImageHandlerRawPNG.java,0,0.0,0,7min 30s,7.5,9,481.8
+fop,/main/java/org/apache/fop/render/pdf/PDFImageHandlerRenderedImage.java,0,0.0,0,7min 30s,7.5,9,481.8
+fop,/main/java/org/apache/fop/pdf/PDFImageXObject.java,0,0.0,0,22min 30s,22.5,14,349.2
+fop,/main/java/org/apache/fop/pdf/PDFInternalLink.java,0,0.0,0,7min 30s,7.5,3,87.3
+fop,/main/java/org/apache/fop/pdf/PDFLayer.java,0,0.0,0,7min 30s,7.5,40,902.1
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFLayerElement.java,0,0.0,0,7min 30s,7.5,11,510.9
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFLayerExtension.java,0,0.0,0,7min 30s,7.5,7,423.6
+fop,/test/java/org/apache/fop/pdf/PDFLibraryTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/render/pdf/PDFLogicalStructureHandler.java,1,0.0,0,50min,50.0,40,1180.2
+fop,/main/java/org/apache/fop/pdf/PDFName.java,0,0.0,0,10min,10.0,25,552.9
+fop,/main/java/org/apache/fop/pdf/PDFNames.java,0,0.0,0,7min 30s,7.5,3,87.3
+fop,/main/java/org/apache/fop/pdf/PDFNameTreeNode.java,0,0.0,1,17min 30s,17.5,8,328.2
+fop,/main/java/org/apache/fop/pdf/PDFNavigator.java,0,0.0,0,15min,15.0,40,902.1
+fop,/main/java/org/apache/fop/pdf/PDFNavigatorAction.java,0,0.0,0,7min 30s,7.5,8,423.6
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFNavigatorElement.java,0,0.0,0,7min 30s,7.5,11,510.9
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFNavigatorExtension.java,0,0.0,0,7min 30s,7.5,7,423.6
+fop,/main/java/org/apache/fop/pdf/PDFNull.java,0,0.0,0,7min 30s,7.5,3,211.8
+fop,/test/java/org/apache/fop/pdf/PDFNullTestCase.java,0,0.0,0,0,0.0,9,481.8
+fop,/main/java/org/apache/fop/pdf/PDFNumberTreeNode.java,0,0.0,1,17min 30s,17.5,9,357.3
+fop,/test/java/org/apache/fop/pdf/PDFNumsArrayTestCase.java,0,0.0,0,0,0.0,11,291.0
+fop,/main/java/org/apache/fop/pdf/PDFObject.java,2,0.0,0,1h 12min,72.0,45,1042.8
+fop,/main/java/org/apache/fop/pdf/PDFOutputIntent.java,0,0.0,0,15min,15.0,8,203.7
+fop,/main/java/org/apache/fop/pdf/PDFPage.java,0,0.0,0,15min,15.0,9,357.3
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFPageElement.java,0,0.0,0,15min,15.0,16,627.3
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFPagePieceElement.java,0,0.0,0,7min 30s,7.5,9,452.7
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFPagePieceExtension.java,0,0.0,0,7min 30s,7.5,8,423.6
+fop,/test/java/org/apache/fop/pdf/PDFPagePieceTestCase.java,0,0.0,0,7min 30s,7.5,16,598.2
+fop,/main/java/org/apache/fop/pdf/PDFParentTree.java,0,0.0,0,7min 30s,7.5,17,627.3
+fop,/main/java/org/apache/fop/pdf/PDFPathPaint.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/pdf/PDFRectangle.java,0,0.0,0,0,0.0,8,174.6
+fop,/test/java/org/apache/fop/pdf/PDFRectangleTestCase.java,0,0.0,0,0,0.0,9,606.3
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFReferenceElement.java,0,0.0,0,15min,15.0,11,510.9
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFReferenceExtension.java,0,0.0,0,7min 30s,7.5,25,552.9
+fop,/test/java/org/apache/fop/pdf/PDFReferenceTestCase.java,0,0.0,0,0,0.0,12,569.1
+fop,/test/java/org/apache/fop/apps/PDFRendererConfBuilder.java,0,0.0,0,0,0.0,75,1608.6
+fop,/main/java/org/apache/fop/render/pdf/PDFRendererConfigurator.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/render/pdf/PDFRenderingContext.java,0,0.0,0,0,0.0,32,814.8
+fop,/test/java/org/apache/fop/render/pdf/PDFsRGBSettingsTestCase.java,0,0.0,0,0,0.0,21,839.1
+fop,/main/java/org/apache/fop/pdf/PDFStructTreeRoot.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/svg/PDFSVGFlowRootElementBridge.java,0,0.0,0,0,0.0,7,203.7
+fop,/main/java/org/apache/fop/pdf/PDFT1Stream.java,0,0.0,0,27min 30s,27.5,7,203.7
+fop,/main/java/org/apache/fop/svg/PDFTextElementBridge.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/svg/PDFTextUtil.java,0,0.0,0,0,0.0,14,502.8
+fop,/main/java/org/apache/fop/pdf/PDFTTFStream.java,0,0.0,0,27min 30s,27.5,10,291.0
+fop,/test/java/org/apache/fop/pdf/PDFUATestCase.java,1,0.0,0,17min 30s,17.5,28,1042.8
+fop,/test/java/org/apache/fop/accessibility/fo/PDFUAWarningTestCase.java,0,0.0,0,0,0.0,15,349.2
+fop,/main/java/org/apache/fop/pdf/PDFUri.java,1,0.0,0,57min 30s,57.5,12,291.0
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFVTElement.java,0,0.0,0,7min 30s,7.5,9,452.7
+fop,/main/java/org/apache/fop/render/pdf/extensions/PDFVTExtension.java,0,0.0,0,7min 30s,7.5,8,423.6
+fop,/main/java/org/apache/fop/pdf/PDFVTMode.java,0,0.0,0,10min,10.0,7,174.6
+fop,/test/java/org/apache/fop/pdf/PDFVTTestCase.java,4,0.0,0,50min,50.0,73,2617.5
+fop,/main/java/org/apache/fop/pdf/PDFWritable.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/pdf/PDFXObject.java,0,0.0,0,7min 30s,7.5,8,423.6
+fop,/main/java/org/apache/fop/fo/flow/table/PendingSpan.java,0,0.0,0,20min,20.0,2,58.2
+fop,/main/java/org/apache/fop/datatypes/PercentBase.java,0,0.0,0,0,0.0,4,29.1
+fop,/main/java/org/apache/fop/datatypes/PercentBaseContext.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/fonts/type1/PFBData.java,0,0.0,0,7min 30s,7.5,8,203.7
+fop,/main/java/org/apache/fop/render/mif/PGFElement.java,0,0.0,0,10min,10.0,3,336.3
+fop,/org/apache/fop/plan/PlanDrawer.java,0,0.0,0,0,0.0,4,116.4
+fop,/org/apache/fop/plan/PlanElementMapping.java,0,0.0,0,7min 30s,7.5,24,1270.8
+fop,/org/apache/fop/plan/PlanObj.java,0,0.0,0,7min 30s,7.5,3,336.3
+fop,/main/java/org/apache/fop/render/bitmap/PNGDocumentHandler.java,0,0.0,0,7min 30s,7.5,7,394.5
+fop,/main/java/org/apache/fop/render/bitmap/PNGDocumentHandlerMaker.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/render/bitmap/PNGRenderer.java,0,0.0,0,35min,35.0,17,868.2
+fop,/main/java/org/apache/fop/render/bitmap/PNGRendererConfig.java,0,0.0,0,0,0.0,18,905.4
+fop,/main/java/org/apache/fop/render/bitmap/PNGRendererMaker.java,0,0.0,0,0,0.0,21,714.6
+fop,/main/java/org/apache/fop/complexscripts/fonts/Positionable.java,0,0.0,0,0,0.0,1,29.1
+fop,/test/java/org/apache/fop/fonts/type1/PostscriptParserTestCase.java,0,0.0,0,0,0.0,18,407.4
+fop,/main/java/org/apache/fop/afp/modca/PreprocessPresentationObject.java,0,0.0,0,22min 30s,22.5,24,1071.9
+fop,/main/java/org/apache/fop/afp/modca/triplets/PresentationSpaceMixingRulesTriplet.java,0,0.0,0,15min,15.0,14,656.4
+fop,/main/java/org/apache/fop/afp/modca/triplets/PresentationSpaceResetMixingTriplet.java,0,0.0,0,15min,15.0,9,510.9
+fop,/main/java/org/apache/fop/afp/modca/PresentationTextData.java,0,0.0,0,7min 30s,7.5,5,394.5
+fop,/main/java/org/apache/fop/render/PrintRenderer.java,0,0.0,0,0,0.0,6,299.1
+fop,/main/java/org/apache/fop/render/PrintRendererConfigurator.java,0,0.0,0,15min,15.0,25,735.6
+fop,/main/java/org/apache/fop/render/print/PrintRendererMaker.java,0,0.0,0,0,0.0,20,714.6
+fop,/test/java/org/apache/fop/visual/ProducerContext.java,0,0.0,0,0,0.0,9,174.6
+fop,mples/embedding/java/embedding/model/ProjectMember.java,0,0.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/model/ProjectTeam.java,0,0.0,null,null,null,null,null
+fop,mples/embedding/java/embedding/model/ProjectTeamInputSource.java,0,0.0,null,null,null,null,null
+fop,/main/java/org/apache/fop/fo/expr/PropertyException.java,0,0.0,0,20min,20.0,7,145.5
+fop,/main/java/org/apache/fop/events/PropertyExceptionFactory.java,0,0.0,0,0,0.0,7,577.2
+fop,/main/java/org/apache/fop/fo/PropertyListMaker.java,0,0.0,0,0,0.0,1,29.1
+fop,/test/java/org/apache/fop/fo/properties/PropertyMocks.java,0,0.0,0,0,0.0,12,481.8
+fop,/main/java/org/apache/fop/fo/expr/ProportionalColumnWidthFunction.java,0,0.0,0,0,0.0,13,818.1
+fop,/main/java/org/apache/fop/render/ps/PSBatikFlowTextElementBridge.java,0,0.0,0,7min 30s,7.5,13,569.1
+fop,/main/java/org/apache/fop/render/ps/extensions/PSCommentAfter.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/render/ps/extensions/PSCommentAfterElement.java,0,0.0,0,7min 30s,7.5,4,240.9
+fop,/main/java/org/apache/fop/render/ps/extensions/PSCommentBefore.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/render/ps/extensions/PSCommentBeforeElement.java,0,0.0,0,7min 30s,7.5,4,240.9
+fop,/main/java/org/apache/fop/render/ps/PSDocumentHandlerMaker.java,0,0.0,0,0,0.0,15,598.2
+fop,/main/java/org/apache/fop/render/ps/PSEventProducer.java,0,0.0,0,0,0.0,9,606.3
+fop,/main/java/org/apache/fop/render/ps/extensions/PSExtensionAttachment.java,0,0.0,0,15min,15.0,4,58.2
+fop,/main/java/org/apache/fop/render/ps/extensions/PSExtensionElementMapping.java,0,0.0,0,7min 30s,7.5,60,3081.6
+fop,/main/java/org/apache/fop/render/ps/extensions/PSExtensionHandlerFactory.java,0,0.0,0,0,0.0,5,394.5
+fop,/test/java/org/apache/fop/render/ps/PSGraphicsPainterTestCase.java,0,0.0,0,0,0.0,12,540.0
+fop,/main/java/org/apache/fop/render/ps/PSImageFormResource.java,0,0.0,0,0,0.0,14,349.2
+fop,/main/java/org/apache/fop/render/ps/PSImageHandler.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/render/ps/PSImageHandlerEPS.java,0,0.0,0,17min 30s,17.5,10,481.8
+fop,/main/java/org/apache/fop/render/ps/PSImageHandlerRawCCITTFax.java,0,0.0,0,32min 30s,32.5,11,510.9
+fop,/main/java/org/apache/fop/render/ps/PSImageHandlerRawJPEG.java,0,0.0,0,25min,25.0,11,510.9
+fop,/main/java/org/apache/fop/render/ps/PSImageHandlerRawPNG.java,0,0.0,0,25min,25.0,11,510.9
+fop,/main/java/org/apache/fop/render/ps/PSImageHandlerRenderedImage.java,0,0.0,0,15min,15.0,12,510.9
+fop,/main/java/org/apache/fop/render/ps/PSImageUtils.java,0,0.0,0,10min,10.0,11,510.9
+fop,/test/java/org/apache/fop/render/ps/PSImageUtilsTestCase.java,0,0.0,0,0,0.0,14,693.6
+fop,/main/java/org/apache/fop/render/ps/extensions/PSPageSetupCodeElement.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/render/ps/extensions/PSPageTrailerCodeBefore.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/render/ps/extensions/PSPageTrailerCodeBeforeElement.java,0,0.0,0,7min 30s,7.5,4,240.9
+fop,/test/java/org/apache/fop/apps/PSRendererConfBuilder.java,0,0.0,0,0,0.0,27,984.6
+fop,/test/java/org/apache/fop/render/ps/PSRendererConfigParserTestCase.java,0,0.0,0,0,0.0,41,1802.7
+fop,/main/java/org/apache/fop/render/ps/PSRendererConfigurator.java,0,0.0,0,22min 30s,22.5,16,780.9
+fop,/test/java/org/apache/fop/render/ps/PSRendererConfiguratorTestCase.java,0,0.0,0,0,0.0,55,1500.3
+fop,/main/java/org/apache/fop/render/ps/PSRendererOption.java,0,0.0,0,0,0.0,11,291.0
+fop,/main/java/org/apache/fop/render/ps/PSRenderingContext.java,0,0.0,0,0,0.0,8,203.7
+fop,/main/java/org/apache/fop/render/ps/PSRenderingMode.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/ps/PSRenderingUtil.java,0,0.0,0,1h 15min,75.0,37,1831.8
+fop,/main/java/org/apache/fop/render/ps/extensions/PSSetPageDeviceElement.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/render/ps/extensions/PSSetupCodeElement.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/render/ps/PSSVGFlowRootElementBridge.java,0,0.0,0,7min 30s,7.5,13,569.1
+fop,/test/java/org/apache/fop/render/ps/PSTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/render/ps/PSTextElementBridge.java,0,0.0,0,0,0.0,7,203.7
+fop,/main/java/org/apache/fop/render/ps/PSTranscoder.java,0,0.0,0,7min 30s,7.5,3,336.3
+fop,/main/java/org/apache/fop/render/ps/fonts/PSTTFGenerator.java,0,0.0,0,7min 30s,7.5,20,582.0
+fop,/test/java/org/apache/fop/render/ps/fonts/PSTTFGeneratorTestCase.java,0,0.0,0,0,0.0,21,801.9
+fop,/main/java/org/apache/fop/render/ps/fonts/PSTTFGlyphOutputStream.java,0,0.0,0,0,0.0,19,465.6
+fop,/test/java/org/apache/fop/render/ps/fonts/PSTTFGlyphOutputStreamTestCase.java,0,0.0,0,7min 30s,7.5,15,627.3
+fop,/main/java/org/apache/fop/render/ps/fonts/PSTTFOutputStream.java,0,0.0,0,0,0.0,16,349.2
+fop,/test/java/org/apache/fop/render/ps/fonts/PSTTFOutputStreamTestCase.java,0,0.0,0,0,0.0,12,320.1
+fop,/main/java/org/apache/fop/render/ps/fonts/PSTTFTableOutputStream.java,0,0.0,0,0,0.0,13,473.7
+fop,/test/java/org/apache/fop/render/ps/fonts/PSTTFTableOutputStreamTestCase.java,0,0.0,0,7min 30s,7.5,10,232.8
+fop,/main/java/org/apache/fop/afp/ptoca/PtocaProducer.java,0,0.0,0,0,0.0,2,29.1
+fop,/test/java/org/apache/fop/render/RawPNGTestUtil.java,0,0.0,0,25min,25.0,13,569.1
+fop,/main/java/org/apache/fop/fo/extensions/xmp/RDFElement.java,0,0.0,0,7min 30s,7.5,3,336.3
+fop,/main/java/org/apache/fop/fo/extensions/xmp/RDFElementMapping.java,0,0.0,0,0,0.0,16,847.2
+fop,/main/java/org/apache/fop/afp/RectanglePaintingInfo.java,0,0.0,0,0,0.0,5,145.5
+fop,/test/java/org/apache/fop/visual/RedirectorLineHandler.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/render/mif/RefElement.java,0,0.0,0,0,0.0,3,336.3
+fop,/test/java/org/apache/fop/visual/ReferenceBitmapLoader.java,0,0.0,0,37min 30s,37.5,12,386.4
+fop,/main/java/org/apache/fop/fo/properties/ReferenceOrientationMaker.java,0,0.0,0,17min 30s,17.5,7,577.2
+fop,/main/java/org/apache/fop/pdf/RefPDFFont.java,0,0.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/fo/pagination/RegionAfter.java,0,0.0,0,7min 30s,7.5,8,730.8
+fop,/main/java/org/apache/fop/fo/pagination/RegionBA.java,0,0.0,0,7min 30s,7.5,9,635.4
+fop,/main/java/org/apache/fop/fo/pagination/RegionBefore.java,0,0.0,0,7min 30s,7.5,8,730.8
+fop,/main/java/org/apache/fop/fo/pagination/RegionBody.java,0,0.0,0,15min,15.0,12,473.7
+fop,/main/java/org/apache/fop/fo/pagination/RegionEnd.java,0,0.0,0,15min,15.0,9,884.4
+fop,/main/java/org/apache/fop/fo/pagination/RegionStart.java,0,0.0,0,7min 30s,7.5,8,730.8
+fop,/test/java/org/apache/fop/area/RegionViewportTestCase.java,0,0.0,0,0,0.0,20,743.7
+fop,/main/java/org/apache/fop/layoutmgr/RelSide.java,0,0.0,0,7min 30s,7.5,7,452.7
+fop,/main/java/org/apache/fop/render/awt/viewer/Renderable.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/render/RendererConfig.java,0,0.0,0,0,0.0,5,58.2
+fop,/main/java/org/apache/fop/render/RendererConfigOption.java,0,0.0,0,0,0.0,3,58.2
+fop,/main/java/org/apache/fop/render/RendererEventProducer.java,0,0.0,0,0,0.0,7,548.1
+fop,/main/java/org/apache/fop/render/afp/exceptions/RendererRuntimeException.java,0,0.0,0,0,0.0,6,423.6
+fop,/main/java/org/apache/fop/render/RenderingContext.java,0,0.0,0,0,0.0,3,29.1
+fop,/test/java/org/apache/fop/render/pdf/RenderPDFTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/render/ps/RenderPSTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/fo/pagination/RepeatablePageMasterReference.java,0,0.0,3,1h 15min,75.0,22,706.5
+fop,/main/java/org/apache/fop/area/Resolvable.java,0,0.0,0,0,0.0,4,29.1
+fop,/main/java/org/apache/fop/area/inline/ResolvedPageNumber.java,0,0.0,0,7min 30s,7.5,10,386.4
+fop,/main/java/org/apache/fop/ResourceEventProducer.java,0,0.0,0,0,0.0,13,759.9
+fop,/main/java/org/apache/fop/afp/modca/ResourceObject.java,0,0.0,0,15min,15.0,13,627.3
+fop,/main/java/org/apache/fop/afp/modca/triplets/ResourceObjectTypeTriplet.java,0,0.0,0,7min 30s,7.5,3,87.3
+fop,/main/java/org/apache/fop/fo/flow/RetrieveMarker.java,0,0.0,0,7min 30s,7.5,18,685.5
+fop,/main/java/org/apache/fop/fo/flow/RetrieveTableMarker.java,0,0.0,0,17min 30s,17.5,20,868.2
+fop,/test/java/org/apache/fop/layoutmgr/RetrieveTableMarkerLayoutManagerMakerTestCase.java,0,0.0,0,0,0.0,15,627.3
+fop,/test/java/org/apache/fop/layoutmgr/RetrieveTableMarkerLayoutManagerTestCase.java,0,0.0,0,15min,15.0,11,540.0
+fop,/main/java/org/apache/fop/fo/expr/RGBColorFunction.java,0,0.0,0,0,0.0,22,934.5
+fop,/test/java/org/apache/fop/render/rtf/RichTextFormatTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/afp/modca/Rotation.java,0,0.0,0,0,0.0,13,540.0
+fop,/main/java/org/apache/fop/fo/expr/RoundFunction.java,0,0.0,0,0,0.0,8,730.8
+fop,/main/java/org/apache/fop/fo/flow/table/RowGroupBuilder.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/fo/flow/table/RowGroupBuilderTestCase.java,0,0.0,0,15min,15.0,60,2231.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfAfter.java,1,0.0,0,15min,15.0,8,452.7
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfAfterBeforeBase.java,0,0.0,0,7min 30s,7.5,71,1716.9
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfBefore.java,1,0.0,0,15min,15.0,8,452.7
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfBookmarkContainerImpl.java,0,0.0,0,7min 30s,7.5,6,423.6
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfDocumentArea.java,0,0.0,0,0,0.0,8,481.8
+fop,/main/java/org/apache/fop/render/rtf/RTFEventProducer.java,0,0.0,0,0,0.0,7,548.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/exceptions/RtfException.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/render/rtf/RTFFOEventHandlerMaker.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfFontTable.java,0,0.0,0,0,0.0,9,510.9
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfFootnote.java,0,0.0,0,27min 30s,27.5,10,291.0
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfGenerator.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfLineBreak.java,0,0.0,0,0,0.0,6,423.6
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfList.java,0,0.0,0,0,0.0,18,523.8
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfListStyleBullet.java,0,0.0,0,7min 30s,7.5,9,1008.9
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfListStyleNumber.java,0,0.0,0,0,0.0,8,979.8
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfListTable.java,1,0.0,0,7min 30s,7.5,16,839.1
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfNull.java,0,0.0,0,0,0.0,10,510.9
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfOptions.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfPage.java,1,0.0,0,7min 30s,7.5,8,481.8
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfPageArea.java,0,0.0,0,0,0.0,9,510.9
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfPageBreak.java,0,0.0,0,0,0.0,6,423.6
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfParagraphBreak.java,0,0.0,0,0,0.0,9,232.8
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfParagraphKeepTogether.java,0,0.0,0,7min 30s,7.5,6,174.6
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfSpaceSplitter.java,0,0.0,0,0,0.0,7,203.7
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfString.java,0,0.0,0,0,0.0,7,174.6
+fop,/main/java/org/apache/fop/render/rtf/rtflib/exceptions/RtfStructureException.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/render/rtf/rtflib/rtfdoc/RtfTable.java,0,0.0,1,50min,50.0,24,1013.7
+fop,/main/java/org/apache/fop/traits/RuleStyle.java,0,0.0,0,27min 30s,27.5,17,685.5
+fop,/main/java/org/apache/fop/render/mif/RulingElement.java,0,0.0,0,17min 30s,17.5,4,336.3
+fop,/main/java/org/apache/fop/complexscripts/util/ScriptContextTester.java,0,0.0,0,0,0.0,2,29.1
+fop,/test/java/org/apache/fop/complexscripts/scripts/ScriptsTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/servlet/ServletContextURIResolver.java,0,0.0,0,57min 30s,57.5,7,328.2
+fop,/main/java/org/apache/fop/fo/properties/ShorthandParser.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/area/SideFloat.java,0,0.0,0,7min 30s,7.5,7,270.0
+fop,/main/java/org/apache/fop/fo/pagination/SideRegion.java,0,0.0,0,7min 30s,7.5,5,116.4
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/SimpleDocument.java,0,0.0,0,0,0.0,7,452.7
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/SimpleLists.java,0,0.0,0,7min 30s,7.5,16,780.9
+fop,/main/java/org/apache/fop/datatypes/SimplePercentBaseContext.java,0,0.0,0,30min,30.0,8,203.7
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/SimpleTable.java,0,0.0,0,0,0.0,16,780.9
+fop,/main/java/org/apache/fop/fo/pagination/SinglePageMasterReference.java,0,0.0,0,55min,55.0,19,523.8
+fop,/main/java/org/apache/fop/render/txt/border/SolidAndDoubleBorderElement.java,0,0.0,0,25min,25.0,52,1886.7
+fop,/main/java/org/apache/fop/area/inline/SpaceArea.java,0,0.0,0,7min 30s,7.5,1,29.1
+fop,/main/java/org/apache/fop/layoutmgr/SpacedBorderedPaddedBlockLayoutManager.java,0,0.0,0,15min,15.0,34,1254.6
+fop,/main/java/org/apache/fop/fo/properties/SpaceProperty.java,0,0.0,0,1h 15min,75.0,17,627.3
+fop,/main/java/org/apache/fop/fo/properties/SpacingPropertyMaker.java,0,0.0,0,10min,10.0,4,489.9
+fop,/test/java/org/apache/fop/StandardTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/afp/Startable.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fo/StaticPropertyList.java,0,0.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/render/awt/viewer/StatusListener.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/afp/Streamable.java,0,0.0,0,0,0.0,4,87.3
+fop,/main/java/org/apache/fop/pdf/StreamCache.java,0,0.0,0,0,0.0,3,29.1
+fop,/main/java/org/apache/fop/pdf/StreamCacheFactory.java,0,0.0,0,0,0.0,9,635.4
+fop,/main/java/org/apache/fop/afp/modca/StreamedResourceGroup.java,0,0.0,0,15min,15.0,5,145.5
+fop,/test/java/org/apache/fop/visual/StreamRedirector.java,0,0.0,0,10min,10.0,11,540.0
+fop,/main/java/org/apache/fop/afp/StructuredData.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/afp/util/StructuredFieldReader.java,0,0.0,0,0,0.0,3,58.2
+fop,/main/java/org/apache/fop/pdf/StructureHierarchyMember.java,0,0.0,0,7min 30s,7.5,3,336.3
+fop,/main/java/org/apache/fop/accessibility/StructureTreeElement.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fo/properties/StructureTreeElementHolder.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/accessibility/StructureTreeEventHandler.java,0,0.0,0,0,0.0,5,29.1
+fop,/main/java/org/apache/fop/pdf/StructureType.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/fo/pagination/SubSequenceSpecifier.java,0,0.0,0,0,0.0,6,174.6
+fop,/main/java/org/apache/fop/complexscripts/fonts/Substitutable.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/render/svg/SVGDocumentHandlerMaker.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/svg/SVGEventProducer.java,0,0.0,0,0,0.0,13,693.6
+fop,/main/java/org/apache/fop/fo/extensions/svg/SVGObj.java,0,0.0,0,7min 30s,7.5,3,336.3
+fop,/main/java/org/apache/fop/render/svg/SVGPrintDocumentHandlerMaker.java,0,0.0,0,0,0.0,5,394.5
+fop,/main/java/org/apache/fop/render/svg/SVGRendererMaker.java,0,0.0,0,0,0.0,19,714.6
+fop,/main/java/org/apache/fop/render/svg/SVGRenderingContext.java,0,0.0,0,0,0.0,4,116.4
+fop,/main/java/org/apache/fop/svg/SVGUserAgent.java,0,0.0,0,0,0.0,12,349.2
+fop,/main/java/org/apache/fop/fo/flow/table/TableBody.java,0,0.0,0,7min 30s,7.5,7,452.7
+fop,/main/java/org/apache/fop/fo/properties/TableBorderPrecedence.java,0,0.0,8,2h 40min,160.0,13,751.8
+fop,/main/java/org/apache/fop/fo/flow/table/TableCellContainer.java,0,0.0,0,22min 30s,22.5,19,868.2
+fop,/test/java/org/apache/fop/layoutmgr/table/TableCellLayoutManagerTestCase.java,0,0.0,0,15min,15.0,13,693.6
+fop,/main/java/org/apache/fop/fo/properties/TableColLength.java,0,0.0,0,27min 30s,27.5,13,444.6
+fop,/test/java/org/apache/fop/layoutmgr/table/TableContentLayoutManagerTestCase.java,0,0.0,0,15min,15.0,11,540.0
+fop,/main/java/org/apache/fop/fo/flow/table/TableEventProducer.java,0,0.0,0,0,0.0,8,548.1
+fop,/main/java/org/apache/fop/fo/flow/table/TableFObj.java,0,0.0,6,2h 40min,160.0,39,1545.6
+fop,/main/java/org/apache/fop/fo/flow/table/TableFooter.java,0,0.0,0,7min 30s,7.5,7,452.7
+fop,/test/java/org/apache/fop/fo/flow/table/TableHandler.java,0,0.0,2,10min,10.0,11,261.9
+fop,/test/java/org/apache/fop/layoutmgr/table/TableHandler.java,0,0.0,2,10min,10.0,13,320.1
+fop,/main/java/org/apache/fop/fo/flow/table/TableHeader.java,0,0.0,0,7min 30s,7.5,7,452.7
+fop,/main/java/org/apache/fop/render/pdf/TableStructElem.java,0,0.0,0,7min 30s,7.5,15,320.1
+fop,/main/java/org/apache/fop/afp/modca/TagLogicalElement.java,0,0.0,0,22min 30s,22.5,18,407.4
+fop,/test/java/org/apache/fop/fotreetest/ext/TestElementMapping.java,0,0.0,0,7min 30s,7.5,14,789.0
+fop,/test/java/org/apache/fop/events/TestEventProducer.java,0,0.0,0,0,0.0,15,722.7
+fop,/test/java/org/apache/fop/layoutengine/TestFilesConfiguration.java,0,0.0,0,0,0.0,44,1122.0
+fop,/test/java/org/apache/fop/fotreetest/ext/TestObj.java,0,0.0,0,7min 30s,7.5,3,336.3
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/TextAttributes.java,0,0.0,0,7min 30s,7.5,8,481.8
+fop,/test/java/org/apache/fop/render/rtf/TextAttributesConverterTestCase.java,0,0.0,0,7min 30s,7.5,15,598.2
+fop,/main/java/org/apache/fop/afp/ptoca/TextDataInfoProducer.java,0,0.0,0,7min 30s,7.5,6,299.1
+fop,/main/java/org/apache/fop/fonts/TextFragment.java,0,0.0,0,0,0.0,12,349.2
+fop,/main/java/org/apache/fop/render/bitmap/TIFFCompressionValue.java,0,0.0,0,10min,10.0,11,261.9
+fop,/test/java/org/apache/fop/render/bitmap/TIFFCompressionValueTestCase.java,0,0.0,0,0,0.0,22,714.6
+fop,/main/java/org/apache/fop/render/bitmap/TIFFDocumentHandler.java,0,0.0,0,7min 30s,7.5,8,423.6
+fop,/main/java/org/apache/fop/render/bitmap/TIFFDocumentHandlerMaker.java,0,0.0,0,0,0.0,5,394.5
+fop,/test/java/org/apache/fop/apps/TIFFRendererConfBuilder.java,0,0.0,0,7min 30s,7.5,21,839.1
+fop,/test/java/org/apache/fop/render/bitmap/TIFFRendererConfigParserTestCase.java,0,0.0,0,0,0.0,37,1312.8
+fop,/main/java/org/apache/fop/render/bitmap/TIFFRendererConfigurator.java,0,0.0,0,7min 30s,7.5,32,1034.7
+fop,/test/java/org/apache/fop/render/bitmap/TIFFRendererConfiguratorTestCase.java,0,0.0,0,0,0.0,36,1283.7
+fop,/main/java/org/apache/fop/render/bitmap/TIFFRendererMaker.java,0,0.0,0,0,0.0,22,743.7
+fop,/main/java/org/apache/fop/afp/ioca/TilePosition.java,0,0.0,0,0,0.0,9,635.4
+fop,/main/java/org/apache/fop/afp/ioca/TileTOC.java,0,0.0,0,0,0.0,9,635.4
+fop,/test/java/org/apache/fop/fo/flow/table/TooManyColumnsTestCase.java,0,0.0,0,0,0.0,36,1092.9
+fop,/main/java/org/apache/fop/layoutmgr/TopLevelLayoutManager.java,0,0.0,0,0,0.0,1,29.1
+fop,/main/java/org/apache/fop/traits/TraitEnum.java,0,0.0,0,7min 30s,7.5,8,174.6
+fop,/test/java/org/apache/fop/area/TraitTestCase.java,0,0.0,0,0,0.0,13,510.9
+fop,/main/java/org/apache/fop/pdf/TransitionDictionary.java,0,0.0,0,7min 30s,7.5,4,365.4
+fop,/main/java/org/apache/fop/render/awt/viewer/Translator.java,0,0.0,0,0,0.0,5,116.4
+fop,/main/java/org/apache/fop/pdf/TransparencyDisallowedException.java,0,0.0,0,0,0.0,8,203.7
+fop,/test/java/org/apache/fop/afp/ptoca/TransparentDataControlSequenceTestCase.java,0,0.0,0,0,0.0,30,793.8
+fop,/test/java/org/apache/fop/fonts/truetype/TTFFontLoaderTestCase.java,0,0.0,0,0,0.0,14,569.1
+fop,/main/java/org/apache/fop/fonts/truetype/TTFGlyphOutputStream.java,0,0.0,0,0,0.0,7,203.7
+fop,/main/java/org/apache/fop/fonts/truetype/TTFOutputStream.java,0,0.0,0,0,0.0,7,203.7
+fop,/test/java/org/apache/fop/fonts/truetype/TTFTableNameTestCase.java,0,0.0,0,30min,30.0,20,801.9
+fop,/main/java/org/apache/fop/fonts/truetype/TTFTableOutputStream.java,0,0.0,0,0,0.0,3,87.3
+fop,/test/java/org/apache/fop/apps/TxtRendererConfBuilder.java,0,0.0,0,0,0.0,13,664.5
+fop,/test/java/org/apache/fop/render/txt/TxtRendererConfigParserTestCase.java,0,0.0,0,0,0.0,16,751.8
+fop,/main/java/org/apache/fop/render/txt/TXTRendererConfigurator.java,0,0.0,0,7min 30s,7.5,5,394.5
+fop,/main/java/org/apache/fop/render/txt/TXTRendererMaker.java,0,0.0,0,0,0.0,21,714.6
+fop,/main/java/org/apache/fop/render/ps/Type1CharStringFormatter.java,0,0.0,0,7min 30s,7.5,12,291.0
+fop,/main/java/org/apache/fop/pdf/xref/UncompressedObjectReference.java,0,0.0,0,0,0.0,8,203.7
+fop,/test/java/org/apache/fop/fo/flow/table/UnimplementedWarningNeutralizer.java,0,0.0,0,0,0.0,6,519.0
+fop,/main/java/org/apache/fop/fonts/autodetect/UnixFontDirFinder.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/fo/UnknownXMLObj.java,0,0.0,0,7min 30s,7.5,8,203.7
+fop,/main/java/org/apache/fop/layoutmgr/UnresolvedListElement.java,0,0.0,0,0,0.0,5,519.0
+fop,/test/java/org/apache/fop/render/intermediate/URIActionTestCase.java,0,0.0,0,0,0.0,10,481.8
+fop,/main/java/org/apache/fop/fo/properties/URIProperty.java,0,0.0,0,40min,40.0,19,839.1
+fop,/test/java/org/apache/fop/config/UserConfigTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/UtilityCodeTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/test/java/org/apache/fop/complexscripts/util/UtilTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/fo/ValidationException.java,0,0.0,0,0,0.0,3,336.3
+fop,/main/java/org/apache/fop/events/ValidationExceptionFactory.java,0,0.0,0,0,0.0,7,577.2
+fop,/main/java/org/apache/fop/datatypes/ValidationPercentBaseContext.java,0,0.0,0,0,0.0,5,519.0
+fop,/test/java/org/apache/fop/pdf/VersionTestCase.java,0,0.0,0,0,0.0,16,780.9
+fop,/main/java/org/apache/fop/area/Viewport.java,0,0.0,0,0,0.0,1,29.1
+fop,/test/java/org/apache/fop/area/ViewportTestSuite.java,0,0.0,0,0,0.0,4,365.4
+fop,/main/java/org/apache/fop/traits/Visibility.java,0,0.0,0,17min 30s,17.5,21,772.8
+fop,/test/java/org/apache/fop/render/rtf/rtflib/testdocs/Whitespace.java,0,0.0,0,7min 30s,7.5,8,452.7
+fop,/main/java/org/apache/fop/fo/flow/Wrapper.java,0,0.0,0,15min,15.0,31,910.2
+fop,/main/java/org/apache/fop/layoutmgr/inline/WrapperLayoutManager.java,0,0.0,0,7min 30s,7.5,5,394.5
+fop,/main/java/org/apache/fop/traits/WritingMode.java,0,0.0,3,1h 35min,95.0,19,714.6
+fop,/main/java/org/apache/fop/traits/WritingModeTraits.java,0,0.0,0,10min,10.0,14,407.4
+fop,/main/java/org/apache/fop/traits/WritingModeTraitsGetter.java,0,0.0,0,0,0.0,2,29.1
+fop,/main/java/org/apache/fop/traits/WritingModeTraitsSetter.java,0,0.0,0,0,0.0,2,58.2
+fop,/main/java/org/apache/fop/render/XMLHandlerConfigurator.java,0,0.0,0,10min,10.0,8,606.3
+fop,/main/java/org/apache/fop/render/xml/XMLRendererMaker.java,0,0.0,0,0,0.0,20,714.6
+fop,/main/java/org/apache/fop/render/xml/XMLXMLHandler.java,0,0.0,0,7min 30s,7.5,7,452.7
+fop,/main/java/org/apache/fop/fo/extensions/xmp/XMPContentHandlerFactory.java,0,0.0,0,7min 30s,7.5,13,540.0
+fop,/main/java/org/apache/fop/fo/extensions/xmp/XMPElementMapping.java,0,0.0,0,0,0.0,16,847.2
+fop,/main/java/org/apache/fop/fo/extensions/xmp/XMPMetadata.java,0,0.0,0,15min,15.0,6,174.6
+fop,/main/java/org/apache/fop/fo/extensions/xmp/XMPMetaElement.java,0,0.0,0,7min 30s,7.5,3,336.3

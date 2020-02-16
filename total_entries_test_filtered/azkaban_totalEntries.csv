@@ -1,0 +1,534 @@
+azkaban,/main/java/azkaban/webapp/servlet/ProjectManagerServlet.java,61,804.0,0,1M/d 6h,840.0,401,13952.4
+azkaban,/main/java/azkaban/viewer/reportal/ReportalServlet.java,75,756.0,3,7h 7min,427.0,247,11949.6
+azkaban,/main/java/azkaban/jobtype/HadoopJavaJobRunnerMain.java,57,413.0,4,2h 15min,135.0,110,4809.9
+azkaban,/main/java/azkaban/jobtype/JavaJobRunnerMain.java,47,378.0,3,2h 10min,130.0,102,4635.3
+azkaban,/main/java/azkaban/webapp/servlet/ExecutorServlet.java,40,344.0,1,1M/d 1h,540.0,246,9069.9
+azkaban,/main/java/azkaban/execapp/FlowRunner.java,35,306.0,13,1M/d 3h,660.0,398,12917.7
+azkaban,/main/java/azkaban/execapp/ServerStatisticsServlet.java,22,303.0,5,1h 7min,67.0,58,2027.4
+azkaban,/main/java/azkaban/viewer/hdfs/utils/SerDeUtilsWrapper.java,22,285.0,0,37min 30s,37.5,16,1183.5
+azkaban,/main/java/azkaban/utils/FileIOUtils.java,28,282.0,0,5h 47min,347.0,183,5210.7
+azkaban,/main/java/azkaban/webapp/AzkabanWebServer.java,18,276.0,5,3h 27min,207.0,152,4525.2
+azkaban,/main/java/azkaban/jobtype/HadoopSecurePigWrapper.java,23,244.0,0,32min 30s,32.5,46,1354.8
+azkaban,/main/java/azkaban/jobExecutor/ProcessJob.java,19,236.0,1,1h 57min,117.0,89,3888.3
+azkaban,/main/java/azkaban/executor/ExecutorManager.java,36,234.0,15,7h 32min,452.0,423,14280.6
+azkaban,/main/java/azkaban/viewer/hdfs/HdfsBrowserServlet.java,35,233.0,1,3h 17min,197.0,169,7141.2
+azkaban,/main/java/azkaban/jobtype/ReportalPigRunner.java,27,231.0,0,30min,30.0,66,2654.7
+azkaban,/main/java/azkaban/Constants.java,11,230.0,0,52min 30s,52.5,171,4917.9
+azkaban,/main/java/azkaban/viewer/hdfs/AzkabanSequenceFileReader.java,25,228.0,0,6h 21min,381.0,299,9321.9
+azkaban,/main/java/azkaban/project/JdbcProjectImpl.java,21,223.0,0,3h 42min,222.0,397,10039.8
+azkaban,/main/java/azkaban/execapp/FlowRunnerManager.java,26,217.0,0,4h 7min,247.0,333,11048.7
+azkaban,/main/java/azkaban/executor/mail/DefaultMailCreator.java,18,214.0,0,1h 55min,115.0,51,1757.4
+azkaban,/main/java/azkaban/viewer/reportal/ReportalMailCreator.java,31,209.0,0,1h 42min,102.0,67,2662.8
+azkaban,/main/java/azkaban/executor/ExecutableRamp.java,12,204.0,0,47min 30s,47.5,233,5715.0
+azkaban,/main/java/azkaban/jobtype/HadoopJobUtils.java,19,200.0,1,1h 57min,117.0,87,3671.7
+azkaban,/main/java/azkaban/jobtype/ReportalHiveRunner.java,18,198.0,1,1h 7min,67.0,41,2205.3
+azkaban,/main/java/azkaban/jobtype/HadoopSparkJob.java,12,194.0,0,2h,120.0,107,4092.0
+azkaban,/main/java/azkaban/executor/ExecutionController.java,28,189.0,15,5h 20min,320.0,229,7894.5
+azkaban,/main/java/azkaban/security/HadoopSecurityManager_H_2_0.java,21,182.0,0,2h 5min,125.0,209,7283.4
+azkaban,/main/java/azkaban/webapp/servlet/ScheduleServlet.java,28,176.0,0,6h 42min,402.0,161,5247.9
+azkaban,/main/java/azkaban/executor/ExecutableRampExceptionalItems.java,11,174.0,0,7min 30s,7.5,91,2169.6
+azkaban,/main/java/azkaban/user/XmlUserManager.java,17,174.0,0,1h 32min,92.0,96,3037.8
+azkaban,/main/java/azkaban/database/AzkabanDatabaseSetup.java,19,171.0,1,1h 50min,110.0,131,3935.1
+azkaban,/main/java/azkaban/executor/ExecutionFlowDao.java,19,169.0,4,3h 47min,227.0,178,5019.9
+azkaban,/main/java/azkaban/jobtype/ReportalTeradataRunner.java,18,162.0,2,45min,45.0,48,2313.6
+azkaban,/main/java/azkaban/jobtype/HadoopSecureSparkWrapper.java,17,158.0,5,1h 27min,87.0,78,2945.7
+azkaban,/main/java/azkaban/jobtype/javautils/AbstractHadoopJob.java,19,148.0,0,1h 14min,74.0,106,2971.5
+azkaban,/main/java/azkaban/jobExecutor/AbstractProcessJob.java,16,148.0,0,1h 5min,65.0,71,2011.2
+azkaban,/main/java/azkaban/execapp/AzkabanExecutorServer.java,10,142.0,0,1h 37min,97.0,124,3366.0
+azkaban,/main/java/azkaban/trigger/Trigger.java,14,140.0,0,1h 37min,97.0,191,5191.2
+azkaban,/main/java/azkaban/utils/EmailMessage.java,25,138.0,0,50min,50.0,154,3312.6
+azkaban,/main/java/azkaban/execapp/JobRunner.java,16,138.0,0,5h 15min,315.0,271,7417.5
+azkaban,/main/java/azkaban/executor/ExecutionJobDao.java,8,135.0,0,3h 7min,187.0,132,3744.3
+azkaban,/main/java/azkaban/jobtype/JobTypeManager.java,13,135.0,0,1h 37min,97.0,71,2384.7
+azkaban,/main/java/azkaban/webapp/servlet/HistoryServlet.java,18,133.0,0,45min,45.0,78,2265.0
+azkaban,/main/java/azkaban/webapp/servlet/NoteServlet.java,14,133.0,0,15min,15.0,72,2339.4
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/ExecuteHiveQuery.java,12,128.0,0,2h 2min,122.0,57,1961.1
+azkaban,/main/java/azkaban/utils/StringUtils.java,8,127.0,0,47min 30s,47.5,30,1101.0
+azkaban,/main/java/azkaban/project/validator/ValidatorClassLoader.java,8,120.0,3,2h 45min,165.0,43,1603.8
+azkaban,/main/java/azkaban/trigger/builtin/BasicTimeChecker.java,12,118.0,2,1h 5min,65.0,92,2775.9
+azkaban,/main/java/azkaban/trigger/TriggerManager.java,10,118.0,0,1h 27min,87.0,238,8445.9
+azkaban,/main/java/azkaban/jobtype/ReportalDataCollector.java,13,117.0,0,15min,15.0,26,1013.7
+azkaban,/main/java/azkaban/project/ProjectWhitelist.java,10,113.0,1,42min 30s,42.5,32,1254.6
+azkaban,/main/java/azkaban/project/JdbcProjectHandlerSet.java,37,109.0,1,3h,180.0,146,5475.9
+azkaban,/main/java/azkaban/trigger/builtin/SlaChecker.java,18,106.0,10,5h 57min,357.0,105,2884.2
+azkaban,/main/java/azkaban/utils/PropsUtils.java,9,102.0,0,3h 27min,207.0,57,2658.0
+azkaban,/main/java/azkaban/webapp/PluginCheckerAndActionsLoader.java,2,101.0,6,1h 25min,85.0,19,876.3
+azkaban,/main/java/azkaban/utils/ThinArchiveUtils.java,8,101.0,0,55min,55.0,67,1865.7
+azkaban,/main/java/azkaban/reportal/util/IStreamProvider.java,5,100.0,0,0,0.0,29,843.9
+azkaban,/main/java/azkaban/metric/MetricReportManager.java,6,100.0,0,0,0.0,43,1532.7
+azkaban,/main/java/azkaban/webapp/servlet/LoginAbstractAzkabanServlet.java,8,97.0,0,3h 40min,220.0,140,4101.6
+azkaban,/main/java/azkaban/utils/Utils.java,13,97.0,0,2h 42min,162.0,99,3983.7
+azkaban,/main/java/azkaban/execapp/event/JobCallbackUtil.java,6,94.0,0,1h 47min,107.0,47,1545.6
+azkaban,/main/java/azkaban/executor/ExecutionControllerUtils.java,6,92.0,4,2h 12min,132.0,25,1416.3
+azkaban,/main/java/azkaban/execapp/ExecutorServlet.java,9,92.0,2,2h 52min,172.0,164,5637.6
+azkaban,/main/java/azkaban/jobtype/HadoopSecureHiveWrapper.java,9,91.0,1,1h 37min,97.0,51,1354.8
+azkaban,/main/java/trigger/kafka/Constants.java,3,90.0,0,15min,15.0,12,569.1
+azkaban,/main/java/azkaban/utils/JSONUtils.java,7,90.0,1,4h,240.0,93,2842.2
+azkaban,/main/java/azkaban/jobtype/ReportalTableauRunner.java,5,90.0,0,37min 30s,37.5,44,1267.5
+azkaban,/main/java/azkaban/viewer/reportal/ReportalTypeManager.java,4,90.0,0,15min,15.0,15,780.9
+azkaban,/main/java/azkaban/project/DirectoryFlowLoader.java,8,86.0,2,1h 57min,117.0,89,4020.9
+azkaban,/main/java/azkaban/trigger/builtin/ExecuteFlowAction.java,11,83.0,0,45min,45.0,91,2585.1
+azkaban,/main/java/azkaban/webapp/TriggerPluginLoader.java,3,82.0,5,1h 25min,85.0,21,714.6
+azkaban,/main/java/azkaban/server/HttpRequestUtils.java,6,81.0,2,3h 38min,218.0,90,3763.8
+azkaban,/main/java/azkaban/alert/Alerter.java,4,80.0,0,0,0.0,20,582.0
+azkaban,/main/java/azkaban/executor/AlerterHolder.java,1,80.0,5,1h 7min,67.0,35,1130.1
+azkaban,/main/java/azkaban/trigger/builtin/ExecutionChecker.java,11,80.0,0,47min 30s,47.5,59,1434.0
+azkaban,/main/java/azkaban/flow/FlowUtils.java,6,79.0,0,15min,15.0,38,1275.6
+azkaban,/main/java/azkaban/trigger/builtin/KillExecutionAction.java,9,77.0,3,17min 30s,17.5,56,1434.0
+azkaban,/main/java/azkaban/jobExecutor/JavaProcessJob.java,10,76.0,0,35min,35.0,92,2514.0
+azkaban,/main/java/azkaban/jobtype/javautils/HadoopUtils.java,5,74.0,0,10min,10.0,46,1325.7
+azkaban,/main/java/azkaban/webapp/servlet/FlowTriggerServlet.java,8,73.0,0,40min,40.0,50,1413.0
+azkaban,/main/java/azkaban/jobExecutor/utils/process/AzkabanProcess.java,13,72.0,0,57min 30s,57.5,56,1587.6
+azkaban,/main/java/azkaban/executor/ExecutableRampItems.java,6,72.0,0,7min 30s,7.5,31,947.4
+azkaban,/main/java/azkaban/flowtrigger/plugin/FlowTriggerDependencyPluginManager.java,8,72.0,0,1h 15min,75.0,99,3199.5
+azkaban,/main/java/azkaban/jobtype/HadoopConfigurationInjector.java,4,72.0,0,15min,15.0,33,918.3
+azkaban,/main/java/azkaban/trigger/builtin/SlaAlertAction.java,12,72.0,0,17min 30s,17.5,56,1645.8
+azkaban,/main/java/azkaban/jobtype/javautils/FileUtils.java,7,71.0,2,1h,60.0,20,1154.4
+azkaban,/main/java/azkaban/webapp/servlet/FlowTriggerInstanceServlet.java,9,70.0,0,1h 30min,90.0,97,2987.7
+azkaban,/main/java/azkaban/jobExecutor/Job.java,4,70.0,0,0,0.0,7,203.7
+azkaban,/main/java/azkaban/executor/FetchActiveFlowDao.java,8,69.0,4,1h 40min,100.0,78,2646.6
+azkaban,/main/java/azkaban/executor/ExecutionRampDao.java,14,68.0,0,2h 47min,167.0,149,4716.0
+azkaban,/main/java/azkaban/webapp/servlet/JMXHttpServlet.java,6,68.0,0,1h 2min,62.0,53,2027.4
+azkaban,/main/java/azkaban/execapp/FlowRampManager.java,20,67.0,3,2h 12min,132.0,191,5302.8
+azkaban,/main/java/azkaban/execapp/action/KillExecutionAction.java,7,67.0,3,17min 30s,17.5,49,1201.2
+azkaban,/main/java/azkaban/reportal/util/Reportal.java,39,67.0,0,2h 27min,147.0,164,8643.3
+azkaban,/main/java/azkaban/scheduler/ScheduleManager.java,8,67.0,0,32min 30s,32.5,65,1915.8
+azkaban,/main/java/azkaban/project/ProjectManager.java,8,66.0,0,2h 32min,152.0,178,5024.7
+azkaban,/main/java/azkaban/sla/SlaOption.java,14,65.0,4,2h 7min,127.0,111,2934.3
+azkaban,/main/java/azkaban/trigger/Condition.java,5,62.0,0,7min 30s,7.5,68,2135.7
+azkaban,/main/java/azkaban/executor/ExecutionLogsDao.java,9,62.0,0,1h 20min,80.0,68,1762.2
+azkaban,/main/java/azkaban/jobcallback/JobCallbackValidator.java,3,62.0,1,25min,25.0,18,780.9
+azkaban,/main/java/azkaban/reportal/util/ReportalHelper.java,5,62.0,0,1h 52min,112.0,96,3199.5
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/DropAllPartitionsAddLatest.java,8,61.0,0,15min,15.0,38,1055.7
+azkaban,/main/java/azkaban/viewer/jobsummary/JobSummaryServlet.java,7,61.0,0,1h 2min,62.0,57,2210.1
+azkaban,/main/java/azkaban/execapp/event/JobCallbackRequestMaker.java,4,60.0,0,45min,45.0,56,1537.5
+azkaban,/main/java/azkaban/utils/TimeUtils.java,2,60.0,2,2h 32min,152.0,25,1080.0
+azkaban,/main/java/azkaban/utils/TypedMapWrapper.java,2,60.0,0,3h 20min,200.0,80,2024.1
+azkaban,/main/java/azkaban/flowtrigger/database/JdbcFlowTriggerInstanceLoaderImpl.java,6,58.0,0,2h 42min,162.0,179,5459.7
+azkaban,/main/java/azkaban/executor/ExecutableRampDependencyMap.java,5,56.0,0,0,0.0,21,963.6
+azkaban,/main/java/azkaban/execapp/AzkabanExecServerModule.java,5,55.0,0,27min 30s,27.5,21,839.1
+azkaban,/main/java/azkaban/utils/DependencyTransferManager.java,5,55.0,0,37min 30s,37.5,37,1466.4
+azkaban,/main/java/azkaban/jobtype/HadoopProxy.java,6,55.0,0,20min,20.0,34,947.4
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/UpdateTableLocationToLatest.java,6,55.0,0,15min,15.0,31,910.2
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/Utils.java,4,53.0,2,22min,22.0,18,656.4
+azkaban,/main/java/azkaban/utils/AuthenticationUtils.java,3,52.0,0,0,0.0,16,627.3
+azkaban,/main/java/azkaban/trigger/builtin/CreateTriggerAction.java,5,52.0,0,7min 30s,7.5,46,1230.3
+azkaban,/main/java/azkaban/executor/ExecutableRampDependency.java,3,52.0,0,0,0.0,34,1092.9
+azkaban,/main/java/azkaban/executor/ExecutableRampExceptionalJobItemsMap.java,3,52.0,0,10min,10.0,33,1167.3
+azkaban,/main/java/azkaban/flowtrigger/quartz/FlowTriggerScheduler.java,5,51.0,1,1h,60.0,86,2688.6
+azkaban,/main/java/azkaban/reportal/util/ReportalUtil.java,3,51.0,0,17min 30s,17.5,33,1437.3
+azkaban,/main/java/azkaban/cachedhttpfilesystem/CachedHttpFileSystem.java,7,50.0,0,1h 17min,77.0,176,4825.8
+azkaban,/main/java/azkaban/executor/ExecutableRampExceptionalFlowItemsMap.java,2,50.0,0,0,0.0,33,1350.0
+azkaban,/main/java/azkaban/executor/ExecutableRampItemsMap.java,2,50.0,0,0,0.0,28,1138.2
+azkaban,/main/java/azkaban/jobtype/HadoopSecureWrapperUtils.java,2,50.0,0,17min 30s,17.5,19,685.5
+azkaban,/main/java/azkaban/jobtype/HadoopShell.java,5,50.0,0,15min,15.0,27,669.3
+azkaban,/main/java/azkaban/jobtype/pig/PigJobDagNode.java,6,50.0,0,15min,15.0,42,1230.3
+azkaban,/main/java/azkaban/jobtype/ReportalAbstractRunner.java,5,50.0,0,30min,30.0,45,1450.2
+azkaban,/main/java/azkaban/utils/StdOutErrRedirect.java,4,50.0,0,0,0.0,79,2244.0
+azkaban,/main/java/azkaban/utils/TrackingThreadPool.java,4,50.0,0,7min 30s,7.5,43,1209.3
+azkaban,/main/java/azkaban/execapp/action/KillJobAction.java,6,47.0,0,7min 30s,7.5,45,1113.9
+azkaban,/main/java/azkaban/ramppolicy/RampPolicyManager.java,5,47.0,0,40min,40.0,54,1932.0
+azkaban,/main/java/azkaban/reportal/util/BoundedOutputStream.java,5,46.0,0,10min,10.0,42,1018.5
+azkaban,/main/java/azkaban/executor/RunningExecutionsUpdater.java,7,46.0,2,1h 22min,82.0,48,1413.0
+azkaban,/main/java/azkaban/trigger/ActionTypeLoader.java,3,45.0,0,7min 30s,7.5,45,1143.0
+azkaban,/main/java/azkaban/trigger/CheckerTypeLoader.java,3,45.0,0,7min 30s,7.5,45,1143.0
+azkaban,/main/java/azkaban/jobtype/pig/PigJobStats.java,7,45.0,0,1h 7min,67.0,116,3267.3
+azkaban,/main/java/azkaban/security/commons/SecurityUtils.java,2,45.0,0,37min 30s,37.5,43,1238.4
+azkaban,/main/java/azkaban/project/AzkabanProjectLoader.java,8,44.0,0,1h 20min,80.0,95,2688.6
+azkaban,/main/java/azkaban/executor/DisabledJob.java,8,44.0,0,1h 50min,110.0,12,291.0
+azkaban,/main/java/azkaban/executor/ExecutorManagerAdapter.java,4,44.0,0,0,0.0,142,3957.6
+azkaban,/main/java/azkaban/jobtype/JavaJob.java,11,43.0,0,7min 30s,7.5,57,1683.0
+azkaban,/main/java/azkaban/jobtype/hiveutils/HiveUtils.java,3,42.0,0,32min,32.0,27,1204.5
+azkaban,/main/java/azkaban/jobtype/hiveutils/RealHiveQueryExecutor.java,4,42.0,0,15min,15.0,24,552.9
+azkaban,/main/java/azkaban/viewer/reportal/ReportalType.java,12,42.0,0,15min,15.0,50,1574.7
+azkaban,/main/java/azkaban/project/FlowLoaderUtils.java,5,41.0,0,1h 35min,95.0,49,2109.9
+azkaban,/main/java/azkaban/flowtrigger/FlowTriggerService.java,8,41.0,0,2h 40min,160.0,187,5597.1
+azkaban,/main/java/azkaban/jobtype/MapReduceJobState.java,3,41.0,0,1h,60.0,110,3034.5
+azkaban,/main/java/azkaban/soloserver/AzkabanSingleServer.java,2,40.0,0,17min 30s,17.5,38,939.3
+azkaban,/main/java/azkaban/spi/Dependency.java,2,40.0,0,40min,40.0,46,1296.6
+azkaban,/main/java/azkaban/user/FileWatcher.java,2,40.0,0,10min,10.0,41,1076.7
+azkaban,/main/java/azkaban/execapp/event/JobCallbackManager.java,2,40.0,0,1h 22min,82.0,53,1691.1
+azkaban,/main/java/azkaban/executor/mail/MailCreator.java,2,40.0,0,0,0.0,14,407.4
+azkaban,/main/java/azkaban/webapp/plugin/PluginRegistry.java,4,40.0,0,27min 30s,27.5,26,1138.2
+azkaban,/main/java/azkaban/trigger/TriggerAction.java,2,40.0,0,0,0.0,27,582.0
+azkaban,/main/java/azkaban/trigger/TriggerAgent.java,2,40.0,0,0,0.0,12,349.2
+azkaban,/main/java/azkaban/webapp/plugin/ViewerPlugin.java,3,40.0,0,27min 30s,27.5,30,756.6
+azkaban,/main/java/azkaban/project/DirectoryYamlFlowLoader.java,9,39.0,0,1h 55min,115.0,69,2729.1
+azkaban,/main/java/azkaban/jobtype/JobDagNode.java,6,39.0,0,0,0.0,56,1733.1
+azkaban,/restli/java/azkaban/restli/ProjectManagerResource.java,6,37.0,0,40min,40.0,37,1092.9
+azkaban,/main/java/azkaban/webapp/Status.java,8,37.0,0,7min 30s,7.5,13,598.2
+azkaban,/main/java/azkaban/jobExecutor/AbstractJob.java,5,36.0,0,7min 30s,7.5,87,1600.5
+azkaban,/main/java/azkaban/jobtype/StatsUtils.java,6,36.0,0,40min,40.0,31,640.2
+azkaban,/main/java/azkaban/viewer/hdfs/TextFileViewer.java,4,36.0,2,38min,38.0,37,1217.4
+azkaban,/main/java/azkaban/executor/ExecutableNode.java,7,35.0,0,1h 40min,100.0,224,5744.1
+azkaban,/main/java/azkaban/jobtype/connectors/gobblin/GobblinHadoopJob.java,2,35.0,4,2h 12min,132.0,25,1109.1
+azkaban,/main/java/azkaban/webapp/servlet/StatsServlet.java,6,35.0,0,40min,40.0,65,2127.6
+azkaban,/main/java/azkaban/jobtype/HadoopJavaJob.java,8,34.0,0,7min 30s,7.5,46,1113.9
+azkaban,/main/java/azkaban/viewer/hdfs/ORCFileViewer.java,4,34.0,0,27min 30s,27.5,17,693.6
+azkaban,/main/java/azkaban/project/ProjectFileHandler.java,6,34.0,0,22min 30s,22.5,49,1317.6
+azkaban,/main/java/azkaban/utils/Props.java,6,34.0,0,7h 6min,426.0,187,6211.5
+azkaban,/main/java/azkaban/execapp/StatsServlet.java,6,34.0,0,30min,30.0,76,2543.1
+azkaban,/main/java/azkaban/reportal/util/tableau/URLResponse.java,4,34.0,0,20min,20.0,41,873.0
+azkaban,/main/java/azkaban/flow/Flow.java,5,33.0,0,52min 30s,52.5,223,6014.1
+azkaban,/main/java/azkaban/webapp/servlet/AbstractAzkabanServlet.java,4,32.0,0,1h 45min,105.0,132,5052.3
+azkaban,/main/java/azkaban/executor/ExecutableFlowRampMetadata.java,7,32.0,3,1h 17min,77.0,54,1193.1
+azkaban,/main/java/azkaban/executor/ExecutorManagerException.java,3,32.0,0,0,0.0,35,698.4
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/Utils.java,3,32.0,0,22min,22.0,16,685.5
+azkaban,/main/java/azkaban/jobtype/AzkabanPigListener.java,12,31.0,2,1h 47min,107.0,92,2725.8
+azkaban,/main/java/azkaban/executor/selector/CandidateComparator.java,4,31.0,0,27min 30s,27.5,21,685.5
+azkaban,/main/java/azkaban/db/AzDBUtil.java,1,30.0,0,0,0.0,3,87.3
+azkaban,/main/java/azkaban/executor/BaseRefreshableMap.java,1,30.0,0,15min,15.0,27,860.1
+azkaban,/main/java/azkaban/flow/CommonJobProperties.java,1,30.0,0,7min 30s,7.5,20,582.0
+azkaban,/main/java/azkaban/execapp/ConditionalWorkflowUtils.java,1,30.0,3,1h 47min,107.0,24,831.0
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/Constants.java,1,30.0,0,0,0.0,5,116.4
+azkaban,/main/java/azkaban/crypto/CryptoV1_1.java,3,30.0,0,10min,10.0,22,677.4
+azkaban,/main/java/azkaban/utils/DIUtils.java,1,30.0,0,0,0.0,13,540.0
+azkaban,/main/java/azkaban/executor/ExecutableJobInfo.java,2,30.0,0,15min,15.0,52,1674.9
+azkaban,/main/java/azkaban/executor/ExecutableRampMap.java,1,30.0,0,0,0.0,17,627.3
+azkaban,/main/java/azkaban/utils/ExternalLinkUtils.java,1,30.0,0,50min,50.0,38,756.6
+azkaban,/main/java/azkaban/utils/GZIPUtils.java,1,30.0,0,20min,20.0,46,1603.8
+azkaban,/main/java/azkaban/executor/IRefreshable.java,1,30.0,0,0,0.0,4,58.2
+azkaban,/main/java/azkaban/jobtype/javautils/JobUtils.java,1,30.0,0,0,0.0,14,569.1
+azkaban,/main/java/azkaban/execapp/LogUtil.java,1,30.0,0,7min 30s,7.5,11,481.8
+azkaban,/main/java/azkaban/jobtype/ReportalPrestoRunner.java,3,30.0,0,27min 30s,27.5,37,1487.4
+azkaban,/restli/java/azkaban/restli/ResourceUtils.java,1,30.0,0,20min,20.0,25,1042.8
+azkaban,/main/java/azkaban/flow/SpecialJobTypes.java,1,30.0,0,7min 30s,7.5,9,232.8
+azkaban,/main/java/azkaban/utils/StorageUtils.java,1,30.0,0,0,0.0,12,569.1
+azkaban,/main/java/azkaban/jobtype/javautils/ValidationUtils.java,1,30.0,0,0,0.0,18,810.0
+azkaban,/main/java/azkaban/webapp/servlet/WebUtils.java,1,30.0,11,4h 37min,277.0,20,772.8
+azkaban,/main/java/azkaban/executor/ExecutableFlow.java,4,29.0,0,45min,45.0,166,3907.5
+azkaban,/main/java/trigger/kafka/KafkaEventMonitor.java,4,28.0,0,7min 30s,7.5,35,1341.9
+azkaban,/main/java/azkaban/viewer/hdfs/ParquetFileViewer.java,8,27.0,0,47min 30s,47.5,27,831.0
+azkaban,/main/java/azkaban/jobtype/HadoopPigJob.java,10,26.0,0,1h 15min,75.0,104,2863.2
+azkaban,/main/java/azkaban/execapp/jmx/JmxJobMBeanManager.java,3,26.0,0,42min 30s,42.5,60,1375.8
+azkaban,/main/java/azkaban/server/AbstractServiceServlet.java,2,25.0,2,1h 27min,87.0,65,2472.0
+azkaban,/main/java/azkaban/crypto/CryptoV1.java,2,25.0,0,10min,10.0,20,619.2
+azkaban,/main/java/azkaban/project/NodeBeanLoader.java,5,25.0,0,1h,60.0,65,1982.1
+azkaban,/main/java/azkaban/webapp/servlet/ProjectServlet.java,4,25.0,0,45min,45.0,89,2855.1
+azkaban,/main/java/azkaban/crypto/Crypto.java,3,24.0,0,10min,10.0,31,1042.8
+azkaban,/main/java/azkaban/utils/ExecuteAsUser.java,4,24.0,0,0,0.0,19,378.3
+azkaban,/main/java/azkaban/project/Project.java,4,23.0,0,6h 10min,370.0,183,4572.0
+azkaban,/main/java/azkaban/jobcallback/JobCallbackConstants.java,2,22.0,0,0,0.0,23,669.3
+azkaban,/main/java/azkaban/execapp/event/RemoteFlowWatcher.java,5,22.0,0,27min 30s,27.5,45,1948.2
+azkaban,/main/java/azkaban/scheduler/Schedule.java,2,22.0,0,1h 30min,90.0,93,2547.9
+azkaban,/main/java/azkaban/project/validator/ValidationReport.java,7,22.0,0,1h,60.0,45,1084.8
+azkaban,/main/java/azkaban/jobtype/AbstractHadoopJavaProcessJob.java,2,20.0,0,22min 30s,22.5,35,698.4
+azkaban,/main/java/azkaban/metric/AbstractMetric.java,1,20.0,0,7min 30s,7.5,13,261.9
+azkaban,/main/java/azkaban/webapp/AzkabanWebServerModule.java,2,20.0,0,7min 30s,7.5,46,1450.2
+azkaban,/main/java/azkaban/reportal/util/CompositeException.java,1,20.0,0,0,0.0,13,261.9
+azkaban,/main/java/azkaban/trigger/ConditionChecker.java,1,20.0,0,0,0.0,30,669.3
+azkaban,/main/java/azkaban/executor/selector/ExecutorComparator.java,4,20.0,0,1h 20min,80.0,29,1350.0
+azkaban,/main/java/azkaban/executor/ExecutorLoader.java,1,20.0,0,0,0.0,245,6663.9
+azkaban,/main/java/azkaban/utils/HashUtils.java,2,20.0,0,10min,10.0,57,1375.8
+azkaban,/main/java/azkaban/viewer/hdfs/HdfsFileViewer.java,3,20.0,0,7min 30s,7.5,26,801.9
+azkaban,/main/java/azkaban/jobtype/hiveutils/HiveQueryExecutorModule.java,2,20.0,0,20min,20.0,24,831.0
+azkaban,/main/java/azkaban/webapp/servlet/IndexRedirectServlet.java,1,20.0,0,7min 30s,7.5,17,531.9
+azkaban,/main/java/azkaban/utils/JavaxMailSender.java,1,20.0,0,7min 30s,7.5,26,582.0
+azkaban,/main/java/azkaban/executor/JdbcExecutorLoader.java,1,20.0,0,37min 30s,37.5,339,8193.3
+azkaban,/main/java/azkaban/trigger/JdbcTriggerImpl.java,5,20.0,0,55min,55.0,93,2908.5
+azkaban,/main/java/azkaban/flow/Node.java,1,20.0,0,30min,30.0,75,1862.4
+azkaban,/main/java/azkaban/jobExecutor/NoopJob.java,3,20.0,0,0,0.0,28,611.1
+azkaban,/main/java/azkaban/utils/Pair.java,1,20.0,0,1h 45min,105.0,24,619.2
+azkaban,/main/java/azkaban/scheduler/QuartzJobDescription.java,1,20.0,0,0,0.0,23,582.0
+azkaban,/main/java/azkaban/ramppolicy/RampPolicy.java,1,20.0,0,0,0.0,1,29.1
+azkaban,/main/java/azkaban/executor/RunningExecutions.java,2,20.0,0,0,0.0,7,423.6
+azkaban,/main/java/azkaban/reportal/util/StreamProviderHDFS.java,1,20.0,0,10min,10.0,67,1695.9
+azkaban,/main/java/azkaban/flowtrigger/TriggerInstance.java,2,20.0,0,2h 5min,125.0,86,2111.4
+azkaban,/main/java/azkaban/execapp/TriggerManager.java,2,20.0,0,0,0.0,33,947.4
+azkaban,/main/java/azkaban/utils/Triple.java,1,20.0,0,2h 15min,135.0,23,677.4
+azkaban,/main/java/azkaban/jobtype/javautils/Whitelist.java,1,20.0,1,47min 30s,47.5,24,677.4
+azkaban,/main/java/azkaban/db/DatabaseSetup.java,4,19.0,0,10min,10.0,53,1383.9
+azkaban,/main/java/azkaban/metric/inmemoryemitter/InMemoryMetricEmitter.java,5,19.0,0,0,0.0,41,1275.6
+azkaban,/main/java/azkaban/executor/selector/ExecutorFilter.java,3,18.0,0,20min,20.0,27,1117.2
+azkaban,/main/java/azkaban/executor/ExecutorDao.java,7,17.0,0,1h 30min,90.0,96,2439.6
+azkaban,/main/java/azkaban/viewer/hdfs/ImageFileViewer.java,3,16.0,0,40min,40.0,28,860.1
+azkaban,/main/java/azkaban/utils/PluginUtils.java,3,16.0,1,1h 7min,67.0,18,656.4
+azkaban,/main/java/azkaban/webapp/servlet/TriggerManagerServlet.java,3,16.0,0,17min 30s,17.5,49,1383.9
+azkaban,/main/java/azkaban/user/UserUtils.java,1,16.0,2,1h 12min,72.0,18,934.5
+azkaban,/main/java/azkaban/executor/ActiveExecutingFlowsDao.java,3,15.0,0,10min,10.0,22,552.9
+azkaban,/main/java/azkaban/execapp/FlowPreparer.java,4,15.0,0,1h 30min,90.0,61,1749.3
+azkaban,/main/java/azkaban/execapp/JMXHttpServlet.java,2,15.0,0,17min 30s,17.5,39,1362.9
+azkaban,/main/java/azkaban/jobtype/SecurePigWrapper.java,1,15.0,0,22min 30s,22.5,18,656.4
+azkaban,/main/java/azkaban/reportal/util/StreamProviderLocal.java,5,15.0,0,20min,20.0,54,1662.0
+azkaban,/main/java/azkaban/executor/ExecutionFinalizer.java,2,14.0,0,17min 30s,17.5,15,320.1
+azkaban,/main/java/azkaban/viewer/hdfs/AvroFileViewer.java,6,13.0,0,47min 30s,47.5,36,822.9
+azkaban,/main/java/azkaban/executor/ExecutableFlowBase.java,4,13.0,0,2h 52min,172.0,135,5383.8
+azkaban,/main/java/azkaban/executor/NumExecutionsDao.java,2,13.0,0,40min,40.0,46,1113.9
+azkaban,/main/java/azkaban/jobExecutor/utils/JobExecutionException.java,2,12.0,0,0,0.0,14,415.5
+azkaban,/main/java/trigger/kafka/KafkaDependencyCheck.java,3,12.0,0,0,0.0,24,552.9
+azkaban,/main/java/azkaban/jobtype/PigProcessJob.java,2,12.0,0,22min 30s,22.5,55,1653.9
+azkaban,/main/java/azkaban/flowtrigger/TriggerInstanceProcessor.java,3,12.0,0,15min,15.0,39,1151.1
+azkaban,/main/java/azkaban/sla/SlaOptionDeprecated.java,4,11.0,0,7min 30s,7.5,47,1471.2
+azkaban,/main/java/azkaban/executor/ActiveExecutors.java,1,10.0,0,0,0.0,20,407.4
+azkaban,/main/java/azkaban/jobExecutor/utils/process/AzkabanProcessBuilder.java,1,10.0,0,27min 30s,27.5,80,1949.7
+azkaban,/main/java/azkaban/executor/ConnectorParams.java,1,10.0,0,0,0.0,88,2560.8
+azkaban,/main/java/azkaban/db/DatabaseTransOperator.java,2,10.0,0,20min,20.0,22,494.7
+azkaban,/main/java/azkaban/utils/Emailer.java,1,10.0,0,50min,50.0,77,1974.0
+azkaban,/main/java/azkaban/crypto/EncryptionCLI.java,1,10.0,0,17min 30s,17.5,15,378.3
+azkaban,/main/java/azkaban/event/EventHandler.java,2,10.0,0,7min 30s,7.5,24,494.7
+azkaban,/main/java/azkaban/jobtype/connectors/gobblin/GobblinConstants.java,1,10.0,0,0,0.0,7,203.7
+azkaban,/main/java/azkaban/crypto/ICrypto.java,1,10.0,0,0,0.0,3,58.2
+azkaban,/main/java/azkaban/project/JdbcDependencyManager.java,3,10.0,0,27min 30s,27.5,29,881.1
+azkaban,/main/java/trigger/kafka/KafkaDepInstanceCollection.java,4,10.0,0,20min,20.0,33,1159.2
+azkaban,/main/java/azkaban/storage/LocalStorage.java,1,10.0,0,10min,10.0,67,1404.9
+azkaban,/main/java/azkaban/utils/PatternLayoutEscaped.java,1,10.0,0,10min,10.0,22,810.0
+azkaban,/main/java/azkaban/jobExecutor/utils/process/ProcessFailureException.java,1,10.0,0,0,0.0,12,261.9
+azkaban,/main/java/azkaban/webapp/plugin/TriggerPlugin.java,2,10.0,0,0,0.0,21,735.6
+azkaban,/main/java/azkaban/user/User.java,1,10.0,0,1h 10min,70.0,100,2460.6
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/HiveViaAzkaban.java,4,9.0,0,17min 30s,17.5,18,465.6
+azkaban,/main/java/azkaban/flow/Edge.java,1,8.0,0,15min,15.0,61,1455.0
+azkaban,/main/java/azkaban/project/FlowLoaderFactory.java,1,8.0,0,57min 30s,57.5,20,810.0
+azkaban,/main/java/azkaban/project/ArchiveUnthinner.java,2,7.0,0,45min,45.0,79,1666.8
+azkaban,/main/java/azkaban/database/DataSourceUtils.java,3,7.0,2,1h 5min,65.0,56,1998.3
+azkaban,/main/java/trigger/kafka/KafkaDependencyInstanceContext.java,2,7.0,0,0,0.0,20,523.8
+azkaban,/main/java/azkaban/scheduler/TriggerBasedScheduleLoader.java,2,7.0,0,37min 30s,37.5,90,2248.8
+azkaban,/main/java/azkaban/project/validator/XmlValidatorManager.java,3,7.0,0,42min 30s,42.5,58,2160.0
+azkaban,/main/java/azkaban/sla/SlaType.java,3,6.0,0,0,0.0,13,349.2
+azkaban,/main/java/azkaban/metric/TimeBasedReportingMetric.java,5,6.0,0,7min 30s,7.5,24,465.6
+azkaban,/main/java/azkaban/jobtype/examples/java/WordCount.java,3,6.0,0,22min 30s,22.5,55,1778.4
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/AddExternalPartitionHQL.java,2,5.0,0,10min,10.0,13,320.1
+azkaban,/main/java/azkaban/AzkabanCommonModule.java,1,5.0,0,57min 30s,57.5,34,756.6
+azkaban,/main/java/azkaban/AzkabanCommonModuleConfig.java,1,5.0,0,0,0.0,32,843.9
+azkaban,/main/java/azkaban/AzkabanCoreModule.java,1,5.0,0,0,0.0,15,598.2
+azkaban,/main/java/azkaban/execapp/event/BlockingStatus.java,2,5.0,0,10min,10.0,29,918.3
+azkaban,/main/java/azkaban/reportal/util/tableau/Countdown.java,1,5.0,0,0,0.0,14,320.1
+azkaban,/main/java/azkaban/db/DBMetrics.java,1,5.0,0,0,0.0,26,669.3
+azkaban,/main/java/azkaban/event/Event.java,1,5.0,0,0,0.0,24,648.3
+azkaban,/main/java/azkaban/execapp/ExecJettyServerModule.java,2,5.0,0,7min 30s,7.5,28,947.4
+azkaban,/main/java/azkaban/executor/ExecutionOptions.java,1,5.0,0,47min 30s,47.5,146,3886.5
+azkaban,/main/java/azkaban/executor/ExecutorLogEvent.java,1,5.0,6,2h,120.0,32,843.9
+azkaban,/main/java/azkaban/flowtrigger/FlowTriggerExecutionCleaner.java,1,5.0,0,0,0.0,14,291.0
+azkaban,/main/java/azkaban/metric/GangliaMetricEmitter.java,2,5.0,0,0,0.0,18,590.1
+azkaban,/main/java/azkaban/HadoopModule.java,1,5.0,0,1h,60.0,53,1683.0
+azkaban,/main/java/azkaban/jmx/JmxTriggerManager.java,1,5.0,0,0,0.0,30,764.7
+azkaban,/main/java/azkaban/jmx/JmxTriggerManagerMBean.java,1,5.0,0,0,0.0,19,677.4
+azkaban,/main/java/azkaban/execapp/event/LocalFlowWatcher.java,1,5.0,0,30min,30.0,26,955.5
+azkaban,/main/java/azkaban/storage/LocalHadoopStorage.java,1,5.0,0,0,0.0,30,698.4
+azkaban,/main/java/azkaban/utils/OsMemoryUtil.java,1,5.0,0,50min,50.0,15,561.0
+azkaban,/main/java/azkaban/webapp/servlet/Page.java,1,5.0,0,7min 30s,7.5,25,764.7
+azkaban,/main/java/azkaban/utils/RestfulApiClient.java,1,5.0,0,30min,30.0,29,976.5
+azkaban,/main/java/azkaban/executor/RunningExecutionsUpdaterThread.java,3,5.0,0,0,0.0,28,1042.8
+azkaban,/main/java/azkaban/storage/StorageImplementationType.java,1,5.0,0,20min,20.0,13,291.0
+azkaban,/restli/java/azkaban/restli/UserManagerResource.java,2,5.0,0,20min,20.0,39,1180.2
+azkaban,/main/java/azkaban/webapp/WebServerProvider.java,1,5.0,0,0,0.0,27,552.9
+azkaban,/main/java/azkaban/executor/selector/CandidateSelector.java,2,4.0,0,27min 30s,27.5,18,349.2
+azkaban,/main/java/azkaban/execapp/ExecMetrics.java,1,4.0,0,7min 30s,7.5,19,648.3
+azkaban,/main/java/azkaban/executor/QueuedExecutions.java,3,4.0,0,20min,20.0,36,814.8
+azkaban,/main/java/azkaban/ramppolicy/SimpleAutoRampPolicy.java,2,4.0,3,20min,20.0,24,1080.0
+azkaban,/main/java/azkaban/viewer/hdfs/BsonFileViewer.java,1,2.0,1,27min 30s,27.5,20,868.2
+azkaban,/main/java/azkaban/metrics/CommonMetrics.java,1,2.0,0,22min 30s,22.5,59,1878.6
+azkaban,/main/java/azkaban/executor/ExecutableFlowPriorityComparator.java,1,2.0,0,47min 30s,47.5,14,598.2
+azkaban,/main/java/azkaban/executor/Executor.java,1,2.0,0,1h 45min,105.0,50,1047.6
+azkaban,/main/java/azkaban/executor/ExecutorHealthChecker.java,2,2.0,1,25min,25.0,30,976.5
+azkaban,/main/java/azkaban/flow/FlowProps.java,1,2.0,0,0,0.0,32,698.4
+azkaban,/main/java/azkaban/webapp/servlet/MultipartParser.java,1,2.0,0,0,0.0,15,320.1
+azkaban,/main/java/azkaban/execapp/ProjectCacheCleaner.java,2,2.0,1,27min 30s,27.5,35,1283.7
+azkaban,/main/java/azkaban/project/ProjectLoader.java,1,2.0,0,0,0.0,133,3462.9
+azkaban,/main/java/azkaban/project/ProjectLogEvent.java,1,2.0,13,4h 20min,260.0,31,814.8
+azkaban,/main/java/trigger/kafka/RegexKafkaDependencyMatcher.java,1,2.0,0,0,0.0,11,261.9
+azkaban,/main/java/azkaban/server/session/SessionCache.java,1,2.0,0,20min,20.0,32,843.9
+azkaban,/main/java/azkaban/jobtype/SparkJobArg.java,1,2.0,0,7min 30s,7.5,16,407.4
+azkaban,/main/java/azkaban/storage/StorageCleaner.java,2,2.0,0,1h,60.0,40,939.3
+azkaban,/main/java/azkaban/project/validator/ValidationStatus.java,1,2.0,0,0,0.0,9,174.6
+azkaban,/main/java/azkaban/crypto/Version.java,1,2.0,0,0,0.0,10,232.8
+azkaban,/main/java/azkaban/jobtype/HadoopHiveJob.java,1,1.0,0,15min,15.0,45,1296.6
+azkaban,/main/java/azkaban/jobtype/pig/PigIoStats.java,1,1.0,0,0,0.0,38,902.1
+azkaban,/main/java/azkaban/utils/AbstractMailer.java,0,0.0,0,0,0.0,16,407.4
+azkaban,/main/java/azkaban/scheduler/AbstractQuartzJob.java,0,0.0,0,0,0.0,14,627.3
+azkaban,/main/java/azkaban/ramppolicy/AbstractRampPolicy.java,0,0.0,0,7min 30s,7.5,9,481.8
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/AlterTableLocationQL.java,1,0.0,0,10min,10.0,9,232.8
+azkaban,/main/java/azkaban/executor/AssignExecutorDao.java,0,0.0,0,0,0.0,19,436.5
+azkaban,/main/java/azkaban/database/AzkabanDatabaseUpdater.java,0,0.0,0,27min 30s,27.5,23,494.7
+azkaban,/main/java/azkaban/db/AzkabanDataSource.java,0,0.0,0,7min 30s,7.5,9,481.8
+azkaban,/main/java/azkaban/database/AzkabanDataSource.java,0,0.0,0,7min 30s,7.5,9,481.8
+azkaban,/main/java/azkaban/spi/AzkabanEventReporter.java,0,0.0,0,0,0.0,4,116.4
+azkaban,/main/java/azkaban/spi/AzkabanException.java,0,0.0,0,7min 30s,7.5,21,656.4
+azkaban,/main/java/azkaban/project/AzkabanFlow.java,0,0.0,0,7min 30s,7.5,66,1425.9
+azkaban,/main/java/azkaban/project/AzkabanJob.java,0,0.0,0,0,0.0,47,1238.4
+azkaban,/main/java/azkaban/jobtype/hiveutils/util/AzkabanJobPropertyDescription.java,1,0.0,0,0,0.0,1,29.1
+azkaban,/main/java/azkaban/project/AzkabanNode.java,0,0.0,0,0,0.0,20,523.8
+azkaban,/main/java/azkaban/server/AzkabanServer.java,0,0.0,0,30min,30.0,41,931.2
+azkaban,/main/java/azkaban/jobtype/hiveutils/util/AzkHiveAction.java,0,0.0,0,0,0.0,2,58.2
+azkaban,/main/java/azkaban/flowtrigger/CancellationCause.java,0,0.0,0,0,0.0,2,58.2
+azkaban,/main/java/azkaban/executor/selector/CandidateFilter.java,0,0.0,0,0,0.0,13,232.8
+azkaban,/main/java/azkaban/viewer/hdfs/Capability.java,0,0.0,0,0,0.0,3,58.2
+azkaban,/main/java/azkaban/utils/CaseInsensitiveConcurrentHashMap.java,0,0.0,0,0,0.0,19,436.5
+azkaban,/main/java/azkaban/utils/CircularBuffer.java,0,0.0,0,20min,20.0,22,494.7
+azkaban,/main/java/azkaban/flow/ConditionOnJobStatus.java,0,0.0,0,10min,10.0,14,291.0
+azkaban,/main/java/azkaban/viewer/hdfs/ContentType.java,0,0.0,0,0,0.0,3,58.2
+azkaban,/main/java/azkaban/security/CredentialProvider.java,0,0.0,0,0,0.0,1,29.1
+azkaban,/main/java/azkaban/project/CronSchedule.java,1,0.0,0,20min,20.0,16,751.8
+azkaban,/main/java/azkaban/dag/Dag.java,0,0.0,0,20min,20.0,30,947.4
+azkaban,/main/java/azkaban/dag/DagBuilder.java,0,0.0,0,45min,45.0,15,473.7
+azkaban,/main/java/azkaban/dag/DagException.java,0,0.0,0,0,0.0,8,423.6
+azkaban,/main/java/azkaban/dag/DagProcessor.java,0,0.0,0,0,0.0,2,58.2
+azkaban,/main/java/azkaban/dag/DagService.java,0,0.0,0,0,0.0,20,552.9
+azkaban,/main/java/azkaban/db/DatabaseOperator.java,3,0.0,0,40min,40.0,22,465.6
+azkaban,/main/java/azkaban/storage/DatabaseStorage.java,0,0.0,0,0,0.0,31,669.3
+azkaban,/main/java/azkaban/crypto/Decryptions.java,0,0.0,0,10min,10.0,14,569.1
+azkaban,/main/java/azkaban/flowtrigger/DependencyCheck.java,0,0.0,0,0,0.0,3,87.3
+azkaban,/main/java/azkaban/flowtrigger/DependencyException.java,0,0.0,0,0,0.0,11,357.3
+azkaban,/main/java/azkaban/spi/DependencyFile.java,1,0.0,0,37min 30s,37.5,18,627.3
+azkaban,/main/java/azkaban/flowtrigger/DependencyInstance.java,1,0.0,0,7min 30s,7.5,52,1134.9
+azkaban,/main/java/azkaban/flowtrigger/DependencyInstanceCallback.java,0,0.0,0,0,0.0,5,116.4
+azkaban,/main/java/azkaban/flowtrigger/DependencyInstanceCallbackImpl.java,0,0.0,0,0,0.0,13,261.9
+azkaban,/main/java/azkaban/flowtrigger/DependencyInstanceConfig.java,0,0.0,0,0,0.0,3,58.2
+azkaban,/main/java/azkaban/flowtrigger/DependencyInstanceConfigImpl.java,0,0.0,0,0,0.0,14,291.0
+azkaban,/main/java/azkaban/flowtrigger/DependencyInstanceContext.java,0,0.0,0,0,0.0,2,29.1
+azkaban,/main/java/azkaban/flowtrigger/DependencyInstanceProcessor.java,0,0.0,0,0,0.0,7,174.6
+azkaban,/main/java/azkaban/flowtrigger/DependencyInstanceRuntimeProps.java,0,0.0,0,0,0.0,2,58.2
+azkaban,/main/java/azkaban/flowtrigger/DependencyInstanceRuntimePropsImpl.java,0,0.0,0,0,0.0,14,291.0
+azkaban,/main/java/trigger/kafka/matcher/DependencyMatcher.java,0,0.0,0,0,0.0,3,87.3
+azkaban,/main/java/azkaban/flowtrigger/DependencyPluginConfig.java,0,0.0,0,0,0.0,3,58.2
+azkaban,/main/java/azkaban/flowtrigger/DependencyPluginConfigImpl.java,0,0.0,0,0,0.0,14,291.0
+azkaban,/main/java/azkaban/utils/DependencyTransferException.java,0,0.0,0,0,0.0,12,510.9
+azkaban,/main/java/azkaban/jmx/DisplayName.java,0,0.0,0,0,0.0,1,29.1
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/DropPartitionHQL.java,1,0.0,0,10min,10.0,12,291.0
+azkaban,/main/java/azkaban/utils/EmailMessageCreator.java,0,0.0,0,7min 30s,7.5,23,523.8
+azkaban,/main/java/azkaban/db/EncodingType.java,1,0.0,3,1h 10min,70.0,13,261.9
+azkaban,/main/java/azkaban/event/EventData.java,0,0.0,0,0,0.0,8,203.7
+azkaban,/main/java/azkaban/event/EventListener.java,0,0.0,0,0,0.0,5,116.4
+azkaban,/main/java/azkaban/spi/EventType.java,0,0.0,0,0,0.0,1,29.1
+azkaban,/main/java/azkaban/executor/ExecutableRampStatus.java,0,0.0,0,1h 7min,67.0,11,261.9
+azkaban,/main/java/azkaban/executor/ExecutionAttempt.java,0,0.0,0,7min 30s,7.5,36,902.1
+azkaban,/main/java/azkaban/executor/ExecutionReference.java,1,0.0,0,0,0.0,36,843.9
+azkaban,/main/java/azkaban/executor/ExecutorApiClient.java,0,0.0,0,0,0.0,7,548.1
+azkaban,/main/java/azkaban/executor/ExecutorApiGateway.java,0,0.0,0,20min,20.0,57,1425.9
+azkaban,/main/java/azkaban/executor/ExecutorEventsDao.java,0,0.0,0,20min,20.0,32,881.1
+azkaban,/main/java/azkaban/executor/ExecutorInfo.java,0,0.0,0,25min,25.0,52,1558.5
+azkaban,/main/java/azkaban/executor/ExecutorManagerUpdaterStage.java,0,0.0,0,0,0.0,3,87.3
+azkaban,/main/java/azkaban/executor/selector/ExecutorSelector.java,0,0.0,0,0,0.0,3,336.3
+azkaban,/main/java/azkaban/utils/ExecutorServiceUtils.java,0,0.0,0,0,0.0,7,452.7
+azkaban,/main/java/azkaban/executor/ExecutorUtils.java,0,0.0,0,0,0.0,8,606.3
+azkaban,/main/java/azkaban/executor/selector/FactorComparator.java,0,0.0,0,10min,10.0,22,706.5
+azkaban,/main/java/azkaban/executor/selector/FactorFilter.java,0,0.0,0,10min,10.0,17,561.0
+azkaban,/main/java/azkaban/spi/FileValidationStatus.java,0,0.0,0,0,0.0,13,320.1
+azkaban,/main/java/azkaban/project/FlowLoader.java,0,0.0,0,0,0.0,2,29.1
+azkaban,/main/java/azkaban/project/FlowTrigger.java,0,0.0,0,0,0.0,29,698.4
+azkaban,/main/java/azkaban/project/FlowTriggerBean.java,0,0.0,0,0,0.0,20,523.8
+azkaban,/main/java/azkaban/project/FlowTriggerDependency.java,1,0.0,0,0,0.0,16,378.3
+azkaban,/main/java/azkaban/flowtrigger/plugin/FlowTriggerDependencyPluginException.java,0,0.0,0,0,0.0,11,481.8
+azkaban,/main/java/azkaban/flowtrigger/database/FlowTriggerInstanceLoader.java,0,0.0,0,0,0.0,20,523.8
+azkaban,/main/java/azkaban/flowtrigger/quartz/FlowTriggerQuartzJob.java,0,0.0,0,7min 30s,7.5,18,436.5
+azkaban,/main/java/azkaban/execapp/event/FlowWatcher.java,0,0.0,0,50min,50.0,38,902.1
+azkaban,/main/java/azkaban/ramppolicy/FullRampPolicy.java,0,0.0,0,0,0.0,11,510.9
+azkaban,/main/java/azkaban/jobtype/connectors/gobblin/GobblinPresets.java,0,0.0,0,0,0.0,10,232.8
+azkaban,/main/java/azkaban/db/H2FileDataSource.java,0,0.0,0,0,0.0,15,569.1
+azkaban,/main/java/azkaban/security/commons/HadoopSecurityManager.java,0,0.0,0,7min 30s,7.5,57,1762.2
+azkaban,/main/java/azkaban/security/commons/HadoopSecurityManagerException.java,0,0.0,0,0,0.0,12,328.2
+azkaban,/main/java/azkaban/utils/HashNotMatchException.java,0,0.0,0,0,0.0,13,540.0
+azkaban,/main/java/azkaban/storage/HdfsAuth.java,0,0.0,0,0,0.0,27,582.0
+azkaban,/main/java/azkaban/storage/HdfsStorage.java,0,0.0,0,40min,40.0,57,1251.3
+azkaban,/main/java/azkaban/jobtype/connectors/gobblin/helper/HdfsToMySqlValidator.java,0,0.0,0,0,0.0,6,423.6
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/HiveAction.java,0,0.0,0,0,0.0,5,145.5
+azkaban,/main/java/azkaban/jobtype/hiveutils/HiveMetaStoreBrowserException.java,0,0.0,0,0,0.0,15,473.7
+azkaban,/main/java/azkaban/jobtype/hiveutils/HiveModule.java,1,0.0,0,10min,10.0,12,569.1
+azkaban,/main/java/azkaban/jobtype/hiveutils/HiveQueryException.java,0,0.0,0,0,0.0,21,494.7
+azkaban,/main/java/azkaban/jobtype/hiveutils/HiveQueryExecutionException.java,0,0.0,0,0,0.0,13,261.9
+azkaban,/main/java/azkaban/jobtype/hiveutils/HiveQueryExecutor.java,0,0.0,0,0,0.0,4,116.4
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/HiveViaAzkabanException.java,0,0.0,0,0,0.0,14,386.4
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/HQL.java,0,0.0,0,0,0.0,5,116.4
+azkaban,/main/java/azkaban/viewer/hdfs/HtmlFileViewer.java,0,0.0,0,31min,31.0,26,582.0
+azkaban,/main/java/azkaban/jobtype/IHadoopJob.java,0,0.0,0,0,0.0,3,87.3
+azkaban,/main/java/azkaban/server/IMBeanRegistrable.java,0,0.0,0,0,0.0,2,58.2
+azkaban,/main/java/azkaban/metric/IMetric.java,0,0.0,0,0,0.0,15,407.4
+azkaban,/main/java/azkaban/metric/IMetricEmitter.java,0,0.0,0,0,0.0,8,232.8
+azkaban,/main/java/azkaban/metric/inmemoryemitter/InMemoryHistoryNode.java,0,0.0,0,0,0.0,9,232.8
+azkaban,/main/java/azkaban/jobtype/hiveutils/util/IntendedAudience.java,0,0.0,0,0,0.0,2,58.2
+azkaban,/main/java/azkaban/utils/InvalidHashException.java,0,0.0,0,0,0.0,13,540.0
+azkaban,/main/java/azkaban/jobtype/connectors/gobblin/helper/IPropertiesValidator.java,0,0.0,0,0,0.0,2,58.2
+azkaban,/main/java/azkaban/jmx/JmxExecutionController.java,0,0.0,0,0,0.0,17,349.2
+azkaban,/main/java/azkaban/jmx/JmxExecutionControllerMBean.java,0,0.0,0,0,0.0,9,261.9
+azkaban,/main/java/azkaban/jmx/JmxExecutorManager.java,0,0.0,0,0,0.0,49,989.4
+azkaban,/main/java/azkaban/jmx/JmxExecutorManagerMBean.java,0,0.0,0,0,0.0,28,814.8
+azkaban,/main/java/azkaban/execapp/jmx/JmxFlowRampManager.java,0,0.0,0,0,0.0,10,203.7
+azkaban,/main/java/azkaban/execapp/jmx/JmxFlowRampManagerMBean.java,0,0.0,0,0,0.0,4,116.4
+azkaban,/main/java/azkaban/execapp/jmx/JmxFlowRunnerManager.java,0,0.0,0,0,0.0,40,785.7
+azkaban,/main/java/azkaban/execapp/jmx/JmxFlowRunnerManagerMBean.java,0,0.0,0,0,0.0,24,698.4
+azkaban,/main/java/azkaban/jmx/JmxJettyServer.java,0,0.0,0,0,0.0,75,1455.0
+azkaban,/main/java/azkaban/jmx/JmxJettyServerMBean.java,0,0.0,0,0,0.0,46,1338.6
+azkaban,/main/java/azkaban/execapp/jmx/JmxJobCallback.java,0,0.0,0,0,0.0,19,378.3
+azkaban,/main/java/azkaban/execapp/jmx/JmxJobCallbackMBean.java,0,0.0,0,0,0.0,10,291.0
+azkaban,/main/java/azkaban/execapp/jmx/JmxJobMXBean.java,0,0.0,0,0,0.0,12,349.2
+azkaban,/main/java/azkaban/jmx/JmxTriggerRunnerManagerMBean.java,0,0.0,0,0,0.0,15,436.5
+azkaban,/main/java/azkaban/jobcallback/JobCallbackStatusEnum.java,0,0.0,0,0,0.0,3,58.2
+azkaban,/main/java/azkaban/jobtype/JobTypeManagerException.java,0,0.0,0,0,0.0,13,386.4
+azkaban,/main/java/azkaban/jobtype/JobTypePluginSet.java,0,0.0,0,0,0.0,23,669.3
+azkaban,/main/java/azkaban/utils/LogGobbler.java,1,0.0,0,10min,10.0,35,947.4
+azkaban,/main/java/azkaban/server/MBeanRegistrationManager.java,0,0.0,0,40min,40.0,19,1270.8
+azkaban,/main/java/azkaban/utils/MemConfValue.java,0,0.0,0,0,0.0,27,706.5
+azkaban,/main/java/azkaban/utils/MessageAttachmentExceededMaximumSizeException.java,0,0.0,0,0,0.0,12,510.9
+azkaban,/main/java/azkaban/metric/MetricException.java,0,0.0,0,0,0.0,13,415.5
+azkaban,/main/java/azkaban/metrics/MetricsManager.java,0,0.0,0,0,0.0,27,852.0
+azkaban,/main/java/azkaban/db/MySQLDataSource.java,3,0.0,0,20min,20.0,40,1400.1
+azkaban,/main/java/azkaban/jobtype/connectors/gobblin/helper/MySqlToHdfsValidator.java,0,0.0,0,0,0.0,5,394.5
+azkaban,/main/java/azkaban/dag/Node.java,1,0.0,0,30min,30.0,46,1699.2
+azkaban,/main/java/azkaban/project/NodeBean.java,0,0.0,0,0,0.0,47,1193.1
+azkaban,/main/java/azkaban/dag/NodeProcessor.java,0,0.0,0,0,0.0,2,58.2
+azkaban,/main/java/azkaban/ramppolicy/NoopRampPolicy.java,0,0.0,0,0,0.0,11,510.9
+azkaban,/main/java/azkaban/execapp/metric/NumFailedFlowMetric.java,0,0.0,0,15min,15.0,16,598.2
+azkaban,/main/java/azkaban/execapp/metric/NumFailedJobMetric.java,0,0.0,0,15min,15.0,16,598.2
+azkaban,/main/java/azkaban/execapp/metric/NumQueuedFlowMetric.java,0,0.0,0,15min,15.0,9,203.7
+azkaban,/main/java/azkaban/execapp/metric/NumRunningFlowMetric.java,0,0.0,0,15min,15.0,9,203.7
+azkaban,/main/java/azkaban/execapp/metric/NumRunningJobMetric.java,0,0.0,0,25min,25.0,11,510.9
+azkaban,/main/java/azkaban/utils/OsCpuUtil.java,0,0.0,0,1h 27min,87.0,39,968.4
+azkaban,/main/java/azkaban/webapp/servlet/PageRenderException.java,0,0.0,0,0,0.0,5,240.9
+azkaban,/main/java/azkaban/webapp/servlet/PageUtils.java,0,0.0,0,0,0.0,8,423.6
+azkaban,/main/java/azkaban/jmx/ParameterName.java,0,0.0,0,0,0.0,3,87.3
+azkaban,/main/java/azkaban/flowtrigger/plugin/ParentLastURLClassLoader.java,0,0.0,0,50min,50.0,37,1122.0
+azkaban,/main/java/azkaban/user/ParseConfigFile.java,0,0.0,0,0,0.0,2,58.2
+azkaban,/main/java/azkaban/user/Permission.java,2,0.0,0,1h,60.0,83,1754.1
+azkaban,/main/java/azkaban/execapp/metric/ProjectCacheHitRatio.java,0,0.0,0,7min 30s,7.5,15,320.1
+azkaban,/main/java/azkaban/execapp/ProjectDirectoryMetadata.java,0,0.0,0,0,0.0,41,843.9
+azkaban,/main/java/azkaban/project/ProjectManagerException.java,0,0.0,0,0,0.0,12,328.2
+azkaban,/main/java/azkaban/storage/ProjectStorageManager.java,3,0.0,0,57min 30s,57.5,49,1055.7
+azkaban,/main/java/azkaban/spi/ProjectStorageMetadata.java,0,0.0,0,20min,20.0,30,822.9
+azkaban,/main/java/azkaban/project/validator/ProjectValidator.java,0,0.0,0,0,0.0,5,116.4
+azkaban,/main/java/azkaban/project/validator/ProjectValidatorCacheable.java,0,0.0,0,0,0.0,2,29.1
+azkaban,/main/java/azkaban/scheduler/QuartzScheduler.java,3,0.0,0,1h 47min,107.0,30,822.9
+azkaban,/main/java/azkaban/ramppolicy/RampPolicyExecutionException.java,0,0.0,0,0,0.0,12,386.4
+azkaban,/main/java/azkaban/ramppolicy/RampPolicyManagerException.java,0,0.0,0,0,0.0,11,357.3
+azkaban,/main/java/azkaban/ramppolicy/RampPolicyPluginSet.java,0,0.0,0,0,0.0,21,611.1
+azkaban,/main/java/azkaban/reportal/util/ReportalRunnerException.java,0,0.0,0,0,0.0,15,444.6
+azkaban,/main/java/azkaban/reportal/util/tableau/Result.java,0,0.0,0,0,0.0,7,174.6
+azkaban,/main/java/azkaban/jobtype/hiveutils/ResultSchema.java,0,0.0,0,0,0.0,18,494.7
+azkaban,/main/java/azkaban/user/Role.java,0,0.0,0,0,0.0,17,349.2
+azkaban,/main/java/azkaban/scheduler/ScheduleLoader.java,0,0.0,0,0,0.0,22,640.2
+azkaban,/main/java/azkaban/scheduler/ScheduleManagerException.java,0,0.0,0,0,0.0,13,386.4
+azkaban,/main/java/azkaban/scheduler/SchedulerJobFactory.java,0,0.0,0,0,0.0,12,291.0
+azkaban,/main/java/azkaban/executor/selector/Selector.java,0,0.0,0,0,0.0,1,29.1
+azkaban,/main/java/azkaban/viewer/hdfs/SequenceFileViewer.java,1,0.0,0,10min,10.0,28,984.6
+azkaban,/main/java/azkaban/ServiceProvider.java,1,0.0,0,0,0.0,12,203.7
+azkaban,/main/java/azkaban/server/session/Session.java,0,0.0,0,0,0.0,17,436.5
+azkaban,/main/java/azkaban/ramppolicy/SimpleQuickRampPolicy.java,0,0.0,3,20min,20.0,17,934.5
+azkaban,/main/java/azkaban/sla/SlaAction.java,0,0.0,0,0,0.0,1,29.1
+azkaban,/main/java/azkaban/utils/SplitterOutputStream.java,0,0.0,0,0,0.0,35,1063.8
+azkaban,/main/java/azkaban/db/SQLTransaction.java,0,0.0,0,0,0.0,6,174.6
+azkaban,/main/java/azkaban/flowtrigger/Status.java,0,0.0,0,0,0.0,6,116.4
+azkaban,/main/java/azkaban/dag/Status.java,0,0.0,0,0,0.0,14,320.1
+azkaban,/main/java/azkaban/executor/Status.java,0,0.0,8,2h 40min,160.0,37,756.6
+azkaban,/main/java/azkaban/webapp/StatusService.java,0,0.0,0,50min,50.0,33,698.4
+azkaban,/main/java/azkaban/webapp/servlet/StatusServlet.java,0,0.0,0,0,0.0,20,992.7
+azkaban,/main/java/azkaban/spi/Storage.java,0,0.0,0,0,0.0,8,203.7
+azkaban,/main/java/azkaban/spi/StorageException.java,0,0.0,0,0,0.0,17,627.3
+azkaban,/main/java/azkaban/utils/SwapQueue.java,0,0.0,0,0,0.0,20,465.6
+azkaban,/main/java/azkaban/utils/SystemMemoryInfo.java,0,0.0,0,30min,30.0,8,203.7
+azkaban,/main/java/azkaban/utils/ThreadPoolExecutingListener.java,0,0.0,0,0,0.0,4,116.4
+azkaban,/main/java/azkaban/execapp/Trigger.java,0,0.0,0,10min,10.0,25,926.4
+azkaban,/main/java/azkaban/project/TriggerDependencyBean.java,0,0.0,0,0,0.0,20,523.8
+azkaban,/main/java/azkaban/trigger/TriggerException.java,0,0.0,0,0,0.0,16,473.7
+azkaban,/main/java/azkaban/trigger/TriggerLoader.java,0,0.0,0,0,0.0,31,814.8
+azkaban,/main/java/azkaban/trigger/TriggerLoaderException.java,0,0.0,0,0,0.0,15,415.5
+azkaban,/main/java/azkaban/trigger/TriggerManagerAdapter.java,0,0.0,0,0,0.0,57,1658.7
+azkaban,/main/java/azkaban/trigger/TriggerManagerException.java,0,0.0,0,0,0.0,15,415.5
+azkaban,/main/java/azkaban/trigger/TriggerStatus.java,0,0.0,0,0,0.0,9,203.7
+azkaban,/main/java/azkaban/utils/UndefinedPropertyException.java,0,0.0,0,0,0.0,6,240.9
+azkaban,/main/java/azkaban/jobtype/hiveutils/azkaban/hive/actions/useDatabaseHQL.java,0,0.0,0,0,0.0,10,203.7
+azkaban,/main/java/azkaban/user/UserManager.java,0,0.0,0,0,0.0,14,349.2
+azkaban,/main/java/azkaban/user/UserManagerException.java,0,0.0,0,0,0.0,9,328.2
+azkaban,/main/java/azkaban/project/validator/ValidatorConfigs.java,0,0.0,0,7min 30s,7.5,5,270.0
+azkaban,/main/java/azkaban/project/validator/ValidatorManager.java,0,0.0,0,0,0.0,9,203.7
+azkaban,/main/java/azkaban/project/validator/ValidatorManagerException.java,0,0.0,0,0,0.0,14,386.4
+azkaban,/main/java/azkaban/utils/ValidatorUtils.java,0,0.0,0,0,0.0,21,436.5
+azkaban,/main/java/azkaban/webapp/servlet/VelocityUtil.java,0,0.0,0,10min,10.0,12,261.9
+azkaban,/main/java/azkaban/webapp/WebMetrics.java,0,0.0,0,0,0.0,15,473.7

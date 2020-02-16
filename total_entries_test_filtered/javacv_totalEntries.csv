@@ -1,0 +1,167 @@
+javacv,main/java/org/bytedeco/javacv/FFmpegFrameRecorder.java,124,1545.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FFmpegFrameGrabber.java,108,1294.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/Blobs.java,261,1126.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/DC1394FrameGrabber.java,63,1001.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FFmpegFrameFilter.java,91,999.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FlyCaptureFrameGrabber.java,48,788.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FlyCapture2FrameGrabber.java,54,644.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/JavaCV.java,136,609.0,null,null,null,null,null
+javacv,les/BlobDemo.java,96,588.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/VideoInputFrameGrabber.java,36,549.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/RealSenseFrameGrabber.java,78,534.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/Java2DFrameConverter.java,32,531.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/CanvasFrame.java,29,499.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/CameraDevice.java,36,419.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProjectiveDevice.java,123,400.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/PS3EyeFrameGrabber.java,25,385.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/OpenKinectFrameGrabber.java,33,384.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/OpenKinect2FrameGrabber.java,49,342.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/OpenCVFrameGrabber.java,26,335.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProjectiveTransformer.java,60,324.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/GNImageAligner.java,51,323.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/JavaCVCL.java,41,323.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProjectorDevice.java,32,293.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/GeometricCalibrator.java,61,282.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FrameGrabber.java,48,262.0,null,null,null,null,null
+javacv,main/java/cl/eye/CLCamera.java,112,245.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProCamTransformer.java,33,245.0,null,null,null,null,null
+javacv,les/Square.java,31,205.0,null,null,null,null,null
+javacv,les/HoughLines.java,23,202.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/GLCanvasFrame.java,23,201.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ObjectFinder.java,26,191.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/Frame.java,40,189.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProjectiveColorTransformer.java,38,180.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/RealSense2FrameGrabber.java,14,175.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/IPCameraFrameGrabber.java,15,167.0,null,null,null,null,null
+javacv,les/PrincipalComponentAnalysis.java,20,167.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/Marker.java,33,165.0,null,null,null,null,null
+javacv,les/RecordActivity.java,41,156.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FrameRecorder.java,33,155.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/OpenCVFrameRecorder.java,13,149.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/MarkerDetector.java,27,144.0,null,null,null,null,null
+javacv,les/OpenCVFeatures2dSerialization.java,14,140.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/GNImageAlignerCL.java,23,138.0,null,null,null,null,null
+javacv,les/FFmpegStreamingTimeout.java,17,132.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProCamColorCalibrator.java,29,113.0,null,null,null,null,null
+javacv,les/CaffeGooglenet.java,13,111.0,null,null,null,null,null
+javacv,les/DeinterlacedVideoPlayer.java,8,99.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProCamGeometricCalibrator.java,33,98.0,null,null,null,null,null
+javacv,les/RLSA.java,9,97.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProjectiveTransformerCL.java,18,93.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProCamTransformerCL.java,29,86.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/HandMouse.java,24,84.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProjectiveColorTransformerCL.java,22,83.0,null,null,null,null,null
+javacv,les/MotionDetector.java,8,82.0,null,null,null,null,null
+javacv,les/FaceRecognizerInVideo.java,13,80.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FFmpegLockCallback.java,9,75.0,null,null,null,null,null
+javacv,les/JavaFxPlayVideoAndAudio.java,7,74.0,null,null,null,null,null
+javacv,les/FaceApplet.java,12,71.0,null,null,null,null,null
+javacv,les/WebcamAndMicrophoneCapture.java,13,68.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/Parallel.java,4,65.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ImageTransformer.java,23,64.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/MarkedPlane.java,15,64.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/Java2DFrameUtils.java,15,58.0,null,null,null,null,null
+javacv,les/ColoredObjectTrack.java,14,57.0,null,null,null,null,null
+javacv,les/TemplateMatching.java,12,54.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ColorCalibrator.java,12,50.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ImageAligner.java,2,50.0,null,null,null,null,null
+javacv,les/OpticalFlowTracker.java,9,45.0,null,null,null,null,null
+javacv,les/BioInspiredRetina.java,6,44.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ReflectanceInitializer.java,10,44.0,null,null,null,null,null
+javacv,les/Demo.java,10,42.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/cvkernels.java,6,41.0,null,null,null,null,null
+javacv,les/Smoother.java,2,40.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ImageTransformerCL.java,21,39.0,null,null,null,null,null
+javacv,les/FacePreview.java,13,38.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/OpenCVFrameConverter.java,5,36.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/AndroidFrameConverter.java,11,34.0,null,null,null,null,null
+javacv,les/OpenCVFaceRecognizer.java,5,32.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/JavaCvErrorCallback.java,5,31.0,null,null,null,null,null
+javacv,les/DeepLearningFaceDetection.java,5,30.0,null,null,null,null,null
+javacv,les/ImageSegmentation.java,6,30.0,null,null,null,null,null
+javacv,les/PerspectiveWarpDemo.java,3,30.0,null,null,null,null,null
+javacv,les/RealSense2DepthMeasuring.java,3,30.0,null,null,null,null,null
+javacv,les/OpticalFlowDense.java,9,26.0,null,null,null,null,null
+javacv,les/PacketRecorderTest.java,5,25.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/BaseChildSettings.java,2,20.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/BaseSettings.java,2,20.0,null,null,null,null,null
+javacv,les/KazemiFacemarkExample.java,2,20.0,null,null,null,null,null
+javacv,les/LBFFacemarkExampleWithVideo.java,2,20.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/CameraSettings.java,1,5.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/LeptonicaFrameConverter.java,2,4.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/JavaFXFrameConverter.java,1,2.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/BufferRing.java,0,0.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FFmpegLogCallback.java,0,0.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FrameConverter.java,0,0.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/FrameFilter.java,0,0.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ImageAlignerCL.java,0,0.0,null,null,null,null,null
+javacv,/main/java9/module-info.java,0,0.0,0,0,0.0,null,null
+javacv,main/java9/module-info.java,0,0.0,null,null,null,null,null
+javacv,main/java/org/bytedeco/javacv/ProjectorSettings.java,0,0.0,null,null,null,null,null
+javacv,/main/java/org/bytedeco/javacv/FFmpegFrameGrabber.java,0,0,6,2M/d,960.0,null,null
+javacv,/main/java/org/bytedeco/javacv/OpenCVFrameConverter.java,0,0,24,1M/d 2h,600.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FFmpegFrameRecorder.java,0,0,4,1M/d 2h,600.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProjectiveDevice.java,0,0,12,1M/d,480.0,null,null
+javacv,/main/java/org/bytedeco/javacv/Java2DFrameConverter.java,0,0,9,6h 35min,395.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FFmpegFrameFilter.java,0,0,1,6h 12min,372.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FlyCapture2FrameGrabber.java,0,0,9,6h 7min,367.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FlyCaptureFrameGrabber.java,0,0,9,5h 41min,341.0,null,null
+javacv,/main/java/org/bytedeco/javacv/JavaCV.java,0,0,3,5h 15min,315.0,null,null
+javacv,/main/java/org/bytedeco/javacv/Blobs.java,0,0,10,5h,300.0,null,null
+javacv,/main/java/org/bytedeco/javacv/JavaCVCL.java,0,0,10,4h 45min,285.0,null,null
+javacv,/main/java/org/bytedeco/javacv/Frame.java,0,0,9,4h 17min,257.0,null,null
+javacv,/main/java/org/bytedeco/javacv/GNImageAligner.java,0,0,2,4h 2min,242.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FrameGrabber.java,0,0,5,4h,240.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProjectiveColorTransformer.java,0,0,6,3h 50min,230.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProCamTransformer.java,0,0,0,3h 30min,210.0,null,null
+javacv,/main/java/org/bytedeco/javacv/DC1394FrameGrabber.java,0,0,2,3h 12min,192.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProjectiveTransformer.java,0,0,1,3h 5min,185.0,null,null
+javacv,/main/java/org/bytedeco/javacv/GLCanvasFrame.java,0,0,4,2h 57min,177.0,null,null
+javacv,/main/java/org/bytedeco/javacv/RealSenseFrameGrabber.java,0,0,2,2h 45min,165.0,null,null
+javacv,/main/java/org/bytedeco/javacv/OpenCVFrameGrabber.java,0,0,1,2h 40min,160.0,null,null
+javacv,/main/java/org/bytedeco/javacv/CanvasFrame.java,0,0,0,2h 40min,160.0,null,null
+javacv,/main/java/org/bytedeco/javacv/CameraDevice.java,0,0,2,2h 38min,158.0,null,null
+javacv,/main/java/org/bytedeco/javacv/GeometricCalibrator.java,0,0,0,2h 28min,148.0,null,null
+javacv,/main/java/org/bytedeco/javacv/RealSense2FrameGrabber.java,0,0,3,2h 26min,146.0,null,null
+javacv,/main/java/org/bytedeco/javacv/MarkerDetector.java,0,0,5,2h 25min,145.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProCamGeometricCalibrator.java,0,0,0,2h 25min,145.0,null,null
+javacv,/main/java/org/bytedeco/javacv/PS3EyeFrameGrabber.java,0,0,1,2h 8min,128.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FFmpegLockCallback.java,0,0,5,2h 7min,127.0,null,null
+javacv,/main/java/org/bytedeco/javacv/GNImageAlignerCL.java,0,0,0,1h 54min,114.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ObjectFinder.java,0,0,0,1h 54min,114.0,null,null
+javacv,/main/java/org/bytedeco/javacv/OpenKinectFrameGrabber.java,0,0,2,1h 47min,107.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProjectorDevice.java,0,0,2,1h 43min,103.0,null,null
+javacv,/main/java/org/bytedeco/javacv/AndroidFrameConverter.java,0,0,2,1h 27min,87.0,null,null
+javacv,/main/java/org/bytedeco/javacv/HandMouse.java,0,0,0,1h 27min,87.0,null,null
+javacv,/main/java/org/bytedeco/javacv/LeptonicaFrameConverter.java,0,0,1,1h 22min,82.0,null,null
+javacv,/main/java/org/bytedeco/javacv/Marker.java,0,0,0,1h 22min,82.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProCamColorCalibrator.java,0,0,0,1h 10min,70.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FrameRecorder.java,0,0,0,1h 10min,70.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProCamTransformerCL.java,0,0,0,1h 7min,67.0,null,null
+javacv,/main/java/org/bytedeco/javacv/VideoInputFrameGrabber.java,0,0,0,1h 2min,62.0,null,null
+javacv,/main/java/org/bytedeco/javacv/OpenKinect2FrameGrabber.java,0,0,0,57min 30s,57.5,null,null
+javacv,/main/java/org/bytedeco/javacv/ProjectiveColorTransformerCL.java,0,0,3,55min,55.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProjectiveTransformerCL.java,0,0,3,55min,55.0,null,null
+javacv,/main/java/org/bytedeco/javacv/MarkedPlane.java,0,0,1,47min 30s,47.5,null,null
+javacv,/main/java/org/bytedeco/javacv/IPCameraFrameGrabber.java,0,0,1,45min,45.0,null,null
+javacv,/main/java/org/bytedeco/javacv/cvkernels.java,0,0,0,30min,30.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ReflectanceInitializer.java,0,0,0,30min,30.0,null,null
+javacv,/main/java/org/bytedeco/javacv/Parallel.java,0,0,0,27min 30s,27.5,null,null
+javacv,/main/java/org/bytedeco/javacv/BaseSettings.java,0,0,0,27min 30s,27.5,null,null
+javacv,/main/java/cl/eye/CLCamera.java,0,0,0,26min,26.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ColorCalibrator.java,0,0,1,25min,25.0,null,null
+javacv,/main/java/org/bytedeco/javacv/JavaFXFrameConverter.java,0,0,0,23min 30s,23.5,null,null
+javacv,/main/java/org/bytedeco/javacv/BaseChildSettings.java,0,0,0,22min 30s,22.5,null,null
+javacv,/main/java/org/bytedeco/javacv/OpenCVFrameRecorder.java,0,0,1,20min,20.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ImageTransformerCL.java,0,0,0,17min,17.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FrameFilter.java,0,0,0,16min,16.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ImageTransformer.java,0,0,0,15min,15.0,null,null
+javacv,/main/java/org/bytedeco/javacv/JavaCvErrorCallback.java,0,0,0,15min,15.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FFmpegLogCallback.java,0,0,1,10min,10.0,null,null
+javacv,/main/java/org/bytedeco/javacv/FrameConverter.java,0,0,0,7min 30s,7.5,null,null
+javacv,/main/java/org/bytedeco/javacv/ImageAligner.java,0,0,0,7min 30s,7.5,null,null
+javacv,/main/java/org/bytedeco/javacv/BufferRing.java,0,0,0,0,0.0,null,null
+javacv,/main/java/org/bytedeco/javacv/CameraSettings.java,0,0,0,0,0.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ImageAlignerCL.java,0,0,0,0,0.0,null,null
+javacv,/main/java/org/bytedeco/javacv/Java2DFrameUtils.java,0,0,0,0,0.0,null,null
+javacv,/main/java/org/bytedeco/javacv/ProjectorSettings.java,0,0,0,0,0.0,null,null

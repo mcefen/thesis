@@ -1,0 +1,247 @@
+stetho,/main/java/com/facebook/stetho/inspector/elements/Document.java,14,209.0,4,3h 25min,205.0,269,9613.2
+stetho,/main/java/com/facebook/stetho/rhino/JsFormat.java,8,187.0,5,1h 27min,87.0,43,1458.3
+stetho,/main/java/com/facebook/stetho/common/ListUtil.java,6,180.0,21,1M/d,480.0,125,3694.2
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/window/WindowRootViewCompactV18Impl.java,11,160.0,0,10min,10.0,16,502.8
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/window/WindowRootViewCompactV19Impl.java,10,140.0,0,0,0.0,14,444.6
+stetho,/main/java/com/facebook/stetho/okhttp/StethoInterceptor.java,4,96.0,9,1h 35min,95.0,129,3408.0
+stetho,/main/java/com/facebook/stetho/inspector/runtime/RhinoDetectingRuntimeReplFactory.java,7,95.0,0,40min,40.0,27,793.8
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/window/WindowRootViewCompactV16Impl.java,6,90.0,0,20min,20.0,22,494.7
+stetho,/main/java/com/facebook/stetho/okhttp3/StethoInterceptor.java,4,88.0,9,1h 35min,95.0,127,3320.7
+stetho,/main/java/com/facebook/stetho/common/android/HandlerUtil.java,7,87.0,0,20min,20.0,38,1524.6
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/Runtime.java,13,78.0,1,4h 5min,245.0,298,13280.1
+stetho,/main/java/com/facebook/stetho/server/LocalSocketServer.java,4,75.0,3,1h,60.0,53,2056.5
+stetho,/main/java/com/facebook/stetho/sample/APODRssFetcher.java,14,72.0,3,45min,45.0,101,3697.5
+stetho,/main/java/com/facebook/stetho/dumpapp/plugins/FilesDumperPlugin.java,6,72.0,0,1h 32min,92.0,95,3003.9
+stetho,/main/java/com/facebook/stetho/inspector/ChromeDiscoveryHandler.java,4,68.0,0,0,0.0,47,1383.9
+stetho,/main/java/com/facebook/stetho/json/ObjectMapper.java,11,67.0,2,6h 27min,387.0,80,3340.2
+stetho,/main/java/com/facebook/stetho/inspector/network/GunzippingOutputStream.java,5,65.0,0,10min,10.0,46,1603.8
+stetho,/main/java/com/facebook/stetho/inspector/elements/ObjectDescriptor.java,10,65.0,0,7min 30s,7.5,48,1238.4
+stetho,/main/java/com/facebook/stetho/inspector/database/SQLiteDatabaseCompat.java,4,65.0,0,15min,15.0,56,2400.9
+stetho,/main/java/com/facebook/stetho/common/android/FragmentCompat.java,8,64.0,0,0,0.0,41,1545.6
+stetho,/main/java/com/facebook/stetho/inspector/elements/ShadowDocument.java,7,58.0,1,2h 5min,125.0,100,4253.7
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/AccessibilityNodeInfoWrapper.java,5,57.0,0,6h 35min,395.0,45,1699.2
+stetho,/main/java/com/facebook/stetho/sample/Networker.java,7,57.0,0,1h 22min,82.0,152,5741.1
+stetho,/main/java/com/facebook/stetho/Stetho.java,7,55.0,0,35min,35.0,209,5850.9
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/ViewDescriptor.java,8,55.0,2,3h 2min,182.0,161,4758.0
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/AndroidDocumentProvider.java,5,51.0,2,1h 57min,117.0,111,3843.0
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/DOM.java,11,51.0,0,3h 40min,220.0,314,15089.4
+stetho,/main/java/com/facebook/stetho/common/ExceptionUtil.java,2,50.0,0,0,0.0,22,905.4
+stetho,/main/java/com/facebook/stetho/sample/IRCChatActivity.java,10,50.0,0,1h 12min,72.0,104,2796.9
+stetho,/main/java/com/facebook/stetho/common/Utf8Charset.java,2,50.0,0,17min 30s,17.5,16,627.3
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/Page.java,9,41.0,0,1h 7min,67.0,198,8536.5
+stetho,/main/java/com/facebook/stetho/urlconnection/Util.java,3,41.0,0,0,0.0,9,510.9
+stetho,/main/java/com/facebook/stetho/inspector/network/DecompressionHelper.java,2,40.0,0,17min 30s,17.5,17,810.0
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/DialogFragmentDescriptor.java,5,40.0,1,25min,25.0,75,2127.6
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/DOMStorage.java,6,40.0,0,1h 7min,67.0,108,4457.4
+stetho,/main/java/com/facebook/stetho/common/ProcessUtil.java,3,40.0,0,20min,20.0,17,963.6
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/Profiler.java,5,40.0,0,7min 30s,7.5,46,1421.1
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/ActivityTracker.java,7,37.0,0,1h 10min,70.0,76,2156.7
+stetho,/main/java/com/facebook/stetho/inspector/domstorage/SharedPreferencesHelper.java,6,37.0,0,2h 7min,127.0,40,1275.6
+stetho,/main/java/com/facebook/stetho/inspector/MethodDispatcher.java,5,36.0,0,50min,50.0,51,1317.6
+stetho,/main/java/com/facebook/stetho/inspector/console/CLog.java,2,32.0,0,10min,10.0,14,664.5
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/Database.java,4,32.0,0,2h 5min,125.0,152,6720.9
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/ViewHighlighter.java,10,32.0,0,57min 30s,57.5,57,2027.4
+stetho,/main/java/com/facebook/stetho/server/AddressNameHelper.java,1,30.0,0,0,0.0,11,510.9
+stetho,/main/java/com/facebook/stetho/dumpapp/ArgsHelper.java,1,30.0,0,0,0.0,22,743.7
+stetho,/main/java/com/facebook/stetho/inspector/ChromeDevtoolsServer.java,3,30.0,1,32min 30s,32.5,53,1624.8
+stetho,/main/java/com/facebook/stetho/sample/Constants.java,1,30.0,0,7min 30s,7.5,6,145.5
+stetho,/main/java/com/facebook/stetho/common/android/DialogFragmentAccessor.java,3,30.0,0,0,0.0,5,145.5
+stetho,/main/java/com/facebook/stetho/common/android/FragmentAccessor.java,3,30.0,0,0,0.0,22,611.1
+stetho,/main/java/com/facebook/stetho/websocket/FrameHelper.java,1,30.0,0,0,0.0,37,1341.9
+stetho,/main/java/com/facebook/stetho/sample/HtmlScraper.java,1,30.0,0,0,0.0,24,772.8
+stetho,/main/java/com/facebook/stetho/sample/IRCClientConnection.java,3,30.0,0,20min,20.0,68,2040.3
+stetho,/main/java/com/facebook/stetho/server/http/LightHttpBody.java,2,30.0,0,10min,10.0,24,831.0
+stetho,/main/java/com/facebook/stetho/common/LogUtil.java,1,30.0,2,40min,40.0,74,1484.1
+stetho,/main/java/com/facebook/stetho/websocket/MaskingHelper.java,1,30.0,0,0,0.0,9,452.7
+stetho,/main/java/com/facebook/stetho/urlconnection/URLConnectionInspectorRequest.java,1,30.0,0,27min 30s,27.5,35,785.7
+stetho,/main/java/com/facebook/stetho/common/Util.java,6,30.0,0,1h,60.0,69,2376.6
+stetho,/main/java/com/facebook/stetho/inspector/network/DownloadingAsyncPrettyPrinterFactory.java,3,29.0,0,1h 17min,77.0,64,1799.4
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/CSS.java,5,25.0,0,3h 22min,202.0,242,12651.3
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/HeapProfiler.java,2,25.0,0,15min,15.0,30,1291.8
+stetho,/main/java/com/facebook/stetho/websocket/WebSocketHandler.java,2,25.0,0,27min 30s,27.5,44,1479.3
+stetho,/main/java/com/facebook/stetho/common/ReflectionUtil.java,3,24.0,0,50min,50.0,21,685.5
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/ViewHighlightOverlays.java,5,24.0,0,17min 30s,17.5,171,6969.9
+stetho,/main/java/com/facebook/stetho/inspector/database/SqliteDatabaseDriver.java,5,23.0,4,1h 57min,117.0,79,1974.0
+stetho,/main/java/com/facebook/stetho/inspector/network/NetworkEventReporterImpl.java,2,22.0,0,1h 47min,107.0,148,5632.8
+stetho,/main/java/com/facebook/stetho/inspector/elements/AbstractChainedDescriptor.java,1,20.0,1,40min,40.0,108,3514.8
+stetho,/main/java/com/facebook/stetho/common/android/AccessibilityUtil.java,2,20.0,2,3h 50min,230.0,7,548.1
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/AndroidDocumentProviderFactory.java,1,20.0,0,7min 30s,7.5,29,611.1
+stetho,/main/java/com/facebook/stetho/sample/APODContract.java,2,20.0,0,0,0.0,11,320.1
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/BaseDatabaseDriver.java,2,20.0,0,0,0.0,28,727.5
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/Debugger.java,4,20.0,0,0,0.0,27,860.1
+stetho,/main/java/com/facebook/stetho/inspector/elements/Descriptor.java,1,20.0,0,7min 30s,7.5,46,1018.5
+stetho,/main/java/com/facebook/stetho/common/android/FragmentActivityAccessor.java,2,20.0,0,0,0.0,5,145.5
+stetho,/main/java/com/facebook/stetho/common/android/FragmentCompatFramework.java,1,20.0,3,10min,10.0,121,3556.8
+stetho,/main/java/com/facebook/stetho/common/android/FragmentCompatSupportLib.java,1,20.0,3,17min 30s,17.5,85,2800.2
+stetho,/main/java/com/facebook/stetho/common/android/FragmentManagerAccessor.java,2,20.0,0,0,0.0,5,145.5
+stetho,/main/java/com/facebook/stetho/dumpapp/plugins/HprofDumperPlugin.java,3,20.0,0,7min 30s,7.5,45,1143.0
+stetho,/main/java/com/facebook/stetho/server/http/LightHttpMessage.java,2,20.0,0,17min 30s,17.5,19,685.5
+stetho,/main/java/com/facebook/stetho/inspector/console/RuntimeRepl.java,1,20.0,0,0,0.0,7,203.7
+stetho,/main/java/com/facebook/stetho/inspector/network/SimpleBinaryInspectorWebSocketFrame.java,1,20.0,0,10min,10.0,22,619.2
+stetho,/main/java/com/facebook/stetho/sample/APODContentProvider.java,2,18.0,0,10min,10.0,61,1704.0
+stetho,/main/java/com/facebook/stetho/urlconnection/StethoURLConnectionManager.java,3,17.0,0,1h,60.0,23,897.3
+stetho,/main/java/com/facebook/stetho/dumpapp/DumpappHttpSocketLikeHandler.java,2,15.0,0,7min 30s,7.5,32,1005.6
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/Inspector.java,3,15.0,0,0,0.0,17,627.3
+stetho,/main/java/com/facebook/stetho/inspector/network/ResponseBodyFileManager.java,3,15.0,0,1h 17min,77.0,64,1733.1
+stetho,/main/java/com/facebook/stetho/inspector/helper/ObjectIdMapper.java,5,13.0,0,1h 20min,80.0,53,1134.9
+stetho,/main/java/com/facebook/stetho/sample/APODActivity.java,6,12.0,0,22min 30s,22.5,88,3742.8
+stetho,/main/java/com/facebook/stetho/dumpapp/Framer.java,3,12.0,0,47min 30s,47.5,143,4151.7
+stetho,/main/java/com/facebook/stetho/server/http/LightHttpServer.java,3,12.0,2,1h 30min,90.0,111,4208.4
+stetho,/main/java/com/facebook/stetho/urlconnection/URLConnectionInspectorHeaders.java,2,12.0,0,10min,10.0,23,494.7
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/AndroidDocumentConstants.java,1,10.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/ApplicationDescriptor.java,4,10.0,1,47min 30s,47.5,55,1450.2
+stetho,/main/java/com/facebook/stetho/websocket/CloseCodes.java,1,10.0,0,0,0.0,6,174.6
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/DatabaseConstants.java,1,10.0,0,0,0.0,3,87.3
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/DatabaseDriver2.java,1,10.0,0,7min 30s,7.5,6,394.5
+stetho,/main/java/com/facebook/stetho/inspector/database/DatabaseDriver2Adapter.java,1,10.0,0,7min 30s,7.5,37,852.0
+stetho,/main/java/com/facebook/stetho/server/http/HttpHeaders.java,1,10.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/server/http/HttpStatus.java,1,10.0,0,0,0.0,7,203.7
+stetho,/main/java/com/facebook/stetho/inspector/network/NetworkEventReporter.java,1,10.0,0,0,0.0,82,2124.3
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/TextViewDescriptor.java,2,10.0,0,7min 30s,7.5,39,756.6
+stetho,/main/java/com/facebook/stetho/inspector/database/ContentProviderDatabaseDriver.java,3,9.0,0,20min,20.0,36,1188.3
+stetho,/main/java/com/facebook/stetho/dumpapp/Dumper.java,4,9.0,0,1h 20min,80.0,37,1275.6
+stetho,/main/java/com/facebook/stetho/dumpapp/plugins/SharedPreferencesDumperPlugin.java,2,8.0,1,37min 30s,37.5,76,2090.4
+stetho,/main/java/com/facebook/stetho/inspector/helper/ChromePeerManager.java,2,7.0,0,17min 30s,17.5,42,968.4
+stetho,/main/java/com/facebook/stetho/dumpapp/plugins/CrashDumperPlugin.java,2,7.0,0,35min,35.0,58,1280.4
+stetho,/main/java/com/facebook/stetho/inspector/domstorage/DOMStoragePeerManager.java,6,7.0,0,10min,10.0,53,1852.8
+stetho,/main/java/com/facebook/stetho/common/android/ViewGroupUtil.java,3,6.0,0,10min,10.0,14,540.0
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/Console.java,1,5.0,0,22min 30s,22.5,74,3181.8
+stetho,/main/java/com/facebook/stetho/inspector/database/DefaultDatabaseConnectionProvider.java,1,5.0,0,0,0.0,20,685.5
+stetho,/main/java/com/facebook/stetho/inspector/elements/DescriptorMap.java,1,5.0,0,10min,10.0,33,785.7
+stetho,/main/java/com/facebook/stetho/dumpapp/DumpappSocketLikeHandler.java,3,5.0,1,27min 30s,27.5,38,1238.4
+stetho,/main/java/com/facebook/stetho/server/http/HandlerRegistry.java,1,5.0,0,20min,20.0,20,465.6
+stetho,/main/java/com/facebook/stetho/inspector/helper/IntegerFormatter.java,2,5.0,0,10min,10.0,30,1636.2
+stetho,/main/java/com/facebook/stetho/sample/IRCConnectActivity.java,1,5.0,0,0,0.0,29,1071.9
+stetho,/main/java/com/facebook/stetho/rhino/JsConsole.java,1,5.0,0,0,0.0,17,531.9
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/JsonRpcPeer.java,1,5.0,0,0,0.0,46,1267.5
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/Network.java,1,5.0,0,3h 2min,182.0,315,19336.8
+stetho,/main/java/com/facebook/stetho/inspector/network/PrettyPrinterDisplayType.java,1,5.0,0,0,0.0,7,174.6
+stetho,/main/java/com/facebook/stetho/websocket/ReadHandler.java,1,5.0,0,0,0.0,11,664.5
+stetho,/main/java/com/facebook/stetho/common/android/ResourcesUtil.java,1,5.0,0,30min,30.0,25,801.9
+stetho,/main/java/com/facebook/stetho/inspector/network/ResponseHandlingInputStream.java,1,5.0,0,1h 12min,72.0,79,3003.9
+stetho,/main/java/com/facebook/stetho/inspector/screencast/ScreencastDispatcher.java,1,5.0,0,52min 30s,52.5,75,3115.5
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/ViewGroupDescriptor.java,1,5.0,0,1h 25min,85.0,32,1130.1
+stetho,/main/java/com/facebook/stetho/websocket/WebSocketSession.java,1,5.0,0,20min,20.0,43,989.4
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/Worker.java,1,5.0,0,0,0.0,13,540.0
+stetho,/main/java/com/facebook/stetho/inspector/DevtoolsSocketHandler.java,2,4.0,0,0,0.0,20,436.5
+stetho,/main/java/com/facebook/stetho/server/ProtocolDetectingSocketHandler.java,2,4.0,0,17min 30s,17.5,67,2538.3
+stetho,/main/java/com/facebook/stetho/server/SocketLike.java,2,4.0,0,0,0.0,22,494.7
+stetho,/main/java/com/facebook/stetho/inspector/helper/ThreadBoundProxy.java,2,4.0,0,0,0.0,32,1387.2
+stetho,/main/java/com/facebook/stetho/inspector/database/DefaultDatabaseFilesProvider.java,2,3.0,0,0,0.0,9,174.6
+stetho,/main/java/com/facebook/stetho/inspector/network/AsyncPrettyPrinterFactory.java,1,2.0,0,0,0.0,2,29.1
+stetho,/main/java/com/facebook/stetho/inspector/network/AsyncPrettyPrinterRegistry.java,1,2.0,0,0,0.0,17,349.2
+stetho,/main/java/com/facebook/stetho/inspector/elements/ElementInfo.java,2,2.0,0,27min 30s,27.5,20,1117.2
+stetho,/main/java/com/facebook/stetho/common/android/FragmentCompatUtil.java,1,2.0,0,1h 40min,100.0,35,1341.9
+stetho,/main/java/com/facebook/stetho/rhino/JsRuntimeReplFactoryBuilder.java,1,2.0,0,17min 30s,17.5,64,2538.3
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/MethodInvoker.java,1,2.0,0,27min 30s,27.5,82,3576.3
+stetho,/main/java/com/facebook/stetho/sample/SampleApplication.java,1,2.0,0,0,0.0,5,394.5
+stetho,/main/java/com/facebook/stetho/server/ServerManager.java,1,2.0,0,0,0.0,18,349.2
+stetho,/main/java/com/facebook/stetho/common/ThreadBound.java,1,2.0,0,0,0.0,2,29.1
+stetho,/main/java/com/facebook/stetho/inspector/network/MimeMatcher.java,1,1.0,0,20min,20.0,26,640.2
+stetho,/main/java/com/facebook/stetho/inspector/network/ResourceTypeHelper.java,1,1.0,0,7min 30s,7.5,10,261.9
+stetho,/main/java/com/facebook/stetho/common/Accumulator.java,0,0.0,0,0,0.0,5,116.4
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/ActivityDescriptor.java,0,0.0,4,1h 5min,65.0,27,1109.1
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/AndroidDescriptorHost.java,0,0.0,0,0,0.0,5,145.5
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/AndroidDocumentRoot.java,0,0.0,0,7min 30s,7.5,17,378.3
+stetho,/debug/java/com/facebook/stetho/sample/APODDumperPlugin.java,0,0.0,0,7min 30s,7.5,47,1201.2
+stetho,/main/java/com/facebook/stetho/common/ArrayListAccumulator.java,0,0.0,0,7min 30s,7.5,8,423.6
+stetho,/main/java/com/facebook/stetho/inspector/network/AsyncPrettyPrinter.java,0,0.0,0,0,0.0,1,29.1
+stetho,/main/java/com/facebook/stetho/inspector/network/AsyncPrettyPrinterExecutorHolder.java,0,0.0,0,0,0.0,12,357.3
+stetho,/main/java/com/facebook/stetho/inspector/network/AsyncPrettyPrinterInitializer.java,0,0.0,0,0,0.0,2,58.2
+stetho,/main/java/com/facebook/stetho/inspector/elements/AttributeAccumulator.java,0,0.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/urlconnection/ByteArrayRequestEntity.java,0,0.0,0,0,0.0,12,261.9
+stetho,/main/java/com/facebook/stetho/inspector/elements/ChainedDescriptor.java,0,0.0,0,0,0.0,4,87.3
+stetho,/main/java/com/facebook/stetho/inspector/protocol/ChromeDevtoolsDomain.java,0,0.0,0,0,0.0,1,29.1
+stetho,/main/java/com/facebook/stetho/inspector/protocol/ChromeDevtoolsMethod.java,0,0.0,0,0,0.0,2,58.2
+stetho,/main/java/com/facebook/stetho/server/CompositeInputStream.java,0,0.0,0,30min,30.0,66,2164.8
+stetho,/main/java/com/facebook/stetho/inspector/elements/ComputedStyleAccumulator.java,0,0.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/inspector/console/ConsolePeerManager.java,0,0.0,0,0,0.0,13,386.4
+stetho,/main/java/com/facebook/stetho/inspector/database/ContentProviderSchema.java,0,0.0,0,0,0.0,83,2580.3
+stetho,/main/java/com/facebook/stetho/inspector/network/CountingOutputStream.java,0,0.0,0,0,0.0,28,889.2
+stetho,/main/java/com/facebook/stetho/inspector/database/DatabaseConnectionProvider.java,0,0.0,0,0,0.0,2,29.1
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/DatabaseDescriptor.java,0,0.0,0,0,0.0,3,87.3
+stetho,/main/java/com/facebook/stetho/inspector/database/DatabaseFilesProvider.java,0,0.0,0,0,0.0,2,58.2
+stetho,/main/java/com/facebook/stetho/inspector/network/DefaultResponseHandler.java,0,0.0,0,0,0.0,23,494.7
+stetho,/main/java/com/facebook/stetho/inspector/elements/DescriptorProvider.java,0,0.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/inspector/elements/DescriptorRegistrar.java,0,0.0,0,0,0.0,5,145.5
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/DialogDescriptor.java,0,0.0,4,35min,35.0,18,905.4
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/DisconnectReceiver.java,0,0.0,0,0,0.0,1,29.1
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/DocumentHiddenView.java,0,0.0,0,0,0.0,8,423.6
+stetho,/main/java/com/facebook/stetho/inspector/elements/DocumentProvider.java,0,0.0,0,0,0.0,17,465.6
+stetho,/main/java/com/facebook/stetho/inspector/elements/DocumentProviderFactory.java,0,0.0,0,0,0.0,3,87.3
+stetho,/main/java/com/facebook/stetho/inspector/elements/DocumentProviderListener.java,0,0.0,0,0,0.0,9,261.9
+stetho,/main/java/com/facebook/stetho/inspector/elements/DocumentView.java,0,0.0,0,0,0.0,7,203.7
+stetho,/main/java/com/facebook/stetho/dumpapp/DumpappFramingException.java,0,0.0,0,0,0.0,6,394.5
+stetho,/main/java/com/facebook/stetho/dumpapp/DumpappOutputBrokenException.java,0,0.0,0,0,0.0,18,627.3
+stetho,/main/java/com/facebook/stetho/dumpapp/DumperContext.java,0,0.0,0,0,0.0,23,523.8
+stetho,/main/java/com/facebook/stetho/dumpapp/DumperPlugin.java,0,0.0,0,0,0.0,4,58.2
+stetho,/main/java/com/facebook/stetho/DumperPluginsProvider.java,0,0.0,0,0,0.0,3,87.3
+stetho,/main/java/com/facebook/stetho/dumpapp/DumpException.java,0,0.0,0,0,0.0,8,394.5
+stetho,/main/java/com/facebook/stetho/dumpapp/DumpUsageException.java,0,0.0,0,0,0.0,7,394.5
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/protocol/EmptyResult.java,0,0.0,0,0,0.0,5,365.4
+stetho,/main/java/com/facebook/stetho/server/http/ExactPathMatcher.java,0,0.0,0,0,0.0,11,232.8
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/FragmentDescriptor.java,0,0.0,0,15min,15.0,34,881.1
+stetho,/main/java/com/facebook/stetho/websocket/Frame.java,9,0.0,0,1h 22min,82.0,77,3817.2
+stetho,/main/java/com/facebook/stetho/dumpapp/GlobalOptions.java,0,0.0,0,7min 30s,7.5,14,1125.3
+stetho,/debug/java/com/facebook/stetho/sample/HelloWorldDumperPlugin.java,0,0.0,0,10min,10.0,24,735.6
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/HighlightableDescriptor.java,0,0.0,0,0,0.0,7,145.5
+stetho,/main/java/com/facebook/stetho/server/http/HttpHandler.java,0,0.0,0,0,0.0,7,203.7
+stetho,/main/java/com/facebook/stetho/InspectorModulesProvider.java,0,0.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/json/annotation/JsonProperty.java,0,0.0,0,0,0.0,2,58.2
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/protocol/JsonRpcError.java,0,0.0,0,7min 30s,7.5,29,1262.7
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/protocol/JsonRpcEvent.java,0,0.0,0,7min 30s,7.5,18,934.5
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/JsonRpcException.java,0,0.0,0,0,0.0,13,386.4
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/protocol/JsonRpcRequest.java,0,0.0,0,7min 30s,7.5,16,1029.9
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/protocol/JsonRpcResponse.java,0,0.0,0,7min 30s,7.5,10,635.4
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/JsonRpcResult.java,0,0.0,0,0,0.0,2,29.1
+stetho,/main/java/com/facebook/stetho/json/annotation/JsonValue.java,0,0.0,0,0,0.0,2,58.2
+stetho,/main/java/com/facebook/stetho/rhino/JsRuntimeRepl.java,0,0.0,0,0,0.0,11,291.0
+stetho,/main/java/com/facebook/stetho/server/LazySocketHandler.java,0,0.0,0,0,0.0,15,349.2
+stetho,/main/java/com/facebook/stetho/server/LeakyBufferedInputStream.java,0,0.0,0,0,0.0,34,1101.0
+stetho,/main/java/com/facebook/stetho/server/http/LightHttpRequest.java,3,0.0,0,7min 30s,7.5,14,971.7
+stetho,/main/java/com/facebook/stetho/server/http/LightHttpResponse.java,3,0.0,0,7min 30s,7.5,14,693.6
+stetho,/main/java/com/facebook/stetho/common/LogRedirector.java,1,0.0,0,20min,20.0,54,1288.5
+stetho,/main/java/com/facebook/stetho/sample/MainActivity.java,0,0.0,0,20min,20.0,25,860.1
+stetho,/main/java/com/facebook/stetho/inspector/MessageHandlingException.java,0,0.0,0,0,0.0,12,510.9
+stetho,/main/java/com/facebook/stetho/inspector/MismatchedResponseException.java,1,0.0,0,7min 30s,7.5,12,386.4
+stetho,/main/java/com/facebook/stetho/inspector/network/NetworkPeerManager.java,0,0.0,0,0,0.0,31,669.3
+stetho,/main/java/com/facebook/stetho/inspector/elements/NodeDescriptor.java,0,0.0,0,0,0.0,33,931.2
+stetho,/main/java/com/facebook/stetho/inspector/elements/NodeType.java,0,0.0,0,0,0.0,10,203.7
+stetho,/main/java/com/facebook/stetho/inspector/elements/Origin.java,0,0.0,0,0,0.0,10,203.7
+stetho,/main/java/com/facebook/stetho/server/http/PathMatcher.java,0,0.0,0,0,0.0,5,145.5
+stetho,/main/java/com/facebook/stetho/server/PeerAuthorizationException.java,0,0.0,0,0,0.0,8,423.6
+stetho,/main/java/com/facebook/stetho/inspector/helper/PeerRegistrationListener.java,0,0.0,0,0,0.0,6,174.6
+stetho,/main/java/com/facebook/stetho/inspector/helper/PeersRegisteredListener.java,0,0.0,0,7min 30s,7.5,22,494.7
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/PendingRequest.java,0,0.0,0,7min 30s,7.5,11,789.0
+stetho,/main/java/com/facebook/stetho/inspector/jsonrpc/PendingRequestCallback.java,0,0.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/common/Predicate.java,0,0.0,0,0,0.0,6,174.6
+stetho,/main/java/com/facebook/stetho/websocket/ReadCallback.java,0,0.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/server/http/RegexpPathMatcher.java,0,0.0,0,0,0.0,12,261.9
+stetho,/main/java/com/facebook/stetho/inspector/network/RequestBodyHelper.java,0,0.0,0,0,0.0,29,918.3
+stetho,/main/java/com/facebook/stetho/inspector/network/ResponseBodyData.java,2,0.0,0,7min 30s,7.5,6,423.6
+stetho,/main/java/com/facebook/stetho/inspector/network/ResponseHandler.java,0,0.0,0,0,0.0,2,58.2
+stetho,/main/java/com/facebook/stetho/inspector/console/RuntimeReplFactory.java,0,0.0,0,0,0.0,3,87.3
+stetho,/debug/java/com/facebook/stetho/sample/SampleDebugApplication.java,0,0.0,0,7min 30s,7.5,33,1013.7
+stetho,/main/java/com/facebook/stetho/server/SecureSocketHandler.java,0,0.0,0,0,0.0,23,552.9
+stetho,/main/java/com/facebook/stetho/sample/SettingsActivity.java,0,0.0,0,0,0.0,12,569.1
+stetho,/main/java/com/facebook/stetho/inspector/protocol/module/SimpleBooleanResult.java,0,0.0,0,7min 30s,7.5,14,693.6
+stetho,/main/java/com/facebook/stetho/websocket/SimpleEndpoint.java,0,0.0,0,0,0.0,1,29.1
+stetho,/main/java/com/facebook/stetho/urlconnection/SimpleRequestEntity.java,0,0.0,0,0,0.0,5,145.5
+stetho,/main/java/com/facebook/stetho/websocket/SimpleSession.java,0,0.0,0,0,0.0,7,203.7
+stetho,/main/java/com/facebook/stetho/inspector/network/SimpleTextInspectorWebSocketFrame.java,0,0.0,0,0,0.0,21,561.0
+stetho,/main/java/com/facebook/stetho/server/SocketHandler.java,0,0.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/server/SocketHandlerFactory.java,0,0.0,0,0,0.0,3,87.3
+stetho,/main/java/com/facebook/stetho/server/SocketLikeHandler.java,0,0.0,0,0,0.0,2,29.1
+stetho,/main/java/com/facebook/stetho/timber/StethoTree.java,0,0.0,1,20min,20.0,9,481.8
+stetho,/main/java/com/facebook/stetho/urlconnection/StethoURLConnectionManagerImpl.java,0,0.0,0,0,0.0,26,640.2
+stetho,/main/java/com/facebook/stetho/common/StringUtil.java,0,0.0,0,40min,40.0,20,810.0
+stetho,/main/java/com/facebook/stetho/inspector/elements/StyleAccumulator.java,0,0.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/inspector/elements/StyleRuleNameAccumulator.java,0,0.0,0,0,0.0,4,116.4
+stetho,/main/java/com/facebook/stetho/common/UncheckedCallable.java,0,0.0,0,0,0.0,3,87.3
+stetho,/main/java/com/facebook/stetho/dumpapp/UnexpectedFrameException.java,0,0.0,0,0,0.0,8,423.6
+stetho,/main/java/com/facebook/stetho/urlconnection/URLConnectionInspectorResponse.java,0,0.0,0,7min 30s,7.5,34,756.6
+stetho,/main/java/com/facebook/stetho/common/android/ViewUtil.java,0,0.0,0,50min,50.0,17,751.8
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/WindowDescriptor.java,0,0.0,0,15min,15.0,17,751.8
+stetho,/main/java/com/facebook/stetho/inspector/elements/android/window/WindowRootViewCompat.java,0,0.0,0,17min 30s,17.5,11,664.5
+stetho,/main/java/com/facebook/stetho/websocket/WriteCallback.java,0,0.0,0,0,0.0,5,145.5
+stetho,/main/java/com/facebook/stetho/websocket/WriteHandler.java,0,0.0,0,0,0.0,10,203.7

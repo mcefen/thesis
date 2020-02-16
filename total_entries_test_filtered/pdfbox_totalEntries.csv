@@ -1,0 +1,1023 @@
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/COSParser.java,49,723.0,15,1M/d 7h,900.0,246,11543.7
+pdfbox,/main/java/org/apache/pdfbox/debugger/PDFDebugger.java,49,710.0,3,1M/d,480.0,257,8476.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDPageContentStream.java,57,560.0,0,1h 50min,110.0,177,6049.8
+pdfbox,/main/java/org/apache/fontbox/cff/CFFParser.java,36,321.0,9,1M/d 1h,540.0,508,17080.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/PDFTreeCellRenderer.java,4,300.0,0,4h 27min,267.0,68,2223.0
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/ShowSignature.java,35,300.0,0,2h 15min,135.0,44,2006.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/ZoomMenu.java,1,300.0,0,30min,30.0,32,1532.7
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/BaseParser.java,22,293.0,8,6h 2min,362.0,135,7235.1
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/ErrorDialog.java,6,292.0,0,25min,25.0,47,1807.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/FileSystemFontProvider.java,29,289.0,1,4h,240.0,158,4840.5
+pdfbox,/main/java/org/apache/fontbox/ttf/TTFSubsetter.java,27,288.0,0,6h 2min,362.0,186,8213.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/viewerpreferences/PDViewerPreferences.java,48,283.0,0,15min,15.0,26,852.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/StackOperators.java,16,273.0,0,1h 2min,62.0,47,2965.2
+pdfbox,/main/java/org/apache/fontbox/ttf/CmapSubtable.java,35,252.0,1,2h 25min,145.0,59,2538.3
+pdfbox,/main/java/org/apache/fontbox/cmap/CMapParser.java,20,246.0,6,4h 37min,277.0,160,6924.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/BitwiseOperators.java,13,240.0,0,45min,45.0,77,4074.3
+pdfbox,/main/java/org/apache/pdfbox/contentstream/PDFStreamEngine.java,22,235.0,1,1h 17min,77.0,69,2800.2
+pdfbox,/main/java/org/apache/pdfbox/text/PDFTextStripper.java,29,235.0,2,3h 52min,232.0,200,8096.7
+pdfbox,/main/java/org/apache/pdfbox/tools/PDFToImage.java,21,228.0,0,47min 30s,47.5,39,1956.3
+pdfbox,/main/java/org/apache/pdfbox/tools/ExtractText.java,17,216.0,0,37min 30s,37.5,36,1341.9
+pdfbox,/main/java/org/apache/pdfbox/examples/rendering/CustomGraphicsStreamEngine.java,21,210.0,0,7min 30s,7.5,99,2913.3
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/PDFStreamParser.java,16,210.0,2,2h 10min,130.0,38,2388.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/measurement/PDRectlinearMeasureDictionary.java,7,210.0,0,1h 17min,77.0,19,2420.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/image/CCITTFactory.java,16,196.0,1,2h 20min,140.0,45,2226.3
+pdfbox,/main/java/org/apache/fontbox/type1/Type1Parser.java,18,192.0,9,6h 17min,377.0,126,6509.1
+pdfbox,/main/java/org/apache/pdfbox/preflight/parser/PreflightParser.java,18,189.0,4,4h 10min,250.0,135,5400.0
+pdfbox,/main/java/org/apache/pdfbox/tools/Encrypt.java,18,187.0,0,30min,30.0,24,1175.4
+pdfbox,/main/java/org/apache/pdfbox/pdfwriter/COSWriter.java,24,185.0,2,2h 55min,175.0,192,7707.0
+pdfbox,/main/java/org/apache/pdfbox/filter/CCITTFaxDecoderStream.java,24,180.0,6,4h 25min,265.0,186,6282.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/metadata/SynchronizedMetaDataValidation.java,16,178.0,0,1h 37min,97.0,39,1341.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/image/SampledImageReader.java,11,177.0,2,4h 2min,242.0,68,3261.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/PDSeedValueCertificate.java,11,175.0,0,1h 27min,87.0,38,2388.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/Validator_A1b.java,19,174.0,0,42min 30s,42.5,42,1553.7
+pdfbox,/main/java/org/apache/xmpbox/schema/XMPSchema.java,15,173.0,2,5h 30min,330.0,68,3380.7
+pdfbox,/main/java/org/apache/fontbox/ttf/GlyphSubstitutionTable.java,25,170.0,6,3h 40min,220.0,325,11176.5
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/OSXAdapter.java,14,170.0,0,10min,10.0,55,2077.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/RadialShadingContext.java,4,170.0,5,2h 20min,140.0,49,2363.7
+pdfbox,/main/java/org/apache/pdfbox/tools/ExtractImages.java,22,169.0,0,1h 15min,75.0,142,4994.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/StandardSecurityHandler.java,16,159.0,2,1M/d,480.0,115,4893.9
+pdfbox,/main/java/org/apache/pdfbox/multipdf/PDFMergerUtility.java,14,154.0,1,2h 20min,140.0,65,3592.5
+pdfbox,/main/java/org/apache/pdfbox/text/TextPosition.java,14,144.0,0,1M/d 1h,540.0,51,2430.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/FontMapperImpl.java,29,137.0,2,7h 7min,427.0,89,3294.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/PublicKeySecurityHandler.java,10,137.0,0,1h 30min,90.0,45,2122.8
+pdfbox,/main/java/org/apache/pdfbox/examples/lucene/IndexPDFFiles.java,14,132.0,0,45min,45.0,20,1154.4
+pdfbox,/main/java/org/apache/pdfbox/util/Matrix.java,11,132.0,0,1h 52min,112.0,59,2716.2
+pdfbox,/main/java/org/apache/fontbox/cff/Type2CharString.java,11,127.0,0,1h 17min,77.0,61,2641.8
+pdfbox,/main/java/org/apache/pdfbox/tools/TextToPDF.java,10,124.0,0,3h 12min,192.0,35,2176.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/content/StubOperator.java,7,121.0,0,1h 10min,70.0,36,1238.4
+pdfbox,/main/java/org/apache/fontbox/cff/Type1CharString.java,14,121.0,0,1h 35min,95.0,53,1844.7
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/PrintDocumentMetaData.java,12,120.0,0,7min 30s,7.5,9,452.7
+pdfbox,/main/java/org/apache/pdfbox/tools/Decrypt.java,12,116.0,0,15min,15.0,31,852.0
+pdfbox,/main/java/org/apache/pdfbox/tools/PDFSplit.java,10,115.0,0,37min 30s,37.5,33,1503.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/AxialShadingContext.java,5,111.0,4,1h 37min,97.0,39,1823.7
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/CreateVisibleSignature.java,9,111.0,3,1h 10min,70.0,40,1707.3
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/ExtractTTFFonts.java,10,111.0,1,52min 30s,52.5,49,2130.9
+pdfbox,/main/java/org/apache/pdfbox/filter/Predictor.java,3,111.0,1,1h 37min,97.0,24,1262.7
+pdfbox,/main/java/org/apache/xmpbox/type/TypeMapping.java,20,111.0,0,1h 40min,100.0,175,4302.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/ConditionalOperators.java,5,110.0,0,15min,15.0,16,1125.3
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/validation/OcspHelper.java,10,110.0,1,1h 12min,72.0,27,611.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/RelationalOperators.java,5,110.0,0,22min 30s,22.5,64,3687.9
+pdfbox,/main/java/org/apache/fontbox/afm/AFMParser.java,7,109.0,4,3h 37min,217.0,66,4638.6
+pdfbox,/main/java/org/apache/pdfbox/examples/util/PrintImageLocations.java,11,108.0,0,25min,25.0,12,510.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDTrueTypeFont.java,10,105.0,0,4h 32min,272.0,137,4429.8
+pdfbox,/main/java/org/apache/pdfbox/examples/util/PrintTextColors.java,9,105.0,0,15min,15.0,13,847.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/Standard14Fonts.java,14,105.0,0,7min 30s,7.5,22,677.4
+pdfbox,/main/java/org/apache/xmpbox/xml/DomXmpParser.java,15,104.0,0,4h 20min,260.0,192,7437.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/StreamValidationProcess.java,4,102.0,0,1h 22min,82.0,47,2226.3
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/CreateVisibleSignature2.java,10,100.0,3,1h 17min,77.0,60,2210.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/state/PDGraphicsState.java,6,100.0,0,25min,25.0,52,1653.9
+pdfbox,/main/java/org/apache/pdfbox/tools/OverlayPDF.java,10,99.0,0,40min,40.0,28,1291.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/SecurityHandlerFactory.java,9,97.0,0,37min 30s,37.5,12,291.0
+pdfbox,/main/java/org/apache/xmpbox/DateConverter.java,3,92.0,1,2h 27min,147.0,18,1644.3
+pdfbox,/main/java/org/apache/pdfbox/rendering/PageDrawer.java,30,92.0,5,1M/d 2h,600.0,252,9045.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationPolyline.java,2,90.0,10,1h 47min,107.0,27,1943.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/Parser.java,3,90.0,5,1h 40min,100.0,62,2480.1
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/XrefTrailerResolver.java,10,88.0,3,1h 37min,97.0,25,1080.0
+pdfbox,/main/java/org/apache/fontbox/type1/Type1Lexer.java,4,87.0,2,4h 55min,295.0,40,2475.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationLine.java,3,86.0,8,2h 25min,145.0,22,2383.2
+pdfbox,/main/java/org/apache/fontbox/ttf/OpenTypeScript.java,8,86.0,2,1h,60.0,28,1196.4
+pdfbox,/main/java/org/apache/fontbox/ttf/TTFParser.java,9,83.0,0,1h 27min,87.0,37,1283.7
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/ExtractMetadata.java,8,82.0,0,47min 30s,47.5,31,947.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/colorpane/CSSeparation.java,4,80.0,0,30min,30.0,36,1275.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationPolygon.java,2,80.0,6,1h 7min,67.0,17,1059.0
+pdfbox,/main/java/org/apache/fontbox/ttf/KerningSubtable.java,12,80.0,0,2h 15min,135.0,88,2153.4
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/PrintURLs.java,9,80.0,0,17min 30s,17.5,17,1154.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/pagepane/PagePane.java,11,77.0,0,37min 30s,37.5,82,3165.6
+pdfbox,/main/java/org/apache/pdfbox/tools/PrintPDF.java,9,77.0,0,30min,30.0,20,1241.7
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/Tree.java,14,77.0,0,2h 2min,122.0,45,1940.1
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/PDFXRefStream.java,12,76.0,2,1h 7min,67.0,49,1375.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDSimpleFont.java,8,75.0,0,3h 10min,190.0,71,2148.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDType1Font.java,12,74.0,4,4h 20min,260.0,133,4554.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFDictionary.java,12,73.0,0,55min,55.0,30,2375.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDCIDFont.java,12,72.0,0,55min,55.0,93,2826.0
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/CreateEmbeddedTimeStamp.java,9,71.0,0,7min 30s,7.5,37,1341.9
+pdfbox,/main/java/org/apache/pdfbox/text/PDFMarkedContentExtractor.java,12,71.0,0,15min,15.0,33,873.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/ArithmeticOperators.java,3,70.0,8,3h 17min,197.0,154,10447.8
+pdfbox,/main/java/org/apache/pdfbox/filter/DCTFilter.java,15,70.0,2,2h 27min,147.0,65,2646.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotation.java,4,70.0,1,3h 27min,207.0,38,2645.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionRemoteGoTo.java,5,70.0,1,45min,45.0,6,672.6
+pdfbox,/main/java/org/apache/pdfbox/io/RandomAccessBuffer.java,8,66.0,1,2h,120.0,74,3240.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/SecurityHandler.java,9,66.0,1,2h 10min,130.0,34,1524.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDICCBased.java,9,65.0,4,3h 32min,212.0,78,3099.3
+pdfbox,/main/java/org/apache/pdfbox/preflight/ValidationResult.java,9,65.0,0,2h 40min,160.0,50,1238.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/GlyphList.java,10,64.0,0,1h 22min,82.0,28,1225.5
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/RecentFiles.java,6,64.0,0,30min,30.0,29,976.5
+pdfbox,/main/java/org/apache/xmpbox/type/Types.java,32,64.0,0,0,0.0,26,552.9
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/validation/AddValidationInformation.java,11,62.0,0,1h 40min,100.0,57,1961.1
+pdfbox,/main/java/org/apache/xmpbox/type/ComplexPropertyContainer.java,4,62.0,0,1h 20min,80.0,7,116.4
+pdfbox,/main/java/org/apache/pdfbox/cos/COSStream.java,9,61.0,4,1h 22min,82.0,56,2679.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/image/PDImageXObject.java,6,61.0,1,6h 17min,377.0,126,3569.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/Type0FontValidator.java,4,61.0,0,1h 50min,110.0,58,3023.4
+pdfbox,/main/java/org/apache/pdfbox/tools/imageio/ImageIOUtil.java,6,60.0,1,1h 20min,80.0,21,1146.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDCIDFontType2Embedder.java,9,60.0,9,3h 52min,232.0,106,4872.9
+pdfbox,/main/java/org/apache/pdfbox/text/LegacyPDFStreamEngine.java,6,58.0,0,1h 12min,72.0,27,1532.7
+pdfbox,/main/java/org/apache/fontbox/ttf/NamingTable.java,10,57.0,1,1h 57min,117.0,18,465.6
+pdfbox,/main/java/org/apache/pdfbox/util/filetypedetector/FileTypeDetector.java,5,56.0,0,25min,25.0,17,407.4
+pdfbox,/main/java/org/apache/fontbox/cff/Type1CharStringParser.java,5,56.0,1,1h 50min,110.0,46,2122.8
+pdfbox,/main/java/org/apache/pdfbox/tools/WriteDecodedDoc.java,7,56.0,2,27min 30s,27.5,23,1080.0
+pdfbox,/main/java/org/apache/pdfbox/tools/ExportFDF.java,4,55.0,3,10min,10.0,16,751.8
+pdfbox,/main/java/org/apache/pdfbox/tools/ExportXFDF.java,4,55.0,3,10min,10.0,16,751.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationFreeText.java,3,55.0,2,1h 17min,77.0,22,1050.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/visible/PDVisibleSignDesigner.java,5,55.0,0,22min 30s,22.5,76,2805.0
+pdfbox,/main/java/org/apache/pdfbox/debugger/flagbitspane/FieldFlag.java,4,54.0,0,1h 42min,102.0,27,984.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDStream.java,13,54.0,0,1h 2min,62.0,42,2454.3
+pdfbox,/main/java/org/apache/pdfbox/tools/imageio/TIFFUtil.java,13,54.0,0,27min 30s,27.5,30,1416.3
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/CatalogValidationProcess.java,5,53.0,3,3h 45min,225.0,54,1603.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDSeparation.java,8,53.0,0,42min 30s,42.5,63,2384.7
+pdfbox,/main/java/org/apache/fontbox/cff/CFFOperator.java,3,52.0,0,35min,35.0,34,611.1
+pdfbox,/main/java/org/apache/pdfbox/cos/COSArray.java,5,52.0,2,1h 10min,70.0,43,1943.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/PDLayoutAttributeObject.java,1,52.0,0,1h 10min,70.0,90,3585.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/TrailerValidationProcess.java,4,51.0,0,2h,120.0,31,1532.7
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/CreateSignature.java,7,50.0,0,45min,45.0,33,1569.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationCircle.java,1,50.0,9,1h 27min,87.0,14,1000.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationSquare.java,1,50.0,9,1h 27min,87.0,14,1000.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/flagbitspane/PanoseFlag.java,2,50.0,0,17min 30s,17.5,72,1629.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionLaunch.java,3,50.0,1,45min,45.0,7,701.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/state/PDTextState.java,2,50.0,0,17min 30s,17.5,13,349.2
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/PrintBookmarks.java,5,50.0,0,7min 30s,7.5,13,818.1
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/ExtractEmbeddedFiles.java,4,48.0,0,7min 30s,7.5,31,1167.3
+pdfbox,/main/java/org/apache/pdfbox/filter/FlateFilter.java,3,48.0,3,55min,55.0,25,947.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/content/PreflightStreamEngine.java,4,48.0,4,5h 12min,312.0,67,2376.6
+pdfbox,/main/java/org/apache/pdfbox/util/DateConverter.java,12,47.0,1,4h 7min,247.0,58,2625.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDDefaultAppearanceString.java,10,47.0,1,40min,40.0,30,1466.4
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/ReplaceURLs.java,4,47.0,0,7min 30s,7.5,10,635.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/TrueTypeEmbedder.java,6,47.0,0,55min,55.0,60,2185.8
+pdfbox,/main/java/org/apache/pdfbox/filter/ASCII85InputStream.java,2,46.0,1,1h 50min,110.0,24,1196.4
+pdfbox,/main/java/org/apache/pdfbox/filter/CCITTFaxEncoderStream.java,4,46.0,1,40min,40.0,104,3498.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/destination/PDDestination.java,3,46.0,0,15min,15.0,8,577.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/PreflightPath.java,4,46.0,0,20min,20.0,38,814.8
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/PrintFields.java,5,45.0,0,0,0.0,17,1059.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDType1CFont.java,7,44.0,4,2h 12min,132.0,134,4533.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDPage.java,11,43.0,1,3h 50min,230.0,58,2496.3
+pdfbox,/main/java/org/apache/pdfbox/io/ScratchFile.java,6,43.0,0,1h 52min,112.0,43,1765.5
+pdfbox,/main/java/org/apache/pdfbox/examples/util/DrawPrintTextLocations.java,6,42.0,0,55min,55.0,53,1990.2
+pdfbox,/main/java/org/apache/xmpbox/xml/XmpSerializer.java,4,42.0,0,22min 30s,22.5,45,1662.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/ExecutionContext.java,3,41.0,0,0,0.0,6,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDDocument.java,11,41.0,0,3h 22min,202.0,126,3951.3
+pdfbox,/main/java/org/apache/pdfbox/cos/PDFDocEncoding.java,2,41.0,3,45min,45.0,16,531.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/PreflightConfiguration.java,11,41.0,0,55min,55.0,74,2111.4
+pdfbox,/main/java/org/apache/xmpbox/xml/XmpParsingException.java,14,41.0,0,0,0.0,11,232.8
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/CreateBookmarks.java,3,40.0,0,7min 30s,7.5,11,759.9
+pdfbox,/main/java/org/apache/fontbox/ttf/GlyphTable.java,1,40.0,2,1h 17min,77.0,28,756.6
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/GoToSecondBookmarkOnOpen.java,3,40.0,0,7min 30s,7.5,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/util/Hex.java,4,40.0,0,0,0.0,15,656.4
+pdfbox,/main/java/org/apache/pdfbox/examples/lucene/LucenePDFDocument.java,4,40.0,0,15min,15.0,45,1180.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/MessageDigests.java,2,40.0,0,20min,20.0,4,336.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/destination/PDPageDestination.java,3,40.0,0,55min,55.0,12,759.9
+pdfbox,/main/java/org/apache/pdfbox/examples/printing/Printing.java,7,40.0,0,17min 30s,17.5,42,1632.9
+pdfbox,/main/java/org/apache/pdfbox/examples/util/PrintTextLocations.java,4,40.0,0,7min 30s,7.5,15,876.3
+pdfbox,/main/java/org/apache/pdfbox/filter/DecodeOptions.java,5,38.0,0,7min 30s,7.5,34,1159.2
+pdfbox,/main/java/org/apache/pdfbox/multipdf/LayerUtility.java,5,38.0,2,1h 25min,85.0,24,831.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDColorSpace.java,2,38.0,0,4h 5min,245.0,35,1723.5
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/validation/CertInformationCollector.java,6,37.0,0,1h 37min,97.0,79,2821.2
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/HexPane.java,9,37.0,0,1h 15min,75.0,106,3286.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/MetadataValidationProcess.java,4,37.0,0,1h 40min,100.0,43,1611.9
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/SigUtils.java,3,37.0,0,32min 30s,32.5,10,635.4
+pdfbox,/main/java/org/apache/fontbox/cff/Type2CharStringParser.java,4,37.0,1,2h 27min,147.0,45,1662.0
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/AddMetadataFromDocInfo.java,3,35.0,0,7min 30s,7.5,9,452.7
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/validation/CertInformationHelper.java,5,35.0,0,1h 7min,67.0,14,569.1
+pdfbox,/main/java/org/apache/pdfbox/cos/COSDocument.java,7,35.0,0,1h 10min,70.0,44,2014.5
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/HelloWorldType1.java,3,35.0,0,7min 30s,7.5,16,751.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/HexEditor.java,2,35.0,0,40min,40.0,33,1063.8
+pdfbox,/main/java/org/apache/pdfbox/tools/ImportFDF.java,4,35.0,3,20min,20.0,17,905.4
+pdfbox,/main/java/org/apache/pdfbox/tools/ImportXFDF.java,3,35.0,3,10min,10.0,17,780.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDAcroForm.java,9,35.0,1,2h 12min,132.0,62,3131.7
+pdfbox,/main/java/org/apache/pdfbox/examples/util/PDFHighlighter.java,3,35.0,0,7min 30s,7.5,22,772.8
+pdfbox,/main/java/org/apache/pdfbox/examples/util/PDFMergerExample.java,3,35.0,0,35min,35.0,22,706.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/blend/BlendComposite.java,5,34.0,0,1h 15min,75.0,29,1320.9
+pdfbox,/main/java/org/apache/pdfbox/tools/PDFText2HTML.java,7,34.0,1,1h 57min,117.0,67,2779.2
+pdfbox,/main/java/org/apache/fontbox/cff/CFFCIDFont.java,4,33.0,0,37min 30s,37.5,52,1587.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationInk.java,3,32.0,0,35min,35.0,9,481.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDCIDFontType2.java,7,32.0,0,2h 25min,145.0,77,2323.2
+pdfbox,/main/java/org/apache/fontbox/util/autodetect/WindowsFontDirFinder.java,3,32.0,0,15min,15.0,20,1270.8
+pdfbox,/main/java/org/apache/fontbox/cff/CharStringHandler.java,3,31.0,0,0,0.0,8,481.8
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/CreateSignatureBase.java,4,31.0,1,35min,35.0,28,698.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDCalGray.java,2,31.0,0,37min 30s,37.5,26,926.4
+pdfbox,/main/java/org/apache/xmpbox/schema/PhotoshopSchema.java,2,31.0,0,40min,40.0,279,6135.3
+pdfbox,/main/java/org/apache/pdfbox/debugger/treestatus/TreeStatus.java,2,31.0,0,1h 57min,117.0,18,743.7
+pdfbox,/main/java/org/apache/pdfbox/debugger/fontencodingpane/Type3Font.java,4,31.0,2,55min,55.0,45,1815.6
+pdfbox,/main/java/org/apache/xmpbox/schema/XMPBasicJobTicketSchema.java,2,31.0,0,25min,25.0,30,727.5
+pdfbox,/main/java/org/apache/xmpbox/schema/XMPBasicSchema.java,2,31.0,0,1h 10min,70.0,48,1383.9
+pdfbox,/main/java/org/apache/pdfbox/filter/ASCII85OutputStream.java,1,30.0,0,37min 30s,37.5,23,1387.2
+pdfbox,/main/java/org/apache/pdfbox/filter/ASCIIHexFilter.java,4,30.0,2,40min,40.0,33,1744.5
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/tooltip/ColorToolTip.java,1,30.0,0,17min 30s,17.5,12,349.2
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/CreateSimpleForm.java,1,30.0,0,7min 30s,7.5,11,540.0
+pdfbox,/main/java/org/apache/pdfbox/examples/util/ExtractTextByArea.java,3,30.0,0,0,0.0,8,452.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationTextMarkup.java,1,30.0,0,27min 30s,27.5,5,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/FontProvider.java,2,30.0,0,0,0.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionEmbeddedGoTo.java,1,30.0,1,55min,55.0,7,701.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationLink.java,1,30.0,0,47min 30s,47.5,7,577.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationTextMarkup.java,1,30.0,0,25min,25.0,3,211.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceGray.java,1,30.0,0,15min,15.0,33,918.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceRGB.java,1,30.0,0,55min,55.0,38,1188.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/PDEncryptionDictionary.java,3,30.0,0,0,0.0,6,423.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/PDStandardAttributeObject.java,1,30.0,0,2h 25min,145.0,27,2134.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/PreflightConstants.java,11,30.0,0,0,0.0,313,9108.3
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/RemoveFirstPage.java,2,30.0,0,0,0.0,8,452.7
+pdfbox,/main/java/org/apache/xmpbox/type/ResourceRefType.java,1,30.0,0,5h 50min,350.0,120,3058.8
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/RubberStamp.java,2,30.0,0,7min 30s,7.5,8,577.2
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/StreamPane.java,11,30.0,0,2h 45min,165.0,126,4827.6
+pdfbox,/main/java/org/apache/fontbox/util/autodetect/FontFileFinder.java,4,29.0,1,47min 30s,47.5,24,1175.4
+pdfbox,/main/java/org/apache/fontbox/ttf/TrueTypeFont.java,7,29.0,0,3h 55min,235.0,102,2767.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/parser/XmlResultParser.java,3,29.0,0,1h 2min,62.0,41,1516.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/visible/PDVisibleSigBuilder.java,3,28.0,0,52min 30s,52.5,132,3524.4
+pdfbox,/main/java/org/apache/fontbox/ttf/GlyfSimpleDescript.java,3,27.0,0,27min 30s,27.5,21,860.1
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/EmbeddedFiles.java,3,26.0,0,7min 30s,7.5,7,452.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/filespecification/PDEmbeddedFile.java,2,26.0,0,0,0.0,8,979.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/content/PreflightContentStream.java,5,26.0,0,2h 32min,152.0,37,1927.2
+pdfbox,/main/java/org/apache/fontbox/cff/CFFCharset.java,8,25.0,0,57min 30s,57.5,9,232.8
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/CreateGradientShadingPDF.java,2,25.0,0,22min 30s,22.5,9,606.3
+pdfbox,/main/java/org/apache/pdfbox/tools/DecompressObjectstreams.java,3,25.0,0,7min 30s,7.5,12,1038.0
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/ImageToPDF.java,3,25.0,0,0,0.0,13,569.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PatchMeshesShadingContext.java,5,25.0,0,1h 7min,67.0,25,984.6
+pdfbox,/main/java/org/apache/pdfbox/io/RandomAccessBufferedFileInputStream.java,3,25.0,1,55min,55.0,116,3146.1
+pdfbox,/main/java/org/apache/pdfbox/preflight/graphic/ColorSpaces.java,15,24.0,0,7min 30s,7.5,6,270.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDNumberTreeNode.java,5,24.0,0,37min 30s,37.5,24,1914.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/TensorPatch.java,2,23.0,0,52min 30s,52.5,35,1400.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type4ShadingContext.java,5,23.0,0,52min 30s,52.5,22,926.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/COSDictionaryMap.java,3,22.0,0,7min 30s,7.5,13,627.3
+pdfbox,/main/java/org/apache/pdfbox/cos/COSName.java,4,22.0,0,22min 30s,22.5,538,15672.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/descriptor/FontDescriptorHelper.java,3,22.0,0,25min,25.0,46,1172.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/GouraudShadingContext.java,3,22.0,0,15min,15.0,23,648.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/state/PDExtendedGraphicsState.java,1,22.0,1,1h 45min,105.0,16,876.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/pagenavigation/PDTransitionStyle.java,11,22.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PlainTextFormatter.java,2,22.0,2,1h,60.0,100,2556.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/AppearanceGeneratorHelper.java,8,21.0,1,3h 2min,182.0,79,3157.5
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/CreateMultiWidgetsForm.java,2,21.0,0,15min,15.0,11,540.0
+pdfbox,/main/java/org/apache/fontbox/ttf/GlyphRenderer.java,3,21.0,0,15min,15.0,63,2019.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/InstructionSequence.java,2,21.0,0,0,0.0,10,664.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/InstructionSequenceBuilder.java,4,21.0,0,40min,40.0,19,714.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceN.java,5,21.0,1,2h 37min,157.0,88,3016.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDDocumentInformation.java,2,21.0,0,0,0.0,21,365.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/PreflightContext.java,2,21.0,0,15min,15.0,44,1047.6
+pdfbox,/main/java/org/apache/pdfbox/examples/util/RemoveAllText.java,3,21.0,1,10min,10.0,33,1561.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/AddressPane.java,1,20.0,0,0,0.0,14,751.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/ASCIIPane.java,1,20.0,0,7min 30s,7.5,20,1021.8
+pdfbox,/main/java/org/apache/fontbox/ttf/CmapTable.java,2,20.0,0,17min 30s,17.5,35,1487.4
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/Concatenate.java,1,20.0,0,10min,10.0,13,693.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/COSArrayList.java,13,20.0,0,22min 30s,22.5,36,2051.7
+pdfbox,/main/java/org/apache/pdfbox/cos/COSNumber.java,2,20.0,0,1h 7min,67.0,12,481.8
+pdfbox,/main/java/org/apache/pdfbox/cos/COSString.java,2,20.0,0,47min 30s,47.5,28,552.9
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/CreateEmptySignatureForm.java,1,20.0,0,7min 30s,7.5,11,540.0
+pdfbox,/main/java/org/apache/pdfbox/debugger/colorpane/CSDeviceN.java,1,20.0,0,7min 30s,7.5,18,590.1
+pdfbox,/main/java/org/apache/pdfbox/debugger/colorpane/CSIndexed.java,1,20.0,0,15min,15.0,19,743.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationCaret.java,1,20.0,4,47min 30s,47.5,10,510.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/FontValidationProcess.java,1,20.0,0,1h,60.0,16,598.2
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/HelloWorldTTF.java,2,20.0,0,7min 30s,7.5,16,598.2
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/LineTo.java,1,20.0,0,20min,20.0,16,876.3
+pdfbox,/main/java/org/apache/fontbox/ttf/MemoryTTFDataStream.java,5,20.0,0,40min,40.0,18,1125.3
+pdfbox,/main/java/org/apache/pdfbox/io/MemoryUsageSetting.java,4,20.0,0,0,0.0,27,677.4
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/MoveTo.java,1,20.0,0,20min,20.0,15,847.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionGoTo.java,1,20.0,0,15min,15.0,5,519.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionMovie.java,2,20.0,0,15min,15.0,3,336.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionSound.java,2,20.0,0,1h 5min,65.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionURI.java,2,20.0,0,45min,45.0,7,519.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDCalRGB.java,1,20.0,0,55min,55.0,26,955.5
+pdfbox,/main/java/org/apache/pdfbox/multipdf/PDFCloneUtility.java,3,20.0,0,1h 32min,92.0,15,1154.4
+pdfbox,/main/java/org/apache/pdfbox/contentstream/PDFGraphicsStreamEngine.java,1,20.0,0,22min 30s,22.5,5,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/visible/PDFTemplateBuilder.java,2,20.0,0,0,0.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/destination/PDPageFitRectangleDestination.java,1,20.0,1,17min 30s,17.5,5,643.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDPageTree.java,5,20.0,0,1h 35min,95.0,85,3443.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/destination/PDPageXYZDestination.java,1,20.0,3,27min 30s,27.5,6,797.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/PDXObject.java,3,20.0,0,1h 15min,75.0,11,386.4
+pdfbox,/main/java/org/apache/pdfbox/io/ScratchFileBuffer.java,1,20.0,1,55min,55.0,49,2160.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/SecurityProvider.java,5,20.0,0,10min,10.0,6,145.5
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/SetField.java,2,20.0,0,17min 30s,17.5,17,656.4
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/SetLineDashPattern.java,1,20.0,2,40min,40.0,17,934.5
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/SetMatrix.java,1,20.0,0,10min,10.0,13,693.6
+pdfbox,/main/java/org/apache/pdfbox/rendering/SoftMask.java,2,20.0,0,15min,15.0,40,1678.2
+pdfbox,/main/java/org/apache/pdfbox/tools/Version.java,2,20.0,0,30min,30.0,7,423.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/BookmarkValidationProcess.java,4,19.0,0,2h 27min,147.0,30,1167.3
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/EndstreamOutputStream.java,2,19.0,0,45min,45.0,13,349.2
+pdfbox,/main/java/org/apache/pdfbox/tools/PDFBox.java,2,19.0,0,15min,15.0,16,569.1
+pdfbox,/main/java/org/apache/fontbox/ttf/PostScriptTable.java,2,19.0,0,1h 5min,65.0,20,648.3
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/CreatePDFA.java,2,18.0,0,7min 30s,7.5,16,751.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/util/FontMetaDataValidation.java,2,18.0,0,1h 15min,75.0,21,743.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDCIDFontType0.java,6,18.0,0,4h 20min,260.0,102,3154.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDFont.java,6,18.0,0,2h 15min,135.0,121,4279.5
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/PDFTreeModel.java,4,18.0,0,1h 2min,62.0,18,1270.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/PDSeedValue.java,9,18.0,0,15min,15.0,20,1673.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/TriangleBasedShadingContext.java,3,18.0,1,40min,40.0,40,1545.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type1ShadingContext.java,2,18.0,1,32min 30s,32.5,24,735.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/AnnotationValidator.java,1,17.0,0,2h 10min,130.0,41,1371.0
+pdfbox,/main/java/org/apache/fontbox/type1/Type1Font.java,15,17.0,0,15min,15.0,103,3167.1
+pdfbox,/main/java/org/apache/pdfbox/multipdf/Overlay.java,7,16.0,0,1h 17min,77.0,156,5443.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/optionalcontent/PDOptionalContentProperties.java,5,16.0,0,2h 5min,125.0,29,1379.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDSignatureField.java,5,16.0,0,47min 30s,47.5,28,1320.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDTerminalField.java,5,16.0,0,27min 30s,27.5,29,1320.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/graphic/StandardColorSpaceHelper.java,3,16.0,2,1h 50min,110.0,33,735.6
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/AddImageToPDF.java,2,15.0,0,0,0.0,9,481.8
+pdfbox,/main/java/org/apache/pdfbox/pdfwriter/COSWriterXRefEntry.java,1,15.0,0,40min,40.0,5,145.5
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/CreateSignedTimeStamp.java,2,15.0,0,10min,10.0,28,860.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/DecryptionMaterial.java,2,15.0,0,0,0.0,2,307.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFField.java,7,15.0,1,2h 55min,175.0,37,3047.7
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/FileOpenSaveDialog.java,1,15.0,0,30min,30.0,10,203.7
+pdfbox,/main/java/org/apache/pdfbox/filter/JBIG2Filter.java,1,15.0,0,15min,15.0,28,1071.9
+pdfbox,/main/java/org/apache/pdfbox/filter/JPXFilter.java,1,15.0,2,57min 30s,57.5,31,1283.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/image/LosslessFactory.java,3,15.0,0,1h 5min,65.0,22,1548.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/visible/PDFTemplateStructure.java,2,15.0,0,15min,15.0,59,2090.4
+pdfbox,/main/java/org/apache/pdfbox/text/PDFTextStripperByArea.java,7,15.0,0,7min 30s,7.5,10,540.0
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/PDFXrefStreamParser.java,2,15.0,0,30min,30.0,7,577.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDIndexed.java,3,15.0,0,25min,25.0,61,1762.2
+pdfbox,/main/java/org/apache/xmpbox/type/TextType.java,1,15.0,0,7min 30s,7.5,11,203.7
+pdfbox,/main/java/org/apache/fontbox/ttf/TrueTypeCollection.java,3,15.0,0,10min,10.0,24,735.6
+pdfbox,/main/java/org/apache/pdfbox/rendering/TTFGlyph2D.java,4,15.0,0,37min 30s,37.5,38,1018.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/exception/ValidationException.java,1,15.0,0,7min 30s,7.5,21,685.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/metadata/XpacketParsingException.java,1,15.0,0,0,0.0,14,569.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/CoonsPatch.java,3,14.0,0,37min 30s,37.5,26,984.6
+pdfbox,/main/java/org/apache/fontbox/afm/FontMetrics.java,10,14.0,0,30min,30.0,48,1894.8
+pdfbox,/main/java/org/apache/pdfbox/rendering/TilingPaintFactory.java,3,14.0,0,2h 12min,132.0,41,1122.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type5ShadingContext.java,4,14.0,0,52min 30s,52.5,17,1059.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDButton.java,6,13.0,0,1h 55min,115.0,41,1487.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceCMYK.java,4,13.0,1,1h 20min,80.0,51,1259.4
+pdfbox,/main/java/org/apache/xmpbox/xml/PdfaExtensionHelper.java,7,13.0,0,1h 20min,80.0,60,2405.7
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/Stream.java,6,13.0,0,1h 7min,67.0,42,1574.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/Type3FontValidator.java,3,13.0,0,2h 52min,172.0,77,4389.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/AbstractProcess.java,1,12.0,0,22min 30s,22.5,22,656.4
+pdfbox,/main/java/org/apache/fontbox/ttf/BufferedRandomAccessFile.java,3,12.0,0,37min 30s,37.5,15,627.3
+pdfbox,/main/java/org/apache/pdfbox/pdfwriter/ContentStreamWriter.java,3,12.0,0,37min 30s,37.5,17,1088.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Patch.java,5,12.0,0,15min,15.0,18,1241.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDPageLabels.java,4,12.0,0,1h 37min,97.0,49,1537.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/ResourcesValidationProcess.java,3,12.0,0,7min 30s,7.5,48,2130.9
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/ShowTextWithPositioning.java,3,12.0,0,15min,15.0,18,810.0
+pdfbox,/main/java/org/apache/pdfbox/cos/COSDictionary.java,2,11.0,0,2h 37min,157.0,81,2300.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/Operators.java,2,11.0,0,15min,15.0,47,1616.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDField.java,2,11.0,0,57min 30s,57.5,32,1387.2
+pdfbox,/main/java/org/apache/pdfbox/examples/ant/PDFToTextTask.java,2,11.0,0,0,0.0,11,789.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDType3CharProc.java,3,11.0,0,1h 5min,65.0,44,1267.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/ShadedTriangle.java,3,11.0,1,1h 40min,100.0,38,1794.6
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/AddAnnotations.java,1,10.0,0,30min,30.0,21,772.8
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/AddJavascript.java,1,10.0,0,0,0.0,7,423.6
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/AddMessageToEachPage.java,1,10.0,0,7min 30s,7.5,11,789.0
+pdfbox,/main/java/org/apache/pdfbox/cos/COSBoolean.java,4,10.0,0,7min 30s,7.5,4,211.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/COSFilterInputStream.java,2,10.0,0,30min,30.0,50,1691.1
+pdfbox,/main/java/org/apache/pdfbox/cos/COSFloat.java,3,10.0,0,17min 30s,17.5,19,714.6
+pdfbox,/main/java/org/apache/pdfbox/cos/COSOutputStream.java,4,10.0,0,10min,10.0,31,1159.2
+pdfbox,/main/java/org/apache/pdfbox/pdfwriter/COSStandardOutputStream.java,4,10.0,0,7min 30s,7.5,8,452.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/utils/COSUtils.java,1,10.0,2,6h 17min,377.0,29,722.7
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/CreateBlankPDF.java,1,10.0,0,0,0.0,13,569.1
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/CreateLandscapePDF.java,1,10.0,3,25min,25.0,9,510.9
+pdfbox,/main/java/org/apache/pdfbox/debugger/flagbitspane/Flag.java,1,10.0,0,7min 30s,7.5,15,569.1
+pdfbox,/main/java/org/apache/pdfbox/debugger/flagbitspane/FlagBitsPaneView.java,5,10.0,0,15min,15.0,10,386.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/fontencodingpane/FontEncodingPaneController.java,2,10.0,1,37min 30s,37.5,13,627.3
+pdfbox,/main/java/org/apache/fontbox/ttf/GlyfCompositeComp.java,3,10.0,0,35min,35.0,32,1246.5
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/HelloWorld.java,1,10.0,0,7min 30s,7.5,14,569.1
+pdfbox,/main/java/org/apache/fontbox/afm/Ligature.java,1,10.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationFileAttachment.java,1,10.0,0,15min,15.0,7,452.7
+pdfbox,/main/java/org/apache/pdfbox/tools/PDFMerger.java,1,10.0,0,0,0.0,14,569.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDFontLike.java,2,10.0,0,0,0.0,17,436.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunction.java,1,10.0,4,2h 37min,157.0,29,1225.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunctionType0.java,4,10.0,1,1h 22min,82.0,26,1665.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDStructureElement.java,5,10.0,0,2h 30min,150.0,41,2438.1
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/RubberStampWithImage.java,1,10.0,0,22min 30s,22.5,28,1350.0
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/textsearcher/Searcher.java,5,10.0,0,45min,45.0,71,1542.3
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/ShowColorBoxes.java,1,10.0,0,7min 30s,7.5,13,569.1
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/StreamTextView.java,2,10.0,0,7min 30s,7.5,32,727.5
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/SuperimposePage.java,1,10.0,0,7min 30s,7.5,14,569.1
+pdfbox,/main/java/org/apache/pdfbox/filter/TIFFExtension.java,1,10.0,0,0,0.0,59,1716.9
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/UsingTextMatrix.java,1,10.0,4,35min,35.0,11,664.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/XMLUtil.java,2,10.0,0,10min,10.0,7,577.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDResources.java,2,9.0,0,4h 32min,272.0,53,1757.4
+pdfbox,/main/java/org/apache/xmpbox/type/Cardinality.java,4,8.0,0,0,0.0,9,203.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDDocumentCatalog.java,5,8.0,0,1h 55min,115.0,18,751.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDNameTreeNode.java,6,8.0,0,42min 30s,42.5,26,1856.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDType3Font.java,1,8.0,1,1h 52min,112.0,104,3556.8
+pdfbox,/main/java/org/apache/pdfbox/filter/RunLengthDecodeFilter.java,1,8.0,0,10min,10.0,18,868.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/StandardStructureTypes.java,6,8.0,0,7min 30s,7.5,56,1725.0
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/tooltip/ToolTipController.java,5,8.0,0,2h 15min,135.0,48,1251.3
+pdfbox,/main/java/org/apache/pdfbox/filter/CCITTFaxFilter.java,2,7.0,0,27min 30s,27.5,28,1474.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/DefaultResourceCache.java,7,7.0,0,1h 10min,70.0,76,1804.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotation.java,2,7.0,0,2h 30min,150.0,31,1636.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDFieldFactory.java,1,7.0,0,1h 57min,117.0,25,1138.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/Revisions.java,3,7.0,0,0,0.0,12,722.7
+pdfbox,/main/java/org/apache/pdfbox/cos/COSInputStream.java,2,6.0,0,27min 30s,27.5,16,1029.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/ExtGStateValidationProcess.java,2,6.0,0,1h 5min,65.0,34,1569.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/utils/FilterHelper.java,3,6.0,0,17min 30s,17.5,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionFactory.java,1,6.0,0,25min,25.0,6,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDRadioButton.java,2,6.0,0,27min 30s,27.5,5,270.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDUserAttributeObject.java,2,6.0,0,25min,25.0,13,847.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/PublicKeyProtectionPolicy.java,2,6.0,0,0,0.0,3,87.3
+pdfbox,/main/java/org/apache/pdfbox/util/QuickSort.java,2,6.0,1,20min,20.0,16,569.1
+pdfbox,/main/java/org/apache/fontbox/cmap/CodespaceRange.java,1,5.0,0,10min,10.0,13,378.3
+pdfbox,/main/java/org/apache/pdfbox/cos/COSNull.java,2,5.0,0,7min 30s,7.5,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/examples/rendering/CustomPageDrawer.java,1,5.0,0,25min,25.0,55,2430.0
+pdfbox,/main/java/org/apache/pdfbox/debugger/colorpane/DeviceNColorant.java,1,5.0,0,0,0.0,15,436.5
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/FieldTriggers.java,1,5.0,0,15min,15.0,13,693.6
+pdfbox,/main/java/org/apache/pdfbox/filter/Filter.java,1,5.0,0,45min,45.0,21,743.7
+pdfbox,/main/java/org/apache/pdfbox/debugger/colorpane/IndexedColorant.java,1,5.0,0,0,0.0,17,561.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/image/JPEGFactory.java,1,5.0,4,2h 40min,160.0,51,2143.8
+pdfbox,/main/java/org/apache/pdfbox/tools/imageio/MetaUtil.java,1,5.0,0,10min,10.0,13,598.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationWidget.java,2,5.0,0,47min 30s,47.5,6,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDFontDescriptor.java,1,5.0,0,35min,35.0,37,1312.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/outline/PDOutlineNode.java,1,5.0,0,30min,30.0,35,1291.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/PreflightDocument.java,1,5.0,1,10min,10.0,32,814.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/util/PreflightType3Stream.java,1,5.0,0,17min 30s,17.5,21,582.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/SinglePageValidationProcess.java,5,5.0,0,30min,30.0,37,1524.6
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/StreamImageView.java,1,5.0,0,15min,15.0,37,1275.6
+pdfbox,/main/java/org/apache/pdfbox/rendering/TilingPaint.java,3,5.0,0,40min,40.0,33,1246.5
+pdfbox,/main/java/org/apache/fontbox/ttf/TTFTable.java,1,5.0,0,7min 30s,7.5,10,174.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/ValidationProcess.java,3,5.0,0,20min,20.0,7,174.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/ActionManagerFactory.java,4,4.0,0,1h 57min,117.0,12,664.5
+pdfbox,/main/java/org/apache/fontbox/cmap/CMap.java,5,4.0,0,45min,45.0,33,1151.1
+pdfbox,/main/java/org/apache/pdfbox/preflight/graphic/DeviceColorSpaceHelper.java,2,4.0,1,10min,10.0,14,540.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/graphic/NoPatternColorSpaceHelper.java,2,4.0,0,0,0.0,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PlainText.java,4,4.0,0,15min,15.0,71,2011.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/ToUnicodeWriter.java,5,4.0,0,15min,15.0,13,598.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/xobject/XObjFormValidator.java,4,4.0,0,50min,50.0,24,494.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/AnnotationValidatorFactory.java,2,3.0,0,0,0.0,20,619.2
+pdfbox,/main/java/org/apache/pdfbox/util/filetypedetector/ByteTrie.java,3,3.0,0,0,0.0,18,772.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/Encoding.java,3,3.0,0,1h 7min,67.0,12,386.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/FieldUtils.java,3,3.0,0,55min,55.0,40,1744.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDAction.java,3,3.0,0,25min,25.0,8,270.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDType0Font.java,3,3.0,0,1h 50min,110.0,161,3915.6
+pdfbox,/main/java/org/apache/xmpbox/type/AbstractField.java,2,2.0,0,0,0.0,14,261.9
+pdfbox,/main/java/org/apache/fontbox/cff/CFFType1Font.java,3,2.0,0,47min 30s,47.5,57,1712.1
+pdfbox,/main/java/org/apache/fontbox/cff/CharStringCommand.java,2,2.0,0,1h 37min,97.0,28,934.5
+pdfbox,/main/java/org/apache/fontbox/cff/DataInput.java,1,2.0,0,1h,60.0,27,1167.3
+pdfbox,/main/java/org/apache/xmpbox/type/DefinedStructuredType.java,2,2.0,0,7min 30s,7.5,18,531.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/DrawObject.java,1,2.0,0,30min,30.0,13,693.6
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/DrawObject.java,1,2.0,0,20min,20.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/markedcontent/DrawObject.java,1,2.0,0,20min,20.0,13,693.6
+pdfbox,/main/java/org/apache/fontbox/encoding/Encoding.java,2,2.0,0,17min 30s,17.5,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFPage.java,2,2.0,0,0,0.0,6,270.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFTemplate.java,2,2.0,0,0,0.0,7,299.1
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/container/FontContainer.java,3,2.0,0,27min 30s,27.5,49,931.2
+pdfbox,/main/java/org/apache/fontbox/ttf/GlyfCompositeDescript.java,2,2.0,0,1h 27min,87.0,49,3081.6
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/HexModel.java,2,2.0,0,0,0.0,37,1063.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/graphic/ICCProfileWrapper.java,1,2.0,0,17min 30s,17.5,17,656.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/ImageUtil.java,1,2.0,1,20min,20.0,6,394.5
+pdfbox,/main/java/org/apache/pdfbox/filter/LZWFilter.java,3,2.0,0,2h 12min,132.0,30,1657.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAppearanceEntry.java,2,2.0,0,0,0.0,16,378.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/prepress/PDBoxStyle.java,1,2.0,0,7min 30s,7.5,8,203.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDChoice.java,2,2.0,0,55min,55.0,29,1532.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceNAttributes.java,2,2.0,0,10min,10.0,8,203.7
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/PDFObjectStreamParser.java,2,2.0,0,17min 30s,17.5,7,328.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDNonTerminalField.java,7,2.0,1,20min,20.0,39,1890.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDPattern.java,1,2.0,0,17min 30s,17.5,38,756.6
+pdfbox,/main/java/org/apache/xmpbox/type/PropertiesDescription.java,2,2.0,0,0,0.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/SetFlatness.java,1,2.0,0,10min,10.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/SetGraphicsStateParameters.java,1,2.0,0,20min,20.0,13,569.1
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/SetLineCapStyle.java,1,2.0,0,0,0.0,13,569.1
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/SetLineJoinStyle.java,1,2.0,0,0,0.0,13,569.1
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/SetLineMiterLimit.java,1,2.0,0,0,0.0,13,569.1
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/SetLineWidth.java,1,2.0,0,0,0.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/SetRenderingIntent.java,1,2.0,0,10min,10.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/SetTextHorizontalScaling.java,1,2.0,0,0,0.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/SetTextRenderingMode.java,1,2.0,0,20min,20.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/SetTextRise.java,1,2.0,0,20min,20.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/SetWordSpacing.java,1,2.0,0,20min,20.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/ShadingFill.java,1,2.0,0,0,0.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/ShowText.java,1,2.0,0,30min,30.0,12,693.6
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/ShowTextAdjusted.java,1,2.0,0,30min,30.0,9,481.8
+pdfbox,/main/java/org/apache/fontbox/ttf/TTFDataStream.java,2,2.0,0,27min 30s,27.5,23,876.3
+pdfbox,/main/java/org/apache/pdfbox/debugger/fontencodingpane/Type0Font.java,2,2.0,0,32min 30s,32.5,26,918.3
+pdfbox,/main/java/org/apache/pdfbox/util/Vector.java,1,2.0,0,0,0.0,12,261.9
+pdfbox,/main/java/org/apache/xmpbox/XMPMetadata.java,2,2.0,0,27min 30s,27.5,38,1283.7
+pdfbox,/main/java/org/apache/xmpbox/type/AbstractComplexProperty.java,1,1.0,0,20min,20.0,39,910.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/xobject/AbstractXObjValidator.java,1,1.0,0,27min 30s,27.5,15,291.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/ActionsValidationProcess.java,1,1.0,0,17min 30s,17.5,15,693.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/AnnotationValidationProcess.java,1,1.0,0,10min,10.0,14,540.0
+pdfbox,/main/java/org/apache/xmpbox/type/ArrayProperty.java,1,1.0,0,0,0.0,10,261.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/blend/BlendMode.java,2,1.0,0,1h 45min,105.0,25,1042.8
+pdfbox,/main/java/org/apache/fontbox/cff/CFFEncoding.java,1,1.0,0,17min 30s,17.5,6,299.1
+pdfbox,/main/java/org/apache/fontbox/cff/CFFFont.java,1,1.0,0,0,0.0,20,523.8
+pdfbox,/main/java/org/apache/fontbox/afm/CharMetric.java,1,1.0,0,15min,15.0,16,714.6
+pdfbox,/main/java/org/apache/pdfbox/rendering/CIDType0Glyph2D.java,3,1.0,0,10min,10.0,12,291.0
+pdfbox,/main/java/org/apache/fontbox/afm/Composite.java,1,1.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/DictionaryEncoding.java,1,1.0,0,20min,20.0,26,1138.2
+pdfbox,/main/java/org/apache/xmpbox/xml/DomHelper.java,1,1.0,0,10min,10.0,40,1736.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFJavaScript.java,1,1.0,0,1h 10min,70.0,9,730.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/FileSpecificationValidationProcess.java,1,1.0,0,0,0.0,11,540.0
+pdfbox,/main/java/org/apache/pdfbox/filter/FilterFactory.java,1,1.0,0,22min 30s,22.5,6,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/FontCache.java,1,1.0,0,0,0.0,4,116.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/HexView.java,1,1.0,0,0,0.0,25,889.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Line.java,3,1.0,0,17min 30s,17.5,8,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/MoveTextSetLeading.java,1,1.0,0,10min,10.0,11,540.0
+pdfbox,/main/java/org/apache/fontbox/util/autodetect/NativeFontDirFinder.java,1,1.0,0,0,0.0,7,548.1
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/NextLine.java,1,1.0,0,0,0.0,11,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/Operator.java,1,1.0,0,7min 30s,7.5,7,116.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/OperatorMarker.java,1,1.0,0,32min 30s,32.5,21,926.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDDefaultAttributeObject.java,1,1.0,0,17min 30s,17.5,10,510.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceNProcess.java,2,1.0,0,30min,30.0,7,174.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/metadata/PDFAIdentificationValidation.java,1,1.0,0,10min,10.0,19,627.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDFieldTree.java,1,1.0,0,0,0.0,23,590.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/image/PDInlineImage.java,5,1.0,2,3h 12min,192.0,120,4229.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/markedcontent/PDMarkedContent.java,1,1.0,0,10min,10.0,9,328.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDStructureNode.java,1,1.0,0,3h 55min,235.0,19,743.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDStructureTreeRoot.java,1,1.0,0,1h,60.0,7,452.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDTrueTypeFontEmbedder.java,1,1.0,0,7min 30s,7.5,14,531.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDType1FontEmbedder.java,1,1.0,0,22min 30s,22.5,17,868.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/utils/RenderingIntents.java,1,1.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/textsearcher/SearchEngine.java,3,1.0,0,37min 30s,37.5,7,328.2
+pdfbox,/main/java/org/apache/pdfbox/debugger/fontencodingpane/SimpleFont.java,1,1.0,0,7min 30s,7.5,23,706.5
+pdfbox,/main/java/org/apache/pdfbox/multipdf/Splitter.java,3,1.0,0,27min 30s,27.5,30,1122.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/TilingPatternValidationProcess.java,1,1.0,0,10min,10.0,26,860.1
+pdfbox,/main/java/org/apache/pdfbox/rendering/Type1Glyph2D.java,3,1.0,0,20min,20.0,11,291.0
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/ValidationTimeStamp.java,1,1.0,0,0,0.0,5,116.4
+pdfbox,/main/java/org/apache/fontbox/ttf/VerticalOriginTable.java,1,1.0,0,27min 30s,27.5,11,291.0
+pdfbox,/main/java/org/apache/fontbox/ttf/WGL4Names.java,3,1.0,0,7min 30s,7.5,4,211.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/AbstractActionManager.java,0,0.0,0,37min 30s,37.5,12,261.9
+pdfbox,/main/java/org/apache/xmpbox/type/AbstractSimpleProperty.java,0,0.0,0,7min 30s,7.5,15,320.1
+pdfbox,/main/java/org/apache/xmpbox/type/AbstractStructuredType.java,0,0.0,0,47min 30s,47.5,52,1259.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/AccessPermission.java,0,0.0,0,37min 30s,37.5,30,582.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/AcroFormValidationProcess.java,0,0.0,0,47min 30s,47.5,25,1395.3
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/AddBorderToField.java,0,0.0,0,0,0.0,12,540.0
+pdfbox,/main/java/org/apache/xmpbox/schema/AdobePDFSchema.java,0,0.0,0,1h 15min,75.0,8,145.5
+pdfbox,/main/java/org/apache/xmpbox/type/AgentNameType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/AnnotationFilter.java,0,0.0,0,0,0.0,3,87.3
+pdfbox,/main/java/org/apache/pdfbox/debugger/flagbitspane/AnnotFlag.java,0,0.0,0,7min 30s,7.5,12,232.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/AppearanceStyle.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/AppendRectangleToPath.java,0,0.0,0,10min,10.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/ArrayEntry.java,0,0.0,0,0,0.0,4,87.3
+pdfbox,/main/java/org/apache/pdfbox/filter/ASCII85Filter.java,0,0.0,0,0,0.0,15,751.8
+pdfbox,/main/java/org/apache/xmpbox/type/Attribute.java,0,0.0,0,0,0.0,12,174.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/AxialShadingPaint.java,0,0.0,3,30min,30.0,12,415.5
+pdfbox,/main/java/org/apache/xmpbox/type/BadFieldValueException.java,0,0.0,0,0,0.0,2,153.6
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/BeginInlineImage.java,0,0.0,0,10min,10.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/markedcontent/BeginMarkedContentSequence.java,0,0.0,0,0,0.0,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/markedcontent/BeginMarkedContentSequenceWithProperties.java,0,0.0,0,10min,10.0,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/BeginText.java,0,0.0,0,0,0.0,11,510.9
+pdfbox,/main/java/org/apache/xmpbox/type/BooleanType.java,0,0.0,0,7min 30s,7.5,10,203.7
+pdfbox,/main/java/org/apache/fontbox/util/BoundingBox.java,0,0.0,0,0,0.0,9,145.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/BuiltInEncoding.java,0,0.0,0,0,0.0,9,423.6
+pdfbox,/main/java/org/apache/fontbox/encoding/BuiltInEncoding.java,0,0.0,0,0,0.0,2,307.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/utils/ByteArrayDataSource.java,0,0.0,0,0,0.0,30,881.1
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/validation/CertificateProccessingException.java,0,0.0,0,0,0.0,4,211.8
+pdfbox,/main/java/org/apache/xmpbox/type/CFAPatternType.java,0,0.0,0,15min,15.0,12,444.6
+pdfbox,/main/java/org/apache/fontbox/cff/CFFDataInput.java,0,0.0,0,0,0.0,3,307.2
+pdfbox,/main/java/org/apache/fontbox/cff/CFFExpertCharset.java,0,0.0,0,0,0.0,8,577.2
+pdfbox,/main/java/org/apache/fontbox/cff/CFFExpertEncoding.java,0,0.0,0,0,0.0,9,577.2
+pdfbox,/main/java/org/apache/fontbox/cff/CFFExpertSubsetCharset.java,0,0.0,0,0,0.0,8,577.2
+pdfbox,/main/java/org/apache/fontbox/cff/CFFISOAdobeCharset.java,0,0.0,0,0,0.0,9,577.2
+pdfbox,/main/java/org/apache/fontbox/cff/CFFStandardEncoding.java,0,0.0,0,0,0.0,9,577.2
+pdfbox,/main/java/org/apache/fontbox/cff/CFFStandardString.java,0,0.0,0,0,0.0,6,365.4
+pdfbox,/main/java/org/apache/fontbox/ttf/CFFTable.java,0,0.0,0,7min 30s,7.5,25,955.5
+pdfbox,/main/java/org/apache/pdfbox/util/Charsets.java,0,0.0,0,7min 30s,7.5,3,182.7
+pdfbox,/main/java/org/apache/fontbox/util/Charsets.java,0,0.0,0,7min 30s,7.5,4,211.8
+pdfbox,/main/java/org/apache/xmpbox/type/ChoiceType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/CIDFontMapping.java,0,0.0,0,0,0.0,6,145.5
+pdfbox,/main/java/org/apache/fontbox/cff/CIDKeyedType2CharString.java,0,0.0,0,7min 30s,7.5,3,58.2
+pdfbox,/main/java/org/apache/fontbox/cmap/CIDRange.java,0,0.0,0,30min,30.0,9,232.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/CIDSystemInfo.java,0,0.0,0,0,0.0,15,378.3
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/container/CIDType0Container.java,0,0.0,0,0,0.0,15,722.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/descriptor/CIDType0DescriptorHelper.java,0,0.0,3,10min,10.0,25,1329.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/CIDType0FontValidator.java,0,0.0,0,7min 30s,7.5,14,540.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/container/CIDType2Container.java,0,0.0,0,0,0.0,15,722.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/descriptor/CIDType2DescriptorHelper.java,0,0.0,3,10min,10.0,25,1329.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/CIDType2FontValidator.java,0,0.0,0,7min 30s,7.5,14,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/ClipEvenOddRule.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/ClipNonZeroRule.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/CloseAndStrokePath.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/CloseFillEvenOddAndStrokePath.java,0,0.0,0,0,0.0,10,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/CloseFillNonZeroAndStrokePath.java,0,0.0,0,0,0.0,9,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/ClosePath.java,0,0.0,0,10min,10.0,13,569.1
+pdfbox,/main/java/org/apache/fontbox/ttf/CmapLookup.java,0,0.0,0,0,0.0,1,0.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/CMapManager.java,0,0.0,0,10min,10.0,9,481.8
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/CMSProcessableInputStream.java,0,0.0,0,0,0.0,20,494.7
+pdfbox,/main/java/org/apache/pdfbox/debugger/colorpane/ColorBarCellRenderer.java,0,0.0,0,7min 30s,7.5,6,394.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/graphic/ColorSpaceHelper.java,0,0.0,0,0,0.0,5,116.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/graphic/ColorSpaceHelperFactory.java,0,0.0,3,1h,60.0,5,394.5
+pdfbox,/main/java/org/apache/fontbox/afm/CompositePart.java,0,0.0,0,0,0.0,3,87.3
+pdfbox,/main/java/org/apache/pdfbox/preflight/content/ContentStreamException.java,0,0.0,0,0,0.0,18,407.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/utils/ContextHelper.java,0,0.0,0,20min,20.0,22,1117.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/CoordinateColorPair.java,0,0.0,0,0,0.0,6,423.6
+pdfbox,/main/java/org/apache/pdfbox/cos/COSBase.java,0,0.0,0,7min 30s,7.5,7,116.4
+pdfbox,/main/java/org/apache/pdfbox/cos/COSInteger.java,0,0.0,0,25min,25.0,15,1067.1
+pdfbox,/main/java/org/apache/pdfbox/cos/COSObject.java,0,0.0,0,7min 30s,7.5,17,415.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/COSObjectable.java,0,0.0,0,0,0.0,2,153.6
+pdfbox,/main/java/org/apache/pdfbox/cos/COSObjectKey.java,0,0.0,0,50min,50.0,16,291.0
+pdfbox,/main/java/org/apache/pdfbox/cos/COSUpdateInfo.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/CreatePatternsPDF.java,0,0.0,0,15min,15.0,10,510.9
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/CreateSignedTimestampBase.java,0,0.0,0,0,0.0,9,261.9
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/CreateSimpleFormWithEmbeddedFont.java,0,0.0,0,7min 30s,7.5,11,540.0
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/validation/CrlHelper.java,0,0.0,0,10min,10.0,6,394.5
+pdfbox,/main/java/org/apache/pdfbox/filter/CryptFilter.java,0,0.0,0,10min,10.0,15,934.5
+pdfbox,/main/java/org/apache/pdfbox/debugger/colorpane/CSArrayBased.java,0,0.0,0,25min,25.0,16,407.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/CubicBezierCurve.java,0,0.0,0,7min 30s,7.5,14,444.6
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/CurveTo.java,0,0.0,0,25min,25.0,16,876.3
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/CurveToReplicateFinalPoint.java,0,0.0,0,10min,10.0,15,847.2
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/CurveToReplicateInitialPoint.java,0,0.0,0,17min 30s,17.5,16,876.3
+pdfbox,/main/java/org/apache/fontbox/type1/DamagedFontException.java,0,0.0,0,0,0.0,5,365.4
+pdfbox,/main/java/org/apache/fontbox/cff/DataOutput.java,0,0.0,0,0,0.0,12,349.2
+pdfbox,/main/java/org/apache/xmpbox/type/DateType.java,0,0.0,0,40min,40.0,8,174.6
+pdfbox,/main/java/org/apache/pdfbox/filter/DecodeResult.java,0,0.0,0,7min 30s,7.5,13,291.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/DescendantFontValidator.java,1,0.0,0,10min,10.0,19,531.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/DestinationValidationProcess.java,0,0.0,0,1h 7min,67.0,18,627.3
+pdfbox,/main/java/org/apache/pdfbox/debugger/colorpane/DeviceNTableModel.java,0,0.0,7,2h 20min,140.0,22,619.2
+pdfbox,/main/java/org/apache/xmpbox/type/DeviceSettingsType.java,0,0.0,0,15min,15.0,12,444.6
+pdfbox,/main/java/org/apache/fontbox/ttf/DigitalSignatureTable.java,0,0.0,0,7min 30s,7.5,4,211.8
+pdfbox,/main/java/org/apache/xmpbox/type/DimensionsType.java,0,0.0,0,15min,15.0,12,444.6
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/DocumentEntry.java,0,0.0,0,0,0.0,21,465.6
+pdfbox,/main/java/org/apache/xmpbox/schema/DublinCoreSchema.java,0,0.0,0,30min,30.0,62,1733.1
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/EmbeddedFonts.java,0,0.0,0,0,0.0,12,510.9
+pdfbox,/main/java/org/apache/pdfbox/examples/pdmodel/EmbeddedVerticalFonts.java,0,0.0,0,15min,15.0,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/EmptyGraphicsStackException.java,0,0.0,0,0,0.0,4,211.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/EmptyValidationProcess.java,0,0.0,0,0,0.0,7,452.7
+pdfbox,/main/java/org/apache/fontbox/EncodedFont.java,0,0.0,0,0,0.0,3,87.3
+pdfbox,/main/java/org/apache/pdfbox/debugger/flagbitspane/EncryptFlag.java,0,0.0,0,0,0.0,11,232.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/markedcontent/EndMarkedContentSequence.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/EndPath.java,0,0.0,0,0,0.0,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/EndText.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/xmpbox/schema/ExifSchema.java,0,0.0,0,15min,15.0,167,5050.5
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/ExtensionFileFilter.java,0,0.0,0,10min,10.0,4,87.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/ExternalSigningSupport.java,0,0.0,0,0,0.0,3,87.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationFileAttachment.java,0,0.0,0,7min 30s,7.5,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationHighlight.java,0,0.0,0,15min,15.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationLink.java,0,0.0,0,7min 30s,7.5,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationSound.java,0,0.0,0,7min 30s,7.5,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationSquiggly.java,0,0.0,0,15min,15.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationStamp.java,0,0.0,0,7min 30s,7.5,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationStrikeOut.java,0,0.0,0,15min,15.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationText.java,0,0.0,0,7min 30s,7.5,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFAnnotationUnderline.java,0,0.0,0,15min,15.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFCatalog.java,0,0.0,0,0,0.0,4,87.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFDocument.java,0,0.0,0,0,0.0,19,1278.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFIconFit.java,0,0.0,0,7min 30s,7.5,10,261.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFNamedPageReference.java,0,0.0,0,0,0.0,3,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFOptionElement.java,0,0.0,0,0,0.0,3,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/fdf/FDFPageInfo.java,0,0.0,0,0,0.0,3,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/FDFParser.java,0,0.0,0,10min,10.0,19,963.6
+pdfbox,/main/java/org/apache/fontbox/cff/FDSelect.java,0,0.0,0,0,0.0,6,423.6
+pdfbox,/main/java/org/apache/pdfbox/util/filetypedetector/FileType.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/FillEvenOddAndStrokePath.java,0,0.0,0,0,0.0,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/FillEvenOddRule.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/FillFormField.java,0,0.0,0,0,0.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/FillNonZeroAndStrokePath.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/FillNonZeroRule.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/flagbitspane/FlagBitsPane.java,0,0.0,0,7min 30s,7.5,7,174.6
+pdfbox,/main/java/org/apache/xmpbox/type/FlashType.java,0,0.0,0,15min,15.0,16,561.0
+pdfbox,/main/java/org/apache/fontbox/FontBoxFont.java,0,0.0,0,0,0.0,20,407.4
+pdfbox,/main/java/org/apache/fontbox/util/autodetect/FontDirFinder.java,0,0.0,0,0,0.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/debugger/fontencodingpane/FontEncodingView.java,0,0.0,0,1h 25min,85.0,45,1670.1
+pdfbox,/main/java/org/apache/pdfbox/debugger/flagbitspane/FontFlag.java,0,0.0,0,0,0.0,11,232.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/FontFormat.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/FontInfo.java,2,0.0,12,4h,240.0,18,743.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/FontMapper.java,0,0.0,0,0,0.0,6,174.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/FontMappers.java,0,0.0,0,0,0.0,11,357.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/FontMapping.java,0,0.0,0,0,0.0,9,174.6
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/tooltip/FontToolTip.java,1,0.0,0,0,0.0,16,378.3
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/FontValidator.java,0,0.0,0,7min 30s,7.5,18,743.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/Format.java,0,0.0,0,0,0.0,9,203.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/FreeTextAnnotationValidator.java,0,0.0,0,0,0.0,11,635.4
+pdfbox,/main/java/org/apache/fontbox/ttf/GlyfDescript.java,0,0.0,0,7min 30s,7.5,7,452.7
+pdfbox,/main/java/org/apache/pdfbox/rendering/Glyph2D.java,0,0.0,0,0,0.0,3,87.3
+pdfbox,/main/java/org/apache/fontbox/ttf/GlyphData.java,0,0.0,0,0,0.0,15,561.0
+pdfbox,/main/java/org/apache/fontbox/ttf/GlyphDescription.java,0,0.0,0,0,0.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/util/GlyphDetail.java,0,0.0,0,0,0.0,9,232.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/util/GlyphException.java,0,0.0,0,0,0.0,19,436.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/GoToAction.java,0,0.0,0,10min,10.0,9,481.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/GoToRemoteAction.java,0,0.0,0,1h 17min,77.0,16,627.3
+pdfbox,/main/java/org/apache/xmpbox/type/GPSCoordinateType.java,0,0.0,0,7min 30s,7.5,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/GraphicObjectPageValidationProcess.java,0,0.0,0,7min 30s,7.5,13,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/GraphicsOperatorProcessor.java,0,0.0,0,7min 30s,7.5,6,423.6
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/tooltip/GToolTip.java,0,0.0,0,0,0.0,5,365.4
+pdfbox,/main/java/org/apache/xmpbox/type/GUIDType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/fontbox/ttf/HeaderTable.java,0,0.0,0,22min 30s,22.5,28,1005.6
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/HexChangedEvent.java,0,0.0,0,0,0.0,6,174.6
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/HexChangeListener.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/HexModelChangedEvent.java,0,0.0,0,0,0.0,11,569.1
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/HexModelChangeListener.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/HideAction.java,0,0.0,0,30min,30.0,8,452.7
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/HighResolutionImageIcon.java,0,0.0,0,0,0.0,18,378.3
+pdfbox,/main/java/org/apache/fontbox/ttf/HorizontalHeaderTable.java,0,0.0,0,22min 30s,22.5,24,793.8
+pdfbox,/main/java/org/apache/fontbox/ttf/HorizontalMetricsTable.java,0,0.0,0,47min 30s,47.5,16,407.4
+pdfbox,/main/java/org/apache/pdfbox/cos/ICOSVisitor.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/filter/IdentityFilter.java,0,0.0,0,0,0.0,15,598.2
+pdfbox,/main/java/org/apache/pdfbox/rendering/ImageType.java,0,0.0,0,0,0.0,36,1810.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/colorpane/IndexedTableModel.java,0,0.0,8,2h 40min,160.0,22,619.2
+pdfbox,/main/java/org/apache/fontbox/ttf/IndexToLocationTable.java,0,0.0,0,7min 30s,7.5,8,203.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/InkAnnotationValidator.java,0,0.0,0,0,0.0,12,664.5
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/InputStreamSource.java,0,0.0,0,0,0.0,65,1455.0
+pdfbox,/main/java/org/apache/xmpbox/type/IntegerType.java,0,0.0,0,0,0.0,7,116.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/InvalidAction.java,0,0.0,0,0,0.0,6,145.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/InvalidPasswordException.java,0,0.0,0,0,0.0,2,307.2
+pdfbox,/main/java/org/apache/pdfbox/io/IOUtils.java,2,0.0,0,20min,20.0,11,730.8
+pdfbox,/main/java/org/apache/xmpbox/type/JobType.java,0,0.0,0,15min,15.0,31,640.2
+pdfbox,/main/java/org/apache/pdfbox/tools/imageio/JPEGUtil.java,0,0.0,0,7min 30s,7.5,7,394.5
+pdfbox,/main/java/org/apache/fontbox/ttf/KerningTable.java,0,0.0,0,17min 30s,17.5,14,971.7
+pdfbox,/main/java/org/apache/fontbox/afm/KernPair.java,0,0.0,0,0,0.0,4,116.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/tooltip/KToolTip.java,1,0.0,1,10min,10.0,18,868.2
+pdfbox,/main/java/org/apache/xmpbox/type/LayerType.java,0,0.0,0,35min,35.0,8,203.7
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/LegacyFillNonZeroRule.java,0,0.0,0,7min 30s,7.5,5,365.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/LineAnnotationValidator.java,0,0.0,3,20min,20.0,13,415.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/LinkAnnotationValidator.java,0,0.0,0,20min,20.0,9,328.2
+pdfbox,/main/java/org/apache/xmpbox/type/LocaleType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/MacExpertEncoding.java,0,0.0,0,7min 30s,7.5,12,510.9
+pdfbox,/main/java/org/apache/fontbox/util/autodetect/MacFontDirFinder.java,0,0.0,0,0,0.0,3,336.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/MacOSRomanEncoding.java,0,0.0,0,15min,15.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/MacRomanEncoding.java,0,0.0,2,17min 30s,17.5,11,481.8
+pdfbox,/main/java/org/apache/fontbox/encoding/MacRomanEncoding.java,0,0.0,2,17min 30s,17.5,5,394.5
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/MapEntry.java,0,0.0,0,10min,10.0,5,87.3
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/MarkupAnnotationValidator.java,0,0.0,0,0,0.0,12,664.5
+pdfbox,/main/java/org/apache/fontbox/ttf/MaximumProfileTable.java,0,0.0,0,22min 30s,22.5,20,552.9
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/MenuBase.java,0,0.0,0,0,0.0,7,174.6
+pdfbox,/main/java/org/apache/xmpbox/type/MIMEType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/filter/MissingImageReaderException.java,0,0.0,0,0,0.0,4,211.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/MissingOperandException.java,0,0.0,0,0,0.0,7,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/MissingResourceException.java,0,0.0,0,0,0.0,6,394.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/exception/MissingValidationProcessException.java,0,0.0,0,0,0.0,7,174.6
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/MoveText.java,0,0.0,0,30min,30.0,13,569.1
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/NamedAction.java,0,0.0,0,20min,20.0,7,423.6
+pdfbox,/main/java/org/apache/fontbox/ttf/NameRecord.java,0,0.0,0,7min 30s,7.5,44,1500.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/blend/NonSeparableBlendMode.java,0,0.0,0,0,0.0,9,481.8
+pdfbox,/main/java/org/apache/pdfbox/util/NumberFormatUtil.java,0,0.0,0,20min,20.0,9,423.6
+pdfbox,/main/java/org/apache/xmpbox/type/OECFType.java,0,0.0,0,15min,15.0,12,444.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/OpenMode.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/fontbox/ttf/OpenTypeFont.java,0,0.0,0,0,0.0,23,582.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/type4/Operator.java,0,0.0,0,0,0.0,2,29.1
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/OperatorProcessor.java,0,0.0,0,17min 30s,17.5,7,116.4
+pdfbox,/main/java/org/apache/pdfbox/printing/Orientation.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/fontbox/ttf/OS2WindowsMetricsTable.java,0,0.0,0,45min,45.0,82,2730.6
+pdfbox,/main/java/org/apache/fontbox/ttf/OTFParser.java,1,0.0,0,30min,30.0,42,1209.3
+pdfbox,/main/java/org/apache/fontbox/ttf/OTLTable.java,1,0.0,0,0,0.0,5,394.5
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/package-info.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/rendering/PageDrawerParameters.java,0,0.0,0,0,0.0,7,203.7
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/PageEntry.java,0,0.0,0,0,0.0,19,590.1
+pdfbox,/main/java/org/apache/pdfbox/multipdf/PageExtractor.java,0,0.0,0,0,0.0,6,299.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PageLayout.java,0,0.0,0,1h 17min,77.0,9,203.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PageMode.java,0,0.0,0,1h 17min,77.0,9,203.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/PageTreeValidationProcess.java,0,0.0,0,10min,10.0,21,839.1
+pdfbox,/main/java/org/apache/xmpbox/type/PartType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/pattern/PDAbstractPattern.java,0,0.0,1,17min 30s,17.5,11,664.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionHide.java,0,0.0,0,15min,15.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionImportData.java,0,0.0,0,15min,15.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionJavaScript.java,0,0.0,0,45min,45.0,4,489.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionNamed.java,0,0.0,0,15min,15.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionResetForm.java,0,0.0,0,15min,15.0,3,336.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionSubmitForm.java,0,0.0,0,15min,15.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDActionThread.java,0,0.0,0,15min,15.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDAdditionalActions.java,0,0.0,0,0,0.0,3,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDAnnotationAdditionalActions.java,0,0.0,0,0,0.0,3,182.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationLine.java,0,0.0,3,1h 15min,75.0,25,1972.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationMarkup.java,0,0.0,0,1h 35min,95.0,10,759.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationPopup.java,0,0.0,0,7min 30s,7.5,4,489.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationRubberStamp.java,0,0.0,0,15min,15.0,15,685.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationSquareCircle.java,2,0.0,2,1h 35min,95.0,5,643.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationText.java,0,0.0,0,15min,15.0,10,540.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAnnotationUnknown.java,0,0.0,0,0,0.0,2,307.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAppearanceCharacteristicsDictionary.java,0,0.0,1,1h,60.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAppearanceDictionary.java,0,0.0,0,50min,50.0,8,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDAppearanceStream.java,0,0.0,0,7min 30s,7.5,2,307.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/PDArtifactMarkedContent.java,0,0.0,0,10min,10.0,7,548.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDAttributeObject.java,0,0.0,2,2h 2min,122.0,15,693.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDBorderEffectDictionary.java,0,0.0,0,7min 30s,7.5,3,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDBorderStyleDictionary.java,0,0.0,0,7min 30s,7.5,11,759.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDCheckBox.java,0,0.0,0,7min 30s,7.5,7,548.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDCIDSystemInfo.java,0,0.0,0,0,0.0,24,465.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDCIEBasedColorSpace.java,1,0.0,0,10min,10.0,12,569.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDCIEDictionaryBasedColorSpace.java,0,0.0,0,15min,15.0,16,407.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDColor.java,0,0.0,0,7min 30s,7.5,16,540.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDComboBox.java,0,0.0,0,7min 30s,7.5,7,174.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/filespecification/PDComplexFileSpecification.java,0,0.0,0,25min,25.0,25,1951.5
+pdfbox,/main/java/org/apache/pdfbox/contentstream/PDContentStream.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/PDCryptFilterDictionary.java,0,0.0,0,0,0.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDDestinationNameTreeNode.java,0,0.0,0,0,0.0,13,722.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDDestinationOrAction.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDDeviceColorSpace.java,0,0.0,0,7min 30s,7.5,10,452.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDDictionaryWrapper.java,0,0.0,0,27min 30s,27.5,11,232.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDDocumentCatalogAdditionalActions.java,0,0.0,0,0,0.0,3,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDDocumentNameDestinationDictionary.java,0,0.0,0,30min,30.0,3,182.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDDocumentNameDictionary.java,0,0.0,0,0,0.0,6,240.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/outline/PDDocumentOutline.java,0,0.0,0,7min 30s,7.5,8,452.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDEmbeddedFilesNameTreeNode.java,0,0.0,0,0,0.0,13,693.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/PDEncryption.java,1,0.0,0,25min,25.0,25,947.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/PDExportFormatAttributeObject.java,0,0.0,0,22min 30s,22.5,11,481.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/annotation/PDExternalDataDictionary.java,0,0.0,0,0,0.0,4,87.3
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/pdfa/PDFAbAnnotationFactory.java,0,0.0,0,7min 30s,7.5,5,365.4
+pdfbox,/main/java/org/apache/xmpbox/schema/PDFAExtensionSchema.java,0,0.0,0,15min,15.0,8,452.7
+pdfbox,/main/java/org/apache/xmpbox/type/PDFAFieldType.java,0,0.0,0,15min,15.0,21,714.6
+pdfbox,/main/java/org/apache/xmpbox/schema/PDFAIdentificationSchema.java,0,0.0,0,2h 5min,125.0,15,751.8
+pdfbox,/main/java/org/apache/xmpbox/type/PDFAPropertyType.java,0,0.0,0,15min,15.0,25,801.9
+pdfbox,/main/java/org/apache/xmpbox/type/PDFASchemaType.java,0,0.0,0,15min,15.0,28,1013.7
+pdfbox,/main/java/org/apache/xmpbox/type/PDFATypeType.java,0,0.0,0,15min,15.0,29,889.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/filespecification/PDFileSpecification.java,0,0.0,0,0,0.0,6,460.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDFontFactory.java,0,0.0,0,1h 55min,115.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/PDFontSetting.java,0,0.0,0,0,0.0,5,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDFormFieldAdditionalActions.java,0,0.0,1,10min,10.0,3,182.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/form/PDFormXObject.java,1,0.0,1,37min 30s,37.5,26,992.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/PDFourColours.java,0,0.0,0,0,0.0,7,145.5
+pdfbox,/main/java/org/apache/pdfbox/printing/PDFPageable.java,0,0.0,0,15min,15.0,16,378.3
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/PDFParser.java,1,0.0,0,7min 30s,7.5,37,1641.0
+pdfbox,/main/java/org/apache/pdfbox/printing/PDFPrintable.java,0,0.0,0,1h 30min,90.0,21,860.1
+pdfbox,/main/java/org/apache/pdfbox/rendering/PDFRenderer.java,3,0.0,1,1h 15min,75.0,25,1013.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/visible/PDFTemplateCreator.java,1,0.0,0,25min,25.0,16,685.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunctionType2.java,0,0.0,0,7min 30s,7.5,6,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunctionType3.java,0,0.0,0,15min,15.0,18,992.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunctionType4.java,0,0.0,0,0,0.0,8,203.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunctionTypeIdentity.java,0,0.0,0,0,0.0,14,569.1
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/PDFXRef.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDGamma.java,0,0.0,0,0,0.0,5,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/image/PDImage.java,0,0.0,0,0,0.0,14,320.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDJavascriptNameTreeNode.java,0,0.0,0,0,0.0,14,722.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDJPXColorSpace.java,0,0.0,0,0,0.0,32,735.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDLab.java,1,0.0,0,42min 30s,42.5,37,997.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/PDLineDashPattern.java,0,0.0,0,0,0.0,6,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/PDListAttributeObject.java,0,0.0,0,15min,15.0,15,656.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDListBox.java,0,0.0,0,7min 30s,7.5,8,452.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDMarkedContentReference.java,0,0.0,0,17min 30s,17.5,8,174.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDMarkInfo.java,0,0.0,0,0,0.0,4,87.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/measurement/PDMeasureDictionary.java,0,0.0,0,7min 30s,7.5,6,270.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDMetadata.java,0,0.0,0,0,0.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDMMType1Font.java,0,0.0,0,7min 30s,7.5,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/destination/PDNamedDestination.java,0,0.0,0,17min 30s,17.5,5,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/measurement/PDNumberFormatDictionary.java,0,0.0,0,7min 30s,7.5,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDObjectReference.java,2,0.0,0,57min 30s,57.5,5,240.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDObjectStream.java,0,0.0,0,0,0.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/optionalcontent/PDOptionalContentGroup.java,1,0.0,0,10min,10.0,6,423.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/outline/PDOutlineItem.java,0,0.0,0,47min 30s,47.5,17,847.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/outline/PDOutlineItemIterator.java,1,0.0,0,0,0.0,14,291.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDOutputIntent.java,0,0.0,0,0,0.0,50,1172.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDPageAdditionalActions.java,0,0.0,1,10min,10.0,4,211.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/destination/PDPageFitDestination.java,0,0.0,3,17min 30s,17.5,2,182.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/destination/PDPageFitHeightDestination.java,0,0.0,4,27min 30s,27.5,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/documentnavigation/destination/PDPageFitWidthDestination.java,0,0.0,3,17min 30s,17.5,3,336.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDPageLabelRange.java,0,0.0,0,7min 30s,7.5,6,145.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDPanose.java,1,0.0,0,0,0.0,5,87.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDPanoseClassification.java,0,0.0,0,0,0.0,41,814.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/PDPostScriptXObject.java,0,0.0,0,0,0.0,2,307.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/PDPrintFieldAttributeObject.java,0,0.0,0,15min,15.0,16,685.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/PDPropBuild.java,0,0.0,0,0,0.0,5,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/PDPropBuildDataDict.java,0,0.0,0,10min,10.0,6,270.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/markedcontent/PDPropertyList.java,1,0.0,0,20min,20.0,8,299.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDPushButton.java,1,0.0,0,17min 30s,17.5,20,685.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDRange.java,0,0.0,0,0,0.0,9,145.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDRectangle.java,0,0.0,0,15min,15.0,29,664.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/PDSeedValueMDP.java,0,0.0,0,0,0.0,3,87.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/PDSeedValueTimeStamp.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PDShading.java,0,0.0,0,32min 30s,32.5,24,1138.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/pattern/PDShadingPattern.java,0,0.0,0,0,0.0,8,203.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PDShadingType1.java,0,0.0,1,10min,10.0,13,569.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PDShadingType2.java,0,0.0,0,0,0.0,12,291.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PDShadingType3.java,0,0.0,0,7min 30s,7.5,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PDShadingType4.java,0,0.0,0,7min 30s,7.5,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PDShadingType5.java,0,0.0,0,7min 30s,7.5,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PDShadingType6.java,0,0.0,0,7min 30s,7.5,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PDShadingType7.java,0,0.0,0,7min 30s,7.5,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/PDSignature.java,0,0.0,2,1h 15min,75.0,26,1358.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/filespecification/PDSimpleFileSpecification.java,0,0.0,0,0,0.0,2,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/state/PDSoftMask.java,0,0.0,0,40min,40.0,23,860.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDSpecialColorSpace.java,0,0.0,0,7min 30s,7.5,7,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/PDStructureElementNameTreeNode.java,1,0.0,0,0,0.0,14,722.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/PDTableAttributeObject.java,0,0.0,0,22min 30s,22.5,17,531.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDTargetDirectory.java,0,0.0,0,1h,60.0,5,240.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDTextField.java,0,0.0,0,7min 30s,7.5,21,743.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/pagenavigation/PDThread.java,0,0.0,0,0,0.0,5,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/pagenavigation/PDThreadBead.java,0,0.0,0,0,0.0,5,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/pattern/PDTilingPattern.java,0,0.0,0,25min,25.0,19,839.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/pagenavigation/PDTransition.java,0,0.0,0,10min,10.0,6,519.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/pagenavigation/PDTransitionDimension.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/pagenavigation/PDTransitionDirection.java,0,0.0,0,0,0.0,12,510.9
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/pagenavigation/PDTransitionMotion.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/form/PDTransparencyGroup.java,1,0.0,0,7min 30s,7.5,5,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/form/PDTransparencyGroupAttributes.java,0,0.0,0,0,0.0,10,232.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/PDTriangleBasedShadingType.java,0,0.0,1,10min,10.0,8,328.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDTristimulus.java,0,0.0,0,0,0.0,6,270.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/common/PDTypedDictionaryWrapper.java,0,0.0,0,0,0.0,5,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDURIDictionary.java,0,0.0,0,0,0.0,4,87.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/documentinterchange/logicalstructure/PDUserProperty.java,1,0.0,0,1h 10min,70.0,16,473.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDVariableText.java,0,0.0,1,1h 5min,65.0,13,751.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/PDVectorFont.java,0,0.0,0,0,0.0,7,174.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/measurement/PDViewportDictionary.java,0,0.0,0,27min 30s,27.5,6,145.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/visible/PDVisibleSigProperties.java,0,0.0,0,7min 30s,7.5,21,611.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/action/PDWindowsLaunchParams.java,0,0.0,0,7min 30s,7.5,3,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDXFAResource.java,0,0.0,0,30min,30.0,10,635.4
+pdfbox,/main/java/org/apache/fontbox/pfb/PfbParser.java,0,0.0,0,10min,10.0,11,818.1
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/PopupAnnotationValidator.java,0,0.0,0,0,0.0,8,577.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/PrintMarkAnnotationValidator.java,0,0.0,0,0,0.0,8,577.2
+pdfbox,/main/java/org/apache/xmpbox/type/ProperNameType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/xmpbox/type/PropertyType.java,0,0.0,0,0,0.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/ProtectionPolicy.java,0,0.0,0,0,0.0,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/PublicKeyDecryptionMaterial.java,0,0.0,0,40min,40.0,8,232.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/PublicKeyRecipient.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/RadialShadingPaint.java,0,0.0,3,30min,30.0,12,415.5
+pdfbox,/main/java/org/apache/fontbox/ttf/RAFDataStream.java,0,0.0,0,0,0.0,17,415.5
+pdfbox,/main/java/org/apache/pdfbox/io/RandomAccess.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/io/RandomAccessFile.java,0,0.0,1,17min 30s,17.5,98,2190.6
+pdfbox,/main/java/org/apache/pdfbox/io/RandomAccessInputStream.java,0,0.0,0,30min,30.0,36,997.5
+pdfbox,/main/java/org/apache/pdfbox/io/RandomAccessOutputStream.java,0,0.0,0,0,0.0,17,407.4
+pdfbox,/main/java/org/apache/pdfbox/io/RandomAccessRead.java,0,0.0,0,0,0.0,10,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/RandomAccessSource.java,0,0.0,0,0,0.0,64,1425.9
+pdfbox,/main/java/org/apache/pdfbox/io/RandomAccessWrite.java,0,0.0,0,0,0.0,3,87.3
+pdfbox,/main/java/org/apache/xmpbox/type/RationalType.java,0,0.0,0,7min 30s,7.5,9,452.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/RC4Cipher.java,0,0.0,0,10min,10.0,7,452.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/metadata/RDFAboutAttributeConcordanceValidation.java,0,0.0,0,0,0.0,13,635.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/ReaderBottomPanel.java,0,0.0,0,0,0.0,4,116.4
+pdfbox,/main/java/org/apache/xmpbox/type/RealType.java,0,0.0,0,0,0.0,5,116.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/state/RenderingIntent.java,0,0.0,0,50min,50.0,9,232.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/state/RenderingMode.java,0,0.0,0,0,0.0,13,320.1
+pdfbox,/main/java/org/apache/xmpbox/type/RenditionClassType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/ResourceCache.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/xmpbox/type/ResourceEventType.java,0,0.0,0,15min,15.0,44,931.2
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/Restore.java,0,0.0,0,0,0.0,9,481.8
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/validation/RevokedCertificateException.java,0,0.0,0,0,0.0,4,211.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/tooltip/RGToolTip.java,0,0.0,0,0,0.0,5,365.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/RotationMenu.java,0,0.0,0,1h 25min,85.0,31,1034.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/RubberStampAnnotationValidator.java,0,0.0,0,0,0.0,8,577.2
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/state/Save.java,0,0.0,0,0,0.0,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/printing/Scaling.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/tooltip/SCNToolTip.java,2,0.0,0,10min,10.0,9,481.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/ui/textsearcher/SearchPanel.java,0,0.0,0,42min 30s,42.5,44,1143.0
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/SelectEvent.java,0,0.0,0,0,0.0,16,714.6
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/SelectionChangeListener.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/blend/SeparableBlendMode.java,0,0.0,0,0,0.0,7,423.6
+pdfbox,/main/java/org/apache/pdfbox/io/SequentialRead.java,0,0.0,0,0,0.0,5,145.5
+pdfbox,/main/java/org/apache/pdfbox/pdfparser/SequentialSource.java,0,0.0,0,0,0.0,7,29.1
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/SetCharSpacing.java,0,0.0,0,0,0.0,11,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetColor.java,0,0.0,0,10min,10.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/SetFontAndSize.java,0,0.0,0,20min,20.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetNonStrokingColor.java,0,0.0,0,7min 30s,7.5,7,423.6
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetNonStrokingColorN.java,0,0.0,0,7min 30s,7.5,5,365.4
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetNonStrokingColorSpace.java,0,0.0,0,0,0.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetNonStrokingDeviceCMYKColor.java,0,0.0,0,7min 30s,7.5,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetNonStrokingDeviceGrayColor.java,0,0.0,0,7min 30s,7.5,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetNonStrokingDeviceRGBColor.java,0,0.0,0,7min 30s,7.5,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetStrokingColor.java,0,0.0,0,7min 30s,7.5,7,423.6
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetStrokingColorN.java,0,0.0,0,7min 30s,7.5,5,365.4
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetStrokingColorSpace.java,0,0.0,0,10min,10.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetStrokingDeviceCMYKColor.java,0,0.0,0,7min 30s,7.5,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetStrokingDeviceGrayColor.java,0,0.0,0,7min 30s,7.5,11,510.9
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/color/SetStrokingDeviceRGBColor.java,0,0.0,0,7min 30s,7.5,6,394.5
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/SetTextLeading.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/ShadingContext.java,0,0.0,0,7min 30s,7.5,31,968.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/reflect/ShadingPatternValidationProcess.java,0,0.0,0,10min,10.0,17,656.4
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/ShowTextLine.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/text/ShowTextLineAndSpace.java,0,0.0,0,0,0.0,10,481.8
+pdfbox,/main/java/org/apache/pdfbox/debugger/flagbitspane/SigFlag.java,0,0.0,0,0,0.0,10,203.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/SignatureInterface.java,0,0.0,0,0,0.0,null,null
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/SignatureOptions.java,0,0.0,0,7min 30s,7.5,17,561.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/interactive/digitalsignature/SigningSupport.java,0,0.0,0,7min 30s,7.5,20,465.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/SimpleFontValidator.java,0,0.0,0,22min 30s,22.5,19,407.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/SquareCircleAnnotationValidator.java,0,0.0,3,20min,20.0,11,357.3
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/StandardDecryptionMaterial.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/StandardEncoding.java,0,0.0,2,17min 30s,17.5,11,481.8
+pdfbox,/main/java/org/apache/fontbox/encoding/StandardEncoding.java,0,0.0,2,17min 30s,17.5,4,365.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/encryption/StandardProtectionPolicy.java,2,0.0,0,0,0.0,5,145.5
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/StatusPane.java,0,0.0,0,7min 30s,7.5,15,349.2
+pdfbox,/main/java/org/apache/pdfbox/debugger/streampane/StreamPaneView.java,0,0.0,0,0,0.0,5,116.4
+pdfbox,/main/java/org/apache/pdfbox/debugger/stringpane/StringPane.java,0,0.0,0,0,0.0,26,611.1
+pdfbox,/main/java/org/apache/pdfbox/contentstream/operator/graphics/StrokePath.java,0,0.0,0,0,0.0,11,510.9
+pdfbox,/main/java/org/apache/xmpbox/type/StructuredType.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/SubmitAction.java,0,0.0,0,10min,10.0,7,423.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/Subsetter.java,0,0.0,0,0,0.0,1,29.1
+pdfbox,/main/java/org/apache/fontbox/ttf/SubstitutingCmapLookup.java,0,0.0,0,0,0.0,15,320.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/SymbolEncoding.java,0,0.0,0,7min 30s,7.5,12,510.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/exception/SyntaxValidationException.java,0,0.0,0,0,0.0,18,378.3
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/TextAnnotationValidator.java,0,0.0,0,0,0.0,12,664.5
+pdfbox,/main/java/org/apache/pdfbox/text/TextPositionComparator.java,0,0.0,0,40min,40.0,6,423.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/ThreadAction.java,0,0.0,0,20min,20.0,8,452.7
+pdfbox,/main/java/org/apache/xmpbox/type/ThumbnailType.java,0,0.0,0,55min,55.0,5,145.5
+pdfbox,/main/java/org/apache/xmpbox/schema/TiffSchema.java,0,0.0,0,15min,15.0,64,2053.2
+pdfbox,/main/java/org/apache/fontbox/type1/Token.java,0,0.0,0,20min,20.0,43,1450.2
+pdfbox,/main/java/org/apache/fontbox/afm/TrackKern.java,0,0.0,0,0,0.0,5,145.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/TrapNetAnnotationValidator.java,0,0.0,0,0,0.0,8,577.2
+pdfbox,/main/java/org/apache/pdfbox/debugger/treestatus/TreeStatusPane.java,0,0.0,0,0,0.0,22,552.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/container/TrueTypeContainer.java,0,0.0,0,10min,10.0,15,722.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/descriptor/TrueTypeDescriptorHelper.java,0,0.0,0,20min,20.0,21,685.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/TrueTypeFontValidator.java,0,0.0,0,0,0.0,15,847.2
+pdfbox,/main/java/org/apache/pdfbox/examples/signature/TSAClient.java,1,0.0,0,1h 42min,102.0,20,523.8
+pdfbox,/main/java/org/apache/fontbox/ttf/TTCDataStream.java,0,0.0,0,0,0.0,64,2575.5
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/container/Type0Container.java,0,0.0,0,0,0.0,27,1013.7
+pdfbox,/main/java/org/apache/fontbox/type1/Type1CharStringReader.java,0,0.0,0,0,0.0,1,29.1
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/container/Type1Container.java,0,0.0,0,10min,10.0,17,780.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/descriptor/Type1DescriptorHelper.java,0,0.0,0,40min,40.0,28,1233.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/Type1Encoding.java,1,0.0,0,0,0.0,13,540.0
+pdfbox,/main/java/org/apache/fontbox/cff/Type1FontUtil.java,0,0.0,0,0,0.0,20,1490.7
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/Type1FontValidator.java,0,0.0,0,10min,10.0,17,847.2
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type1ShadingPaint.java,0,0.0,3,30min,30.0,11,261.9
+pdfbox,/main/java/org/apache/pdfbox/preflight/font/container/Type3Container.java,0,0.0,0,0,0.0,13,693.6
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type4ShadingPaint.java,0,0.0,3,30min,30.0,12,415.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type5ShadingPaint.java,0,0.0,3,30min,30.0,12,415.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type6ShadingContext.java,0,0.0,0,7min 30s,7.5,6,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type6ShadingPaint.java,0,0.0,3,30min,30.0,11,386.4
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type7ShadingContext.java,0,0.0,0,7min 30s,7.5,6,394.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Type7ShadingPaint.java,0,0.0,3,30min,30.0,11,386.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/UndefAction.java,0,0.0,0,0,0.0,7,145.5
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/UniUtil.java,0,0.0,4,1h 20min,80.0,8,577.2
+pdfbox,/main/java/org/apache/fontbox/util/autodetect/UnixFontDirFinder.java,0,0.0,0,0,0.0,3,336.3
+pdfbox,/main/java/org/apache/pdfbox/cos/UnmodifiableCOSDictionary.java,0,0.0,0,15min,15.0,19,489.9
+pdfbox,/main/java/org/apache/pdfbox/examples/interactive/form/UpdateFieldOnDocumentOpen.java,0,0.0,0,0,0.0,12,540.0
+pdfbox,/main/java/org/apache/pdfbox/debugger/hexviewer/UpperPane.java,0,0.0,0,0,0.0,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/action/UriAction.java,0,0.0,0,20min,20.0,8,452.7
+pdfbox,/main/java/org/apache/xmpbox/type/URIType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/xmpbox/type/URLType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/util/Version.java,0,0.0,0,30min,30.0,8,481.8
+pdfbox,/main/java/org/apache/xmpbox/type/VersionType.java,0,0.0,0,15min,15.0,37,785.7
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/graphics/shading/Vertex.java,2,0.0,0,7min 30s,7.5,12,540.0
+pdfbox,/main/java/org/apache/fontbox/ttf/VerticalHeaderTable.java,0,0.0,0,22min 30s,22.5,41,1413.0
+pdfbox,/main/java/org/apache/fontbox/ttf/VerticalMetricsTable.java,0,0.0,0,47min 30s,47.5,15,407.4
+pdfbox,/main/java/org/apache/pdfbox/preflight/annotation/WidgetAnnotationValidator.java,0,0.0,0,10min,10.0,8,299.1
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/WinAnsiEncoding.java,0,0.0,0,7min 30s,7.5,11,481.8
+pdfbox,/main/java/org/apache/xmpbox/schema/XMPageTextSchema.java,0,0.0,0,15min,15.0,15,502.8
+pdfbox,/main/java/org/apache/xmpbox/XmpConstants.java,0,0.0,0,7min 30s,7.5,5,270.0
+pdfbox,/main/java/org/apache/xmpbox/schema/XMPMediaManagementSchema.java,0,0.0,0,30min,30.0,35,1333.8
+pdfbox,/main/java/org/apache/xmpbox/schema/XMPRightsManagementSchema.java,0,0.0,0,15min,15.0,13,349.2
+pdfbox,/main/java/org/apache/xmpbox/schema/XmpSchemaException.java,0,0.0,0,0,0.0,2,182.7
+pdfbox,/main/java/org/apache/xmpbox/schema/XMPSchemaFactory.java,0,0.0,0,10min,10.0,12,415.5
+pdfbox,/main/java/org/apache/xmpbox/xml/XmpSerializationException.java,0,0.0,0,0,0.0,1,153.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/xobject/XObjectValidator.java,0,0.0,0,0,0.0,2,58.2
+pdfbox,/main/java/org/apache/pdfbox/preflight/xobject/XObjImageValidator.java,0,0.0,0,27min 30s,27.5,38,1122.0
+pdfbox,/main/java/org/apache/pdfbox/preflight/xobject/XObjPostscriptValidator.java,0,0.0,0,0,0.0,8,452.7
+pdfbox,/main/java/org/apache/xmpbox/type/XPathType.java,0,0.0,0,7min 30s,7.5,8,423.6
+pdfbox,/main/java/org/apache/pdfbox/preflight/process/XRefValidationProcess.java,0,0.0,0,0,0.0,14,540.0
+pdfbox,/main/java/org/apache/pdfbox/pdmodel/font/encoding/ZapfDingbatsEncoding.java,0,0.0,0,7min 30s,7.5,12,510.9

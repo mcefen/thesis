@@ -1,0 +1,142 @@
+metrics,/main/java/com/codahale/metrics/collectd/PacketWriter.java,7,125.0,0,37min 30s,37.5,111,3855.9
+metrics,/main/java/com/codahale/metrics/jetty9/InstrumentedHttpChannelListener.java,15,120.0,14,4h 42min,282.0,118,3532.5
+metrics,/main/java/com/codahale/metrics/httpclient/InstrumentedHttpClientConnectionManager.java,10,90.0,0,37min 30s,37.5,112,2415.3
+metrics,/main/java/com/codahale/metrics/ConsoleReporter.java,4,68.0,0,1h 25min,85.0,89,2675.7
+metrics,/main/java/com/codahale/metrics/jetty9/InstrumentedHandler.java,4,62.0,14,4h 50min,290.0,81,2958.6
+metrics,/main/java/com/codahale/metrics/graphite/GraphiteReporter.java,2,60.0,0,2h 57min,177.0,116,3336.9
+metrics,/main/java/com/codahale/metrics/ScheduledReporter.java,4,52.0,0,57min 30s,57.5,82,2704.8
+metrics,/main/java/com/codahale/metrics/Slf4jReporter.java,3,52.0,2,1h 20min,80.0,220,7013.4
+metrics,/main/java/com/codahale/metrics/servlets/CpuProfileServlet.java,3,41.0,0,17min 30s,17.5,25,1109.1
+metrics,/main/java/com/codahale/metrics/collectd/CollectdReporter.java,3,40.0,0,57min 30s,57.5,190,4982.7
+metrics,/main/java/com/codahale/metrics/jmx/DefaultObjectNameFactory.java,2,40.0,0,27min 30s,27.5,10,540.0
+metrics,/main/java/com/codahale/metrics/httpasyncclient/InstrumentedNClientConnManager.java,5,40.0,0,15min,15.0,14,598.2
+metrics,/main/java/com/codahale/metrics/ehcache/InstrumentedEhcache.java,8,37.0,0,45min,45.0,84,1542.3
+metrics,/main/java/com/codahale/metrics/CsvReporter.java,2,30.0,0,45min,45.0,104,3149.4
+metrics,/main/java/com/codahale/metrics/graphite/GraphiteSanitize.java,1,30.0,0,0,0.0,10,540.0
+metrics,/main/java/com/codahale/metrics/httpclient/HttpClientMetricNameStrategies.java,1,30.0,0,18min 30s,18.5,20,531.9
+metrics,/main/java/com/codahale/metrics/InstrumentedExecutorService.java,1,30.0,0,17min 30s,17.5,72,2318.4
+metrics,/main/java/com/codahale/metrics/InstrumentedScheduledExecutorService.java,1,30.0,0,25min,25.0,74,2135.7
+metrics,/main/java/com/codahale/metrics/jdbi3/InstrumentedTimingCollector.java,2,30.0,0,0,0.0,16,349.2
+metrics,/main/java/com/codahale/metrics/graphite/PickledGraphite.java,12,30.0,0,15min,15.0,75,2426.7
+metrics,/main/java/com/codahale/metrics/graphite/GraphiteRabbitMQ.java,2,25.0,0,7min 30s,7.5,48,1164.0
+metrics,/main/java/com/codahale/metrics/health/HealthCheck.java,2,25.0,0,27min 30s,27.5,92,2289.3
+metrics,/main/java/com/codahale/metrics/httpasyncclient/InstrumentedNHttpClientBuilder.java,2,25.0,0,7min 30s,7.5,54,1105.8
+metrics,/main/java/com/codahale/metrics/MetricRegistry.java,4,25.0,0,1h 20min,80.0,80,3020.1
+metrics,/main/java/com/codahale/metrics/jvm/FileDescriptorRatioGauge.java,1,20.0,0,27min 30s,27.5,6,116.4
+metrics,/main/java/com/codahale/metrics/jdbi/InstrumentedTimingCollector.java,1,20.0,0,0,0.0,21,436.5
+metrics,/main/java/com/codahale/metrics/jcache/JCacheGaugeSet.java,1,20.0,0,10min,10.0,22,743.7
+metrics,/main/java/com/codahale/metrics/UniformSnapshot.java,1,20.0,0,1h 10min,70.0,14,548.1
+metrics,/main/java/com/codahale/metrics/WeightedSnapshot.java,1,20.0,0,1h 18min,78.0,28,1088.1
+metrics,/main/java/com/codahale/metrics/jvm/ThreadDump.java,1,16.0,0,25min,25.0,10,481.8
+metrics,/main/java/com/codahale/metrics/jersey2/InstrumentedResourceMethodApplicationListener.java,3,15.0,0,1h 57min,117.0,223,6112.8
+metrics,/main/java/com/codahale/metrics/EWMA.java,2,12.0,0,0,0.0,19,772.8
+metrics,/main/java/com/codahale/metrics/Clock.java,1,10.0,0,7min 30s,7.5,19,847.2
+metrics,/main/java/com/codahale/metrics/graphite/Graphite.java,2,10.0,0,7min 30s,7.5,49,1317.6
+metrics,/main/java/com/codahale/metrics/health/HealthCheckFilter.java,1,10.0,0,0,0.0,2,29.1
+metrics,/main/java/com/codahale/metrics/jetty9/InstrumentedQueuedThreadPool.java,2,10.0,0,15min,15.0,37,756.6
+metrics,/main/java/com/codahale/metrics/jmx/JmxReporter.java,2,10.0,0,1h 15min,75.0,391,8891.7
+metrics,/main/java/com/codahale/metrics/MetricFilter.java,1,10.0,0,0,0.0,21,378.3
+metrics,/main/java/com/codahale/metrics/json/MetricsModule.java,1,10.0,0,22min 30s,22.5,133,3802.5
+metrics,/main/java/com/codahale/metrics/Snapshot.java,1,10.0,0,0,0.0,16,336.3
+metrics,/main/java/com/codahale/metrics/health/HealthCheckRegistry.java,2,7.0,0,8min 30s,8.5,54,2006.4
+metrics,/main/java/com/codahale/metrics/servlet/AbstractInstrumentedFilter.java,1,5.0,0,22min 30s,22.5,105,2817.9
+metrics,/main/java/com/codahale/metrics/graphite/GraphiteSender.java,1,5.0,0,0,0.0,4,87.3
+metrics,/main/java/com/codahale/metrics/graphite/GraphiteUDP.java,1,5.0,0,0,0.0,42,1105.8
+metrics,/main/java/com/codahale/metrics/jdbi/strategies/ShortNameStrategy.java,1,5.0,0,1h 10min,70.0,31,1723.5
+metrics,/main/java/com/codahale/metrics/SlidingTimeWindowArrayReservoir.java,1,5.0,0,10min,10.0,32,1130.1
+metrics,/main/java/com/codahale/metrics/benchmarks/SlidingTimeWindowReservoirsBenchmark.java,2,4.0,0,0,0.0,25,677.4
+metrics,/main/java/com/codahale/metrics/servlets/HealthCheckServlet.java,1,2.0,0,37min 30s,37.5,63,2480.1
+metrics,/main/java/com/codahale/metrics/log4j2/InstrumentedAppender.java,1,2.0,3,25min,25.0,32,727.5
+metrics,/main/java/com/codahale/metrics/servlets/MetricsServlet.java,1,2.0,0,37min 30s,37.5,61,2355.6
+metrics,/main/java/com/codahale/metrics/health/SharedHealthCheckRegistries.java,1,2.0,0,50min,50.0,25,677.4
+metrics,/main/java/com/codahale/metrics/SharedMetricRegistries.java,1,2.0,0,50min,50.0,26,677.4
+metrics,/main/java/com/codahale/metrics/SlidingTimeWindowMovingAverages.java,2,2.0,0,10min,10.0,53,1558.5
+metrics,/main/java/com/codahale/metrics/jvm/ThreadStatesGaugeSet.java,1,2.0,0,0,0.0,22,531.9
+metrics,/main/java/com/codahale/metrics/servlets/AdminServlet.java,0,0.0,0,30min,30.0,72,3319.2
+metrics,/main/java/com/codahale/metrics/health/annotation/Async.java,0,0.0,0,0,0.0,3,87.3
+metrics,/main/java/com/codahale/metrics/health/AsyncHealthCheckDecorator.java,0,0.0,0,25min,25.0,38,1217.4
+metrics,/main/java/com/codahale/metrics/jdbi3/strategies/BasicSqlNameStrategy.java,0,0.0,0,0,0.0,5,365.4
+metrics,/main/java/com/codahale/metrics/jdbi/strategies/BasicSqlNameStrategy.java,0,0.0,0,0,0.0,9,452.7
+metrics,/main/java/com/codahale/metrics/jvm/BufferPoolMetricSet.java,0,0.0,0,0,0.0,15,349.2
+metrics,/main/java/com/codahale/metrics/annotation/CachedGauge.java,0,0.0,0,0,0.0,2,58.2
+metrics,/main/java/com/codahale/metrics/CachedGauge.java,0,0.0,0,20min,20.0,14,349.2
+metrics,/main/java/com/codahale/metrics/jvm/CachedThreadStatesGaugeSet.java,0,0.0,0,7min 30s,7.5,7,174.6
+metrics,/main/java/com/codahale/metrics/ChunkedAssociativeLongArray.java,0,0.0,0,57min 30s,57.5,79,1754.1
+metrics,/main/java/com/codahale/metrics/jvm/ClassLoadingGaugeSet.java,0,0.0,0,0,0.0,11,232.8
+metrics,/main/java/com/codahale/metrics/jdbi/strategies/ContextNameStrategy.java,0,0.0,0,0,0.0,7,423.6
+metrics,/main/java/com/codahale/metrics/annotation/Counted.java,0,0.0,0,0,0.0,2,58.2
+metrics,/main/java/com/codahale/metrics/Counter.java,0,0.0,0,7min 30s,7.5,7,87.3
+metrics,/main/java/com/codahale/metrics/benchmarks/CounterBenchmark.java,0,0.0,3,10min,10.0,15,751.8
+metrics,/main/java/com/codahale/metrics/Counting.java,0,0.0,0,0,0.0,1,29.1
+metrics,/main/java/com/codahale/metrics/jvm/CpuTimeClock.java,0,0.0,0,0,0.0,8,423.6
+metrics,/main/java/com/codahale/metrics/CsvFileProvider.java,0,0.0,0,0,0.0,5,116.4
+metrics,/main/java/com/codahale/metrics/jdbi3/strategies/DefaultNameStrategy.java,0,0.0,0,10min,10.0,42,1869.0
+metrics,/main/java/com/codahale/metrics/jdbi3/strategies/DelegatingStatementNameStrategy.java,0,0.0,3,27min 30s,27.5,15,598.2
+metrics,/main/java/com/codahale/metrics/jdbi/strategies/DelegatingStatementNameStrategy.java,0,0.0,3,27min 30s,27.5,17,473.7
+metrics,/main/java/com/codahale/metrics/DerivativeGauge.java,0,0.0,0,0,0.0,8,299.1
+metrics,/main/java/com/codahale/metrics/annotation/ExceptionMetered.java,0,0.0,0,0,0.0,1,29.1
+metrics,/main/java/com/codahale/metrics/ExponentiallyDecayingReservoir.java,0,0.0,1,35min,35.0,57,1691.1
+metrics,/main/java/com/codahale/metrics/ExponentialMovingAverages.java,0,0.0,0,0,0.0,22,582.0
+metrics,/main/java/com/codahale/metrics/FixedNameCsvFileProvider.java,0,0.0,0,0,0.0,12,540.0
+metrics,/main/java/com/codahale/metrics/jvm/GarbageCollectorMetricSet.java,0,0.0,0,0,0.0,8,203.7
+metrics,/main/java/com/codahale/metrics/annotation/Gauge.java,0,0.0,0,0,0.0,2,58.2
+metrics,/main/java/com/codahale/metrics/Gauge.java,0,0.0,0,0,0.0,2,29.1
+metrics,/main/java/com/codahale/metrics/json/HealthCheckModule.java,0,0.0,0,0,0.0,41,1341.9
+metrics,/main/java/com/codahale/metrics/health/HealthCheckRegistryListener.java,0,0.0,0,0,0.0,1,29.1
+metrics,/main/java/com/codahale/metrics/Histogram.java,0,0.0,0,7min 30s,7.5,8,145.5
+metrics,/main/java/com/codahale/metrics/httpclient/HttpClientMetricNameStrategy.java,0,0.0,0,0,0.0,9,232.8
+metrics,/main/java/com/codahale/metrics/logback/InstrumentedAppender.java,0,0.0,3,25min,25.0,24,611.1
+metrics,/main/java/com/codahale/metrics/ehcache/InstrumentedCacheDecoratorFactory.java,0,0.0,0,0,0.0,18,685.5
+metrics,/main/java/com/codahale/metrics/jetty9/InstrumentedConnectionFactory.java,0,0.0,0,7min 30s,7.5,26,552.9
+metrics,/main/java/com/codahale/metrics/servlet/InstrumentedFilter.java,0,0.0,0,7min 30s,7.5,14,349.2
+metrics,/main/java/com/codahale/metrics/servlet/InstrumentedFilterContextListener.java,0,0.0,0,0,0.0,9,452.7
+metrics,/main/java/com/codahale/metrics/httpclient/InstrumentedHttpClients.java,0,0.0,0,0,0.0,25,801.9
+metrics,/main/java/com/codahale/metrics/httpclient/InstrumentedHttpRequestExecutor.java,0,0.0,0,10min,10.0,37,814.8
+metrics,/main/java/com/codahale/metrics/jdbi3/InstrumentedSqlLogger.java,0,0.0,0,0,0.0,21,465.6
+metrics,/main/java/com/codahale/metrics/InstrumentedThreadFactory.java,0,0.0,0,0,0.0,20,561.0
+metrics,/main/java/com/codahale/metrics/jvm/JmxAttributeGauge.java,0,0.0,0,30min,30.0,12,291.0
+metrics,/main/java/com/codahale/metrics/jvm/JvmAttributeGaugeSet.java,0,0.0,0,0,0.0,7,145.5
+metrics,/main/java/com/codahale/metrics/jvm/MemoryUsageGaugeSet.java,0,0.0,0,15min,15.0,null,null
+metrics,/main/java/com/codahale/metrics/collectd/MetaData.java,0,0.0,0,7min 30s,7.5,72,1687.8
+metrics,/main/java/com/codahale/metrics/Meter.java,0,0.0,0,20min,20.0,29,494.7
+metrics,/main/java/com/codahale/metrics/benchmarks/MeterBenchmark.java,0,0.0,3,10min,10.0,15,751.8
+metrics,/main/java/com/codahale/metrics/annotation/Metered.java,0,0.0,1,0,0.0,1,29.1
+metrics,/main/java/com/codahale/metrics/Metered.java,0,0.0,0,0,0.0,1,29.1
+metrics,/main/java/com/codahale/metrics/annotation/Metric.java,0,0.0,0,0,0.0,2,58.2
+metrics,/main/java/com/codahale/metrics/Metric.java,0,0.0,0,0,0.0,1,29.1
+metrics,/main/java/com/codahale/metrics/MetricAttribute.java,0,0.0,0,0,0.0,8,174.6
+metrics,/main/java/com/codahale/metrics/MetricRegistryListener.java,0,0.0,0,0,0.0,34,947.4
+metrics,/main/java/com/codahale/metrics/MetricSet.java,0,0.0,0,0,0.0,2,29.1
+metrics,/main/java/com/codahale/metrics/jersey2/MetricsFeature.java,0,0.0,0,0,0.0,19,407.4
+metrics,/main/java/com/codahale/metrics/MovingAverages.java,0,0.0,0,0,0.0,3,58.2
+metrics,/main/java/com/codahale/metrics/jdbi3/strategies/NaiveNameStrategy.java,0,0.0,0,0,0.0,5,365.4
+metrics,/main/java/com/codahale/metrics/jdbi/strategies/NaiveNameStrategy.java,0,0.0,0,0,0.0,7,423.6
+metrics,/main/java/com/codahale/metrics/jdbi/strategies/NameStrategies.java,0,0.0,0,1h 47min,107.0,80,3393.6
+metrics,/main/java/com/codahale/metrics/jmx/ObjectNameFactory.java,0,0.0,0,0,0.0,5,145.5
+metrics,/main/java/com/codahale/metrics/servlets/PingServlet.java,0,0.0,0,0,0.0,12,569.1
+metrics,/main/java/com/codahale/metrics/RatioGauge.java,0,0.0,0,10min,10.0,25,963.6
+metrics,/main/java/com/codahale/metrics/Reporter.java,0,0.0,0,0,0.0,2,58.2
+metrics,/main/java/com/codahale/metrics/Reservoir.java,0,0.0,0,0,0.0,3,29.1
+metrics,/main/java/com/codahale/metrics/benchmarks/ReservoirBenchmark.java,0,0.0,0,0,0.0,36,939.3
+metrics,/main/java/com/codahale/metrics/annotation/ResponseMetered.java,0,0.0,1,0,0.0,1,29.1
+metrics,/main/java/com/codahale/metrics/Sampling.java,0,0.0,0,0,0.0,1,29.1
+metrics,/main/java/com/codahale/metrics/collectd/Sanitize.java,0,0.0,0,0,0.0,25,860.1
+metrics,/main/java/com/codahale/metrics/collectd/SecurityConfiguration.java,0,0.0,0,0,0.0,19,465.6
+metrics,/main/java/com/codahale/metrics/collectd/SecurityLevel.java,0,0.0,0,0,0.0,3,58.2
+metrics,/main/java/com/codahale/metrics/collectd/Sender.java,0,0.0,0,10min,10.0,29,669.3
+metrics,/main/java/com/codahale/metrics/SlidingTimeWindowArrayReservoirTrimReadTest.java,0,0.0,0,0,0.0,17,320.1
+metrics,/main/java/com/codahale/metrics/SlidingTimeWindowArrayReservoirWriteReadAllocate.java,0,0.0,0,0,0.0,19,407.4
+metrics,/main/java/com/codahale/metrics/SlidingTimeWindowArrayReservoirWriteReadTest.java,0,0.0,0,0,0.0,19,407.4
+metrics,/main/java/com/codahale/metrics/SlidingTimeWindowReservoir.java,0,0.0,0,10min,10.0,29,918.3
+metrics,/main/java/com/codahale/metrics/SlidingWindowReservoir.java,0,0.0,0,0,0.0,15,598.2
+metrics,/main/java/com/codahale/metrics/jdbi3/strategies/SmartNameStrategy.java,0,0.0,0,0,0.0,5,365.4
+metrics,/main/java/com/codahale/metrics/jdbi/strategies/SmartNameStrategy.java,0,0.0,0,0,0.0,6,365.4
+metrics,/main/java/com/codahale/metrics/jdbi3/strategies/StatementNameStrategy.java,0,0.0,0,0,0.0,5,116.4
+metrics,/main/java/com/codahale/metrics/jdbi/strategies/StatementNameStrategy.java,0,0.0,0,0,0.0,5,116.4
+metrics,/main/java/com/codahale/metrics/jvm/ThreadDeadlockDetector.java,0,0.0,0,10min,10.0,7,299.1
+metrics,/main/java/com/codahale/metrics/health/jvm/ThreadDeadlockHealthCheck.java,0,0.0,0,10min,10.0,9,203.7
+metrics,/main/java/com/codahale/metrics/servlets/ThreadDumpServlet.java,0,0.0,0,10min,10.0,22,1080.0
+metrics,/main/java/com/codahale/metrics/annotation/Timed.java,0,0.0,1,0,0.0,1,29.1
+metrics,/main/java/com/codahale/metrics/jdbi3/strategies/TimedAnnotationNameStrategy.java,0,0.0,0,57min 30s,57.5,7,423.6
+metrics,/main/java/com/codahale/metrics/Timer.java,0,0.0,0,27min 30s,27.5,52,1055.7
+metrics,/main/java/com/codahale/metrics/UniformReservoir.java,0,0.0,0,10min,10.0,17,780.9

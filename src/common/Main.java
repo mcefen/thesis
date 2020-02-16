@@ -31,25 +31,29 @@ public class Main {
 
 	public static void main(String argv[]) throws Exception {
 
-		String[] projects = {"mina", "deltaspike", "opennlp", "maven", "wss4j", "pdfbox", "fop", "cayenne", "jclouds", "openjpa", 
-				"quartz", "ksql", "zuul", "zipkin", "xxl-job", "vassonic", "tink", "testng", 
-				"stetho", "spark", "sentinel", "seata", "redisson", "presto", "openrefine", 
-				"neo4j", "nacos", "mockito", "metrics", "logger", "libgdx", "junit", "joda-time", 
-				"jenkins", "javacv", "java-jwt", "gson", "grpc-java", "fresco", "filedownloader", 
-				"exoplayer", "eureka", "easypermissions", "disruptor", "caffeine", "azkaban", 
-				"arthas", "arduino", "antlr4", "elasticsearch", };
+//		String[] projects = {"mina", "deltaspike", "opennlp", "maven", "wss4j", "pdfbox", 
+//		"fop", "cayenne", "jclouds", 
+//		"quartz", "ksql", "zuul", "zipkin", "xxl-job", "vassonic", "tink", "testng", 
+//		"stetho", "spark", "sentinel", "seata", "redisson", "openrefine", 
+//		"nacos", "mockito", "metrics", "logger", "libgdx", "junit", "joda-time", 
+//		"jenkins", "javacv", "java-jwt", "gson", "grpc-java", "fresco", "filedownloader", 
+//		"exoplayer", "eureka", "easypermissions", "disruptor", "caffeine", "azkaban", 
+//		"arthas", "arduino", "antlr4", "zaproxy", "jedis", "mybatis", "cas" };
 
+		String[] projects = {"cas"};
+
+		
 		//Read from XML of sonar and write only issues
-		//XmlReader reader = new XmlReader();
+		XmlReader reader = new XmlReader();
 		//CsvReader csvReader = new CsvReader();
-		//CastEntriesProcessor castEntriesProcessor = new CastEntriesProcessor();
+		CastEntriesProcessor castEntriesProcessor = new CastEntriesProcessor();
 
 		// Read cast files with with technical debt in minutes
 		// And create xmls
-		// castEntriesProcessor.readCastsAndWriteXML(projects);
+		//castEntriesProcessor.readCastsAndWriteXML(projects);
 
 		//Just read cast files for comparison
-		//castObjectsMapWithTDinMinutes = castEntriesProcessor.readCastsAndFilterWithSonar(projects);
+		castObjectsMapWithTDinMinutes = castEntriesProcessor.readCastsAndFilterWithSonar(projects);
 
 		//castObjectsMapWithTDinMinutes = castEntriesProcessor.filterCastEntriesWithSonar(projects, castObjectsMapWithTDinMinutes);
 
@@ -80,7 +84,7 @@ public class Main {
 
 //** Uncomment
 		for(int i=0;i<projects.length;i++){
-	/*		int perCent = 100;
+			int perCent = 100;
 
 			//Lists only with issues
 			List<SonarEntryWithIssues> sonars = reader.getSonarXmlSortedList(projects[i],"Metrics");
@@ -90,7 +94,7 @@ public class Main {
 			TotalEntriesProcessor totalEntriesProcessor = new TotalEntriesProcessor();
 			totalEntriesProcessor.writeAllEntriesToXML(sonars, squores, cast, projects[i]);
 
-			System.out.println("For project "+projects[i]);
+			/*System.out.println("For project "+projects[i]);
 
 			int sonarTenPerCent = (sonars.size()*perCent) / 100 ;
 			System.out.println("Sonar per cent: " + sonarTenPerCent);
@@ -142,13 +146,33 @@ public class Main {
 			//	casts.put(entry.getKey(), castEntriesSorted);
 			//}
 */
+			
+			/********************************/
+			/****** Write Sonar To XML ******/
+			//System.out.println("Sonar - " + projects[i]);
 			SonarEntriesProcessor sonarEntriesProcessor = new SonarEntriesProcessor();
-
+			
 			//Read from sonar and format a single entry to write in xml
-				MainPageEntry mainPageEntry = sonarEntriesProcessor.getMainEntry(projects[i]);
+			//MainPageEntry mainPageEntry = sonarEntriesProcessor.getMainEntry(projects[i]);
 
 			//Read from sonar api with metrics and write to xml file in one method
 			sonarEntriesProcessor.readFromAPIAndWriteToXML(projects[i]);
+
+			/********************************/
+			
+			/********************************/
+			/***** Write Squore To XML ******/
+			//System.out.println("Squore - " + projects[i]);
+			//CsvReader csvReader = new CsvReader();
+			//squoreProjectsMap = csvReader.readFromCsv(projects);	
+			
+			//Read from csv squore files
+			//SquoreEntriesProcessor squoreEntriesProcessor = new SquoreEntriesProcessor();
+			//List<SquoreEntry> squoreEntriesToWrite = squoreEntriesProcessor.compareSonarWithSquoreProjects(squoreProjectsMap.get(projects[i]), Arrays.asList(mainPageEntry.getComponents()));
+			
+			//XmlWriter xmlWriter = new XmlWriter();
+			//xmlWriter.writeSquoresToXML(projects[i], squoreEntriesToWrite);
+			/********************************/
 
 			//Read from csv squore files
 			//SquoreEntriesProcessor squoreEntriesProcessor = new SquoreEntriesProcessor();
@@ -163,6 +187,15 @@ public class Main {
 
 			//}	
 		}	
+		
+		//Read from XML of sonar and write only issues
+		//XmlReader reader = new XmlReader();
+		//CsvReader csvReader = new CsvReader();
+		//CastEntriesProcessor castEntriesProcessor = new CastEntriesProcessor();
+
+		// Read cast files with with technical debt in minutes
+		// And create xmls
+		//castEntriesProcessor.readCastsAndWriteXML(projects);
 
 	}
 }

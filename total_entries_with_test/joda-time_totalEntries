@@ -1,0 +1,660 @@
+joda-time,rc/example/org/joda/example/time/DateTimePerformance.java,203,1556.0,null,null,null,null,null
+joda-time,rc/example/org/joda/example/time/DateTimeBrowser.java,94,1146.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestPeriod_Constructors.java,23,1017.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestISODateTimeFormat_Fields.java,33,939.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutablePeriod_Constructors.java,11,741.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/MainTest.java,68,725.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestDateTimeFormatter.java,82,703.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateTimeZone.java,94,651.0,null,null,null,null,null
+joda-time,rc/example/org/joda/example/time/Examples.java,65,645.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateTime_Properties.java,56,626.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateTimeZoneCutover.java,64,596.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestPeriod_Basics.java,100,583.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestConverterManager.java,44,573.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestPreciseDurationDateTimeField.java,34,561.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/PeriodFormatterBuilder.java,53,555.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestLocalDateTime_Properties.java,37,533.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestPeriodFormatterBuilder.java,50,525.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestDateTimeFormat.java,36,522.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestPreciseDateTimeField.java,33,516.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DateTimeFieldType.java,45,504.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestBaseDateTimeField.java,34,486.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestISODateTimeFormatParsing.java,28,470.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/tz/TestBuilder.java,4,467.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutablePeriod_Updates.java,38,466.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/DateTimeFormatterBuilder.java,39,455.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestLocalDate_Basics.java,47,415.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestLocalTime_Properties.java,29,411.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestDateTimeFormatterBuilder.java,41,407.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateTime_Basics.java,31,384.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestTimeOfDay_Properties.java,29,381.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/ZoneInfoCompiler.java,39,366.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestIslamicChronology.java,10,361.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestYearMonthDay_Basics.java,32,355.0,null,null,null,null,null
+joda-time,rc/example/org/joda/example/time/AgeCalculator.java,15,354.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestLocalDateTime_Basics.java,34,349.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutableDateTime_Basics.java,24,326.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutablePeriod_Basics.java,46,326.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutableDateTime_Sets.java,29,324.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestTimeOfDay_Basics.java,45,321.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestOffsetDateTimeField.java,25,320.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestSerialization.java,45,311.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutableDateTime_Properties.java,15,304.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestLocalDate_Properties.java,23,301.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateTimeComparator.java,33,300.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/AssembledChronology.java,79,291.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestYearMonthDay_Properties.java,23,291.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMonthDay_Basics.java,35,280.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestStringConverter.java,29,275.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateTime_Constructors.java,36,266.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutableDateTime_Constructors.java,36,266.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestYearMonth_Basics.java,34,265.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateMidnight_Properties.java,14,264.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DurationFieldType.java,23,262.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DateTimeZone.java,25,261.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateMidnight_Basics.java,31,251.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateMidnight_Constructors.java,42,248.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestIllegalFieldValueException.java,35,246.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestTimeOfDay_Constructors.java,48,246.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutableDateTime_Adds.java,12,245.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/LocalDate.java,22,241.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDuration_Basics.java,12,233.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestInterval_Basics.java,21,231.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/LocalDateTime.java,15,230.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/DateTimeZoneBuilder.java,42,227.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestLocalTime_Constructors.java,43,227.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestLocalTime_Basics.java,30,226.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/GJChronology.java,27,223.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/ISODateTimeFormat.java,68,223.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/ClassLoadTest.java,19,215.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutableInterval_Updates.java,22,206.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestInstant_Basics.java,14,201.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestLocalDate_Constructors.java,30,193.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestPeriodType.java,37,191.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicGJChronology.java,23,189.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestPartial_Basics.java,34,186.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/LimitChronology.java,13,185.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestLocalDateTime_Constructors.java,30,183.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDuration_Constructors.java,19,181.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestPartial_Properties.java,36,174.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestISODateTimeFormat.java,17,173.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/DefaultNameProvider.java,13,168.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/LocalTime.java,16,166.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Partial.java,8,165.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestYearMonth_Properties.java,19,161.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutableInterval_Constructors.java,14,156.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestFieldUtils.java,31,155.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestGJChronology.java,13,151.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestYearMonthDay_Constructors.java,21,151.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMinMaxLong.java,6,144.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMutableInterval_Basics.java,9,141.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/MutablePeriod.java,10,138.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMonthDay_Properties.java,18,136.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestISOPeriodFormatParsing.java,15,132.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestPeriodFormatParsing.java,11,132.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestCopticChronology.java,11,131.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestEthiopicChronology.java,11,131.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestPeriodFormatter.java,18,129.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/DateTimeFormatter.java,7,125.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestISOPeriodFormat.java,11,124.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/FormatUtils.java,10,123.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/MutableDateTime.java,7,122.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestDateTimeFormatStyle.java,13,122.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestChronology.java,7,121.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateTimeUtils.java,19,118.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/DateTimeFormat.java,13,116.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DateTime.java,7,115.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestScaledDurationField.java,16,115.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestCalendarConverter.java,9,110.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestBuddhistChronology.java,6,109.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestLongConverter.java,14,109.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/PeriodFormat.java,6,107.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/BaseDateTimeField.java,10,106.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestReadablePartialConverter.java,11,106.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestInterval_Constructors.java,16,102.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestPreciseDurationField.java,14,100.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestReadableIntervalConverter.java,11,94.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestReadablePeriodConverter.java,11,94.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestISOChronology.java,8,92.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMonthDay_Constructors.java,15,91.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestYearMonth_Constructors.java,15,91.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestReadableDurationConverter.java,10,89.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/DateTimeParserBucket.java,9,87.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestDateConverter.java,7,86.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestPartial_Match.java,19,86.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/DateTimePrinterInternalPrinter.java,4,80.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/ConverterManager.java,16,77.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/ThreadContention.java,18,76.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/BasePeriod.java,5,75.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/tz/TestCompiler.java,8,75.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestPartial_Constructors.java,7,75.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/PeriodType.java,21,73.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestGregorianChronology.java,5,72.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestJulianChronology.java,5,72.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestAbstractPartial.java,16,71.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestNullConverter.java,7,71.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/YearMonth.java,6,70.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestReadableInstantConverter.java,6,69.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestPeriodFormat.java,7,68.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/IslamicChronology.java,9,66.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/MonthDay.java,6,61.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/MockUnknownCalendar.java,7,60.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Period.java,3,60.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateTimeFieldType.java,6,60.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDurationFieldType.java,6,60.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/JulianChronology.java,3,56.0,null,null,null,null,null
+joda-time,rc/example/org/joda/example/time/TimeZoneTable.java,8,56.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/ConverterSet.java,7,53.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestLenientChronology.java,7,52.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/CopticChronology.java,2,51.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestInstant_Constructors.java,9,51.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestMillisDurationField.java,10,50.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DateMidnight.java,4,45.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/FieldUtils.java,4,45.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/EthiopicChronology.java,2,41.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/GregorianChronology.java,2,41.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/ZonedChronology.java,6,41.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/BaseDateTime.java,2,40.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/DateTimePrinter.java,2,40.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/IllegalFieldValueException.java,3,40.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/InternalPrinterDateTimePrinter.java,3,40.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/PeriodFormatter.java,2,40.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadWritablePeriod.java,2,40.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/ZoneInfoLogger.java,3,40.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestBaseSingleFieldPeriod.java,11,39.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/StringConverter.java,6,38.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BuddhistChronology.java,3,36.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DateTimeUtils.java,10,36.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestUnsupportedDateTimeField.java,2,36.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestBasePartial.java,8,31.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicFixedMonthChronology.java,3,30.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/GJYearOfEraDateTimeField.java,1,30.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/ISOYearOfEraDateTimeField.java,1,30.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/MutableInterval.java,1,30.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/YearMonthDay.java,3,30.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/AbstractReadableInstantFieldProperty.java,3,27.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/AbstractDuration.java,2,25.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/AbstractInterval.java,2,25.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/AbstractPartialFieldProperty.java,2,25.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicSingleEraDateTimeField.java,3,25.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/LenientChronology.java,2,25.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/StrictChronology.java,2,25.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGregorianChronology.java,4,24.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestJulianChronology.java,4,24.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DurationField.java,4,20.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Instant.java,2,20.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/OffsetDateTimeField.java,1,20.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/PeriodPrinter.java,1,20.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/RemainderDateTimeField.java,1,20.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/TimeOfDay.java,2,20.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/ZeroIsMaxDateTimeField.java,1,20.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/BaseSingleFieldPeriod.java,4,17.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/ZoneInfoProvider.java,5,16.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BaseChronology.java,3,15.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/MockUnknownTimeZone.java,3,15.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDurationField.java,3,15.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestStringConvert.java,3,15.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/AbstractPartial.java,2,13.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicChronology.java,3,12.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadableDateTime.java,2,10.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadablePartial.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestAll.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestConverterSet.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDays.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestGJDate.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestHours.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMinutes.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestMonths.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestSeconds.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestWeeks.java,2,10.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestYears.java,2,10.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicMonthOfYearDateTimeField.java,6,8.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/tz/TestCachedDateTimeZone.java,1,8.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/TestAll.java,4,7.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/AbstractDateTime.java,1,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/AbstractInstant.java,1,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/AbstractPeriod.java,1,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/BasePartial.java,1,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/CachedDateTimeZone.java,3,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DateTimeComparator.java,1,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/ImpreciseDateTimeField.java,1,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Interval.java,1,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadableDuration.java,1,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadableInstant.java,1,5.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/tz/TestAll.java,1,5.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestAll.java,1,5.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/TestAll.java,1,5.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestAll.java,1,5.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/field/TestAll.java,1,5.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestAllPackages.java,1,5.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/tz/TestUTCProvider.java,1,5.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/GJLocaleSymbols.java,4,4.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/tz/TestZoneInfoCompiler.java,2,2.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/ISOChronology.java,1,1.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/ReadableIntervalConverter.java,1,1.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/UnsupportedDateTimeField.java,1,1.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/UnsupportedDurationField.java,1,1.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/AbstractConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/BaseDuration.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/BaseDurationField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/BaseInterval.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/base/BaseLocal.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicDayOfMonthDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicDayOfYearDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicWeekOfWeekyearDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicWeekyearDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/BasicYearDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/CalendarConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Chronology.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/Converter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/DateConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DateTimeConstants.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/DateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/DateTimeParser.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/DateTimeParserInternalParser.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Days.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/DecoratedDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/DecoratedDurationField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/DelegatedDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/DelegatedDurationField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/DividedDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Duration.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/DurationConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/FixedDateTimeZone.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/GJCacheKey.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/GJDayOfWeekDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/GJEraDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/chrono/GJMonthOfYearDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Hours.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/IllegalInstantException.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/InstantConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/InternalParser.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/InternalParserDateTimeParser.java,1,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/InternalPrinter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/IntervalConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/ISOPeriodFormat.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/JodaTimePermission.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/LenientDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/LongConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/MillisDurationField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Minutes.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/MockBadChronology.java,1,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/MockNullZoneChronology.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/MockPartial.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/convert/MockZeroNullIntegerConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/MockZone.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Months.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/NameProvider.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/NullConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/PartialConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/PeriodConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/format/PeriodParser.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/PreciseDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/PreciseDurationDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/PreciseDurationField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/Provider.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/ReadableDurationConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/ReadableInstantConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadableInterval.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/ReadablePartialConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadablePeriod.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/convert/ReadablePeriodConverter.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadWritableDateTime.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadWritableInstant.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/ReadWritableInterval.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/ScaledDurationField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Seconds.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/SkipDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/SkipUndoDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/field/StrictDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/TestDateTimeConstants.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestDateTimeParserBucket.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/tz/TestFixedDateTimeZone.java,1,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGJChronology.java,1,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGJDateTimeField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGJDayOfMonthField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGJDayOfWeekField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGJDayOfYearField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGJMonthOfYearField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGJWeekOfWeekyearField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGJWeekyearField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestGJYearField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestJulianDayOfMonthField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestJulianMonthOfYearField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestJulianWeekyearField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/chrono/gj/TestJulianYearField.java,0,0.0,null,null,null,null,null
+joda-time,rc/test/java/org/joda/time/format/TestTextFields.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/UTCDateTimeZone.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/tz/UTCProvider.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Weeks.java,0,0.0,null,null,null,null,null
+joda-time,rc/main/java/org/joda/time/Years.java,0,0.0,null,null,null,null,null
+joda-time,/main/java/org/joda/time/format/DateTimeFormatterBuilder.java,0,0,11,2M/d 6h,1320.0,null,null
+joda-time,/main/java/org/joda/time/format/PeriodFormatterBuilder.java,0,0,23,2M/d 2h,1080.0,null,null
+joda-time,/main/java/org/joda/time/DateTimeFieldType.java,0,0,47,2M/d,960.0,null,null
+joda-time,/main/java/org/joda/time/tz/DateTimeZoneBuilder.java,0,0,13,1M/d 7h,900.0,null,null
+joda-time,/main/java/org/joda/time/chrono/AssembledChronology.java,0,0,35,1M/d 6h,840.0,null,null
+joda-time,/test/java/org/joda/time/TestPeriod_Constructors.java,0,0,51,1M/d 6h,840.0,null,null
+joda-time,/test/java/org/joda/time/TestMutablePeriod_Constructors.java,0,0,51,1M/d 4h,720.0,null,null
+joda-time,/main/java/org/joda/time/format/ISODateTimeFormat.java,0,0,0,1M/d 4h,720.0,null,null
+joda-time,/main/java/org/joda/time/LocalDateTime.java,0,0,8,1M/d 1h,540.0,null,null
+joda-time,/main/java/org/joda/time/chrono/GJChronology.java,0,0,4,1M/d 1h,540.0,null,null
+joda-time,/main/java/org/joda/time/DurationFieldType.java,0,0,25,1M/d,480.0,null,null
+joda-time,/test/java/org/joda/time/TestDateTime_Properties.java,0,0,0,1M/d,480.0,null,null
+joda-time,/main/java/org/joda/time/LocalTime.java,0,0,11,7h 30min,450.0,null,null
+joda-time,/main/java/org/joda/time/LocalDate.java,0,0,9,7h 27min,447.0,null,null
+joda-time,/main/java/org/joda/time/Months.java,0,0,16,7h 12min,432.0,null,null
+joda-time,/main/java/org/joda/time/tz/ZoneInfoCompiler.java,0,0,5,7h 10min,430.0,null,null
+joda-time,/main/java/org/joda/time/DateTime.java,0,0,5,7h 10min,430.0,null,null
+joda-time,/main/java/org/joda/time/DateTimeZone.java,0,0,0,6h 47min,407.0,null,null
+joda-time,/test/java/org/joda/time/TestLocalDateTime_Properties.java,0,0,7,6h 32min,392.0,null,null
+joda-time,/main/java/org/joda/time/chrono/ZonedChronology.java,0,0,3,6h 30min,390.0,null,null
+joda-time,/test/java/org/joda/time/TestPeriod_Basics.java,0,0,0,6h 22min,382.0,null,null
+joda-time,/test/java/org/joda/time/TestDateTime_Basics.java,0,0,7,6h 15min,375.0,null,null
+joda-time,/main/java/org/joda/time/Hours.java,0,0,12,5h 45min,345.0,null,null
+joda-time,/test/java/org/joda/time/TestInterval_Basics.java,0,0,3,5h 37min,337.0,null,null
+joda-time,/main/java/org/joda/time/format/DateTimeFormat.java,0,0,10,5h 35min,335.0,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicChronology.java,0,0,0,5h 32min,332.0,null,null
+joda-time,/main/java/org/joda/time/Days.java,0,0,11,5h 25min,325.0,null,null
+joda-time,/test/java/org/joda/time/format/TestPeriodFormatterBuilder.java,0,0,1,5h 25min,325.0,null,null
+joda-time,/test/java/org/joda/time/format/TestISODateTimeFormat_Fields.java,0,0,3,5h 22min,322.0,null,null
+joda-time,/test/java/org/joda/time/TestMutablePeriod_Updates.java,0,0,0,5h 22min,322.0,null,null
+joda-time,/main/java/org/joda/time/Partial.java,0,0,4,5h 12min,312.0,null,null
+joda-time,/test/java/org/joda/time/TestPeriodType.java,0,0,2,5h 5min,305.0,null,null
+joda-time,/test/java/org/joda/time/TestMutableDateTime_Properties.java,0,0,2,4h 42min,282.0,null,null
+joda-time,/test/java/org/joda/time/TestDateTimeZone.java,0,0,3,4h 40min,280.0,null,null
+joda-time,/test/java/org/joda/time/format/TestISODateTimeFormatParsing.java,0,0,0,4h 37min,277.0,null,null
+joda-time,/example/org/joda/example/time/DateTimeBrowser.java,0,0,3,4h 30min,270.0,null,null
+joda-time,/test/java/org/joda/time/TestDateMidnight_Basics.java,0,0,4,4h 22min,262.0,null,null
+joda-time,/main/java/org/joda/time/chrono/IslamicChronology.java,0,0,6,4h 7min,247.0,null,null
+joda-time,/test/java/org/joda/time/TestMutableDateTime_Basics.java,0,0,7,4h 7min,247.0,null,null
+joda-time,/main/java/org/joda/time/Minutes.java,0,0,7,4h 5min,245.0,null,null
+joda-time,/main/java/org/joda/time/Seconds.java,0,0,7,4h 5min,245.0,null,null
+joda-time,/main/java/org/joda/time/Weeks.java,0,0,7,4h 5min,245.0,null,null
+joda-time,/test/java/org/joda/time/TestLocalTime_Properties.java,0,0,7,4h 2min,242.0,null,null
+joda-time,/main/java/org/joda/time/field/BaseDateTimeField.java,0,0,3,4h,240.0,null,null
+joda-time,/main/java/org/joda/time/Years.java,0,0,7,3h 57min,237.0,null,null
+joda-time,/test/java/org/joda/time/TestTimeOfDay_Properties.java,0,0,7,3h 55min,235.0,null,null
+joda-time,/test/java/org/joda/time/field/TestPreciseDurationDateTimeField.java,0,0,12,3h 52min,232.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestIslamicChronology.java,0,0,1,3h 47min,227.0,null,null
+joda-time,/test/java/org/joda/time/format/TestDateTimeFormatter.java,0,0,1,3h 47min,227.0,null,null
+joda-time,/test/java/org/joda/time/field/TestPreciseDateTimeField.java,0,0,11,3h 42min,222.0,null,null
+joda-time,/test/java/org/joda/time/TestLocalDate_Basics.java,0,0,7,3h 42min,222.0,null,null
+joda-time,/main/java/org/joda/time/Period.java,0,0,0,3h 35min,215.0,null,null
+joda-time,/test/java/org/joda/time/TestDateMidnight_Properties.java,0,0,2,3h 20min,200.0,null,null
+joda-time,/test/java/org/joda/time/convert/TestConverterManager.java,0,0,3,3h 20min,200.0,null,null
+joda-time,/test/java/org/joda/time/TestLocalDateTime_Basics.java,0,0,1,3h 17min,197.0,null,null
+joda-time,/test/java/org/joda/time/TestDateTimeFieldType.java,0,0,0,3h 15min,195.0,null,null
+joda-time,/main/java/org/joda/time/DateMidnight.java,0,0,2,3h 10min,190.0,null,null
+joda-time,/main/java/org/joda/time/Interval.java,0,0,0,3h 10min,190.0,null,null
+joda-time,/main/java/org/joda/time/format/DateTimeFormatter.java,0,0,0,3h 7min,187.0,null,null
+joda-time,/test/java/org/joda/time/TestYearMonthDay_Properties.java,0,0,3,3h 7min,187.0,null,null
+joda-time,/test/java/org/joda/time/TestLocalDate_Properties.java,0,0,3,3h 7min,187.0,null,null
+joda-time,/test/java/org/joda/time/TestDateTimeZoneCutover.java,0,0,0,3h 7min,187.0,null,null
+joda-time,/test/java/org/joda/time/TestInterval_Constructors.java,0,0,15,3h 2min,182.0,null,null
+joda-time,/test/java/org/joda/time/field/TestBaseDateTimeField.java,0,0,7,3h,180.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestGJChronology.java,0,0,3,3h,180.0,null,null
+joda-time,/main/java/org/joda/time/TimeOfDay.java,0,0,5,2h 57min,177.0,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/MainTest.java,0,0,1,2h 57min,177.0,null,null
+joda-time,/test/java/org/joda/time/TestDuration_Basics.java,0,0,2,2h 57min,177.0,null,null
+joda-time,/test/java/org/joda/time/TestMutableInterval_Constructors.java,0,0,15,2h 55min,175.0,null,null
+joda-time,/main/java/org/joda/time/convert/ConverterManager.java,0,0,0,2h 52min,172.0,null,null
+joda-time,/main/java/org/joda/time/chrono/LimitChronology.java,0,0,1,2h 50min,170.0,null,null
+joda-time,/main/java/org/joda/time/Duration.java,0,0,0,2h 50min,170.0,null,null
+joda-time,/main/java/org/joda/time/field/FieldUtils.java,0,0,5,2h 47min,167.0,null,null
+joda-time,/test/java/org/joda/time/TestLocalTime_Basics.java,0,0,2,2h 42min,162.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestCopticChronology.java,0,0,1,2h 40min,160.0,null,null
+joda-time,/main/java/org/joda/time/YearMonthDay.java,0,0,4,2h 37min,157.0,null,null
+joda-time,/main/java/org/joda/time/MonthDay.java,0,0,2,2h 37min,157.0,null,null
+joda-time,/main/java/org/joda/time/YearMonth.java,0,0,2,2h 37min,157.0,null,null
+joda-time,/test/java/org/joda/time/TestDateTimeUtils.java,0,0,3,2h 35min,155.0,null,null
+joda-time,/test/java/org/joda/time/TestInstant_Basics.java,0,0,2,2h 35min,155.0,null,null
+joda-time,/test/java/org/joda/time/TestDateTimeComparator.java,0,0,0,2h 33min,153.0,null,null
+joda-time,/main/java/org/joda/time/DateTimeUtils.java,0,0,0,2h 32min,152.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestEthiopicChronology.java,0,0,1,2h 30min,150.0,null,null
+joda-time,/main/java/org/joda/time/PeriodType.java,0,0,0,2h 27min,147.0,null,null
+joda-time,/main/java/org/joda/time/format/DateTimeParserBucket.java,0,0,0,2h 22min,142.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestISOChronology.java,0,0,3,2h 22min,142.0,null,null
+joda-time,/test/java/org/joda/time/format/TestDateTimeFormatStyle.java,0,0,0,2h 22min,142.0,null,null
+joda-time,/main/java/org/joda/time/convert/ConverterSet.java,0,0,0,2h 17min,137.0,null,null
+joda-time,/main/java/org/joda/time/field/AbstractReadableInstantFieldProperty.java,0,0,4,2h 15min,135.0,null,null
+joda-time,/test/java/org/joda/time/format/TestDateTimeFormat.java,0,0,2,2h 15min,135.0,null,null
+joda-time,/test/java/org/joda/time/TestYearMonthDay_Basics.java,0,0,6,2h 15min,135.0,null,null
+joda-time,/main/java/org/joda/time/MutableDateTime.java,0,0,5,2h 10min,130.0,null,null
+joda-time,/main/java/org/joda/time/format/FormatUtils.java,0,0,0,2h 10min,130.0,null,null
+joda-time,/test/java/org/joda/time/TestMonths.java,0,0,0,2h 7min,127.0,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicMonthOfYearDateTimeField.java,0,0,0,2h 5min,125.0,null,null
+joda-time,/main/java/org/joda/time/base/AbstractInterval.java,0,0,0,2h 5min,125.0,null,null
+joda-time,/test/java/org/joda/time/field/TestOffsetDateTimeField.java,0,0,2,2h 5min,125.0,null,null
+joda-time,/test/java/org/joda/time/TestYearMonth_Properties.java,0,0,2,1h 57min,117.0,null,null
+joda-time,/test/java/org/joda/time/TestTimeOfDay_Basics.java,0,0,2,1h 57min,117.0,null,null
+joda-time,/test/java/org/joda/time/convert/TestReadablePartialConverter.java,0,0,6,1h 55min,115.0,null,null
+joda-time,/main/java/org/joda/time/chrono/GJCacheKey.java,0,0,0,1h 55min,115.0,null,null
+joda-time,/main/java/org/joda/time/DateTimeComparator.java,0,0,0,1h 55min,115.0,null,null
+joda-time,/main/java/org/joda/time/base/AbstractPartial.java,0,0,0,1h 55min,115.0,null,null
+joda-time,/test/java/org/joda/time/TestPartial_Basics.java,0,0,0,1h 52min,112.0,null,null
+joda-time,/test/java/org/joda/time/TestDays.java,0,0,0,1h 52min,112.0,null,null
+joda-time,/main/java/org/joda/time/field/AbstractPartialFieldProperty.java,0,0,4,1h 47min,107.0,null,null
+joda-time,/test/java/org/joda/time/TestMutableInterval_Basics.java,0,0,1,1h 47min,107.0,null,null
+joda-time,/test/java/org/joda/time/TestMonthDay_Properties.java,0,0,0,1h 37min,97.0,null,null
+joda-time,/test/java/org/joda/time/TestMinMaxLong.java,0,0,0,1h 37min,97.0,null,null
+joda-time,/test/java/org/joda/time/TestHours.java,0,0,0,1h 37min,97.0,null,null
+joda-time,/main/java/org/joda/time/base/AbstractInstant.java,0,0,0,1h 35min,95.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestBuddhistChronology.java,0,0,0,1h 32min,92.0,null,null
+joda-time,/test/java/org/joda/time/TestDurationFieldType.java,0,0,0,1h 30min,90.0,null,null
+joda-time,/test/java/org/joda/time/TestMinutes.java,0,0,0,1h 30min,90.0,null,null
+joda-time,/test/java/org/joda/time/TestSeconds.java,0,0,0,1h 30min,90.0,null,null
+joda-time,/test/java/org/joda/time/TestWeeks.java,0,0,0,1h 30min,90.0,null,null
+joda-time,/main/java/org/joda/time/chrono/LenientChronology.java,0,0,5,1h 25min,85.0,null,null
+joda-time,/main/java/org/joda/time/chrono/StrictChronology.java,0,0,5,1h 25min,85.0,null,null
+joda-time,/example/org/joda/example/time/TimeZoneTable.java,0,0,1,1h 25min,85.0,null,null
+joda-time,/example/org/joda/example/time/DateTimePerformance.java,0,0,3,1h 25min,85.0,null,null
+joda-time,/test/java/org/joda/time/convert/TestStringConverter.java,0,0,1,1h 25min,85.0,null,null
+joda-time,/test/java/org/joda/time/TestMonthDay_Basics.java,0,0,0,1h 22min,82.0,null,null
+joda-time,/test/java/org/joda/time/TestYearMonth_Basics.java,0,0,0,1h 22min,82.0,null,null
+joda-time,/test/java/org/joda/time/format/TestDateTimeFormatterBuilder.java,0,0,0,1h 22min,82.0,null,null
+joda-time,/test/java/org/joda/time/TestYears.java,0,0,0,1h 22min,82.0,null,null
+joda-time,/main/java/org/joda/time/tz/DefaultNameProvider.java,0,0,0,1h 20min,80.0,null,null
+joda-time,/test/java/org/joda/time/TestAbstractPartial.java,0,0,4,1h 20min,80.0,null,null
+joda-time,/main/java/org/joda/time/tz/ZoneInfoProvider.java,0,0,0,1h 20min,80.0,null,null
+joda-time,/main/java/org/joda/time/format/PeriodFormat.java,0,0,0,1h 20min,80.0,null,null
+joda-time,/main/java/org/joda/time/chrono/GJEraDateTimeField.java,0,0,0,1h 20min,80.0,null,null
+joda-time,/main/java/org/joda/time/format/InternalPrinterDateTimePrinter.java,0,0,0,1h 20min,80.0,null,null
+joda-time,/test/java/org/joda/time/TestTimeOfDay_Constructors.java,0,0,5,1h 17min,77.0,null,null
+joda-time,/main/java/org/joda/time/base/BaseSingleFieldPeriod.java,0,0,0,1h 15min,75.0,null,null
+joda-time,/test/java/org/joda/time/TestBasePartial.java,0,0,4,1h 12min,72.0,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicGJChronology.java,0,0,0,1h 12min,72.0,null,null
+joda-time,/main/java/org/joda/time/MutablePeriod.java,0,0,0,1h 10min,70.0,null,null
+joda-time,/main/java/org/joda/time/chrono/GJLocaleSymbols.java,0,0,0,1h 10min,70.0,null,null
+joda-time,/test/java/org/joda/time/TestDateTime_Constructors.java,0,0,6,1h 7min,67.0,null,null
+joda-time,/test/java/org/joda/time/TestMutableDateTime_Constructors.java,0,0,6,1h 7min,67.0,null,null
+joda-time,/main/java/org/joda/time/convert/CalendarConverter.java,0,0,0,1h 7min,67.0,null,null
+joda-time,/main/java/org/joda/time/field/PreciseDurationDateTimeField.java,0,0,0,1h 7min,67.0,null,null
+joda-time,/main/java/org/joda/time/tz/CachedDateTimeZone.java,0,0,0,1h 7min,67.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestGregorianChronology.java,0,0,0,1h 7min,67.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestJulianChronology.java,0,0,0,1h 7min,67.0,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGJChronology.java,0,0,0,1h 7min,67.0,null,null
+joda-time,/main/java/org/joda/time/base/BasePeriod.java,0,0,0,1h 7min,67.0,null,null
+joda-time,/test/java/org/joda/time/TestBaseSingleFieldPeriod.java,0,0,0,1h 7min,67.0,null,null
+joda-time,/test/java/org/joda/time/TestPartial_Properties.java,0,0,0,1h 7min,67.0,null,null
+joda-time,/main/java/org/joda/time/convert/StringConverter.java,0,0,0,1h 5min,65.0,null,null
+joda-time,/main/java/org/joda/time/field/MillisDurationField.java,0,0,1,1h 5min,65.0,null,null
+joda-time,/test/java/org/joda/time/TestLocalTime_Constructors.java,0,0,4,1h 2min,62.0,null,null
+joda-time,/main/java/org/joda/time/chrono/BaseChronology.java,0,0,0,1h 2min,62.0,null,null
+joda-time,/test/java/org/joda/time/field/TestFieldUtils.java,0,0,3,1h,60.0,null,null
+joda-time,/main/java/org/joda/time/base/AbstractPeriod.java,0,0,0,1h,60.0,null,null
+joda-time,/test/java/org/joda/time/TestChronology.java,0,0,0,1h,60.0,null,null
+joda-time,/test/java/org/joda/time/TestPartial_Constructors.java,0,0,0,1h,60.0,null,null
+joda-time,/test/java/org/joda/time/TestDateMidnight_Constructors.java,0,0,4,57min 30s,57.5,null,null
+joda-time,/main/java/org/joda/time/field/DividedDateTimeField.java,0,0,0,57min 30s,57.5,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicYearDateTimeField.java,0,0,0,57min 30s,57.5,null,null
+joda-time,/main/java/org/joda/time/format/InternalParserDateTimeParser.java,0,0,0,57min 30s,57.5,null,null
+joda-time,/test/java/org/joda/time/field/TestScaledDurationField.java,0,0,2,57min 30s,57.5,null,null
+joda-time,/main/java/org/joda/time/field/BaseDurationField.java,0,0,1,55min,55.0,null,null
+joda-time,/test/java/org/joda/time/TestIllegalFieldValueException.java,0,0,0,52min 30s,52.5,null,null
+joda-time,/main/java/org/joda/time/chrono/CopticChronology.java,0,0,4,52min 30s,52.5,null,null
+joda-time,/main/java/org/joda/time/chrono/EthiopicChronology.java,0,0,4,52min 30s,52.5,null,null
+joda-time,/main/java/org/joda/time/chrono/BuddhistChronology.java,0,0,0,52min 30s,52.5,null,null
+joda-time,/test/java/org/joda/time/field/TestPreciseDurationField.java,0,0,2,50min,50.0,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicWeekyearDateTimeField.java,0,0,0,47min 30s,47.5,null,null
+joda-time,/main/java/org/joda/time/field/UnsupportedDurationField.java,0,0,0,47min 30s,47.5,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicDayOfMonthDateTimeField.java,0,0,0,47min 30s,47.5,null,null
+joda-time,/main/java/org/joda/time/field/RemainderDateTimeField.java,0,0,0,47min 30s,47.5,null,null
+joda-time,/test/java/org/joda/time/convert/TestCalendarConverter.java,0,0,3,47min 30s,47.5,null,null
+joda-time,/test/java/org/joda/time/TestLocalDateTime_Constructors.java,0,0,2,45min,45.0,null,null
+joda-time,/example/org/joda/example/time/AgeCalculator.java,0,0,0,45min,45.0,null,null
+joda-time,/test/java/org/joda/time/TestMonthDay_Constructors.java,0,0,0,45min,45.0,null,null
+joda-time,/test/java/org/joda/time/format/TestDateTimeParserBucket.java,0,0,0,45min,45.0,null,null
+joda-time,/test/java/org/joda/time/TestMutableDateTime_Sets.java,0,0,0,45min,45.0,null,null
+joda-time,/test/java/org/joda/time/format/TestISOPeriodFormat.java,0,0,0,45min,45.0,null,null
+joda-time,/main/java/org/joda/time/base/AbstractDuration.java,0,0,0,40min,40.0,null,null
+joda-time,/test/java/org/joda/time/TestYearMonthDay_Constructors.java,0,0,2,37min 30s,37.5,null,null
+joda-time,/test/java/org/joda/time/TestLocalDate_Constructors.java,0,0,2,37min 30s,37.5,null,null
+joda-time,/main/java/org/joda/time/field/PreciseDurationField.java,0,0,0,37min 30s,37.5,null,null
+joda-time,/main/java/org/joda/time/field/ScaledDurationField.java,0,0,0,37min 30s,37.5,null,null
+joda-time,/main/java/org/joda/time/chrono/ISOChronology.java,0,0,0,37min 30s,37.5,null,null
+joda-time,/test/java/org/joda/time/TestYearMonth_Constructors.java,0,0,0,37min 30s,37.5,null,null
+joda-time,/test/java/org/joda/time/format/TestPeriodFormat.java,0,0,0,37min 30s,37.5,null,null
+joda-time,/main/java/org/joda/time/base/BaseDateTime.java,0,0,0,37min 30s,37.5,null,null
+joda-time,/test/java/org/joda/time/field/TestUnsupportedDateTimeField.java,0,0,0,37min 30s,37.5,null,null
+joda-time,/main/java/org/joda/time/field/ImpreciseDateTimeField.java,0,0,0,35min,35.0,null,null
+joda-time,/main/java/org/joda/time/Instant.java,0,0,0,35min,35.0,null,null
+joda-time,/main/java/org/joda/time/base/AbstractDateTime.java,0,0,0,35min,35.0,null,null
+joda-time,/main/java/org/joda/time/base/BasePartial.java,0,0,0,35min,35.0,null,null
+joda-time,/main/java/org/joda/time/IllegalFieldValueException.java,0,0,0,32min 30s,32.5,null,null
+joda-time,/test/java/org/joda/time/convert/TestReadableInstantConverter.java,0,0,3,32min 30s,32.5,null,null
+joda-time,/main/java/org/joda/time/format/PeriodFormatter.java,0,0,0,30min,30.0,null,null
+joda-time,/main/java/org/joda/time/tz/FixedDateTimeZone.java,0,0,0,30min,30.0,null,null
+joda-time,/test/java/org/joda/time/tz/TestBuilder.java,0,0,0,30min,30.0,null,null
+joda-time,/test/java/org/joda/time/TestMutablePeriod_Basics.java,0,0,0,30min,30.0,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicDayOfYearDateTimeField.java,0,0,0,27min 30s,27.5,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicWeekOfWeekyearDateTimeField.java,0,0,0,27min 30s,27.5,null,null
+joda-time,/main/java/org/joda/time/convert/ReadableInstantConverter.java,0,0,0,27min 30s,27.5,null,null
+joda-time,/main/java/org/joda/time/field/PreciseDateTimeField.java,0,0,0,27min 30s,27.5,null,null
+joda-time,/main/java/org/joda/time/format/DateTimePrinterInternalPrinter.java,0,0,0,27min 30s,27.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGregorianChronology.java,0,0,0,27min 30s,27.5,null,null
+joda-time,/main/java/org/joda/time/chrono/GregorianChronology.java,0,0,3,25min,25.0,null,null
+joda-time,/main/java/org/joda/time/chrono/JulianChronology.java,0,0,3,25min,25.0,null,null
+joda-time,/main/java/org/joda/time/field/DecoratedDurationField.java,0,0,1,25min,25.0,null,null
+joda-time,/test/java/org/joda/time/TestSerialization.java,0,0,1,25min,25.0,null,null
+joda-time,/test/java/org/joda/time/format/TestISODateTimeFormat.java,0,0,1,25min,25.0,null,null
+joda-time,/main/java/org/joda/time/MutableInterval.java,0,0,0,25min,25.0,null,null
+joda-time,/main/java/org/joda/time/field/DelegatedDateTimeField.java,0,0,0,25min,25.0,null,null
+joda-time,/test/java/org/joda/time/format/TestPeriodFormatter.java,0,0,1,25min,25.0,null,null
+joda-time,/test/java/org/joda/time/tz/TestFixedDateTimeZone.java,0,0,0,25min,25.0,null,null
+joda-time,/example/org/joda/example/time/Examples.java,0,0,0,22min 30s,22.5,null,null
+joda-time,/main/java/org/joda/time/IllegalInstantException.java,0,0,0,20min,20.0,null,null
+joda-time,/main/java/org/joda/time/field/LenientDateTimeField.java,0,0,0,20min,20.0,null,null
+joda-time,/main/java/org/joda/time/field/StrictDateTimeField.java,0,0,0,20min,20.0,null,null
+joda-time,/main/java/org/joda/time/format/DateTimeParserInternalParser.java,0,0,0,20min,20.0,null,null
+joda-time,/test/java/org/joda/time/MockZone.java,0,0,0,20min,20.0,null,null
+joda-time,/main/java/org/joda/time/field/DecoratedDateTimeField.java,0,0,1,17min 30s,17.5,null,null
+joda-time,/test/java/org/joda/time/convert/TestDateConverter.java,0,0,1,17min 30s,17.5,null,null
+joda-time,/test/java/org/joda/time/convert/TestLongConverter.java,0,0,3,17min 30s,17.5,null,null
+joda-time,/test/java/org/joda/time/convert/TestReadablePeriodConverter.java,0,0,3,17min 30s,17.5,null,null
+joda-time,/main/java/org/joda/time/DurationField.java,0,0,0,17min 30s,17.5,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicFixedMonthChronology.java,0,0,1,17min 30s,17.5,null,null
+joda-time,/main/java/org/joda/time/field/DelegatedDurationField.java,0,0,0,17min 30s,17.5,null,null
+joda-time,/test/java/org/joda/time/convert/TestReadableDurationConverter.java,0,0,1,17min 30s,17.5,null,null
+joda-time,/test/java/org/joda/time/convert/TestNullConverter.java,0,0,1,17min 30s,17.5,null,null
+joda-time,/test/java/org/joda/time/convert/TestReadableIntervalConverter.java,0,0,1,17min 30s,17.5,null,null
+joda-time,/test/java/org/joda/time/TestAll.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/TestPartial_Match.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/chrono/ThreadContention.java,0,0,0,15min,15.0,null,null
+joda-time,/main/java/org/joda/time/base/BaseLocal.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGJDateTimeField.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/convert/TestConverterSet.java,0,0,0,15min,15.0,null,null
+joda-time,/main/java/org/joda/time/base/BaseDuration.java,0,0,0,15min,15.0,null,null
+joda-time,/main/java/org/joda/time/field/UnsupportedDateTimeField.java,0,0,0,15min,15.0,null,null
+joda-time,/main/java/org/joda/time/field/ZeroIsMaxDateTimeField.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/MockPartial.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/TestDuration_Constructors.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/TestMutableDateTime_Adds.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/TestMutableInterval_Updates.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestAll.java,0,0,0,15min,15.0,null,null
+joda-time,/test/java/org/joda/time/format/TestTextFields.java,0,0,0,15min,15.0,null,null
+joda-time,/main/java/org/joda/time/tz/UTCProvider.java,0,0,0,10min,10.0,null,null
+joda-time,/test/java/org/joda/time/tz/TestCompiler.java,0,0,0,10min,10.0,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestJulianMonthOfYearField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/format/TestPeriodFormatParsing.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/DateTimeField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/ClassLoadTest.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/DateTimeConstants.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/base/BaseInterval.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/chrono/GJDayOfWeekDateTimeField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/chrono/GJMonthOfYearDateTimeField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/chrono/GJYearOfEraDateTimeField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/chrono/ISOYearOfEraDateTimeField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/convert/AbstractConverter.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/convert/DateConverter.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/convert/LongConverter.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/convert/NullConverter.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/convert/ReadableDurationConverter.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/convert/ReadableIntervalConverter.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/convert/ReadablePartialConverter.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/convert/ReadablePeriodConverter.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/field/OffsetDateTimeField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/TestAllPackages.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/TestDateTimeConstants.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/TestDurationField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/TestLenientChronology.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGJDayOfMonthField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGJDayOfWeekField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGJDayOfYearField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGJMonthOfYearField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGJWeekOfWeekyearField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGJWeekyearField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestGJYearField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestJulianChronology.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestJulianDayOfMonthField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestJulianWeekyearField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestJulianYearField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/convert/MockUnknownTimeZone.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/convert/MockZeroNullIntegerConverter.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/convert/TestAll.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/field/TestAll.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/field/TestMillisDurationField.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/test/java/org/joda/time/format/TestAll.java,0,0,0,7min 30s,7.5,null,null
+joda-time,/main/java/org/joda/time/format/ISOPeriodFormat.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/Chronology.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/JodaTimePermission.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadableDateTime.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadableDuration.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadableInstant.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadableInterval.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadablePartial.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadablePeriod.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadWritableDateTime.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadWritableInstant.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadWritableInterval.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/ReadWritablePeriod.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/UTCDateTimeZone.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/chrono/BasicSingleEraDateTimeField.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/convert/Converter.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/convert/DurationConverter.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/convert/InstantConverter.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/convert/IntervalConverter.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/convert/PartialConverter.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/convert/PeriodConverter.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/field/SkipDateTimeField.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/field/SkipUndoDateTimeField.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/format/DateTimeParser.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/format/DateTimePrinter.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/format/InternalParser.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/format/InternalPrinter.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/format/PeriodParser.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/format/PeriodPrinter.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/tz/NameProvider.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/tz/Provider.java,0,0,0,0,0.0,null,null
+joda-time,/main/java/org/joda/time/tz/ZoneInfoLogger.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/MockNullZoneChronology.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/TestInstant_Constructors.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/TestStringConvert.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/chrono/TestGJDate.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/chrono/gj/TestAll.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/convert/MockBadChronology.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/convert/MockUnknownCalendar.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/format/TestISOPeriodFormatParsing.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/tz/TestAll.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/tz/TestCachedDateTimeZone.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/tz/TestUTCProvider.java,0,0,0,0,0.0,null,null
+joda-time,/test/java/org/joda/time/tz/TestZoneInfoCompiler.java,0,0,0,0,0.0,null,null

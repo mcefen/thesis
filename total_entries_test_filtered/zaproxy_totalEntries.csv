@@ -1,0 +1,1142 @@
+zaproxy,/main/java/org/apache/commons/httpclient/URI.java,83,864.0,1,1M/d 7h,900.0,201,6963.3
+zaproxy,/main/java/org/parosproxy/paros/Constant.java,108,825.0,1,4h 42min,282.0,349,10492.5
+zaproxy,/main/java/org/parosproxy/paros/CommandLine.java,49,699.0,8,4h,240.0,166,6182.4
+zaproxy,/main/java/org/zaproxy/zap/extension/api/CoreAPI.java,31,628.0,13,1M/d 3h,660.0,399,13732.5
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/ExtensionAutoUpdate.java,50,602.0,14,2M/d 2h,1080.0,467,20743.2
+zaproxy,/main/java/org/parosproxy/paros/extension/encoder/Base64.java,71,570.0,4,1M/d 1h,540.0,203,12538.2
+zaproxy,/main/java/org/zaproxy/zap/network/ZapNTLMEngineImpl.java,63,554.0,0,6h 40min,400.0,462,17557.8
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosTableHistory.java,41,508.0,9,4h 49min,289.0,203,7707.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ActiveScanAPI.java,30,500.0,7,6h 52min,412.0,327,12256.5
+zaproxy,/main/java/org/zaproxy/zap/authentication/ScriptBasedAuthenticationMethodType.java,26,455.0,7,5h,300.0,288,9867.0
+zaproxy,/main/java/org/parosproxy/paros/model/Model.java,47,454.0,1,2h 15min,135.0,106,4187.4
+zaproxy,/main/java/org/zaproxy/zap/session/ScriptBasedSessionManagementMethodType.java,20,431.0,6,3h 2min,182.0,294,10070.7
+zaproxy,/main/java/org/zaproxy/zap/authentication/PostBasedAuthenticationMethodType.java,23,423.0,4,1M/d 1h,540.0,287,10070.7
+zaproxy,/main/java/org/zaproxy/zap/extension/api/API.java,31,413.0,8,1M/d,480.0,197,5356.2
+zaproxy,/main/java/org/parosproxy/paros/model/Session.java,52,404.0,6,1M/d,480.0,361,14216.1
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlTableHistory.java,37,398.0,8,6h 2min,362.0,210,8180.7
+zaproxy,/main/java/org/zaproxy/zap/extension/ExtensionPopupMenu.java,11,395.0,1,55min,55.0,42,2051.7
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderGitParser.java,30,390.0,0,1h 47min,107.0,26,1511.7
+zaproxy,/main/java/org/zaproxy/zap/view/SplashScreen.java,14,385.0,0,2h 10min,130.0,106,5117.1
+zaproxy,/main/java/org/parosproxy/paros/extension/option/OptionsViewPanel.java,24,367.0,0,1h 24min,84.0,214,7396.5
+zaproxy,/main/java/org/parosproxy/paros/view/AbstractFrame.java,10,355.0,1,42min 30s,42.5,65,3052.5
+zaproxy,/main/java/org/apache/commons/httpclient/HttpMethodBase.java,41,355.0,0,6h 46min,406.0,111,4404.0
+zaproxy,/main/java/org/parosproxy/paros/network/SSLConnector.java,38,328.0,0,3h 15min,195.0,302,8706.0
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchThread.java,8,327.0,6,3h,180.0,121,4279.5
+zaproxy,/main/java/org/parosproxy/paros/extension/history/PopupMenuExportMessage.java,6,320.0,0,45min,45.0,33,1350.0
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/AbstractPlugin.java,31,317.0,5,3h 35min,215.0,339,10761.0
+zaproxy,/main/java/org/zaproxy/zap/control/AddOn.java,36,317.0,3,1M/d 6h,840.0,444,12167.4
+zaproxy,/main/java/org/zaproxy/zap/view/SiteMapTreeCellRenderer.java,2,315.0,0,1h 30min,90.0,38,1582.8
+zaproxy,/main/java/org/parosproxy/paros/extension/option/OptionsCertificatePanel.java,53,313.0,1,4h 23min,263.0,205,7516.2
+zaproxy,/main/java/org/zaproxy/zap/view/ZapToggleButton.java,3,302.0,0,10min,10.0,27,801.9
+zaproxy,/main/java/org/apache/commons/httpclient/HttpMethodDirector.java,25,301.0,7,1M/d 1h,540.0,113,4507.5
+zaproxy,/main/java/org/zaproxy/zap/view/StandardFieldsDialog.java,22,300.0,4,1M/d,480.0,376,14041.5
+zaproxy,/main/java/org/parosproxy/paros/extension/history/PopupMenuExportResponse.java,4,297.0,0,27min 30s,27.5,30,1167.3
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/AbstractMessageLocationsPanel.java,6,296.0,0,1h 15min,75.0,130,5113.8
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/OptionsSpiderPanel.java,3,295.0,4,1h 32min,92.0,131,6201.9
+zaproxy,/main/java/org/parosproxy/paros/extension/ExtensionHook.java,15,290.0,0,1h 5min,65.0,131,3632.7
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/PopupMenuShowAlert.java,3,290.0,0,17min 30s,17.5,22,868.2
+zaproxy,/main/java/org/zaproxy/zap/view/AbstractFormDialog.java,4,285.0,0,15min,15.0,99,2813.1
+zaproxy,/main/java/org/parosproxy/paros/extension/ExtensionPopupMenuItem.java,3,285.0,0,15min,15.0,57,1712.1
+zaproxy,/main/java/org/zaproxy/zap/view/ContextsTreeCellRenderer.java,3,281.0,0,27min 30s,27.5,15,598.2
+zaproxy,/main/java/org/parosproxy/paros/extension/AbstractDialog.java,3,280.0,0,15min,15.0,17,415.5
+zaproxy,/main/java/org/zaproxy/zap/view/ZapMenuItem.java,2,280.0,0,0,0.0,11,357.3
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/Kb.java,20,279.0,0,2h,120.0,48,1500.3
+zaproxy,/main/java/org/zaproxy/zap/authentication/ManualAuthenticationMethodType.java,6,276.0,0,2h 5min,125.0,180,4625.4
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapTextArea.java,2,275.0,0,0,0.0,8,174.6
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapTextField.java,2,275.0,0,0,0.0,10,203.7
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/AlertTreeCellRenderer.java,1,270.0,0,7min 30s,7.5,13,569.1
+zaproxy,/main/java/org/zaproxy/zap/view/widgets/ContextSelectComboBox.java,1,270.0,0,1min,1.0,18,751.8
+zaproxy,/main/java/org/zaproxy/zap/utils/TableExportButton.java,1,270.0,0,0,0.0,5,365.4
+zaproxy,/main/java/org/zaproxy/zap/view/renderer/UserListCellRenderer.java,1,270.0,0,2min,2.0,10,510.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/lexers/WwwFormTokenMaker.java,16,270.0,9,2h 59min,179.0,129,4159.8
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapLabel.java,1,270.0,0,0,0.0,12,357.3
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderSVNEntriesParser.java,14,262.0,1,1h 35min,95.0,35,2213.4
+zaproxy,/main/java/org/zaproxy/zap/control/AddOnLoader.java,31,259.0,8,1M/d 2h,600.0,346,12445.8
+zaproxy,/main/java/org/apache/commons/httpclient/HttpConnection.java,38,258.0,0,2h 35min,155.0,81,2476.8
+zaproxy,/main/java/ch/csnc/extension/httpclient/SSLContextManager.java,43,249.0,0,4h 22min,262.0,196,5792.7
+zaproxy,/main/java/ch/csnc/extension/util/DriverConfiguration.java,16,244.0,0,27min 30s,27.5,82,2256.9
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PassiveScanThread.java,18,244.0,0,3h 7min,187.0,107,3673.2
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/AlertAPI.java,22,243.0,10,4h 7min,247.0,165,5040.9
+zaproxy,/main/java/org/zaproxy/zap/extension/compare/ExtensionCompare.java,23,241.0,3,2h 37min,157.0,84,3231.9
+zaproxy,/main/java/org/zaproxy/zap/extension/api/WebUI.java,20,239.0,0,2h 32min,152.0,63,2633.7
+zaproxy,/main/java/org/parosproxy/paros/network/HttpHeader.java,35,232.0,1,4h 17min,257.0,172,5842.8
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/ProxyThread.java,22,226.0,1,7h 55min,475.0,189,9760.5
+zaproxy,/main/java/org/parosproxy/paros/network/HttpMessage.java,24,218.0,0,6h 20min,380.0,180,5107.2
+zaproxy,/main/java/org/zaproxy/zap/control/AddOnInstaller.java,15,217.0,6,5h 5min,305.0,140,6354.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/PolicyAllCategoryPanel.java,24,217.0,2,3h 22min,202.0,172,8216.4
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/Alert.java,22,212.0,16,1M/d 6h,840.0,316,8731.8
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/ExtensionAlert.java,23,206.0,2,5h 12min,312.0,268,10124.1
+zaproxy,/main/java/org/parosproxy/paros/view/AbstractParamContainerPanel.java,18,202.0,2,3h 32min,212.0,194,8864.7
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/CustomScanDialog.java,26,201.0,3,4h 52min,292.0,211,8562.3
+zaproxy,/main/java/org/parosproxy/paros/view/WorkbenchPanel.java,22,197.0,1,3h 48min,228.0,147,4890.6
+zaproxy,/main/java/org/parosproxy/paros/common/FileXML.java,18,190.0,0,2h 16min,136.0,121,6014.4
+zaproxy,/main/java/org/zaproxy/zap/view/ScanPanel.java,32,190.0,7,4h 27min,267.0,309,11217.0
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/ProxyServer.java,18,189.0,0,2h 57min,177.0,157,5766.9
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/ExtensionBreak.java,21,183.0,0,2h 52min,172.0,241,7322.1
+zaproxy,/main/java/org/zaproxy/zap/view/ScanPanel2.java,23,182.0,5,3h 35min,215.0,208,8395.8
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ExtensionScript.java,29,177.0,2,1M/d,480.0,442,18280.8
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosTableAlert.java,15,177.0,1,2h 37min,157.0,127,3902.7
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/Scanner.java,13,175.0,1,2h 29min,149.0,210,8350.5
+zaproxy,/main/java/org/zaproxy/zap/model/StandardParameterParser.java,17,173.0,4,3h 37min,217.0,119,3810.6
+zaproxy,/main/java/org/zaproxy/zap/GuiBootstrap.java,16,168.0,3,3h 42min,222.0,66,2612.7
+zaproxy,/main/java/org/parosproxy/paros/view/MainPopupMenu.java,9,167.0,0,40min,40.0,113,4926.3
+zaproxy,/main/java/org/parosproxy/paros/extension/option/OptionsConnectionPanel.java,13,166.0,3,2h 32min,152.0,176,7548.6
+zaproxy,/main/java/org/parosproxy/paros/view/View.java,25,164.0,0,1h 47min,107.0,313,10461.9
+zaproxy,/main/java/org/parosproxy/paros/extension/history/ExtensionHistory.java,18,160.0,3,5h 5min,305.0,284,11424.0
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/ExtensionAntiCSRF.java,15,153.0,2,2h 27min,147.0,132,4051.5
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiImplementor.java,11,152.0,5,5h 50min,350.0,160,6252.0
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderAPI.java,8,151.0,5,3h 20min,200.0,106,4478.4
+zaproxy,/main/java/org/parosproxy/paros/model/SiteMap.java,20,147.0,4,5h 40min,340.0,228,10326.3
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/PluginFactory.java,14,146.0,3,7h 12min,432.0,226,8416.8
+zaproxy,/main/java/org/parosproxy/paros/extension/report/ReportGenerator.java,17,144.0,0,1h 27min,87.0,92,3618.3
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantGWTQuery.java,14,142.0,0,50min,50.0,42,1794.6
+zaproxy,/main/java/org/zaproxy/zap/CommandLineBootstrap.java,14,141.0,0,17min 30s,17.5,19,810.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/CategoryTableModel.java,6,136.0,12,4h 35min,275.0,93,3456.6
+zaproxy,/main/java/org/zaproxy/zap/extension/params/ExtensionParams.java,12,135.0,3,2h 57min,177.0,143,5770.2
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/ManageAddOnsDialog.java,27,131.0,0,6h 5min,365.0,408,15832.8
+zaproxy,/main/java/org/parosproxy/paros/control/MenuFileControl.java,16,130.0,1,5h 37min,337.0,150,6109.8
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/Analyser.java,19,126.0,0,5h 25min,325.0,87,4510.8
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ExtensionActiveScan.java,16,126.0,3,2h 32min,152.0,230,7674.6
+zaproxy,/main/java/org/parosproxy/paros/control/Control.java,16,125.0,1,1h 50min,110.0,179,4845.3
+zaproxy,/main/java/org/parosproxy/paros/extension/report/ReportLastScan.java,12,125.0,0,1h 32min,92.0,91,2995.8
+zaproxy,/main/java/org/zaproxy/zap/model/SessionStructure.java,13,125.0,3,4h 2min,242.0,126,4520.4
+zaproxy,/main/java/org/zaproxy/zap/spider/URLCanonicalizer.java,9,125.0,5,4h 35min,275.0,77,2683.8
+zaproxy,/main/java/org/zaproxy/zap/model/Context.java,20,124.0,0,5h 29min,329.0,217,7810.5
+zaproxy,/main/java/org/zaproxy/zap/extension/search/ExtensionSearch.java,18,122.0,0,1h 15min,75.0,131,5076.6
+zaproxy,/main/java/org/zaproxy/zap/extension/api/PhpAPIGenerator.java,9,122.0,0,1h 12min,72.0,61,1990.2
+zaproxy,/main/java/org/parosproxy/paros/model/SiteNode.java,15,122.0,0,3h 37min,217.0,173,6431.4
+zaproxy,/main/java/org/zaproxy/zap/extension/help/ZapTocView.java,9,120.0,0,35min,35.0,31,1379.1
+zaproxy,/main/java/org/parosproxy/paros/extension/history/HistoryFilter.java,26,117.0,0,2h 55min,175.0,72,2397.6
+zaproxy,/main/java/org/zaproxy/zap/extension/api/PythonAPIGenerator.java,10,117.0,1,57min 30s,57.5,75,2961.9
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/AddOnDependencyChecker.java,9,116.0,7,6h 40min,400.0,196,5808.9
+zaproxy,/main/java/org/parosproxy/paros/view/SiteMapPanel.java,17,116.0,0,2h 27min,147.0,143,7094.4
+zaproxy,/main/java/org/zaproxy/zap/ZAP.java,18,116.0,0,42min 30s,42.5,261,10201.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/HttpPanelSyntaxHighlightTextArea.java,14,115.0,8,2h 45min,165.0,173,5115.3
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchPanel.java,15,115.0,1,3h,180.0,203,8279.4
+zaproxy,/main/java/org/zaproxy/zap/extension/api/JavaAPIGenerator.java,7,114.0,1,1h 2min,62.0,56,2334.6
+zaproxy,/main/java/org/parosproxy/paros/network/HttpRequestHeader.java,16,111.0,3,3h 22min,202.0,107,4121.1
+zaproxy,/main/java/org/parosproxy/paros/extension/ExtensionLoader.java,10,110.0,4,5h 55min,355.0,460,22219.5
+zaproxy,/main/java/org/zaproxy/zap/extension/history/HistoryFilterPlusDialog.java,8,110.0,4,1h 20min,80.0,117,4848.6
+zaproxy,/main/java/org/zaproxy/zap/httputils/HtmlContextAnalyser.java,5,110.0,5,2h 50min,170.0,52,1712.1
+zaproxy,/main/java/org/zaproxy/zap/extension/api/DotNetAPIGenerator.java,8,109.0,0,52min 30s,52.5,55,2056.5
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/ExtensionSpider.java,9,109.0,5,4h 7min,247.0,162,5737.8
+zaproxy,/main/java/org/zaproxy/zap/httputils/RequestUtils.java,7,109.0,0,35min,35.0,14,780.9
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/AddOnsTableModel.java,8,106.0,0,1h 32min,92.0,147,5346.6
+zaproxy,/main/java/org/parosproxy/paros/view/MainMenuBar.java,17,106.0,0,30min,30.0,127,6114.6
+zaproxy,/main/java/org/zaproxy/zap/utils/ByteBuilder.java,9,105.0,0,27min,27.0,136,4827.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largerequest/RequestLargeRequestSplitView.java,6,105.0,2,25min,25.0,64,1463.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largeresponse/ResponseLargeResponseSplitView.java,6,105.0,2,25min,25.0,64,1463.1
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/AlertPanel.java,8,103.0,2,3h 20min,200.0,114,6080.7
+zaproxy,/main/java/org/zaproxy/zap/control/AddOnCollection.java,10,102.0,1,2h 22min,142.0,103,4307.1
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PolicyPassiveScanTableModel.java,8,102.0,2,1h 10min,70.0,86,2725.8
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantODataIdQuery.java,9,102.0,0,1h 27min,87.0,60,1695.9
+zaproxy,/main/java/org/parosproxy/paros/network/HttpMethodHelper.java,8,101.0,2,2h 15min,135.0,53,1953.0
+zaproxy,/main/java/org/parosproxy/paros/model/HistoryReference.java,12,100.0,0,2h 41min,161.0,186,5340.0
+zaproxy,/main/java/org/zaproxy/zap/view/NodeSelectDialog.java,14,100.0,0,1h 12min,72.0,89,5058.9
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuSpiderSite.java,2,100.0,6,1h 7min,67.0,32,1408.2
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ScriptsActiveScanner.java,10,100.0,2,1h 37min,97.0,105,3830.1
+zaproxy,/main/java/org/zaproxy/zap/view/PopupMenuHistoryReference.java,17,99.0,2,2h 12min,132.0,75,3356.4
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/AbstractDefaultFilePlugin.java,10,96.0,0,15min,15.0,47,2313.6
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakpointMessageHandler.java,12,95.0,4,2h,120.0,65,2845.5
+zaproxy,/main/java/org/zaproxy/zap/model/VulnerabilitiesLoader.java,4,95.0,0,1h 35min,95.0,30,677.4
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderDialog.java,12,94.0,3,3h 2min,182.0,93,3784.8
+zaproxy,/main/java/org/zaproxy/zap/control/BaseZapAddOnXmlData.java,12,93.0,1,2h 35min,155.0,193,5614.8
+zaproxy,/main/java/org/parosproxy/paros/extension/history/BrowserDialog.java,15,92.0,0,31min,31.0,64,2596.5
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/FilterPanel.java,4,90.0,4,1h 35min,95.0,102,4046.7
+zaproxy,/main/java/org/zaproxy/zap/extension/api/OptionsApiPanel.java,8,90.0,2,1h 37min,97.0,137,6625.5
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosDatabaseServer.java,13,90.0,1,35min,35.0,55,2297.4
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuSpiderSubtree.java,2,90.0,6,1h 7min,67.0,33,1254.6
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuSpiderURL.java,2,90.0,2,57min 30s,57.5,32,1101.0
+zaproxy,/main/java/org/zaproxy/zap/extension/encoder2/EncodeDecodeDialog.java,16,89.0,1,1h 45min,105.0,166,6261.6
+zaproxy,/main/java/ch/csnc/extension/ui/DriversView.java,19,87.0,0,40min,40.0,57,1953.0
+zaproxy,/main/java/org/zaproxy/zap/extension/help/ExtensionHelp.java,7,85.0,0,1h 20min,80.0,112,3830.1
+zaproxy,/main/java/org/parosproxy/paros/network/HttpSender.java,17,85.0,2,3h 34min,214.0,190,7548.6
+zaproxy,/main/java/org/zaproxy/zap/extension/script/OptionsScriptPanel.java,3,85.0,2,47min 30s,47.5,67,2384.7
+zaproxy,/main/java/org/zaproxy/zap/extension/api/WikiAPIGenerator.java,10,83.0,0,15min,15.0,77,3261.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/AllCategoryTableModel.java,6,82.0,8,2h 57min,177.0,89,4539.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/components/split/request/HttpRequestHeaderPanelSyntaxHighlightTextView.java,8,82.0,10,3h 5min,185.0,130,4353.9
+zaproxy,/main/java/org/parosproxy/paros/extension/history/LogPanel.java,11,81.0,0,1h 2min,62.0,124,4981.2
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/OptionsCheckForUpdatesPanel.java,8,81.0,2,1h 30min,90.0,124,5113.8
+zaproxy,/main/java/org/zaproxy/zap/control/ControlOverrides.java,7,80.0,0,10min,10.0,20,706.5
+zaproxy,/main/java/ch/csnc/extension/ui/DriverTableModel.java,4,80.0,0,2h,120.0,56,1396.8
+zaproxy,/main/java/org/parosproxy/paros/extension/ExtensionAdaptor.java,5,80.0,0,25min,25.0,141,3138.0
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PluginPassiveScanner.java,5,80.0,0,42min 30s,42.5,158,3458.1
+zaproxy,/main/java/org/parosproxy/paros/db/TableAlert.java,4,80.0,0,0,0.0,47,1587.6
+zaproxy,/main/java/org/zaproxy/zap/utils/ViewState.java,5,80.0,0,20min,20.0,9,635.4
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/HostProcess.java,11,79.0,0,6h 57min,417.0,182,7551.9
+zaproxy,/main/java/org/zaproxy/zap/utils/DisplayUtils.java,9,78.0,0,1h 12min,72.0,55,2554.5
+zaproxy,/main/java/org/zaproxy/zap/extension/script/PacScript.java,11,77.0,2,1M/d,480.0,128,3590.7
+zaproxy,/main/java/org/zaproxy/zap/utils/PagingTableModel.java,6,77.0,0,1h 57min,117.0,72,2061.3
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/PolicyManagerDialog.java,11,77.0,0,45min,45.0,74,2771.1
+zaproxy,/main/java/org/zaproxy/zap/utils/FontUtils.java,16,76.0,0,27min 30s,27.5,53,1558.5
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/scanner/ScriptsPassiveScanner.java,7,76.0,1,52min 30s,52.5,61,2355.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/image/ResponseImageView.java,7,75.0,0,45min,45.0,69,1608.6
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ScanProgressDialog.java,10,75.0,0,2h 40min,160.0,123,5479.2
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlTableAlert.java,6,75.0,1,2h 12min,132.0,111,4242.3
+zaproxy,/main/java/org/zaproxy/zap/extension/globalexcludeurl/GlobalExcludeURLParam.java,6,74.0,0,22min 30s,22.5,50,1346.7
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakAPI.java,6,73.0,0,2h 25min,145.0,78,2784.0
+zaproxy,/main/java/org/zaproxy/zap/extension/authorization/ExtensionAuthorization.java,6,72.0,2,35min,35.0,44,1333.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/components/all/request/HttpRequestAllPanelSyntaxHighlightTextView.java,8,72.0,9,2h 45min,165.0,134,4441.2
+zaproxy,/main/java/org/parosproxy/paros/extension/option/OptionsParamView.java,8,72.0,0,39min 30s,39.5,207,5968.8
+zaproxy,/main/java/org/parosproxy/paros/network/HttpInputStream.java,14,71.0,0,40min,40.0,74,2982.9
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/DialogAddDomainAlwaysInScope.java,1,70.0,5,47min 30s,47.5,80,2522.1
+zaproxy,/main/java/org/parosproxy/paros/extension/option/DialogAddProxyExcludedDomain.java,1,70.0,5,47min 30s,47.5,80,2522.1
+zaproxy,/main/java/org/zaproxy/zap/control/ExtensionFactory.java,6,70.0,0,3h 5min,185.0,122,3864.0
+zaproxy,/main/java/org/parosproxy/paros/extension/ExtensionHookMenu.java,7,70.0,0,40min,40.0,134,3312.6
+zaproxy,/main/java/org/parosproxy/paros/network/HttpUtil.java,10,70.0,0,51min 30s,51.5,41,2541.6
+zaproxy,/main/java/org/zaproxy/zap/view/LayoutHelper.java,3,70.0,0,45min,45.0,48,1084.8
+zaproxy,/main/java/org/zaproxy/zap/extension/api/NodeJSAPIGenerator.java,6,70.0,1,1h 5min,65.0,68,2289.3
+zaproxy,/main/java/org/zaproxy/zap/view/OptionsConnectionPanel.java,3,70.0,1,55min,55.0,60,2596.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/OptionsHttpSessionsTableModel.java,5,70.0,6,1h 17min,77.0,34,881.1
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuActiveScanSite.java,1,70.0,6,1h 7min,67.0,33,1408.2
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuSpiderDialog.java,2,70.0,5,1h 7min,67.0,32,1254.6
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuSpiderScope.java,2,70.0,6,1h 7min,67.0,33,1254.6
+zaproxy,/main/java/org/parosproxy/paros/db/RecordAlert.java,5,70.0,0,30min,30.0,48,1712.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/response/ResponseBodyStringHttpPanelViewModel.java,5,70.0,3,1h 5min,65.0,21,1856.1
+zaproxy,/main/java/org/zaproxy/zap/view/TabbedPanel2.java,14,70.0,0,2h 5min,125.0,97,4531.8
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/AlertViewPanel.java,4,69.0,0,2h 47min,167.0,225,8090.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/HttpSessionsAPI.java,4,69.0,15,6h 57min,417.0,62,2517.3
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakpointsPanel.java,10,68.0,1,1h 30min,90.0,108,3755.7
+zaproxy,/main/java/ch/csnc/extension/httpclient/AliasKeyManager.java,9,66.0,0,1h 11min,71.0,36,756.6
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/ExtensionStdMenus.java,13,66.0,0,1h 37min,97.0,160,7390.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/HttpSessionsSite.java,4,66.0,1,3h 10min,190.0,41,2184.3
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/ProxyParam.java,9,66.0,1,1h 42min,102.0,68,2310.3
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakpointMessageHandler2.java,7,65.0,4,2h,120.0,57,2421.9
+zaproxy,/main/java/org/zaproxy/zap/extension/uiutils/ExtensionUiUtils.java,4,65.0,3,35min,35.0,51,1794.6
+zaproxy,/main/java/org/zaproxy/zap/HeadlessBootstrap.java,7,65.0,0,1h 7min,67.0,19,905.4
+zaproxy,/main/java/org/zaproxy/zap/db/sql/HsqldbDatabaseServer.java,7,65.0,0,22min 30s,22.5,25,1138.2
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/OptionsAutoupdateDirsTableModel.java,4,65.0,4,40min,40.0,41,1122.0
+zaproxy,/main/java/org/zaproxy/zap/extension/script/OptionsScriptTableModel.java,4,65.0,4,40min,40.0,41,1122.0
+zaproxy,/main/java/org/zaproxy/zap/OsXGui.java,9,65.0,1,45min,45.0,33,1225.5
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosTableSession.java,8,65.0,0,7min 30s,7.5,44,1413.0
+zaproxy,/main/java/org/zaproxy/zap/extension/params/SiteParameters.java,10,65.0,9,3h 2min,182.0,54,1923.9
+zaproxy,/main/java/org/zaproxy/zap/authentication/AuthenticationMethod.java,5,64.0,0,2h 24min,144.0,55,2043.6
+zaproxy,/main/java/org/zaproxy/zap/model/DefaultValueGenerator.java,3,64.0,0,3h 40min,220.0,15,685.5
+zaproxy,/main/java/org/zaproxy/zap/extension/dynssl/DynamicSSLPanel.java,15,63.0,0,2h 35min,155.0,76,3152.7
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosTableContext.java,6,63.0,1,1h 25min,85.0,89,2693.4
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ActiveScan.java,13,62.0,0,1h 27min,87.0,139,4006.2
+zaproxy,/main/java/org/zaproxy/zap/utils/ClassLoaderUtil.java,5,62.0,0,27min 30s,27.5,17,627.3
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/components/split/request/HttpRequestBodyPanelSyntaxHighlightTextView.java,2,62.0,9,2h 22min,142.0,139,4221.3
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptAPI.java,4,62.0,0,6h,360.0,116,3789.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/HttpPanel.java,9,61.0,0,2h 37min,157.0,249,7388.4
+zaproxy,/main/java/org/zaproxy/zap/view/table/AbstractHistoryReferencesTableEntry.java,4,60.0,54,2M/d 2h,1080.0,87,2053.2
+zaproxy,/main/java/org/parosproxy/paros/view/AbstractParamDialog.java,5,60.0,0,30min,30.0,59,2326.5
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/AntiCsrfToken.java,4,60.0,0,55min,55.0,52,1463.1
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/DialogAddToken.java,1,60.0,4,37min 30s,37.5,58,1932.0
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/DialogAddToken.java,1,60.0,4,37min 30s,37.5,61,1990.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/ExtensionHttpSessions.java,11,60.0,0,3h 58min,238.0,86,3252.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/text/HttpPanelTextView.java,1,60.0,4,35min,35.0,99,2688.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/components/all/response/HttpResponseAllPanelSyntaxHighlightTextView.java,5,60.0,7,1h 22min,82.0,59,2583.6
+zaproxy,/main/java/org/zaproxy/zap/view/MainToolbarPanel.java,11,60.0,1,1h 25min,85.0,104,4560.9
+zaproxy,/main/java/org/zaproxy/zap/extension/history/NotesAddDialog.java,6,60.0,2,35min,35.0,46,2467.2
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuActiveScanCustom.java,1,60.0,6,1h 7min,67.0,32,1225.5
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuActiveScanNode.java,1,60.0,7,1h 17min,77.0,33,1254.6
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuActiveScanURL.java,1,60.0,7,1h 17min,77.0,33,1254.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/response/ResponseBodyByteHttpPanelViewModel.java,5,60.0,3,1h 5min,65.0,21,1856.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/response/ResponseStringHttpPanelViewModel.java,5,60.0,0,52min 30s,52.5,28,1972.5
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/TextMessageLocationHighlightRenderer.java,2,60.0,0,15min,15.0,17,685.5
+zaproxy,/main/java/org/zaproxy/zap/extension/help/ZapSearchView.java,4,60.0,0,0,0.0,18,561.0
+zaproxy,/main/java/org/zaproxy/zap/extension/help/ZapTocMerger.java,3,60.0,3,1h 55min,115.0,48,1354.8
+zaproxy,/main/java/org/zaproxy/zap/extension/authentication/ContextAuthenticationPanel.java,6,59.0,1,2h 7min,127.0,123,4009.5
+zaproxy,/main/java/org/zaproxy/zap/session/CookieBasedSessionManagementMethodType.java,4,57.0,3,1h 51min,111.0,136,4271.4
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/Downloader.java,11,57.0,0,37min 30s,37.5,78,2397.6
+zaproxy,/main/java/org/zaproxy/zap/extension/sessions/ExtensionSessionManagement.java,3,57.0,0,27min,27.0,59,1778.4
+zaproxy,/main/java/org/zaproxy/zap/session/HttpAuthSessionManagementMethodType.java,4,57.0,3,32min,32.0,111,3564.9
+zaproxy,/main/java/org/parosproxy/paros/network/HttpResponseHeader.java,12,57.0,0,1h 15min,75.0,105,3345.0
+zaproxy,/main/java/org/zaproxy/zap/spider/SpiderParam.java,7,57.0,4,3h 5min,185.0,71,2156.7
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/AlertAddDialog.java,6,55.0,1,32min 30s,32.5,45,2189.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/hex/HttpPanelHexView.java,4,55.0,0,22min 30s,22.5,80,2244.0
+zaproxy,/main/java/org/parosproxy/paros/extension/manualrequest/http/impl/ManualHttpRequestEditorDialog.java,10,55.0,0,1h 10min,70.0,188,5236.5
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/OptionsAntiCsrfPanel.java,2,55.0,2,37min 30s,37.5,65,2567.4
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/OptionsAntiCsrfTableModel.java,4,55.0,6,1h 17min,77.0,39,968.4
+zaproxy,/main/java/org/zaproxy/zap/extension/globalexcludeurl/OptionsGlobalExcludeURLPanel.java,2,55.0,2,37min 30s,37.5,65,2625.6
+zaproxy,/main/java/org/zaproxy/zap/extension/params/ParamsPanel.java,8,55.0,1,1h 42min,102.0,76,3626.4
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosDatabase.java,5,55.0,0,36min,36.0,90,2746.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/posttable/RequestPostTableView.java,4,55.0,0,15min,15.0,70,1762.2
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlDatabaseServer.java,6,55.0,1,27min 30s,27.5,62,1820.4
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlTableSessionUrl.java,2,55.0,2,1h 7min,67.0,57,1944.9
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantURLPath.java,5,55.0,0,10min,10.0,18,868.2
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/AttackModeScanner.java,13,54.0,1,1h 37min,97.0,117,4017.6
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PolicyPassiveScanPanel.java,4,54.0,1,1h 2min,62.0,66,3343.5
+zaproxy,/main/java/org/zaproxy/zap/model/StructuralNodeModifier.java,4,54.0,0,7min 30s,7.5,34,939.3
+zaproxy,/main/java/org/zaproxy/zap/DaemonBootstrap.java,8,53.0,0,55min,55.0,19,810.0
+zaproxy,/main/java/org/zaproxy/zap/extension/authorization/BasicAuthorizationDetectionMethod.java,3,52.0,3,1h 58min,118.0,60,1616.7
+zaproxy,/main/java/org/zaproxy/zap/extension/dynssl/ExtensionDynSSL.java,3,52.0,0,2h 40min,160.0,106,3909.3
+zaproxy,/main/java/org/parosproxy/paros/network/GenericMethod.java,8,52.0,0,1h 5min,65.0,47,931.2
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ResponseCountSnapshot.java,3,52.0,7,2h 7min,127.0,60,1857.6
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ActiveScanPanel.java,10,51.0,1,1h 15min,75.0,123,4528.5
+zaproxy,/main/java/org/zaproxy/zap/db/sql/DbSQL.java,8,51.0,0,42min 30s,42.5,127,3627.9
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemHttpMessageContainer.java,7,51.0,4,3h 30min,210.0,38,2300.7
+zaproxy,/main/java/org/zaproxy/zap/extension/api/RustAPIGenerator.java,6,51.0,1,32min 30s,32.5,53,1807.5
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderHtmlFormParser.java,8,51.0,2,2h 17min,137.0,104,3332.1
+zaproxy,/main/java/org/zaproxy/zap/extension/globalexcludeurl/DialogAddToken.java,3,50.0,1,47min 30s,47.5,64,2289.3
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/ExtensionPassiveScan.java,4,50.0,0,2h 17min,137.0,168,6111.3
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/HttpPanelSyntaxHighlightTextView.java,1,50.0,4,35min,35.0,102,2775.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/components/split/response/HttpResponseHeaderPanelSyntaxHighlightTextView.java,7,50.0,5,57min 30s,57.5,40,2300.7
+zaproxy,/main/java/org/zaproxy/zap/view/MultipleRegexesOptionsPanel.java,1,50.0,1,55min,55.0,148,4263.3
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuActiveScanScope.java,1,50.0,6,1h 7min,67.0,33,1254.6
+zaproxy,/main/java/org/zaproxy/zap/view/ProxyDialog.java,6,50.0,5,37min 30s,37.5,35,1839.9
+zaproxy,/main/java/org/zaproxy/zap/extension/ruleconfig/RuleConfig.java,2,50.0,0,0,0.0,38,968.4
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/ScannerParamFilter.java,2,50.0,0,48min 30s,48.5,61,1616.7
+zaproxy,/main/java/org/zaproxy/zap/model/TechSet.java,5,50.0,0,1h 7min,67.0,42,1143.0
+zaproxy,/main/java/org/zaproxy/zap/ZapBootstrap.java,3,50.0,0,10min,10.0,15,473.7
+zaproxy,/main/java/org/zaproxy/zap/control/ZapVersionsAddOnEntry.java,5,50.0,0,0,0.0,23,611.1
+zaproxy,/main/java/org/parosproxy/paros/network/ConnectionParam.java,7,49.0,2,3h 12min,192.0,125,3889.8
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/scanner/RegexAutoTagScanner.java,8,49.0,0,5h 55min,355.0,116,3619.8
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ContextAPI.java,6,47.0,2,2h 28min,148.0,91,3477.6
+zaproxy,/main/java/org/zaproxy/zap/extension/proxies/ExtensionProxies.java,4,47.0,0,1h 43min,103.0,98,3332.1
+zaproxy,/main/java/org/zaproxy/zap/extension/api/OptionsParamApi.java,5,47.0,1,2h,120.0,113,3387.0
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/ProxyThreadSSL.java,9,47.0,0,0,0.0,11,818.1
+zaproxy,/main/java/org/zaproxy/zap/utils/TableColumnManager.java,10,47.0,0,52min 30s,52.5,74,2800.2
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantMultipartFormParameters.java,5,47.0,0,50min,50.0,44,1362.9
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuHttpMessageContainer.java,5,46.0,4,3h 22min,202.0,16,963.6
+zaproxy,/main/java/org/zaproxy/zap/view/ContextStructurePanel.java,7,45.0,5,2h 50min,170.0,126,4952.1
+zaproxy,/main/java/org/zaproxy/zap/extension/globalexcludeurl/ExtensionGlobalExcludeURL.java,11,45.0,0,37min 30s,37.5,41,1707.3
+zaproxy,/main/java/org/parosproxy/paros/view/FindDialog.java,7,45.0,0,42min 30s,42.5,42,1948.2
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/impl/http/HttpBreakpointMessage.java,11,45.0,2,2h 15min,135.0,74,2148.6
+zaproxy,/main/java/org/zaproxy/zap/extension/keyboard/KeyboardShortcutTableModel.java,2,45.0,4,1h 10min,70.0,38,939.3
+zaproxy,/main/java/org/parosproxy/paros/view/MainFrame.java,6,45.0,1,1h 15min,75.0,124,5142.9
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/OptionsPassiveScan.java,4,45.0,2,37min 30s,37.5,67,2405.7
+zaproxy,/main/java/org/zaproxy/zap/extension/proxies/OptionsProxiesPanel.java,3,45.0,2,35min,35.0,107,3951.3
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largerequest/RequestLargeRequestAllView.java,2,45.0,0,15min,15.0,35,976.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largeresponse/ResponseLargeResponseAllView.java,2,45.0,0,15min,15.0,35,976.5
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlTableContext.java,2,45.0,2,1h 35min,95.0,74,2593.2
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/ExtensionCallback.java,9,44.0,0,1h 22min,82.0,154,4790.4
+zaproxy,/main/java/org/zaproxy/zap/extension/stats/ExtensionStats.java,3,44.0,0,42min 30s,42.5,65,2231.1
+zaproxy,/main/java/org/zaproxy/zap/extension/history/ManageTagsDialog.java,10,44.0,1,55min,55.0,76,3435.6
+zaproxy,/main/java/org/zaproxy/zap/view/panels/AbstractScanToolbarStatusPanel.java,8,43.0,3,1h 30min,90.0,85,3078.3
+zaproxy,/main/java/org/zaproxy/zap/view/ContextListTableModel.java,5,43.0,8,2h 40min,160.0,43,1362.9
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/DownloadManager.java,6,43.0,0,1h 45min,105.0,73,3219.0
+zaproxy,/main/java/org/zaproxy/zap/extension/api/GoAPIGenerator.java,8,43.0,0,1h 5min,65.0,87,2775.9
+zaproxy,/main/java/org/zaproxy/zap/control/ZapReleaseComparitor.java,2,43.0,1,3h 20min,200.0,13,1000.8
+zaproxy,/main/java/org/parosproxy/paros/network/HttpStatusCode.java,8,42.0,0,1h 45min,105.0,57,1754.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/PopupMenuFactoryAddUserFromSession.java,9,42.0,0,1h 34min,94.0,77,3144.6
+zaproxy,/main/java/org/zaproxy/zap/extension/dynssl/SslCertificateUtils.java,3,42.0,0,45min,45.0,46,1728.3
+zaproxy,/main/java/org/zaproxy/zap/extension/ext/ExtensionExtension.java,4,41.0,0,15min,15.0,51,1815.6
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/PolicyCategoryPanel.java,4,41.0,2,27min 30s,27.5,41,1890.0
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantDirectWebRemotingQuery.java,8,41.0,0,23min 30s,23.5,33,1333.8
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapTextComponentUndoManager.java,7,41.0,1,1h,60.0,55,2027.4
+zaproxy,/main/java/org/parosproxy/paros/view/AbstractParamPanel.java,2,40.0,0,7min 30s,7.5,12,328.2
+zaproxy,/main/java/org/zaproxy/zap/extension/authorization/AuthorizationDetectionMethod.java,2,40.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/parosproxy/paros/extension/CommandLineArgument.java,2,40.0,0,0,0.0,36,873.0
+zaproxy,/main/java/org/zaproxy/zap/view/ContextExcludePanel.java,2,40.0,3,32min 30s,32.5,30,1005.6
+zaproxy,/main/java/org/zaproxy/zap/view/ContextIncludePanel.java,2,40.0,3,32min 30s,32.5,28,947.4
+zaproxy,/main/java/org/zaproxy/zap/model/DefaultTextHttpMessageLocation.java,2,40.0,1,5h 40min,340.0,51,1566.6
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/DomainsAlwaysInScopeTableModel.java,3,40.0,7,1h 37min,97.0,46,1238.4
+zaproxy,/main/java/org/zaproxy/zap/extension/dynssl/DynamicSSLWelcomeDialog.java,10,40.0,0,15min,15.0,17,656.4
+zaproxy,/main/java/org/zaproxy/zap/extension/log4j/ExtensionLog4j.java,3,40.0,0,10min,10.0,58,1932.0
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/HighlighterResult.java,4,40.0,0,0,0.0,16,407.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/HighlighterUtils.java,4,40.0,0,17min 30s,17.5,55,1500.3
+zaproxy,/main/java/org/zaproxy/zap/authentication/HttpAuthenticationMethodType.java,7,40.0,0,41min 30s,41.5,177,5065.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/components/split/response/HttpResponseBodyPanelSyntaxHighlightTextView.java,1,40.0,6,1h 2min,62.0,53,2255.4
+zaproxy,/main/java/org/zaproxy/zap/view/LocaleDialog.java,3,40.0,4,27min 30s,27.5,35,1715.4
+zaproxy,/main/java/org/zaproxy/zap/extension/globalexcludeurl/OptionsGlobalExcludeURLTableModel.java,3,40.0,4,1h 27min,87.0,40,1122.0
+zaproxy,/main/java/org/zaproxy/zap/extension/lang/OptionsLangPanel.java,8,40.0,0,30min,30.0,83,3618.3
+zaproxy,/main/java/org/parosproxy/paros/model/OptionsParam.java,5,40.0,0,35min,35.0,88,2609.4
+zaproxy,/main/java/org/zaproxy/zap/extension/api/PermittedAddressesTableModel.java,3,40.0,7,1h 37min,97.0,43,1209.3
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemContextExclude.java,1,40.0,0,7min 30s,7.5,38,1341.9
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemContextInclude.java,1,40.0,0,7min 30s,7.5,38,1400.1
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemSiteNodeContextMenuFactory.java,1,40.0,3,17min 30s,17.5,32,1312.8
+zaproxy,/main/java/org/parosproxy/paros/extension/history/PopupMenuResend.java,4,40.0,0,17min 30s,17.5,29,1320.9
+zaproxy,/main/java/org/parosproxy/paros/extension/option/ProxyExcludedDomainsTableModel.java,3,40.0,7,1h 37min,97.0,43,1209.3
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/request/RequestByteHttpPanelViewModel.java,2,40.0,3,37min 30s,37.5,28,1262.7
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/response/ResponseByteHttpPanelViewModel.java,2,40.0,3,37min 30s,37.5,28,1262.7
+zaproxy,/main/java/org/zaproxy/zap/eventBus/SimpleEventBus.java,6,40.0,0,50min,50.0,119,2585.1
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/StreamForwarder.java,4,40.0,0,1min,1.0,21,801.9
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TreeUtils.java,2,40.0,0,0,0.0,23,926.4
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/AbstractAppParamPlugin.java,2,39.0,0,1h 45min,105.0,38,2358.9
+zaproxy,/main/java/org/zaproxy/zap/session/CookieBasedSessionManagementHelper.java,3,39.0,0,29min 30s,29.5,13,261.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/split/request/RequestSplitComponent.java,4,39.0,9,5h 37min,337.0,135,3320.7
+zaproxy,/main/java/org/zaproxy/zap/network/ZapHttpParser.java,4,39.0,0,7min 30s,7.5,21,868.2
+zaproxy,/main/java/org/zaproxy/zap/utils/DesktopUtils.java,5,38.0,0,30min,30.0,34,1013.7
+zaproxy,/main/java/org/zaproxy/zap/extension/keyboard/ExtensionKeyboard.java,3,38.0,1,2h 15min,135.0,105,3303.0
+zaproxy,/main/java/org/zaproxy/zap/spider/URLResolver.java,8,38.0,1,4h 2min,242.0,23,1366.2
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantJSONQuery.java,3,38.0,1,1h 40min,100.0,62,2596.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/PopupMenuSetActiveSession.java,3,37.0,3,32min,32.0,14,722.7
+zaproxy,/main/java/org/zaproxy/zap/extension/stats/StatsdClient.java,6,37.0,0,1h 10min,70.0,121,3445.2
+zaproxy,/main/java/org/zaproxy/zap/view/widgets/UsersListModel.java,2,37.0,0,2h 3min,123.0,55,1881.9
+zaproxy,/main/java/org/zaproxy/zap/utils/EncodingUtils.java,3,36.0,0,0,0.0,16,627.3
+zaproxy,/main/java/org/parosproxy/paros/extension/report/ExtensionReport.java,3,36.0,0,17min 30s,17.5,58,2143.8
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderPanelTableModel.java,3,36.0,11,5h 13min,313.0,38,1034.7
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/UninstallationProgressDialogue.java,5,36.0,0,1h 12min,72.0,175,5327.1
+zaproxy,/main/java/org/zaproxy/zap/view/AbstractMultipleOptionsBaseTablePanel.java,6,35.0,0,35min,35.0,72,1857.6
+zaproxy,/main/java/org/parosproxy/paros/extension/AbstractPanel.java,2,35.0,0,25min,25.0,62,1820.4
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/AlertNode.java,2,35.0,0,50min,50.0,64,1550.4
+zaproxy,/main/java/org/parosproxy/paros/db/Database.java,3,35.0,0,0,0.0,38,843.9
+zaproxy,/main/java/org/zaproxy/zap/utils/EmptyResettableAutoCloseableIterator.java,4,35.0,0,7min 30s,7.5,22,685.5
+zaproxy,/main/java/org/zaproxy/zap/extension/users/ExtensionUserManagement.java,2,35.0,0,36min,36.0,69,2882.7
+zaproxy,/main/java/org/parosproxy/paros/network/HtmlParameter.java,11,35.0,0,11min,11.0,41,1026.6
+zaproxy,/main/java/org/parosproxy/paros/model/HttpMessageList.java,3,35.0,0,0,0.0,29,947.4
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/paramtable/HttpPanelParamTableView.java,3,35.0,0,57min 30s,57.5,100,2805.0
+zaproxy,/main/java/org/zaproxy/zap/view/MultipleOptionsTablePanel.java,2,35.0,0,7min 30s,7.5,42,1018.5
+zaproxy,/main/java/org/zaproxy/zap/extension/keyboard/OptionsKeyboardShortcutPanel.java,4,35.0,2,25min,25.0,91,3427.5
+zaproxy,/main/java/org/zaproxy/zap/extension/ruleconfig/OptionsRuleConfigPanel.java,2,35.0,2,25min,25.0,66,2135.7
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosTableSessionUrl.java,2,35.0,1,57min 30s,57.5,69,2206.8
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosTableStructure.java,6,35.0,3,2h 12min,132.0,82,2709.6
+zaproxy,/main/java/org/zaproxy/zap/extension/authentication/PopupFlagLoggedInIndicatorMenu.java,2,35.0,4,1h,60.0,31,1254.6
+zaproxy,/main/java/org/zaproxy/zap/extension/authentication/PopupFlagLoggedOutIndicatorMenu.java,2,35.0,4,1h,60.0,31,1254.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/PopupMenuRemoveSession.java,2,35.0,3,20min,20.0,14,569.1
+zaproxy,/main/java/org/parosproxy/paros/extension/history/PopupMenuResendSites.java,3,35.0,0,27min 30s,27.5,33,852.0
+zaproxy,/main/java/org/parosproxy/paros/extension/history/ProxyListenerLog.java,8,35.0,0,1h 32min,92.0,61,2048.4
+zaproxy,/main/java/org/zaproxy/zap/extension/ruleconfig/RuleConfigTableModel.java,2,35.0,4,1h 20min,80.0,38,968.4
+zaproxy,/main/java/org/zaproxy/zap/session/SessionManagementMethod.java,2,35.0,0,0,0.0,8,299.1
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlTableParam.java,2,35.0,2,1h 22min,82.0,52,1923.9
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/Util.java,3,35.0,0,0,0.0,11,606.3
+zaproxy,/main/java/org/zaproxy/zap/network/ZapNTLMScheme.java,5,35.0,0,10min,10.0,52,1251.3
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/HttpPanelComponentViewsManager.java,8,34.0,0,5h 5min,305.0,273,8052.9
+zaproxy,/main/java/org/zaproxy/zap/view/JCheckBoxTree.java,12,34.0,0,2h 15min,135.0,148,5720.1
+zaproxy,/main/java/org/zaproxy/zap/httputils/HtmlContext.java,3,33.0,0,2h 30min,150.0,79,2431.5
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiResponseList.java,2,32.0,0,20min,20.0,45,1333.8
+zaproxy,/main/java/org/zaproxy/zap/model/CommonUserAgents.java,3,32.0,1,17min 30s,17.5,27,801.9
+zaproxy,/main/java/org/parosproxy/paros/network/HttpOutputStream.java,7,32.0,0,22min,22.0,53,2766.3
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/InstalledAddOnsTableModel.java,4,32.0,8,6h 10min,370.0,100,3485.7
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/all/request/RequestAllComponent.java,2,32.0,6,3h 25min,205.0,120,3125.1
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptParam.java,4,32.0,1,25min,25.0,78,2053.2
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderMessagesTableModel.java,6,32.0,0,3h 22min,202.0,161,4408.8
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/UninstalledAddOnsTableModel.java,5,32.0,8,4h 27min,267.0,56,2056.5
+zaproxy,/main/java/org/zaproxy/zap/view/BackgroundImagePanel.java,2,31.0,0,0,0.0,10,540.0
+zaproxy,/main/java/org/zaproxy/zap/extension/params/ParamsTableModel.java,6,31.0,9,3h 47min,227.0,66,2376.6
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderThread.java,6,31.0,6,3h 52min,232.0,133,4578.6
+zaproxy,/main/java/org/zaproxy/zap/view/StructuralNodeModifiersTableModel.java,5,31.0,7,2h 27min,147.0,40,1122.0
+zaproxy,/main/java/org/zaproxy/zap/authentication/AbstractCredentialsOptionsPanel.java,1,30.0,0,0,0.0,3,336.3
+zaproxy,/main/java/org/parosproxy/paros/common/AbstractParam.java,1,30.0,0,57min 30s,57.5,32,1109.1
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiGeneratorUtils.java,1,30.0,0,15min,15.0,6,423.6
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiResponseSet.java,1,30.0,1,35min,35.0,33,1071.9
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakPanel.java,6,30.0,1,1h 32min,92.0,153,4255.2
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/Category.java,1,30.0,0,17min 30s,17.5,29,1101.0
+zaproxy,/main/java/org/zaproxy/zap/extension/sessions/ContextSessionManagementPanel.java,3,30.0,1,1h 2min,62.0,53,2093.7
+zaproxy,/main/java/org/zaproxy/zap/extension/api/DialogAddPermittedAddress.java,1,30.0,4,37min 30s,37.5,79,2368.5
+zaproxy,/main/java/org/zaproxy/zap/spider/DomainAlwaysInScopeMatcher.java,2,30.0,4,2h 25min,145.0,34,976.5
+zaproxy,/main/java/org/zaproxy/zap/network/DomainMatcher.java,2,30.0,4,2h 25min,145.0,37,976.5
+zaproxy,/main/java/org/zaproxy/zap/utils/EmptyResettableIterator.java,3,30.0,0,0,0.0,12,540.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ExcludedParameterAddDialog.java,1,30.0,1,47min 30s,47.5,74,2339.4
+zaproxy,/main/java/org/zaproxy/zap/extension/forceduser/ExtensionForcedUser.java,6,30.0,0,1h 29min,89.0,98,3104.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largeresponse/ExtensionHttpPanelLargeResponseView.java,1,30.0,0,1h,60.0,133,4134.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ext/ExtensionParam.java,1,30.0,1,20min,20.0,9,174.6
+zaproxy,/main/java/org/parosproxy/paros/extension/state/ExtensionState.java,3,30.0,0,7min 30s,7.5,32,1130.1
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/FilterMessageTableModel.java,1,30.0,3,1h,60.0,35,1005.6
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/Generic.java,1,30.0,0,10min,10.0,10,481.8
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/filters/GenericFilterUtility.java,1,30.0,0,0,0.0,4,365.4
+zaproxy,/main/java/org/zaproxy/zap/utils/HashUtils.java,1,30.0,0,20min,20.0,21,897.3
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/HighlightChangedEvent.java,1,30.0,0,0,0.0,11,291.0
+zaproxy,/main/java/org/parosproxy/paros/model/HistoryList.java,2,30.0,0,20min,20.0,41,931.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largerequest/LargeRequestUtil.java,1,30.0,0,17min 30s,17.5,17,407.4
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largeresponse/LargeResponseUtil.java,1,30.0,0,27min 30s,27.5,17,407.4
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/OptionsHttpSessionsPanel.java,1,30.0,2,37min 30s,37.5,63,2567.4
+zaproxy,/main/java/org/zaproxy/zap/extension/proxies/OptionsProxiesTableModel.java,3,30.0,4,1h 27min,87.0,41,1180.2
+zaproxy,/main/java/org/zaproxy/zap/model/ParameterParser.java,1,30.0,0,0,0.0,28,814.8
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/PersistedHttpMessagesList.java,1,30.0,0,10min,10.0,9,174.6
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupContextMenuItemFactory.java,1,30.0,3,10min,10.0,31,1130.1
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupContextMenuItemHolder.java,1,30.0,0,19min 30s,19.5,23,648.3
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemContextDataDriven.java,1,30.0,0,7min 30s,7.5,37,1495.5
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuSpiderContextAsUser.java,2,30.0,3,17min 30s,17.5,13,722.7
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuSpiderURLAsUser.java,2,30.0,3,17min 30s,17.5,13,722.7
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupUserMenuItemHolder.java,1,30.0,0,37min,37.0,26,735.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/posttable/RequestPostTableModel.java,3,30.0,0,7min 30s,7.5,61,1704.0
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchAPI.java,5,30.0,0,47min 30s,47.5,103,2979.6
+zaproxy,/main/java/org/zaproxy/zap/view/SessionExcludeFromProxyPanel.java,1,30.0,4,32min 30s,32.5,27,918.3
+zaproxy,/main/java/org/zaproxy/zap/view/SessionExcludeFromScanPanel.java,1,30.0,4,32min 30s,32.5,27,918.3
+zaproxy,/main/java/org/zaproxy/zap/view/SessionExcludeFromSpiderPanel.java,1,30.0,4,32min 30s,32.5,27,918.3
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlDatabase.java,1,30.0,0,35min,35.0,83,2352.3
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlTableScan.java,3,30.0,1,57min 30s,57.5,42,1632.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/menus/SyntaxMenu.java,2,30.0,1,35min,35.0,59,1807.5
+zaproxy,/main/java/org/zaproxy/zap/utils/ThreadUtils.java,1,30.0,0,0,0.0,10,452.7
+zaproxy,/main/java/org/zaproxy/zap/authentication/UsernamePasswordAuthenticationCredentials.java,7,30.0,0,1h 8min,68.0,58,1807.5
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantDdnPath.java,3,30.0,0,10min,10.0,28,1042.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/menus/ViewMenu.java,1,30.0,1,42min 30s,42.5,179,5576.1
+zaproxy,/main/java/org/zaproxy/zap/utils/XMLStringUtil.java,1,30.0,0,20min,20.0,22,1021.8
+zaproxy,/main/java/org/zaproxy/zap/extension/history/PopupMenuExportURLs.java,4,29.0,1,1h 5min,65.0,42,1371.0
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/ProxyServerSSL.java,6,29.0,0,0,0.0,22,1080.0
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantCookie.java,2,29.0,1,1h 27min,87.0,18,531.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/HttpSessionsTableModel.java,6,27.0,11,4h 54min,294.0,32,1532.7
+zaproxy,/main/java/org/parosproxy/paros/view/OutputPanel.java,5,27.0,0,27min,27.0,48,1940.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/PopupMenuUnsetActiveSession.java,3,27.0,0,22min,22.0,13,569.1
+zaproxy,/main/java/org/zaproxy/zap/extension/authentication/ExtensionAuthentication.java,4,26.0,0,1h 15min,75.0,72,2193.9
+zaproxy,/main/java/org/zaproxy/zap/control/AddOnClassLoader.java,5,25.0,0,1h 20min,80.0,82,2974.8
+zaproxy,/main/java/org/zaproxy/zap/control/AddOnRunIssuesUtils.java,2,25.0,5,3h 35min,215.0,34,2105.1
+zaproxy,/main/java/org/parosproxy/paros/extension/option/ExtensionOption.java,2,25.0,0,15min,15.0,57,2164.8
+zaproxy,/main/java/org/zaproxy/zap/view/table/HistoryReferencesTable.java,5,25.0,0,1h 30min,90.0,121,3125.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/text/HttpPanelTextArea.java,2,25.0,7,1h 7min,67.0,49,1641.0
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/all/request/HttpRequestAllPanelTextView.java,2,25.0,2,1h 5min,65.0,32,1291.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/all/response/HttpResponseAllPanelTextView.java,2,25.0,5,1h 5min,65.0,32,1291.8
+zaproxy,/main/java/org/parosproxy/paros/extension/manualrequest/ManualRequestEditorDialog.java,5,25.0,0,45min,45.0,55,1990.2
+zaproxy,/main/java/org/zaproxy/zap/extension/stats/OptionsStatsPanel.java,2,25.0,0,15min,15.0,61,2845.5
+zaproxy,/main/java/org/parosproxy/paros/extension/edit/PopupFindMenu.java,3,25.0,0,30min,30.0,10,386.4
+zaproxy,/main/java/org/zaproxy/zap/extension/params/PopupMenuAddAntiCSRF.java,2,25.0,0,30min,30.0,21,743.7
+zaproxy,/main/java/org/zaproxy/zap/extension/params/PopupMenuAddSession.java,3,25.0,0,50min,50.0,21,743.7
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuUtils.java,3,25.0,0,1h 10min,70.0,39,2088.9
+zaproxy,/main/java/org/parosproxy/paros/db/RecordHistory.java,2,25.0,0,7min 30s,7.5,22,619.2
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/ScannerParam.java,2,25.0,0,55min,55.0,151,4563.9
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/SelectMessageLocationsPanel.java,5,25.0,0,1h 45min,105.0,113,4245.6
+zaproxy,/main/java/org/zaproxy/zap/spider/Spider.java,6,25.0,0,2h 47min,167.0,90,3597.3
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlTableStructure.java,4,25.0,4,2h 12min,132.0,69,2360.4
+zaproxy,/main/java/org/zaproxy/zap/view/HistoryReferenceTableModel.java,5,24.0,29,1M/d 2h,600.0,55,1712.1
+zaproxy,/main/java/org/zaproxy/zap/utils/I18N.java,6,24.0,0,2h 31min,151.0,87,2032.2
+zaproxy,/main/java/org/zaproxy/zap/extension/ext/OptionsExtensionPanel.java,3,24.0,1,47min 30s,47.5,64,2347.5
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PassiveScanner.java,4,24.0,0,0,0.0,22,494.7
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ScanProgressTableModel.java,3,24.0,23,1M/d 1h,540.0,43,1815.6
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchResultsTableModel.java,6,24.0,2,1h 55min,115.0,137,3445.2
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderScan.java,6,24.0,0,1h 52min,112.0,109,2809.8
+zaproxy,/main/java/org/zaproxy/zap/users/User.java,4,24.0,0,1h 42min,102.0,47,1217.4
+zaproxy,/main/java/org/zaproxy/zap/authentication/AuthenticationMethodType.java,2,22.0,0,29min 30s,29.5,31,992.7
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/DefaultSelectableHttpMessagesContainer.java,2,22.0,0,25min,25.0,19,407.4
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/DialogAddAutoTagScanner.java,3,22.0,0,1h 55min,115.0,124,3474.3
+zaproxy,/main/java/org/parosproxy/paros/extension/encoder/Encoder.java,5,22.0,0,7min 30s,7.5,100,2452.5
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuHistoryReferenceContainer.java,2,22.0,3,1h 17min,77.0,9,730.8
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemExcludeFromContext.java,2,22.0,0,17min 30s,17.5,32,976.5
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemHistoryReferenceContainer.java,2,22.0,3,1h 25min,85.0,21,1461.6
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemIncludeInContext.java,2,22.0,0,27min 30s,27.5,37,1429.2
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemSiteNodeContainer.java,2,22.0,3,35min,35.0,15,664.5
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuSiteNodeContainer.java,2,22.0,3,27min 30s,27.5,10,510.9
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ScanProgressActionIcon.java,3,22.0,1,37min 30s,37.5,45,1479.3
+zaproxy,/main/java/org/parosproxy/paros/extension/option/SecurityProtocolsPanel.java,2,22.0,0,22min 30s,22.5,26,984.6
+zaproxy,/main/java/org/zaproxy/zap/scan/BaseContextScannerThread.java,3,21.0,0,3min,3.0,16,780.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/util/CaretVisibilityEnforcerOnFocusGain.java,3,21.0,0,27min 30s,27.5,33,727.5
+zaproxy,/main/java/org/zaproxy/zap/authentication/GenericAuthenticationCredentials.java,2,21.0,0,28min,28.0,55,1873.8
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderHtmlParser.java,3,21.0,0,32min 30s,32.5,21,1088.1
+zaproxy,/main/java/org/zaproxy/zap/view/AbstractMultipleOrderedOptionsBaseTablePanel.java,4,20.0,0,40min,40.0,30,793.8
+zaproxy,/main/java/org/zaproxy/zap/control/AddOnLoaderUtils.java,4,20.0,0,1h 40min,100.0,17,876.3
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/AntiCsrfParamToken.java,2,20.0,3,1h 10min,70.0,29,735.6
+zaproxy,/main/java/org/zaproxy/zap/scan/BaseScannerThreadManager.java,5,20.0,0,10min,10.0,21,561.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ChallengeCallbackAPI.java,4,20.0,0,17min 30s,17.5,44,1296.6
+zaproxy,/main/java/org/zaproxy/zap/extension/users/ContextUsersPanel.java,1,20.0,1,45min,45.0,87,2373.3
+zaproxy,/main/java/org/parosproxy/paros/db/DbUtils.java,2,20.0,0,0,0.0,33,860.1
+zaproxy,/main/java/org/zaproxy/zap/spider/filters/DefaultParseFilter.java,2,20.0,2,1h 22min,82.0,23,868.2
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/DefaultSelectableHistoryReferencesContainer.java,1,20.0,0,35min,35.0,25,552.9
+zaproxy,/main/java/org/parosproxy/paros/extension/Extension.java,3,20.0,0,20min,20.0,27,640.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/image/ExtensionHttpPanelImageView.java,1,20.0,0,30min,30.0,80,2530.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largerequest/ExtensionHttpPanelLargeRequestView.java,1,20.0,0,1h,60.0,133,4134.0
+zaproxy,/main/java/org/zaproxy/zap/extension/siterefresh/ExtensionSitesRefresh.java,1,20.0,0,0,0.0,27,1167.3
+zaproxy,/main/java/org/zaproxy/zap/model/GenericScanner.java,1,20.0,0,0,0.0,33,960.3
+zaproxy,/main/java/org/zaproxy/zap/view/HighlighterManager.java,3,20.0,0,20min,20.0,77,1687.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/split/request/HttpRequestBodyPanelTextView.java,1,20.0,4,45min,45.0,28,1204.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/split/request/HttpRequestHeaderPanelTextView.java,1,20.0,5,1h 5min,65.0,29,1358.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/split/response/HttpResponseBodyPanelTextView.java,1,20.0,4,45min,45.0,28,1204.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/split/response/HttpResponseHeaderPanelTextView.java,1,20.0,5,1h 5min,65.0,29,1358.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/HttpSessionsPanel.java,4,20.0,0,1h 20min,80.0,62,2970.0
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/HttpSessionToken.java,2,20.0,3,1h 10min,70.0,30,735.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/ImmutableHttpPanelViewModel.java,4,20.0,0,0,0.0,22,436.5
+zaproxy,/main/java/org/zaproxy/zap/extension/keyboard/KeyboardAPI.java,4,20.0,0,17min 30s,17.5,39,1151.1
+zaproxy,/main/java/org/parosproxy/paros/extension/manualrequest/MessageSender.java,1,20.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/NameValuePair.java,1,20.0,0,2h 12min,132.0,31,764.7
+zaproxy,/main/java/org/parosproxy/paros/view/OptionsDialog.java,4,20.0,0,15min,15.0,33,1848.0
+zaproxy,/main/java/org/zaproxy/zap/spider/filters/ParseFilter.java,2,20.0,0,7min 30s,7.5,14,635.4
+zaproxy,/main/java/org/zaproxy/zap/utils/PausableScheduledThreadPoolExecutor.java,1,20.0,4,57min 30s,57.5,40,1333.8
+zaproxy,/main/java/org/zaproxy/zap/utils/PausableThreadPoolExecutor.java,1,20.0,4,1h,60.0,32,1408.2
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupExcludeFromProxyMenu.java,1,20.0,0,7min 30s,7.5,27,1109.1
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupExcludeFromScanMenu.java,1,20.0,0,7min 30s,7.5,26,1109.1
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupExcludeFromSpiderMenu.java,1,20.0,0,7min 30s,7.5,26,1109.1
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/PopupMenuItemAlert.java,3,20.0,0,1h 37min,97.0,27,1204.5
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/PopupMenuItemSpiderDialog.java,1,20.0,5,57min 30s,57.5,29,1291.8
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/SampleResponse.java,4,20.0,0,0,0.0,28,1005.6
+zaproxy,/main/java/org/zaproxy/zap/scan/ScannerThreadManager.java,2,20.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/Search.java,2,20.0,0,8min 30s,8.5,35,910.2
+zaproxy,/main/java/org/parosproxy/paros/view/SessionGeneralPanel.java,1,20.0,1,25min,25.0,43,2350.8
+zaproxy,/main/java/org/zaproxy/zap/utils/SortedComboBoxModel.java,1,20.0,3,30min,30.0,23,772.8
+zaproxy,/main/java/org/zaproxy/zap/utils/SortedListModel.java,1,20.0,3,20min,20.0,13,540.0
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderPanel.java,4,20.0,1,1h 30min,90.0,101,3967.5
+zaproxy,/main/java/org/zaproxy/zap/extension/users/UsersTableModel.java,2,20.0,8,2h 47min,167.0,37,793.8
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantAbstractRPCQuery.java,2,20.0,0,7min 30s,7.5,87,2717.7
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantODataFilterQuery.java,5,20.0,0,1h 5min,65.0,56,1463.1
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/AutoUpdateAPI.java,4,18.0,0,1h 52min,112.0,78,1986.9
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/OptionsParamCheckForUpdates.java,5,18.0,0,1h 57min,117.0,108,3138.0
+zaproxy,/main/java/org/zaproxy/zap/spider/SpiderTask.java,3,18.0,0,2h 34min,154.0,57,2840.7
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ActiveScanController.java,6,17.0,0,2h 2min,122.0,93,3589.2
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/PolicyManager.java,6,17.0,0,1h 32min,92.0,98,2667.6
+zaproxy,/main/java/org/zaproxy/zap/extension/proxies/ProxiesAPI.java,5,17.0,0,30min,30.0,39,1209.3
+zaproxy,/main/java/org/zaproxy/zap/model/Tech.java,6,17.0,0,1h 17min,77.0,114,3590.7
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantHeader.java,4,16.0,0,17min 30s,17.5,20,743.7
+zaproxy,/main/java/org/zaproxy/zap/model/Vulnerabilities.java,2,16.0,0,37min 30s,37.5,31,764.7
+zaproxy,/main/java/org/zaproxy/zap/view/AboutPanel.java,3,15.0,0,22min 30s,22.5,18,963.6
+zaproxy,/main/java/org/zaproxy/zap/view/AbstractMultipleOptionsTablePanel.java,3,15.0,0,22min 30s,22.5,16,502.8
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/AlertTreeModel.java,3,15.0,0,1h 37min,97.0,71,3584.4
+zaproxy,/main/java/org/zaproxy/zap/authentication/AuthenticationHelper.java,2,15.0,0,10min 30s,10.5,66,2405.7
+zaproxy,/main/java/org/zaproxy/zap/scan/BaseScannerThread.java,3,15.0,0,1min,1.0,18,868.2
+zaproxy,/main/java/org/zaproxy/zap/view/ContextGeneralPanel.java,3,15.0,1,42min 30s,42.5,57,2421.9
+zaproxy,/main/java/org/zaproxy/zap/view/table/DefaultHistoryReferencesTableModel.java,1,15.0,0,1h 45min,105.0,75,1666.8
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ExtensionAPI.java,2,15.0,0,15min,15.0,52,1786.5
+zaproxy,/main/java/org/zaproxy/zap/extension/encoder2/ExtensionEncoder2.java,4,15.0,0,17min 30s,17.5,51,1873.8
+zaproxy,/main/java/org/parosproxy/paros/extension/manualrequest/ExtensionManualRequestEditor.java,3,15.0,1,35min,35.0,54,2027.4
+zaproxy,/main/java/org/zaproxy/zap/db/sql/HsqldbDatabase.java,2,15.0,0,25min,25.0,35,1138.2
+zaproxy,/main/java/org/zaproxy/zap/extension/params/HtmlParameterStats.java,1,15.0,0,17min 30s,17.5,69,2032.2
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/impl/http/HttpBreakpointManagementDaemonImpl.java,3,15.0,1,1h 20min,80.0,75,1812.3
+zaproxy,/main/java/org/zaproxy/zap/spider/filters/MaxChildrenParseFilter.java,2,15.0,2,20min,20.0,17,502.8
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationTableEntry.java,1,15.0,0,0,0.0,45,960.3
+zaproxy,/main/java/org/zaproxy/zap/extension/option/OptionsParamMisc.java,2,15.0,0,0,0.0,7,174.6
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/PolicyDialog.java,2,15.0,0,7min 30s,7.5,36,1707.3
+zaproxy,/main/java/org/parosproxy/paros/view/SessionDialog.java,2,15.0,0,7min 30s,7.5,30,793.8
+zaproxy,/main/java/org/zaproxy/zap/spider/SpiderController.java,5,15.0,0,2h 59min,179.0,60,2160.0
+zaproxy,/main/java/org/zaproxy/zap/view/StatusUI.java,1,15.0,0,10min,10.0,10,232.8
+zaproxy,/main/java/org/parosproxy/paros/db/TableHistory.java,3,15.0,0,0,0.0,47,1309.5
+zaproxy,/main/java/org/zaproxy/zap/extension/option/OptionsLocalePanel.java,5,14.0,0,25min,25.0,33,1341.9
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosTableScan.java,4,14.0,1,57min 30s,57.5,45,1471.2
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/AntiCsrfParam.java,4,13.0,0,37min 30s,37.5,40,1113.9
+zaproxy,/main/java/org/zaproxy/zap/utils/ContentMatcher.java,5,13.0,0,22min,22.0,18,523.8
+zaproxy,/main/java/org/parosproxy/paros/extension/option/OptionsParamCertificate.java,3,13.0,0,27min 30s,27.5,53,1251.3
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PassiveScanAPI.java,3,13.0,1,50min,50.0,72,2119.5
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderScanController.java,8,13.0,0,1h 52min,112.0,80,3269.1
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/Highlighter.java,2,12.0,0,18min 30s,18.5,51,1018.5
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/OptionsCallbackPanel.java,5,12.0,0,30min,30.0,64,2127.6
+zaproxy,/main/java/org/zaproxy/zap/extension/history/PopupMenuPurgeSites.java,2,12.0,0,17min 30s,17.5,29,1042.8
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptEngineWrapper.java,3,12.0,0,10min,10.0,30,698.4
+zaproxy,/main/java/org/zaproxy/zap/network/ZapCookieSpec.java,2,12.0,0,15min,15.0,10,510.9
+zaproxy,/main/java/org/parosproxy/paros/network/ByteVector.java,2,11.0,0,30min,30.0,36,843.9
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlTableSession.java,3,11.0,0,27min 30s,27.5,40,1421.1
+zaproxy,/main/java/org/zaproxy/zap/view/AbstractContextPropertiesPanel.java,1,10.0,0,7min 30s,7.5,32,640.2
+zaproxy,/main/java/org/zaproxy/zap/view/panels/AbstractContextSelectToolbarStatusPanel.java,2,10.0,0,15min,15.0,52,2072.7
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/filters/impl/AbstractGenericScanFilter.java,2,10.0,3,1h 45min,105.0,38,939.3
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiException.java,1,10.0,2,1h 27min,87.0,54,1728.3
+zaproxy,/main/java/org/zaproxy/zap/extension/authorization/AuthorizationAPI.java,2,10.0,2,55min,55.0,37,843.9
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/ui/CallbackPanel.java,2,10.0,0,0,0.0,58,2114.7
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/ui/CallbackRequest.java,2,10.0,0,7min 30s,7.5,28,698.4
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ChallengeCallbackPlugin.java,1,10.0,0,0,0.0,2,58.2
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/ComponentWithBackground.java,1,10.0,0,0,0.0,15,656.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/ComponentWithTitle.java,1,10.0,0,0,0.0,11,540.0
+zaproxy,/main/java/org/zaproxy/zap/view/ContextExportDialog.java,2,10.0,0,1h 15min,75.0,26,677.4
+zaproxy,/main/java/org/parosproxy/paros/network/DecoratedSocketsSslSocketFactory.java,2,10.0,0,0,0.0,53,1222.2
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/ui/DefaultCustomColumnHistoryReferencesTableModel.java,1,10.0,0,1h 37min,97.0,47,1201.2
+zaproxy,/main/java/org/zaproxy/zap/extension/script/DefaultEngineWrapper.java,1,10.0,0,40min,40.0,45,1458.3
+zaproxy,/main/java/org/zaproxy/zap/extension/proxies/DialogAddProxy.java,2,10.0,0,27min 30s,27.5,35,910.2
+zaproxy,/main/java/org/zaproxy/zap/eventBus/Event.java,1,10.0,0,0,0.0,21,523.8
+zaproxy,/main/java/org/zaproxy/zap/eventBus/EventBus.java,1,10.0,0,0,0.0,2,0.0
+zaproxy,/main/java/org/zaproxy/zap/eventBus/EventConsumer.java,1,10.0,0,0,0.0,2,58.2
+zaproxy,/main/java/org/zaproxy/zap/eventBus/EventPublisher.java,1,10.0,0,0,0.0,1,0.0
+zaproxy,/main/java/org/parosproxy/paros/extension/edit/ExtensionEdit.java,2,10.0,0,10min,10.0,32,1254.6
+zaproxy,/main/java/org/zaproxy/zap/view/HttpPanelManager.java,1,10.0,0,2h,120.0,225,5668.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/paramtable/HttpPanelParamTableModel.java,2,10.0,4,2h 7min,127.0,67,1791.3
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/HttpPanelRequest.java,2,10.0,0,15min,15.0,25,743.7
+zaproxy,/main/java/org/parosproxy/paros/extension/manualrequest/http/impl/HttpPanelSender.java,2,10.0,4,1h 37min,97.0,106,3353.1
+zaproxy,/main/java/org/zaproxy/zap/network/HttpRequestBody.java,1,10.0,1,20min,20.0,18,627.3
+zaproxy,/main/java/org/zaproxy/zap/extension/script/JavascriptEngineWrapper.java,1,10.0,0,10min,10.0,18,407.4
+zaproxy,dle/spotless/license.java,1,10.0,null,null,null,null,null
+zaproxy,/main/java/org/zaproxy/zap/utils/LocaleUtils.java,2,10.0,0,1h 10min,70.0,39,1350.0
+zaproxy,/main/java/org/zaproxy/zap/view/MessagePanelsPositionController.java,1,10.0,0,0,0.0,18,714.6
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/OptionsPassiveScanTableModel.java,2,10.0,4,1h 27min,87.0,42,1304.7
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/OptionsScannerPanel.java,2,10.0,0,45min,45.0,108,4470.3
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/OptionsVariantPanel.java,2,10.0,0,1h 40min,100.0,150,7348.2
+zaproxy,/main/java/org/zaproxy/zap/view/PersistSessionDialog.java,2,10.0,0,22min 30s,22.5,56,2488.2
+zaproxy,/main/java/org/zaproxy/zap/view/PopupMenuHttpMessage.java,1,10.0,0,27min 30s,27.5,36,1400.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/PopupMenuItemCopySessionToken.java,2,10.0,0,17min 30s,17.5,21,839.1
+zaproxy,/main/java/org/zaproxy/zap/extension/history/PopupMenuShowInHistory.java,1,10.0,5,57min 30s,57.5,23,955.5
+zaproxy,/main/java/org/zaproxy/zap/view/PopupMenuSiteNode.java,1,10.0,0,27min 30s,27.5,36,1122.0
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuSpiderContext.java,1,10.0,0,17min 30s,17.5,18,810.0
+zaproxy,/main/java/org/parosproxy/paros/network/ProxyExcludedDomainMatcher.java,1,10.0,0,7min 30s,7.5,17,656.4
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptVars.java,1,10.0,0,17min 30s,17.5,32,706.5
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/SenderThread.java,1,10.0,0,0,0.0,24,889.2
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/SenderThreadListener.java,1,10.0,0,0,0.0,3,87.3
+zaproxy,/main/java/org/parosproxy/paros/security/SslCertificateService.java,2,10.0,0,0,0.0,3,87.3
+zaproxy,/main/java/org/zaproxy/zap/view/TabbedPanelTab.java,2,10.0,0,45min,45.0,32,1217.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TreeNodeElement.java,1,10.0,0,0,0.0,23,582.0
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantAbstractQuery.java,1,10.0,0,32min 30s,32.5,57,1932.0
+zaproxy,/main/java/org/zaproxy/zap/Version.java,2,10.0,0,1h 30min,90.0,23,714.6
+zaproxy,/main/java/org/parosproxy/paros/view/WaitMessageDialog.java,2,10.0,0,0,0.0,18,868.2
+zaproxy,/main/java/org/zaproxy/zap/view/ZapSupportDialog.java,2,10.0,1,25min,25.0,36,1590.9
+zaproxy,/main/java/org/zaproxy/zap/extension/history/PopupMenuExportSelectedURLs.java,4,9.0,1,35min,35.0,21,531.9
+zaproxy,/main/java/org/zaproxy/zap/extension/sessions/SessionManagementAPI.java,2,9.0,4,1h 52min,112.0,50,1624.8
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiResponseConversionUtils.java,1,8.0,0,55min,55.0,40,1159.2
+zaproxy,/main/java/org/zaproxy/zap/extension/authorization/ContextAuthorizationPanel.java,3,8.0,0,48min 30s,48.5,63,1857.6
+zaproxy,/main/java/org/zaproxy/zap/view/table/DefaultHistoryReferencesTableEntry.java,4,8.0,0,1h 27min,87.0,89,2701.5
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupContextTreeMenu.java,2,8.0,0,59min 30s,59.5,25,611.1
+zaproxy,/main/java/org/zaproxy/zap/extension/ruleconfig/RuleConfigAPI.java,2,8.0,0,7min 30s,7.5,39,1209.3
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptTreeModel.java,1,8.0,0,1h 55min,115.0,86,3091.2
+zaproxy,/main/java/org/zaproxy/zap/extension/users/UsersAPI.java,2,8.0,9,4h 20min,260.0,61,2098.5
+zaproxy,/main/java/org/zaproxy/zap/view/widgets/UsersMultiSelectTable.java,4,8.0,7,2h 15min,135.0,53,1288.5
+zaproxy,/main/java/ch/csnc/extension/ui/AliasTableModel.java,4,7.0,0,0,0.0,35,698.4
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/CallbackParam.java,4,7.0,0,1h,60.0,36,1209.3
+zaproxy,/main/java/org/zaproxy/zap/view/renderer/DateFormatStringValue.java,2,7.0,0,20min,20.0,15,751.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/HttpSessionsParam.java,2,7.0,0,47min 30s,47.5,26,611.1
+zaproxy,/main/java/org/zaproxy/zap/extension/params/ParamsAPI.java,1,7.0,0,27min 30s,27.5,29,793.8
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosTableParam.java,2,7.0,1,1h 5min,65.0,61,1849.5
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosTableTag.java,2,7.0,0,47min 30s,47.5,67,1804.2
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/PopupMenuEditBreak.java,2,7.0,0,10min,10.0,19,810.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ruleconfig/RuleConfigParam.java,3,7.0,0,37min 30s,37.5,40,873.0
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/AddOnWrapper.java,4,6.0,0,1h 7min,67.0,43,1201.2
+zaproxy,/main/java/org/zaproxy/zap/extension/keyboard/DialogEditShortcut.java,2,6.0,0,52min 30s,52.5,54,1712.1
+zaproxy,/main/java/org/zaproxy/zap/tasks/GradleBuildWithGitRepos.java,1,6.0,1,47min 30s,47.5,81,2198.7
+zaproxy,/main/java/org/zaproxy/zap/extension/keyboard/KeyboardParam.java,2,6.0,0,0,0.0,30,640.2
+zaproxy,/main/java/org/zaproxy/zap/extension/proxies/ProxiesParam.java,2,6.0,0,17min 30s,17.5,59,1579.5
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/impl/http/ProxyListenerBreak.java,3,6.0,0,1h 17min,77.0,27,698.4
+zaproxy,/main/java/org/zaproxy/zap/authentication/AbstractAuthenticationMethodOptionsPanel.java,1,5.0,0,7min 30s,7.5,4,182.7
+zaproxy,/main/java/org/zaproxy/zap/session/AbstractSessionManagementMethodOptionsPanel.java,1,5.0,0,0,0.0,5,211.8
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/AntiCsrfAPI.java,1,5.0,0,7min 30s,7.5,39,1180.2
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/AttackScan.java,1,5.0,0,25min,25.0,34,669.3
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakpointsTableModel.java,1,5.0,0,10min,10.0,71,1725.0
+zaproxy,/main/java/org/zaproxy/zap/view/ContextListPanel.java,1,5.0,2,20min,20.0,34,1773.6
+zaproxy,/main/java/org/parosproxy/paros/db/DatabaseListener.java,1,5.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/extension/ruleconfig/DialogEditRuleConfig.java,1,5.0,0,7min 30s,7.5,34,1063.8
+zaproxy,/main/java/org/zaproxy/zap/tasks/DownloadAddOns.java,1,5.0,0,37min 30s,37.5,60,1529.4
+zaproxy,/main/java/org/zaproxy/zap/view/DynamicFieldsPanel.java,1,5.0,0,2min,2.0,32,1034.7
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ExcludedParameterTableModel.java,1,5.0,4,1h 10min,70.0,25,648.3
+zaproxy,/main/java/org/parosproxy/paros/extension/ExtensionHookView.java,1,5.0,0,17min 30s,17.5,35,727.5
+zaproxy,/main/java/org/zaproxy/zap/utils/FilteredZapTextField.java,1,5.0,0,20min,20.0,15,780.9
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/impl/http/HttpBreakpointsUiManagerInterface.java,1,5.0,0,0,0.0,64,1521.3
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/HttpPanelResponse.java,1,5.0,0,7min 30s,7.5,15,693.6
+zaproxy,/main/java/org/zaproxy/zap/network/HttpResponseBody.java,1,5.0,0,50min,50.0,32,669.3
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/HttpSessionTokensSet.java,1,5.0,0,30min,30.0,8,174.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largerequest/LargeRequestStringHttpPanelViewModel.java,1,5.0,0,17min 30s,17.5,15,722.7
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/largeresponse/LargeResponseStringHttpPanelViewModel.java,1,5.0,0,17min 30s,17.5,15,722.7
+zaproxy,/main/java/org/parosproxy/paros/view/MainFooterPanel.java,3,5.0,0,1h 20min,80.0,111,4287.6
+zaproxy,/main/java/org/zaproxy/zap/spider/filters/MaxChildrenFetchFilter.java,1,5.0,0,10min,10.0,14,320.1
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/OptionsAlertPanel.java,1,5.0,0,15min,15.0,58,2056.5
+zaproxy,/main/java/org/zaproxy/zap/extension/ext/OptionsExtensionTableModel.java,1,5.0,5,2h 40min,160.0,65,2135.7
+zaproxy,/main/java/ch/csnc/extension/util/OptionsParamExperimentalSliSupport.java,1,5.0,0,7min 30s,7.5,16,320.1
+zaproxy,/main/java/org/zaproxy/zap/extension/params/ParamScanner.java,1,5.0,0,0,0.0,26,582.0
+zaproxy,/main/java/org/parosproxy/paros/db/paros/ParosAbstractTable.java,1,5.0,3,27min 30s,27.5,28,669.3
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PassiveScannerList.java,1,5.0,0,30min,30.0,33,727.5
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PassiveScanParam.java,1,5.0,0,15min,15.0,43,1134.9
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuCopyUrls.java,1,5.0,0,15min,15.0,22,648.3
+zaproxy,/main/java/org/zaproxy/zap/extension/params/PopupMenuParamSearch.java,1,5.0,0,10min,10.0,20,561.0
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/PopupMenuRemove.java,2,5.0,0,10min,10.0,18,561.0
+zaproxy,/main/java/org/zaproxy/zap/extension/params/PopupMenuRemoveAntiCSRF.java,1,5.0,3,30min,30.0,22,743.7
+zaproxy,/main/java/org/zaproxy/zap/extension/params/PopupMenuRemoveSession.java,1,5.0,3,30min,30.0,22,743.7
+zaproxy,/main/java/org/zaproxy/zap/extension/siterefresh/PopupMenuSitesRefresh.java,1,5.0,0,10min,10.0,17,598.2
+zaproxy,/main/java/org/zaproxy/zap/view/PositiveValuesSlider.java,1,5.0,0,10min,10.0,15,722.7
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/all/response/ResponseAllComponent.java,1,5.0,0,15min,15.0,15,540.0
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/split/response/ResponseSplitComponent.java,1,5.0,0,15min,15.0,18,627.3
+zaproxy,/main/java/org/zaproxy/zap/users/Role.java,1,5.0,0,0,0.0,3,87.3
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ScanPolicy.java,1,5.0,0,30min,30.0,59,1222.2
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ScanProgressItem.java,1,5.0,4,2h 17min,137.0,39,1516.5
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptWrapper.java,1,5.0,0,1h 17min,77.0,126,3640.8
+zaproxy,/main/java/org/zaproxy/zap/view/SessionTableSelectDialog.java,1,5.0,0,7min 30s,7.5,16,502.8
+zaproxy,/main/java/org/zaproxy/zap/spider/SpiderTaskResult.java,1,5.0,0,0,0.0,4,116.4
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlAbstractTable.java,1,5.0,3,27min 30s,27.5,27,669.3
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlTableTag.java,1,5.0,1,57min 30s,57.5,54,1637.7
+zaproxy,/main/java/org/zaproxy/zap/extension/stats/Statsd.java,1,5.0,0,0,0.0,84,2476.8
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/scanner/StatsPassiveScanner.java,1,5.0,0,15min,15.0,28,1167.3
+zaproxy,/main/java/org/zaproxy/zap/model/StructuralSiteNodeIterator.java,2,5.0,0,10min,10.0,15,320.1
+zaproxy,/main/java/org/zaproxy/zap/model/Target.java,3,5.0,0,1h,60.0,73,1783.2
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/TextMessageLocationHighlightsManager.java,1,5.0,0,0,0.0,13,569.1
+zaproxy,/main/java/org/parosproxy/paros/common/ThreadPool.java,2,5.0,0,20min,20.0,17,656.4
+zaproxy,/main/java/org/zaproxy/zap/view/renderer/TimeDurationStringValue.java,1,5.0,0,10min,10.0,26,889.2
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantFormQuery.java,1,5.0,0,0,0.0,21,772.8
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantURLQuery.java,1,5.0,0,0,0.0,18,685.5
+zaproxy,/main/java/org/zaproxy/zap/extension/log4j/ZapOutputWriter.java,1,5.0,0,17min 30s,17.5,16,473.7
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapSupportUtils.java,1,5.0,0,7min 30s,7.5,56,2687.1
+zaproxy,/main/java/org/zaproxy/zap/extension/stats/InMemoryStats.java,4,4.0,0,30min,30.0,81,1841.4
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/MultipartFormParameter.java,2,4.0,0,7min 30s,7.5,33,873.0
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/Plugin.java,2,4.0,0,0,0.0,47,843.9
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchResult.java,3,4.0,2,1h 27min,87.0,55,1396.8
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantXMLQuery.java,2,4.0,0,15min,15.0,23,1167.3
+zaproxy,/main/java/org/zaproxy/zap/utils/NetworkUtils.java,2,3.0,2,20min,20.0,17,722.7
+zaproxy,/main/java/org/zaproxy/zap/extension/history/PopupMenuExportContextURLs.java,2,3.0,0,37min 30s,37.5,27,1021.8
+zaproxy,/main/java/org/zaproxy/zap/view/table/AlertRiskTableCellItem.java,1,2.0,0,1h 45min,105.0,27,1013.7
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakPanelToolbarFactory.java,1,2.0,0,2h 7min,127.0,222,7744.2
+zaproxy,/main/java/org/zaproxy/zap/extension/users/ContextUserAuthManager.java,1,2.0,0,23min,23.0,11,174.6
+zaproxy,/main/java/org/zaproxy/zap/model/DefaultNameValuePair.java,1,2.0,0,2h 37min,157.0,26,831.0
+zaproxy,/main/java/org/zaproxy/zap/utils/Enableable.java,1,2.0,0,47min 30s,47.5,27,619.2
+zaproxy,/main/java/org/zaproxy/zap/spider/filters/FetchFilter.java,1,2.0,0,7min 30s,7.5,6,240.9
+zaproxy,/main/java/org/zaproxy/zap/extension/globalexcludeurl/GlobalExcludeURLParamToken.java,2,2.0,0,50min,50.0,39,997.5
+zaproxy,/main/java/org/parosproxy/paros/network/HttpBody.java,1,2.0,0,2h 35min,155.0,33,831.0
+zaproxy,/main/java/org/zaproxy/zap/spider/filters/HttpPrefixFetchFilter.java,1,2.0,0,2h 50min,170.0,13,386.4
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/HttpSession.java,1,2.0,1,1h 50min,110.0,23,619.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/util/HttpTextViewUtils.java,1,2.0,0,2h 45min,165.0,18,693.6
+zaproxy,/main/java/org/zaproxy/zap/extension/lang/LangImporter.java,1,2.0,0,17min 30s,17.5,27,1387.2
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationsTableModel.java,1,2.0,0,1h 30min,90.0,66,2048.4
+zaproxy,/main/java/org/parosproxy/paros/extension/option/OptionsJvmPanel.java,1,2.0,0,15min,15.0,49,2151.9
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemContext.java,1,2.0,0,17min 30s,17.5,31,822.9
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/PopupMenuShowAlerts.java,1,2.0,3,57min 30s,57.5,25,1109.1
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/ScannerListener.java,1,2.0,0,0,0.0,15,436.5
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchMatch.java,1,2.0,0,0,0.0,38,843.9
+zaproxy,/main/java/org/zaproxy/zap/view/SingleColumnTableModel.java,1,2.0,0,2min,2.0,42,931.2
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderSitemapXMLParser.java,1,2.0,0,51min 30s,51.5,20,810.0
+zaproxy,/main/java/org/parosproxy/paros/security/SslCertificateServiceImpl.java,1,2.0,0,7min 30s,7.5,36,1151.1
+zaproxy,/main/java/org/zaproxy/zap/utils/Statistics.java,2,2.0,0,0,0.0,46,873.0
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TableCellElementSearch.java,2,2.0,0,47min 30s,47.5,80,2148.6
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/filters/impl/UrlPatternScanFilter.java,1,2.0,0,0,0.0,18,780.9
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantUserDefined.java,2,2.0,0,7min 30s,7.5,44,989.4
+zaproxy,/main/java/org/zaproxy/zap/ZapHttpConnection.java,1,2.0,0,0,0.0,4,365.4
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapNumberSpinner.java,1,2.0,0,50min,50.0,87,1899.6
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiDynamicActionImplementor.java,1,1.0,0,1min,1.0,7,394.5
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakEventPublisher.java,1,1.0,0,7min 30s,7.5,22,523.8
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakpointsOptionsPanel.java,1,1.0,0,7min 30s,7.5,41,2255.4
+zaproxy,/main/java/org/zaproxy/zap/utils/JsonUtil.java,1,1.0,0,10min,10.0,12,606.3
+zaproxy,/main/java/org/parosproxy/paros/extension/option/OptionsDatabasePanel.java,1,1.0,0,15min,15.0,45,1603.8
+zaproxy,/main/java/org/zaproxy/zap/extension/proxies/OptionsLocalProxyPanel.java,3,1.0,0,22min 30s,22.5,43,2101.8
+zaproxy,/main/java/org/parosproxy/paros/extension/history/ProxyListenerLogEventPublisher.java,1,1.0,0,7min 30s,7.5,19,465.6
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptType.java,1,1.0,0,15min,15.0,15,407.4
+zaproxy,/main/java/org/zaproxy/zap/utils/Stats.java,1,1.0,0,0,0.0,104,4037.1
+zaproxy,/main/java/org/zaproxy/zap/view/widgets/UsersMultiSelectList.java,1,1.0,1,11min,11.0,11,635.4
+zaproxy,/main/java/org/zaproxy/zap/view/AboutDialog.java,0,0.0,0,15min,15.0,9,452.7
+zaproxy,/main/java/org/zaproxy/zap/view/AboutWindow.java,0,0.0,0,0,0.0,11,540.0
+zaproxy,/main/java/org/zaproxy/zap/extension/api/AbstractAPIGenerator.java,0,0.0,0,7min 30s,7.5,24,934.5
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/AbstractAppPlugin.java,0,0.0,0,7min 30s,7.5,5,394.5
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/AbstractBreakPointMessage.java,0,0.0,0,0,0.0,11,232.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/AbstractByteHttpPanelViewModel.java,0,0.0,0,0,0.0,11,481.8
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/AbstractComponentSearch.java,0,0.0,0,1h 15min,75.0,67,1338.6
+zaproxy,/main/java/org/parosproxy/paros/control/AbstractControl.java,0,0.0,0,0,0.0,19,436.5
+zaproxy,/main/java/org/zaproxy/zap/view/table/AbstractCustomColumnHistoryReferencesTableModel.java,0,0.0,0,1h 7min,67.0,20,714.6
+zaproxy,/main/java/org/parosproxy/paros/db/AbstractDatabase.java,0,0.0,0,0,0.0,19,349.2
+zaproxy,/main/java/org/zaproxy/zap/view/table/AbstractHistoryReferencesTableModel.java,0,0.0,0,17min 30s,17.5,36,814.8
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/AbstractHostPlugin.java,0,0.0,0,7min 30s,7.5,6,394.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/AbstractHttpByteHttpPanelViewModel.java,0,0.0,0,15min,15.0,9,481.8
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/AbstractHttpMessageContainer.java,0,0.0,0,7min 30s,7.5,6,394.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/AbstractHttpStringHttpPanelViewModel.java,0,0.0,0,15min,15.0,9,481.8
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/AbstractMessageContainer.java,0,0.0,0,0,0.0,7,203.7
+zaproxy,/main/java/org/zaproxy/zap/view/AbstractMultipleOptionsBaseTableModel.java,0,0.0,0,7min 30s,7.5,26,531.9
+zaproxy,/main/java/org/zaproxy/zap/view/AbstractMultipleOptionsTableModel.java,0,0.0,0,7min 30s,7.5,15,386.4
+zaproxy,/main/java/org/zaproxy/zap/view/AbstractMultipleOrderedOptionsBaseTableModel.java,0,0.0,0,0,0.0,4,365.4
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/AbstractStringHttpPanelViewModel.java,0,0.0,0,0,0.0,11,481.8
+zaproxy,/main/java/org/zaproxy/zap/view/table/decorator/AbstractTableCellItemIconHighlighter.java,0,0.0,0,17min 30s,17.5,31,1130.1
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ActiveScanEventPublisher.java,0,0.0,0,0,0.0,21,714.6
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ActiveScanTableModel.java,0,0.0,0,7min 30s,7.5,7,394.5
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ActiveScript.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ActiveScript2.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/control/AddOnClassnames.java,0,0.0,0,37min 30s,37.5,11,291.0
+zaproxy,/main/java/org/zaproxy/zap/extension/AddonFilesChangedListener.java,0,0.0,0,0,0.0,2,58.2
+zaproxy,/main/java/org/zaproxy/zap/extension/AddOnInstallationStatusListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/control/AddOnUninstallationProgressCallback.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/AlertEventPublisher.java,0,0.0,0,7min 30s,7.5,24,889.2
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/AlertParam.java,0,0.0,0,0,0.0,15,436.5
+zaproxy,/main/java/org/zaproxy/zap/view/table/decorator/AlertRiskTableCellItemIconHighlighter.java,0,0.0,2,50min,50.0,20,714.6
+zaproxy,/main/java/ch/csnc/extension/httpclient/AliasCertificate.java,0,0.0,0,30min,30.0,23,582.0
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/AntiCsrfDetectScanner.java,0,0.0,0,7min 30s,7.5,35,1275.6
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiAction.java,0,0.0,0,0,0.0,26,743.7
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiElement.java,0,0.0,0,17min 30s,17.5,69,1367.7
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiOther.java,0,0.0,0,0,0.0,45,989.4
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiParameter.java,0,0.0,0,0,0.0,8,174.6
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiPersistentConnection.java,0,0.0,0,0,0.0,25,801.9
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiResponse.java,0,0.0,0,7min 30s,7.5,28,582.0
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiResponseElement.java,0,0.0,0,7min 30s,7.5,50,1354.8
+zaproxy,/main/java/org/zaproxy/zap/utils/ApiUtils.java,0,0.0,0,1h,60.0,16,942.6
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ApiView.java,0,0.0,0,0,0.0,26,743.7
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/ArrangeableProxyListener.java,0,0.0,0,0,0.0,2,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/authentication/AuthenticationAPI.java,0,0.0,8,3h 50min,230.0,71,2156.7
+zaproxy,/main/java/org/zaproxy/zap/authentication/AuthenticationCredentials.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/authentication/AuthenticationIndicatorsPanel.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/AutoDetectSyntaxHttpPanelTextArea.java,0,0.0,0,7min 30s,7.5,31,669.3
+zaproxy,/main/java/org/zaproxy/zap/extension/help/BasicOnlineContentViewerUI.java,0,0.0,0,0,0.0,23,743.7
+zaproxy,/main/java/org/zaproxy/zap/utils/BoyerMooreMatcher.java,0,0.0,0,10min,10.0,8,299.1
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/impl/http/BreakAddEditDialog.java,0,0.0,0,57min 30s,57.5,62,2048.4
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakpointManagementInterface.java,0,0.0,0,0,0.0,42,1193.1
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakpointMessageInterface.java,0,0.0,0,0,0.0,14,378.3
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakpointsParam.java,1,0.0,0,7min 30s,7.5,26,727.5
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/BreakpointsUiManagerInterface.java,0,0.0,0,0,0.0,15,436.5
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/ButtonSearch.java,0,0.0,0,0,0.0,21,714.6
+zaproxy,/main/java/org/parosproxy/paros/security/CachedSslCertifificateServiceImpl.java,0,0.0,0,10min,10.0,26,1042.8
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/CacheProcessingItem.java,0,0.0,0,0,0.0,13,569.1
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/CallbackImplementor.java,0,0.0,0,0,0.0,4,116.4
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/ui/CallbackTable.java,0,0.0,0,7min 30s,7.5,14,540.0
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/ui/CallbackTableModel.java,1,0.0,0,15min,15.0,20,934.5
+zaproxy,/main/java/org/parosproxy/paros/security/CertData.java,0,0.0,0,1h 2min,62.0,63,1741.2
+zaproxy,/main/java/ch/csnc/extension/ui/CertificateView.java,0,0.0,0,15min,15.0,8,423.6
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/CheckForUpdateCallback.java,0,0.0,0,0,0.0,4,116.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/ComboBoxElement.java,0,0.0,0,0,0.0,18,465.6
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/ComboBoxElementSearch.java,1,0.0,0,0,0.0,60,1500.3
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/ComboBoxSearch.java,0,0.0,0,10min,10.0,40,1333.8
+zaproxy,/main/java/org/parosproxy/paros/extension/CommandLineListener.java,0,0.0,0,0,0.0,6,58.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/ComponentChangedEvent.java,0,0.0,0,0,0.0,14,349.2
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/ComponentHighlighter.java,0,0.0,0,0,0.0,14,407.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/ComponentHighlighterProvider.java,0,0.0,0,0,0.0,4,116.4
+zaproxy,/main/java/org/zaproxy/zap/view/ComponentMaximiser.java,0,0.0,0,20min,20.0,5,145.5
+zaproxy,/main/java/org/zaproxy/zap/view/ComponentMaximiserMouseListener.java,0,0.0,0,40min,40.0,6,145.5
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/ComponentSearch.java,0,0.0,0,0,0.0,11,320.1
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/ComponentSearchProvider.java,0,0.0,0,0,0.0,4,116.4
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/ConnectRequestProxyListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/ContainerSearch.java,0,0.0,0,0,0.0,9,452.7
+zaproxy,/main/java/org/zaproxy/zap/view/ContextCreateDialog.java,0,0.0,0,27min 30s,27.5,24,860.1
+zaproxy,/main/java/org/zaproxy/zap/model/ContextDataFactory.java,0,0.0,0,0,0.0,5,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/forceduser/ContextForcedUserPanel.java,1,0.0,0,15min,15.0,31,939.3
+zaproxy,/main/java/org/zaproxy/zap/view/ContextPanelFactory.java,0,0.0,0,0,0.0,11,232.8
+zaproxy,/main/java/org/zaproxy/zap/view/widgets/ContextPanelUsersSelectComboBox.java,0,0.0,1,11min,11.0,9,357.3
+zaproxy,/main/java/org/zaproxy/zap/view/ContextsSitesPanel.java,0,0.0,0,17min 30s,17.5,36,1159.2
+zaproxy,/main/java/org/zaproxy/zap/view/ContextTechnologyPanel.java,0,0.0,0,7min 30s,7.5,39,1362.9
+zaproxy,/main/java/org/zaproxy/zap/control/CoreFunctionality.java,0,0.0,0,15min,15.0,20,714.6
+zaproxy,/main/java/org/zaproxy/zap/tasks/CreateGitHubRelease.java,0,0.0,0,30min,30.0,103,2560.8
+zaproxy,/main/java/org/zaproxy/zap/extension/callback/ui/CustomColumn.java,0,0.0,0,0,0.0,21,523.8
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/CustomScanPanel.java,0,0.0,0,0,0.0,null,null
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/CustomStreamsSocket.java,0,0.0,0,7min 30s,7.5,199,6158.1
+zaproxy,/main/java/org/parosproxy/paros/db/DatabaseException.java,0,0.0,0,0,0.0,12,357.3
+zaproxy,/main/java/org/parosproxy/paros/extension/option/DatabaseParam.java,0,0.0,0,7min 30s,7.5,19,523.8
+zaproxy,/main/java/org/parosproxy/paros/db/DatabaseServer.java,0,0.0,0,0,0.0,null,null
+zaproxy,/main/java/org/parosproxy/paros/db/DatabaseUnsupportedException.java,0,0.0,0,0,0.0,3,58.2
+zaproxy,/main/java/org/zaproxy/zap/spider/filters/DefaultFetchFilter.java,0,0.0,0,1h 30min,90.0,16,349.2
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/http/DefaultHttpMessageLocationsPanel.java,0,0.0,0,7min 30s,7.5,13,415.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/DefaultHttpPanelViewModel.java,0,0.0,0,0,0.0,28,706.5
+zaproxy,/main/java/org/zaproxy/zap/network/DefaultHttpRedirectionValidator.java,0,0.0,0,7min 30s,7.5,6,270.0
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/DefaultMultipleHistoryReferencesContainer.java,0,0.0,0,25min,25.0,9,357.3
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/DefaultMultipleHttpMessagesContainer.java,0,0.0,0,25min,25.0,15,320.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/DefaultSingleHistoryReferenceContainer.java,0,0.0,0,25min,25.0,16,320.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/DefaultSingleHttpMessageContainer.java,0,0.0,0,15min,15.0,8,174.6
+zaproxy,/main/java/org/zaproxy/zap/view/DeleteContextAction.java,0,0.0,0,17min 30s,17.5,11,913.5
+zaproxy,/main/java/org/zaproxy/zap/view/DeselectableButtonGroup.java,0,0.0,0,0,0.0,3,336.3
+zaproxy,/main/java/org/zaproxy/zap/extension/users/DialogAddUser.java,0,0.0,0,19min,19.0,40,1267.5
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/DialogModifyAutoTagScanner.java,0,0.0,0,25min,25.0,26,831.0
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/DialogModifyDomainAlwaysInScope.java,0,0.0,0,7min 30s,7.5,21,743.7
+zaproxy,/main/java/org/zaproxy/zap/extension/api/DialogModifyPermittedAddress.java,0,0.0,0,7min 30s,7.5,21,743.7
+zaproxy,/main/java/org/zaproxy/zap/extension/proxies/DialogModifyProxy.java,0,0.0,0,17min 30s,17.5,22,772.8
+zaproxy,/main/java/org/parosproxy/paros/extension/option/DialogModifyProxyExcludedDomain.java,0,0.0,0,7min 30s,7.5,21,743.7
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/DialogModifyToken.java,0,0.0,0,17min 30s,17.5,24,801.9
+zaproxy,/main/java/org/zaproxy/zap/extension/globalexcludeurl/DialogModifyToken.java,0,0.0,0,17min 30s,17.5,24,801.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/DialogModifyToken.java,0,0.0,0,17min 30s,17.5,24,801.9
+zaproxy,/main/java/org/zaproxy/zap/extension/users/DialogModifyUser.java,0,0.0,0,8min 30s,8.5,20,839.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/DisplayedMessageChangedListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/dynssl/DynSSLParam.java,0,0.0,0,10min,10.0,20,685.5
+zaproxy,/main/java/org/zaproxy/zap/utils/EnableableInterface.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/extension/encoder2/EncodeDecodeParam.java,0,0.0,0,0,0.0,19,465.6
+zaproxy,/main/java/org/zaproxy/zap/extension/encoder2/EncodeDecodeParamPanel.java,1,0.0,0,25min,25.0,37,1055.7
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/ExcludedParameterModifyDialog.java,0,0.0,0,17min 30s,17.5,25,831.0
+zaproxy,/main/java/org/zaproxy/zap/utils/ExecutorTerminatedListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/all/ExtensionHttpPanelComponentAll.java,0,0.0,0,22min 30s,22.5,57,2064.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/hex/ExtensionHttpPanelHexView.java,0,0.0,0,1h,60.0,118,4494.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/paramtable/ExtensionHttpPanelRequestFormTableView.java,0,0.0,0,22min 30s,22.5,70,2392.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/paramtable/ExtensionHttpPanelRequestQueryCookieTableView.java,0,0.0,0,22min 30s,22.5,70,2392.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/syntaxhighlight/ExtensionHttpPanelSyntaxHighlightTextView.java,0,0.0,0,1h,60.0,118,4494.6
+zaproxy,/main/java/org/zaproxy/zap/view/popup/ExtensionPopupMenuComponent.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/popup/ExtensionPopupMenuItemMessageContainer.java,0,0.0,0,0,0.0,9,386.4
+zaproxy,/main/java/org/zaproxy/zap/view/popup/ExtensionPopupMenuMessageContainer.java,0,0.0,0,7min 30s,7.5,12,415.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/posttable/ExtensionRequestPostTableView.java,0,0.0,0,15min,15.0,41,1466.4
+zaproxy,/main/java/org/zaproxy/zap/extension/ruleconfig/ExtensionRuleConfig.java,0,0.0,0,17min 30s,17.5,54,1691.1
+zaproxy,/main/java/org/parosproxy/paros/model/FileCopier.java,0,0.0,0,0,0.0,29,918.3
+zaproxy,/main/java/org/zaproxy/zap/utils/FilenameExtensionFilter.java,0,0.0,0,10min,10.0,12,291.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/filters/FilterCriteria.java,0,0.0,0,0,0.0,null,null
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/filters/FilterResult.java,0,0.0,0,7min 30s,7.5,17,378.3
+zaproxy,/main/java/org/zaproxy/zap/extension/forceduser/ForcedUserAPI.java,0,0.0,4,1h 40min,100.0,39,931.2
+zaproxy,/main/java/org/zaproxy/zap/authentication/FormBasedAuthenticationMethodType.java,0,0.0,0,17min 30s,17.5,57,1757.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/FoundComponent.java,0,0.0,0,0,0.0,22,494.7
+zaproxy,/main/java/org/zaproxy/zap/model/GenericScanner2.java,0,0.0,0,0,0.0,24,669.3
+zaproxy,/main/java/org/zaproxy/zap/utils/HarUtils.java,0,0.0,0,1h 5min,65.0,58,2114.7
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/HighlightChangedListener.java,0,0.0,0,0,0.0,3,87.3
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/HighlightedComponent.java,0,0.0,0,0,0.0,19,407.4
+zaproxy,/main/java/org/zaproxy/zap/view/HighlightSearchEntry.java,1,0.0,0,10min,10.0,31,814.8
+zaproxy,/main/java/org/zaproxy/zap/utils/HirshbergMatcher.java,0,0.0,0,1h 32min,92.0,19,963.6
+zaproxy,/main/java/org/parosproxy/paros/model/HistoryReferenceEventPublisher.java,0,0.0,0,7min 30s,7.5,10,452.7
+zaproxy,/main/java/org/zaproxy/zap/view/table/HistoryReferencesTableEntry.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/table/HistoryReferencesTableModel.java,0,0.0,0,0,0.0,3,58.2
+zaproxy,/main/java/org/parosproxy/paros/extension/history/HistoryTable.java,0,0.0,0,15min,15.0,4,365.4
+zaproxy,/main/java/org/parosproxy/paros/extension/history/HistoryTableModel.java,0,0.0,0,7min 30s,7.5,3,336.3
+zaproxy,/main/java/org/parosproxy/paros/network/HttpHeaderField.java,0,0.0,0,0,0.0,12,291.0
+zaproxy,/main/java/org/parosproxy/paros/network/HttpMalformedHeaderException.java,0,0.0,0,0,0.0,10,328.2
+zaproxy,/main/java/org/parosproxy/paros/model/HttpMessageCachedData.java,0,0.0,0,7min 30s,7.5,56,1455.0
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/HttpMessageContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/model/HttpMessageLocation.java,0,0.0,0,0,0.0,7,145.5
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/http/HttpMessageLocationsPanel.java,0,0.0,0,7min 30s,7.5,29,698.4
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/component/HttpPanelComponentInterface.java,0,0.0,0,0,0.0,49,1367.7
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/HttpPanelDefaultViewSelector.java,0,0.0,0,0,0.0,15,320.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/hex/HttpPanelHexModel.java,0,0.0,0,2h 17min,137.0,79,2360.4
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/HttpPanelView.java,0,0.0,0,0,0.0,47,931.2
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/HttpPanelViewModel.java,0,0.0,0,0,0.0,11,320.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/HttpPanelViewModelEvent.java,0,0.0,0,0,0.0,7,270.0
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/HttpPanelViewModelListener.java,0,0.0,0,0,0.0,5,116.4
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/HttpPanelViewModelUtils.java,0,0.0,0,0,0.0,13,510.9
+zaproxy,/main/java/org/zaproxy/zap/network/HttpRedirectionValidator.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/network/HttpRequestConfig.java,0,0.0,0,17min 30s,17.5,30,582.0
+zaproxy,/main/java/org/zaproxy/zap/extension/search/HttpSearcher.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/network/HttpSenderListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/script/HttpSenderScript.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/script/HttpSenderScriptHelper.java,0,0.0,0,0,0.0,10,232.8
+zaproxy,/main/java/org/zaproxy/zap/extension/script/HttpSenderScriptListener.java,0,0.0,0,0,0.0,28,1329.0
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/filters/impl/HttpStatusCodeScanFilter.java,0,0.0,0,0,0.0,12,664.5
+zaproxy,/main/java/org/zaproxy/zap/model/IllegalContextNameException.java,0,0.0,0,0,0.0,6,423.6
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/InStringSearchQuery.java,0,0.0,0,11min,11.0,13,261.9
+zaproxy,/main/java/org/zaproxy/zap/extension/autoupdate/InvalidCfuUrlException.java,0,0.0,0,0,0.0,7,270.0
+zaproxy,/main/java/org/zaproxy/zap/model/InvalidMessageException.java,0,0.0,0,0,0.0,23,648.3
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/JComponentSearch.java,0,0.0,0,0,0.0,10,481.8
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/JComponentWithBackground.java,0,0.0,0,0,0.0,22,465.6
+zaproxy,/main/java/org/zaproxy/zap/authentication/JsonBasedAuthenticationMethodType.java,0,0.0,0,57min 30s,57.5,69,2546.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/JxLabelSearch.java,0,0.0,0,0,0.0,19,407.4
+zaproxy,/main/java/org/zaproxy/zap/extension/keyboard/KeyboardMapping.java,0,0.0,0,5h,300.0,63,2202.0
+zaproxy,/main/java/org/zaproxy/zap/extension/keyboard/KeyboardShortcut.java,0,0.0,0,30min,30.0,35,843.9
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/LabelSearch.java,0,0.0,0,0,0.0,21,714.6
+zaproxy,/main/java/org/parosproxy/paros/control/MenuToolsControl.java,0,0.0,0,17min 30s,17.5,23,706.5
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/Message.java,0,0.0,0,0,0.0,9,232.8
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/MessageContainer.java,0,0.0,0,0,0.0,4,29.1
+zaproxy,/main/java/org/zaproxy/zap/model/MessageLocation.java,0,0.0,0,0,0.0,3,87.3
+zaproxy,/main/java/org/zaproxy/zap/model/MessageLocationConsumer.java,0,0.0,0,0,0.0,4,58.2
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationHighlight.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationHighlighter.java,0,0.0,0,0,0.0,4,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationHighlightRenderersEditors.java,0,0.0,0,0,0.0,35,910.2
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationHighlightsManager.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationProducer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationProducerFocusEvent.java,0,0.0,0,0,0.0,11,540.0
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationProducerFocusListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/MessageLocationProducerFocusListenerAdapter.java,0,0.0,0,20min,20.0,24,772.8
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/MessagePanelEventListener.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/MessageViewSelectedEvent.java,0,0.0,0,0,0.0,14,349.2
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/filters/impl/MethodScanFilter.java,0,0.0,0,0,0.0,12,664.5
+zaproxy,/main/java/org/parosproxy/paros/security/MissingRootCertificateException.java,0,0.0,0,0,0.0,15,444.6
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/MultipleHistoryReferencesContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/MultipleHttpMessagesContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/MultipleMessagesContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/script/MultipleWriters.java,0,0.0,0,0,0.0,21,465.6
+zaproxy,/main/java/org/zaproxy/zap/model/NameValuePair.java,0,0.0,0,0,0.0,3,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/table/decorator/NoteTableCellItemIconHighlighter.java,0,0.0,0,10min,10.0,21,714.6
+zaproxy,/main/java/org/parosproxy/paros/extension/OptionsChangedListener.java,0,0.0,0,0,0.0,5,116.4
+zaproxy,/main/java/org/zaproxy/zap/extension/search/OptionsSearchPanel.java,0,0.0,0,0,0.0,20,590.1
+zaproxy,/main/java/org/zaproxy/zap/utils/Orderable.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/OverlayIcon.java,0,0.0,0,0,0.0,13,291.0
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/OverrideMessageProxyListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/utils/Pair.java,0,0.0,0,7min 30s,7.5,11,789.0
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/paramtable/addins/ParamAddinInterface.java,0,0.0,0,0,0.0,9,261.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/paramtable/addins/ParamAddinMagic.java,0,0.0,0,0,0.0,14,291.0
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/paramtable/addins/ParamAddinUrlencode.java,0,0.0,0,0,0.0,16,349.2
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PassiveScanData.java,0,0.0,0,30min,30.0,22,523.8
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PassiveScannerOptionsPanel.java,0,0.0,0,7min 30s,7.5,20,465.6
+zaproxy,/main/java/org/zaproxy/zap/extension/pscan/PassiveScript.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/utils/PausableExecutorService.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/PersistentConnectionListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/ch/csnc/extension/httpclient/PKCS11Configuration.java,0,0.0,0,0,0.0,83,2082.3
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/PluginStats.java,0,0.0,0,0,0.0,12,349.2
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupCopyMenu.java,0,0.0,3,20min,20.0,16,905.4
+zaproxy,/main/java/org/zaproxy/zap/extension/encoder2/PopupEncoder2Menu.java,0,0.0,0,40min,40.0,16,780.9
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/PopupMenuActiveScanCustomWithContext.java,0,0.0,0,7min 30s,7.5,9,328.2
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/impl/http/PopupMenuAddBreakHistory.java,0,0.0,0,7min 30s,7.5,27,1109.1
+zaproxy,/main/java/org/zaproxy/zap/extension/brk/impl/http/PopupMenuAddBreakSites.java,0,0.0,0,7min 30s,7.5,20,1021.8
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/PopupMenuAlert.java,0,0.0,4,1h 27min,87.0,29,1042.8
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/PopupMenuAlertDelete.java,0,0.0,0,17min 30s,17.5,17,751.8
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/PopupMenuAlertEdit.java,0,0.0,0,7min 30s,7.5,16,751.8
+zaproxy,/main/java/org/zaproxy/zap/extension/alert/PopupMenuAlertsRefresh.java,0,0.0,0,17min 30s,17.5,18,656.4
+zaproxy,/main/java/org/zaproxy/zap/extension/anticsrf/PopupMenuGenerateForm.java,0,0.0,0,17min 30s,17.5,13,751.8
+zaproxy,/main/java/org/zaproxy/zap/view/popup/PopupMenuItemContextDataDrivenNode.java,0,0.0,0,15min,15.0,28,1167.3
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/PopupMenuItemSpiderDialogWithContext.java,0,0.0,0,7min 30s,7.5,9,328.2
+zaproxy,/main/java/org/zaproxy/zap/extension/history/PopupMenuNote.java,0,0.0,0,7min 30s,7.5,28,984.6
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuOpenUrlInBrowser.java,0,0.0,0,7min 30s,7.5,18,656.4
+zaproxy,/main/java/org/zaproxy/zap/extension/history/PopupMenuPurgeHistory.java,0,0.0,0,7min 30s,7.5,26,984.6
+zaproxy,/main/java/org/zaproxy/zap/extension/history/PopupMenuResendMessage.java,0,0.0,0,7min 30s,7.5,16,685.5
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuResendMessage.java,0,0.0,0,7min 30s,7.5,12,569.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httpsessions/PopupMenuSessionSearch.java,0,0.0,0,10min,10.0,29,1013.7
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuShowInHistory.java,0,0.0,7,1h 37min,97.0,25,955.5
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupMenuShowInSites.java,0,0.0,2,47min 30s,47.5,18,656.4
+zaproxy,/main/java/org/zaproxy/zap/extension/history/PopupMenuTag.java,0,0.0,0,7min 30s,7.5,23,897.3
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupPasteMenu.java,0,0.0,3,20min,20.0,23,1021.8
+zaproxy,/main/java/org/zaproxy/zap/extension/stdmenus/PopupUserMenu.java,0,0.0,5,58min 30s,58.5,31,881.1
+zaproxy,/main/java/org/zaproxy/zap/extension/proxies/ProxiesParamProxy.java,0,0.0,0,7min 30s,7.5,42,1047.6
+zaproxy,/main/java/org/parosproxy/paros/control/Proxy.java,0,0.0,0,17min 30s,17.5,48,1201.2
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/ProxyListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ProxyListenerScript.java,0,0.0,0,17min 30s,17.5,28,889.2
+zaproxy,/main/java/org/parosproxy/paros/core/proxy/ProxyPortRetryPanel.java,0,0.0,0,0,0.0,13,693.6
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ProxyScript.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/parosproxy/paros/db/RecordContext.java,0,0.0,0,7min 30s,7.5,82,2547.9
+zaproxy,/main/java/org/parosproxy/paros/db/RecordParam.java,0,0.0,0,7min 30s,7.5,39,1076.7
+zaproxy,/main/java/org/parosproxy/paros/db/RecordScan.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/parosproxy/paros/db/RecordSession.java,0,0.0,0,0,0.0,8,232.8
+zaproxy,/main/java/org/parosproxy/paros/db/RecordSessionUrl.java,0,0.0,0,7min 30s,7.5,32,1122.0
+zaproxy,/main/java/org/parosproxy/paros/db/RecordStructure.java,0,0.0,0,7min 30s,7.5,36,989.4
+zaproxy,/main/java/org/parosproxy/paros/db/RecordTag.java,0,0.0,0,0,0.0,14,407.4
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/request/RequestBodyByteHttpPanelViewModel.java,0,0.0,0,27min 30s,27.5,12,510.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/request/RequestBodyStringHttpPanelViewModel.java,0,0.0,0,27min 30s,27.5,12,510.9
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/request/RequestHeaderByteHttpPanelViewModel.java,0,0.0,3,37min 30s,37.5,17,722.7
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/request/RequestHeaderStringHttpPanelViewModel.java,0,0.0,3,37min 30s,37.5,17,722.7
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/request/RequestStringHttpPanelViewModel.java,0,0.0,0,17min 30s,17.5,16,598.2
+zaproxy,/main/java/org/zaproxy/zap/utils/ResettableAutoCloseableIterator.java,0,0.0,0,0,0.0,2,58.2
+zaproxy,/main/java/org/zaproxy/zap/utils/ResettableIterator.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/response/ResponseHeaderByteHttpPanelViewModel.java,0,0.0,3,37min 30s,37.5,17,722.7
+zaproxy,/main/java/org/zaproxy/zap/extension/httppanel/view/impl/models/http/response/ResponseHeaderStringHttpPanelViewModel.java,0,0.0,3,37min 30s,37.5,17,722.7
+zaproxy,/main/java/org/zaproxy/zap/model/ScanController.java,0,0.0,0,0,0.0,32,873.0
+zaproxy,/main/java/org/zaproxy/zap/model/ScanEventPublisher.java,0,0.0,0,7min 30s,7.5,32,1063.8
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/filters/ScanFilter.java,0,0.0,0,0,0.0,4,87.3
+zaproxy,/main/java/org/zaproxy/zap/scan/ScanListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/model/ScanListenner.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/model/ScanListenner2.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/ScannerHook.java,0,0.0,0,0,0.0,4,116.4
+zaproxy,/main/java/org/zaproxy/zap/scan/ScanStartOptions.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/ScanStatus.java,0,0.0,0,0,0.0,35,814.8
+zaproxy,/main/java/org/zaproxy/zap/model/ScanThread.java,1,0.0,0,7min 30s,7.5,30,785.7
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptCollection.java,0,0.0,0,0,0.0,24,582.0
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptEventListener.java,0,0.0,0,0,0.0,20,582.0
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptNode.java,0,0.0,0,0,0.0,41,1421.1
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptOutputListener.java,0,0.0,0,0,0.0,2,58.2
+zaproxy,/main/java/org/zaproxy/zap/extension/script/ScriptUI.java,0,0.0,0,0,0.0,31,902.1
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchableHttpPanelComponent.java,0,0.0,0,0,0.0,10,291.0
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchableHttpPanelView.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/SearchAndHighlight.java,0,0.0,0,0,0.0,50,1018.5
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchListenner.java,0,0.0,0,0,0.0,7,174.6
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchParam.java,0,0.0,0,0,0.0,2,58.2
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/SearchQuery.java,0,0.0,0,0,0.0,6,145.5
+zaproxy,/main/java/org/zaproxy/zap/extension/search/SearchResultsTable.java,0,0.0,0,45min,45.0,17,598.2
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/SelectableContentHttpMessageContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/SelectableContentMessageContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/SelectableHistoryReferencesContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/SelectableHttpMessagesContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/SelectableMessagesContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/script/SequenceScript.java,0,0.0,0,0,0.0,8,232.8
+zaproxy,/main/java/org/parosproxy/paros/extension/SessionChangedListener.java,0,0.0,0,0,0.0,6,58.2
+zaproxy,/main/java/org/parosproxy/paros/model/SessionListener.java,0,0.0,0,0,0.0,6,58.2
+zaproxy,/main/java/org/zaproxy/zap/session/SessionManagementMethodType.java,0,0.0,0,7min 30s,7.5,16,664.5
+zaproxy,/main/java/org/zaproxy/zap/model/SessionUtils.java,0,0.0,0,17min 30s,17.5,16,722.7
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/SingleHistoryReferenceContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/http/SingleHttpMessageContainer.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/messagecontainer/SingleMessageContainer.java,0,0.0,0,0,0.0,2,29.1
+zaproxy,/main/java/org/parosproxy/paros/model/SiteMapEventPublisher.java,0,0.0,0,7min 30s,7.5,15,627.3
+zaproxy,/main/java/org/zaproxy/zap/view/SiteMapListener.java,0,0.0,0,0,0.0,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/view/SiteTreeFilter.java,0,0.0,0,50min,50.0,23,523.8
+zaproxy,/main/java/org/zaproxy/zap/view/renderer/SizeBytesStringValue.java,0,0.0,0,10min,10.0,27,918.3
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderEventPublisher.java,0,0.0,0,0,0.0,21,714.6
+zaproxy,/main/java/org/zaproxy/zap/spider/SpiderListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderMessagesTable.java,0,0.0,0,45min,45.0,35,1188.3
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderODataAtomParser.java,0,0.0,0,0,0.0,17,934.5
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderParser.java,0,0.0,0,17min 30s,17.5,11,116.4
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderParserListener.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderRedirectParser.java,0,0.0,0,0,0.0,14,569.1
+zaproxy,/main/java/org/zaproxy/zap/extension/spider/SpiderResource.java,0,0.0,0,7min 30s,7.5,25,698.4
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderRobotstxtParser.java,0,0.0,1,37min 30s,37.5,22,648.3
+zaproxy,/main/java/org/zaproxy/zap/spider/parser/SpiderTextParser.java,0,0.0,0,0,0.0,17,905.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/SpinnerSearch.java,0,0.0,0,0,0.0,45,902.1
+zaproxy,/main/java/org/zaproxy/zap/db/sql/SqlPreparedStatementWrapper.java,0,0.0,0,0,0.0,33,881.1
+zaproxy,/main/java/org/zaproxy/zap/extension/stats/StatsAPI.java,0,0.0,0,25min,25.0,56,1558.5
+zaproxy,/main/java/org/zaproxy/zap/utils/StatsListener.java,0,0.0,0,0,0.0,33,960.3
+zaproxy,/main/java/org/zaproxy/zap/extension/stats/StatsParam.java,0,0.0,0,0,0.0,29,727.5
+zaproxy,/main/java/org/zaproxy/zap/utils/StickyScrollbarAdjustmentListener.java,0,0.0,0,0,0.0,7,452.7
+zaproxy,/main/java/org/zaproxy/zap/utils/StringUIUtils.java,0,0.0,0,7min 30s,7.5,9,232.8
+zaproxy,/main/java/org/zaproxy/zap/model/StructuralNode.java,0,0.0,0,0,0.0,44,1105.8
+zaproxy,/main/java/org/zaproxy/zap/model/StructuralSiteNode.java,0,0.0,0,10min,10.0,64,1309.5
+zaproxy,/main/java/org/zaproxy/zap/model/StructuralTableNode.java,0,0.0,0,50min,50.0,72,1820.4
+zaproxy,/main/java/org/zaproxy/zap/model/StructuralTableNodeIterator.java,2,0.0,0,10min,10.0,20,648.3
+zaproxy,/main/java/org/zaproxy/zap/view/SummaryAndConfigPanel.java,0,0.0,0,0,0.0,9,232.8
+zaproxy,/main/java/org/zaproxy/zap/extension/tab/Tab.java,0,0.0,0,0,0.0,2,58.2
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TabbedPaneElement.java,0,0.0,0,0,0.0,18,465.6
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TabbedPaneElementSearch.java,2,0.0,0,40min,40.0,49,1516.5
+zaproxy,/main/java/org/parosproxy/paros/view/TabbedPanel.java,0,0.0,0,10min,10.0,17,407.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TabbedPaneSearch.java,0,0.0,0,0,0.0,11,510.9
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TableCellElement.java,0,0.0,0,0,0.0,26,698.4
+zaproxy,/main/java/org/parosproxy/paros/db/TableContext.java,0,0.0,0,0,0.0,42,1222.2
+zaproxy,/main/java/org/zaproxy/zap/utils/TableExportAction.java,0,0.0,0,7min 30s,7.5,24,1424.4
+zaproxy,/main/java/org/zaproxy/zap/view/panels/TableFilterPanel.java,0,0.0,0,7min 30s,7.5,10,606.3
+zaproxy,/main/java/org/parosproxy/paros/db/TableParam.java,0,0.0,0,0,0.0,20,582.0
+zaproxy,/main/java/org/parosproxy/paros/db/TableScan.java,0,0.0,0,0,0.0,14,407.4
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TableSearch.java,0,0.0,0,0,0.0,19,810.0
+zaproxy,/main/java/org/parosproxy/paros/db/TableSession.java,0,0.0,0,0,0.0,12,349.2
+zaproxy,/main/java/org/parosproxy/paros/db/TableSessionUrl.java,0,0.0,0,0,0.0,30,843.9
+zaproxy,/main/java/org/parosproxy/paros/db/TableStructure.java,0,0.0,0,0,0.0,33,960.3
+zaproxy,/main/java/org/parosproxy/paros/db/TableTag.java,0,0.0,0,0,0.0,29,843.9
+zaproxy,/main/java/org/zaproxy/zap/extension/ascan/filters/impl/TagScanFilter.java,0,0.0,0,0,0.0,12,664.5
+zaproxy,/main/java/org/zaproxy/zap/extension/script/TargetedScript.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/view/TechnologyTreePanel.java,0,0.0,0,17min 30s,17.5,23,831.0
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TextFieldSearch.java,0,0.0,0,0,0.0,17,627.3
+zaproxy,/main/java/org/zaproxy/zap/model/TextHttpMessageLocation.java,0,0.0,0,0,0.0,7,145.5
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/TextMessageLocationHighlight.java,0,0.0,0,7min 30s,7.5,9,232.8
+zaproxy,/main/java/org/zaproxy/zap/view/messagelocation/TextMessageLocationHighlightEditor.java,0,0.0,0,7min 30s,7.5,24,706.5
+zaproxy,/main/java/org/zaproxy/zap/utils/TimeStampUtils.java,0,0.0,0,40min,40.0,7,452.7
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TitledBorderSearch.java,0,0.0,0,0,0.0,36,976.5
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TreeNodeElementSearch.java,2,0.0,0,28min 30s,28.5,76,1878.6
+zaproxy,/main/java/org/zaproxy/zap/view/panelsearch/items/TreeSearch.java,0,0.0,0,0,0.0,9,452.7
+zaproxy,/main/java/org/zaproxy/zap/model/ValueGenerator.java,0,0.0,0,0,0.0,3,87.3
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/Variant.java,0,0.0,0,0,0.0,14,291.0
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantCustom.java,0,0.0,0,0,0.0,32,1371.0
+zaproxy,/main/java/org/parosproxy/paros/core/scanner/VariantScript.java,0,0.0,0,0,0.0,8,232.8
+zaproxy,/main/java/org/zaproxy/zap/common/VersionedAbstractParam.java,0,0.0,0,50min,50.0,8,145.5
+zaproxy,/main/java/org/parosproxy/paros/extension/ViewDelegate.java,0,0.0,0,0,0.0,35,843.9
+zaproxy,/main/java/org/zaproxy/zap/view/ViewLocale.java,0,0.0,0,1h,60.0,16,473.7
+zaproxy,/main/java/org/zaproxy/zap/model/Vulnerability.java,0,0.0,0,20min,20.0,35,1055.7
+zaproxy,/main/java/org/zaproxy/zap/session/WebSession.java,0,0.0,0,7min 30s,7.5,6,174.6
+zaproxy,/main/java/org/zaproxy/zap/view/widgets/WritableFileChooser.java,0,0.0,0,55min,55.0,23,963.6
+zaproxy,/main/java/org/zaproxy/zap/extension/XmlReporterExtension.java,0,0.0,0,0,0.0,3,87.3
+zaproxy,/main/java/org/zaproxy/zap/utils/XmlUtils.java,0,0.0,0,0,0.0,7,519.0
+zaproxy,/main/java/org/zaproxy/zap/control/ZapAddOnXmlFile.java,0,0.0,0,7min 30s,7.5,45,1346.7
+zaproxy,/main/java/org/zaproxy/zap/extension/api/ZapApiIgnore.java,0,0.0,0,0,0.0,1,29.1
+zaproxy,/main/java/org/zaproxy/zap/extension/help/ZapBasicSearchNavigatorUI.java,0,0.0,0,0,0.0,22,868.2
+zaproxy,/main/java/org/zaproxy/zap/network/ZapDeleteMethod.java,0,0.0,0,0,0.0,15,569.1
+zaproxy,/main/java/org/zaproxy/zap/ZapGetMethod.java,0,0.0,0,37min 30s,37.5,34,997.5
+zaproxy,/main/java/org/zaproxy/zap/network/ZapHeadMethod.java,0,0.0,0,0,0.0,22,743.7
+zaproxy,/main/java/org/zaproxy/zap/ZapHttpConnectionManager.java,0,0.0,0,0,0.0,5,394.5
+zaproxy,/main/java/org/zaproxy/zap/network/ZapOptionsMethod.java,0,0.0,0,0,0.0,18,627.3
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapPortNumberSpinner.java,0,0.0,0,0,0.0,11,481.8
+zaproxy,/main/java/org/zaproxy/zap/network/ZapPostMethod.java,0,0.0,0,0,0.0,13,540.0
+zaproxy,/main/java/org/zaproxy/zap/network/ZapPutMethod.java,0,0.0,0,0,0.0,13,540.0
+zaproxy,/main/java/org/zaproxy/zap/control/ZapRelease.java,0,0.0,0,7min 30s,7.5,57,1396.8
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapResourceBundleControl.java,0,0.0,0,10min,10.0,16,378.3
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapSizeNumberSpinner.java,0,0.0,0,0,0.0,7,423.6
+zaproxy,/main/java/org/zaproxy/zap/view/ZapSupportPanel.java,0,0.0,0,7min 30s,7.5,7,423.6
+zaproxy,/main/java/org/zaproxy/zap/view/ZapTable.java,0,0.0,0,40min,40.0,75,1915.8
+zaproxy,/main/java/org/zaproxy/zap/extension/help/ZapTocItem.java,0,0.0,0,0,0.0,14,320.1
+zaproxy,/main/java/org/zaproxy/zap/network/ZapTraceMethod.java,0,0.0,0,0,0.0,15,569.1
+zaproxy,/main/java/org/zaproxy/zap/utils/ZapXmlConfiguration.java,0,0.0,0,0,0.0,35,1063.8

@@ -1,0 +1,690 @@
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/base/Striped64.java,25,412.0,8,3h 20min,200.0,108,4441.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/EagleEyeCoreUtils.java,15,348.0,2,2h 35min,155.0,103,3228.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/client/SentinelApiClient.java,19,284.0,1,1M/d 6h,840.0,296,9970.5
+sentinel,sentinel-transport/sentinel-transport-simple-http/src/main/java/com/alibaba/csp/sentinel/transport/command/http/HttpEventTask.java,12,282.0,8,2h 57min,177.0,49,2400.9
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/flow/FlowQpsDemo.java,16,253.0,6,55min,55.0,59,3820.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/system/SystemRuleManager.java,19,250.0,0,1h 20min,80.0,68,2376.6
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/flow/FlowThreadDemo.java,18,244.0,0,22min 30s,22.5,51,2936.1
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/degrade/ExceptionCountDegradeDemo.java,16,238.0,5,1h 2min,62.0,47,2753.4
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/flow/WarmUpFlowDemo.java,14,233.0,11,1h 25min,85.0,70,5443.8
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/flow/WarmUpRateLimiterFlowDemo.java,14,233.0,11,1h 25min,85.0,70,5443.8
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/degrade/ExceptionRatioDegradeDemo.java,16,228.0,5,1h 2min,62.0,47,2753.4
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/degrade/RtDegradeDemo.java,13,218.0,5,42min 30s,42.5,46,2724.3
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/gateway/GatewayFlowRuleController.java,8,212.0,0,1M/d 2h,600.0,41,1985.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/EagleEye.java,17,200.0,0,47min 30s,47.5,81,3422.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/EagleEyeRollingFileAppender.java,23,199.0,0,1h 47min,107.0,83,3327.3
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/FlowControllerV1.java,12,197.0,0,7h 27min,447.0,43,1765.5
+sentinel,sentinel-demo/sentinel-demo-apache-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/apache/dubbo/FooConsumerBootstrap.java,24,179.0,1,25min,25.0,33,1262.7
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/SystemController.java,9,178.0,0,4h 57min,297.0,41,1084.8
+sentinel,sentinel-demo/sentinel-demo-dynamic-file-rule/src/main/java/com/alibaba/csp/sentinel/demo/file/rule/FlowQpsRunner.java,12,177.0,7,55min,55.0,50,3434.1
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParameterMetric.java,7,163.0,4,1h 47min,107.0,38,1246.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/metric/MetricSearcher.java,11,150.0,0,1h 50min,110.0,50,2708.1
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/system/SystemGuardDemo.java,15,143.0,0,7min 30s,7.5,44,2666.1
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/util/FilterUtil.java,9,137.0,4,1h 27min,87.0,42,1230.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/metric/MetricWriter.java,14,137.0,0,2h 12min,132.0,107,3556.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/DegradeController.java,7,135.0,0,4h 32min,272.0,33,1159.2
+sentinel,sentinel-demo/sentinel-demo-apollo-datasource/src/main/java/com/alibaba/csp/sentinel/demo/datasource/apollo/FlowQpsRunner.java,9,135.0,10,1h 5min,65.0,52,3463.2
+sentinel,sentinel-demo/sentinel-demo-nacos-datasource/src/main/java/com/alibaba/csp/sentinel/demo/datasource/nacos/FlowQpsRunner.java,9,135.0,10,1h 5min,65.0,52,3463.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/config/SentinelConfig.java,11,135.0,0,1h 47min,107.0,55,1317.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/metric/MetricFetcher.java,16,126.0,3,2h 42min,162.0,90,4240.8
+sentinel,sentinel-adapter/sentinel-reactor-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/reactor/InheritableBaseSubscriber.java,7,122.0,0,17min 30s,17.5,41,931.2
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/v2/FlowControllerV2.java,6,119.0,0,5h,300.0,41,1392.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/log/LogBase.java,12,115.0,0,42min 30s,42.5,36,814.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/service/ClusterAssignServiceImpl.java,15,110.0,0,1h 27min,87.0,110,2725.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/cluster/ClusterConfigController.java,7,110.0,4,7h 15min,435.0,62,2326.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/vo/ResourceVo.java,6,105.0,0,50min,50.0,92,3117.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/SpiLoader.java,11,101.0,0,2h 27min,147.0,44,1670.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/degrade/DegradeRuleManager.java,6,100.0,1,1h 37min,97.0,46,1728.3
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/ParamFlowRuleController.java,5,100.0,1,7h 37min,457.0,62,2355.6
+sentinel,sentinel-demo/sentinel-demo-apache-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/apache/dubbo/FooConsumerExceptionDegradeBootstrap.java,15,99.0,0,15min,15.0,25,1080.0
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/flow/PaceFlowDemo.java,15,97.0,0,15min,15.0,37,1707.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/metric/MetricsReader.java,12,94.0,0,1h 22min,82.0,35,1831.8
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParamFlowChecker.java,8,94.0,3,7h 42min,462.0,54,2459.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/gateway/GatewayApiController.java,6,90.0,0,4h 52min,292.0,34,1159.2
+sentinel,sentinel-demo/sentinel-demo-spring-cloud-gateway/src/main/java/com/alibaba/csp/sentinel/demo/spring/sc/gateway/GatewayConfiguration.java,6,88.0,3,32min 30s,32.5,32,1225.5
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/rule/ClusterFlowRuleManager.java,7,87.0,9,3h 12min,192.0,69,3094.5
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/rule/ClusterParamFlowRuleManager.java,6,85.0,9,3h 12min,192.0,81,3356.4
+sentinel,sentinel-extension/sentinel-annotation-aspectj/src/main/java/com/alibaba/csp/sentinel/annotation/aspectj/AbstractSentinelAspectSupport.java,4,80.0,0,4h 22min,262.0,77,2688.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/AuthorityRuleController.java,4,80.0,0,3h 55min,235.0,38,1151.1
+sentinel,sentinel-demo/sentinel-demo-zuul-gateway/src/main/java/com/alibaba/csp/sentinel/demo/zuul/gateway/GatewayRuleConfig.java,5,80.0,3,25min,25.0,16,876.3
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/netty/HttpServerHandler.java,8,80.0,0,1h 15min,75.0,63,2003.1
+sentinel,sentinel-demo/sentinel-demo-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/demo/flow/param/ParamFlowQpsRunner.java,13,80.0,0,7min 30s,7.5,57,3351.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/cluster/ClusterAssignController.java,5,76.0,0,2h,120.0,22,743.7
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParamFlowRuleUtil.java,5,76.0,5,4h 30min,270.0,32,1561.8
+sentinel,sentinel-extension/sentinel-datasource-spring-cloud-config/src/main/java/com/alibaba/csp/sentinel/datasource/spring/cloud/config/SentinelRuleLocator.java,7,76.0,1,1h 20min,80.0,60,1894.8
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/AsyncEntryDemo.java,9,75.0,2,20min,20.0,53,2363.7
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/vo/NodeVo.java,1,70.0,0,57min 30s,57.5,84,3066.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/SphO.java,3,70.0,0,40min,40.0,14,540.0
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/transport/config/TransportConfig.java,3,70.0,0,47min 30s,47.5,14,780.9
+sentinel,sentinel-demo/sentinel-demo-rocketmq/src/main/java/com/alibaba/csp/sentinel/demo/rocketmq/PullConsumerDemo.java,7,68.0,0,17min 30s,17.5,32,1341.9
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/DefaultClusterTokenClient.java,4,65.0,0,2h,120.0,82,2638.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/BlockException.java,10,62.0,0,35min,35.0,38,873.0
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/ClusterTransportClient.java,3,60.0,0,0,0.0,null,null
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/transport/CommandCenter.java,3,60.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/ConfigUtil.java,6,60.0,0,1h 25min,85.0,38,939.3
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/rule/DegradeRuleEntity.java,1,60.0,0,7min 30s,7.5,64,1804.2
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/gateway/GatewayFlowRuleEntity.java,1,60.0,4,3h 10min,190.0,127,3391.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/log/LogConfigLoader.java,4,60.0,0,15min,15.0,15,407.4
+sentinel,sentinel-extension/sentinel-datasource-extension/src/main/java/com/alibaba/csp/sentinel/datasource/ReadableDataSource.java,3,60.0,0,0,0.0,3,0.0
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/rule/SystemRuleEntity.java,1,60.0,0,7min 30s,7.5,65,1804.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/TimeUtil.java,5,60.0,0,0,0.0,11,606.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/ClusterStateManager.java,6,56.0,4,4h 45min,285.0,67,2413.8
+sentinel,sentinel-transport/sentinel-transport-simple-http/src/main/java/com/alibaba/csp/sentinel/transport/command/SimpleHttpCommandCenter.java,8,56.0,0,37min 30s,37.5,62,2413.8
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/api/GatewayApiDefinitionManager.java,4,55.0,0,20min,20.0,55,1624.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/MetricController.java,5,55.0,0,1h 40min,100.0,23,677.4
+sentinel,sentinel-transport/sentinel-transport-simple-http/src/main/java/com/alibaba/csp/sentinel/transport/heartbeat/client/SimpleHttpResponseParser.java,4,55.0,0,1h 50min,110.0,14,598.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/FlowRuleUtil.java,3,52.0,12,4h 55min,295.0,31,1283.7
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/vo/gateway/rule/AddFlowRuleReqVo.java,1,50.0,0,15min,15.0,67,2198.7
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/gateway/ApiDefinitionEntity.java,1,50.0,0,27min 30s,27.5,78,1986.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/authority/AuthorityRuleManager.java,3,50.0,1,30min,30.0,47,1977.3
+sentinel,sentinel-adapter/sentinel-apache-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/config/DubboConfig.java,2,50.0,0,27min 30s,27.5,43,1267.5
+sentinel,sentinel-adapter/sentinel-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/config/DubboConfig.java,2,50.0,0,27min 30s,27.5,43,1267.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/MetricPositionEntity.java,1,50.0,0,7min 30s,7.5,43,1317.6
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/registry/RequestDataDecodeRegistry.java,2,50.0,2,20min,20.0,15,349.2
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/registry/RequestDataWriterRegistry.java,2,50.0,2,20min,20.0,15,349.2
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/registry/ResponseDataDecodeRegistry.java,2,50.0,2,20min,20.0,15,349.2
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/registry/ResponseDataWriterRegistry.java,2,50.0,2,20min,20.0,15,349.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/config/SentinelConfigLoader.java,2,50.0,0,15min,15.0,15,531.9
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/SentinelDefaultTokenServer.java,4,50.0,0,30min,30.0,44,1238.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/StatEntry.java,5,49.0,0,1h 20min,80.0,81,1812.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/log/DateFileLogHandler.java,9,47.0,0,35min,35.0,50,1442.1
+sentinel,sentinel-extension/sentinel-datasource-consul/src/main/java/com/alibaba/csp/sentinel/datasource/consul/ConsulDataSource.java,5,45.0,2,47min 30s,47.5,41,1641.0
+sentinel,sentinel-extension/sentinel-datasource-redis/src/main/java/com/alibaba/csp/sentinel/datasource/redis/config/RedisConnectionConfig.java,9,45.0,0,1h 37min,97.0,77,1704.0
+sentinel,sentinel-demo/sentinel-demo-zookeeper-datasource/src/main/java/com/alibaba/csp/sentinel/demo/datasource/zookeeper/ZookeeperDataSourceDemo.java,6,45.0,1,10min,10.0,16,693.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/CtSph.java,5,44.0,0,1h 32min,92.0,148,4450.8
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/demo2/FooConsumerBootstrap.java,8,44.0,0,0,0.0,29,1291.8
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/command/handler/ModifyParamFlowRulesCommandHandler.java,3,44.0,3,40min,40.0,19,714.6
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/command/UpdateGatewayRuleCommandHandler.java,3,44.0,3,40min,40.0,19,714.6
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/codec/CodecRegistry.java,4,42.0,0,0,0.0,16,378.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/StatLogController.java,4,41.0,0,27min 30s,27.5,65,1990.2
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/ApplicationEntity.java,1,40.0,0,0,0.0,45,1193.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/AuthController.java,2,40.0,0,20min,20.0,22,801.9
+sentinel,sentinel-demo/sentinel-demo-basic/src/main/java/com/alibaba/csp/sentinel/demo/authority/AuthorityDemo.java,4,40.0,0,7min 30s,7.5,15,349.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/server/ClusterTokenServer.java,2,40.0,0,0,0.0,2,0.0
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/codec/Decoder.java,2,40.0,0,0,0.0,null,null
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/codec/Encoder.java,2,40.0,0,0,0.0,null,null
+sentinel,sentinel-demo/sentinel-demo-annotation-spring-aop/src/main/java/com/alibaba/csp/sentinel/demo/annotation/aop/service/ExceptionUtil.java,2,40.0,0,0,0.0,8,481.8
+sentinel,sentinel-extension/sentinel-datasource-extension/src/main/java/com/alibaba/csp/sentinel/datasource/FileRefreshableDataSource.java,3,40.0,0,27min 30s,27.5,63,1674.9
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/rule/FlowRuleEntity.java,1,40.0,0,22min 30s,22.5,99,3108.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/logger/LogSlot.java,2,40.0,0,7min 30s,7.5,15,598.2
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/MachineEntity.java,1,40.0,0,7min 30s,7.5,52,1521.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/ProcessorSlot.java,2,40.0,0,0,0.0,2,0.0
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/demo1/ProviderConfiguration.java,1,40.0,3,10min,10.0,18,810.0
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/demo2/ProviderConfiguration.java,1,40.0,3,10min,10.0,18,810.0
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/ResourceTreeNode.java,1,40.0,0,32min 30s,32.5,98,3167.1
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/log/RlsAccessLogger.java,3,40.0,0,0,0.0,11,415.5
+sentinel,sentinel-adapter/sentinel-grpc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/grpc/SentinelGrpcClientInterceptor.java,6,40.0,0,35min,35.0,9,481.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/system/SystemStatusListener.java,2,40.0,0,7min 30s,7.5,18,436.5
+sentinel,sentinel-extension/sentinel-datasource-extension/src/main/java/com/alibaba/csp/sentinel/datasource/WritableDataSource.java,2,40.0,0,0,0.0,null,null
+sentinel,sentinel-extension/sentinel-annotation-aspectj/src/main/java/com/alibaba/csp/sentinel/annotation/aspectj/ResourceMetadataRegistry.java,2,38.0,0,0,0.0,31,669.3
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/consumer/ConsumerConfiguration.java,3,37.0,2,10min,10.0,23,1080.0
+sentinel,sentinel-demo/sentinel-demo-apache-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/apache/dubbo/consumer/ConsumerConfiguration.java,3,37.0,2,10min,10.0,23,1080.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/context/ContextUtil.java,2,37.0,0,37min 30s,37.5,20,378.3
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/rule/GatewayRuleManager.java,4,37.0,2,2h 25min,145.0,58,2048.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/rule/InMemoryRuleRepositoryAdapter.java,4,37.0,0,47min 30s,47.5,46,1084.8
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParamFlowRuleManager.java,3,37.0,0,10min,10.0,36,1341.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/log/ConsoleHandler.java,5,35.0,0,0,0.0,24,523.8
+sentinel,sentinel-transport/sentinel-transport-simple-http/src/main/java/com/alibaba/csp/sentinel/transport/heartbeat/client/SimpleHttpClient.java,2,35.0,1,1h 55min,115.0,30,1225.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/auth/SimpleWebAuthServiceImpl.java,3,35.0,0,17min 30s,17.5,34,1101.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/FlowRuleManager.java,4,33.0,0,20min,20.0,37,1034.7
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/data/ParamFlowRequestDataWriter.java,3,33.0,1,2h 35min,155.0,26,640.2
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-embedded/src/main/java/com/alibaba/csp/sentinel/demo/cluster/init/DemoClusterInitFunc.java,7,32.0,0,30min,30.0,90,2455.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/IntervalProperty.java,4,32.0,3,17min 30s,17.5,11,481.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/SampleCountProperty.java,4,32.0,3,17min 30s,17.5,11,481.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/StatisticSlot.java,2,32.0,0,37min 30s,37.5,12,569.1
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/fallback/ZuulBlockFallbackManager.java,2,32.0,0,0,0.0,11,232.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/MethodUtil.java,2,31.0,0,0,0.0,7,328.2
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/config/ClusterClientStartUpConfig.java,1,30.0,0,20min,20.0,5,519.0
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/ClusterMetricNodeGenerator.java,1,30.0,2,1h,60.0,23,801.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/ColdFactorProperty.java,3,30.0,0,7min 30s,7.5,3,87.3
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/config/DashboardConfig.java,2,30.0,0,1h 7min,67.0,38,1092.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/DefaultNode.java,3,30.0,0,25min,25.0,48,1516.5
+sentinel,sentinel-demo/sentinel-demo-slot-chain-spi/src/main/java/com/alibaba/csp/sentinel/demo/slot/DemoSlot.java,3,30.0,0,7min 30s,7.5,15,598.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/logger/EagleEyeLogUtil.java,1,30.0,0,7min 30s,7.5,13,693.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/Env.java,1,30.0,0,7min 30s,7.5,2,58.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/FlowRuleChecker.java,4,30.0,4,5h 5min,305.0,47,1778.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/gateway/GatewayParamFlowItemEntity.java,1,30.0,0,20min,20.0,34,939.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/log/LoggerUtils.java,2,30.0,0,30min,30.0,4,365.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/metric/extension/MetricExtensionProvider.java,1,30.0,0,0,0.0,5,116.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/metric/MetricNode.java,1,30.0,0,37min 30s,37.5,66,2331.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/OccupyTimeoutProperty.java,1,30.0,3,30min,30.0,9,328.2
+sentinel,sentinel-demo/sentinel-demo-apache-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/apache/dubbo/provider/ProviderConfiguration.java,1,30.0,2,10min,10.0,18,810.0
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/SentinelEnvoyRlsServer.java,3,30.0,0,40min,40.0,19,868.2
+sentinel,sentinel-extension/sentinel-datasource-spring-cloud-config/src/main/java/com/alibaba/csp/sentinel/datasource/spring/cloud/config/SentinelRuleStorage.java,3,30.0,0,7min 30s,7.5,12,291.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/StringUtil.java,1,30.0,2,2h 45min,165.0,55,1691.1
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/TokenServiceProvider.java,1,30.0,0,0,0.0,6,145.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/vo/gateway/rule/UpdateFlowRuleReqVo.java,1,30.0,0,7min 30s,7.5,50,1455.0
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/callback/WebCallbackManager.java,1,30.0,0,0,0.0,14,407.4
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-server-alone/src/main/java/com/alibaba/csp/sentinel/demo/cluster/init/DemoClusterServerInitFunc.java,5,28.0,0,7min 30s,7.5,28,860.1
+sentinel,sentinel-demo/sentinel-demo-dynamic-file-rule/src/main/java/com/alibaba/csp/sentinel/demo/file/rule/FileDataSourceDemo.java,2,28.0,0,0,0.0,25,860.1
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/rule/EnvoyRlsRuleManager.java,2,27.0,2,1h 20min,80.0,32,1101.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/base/LongAdder.java,6,27.0,0,27min 30s,27.5,31,1540.8
+sentinel,sentinel-extension/sentinel-annotation-aspectj/src/main/java/com/alibaba/csp/sentinel/annotation/aspectj/SentinelResourceAspect.java,3,27.0,0,37min 30s,37.5,14,627.3
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/connection/ConnectionManager.java,4,26.0,0,30min,30.0,32,1013.7
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/connection/ConnectionPool.java,5,26.0,0,0,0.0,40,843.9
+sentinel,sentinel-extension/sentinel-datasource-extension/src/main/java/com/alibaba/csp/sentinel/datasource/AutoRefreshDataSource.java,2,25.0,0,10min,10.0,22,465.6
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/transport/init/HeartbeatSenderInitFunc.java,2,25.0,0,30min,30.0,27,735.6
+sentinel,sentinel-adapter/sentinel-grpc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/grpc/SentinelGrpcServerInterceptor.java,3,25.0,0,27min 30s,27.5,11,540.0
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/command/UpdateGatewayApiDefinitionGroupCommandHandler.java,3,24.0,1,40min,40.0,23,955.5
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/heartbeat/HttpHeartbeatSender.java,4,23.0,2,55min,55.0,32,1005.6
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/netty/HttpServer.java,3,23.0,0,27min 30s,27.5,28,1042.8
+sentinel,sentinel-demo/sentinel-demo-annotation-spring-aop/src/main/java/com/alibaba/csp/sentinel/demo/annotation/aop/service/TestServiceImpl.java,4,22.0,0,0,0.0,28,1042.8
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/FetchClusterNodeHumanCommandHandler.java,3,21.0,0,25min,25.0,14,751.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/init/InitExecutor.java,4,21.0,0,37min 30s,37.5,37,1408.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/base/LeapArray.java,9,21.0,3,3h 5min,185.0,47,1670.1
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/NettyTransportServer.java,4,21.0,0,27min 30s,27.5,51,1720.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/StatLogger.java,2,21.0,0,47min 30s,47.5,88,2219.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/AbstractLinkedProcessorSlot.java,1,20.0,0,22min 30s,22.5,22,436.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/vo/gateway/api/AddApiReqVo.java,1,20.0,0,0,0.0,25,727.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/gateway/ApiPredicateItemEntity.java,1,20.0,0,20min,20.0,32,764.7
+sentinel,sentinel-extension/sentinel-datasource-apollo/src/main/java/com/alibaba/csp/sentinel/datasource/apollo/ApolloDataSource.java,1,20.0,0,0,0.0,19,436.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/metric/ArrayMetric.java,1,20.0,3,1h 15min,75.0,107,2834.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/rule/AuthorityRuleEntity.java,1,20.0,0,0,0.0,26,1329.0
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/callback/BlockExceptionHandler.java,1,20.0,0,0,0.0,null,null
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-embedded/src/main/java/com/alibaba/csp/sentinel/demo/cluster/app/controller/ClusterDemoController.java,1,20.0,0,0,0.0,11,540.0
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/util/ClusterEntityUtils.java,1,20.0,3,1h 40min,100.0,38,1283.7
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-embedded/src/main/java/com/alibaba/csp/sentinel/demo/cluster/entity/ClusterGroupEntity.java,1,20.0,0,0,0.0,28,756.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/ClusterGroupEntity.java,1,20.0,0,0,0.0,34,931.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/log/CommandCenterLog.java,1,20.0,0,0,0.0,17,378.3
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/transport/client/CommandClient.java,1,20.0,0,0,0.0,2,58.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/Constants.java,12,20.0,0,7min 30s,7.5,10,357.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/CtEntry.java,2,20.0,0,20min,20.0,36,910.2
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/callback/DefaultBlockExceptionHandler.java,1,20.0,0,0,0.0,8,481.8
+sentinel,sentinel-adapter/sentinel-spring-webflux-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webflux/callback/DefaultBlockRequestHandler.java,1,20.0,4,1h,60.0,37,1246.5
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/callback/DefaultBlockRequestHandler.java,1,20.0,4,1h,60.0,37,1246.5
+sentinel,sentinel-demo/sentinel-demo-annotation-spring-aop/src/main/java/com/alibaba/csp/sentinel/demo/annotation/aop/controller/DemoController.java,1,20.0,0,0,0.0,13,320.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/rule/DynamicRuleProvider.java,1,20.0,0,0,0.0,5,145.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/rule/DynamicRulePublisher.java,1,20.0,0,0,0.0,null,null
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/datasource/EnvoyRlsRuleDataSourceService.java,2,20.0,0,10min,10.0,29,764.7
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/FetchOriginCommandHandler.java,3,20.0,0,40min,40.0,15,751.8
+sentinel,sentinel-demo/sentinel-demo-dynamic-file-rule/src/main/java/com/alibaba/csp/sentinel/demo/file/rule/FileDataSourceInit.java,1,20.0,0,0,0.0,16,627.3
+sentinel,sentinel-extension/sentinel-datasource-extension/src/main/java/com/alibaba/csp/sentinel/datasource/FileInJarReadableDataSource.java,1,20.0,0,10min,10.0,46,1164.0
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/demo1/FooConsumerBootstrap.java,3,20.0,0,0,0.0,12,818.1
+sentinel,sentinel-demo/sentinel-demo-apache-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/apache/dubbo/provider/FooServiceImpl.java,3,20.0,0,0,0.0,15,598.2
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/vo/gateway/rule/GatewayParamFlowItemVo.java,1,20.0,0,0,0.0,20,582.0
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/transport/HeartbeatSender.java,1,20.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/IdUtil.java,1,20.0,2,40min,40.0,26,926.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/init/InitFunc.java,1,20.0,0,0,0.0,4,87.3
+sentinel,sentinel-demo/sentinel-demo-dynamic-file-rule/src/main/java/com/alibaba/csp/sentinel/demo/file/rule/JarFileDataSourceDemo.java,1,20.0,0,0,0.0,16,656.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/MachineRegistryController.java,1,20.0,0,1h 5min,65.0,17,905.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/MetricEntity.java,1,20.0,0,15min,15.0,87,2298.9
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/vo/MetricVo.java,2,20.0,0,15min,15.0,77,2095.2
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/ModifyClusterFlowRulesCommandHandler.java,1,20.0,0,40min,40.0,12,664.5
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/ModifyClusterParamFlowRulesCommandHandler.java,1,20.0,0,40min,40.0,12,664.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/rule/ParamFlowRuleEntity.java,1,20.0,0,0,0.0,62,3235.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/ProcessorSlotEntryCallback.java,1,20.0,0,0,0.0,6,174.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/log/RecordLog.java,1,20.0,0,0,0.0,20,349.2
+sentinel,sentinel-demo/sentinel-demo-spring-webmvc/src/main/java/com/alibaba/csp/sentinel/demo/spring/webmvc/vo/ResultWrapper.java,1,20.0,0,0,0.0,20,494.7
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/connection/ScanIdleConnectionTask.java,2,20.0,0,0,0.0,8,174.6
+sentinel,sentinel-adapter/sentinel-spring-webflux-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webflux/exception/SentinelBlockExceptionHandler.java,1,20.0,3,30min,30.0,32,1159.2
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/exception/SentinelGatewayBlockExceptionHandler.java,1,20.0,3,30min,30.0,33,1159.2
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/handler/TokenServerHandler.java,2,20.0,0,30min,30.0,43,1076.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/VersionUtil.java,1,20.0,0,20min,20.0,8,423.6
+sentinel,sentinel-demo/sentinel-demo-spring-webflux/src/main/java/com/alibaba/csp/sentinel/demo/spring/webflux/config/WebFluxConfig.java,1,20.0,1,0,0.0,16,685.5
+sentinel,sentinel-demo/sentinel-demo-apache-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/apache/dubbo/FooProviderBootstrap.java,5,18.0,0,0,0.0,8,452.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/StatLoggerBuilder.java,3,18.0,0,17min 30s,17.5,51,1288.5
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParamFlowRule.java,4,17.0,0,2h 47min,167.0,98,2672.4
+sentinel,sentinel-extension/sentinel-datasource-extension/src/main/java/com/alibaba/csp/sentinel/datasource/FileWritableDataSource.java,1,15.0,0,0,0.0,32,918.3
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/demo1/FooProviderBootstrap.java,2,15.0,0,0,0.0,14,627.3
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/NettyTransportClient.java,4,15.0,0,42min 30s,42.5,67,2223.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/NodeBuilder.java,2,15.0,0,0,0.0,3,87.3
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/rule/RuleRepository.java,2,15.0,0,0,0.0,10,232.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/controller/WarmUpController.java,3,15.0,0,40min,40.0,37,1333.8
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/config/ClusterServerConfigManager.java,3,14.0,0,2h 50min,170.0,118,4893.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/degrade/DegradeRule.java,2,14.0,0,2h 22min,142.0,68,1791.3
+sentinel,sentinel-extension/sentinel-datasource-etcd/src/main/java/com/alibaba/csp/sentinel/datasource/etcd/EtcdConfig.java,8,14.0,0,17min 30s,17.5,29,889.2
+sentinel,sentinel-demo/sentinel-demo-etcd-datasource/src/main/java/com/alibaba/csp/sentinel/demo/datasource/etcd/EtcdDataSourceDemo.java,4,14.0,0,0,0.0,14,664.5
+sentinel,sentinel-demo/sentinel-demo-etcd-datasource/src/main/java/com/alibaba/csp/sentinel/demo/datasource/etcd/EtcdConfigSender.java,2,12.0,0,0,0.0,11,481.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/service/ClusterConfigService.java,4,11.0,0,1h 52min,112.0,57,1296.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/controller/RateLimiterController.java,3,11.0,0,1h,60.0,16,531.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/controller/WarmUpRateLimiterController.java,3,11.0,0,47min 30s,47.5,17,656.4
+sentinel,sentinel-demo/sentinel-demo-command-handler/src/main/java/com/alibaba/csp/sentinel/demo/commandhandler/CommandDemo.java,1,10.0,0,0,0.0,6,423.6
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/CommonTotalFilter.java,2,10.0,0,15min,15.0,17,656.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/DemoController.java,5,10.0,0,25min,25.0,65,2816.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/EagleEyeAppender.java,1,10.0,0,0,0.0,14,627.3
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/demo2/FooProviderBootstrap.java,1,10.0,0,0,0.0,7,452.7
+sentinel,sentinel-demo/sentinel-demo-spring-webflux/src/main/java/com/alibaba/csp/sentinel/demo/spring/webflux/service/FooService.java,1,10.0,0,0,0.0,20,714.6
+sentinel,sentinel-demo/sentinel-demo-spring-webmvc/src/main/java/com/alibaba/csp/sentinel/demo/spring/webmvc/config/InterceptorConfig.java,2,10.0,0,0,0.0,18,868.2
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/auth/LoginAuthenticationFilter.java,2,10.0,1,30min,30.0,20,1021.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/discovery/MachineDiscovery.java,1,10.0,0,0,0.0,13,378.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/metric/MetricTimerListener.java,1,10.0,0,0,0.0,15,876.3
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/ModifyClusterServerTransportConfigHandler.java,2,10.0,0,50min,50.0,11,664.5
+sentinel,sentinel-demo/sentinel-demo-nacos-datasource/src/main/java/com/alibaba/csp/sentinel/demo/datasource/nacos/NacosConfigSender.java,1,10.0,0,0,0.0,11,510.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/property/NoOpSentinelProperty.java,2,10.0,0,0,0.0,12,510.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/metric/occupy/OccupiableBucketLeapArray.java,1,10.0,0,7min 30s,7.5,26,860.1
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/SentinelRlsGrpcServer.java,1,10.0,0,0,0.0,20,465.6
+sentinel,sentinel-demo/sentinel-demo-rocketmq/src/main/java/com/alibaba/csp/sentinel/demo/rocketmq/SyncProducer.java,1,10.0,0,0,0.0,11,569.1
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/metric/ClusterParamMetric.java,3,8.0,1,42min 30s,42.5,34,881.1
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/statistic/metric/HotParameterLeapArray.java,4,8.0,1,15min,15.0,26,831.0
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/discovery/SimpleMachineDiscovery.java,1,8.0,0,10min,10.0,26,648.3
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/ClusterFlowChecker.java,2,7.0,2,1h 55min,115.0,24,1329.0
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/CommonFilter.java,2,7.0,0,25min,25.0,23,582.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/EagleEyeLogDaemon.java,3,6.0,0,0,0.0,53,3550.5
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/FetchTreeCommandHandler.java,1,6.0,0,7min 30s,7.5,16,905.4
+sentinel,sentinel-demo/sentinel-demo-nacos-datasource/src/main/java/com/alibaba/csp/sentinel/demo/datasource/nacos/NacosDataSourceDemo.java,3,6.0,0,0,0.0,24,494.7
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/netty/NettyResponseDecoder.java,4,6.0,0,20min,20.0,11,540.0
+sentinel,sentinel-adapter/sentinel-reactor-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/reactor/ReactorSphU.java,2,6.0,0,57min 30s,57.5,16,569.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/StatEntryFunc.java,4,6.0,0,27min 30s,27.5,135,3839.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/Tracer.java,1,6.0,0,2h,120.0,20,714.6
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/api/ApiPredicateGroupItem.java,1,5.0,0,0,0.0,8,203.7
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/api/ApiPredicateItem.java,1,5.0,0,0,0.0,1,0.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/log/CspFormatter.java,1,5.0,0,0,0.0,12,664.5
+sentinel,sentinel-extension/sentinel-datasource-extension/src/main/java/com/alibaba/csp/sentinel/datasource/EmptyDataSource.java,1,5.0,0,7min 30s,7.5,24,801.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/FastDateFormat.java,1,5.0,0,10min,10.0,36,968.4
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/NettyHttpCommandCenter.java,2,5.0,0,0,0.0,19,561.0
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/ResourceController.java,1,5.0,0,57min 30s,57.5,10,635.4
+sentinel,sentinel-benchmark/src/main/java/com/alibaba/csp/sentinel/benchmark/SentinelEntryBenchmark.java,1,5.0,0,0,0.0,46,1180.2
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/SentinelWebInterceptor.java,1,5.0,0,10min,10.0,11,291.0
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/filters/SentinelZuulErrorFilter.java,1,5.0,0,0,0.0,22,494.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/spi/ServiceLoaderUtil.java,1,5.0,0,20min,20.0,14,569.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/util/VersionUtils.java,1,5.0,0,1h 15min,75.0,8,577.2
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/filters/EntryHolder.java,2,4.0,0,0,0.0,9,232.8
+sentinel,sentinel-extension/sentinel-datasource-etcd/src/main/java/com/alibaba/csp/sentinel/datasource/etcd/EtcdDataSource.java,2,4.0,0,10min,10.0,24,926.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/metric/InMemoryMetricsRepository.java,3,4.0,1,1h 45min,105.0,25,677.4
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/netty/NettyResponseEncoder.java,2,4.0,0,10min,10.0,16,598.2
+sentinel,sentinel-extension/sentinel-datasource-zookeeper/src/main/java/com/alibaba/csp/sentinel/datasource/zookeeper/ZookeeperDataSource.java,3,4.0,0,17min 30s,17.5,63,1828.5
+sentinel,sentinel-extension/sentinel-datasource-extension/src/main/java/com/alibaba/csp/sentinel/datasource/AbstractDataSource.java,2,3.0,0,7min 30s,7.5,22,465.6
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/CommandResponse.java,3,3.0,0,0,0.0,16,531.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/AbstractRule.java,1,2.0,0,1h 35min,95.0,31,669.3
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/rule/AbstractRuleEntity.java,1,2.0,0,0,0.0,48,1251.3
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/discovery/AppInfo.java,1,2.0,0,30min,30.0,46,1047.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/authority/AuthorityRuleChecker.java,1,2.0,0,30min,30.0,10,510.9
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/config/BaseWebMvcConfig.java,1,2.0,0,0,0.0,16,436.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/log/ClusterStatLogUtil.java,1,2.0,3,10min,10.0,18,780.9
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/CommandRequest.java,2,2.0,0,0,0.0,29,698.4
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/connection/ConnectionGroup.java,1,2.0,0,0,0.0,26,611.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/DashboardApplication.java,1,2.0,0,0,0.0,12,606.3
+sentinel,sentinel-extension/sentinel-datasource-spring-cloud-config/src/main/java/com/alibaba/csp/sentinel/datasource/spring/cloud/config/config/DataSourceBootstrapConfiguration.java,1,2.0,0,0,0.0,11,664.5
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/callback/GatewayCallbackManager.java,1,2.0,0,0,0.0,20,590.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/MethodResourceWrapper.java,1,2.0,0,0,0.0,18,320.1
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/command/handler/ModifyClusterClientConfigHandler.java,1,2.0,0,30min,30.0,11,635.4
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/ModifyClusterServerFlowConfigHandler.java,1,2.0,0,30min,30.0,12,635.4
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/ModifyServerNamespaceSetHandler.java,1,2.0,0,30min,30.0,11,635.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/nodeselector/NodeSelectorSlot.java,2,2.0,0,7min 30s,7.5,15,722.7
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/data/PingResponseDataWriter.java,1,2.0,0,10min,10.0,6,365.4
+sentinel,sentinel-extension/sentinel-datasource-spring-cloud-config/src/main/java/com/alibaba/csp/sentinel/datasource/spring/cloud/config/SpringCloudConfigDataSource.java,1,2.0,0,0,0.0,34,947.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/StatisticSlotCallbackRegistry.java,2,2.0,0,20min,20.0,35,881.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/function/Tuple2.java,2,2.0,0,7min 30s,7.5,15,598.2
+sentinel,sentinel-adapter/sentinel-spring-webflux-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webflux/callback/WebFluxCallbackManager.java,1,2.0,0,0,0.0,27,735.6
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/CommandHandlerProvider.java,1,1.0,0,20min,20.0,14,320.1
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/FetchJsonTreeCommandHandler.java,1,1.0,0,0,0.0,9,606.3
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/FetchSimpleClusterNodeCommandHandler.java,1,1.0,0,10min,10.0,8,481.8
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/FetchSystemStatusCommandHandler.java,1,1.0,0,0,0.0,8,452.7
+sentinel,sentinel-transport/sentinel-transport-simple-http/src/main/java/com/alibaba/csp/sentinel/transport/heartbeat/HeartbeatMessage.java,1,1.0,0,0,0.0,12,444.6
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/statistic/data/ParamMapBucket.java,1,1.0,0,7min 30s,7.5,30,918.3
+sentinel,sentinel-transport/sentinel-transport-simple-http/src/main/java/com/alibaba/csp/sentinel/transport/heartbeat/SimpleHttpHeartbeatSender.java,3,1.0,1,1h 7min,67.0,34,1217.4
+sentinel,sentinel-transport/sentinel-transport-simple-http/src/main/java/com/alibaba/csp/sentinel/transport/heartbeat/client/SimpleHttpRequest.java,1,1.0,0,0,0.0,38,1047.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/StatRollingData.java,1,1.0,0,0,0.0,30,698.4
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/api/matcher/AbstractApiMatcher.java,0,0.0,0,10min,10.0,15,627.3
+sentinel,sentinel-adapter/sentinel-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/AbstractDubboFilter.java,0,0.0,0,10min,10.0,12,664.5
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/AbstractSentinelInterceptor.java,0,0.0,0,37min 30s,37.5,46,1105.8
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/route/AntRoutePathMatcher.java,0,0.0,0,10min,10.0,12,291.0
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-embedded/src/main/java/com/alibaba/csp/sentinel/demo/cluster/app/config/AopConfig.java,0,0.0,0,0,0.0,9,606.3
+sentinel,sentinel-demo/sentinel-demo-annotation-spring-aop/src/main/java/com/alibaba/csp/sentinel/demo/annotation/aop/config/AopConfiguration.java,0,0.0,0,0,0.0,9,606.3
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/ApiCommandHandler.java,0,0.0,1,20min,20.0,7,423.6
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/api/ApiDefinition.java,0,0.0,0,30min,30.0,31,793.8
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/api/ApiDefinitionChangeObserver.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/api/ApiPathPredicateItem.java,0,0.0,0,30min,30.0,24,706.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/vo/gateway/api/ApiPredicateItemVo.java,0,0.0,0,0,0.0,10,291.0
+sentinel,sentinel-demo/sentinel-demo-apollo-datasource/src/main/java/com/alibaba/csp/sentinel/demo/datasource/apollo/ApolloDataSourceDemo.java,0,0.0,0,0,0.0,12,664.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/state/AppClusterClientStateWrapVO.java,0,0.0,0,0,0.0,27,727.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/state/AppClusterServerStateWrapVO.java,0,0.0,0,0,0.0,39,1076.7
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/AppController.java,0,0.0,0,40min,40.0,20,436.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/discovery/AppManagement.java,0,0.0,0,0,0.0,39,1744.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/AppNameUtil.java,0,0.0,0,27min 30s,27.5,15,378.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/AssertUtil.java,0,0.0,0,0,0.0,26,685.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/AsyncEntry.java,0,0.0,0,27min 30s,27.5,20,436.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/util/AsyncUtils.java,0,0.0,0,10min,10.0,29,984.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/auth/AuthAction.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/authority/AuthorityException.java,0,0.0,0,0,0.0,20,685.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/authority/AuthorityRule.java,0,0.0,0,30min,30.0,22,465.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/authority/AuthoritySlot.java,0,0.0,0,27min 30s,27.5,20,685.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/auth/AuthorizationInterceptor.java,0,0.0,0,20min,20.0,19,868.2
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/auth/AuthService.java,0,0.0,0,0,0.0,2,58.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/BaseLoggerBuilder.java,0,0.0,0,0,0.0,49,1259.4
+sentinel,sentinel-adapter/sentinel-apache-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/BaseSentinelDubboFilter.java,0,0.0,0,0,0.0,25,1050.9
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/BasicInfoCommandHandler.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-demo/sentinel-demo-spring-webflux/src/main/java/com/alibaba/csp/sentinel/demo/spring/webflux/controller/BazController.java,0,0.0,0,0,0.0,12,291.0
+sentinel,sentinel-demo/sentinel-demo-spring-webflux/src/main/java/com/alibaba/csp/sentinel/demo/spring/webflux/service/BazService.java,0,0.0,0,20min,20.0,17,810.0
+sentinel,sentinel-adapter/sentinel-spring-webflux-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webflux/callback/BlockRequestHandler.java,0,0.0,0,0,0.0,1,0.0
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/callback/BlockRequestHandler.java,0,0.0,0,0,0.0,1,0.0
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/fallback/BlockResponse.java,0,0.0,0,0,0.0,21,523.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/metric/BucketLeapArray.java,0,0.0,0,0,0.0,13,540.0
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/statistic/cache/CacheMap.java,0,0.0,0,0,0.0,23,611.1
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/ClientConstants.java,0,0.0,0,7min 30s,7.5,9,357.3
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/ClientEntityCodecProvider.java,0,0.0,0,0,0.0,12,386.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/request/ClusterAppAssignMap.java,0,0.0,0,0,0.0,46,1280.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/ClusterAppAssignResultVO.java,0,0.0,0,0,0.0,22,582.0
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/ClusterAppFullAssignRequest.java,0,0.0,0,0,0.0,15,407.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/ClusterAppSingleServerAssignRequest.java,0,0.0,0,0,0.0,15,407.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/service/ClusterAssignService.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/clusterbuilder/ClusterBuilderSlot.java,0,0.0,0,25min,25.0,21,839.1
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/config/ClusterClientAssignConfig.java,0,0.0,0,0,0.0,21,494.7
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/config/ClusterClientConfig.java,0,0.0,0,0,0.0,9,232.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/config/ClusterClientConfig.java,0,0.0,0,0,0.0,28,756.6
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/config/ClusterClientConfigManager.java,0,0.0,0,50min,50.0,83,2609.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/ClusterClientInfoVO.java,0,0.0,0,0,0.0,28,756.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/request/ClusterClientModifyRequest.java,0,0.0,0,0,0.0,30,873.0
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/command/entity/ClusterClientStateEntity.java,0,0.0,0,0,0.0,34,873.0
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/state/ClusterClientStateVO.java,0,0.0,0,0,0.0,8,203.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/log/ClusterClientStatLogUtil.java,0,0.0,3,10min,10.0,15,722.7
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/ClusterConstants.java,0,0.0,0,7min 30s,7.5,19,648.3
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-embedded/src/main/java/com/alibaba/csp/sentinel/demo/cluster/app/ClusterDemoApplication.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/ClusterErrorMessages.java,0,0.0,0,7min 30s,7.5,9,357.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/ClusterFlowConfig.java,0,0.0,0,1h 17min,77.0,45,1288.5
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/data/ClusterFlowEvent.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/metric/ClusterMetric.java,0,0.0,0,10min,10.0,16,378.3
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/data/ClusterMetricBucket.java,0,0.0,0,0,0.0,14,415.5
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/metric/ClusterMetricLeapArray.java,0,0.0,0,20min,20.0,35,910.2
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/ClusterMetricNode.java,0,0.0,0,0,0.0,46,1280.4
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/ClusterMetricStatistics.java,0,0.0,0,10min,10.0,23,590.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/request/ClusterModifyRequest.java,0,0.0,0,0,0.0,8,232.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/ClusterNode.java,0,0.0,0,17min 30s,17.5,17,378.3
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/metric/ClusterParameterLeapArray.java,0,0.0,0,0,0.0,13,291.0
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/ClusterParamFlowChecker.java,0,0.0,2,1h 45min,105.0,33,1532.7
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/ClusterParamMetricStatistics.java,0,0.0,0,10min,10.0,24,619.2
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/request/ClusterRequest.java,0,0.0,0,0,0.0,31,727.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/state/ClusterRequestLimitVO.java,0,0.0,0,0,0.0,22,582.0
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/response/ClusterResponse.java,0,0.0,0,0,0.0,34,873.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/ClusterRuleConstant.java,0,0.0,0,7min 30s,7.5,9,357.3
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/util/ClusterRuleUtil.java,0,0.0,0,0,0.0,8,423.6
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-server-alone/src/main/java/com/alibaba/csp/sentinel/demo/cluster/ClusterServerDemo.java,0,0.0,0,0,0.0,8,481.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/request/ClusterServerModifyRequest.java,0,0.0,0,0,0.0,46,1280.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/state/ClusterServerStateVO.java,0,0.0,0,7min 30s,7.5,52,1455.0
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/log/ClusterServerStatLogUtil.java,0,0.0,3,10min,10.0,14,693.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/state/ClusterStateSimpleEntity.java,0,0.0,0,0,0.0,28,756.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/ClusterStateSingleVO.java,0,0.0,0,0,0.0,22,582.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/client/ClusterTokenClient.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/state/ClusterUniversalStatePairVO.java,0,0.0,0,0,0.0,29,727.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/state/ClusterUniversalStateVO.java,0,0.0,0,0,0.0,22,582.0
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/transport/init/CommandCenterInitFunc.java,0,0.0,0,10min,10.0,8,452.7
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/CommandCenterProvider.java,0,0.0,0,0,0.0,6,240.9
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/CommandConstants.java,0,0.0,0,7min 30s,7.5,11,415.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/client/CommandFailedException.java,0,0.0,0,0,0.0,11,481.8
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/CommandHandler.java,0,0.0,0,0,0.0,1,0.0
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/annotation/CommandMapping.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/client/CommandNotFoundException.java,0,0.0,0,0,0.0,12,510.9
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/statistic/cache/ConcurrentLinkedHashMapWrapper.java,0,0.0,0,20min,20.0,43,843.9
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/registry/ConfigSupplierRegistry.java,0,0.0,0,0,0.0,6,240.9
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/connection/Connection.java,0,0.0,0,0,0.0,12,349.2
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/connection/ConnectionDescriptor.java,0,0.0,0,20min,20.0,24,706.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/ConnectionDescriptorVO.java,0,0.0,0,0,0.0,16,407.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/ConnectionGroupVO.java,0,0.0,0,0,0.0,22,582.0
+sentinel,sentinel-demo/sentinel-demo-rocketmq/src/main/java/com/alibaba/csp/sentinel/demo/rocketmq/Constants.java,0,0.0,0,7min 30s,7.5,8,299.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/function/Consumer.java,0,0.0,0,0,0.0,3,87.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/context/Context.java,0,0.0,0,20min,20.0,70,1425.9
+sentinel,sentinel-adapter/sentinel-reactor-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/reactor/ContextConfig.java,0,0.0,0,0,0.0,17,378.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/context/ContextNameDefineException.java,0,0.0,0,0,0.0,5,365.4
+sentinel,sentinel-extension/sentinel-datasource-extension/src/main/java/com/alibaba/csp/sentinel/datasource/Converter.java,0,0.0,0,0,0.0,1,0.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/metric/DebugSupport.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/fallback/DefaultBlockFallbackProvider.java,0,0.0,0,20min,20.0,9,452.7
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/init/DefaultClusterClientInitFunc.java,0,0.0,0,0,0.0,13,510.9
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/init/DefaultClusterServerInitFunc.java,0,0.0,0,0,0.0,14,598.2
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/codec/DefaultCodecs.java,0,0.0,0,7min 30s,7.5,5,240.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/controller/DefaultController.java,1,0.0,0,20min,20.0,28,947.4
+sentinel,sentinel-adapter/sentinel-apache-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/fallback/DefaultDubboFallback.java,0,0.0,0,0,0.0,12,789.0
+sentinel,sentinel-adapter/sentinel-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/fallback/DefaultDubboFallback.java,0,0.0,0,0,0.0,12,789.0
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/DefaultEmbeddedTokenServer.java,0,0.0,0,20min,20.0,23,1050.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/DefaultProcessorSlotChain.java,0,0.0,0,22min 30s,22.5,25,619.2
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/DefaultRequestEntityDecoder.java,0,0.0,0,20min,20.0,7,423.6
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/DefaultRequestEntityWriter.java,0,0.0,0,10min,10.0,9,481.8
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/callback/DefaultRequestOriginParser.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/DefaultResponseEntityDecoder.java,0,0.0,0,20min,20.0,7,423.6
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/DefaultResponseEntityWriter.java,0,0.0,0,10min,10.0,12,540.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/DefaultSlotChainBuilder.java,0,0.0,0,0,0.0,6,519.0
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/DefaultTokenService.java,0,0.0,0,40min,40.0,19,743.7
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/callback/DefaultUrlBlockHandler.java,0,0.0,0,0,0.0,6,423.6
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/callback/DefaultUrlCleaner.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/degrade/DegradeException.java,0,0.0,0,0,0.0,20,685.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/degrade/DegradeSlot.java,0,0.0,0,7min 30s,7.5,12,481.8
+sentinel,sentinel-demo/sentinel-demo-annotation-spring-aop/src/main/java/com/alibaba/csp/sentinel/demo/annotation/aop/DemoApplication.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-server-alone/src/main/java/com/alibaba/csp/sentinel/demo/cluster/DemoConstants.java,0,0.0,0,7min 30s,7.5,20,772.8
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-embedded/src/main/java/com/alibaba/csp/sentinel/demo/cluster/DemoConstants.java,0,0.0,0,7min 30s,7.5,20,772.8
+sentinel,sentinel-demo/sentinel-demo-cluster/sentinel-demo-cluster-embedded/src/main/java/com/alibaba/csp/sentinel/demo/cluster/app/service/DemoService.java,0,0.0,0,0,0.0,14,751.8
+sentinel,sentinel-demo/sentinel-demo-slot-chain-spi/src/main/java/com/alibaba/csp/sentinel/demo/slot/DemoSlotChainBuilder.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-adapter/sentinel-apache-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/DubboAppContextFilter.java,0,0.0,0,0,0.0,18,905.4
+sentinel,sentinel-adapter/sentinel-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/DubboAppContextFilter.java,0,0.0,0,0,0.0,18,905.4
+sentinel,sentinel-adapter/sentinel-apache-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/fallback/DubboFallback.java,0,0.0,0,0,0.0,3,58.2
+sentinel,sentinel-adapter/sentinel-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/fallback/DubboFallback.java,0,0.0,0,0,0.0,3,58.2
+sentinel,sentinel-adapter/sentinel-apache-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/fallback/DubboFallbackRegistry.java,0,0.0,0,0,0.0,31,1283.7
+sentinel,sentinel-adapter/sentinel-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/fallback/DubboFallbackRegistry.java,0,0.0,0,0,0.0,31,1283.7
+sentinel,sentinel-adapter/sentinel-apache-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/DubboUtils.java,0,0.0,0,7min 30s,7.5,39,1466.4
+sentinel,sentinel-adapter/sentinel-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/DubboUtils.java,0,0.0,0,7min 30s,7.5,39,1466.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/property/DynamicSentinelProperty.java,0,0.0,0,30min,30.0,33,640.2
+sentinel,sentinel-demo/sentinel-demo-command-handler/src/main/java/com/alibaba/csp/sentinel/demo/commandhandler/EchoCommandHandler.java,0,0.0,0,10min,10.0,7,423.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/server/EmbeddedClusterTokenServer.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/server/EmbeddedClusterTokenServerProvider.java,0,0.0,0,0,0.0,13,357.3
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/codec/EntityDecoder.java,0,0.0,0,0,0.0,1,0.0
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/codec/EntityWriter.java,0,0.0,0,0,0.0,1,0.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/EntranceNode.java,0,0.0,0,7min 30s,7.5,51,2454.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/Entry.java,0,0.0,0,0,0.0,41,931.2
+sentinel,sentinel-adapter/sentinel-reactor-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/reactor/EntryConfig.java,0,0.0,0,7min 30s,7.5,46,1076.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/EntryType.java,0,0.0,0,0,0.0,12,261.9
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/rule/EnvoyRlsRule.java,0,0.0,0,20min,20.0,70,1695.9
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/rule/EnvoySentinelRuleConverter.java,0,0.0,0,17min 30s,17.5,22,868.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/ErrorEntryFreeException.java,0,0.0,0,0,0.0,5,365.4
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/auth/FakeAuthServiceImpl.java,0,0.0,0,0,0.0,27,1233.6
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/FetchActiveRuleCommandHandler.java,0,0.0,0,57min 30s,57.5,9,481.8
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/command/handler/FetchClusterClientConfigHandler.java,0,0.0,0,0,0.0,9,481.8
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/FetchClusterFlowRulesCommandHandler.java,0,0.0,0,20min,20.0,7,423.6
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/FetchClusterMetricCommandHandler.java,0,0.0,0,10min,10.0,8,452.7
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/cluster/FetchClusterModeCommandHandler.java,0,0.0,0,0,0.0,16,598.2
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/FetchClusterNodeByIdCommandHandler.java,0,0.0,0,30min,30.0,8,452.7
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/FetchClusterParamFlowRulesCommandHandler.java,0,0.0,0,20min,20.0,7,423.6
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/FetchClusterServerConfigHandler.java,0,0.0,0,10min,10.0,18,714.6
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/command/handler/FetchClusterServerInfoCommandHandler.java,0,0.0,0,7min 30s,7.5,15,598.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/FlowException.java,0,0.0,0,0,0.0,20,656.4
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/request/data/FlowRequestData.java,0,0.0,0,0,0.0,22,582.0
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/data/FlowRequestDataDecoder.java,0,0.0,0,10min,10.0,6,394.5
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/data/FlowRequestDataWriter.java,0,0.0,0,0,0.0,5,365.4
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/processor/FlowRequestProcessor.java,0,0.0,0,0,0.0,15,627.3
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/data/FlowResponseDataDecoder.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/data/FlowResponseDataWriter.java,0,0.0,0,0,0.0,5,365.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/FlowRule.java,0,0.0,0,2h 20min,140.0,92,2439.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/rule/FlowRuleApiProvider.java,0,0.0,0,37min 30s,37.5,18,780.9
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/rule/FlowRuleApiPublisher.java,1,0.0,1,40min,40.0,15,810.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/FlowRuleComparator.java,0,0.0,0,1h 17min,77.0,6,394.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/FlowSlot.java,0,0.0,0,7min 30s,7.5,18,378.3
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/response/data/FlowTokenResponseData.java,0,0.0,0,0,0.0,15,407.4
+sentinel,sentinel-adapter/sentinel-reactor-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/reactor/FluxSentinelOperator.java,0,0.0,0,0,0.0,8,174.6
+sentinel,sentinel-demo/sentinel-demo-spring-webflux/src/main/java/com/alibaba/csp/sentinel/demo/spring/webflux/controller/FooController.java,0,0.0,0,0,0.0,13,320.1
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/FooService.java,0,0.0,0,0,0.0,5,145.5
+sentinel,sentinel-demo/sentinel-demo-apache-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/apache/dubbo/FooService.java,0,0.0,0,0,0.0,8,232.8
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/consumer/FooServiceConsumer.java,0,0.0,0,0,0.0,9,203.7
+sentinel,sentinel-demo/sentinel-demo-apache-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/apache/dubbo/consumer/FooServiceConsumer.java,0,0.0,0,0,0.0,13,291.0
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/demo1/FooServiceImpl.java,0,0.0,2,10min,10.0,9,452.7
+sentinel,sentinel-demo/sentinel-demo-dubbo/src/main/java/com/alibaba/csp/sentinel/demo/dubbo/demo2/FooServiceImpl.java,0,0.0,2,10min,10.0,9,452.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/function/Function.java,0,0.0,0,0,0.0,1,29.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/metric/occupy/FutureBucketLeapArray.java,0,0.0,0,0,0.0,14,627.3
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/api/GatewayApiMatcherManager.java,0,0.0,0,10min,10.0,20,531.9
+sentinel,sentinel-demo/sentinel-demo-spring-cloud-gateway/src/main/java/com/alibaba/csp/sentinel/demo/spring/sc/gateway/GatewayDemoApplication.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/rule/GatewayFlowRule.java,0,0.0,0,2h 2min,122.0,86,2294.1
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/slot/GatewayFlowSlot.java,0,0.0,0,27min 30s,27.5,20,992.7
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/rule/GatewayParamFlowItem.java,0,0.0,0,0,0.0,34,785.7
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/param/GatewayParamParser.java,1,0.0,10,5h 25min,325.0,35,902.1
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/param/GatewayRegexCache.java,0,0.0,0,40min,40.0,14,415.5
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/rule/GatewayRuleConverter.java,0,0.0,0,0,0.0,23,1080.0
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/slot/GatewaySlotChainBuilder.java,0,0.0,0,7min 30s,7.5,6,548.1
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/command/GetGatewayApiDefinitionGroupCommandHandler.java,0,0.0,0,0,0.0,7,423.6
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/command/GetGatewayRuleCommandHandler.java,0,0.0,0,0,0.0,7,423.6
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/command/handler/GetParamFlowRulesCommandHandler.java,0,0.0,0,0,0.0,7,423.6
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/limit/GlobalRequestLimiter.java,0,0.0,0,50min,50.0,26,523.8
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/heartbeat/HeartbeatSenderProvider.java,0,0.0,0,0,0.0,6,240.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/HostNameUtil.java,0,0.0,0,0,0.0,19,590.1
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/HotParamSlotChainBuilder.java,0,0.0,0,7min 30s,7.5,7,548.1
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/transport/util/HttpCommandUtils.java,0,0.0,0,7min 30s,7.5,9,452.7
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/netty/HttpServerInitializer.java,0,0.0,0,0,0.0,9,481.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/init/InitOrder.java,0,0.0,0,0,0.0,3,87.3
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/gateway/InMemApiDefinitionStore.java,0,0.0,0,0,0.0,7,548.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/rule/InMemAuthorityRuleStore.java,0,0.0,0,0,0.0,7,548.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/rule/InMemDegradeRuleStore.java,0,0.0,0,0,0.0,7,548.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/rule/InMemFlowRuleStore.java,0,0.0,0,0,0.0,12,818.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/gateway/InMemGatewayFlowRuleStore.java,0,0.0,0,0,0.0,7,548.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/rule/InMemParamFlowRuleStore.java,0,0.0,0,0,0.0,12,818.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/rule/InMemSystemRuleStore.java,0,0.0,0,0,0.0,7,548.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/discovery/MachineInfo.java,0,0.0,0,1h 15min,75.0,78,1920.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/vo/MachineInfoVo.java,0,0.0,0,7min 30s,7.5,51,1396.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/util/MachineUtils.java,0,0.0,0,1h 20min,80.0,17,1154.4
+sentinel,sentinel-extension/sentinel-annotation-aspectj/src/main/java/com/alibaba/csp/sentinel/annotation/aspectj/MethodWrapper.java,0,0.0,0,10min,10.0,19,531.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/metric/Metric.java,0,0.0,0,0,0.0,6,145.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/data/MetricBucket.java,0,0.0,0,0,0.0,66,1404.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/metric/extension/MetricCallbackInit.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/metric/extension/callback/MetricEntryCallback.java,0,0.0,0,7min 30s,7.5,12,540.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/MetricEvent.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/metric/extension/callback/MetricExitCallback.java,0,0.0,0,0,0.0,7,423.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/metric/extension/MetricExtension.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/repository/metric/MetricsRepository.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/cluster/ModifyClusterModeCommandHandler.java,0,0.0,0,50min,50.0,16,751.8
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/ModifyRulesCommandHandler.java,0,0.0,3,1h 35min,95.0,17,963.6
+sentinel,sentinel-adapter/sentinel-reactor-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/reactor/MonoSentinelOperator.java,0,0.0,0,0,0.0,8,174.6
+sentinel,sentinel-extension/sentinel-datasource-nacos/src/main/java/com/alibaba/csp/sentinel/datasource/nacos/NacosDataSource.java,1,0.0,0,0,0.0,30,1167.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/concurrent/NamedThreadFactory.java,0,0.0,0,0,0.0,16,378.3
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/rule/NamespaceFlowProperty.java,0,0.0,0,0,0.0,14,320.1
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/connection/NettyConnection.java,0,0.0,0,0,0.0,31,756.6
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/netty/NettyRequestDecoder.java,1,0.0,0,20min,20.0,10,540.0
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/netty/NettyRequestEncoder.java,0,0.0,0,10min,10.0,12,540.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/Node.java,0,0.0,0,0,0.0,6,87.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/context/NullContext.java,0,0.0,0,0,0.0,5,336.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/OccupySupport.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/OnOffGetCommandHandler.java,0,0.0,0,0,0.0,8,577.2
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/OnOffSetCommandHandler.java,0,0.0,0,0,0.0,9,730.8
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParameterMetricStorage.java,0,0.0,0,1h,60.0,22,561.0
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParamFlowClusterConfig.java,0,0.0,0,1h,60.0,39,1143.0
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParamFlowException.java,0,0.0,0,0,0.0,17,378.3
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParamFlowItem.java,0,0.0,0,47min 30s,47.5,40,1084.8
+sentinel,sentinel-demo/sentinel-demo-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/demo/flow/param/ParamFlowQpsDemo.java,0,0.0,0,0,0.0,18,868.2
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/request/data/ParamFlowRequestData.java,0,0.0,0,0,0.0,22,582.0
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/data/ParamFlowRequestDataDecoder.java,1,0.0,9,3h 27min,207.0,11,510.9
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/processor/ParamFlowRequestProcessor.java,0,0.0,0,0,0.0,15,627.3
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/ParamFlowSlot.java,0,0.0,0,37min 30s,37.5,22,1050.9
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/statistic/ParamFlowStatisticEntryCallback.java,0,0.0,0,7min 30s,7.5,6,423.6
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/statistic/ParamFlowStatisticExitCallback.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/init/ParamFlowStatisticSlotCallbackInit.java,0,0.0,0,0,0.0,4,336.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/PidUtil.java,0,0.0,0,0,0.0,5,365.4
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/data/PingRequestDataDecoder.java,0,0.0,0,10min,10.0,6,394.5
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/data/PingRequestDataWriter.java,0,0.0,0,10min,10.0,5,365.4
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/codec/data/PingResponseDataDecoder.java,0,0.0,0,20min,20.0,6,548.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/function/Predicate.java,0,0.0,0,0,0.0,2,29.1
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/api/route/PrefixRoutePathMatcher.java,0,0.0,0,10min,10.0,12,291.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/PriorityWaitException.java,0,0.0,0,0,0.0,9,203.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/ProcessorSlotChain.java,0,0.0,0,0,0.0,3,307.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/ProcessorSlotExitCallback.java,0,0.0,0,0,0.0,2,58.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/property/PropertyListener.java,0,0.0,0,0,0.0,2,0.0
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/callback/RedirectBlockRequestHandler.java,0,0.0,0,0,0.0,9,203.7
+sentinel,sentinel-demo/sentinel-demo-spring-webflux/src/main/java/com/alibaba/csp/sentinel/demo/spring/webflux/config/RedisConfig.java,0,0.0,0,0,0.0,10,481.8
+sentinel,sentinel-extension/sentinel-datasource-redis/src/main/java/com/alibaba/csp/sentinel/datasource/redis/RedisDataSource.java,0,0.0,0,27min 30s,27.5,42,1371.0
+sentinel,sentinel-extension/sentinel-datasource-redis/src/main/java/com/alibaba/csp/sentinel/datasource/redis/config/RedisHostAndPort.java,0,0.0,0,27min 30s,27.5,20,868.2
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/api/route/RegexRoutePathMatcher.java,0,0.0,0,0,0.0,11,261.9
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/route/RegexRoutePathMatcher.java,0,0.0,0,0,0.0,11,261.9
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/request/Request.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/api/matcher/RequestContextApiMatcher.java,0,0.0,3,1h 20min,80.0,17,810.0
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/RequestContextItemParser.java,0,0.0,0,20min,20.0,22,743.7
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/codec/request/RequestEntityDecoder.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/codec/request/RequestEntityWriter.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/param/RequestItemParser.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/flow/statistic/limit/RequestLimiter.java,0,0.0,0,10min,10.0,32,698.4
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/callback/RequestOriginParser.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/callback/RequestOriginParser.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/callback/RequestOriginParser.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/processor/RequestProcessor.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/processor/RequestProcessorProvider.java,0,0.0,0,30min,30.0,22,619.2
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/annotation/RequestType.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/ResourceTypeConstants.java,0,0.0,0,7min 30s,7.5,9,357.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/ResourceWrapper.java,0,0.0,0,10min,10.0,14,291.0
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/response/Response.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/codec/response/ResponseEntityDecoder.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/codec/response/ResponseEntityWriter.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/Result.java,0,0.0,0,0,0.0,47,1134.9
+sentinel,sentinel-extension/sentinel-parameter-flow-control/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/param/RollingParamEvent.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/route/RouteMatchers.java,0,0.0,0,0,0.0,25,897.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/Rule.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/RuleConstant.java,0,0.0,0,7min 30s,7.5,23,735.6
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/rule/RuleEntity.java,0,0.0,0,0,0.0,21,407.4
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/SendMetricCommandHandler.java,1,0.0,0,35min,35.0,16,1059.0
+sentinel,sentinel-cluster/sentinel-cluster-common-default/src/main/java/com/alibaba/csp/sentinel/cluster/exception/SentinelClusterException.java,0,0.0,0,0,0.0,8,423.6
+sentinel,sentinel-adapter/sentinel-apache-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/SentinelDubboConsumerFilter.java,0,0.0,0,27min 30s,27.5,26,1233.6
+sentinel,sentinel-adapter/sentinel-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/SentinelDubboConsumerFilter.java,0,0.0,0,27min 30s,27.5,26,1233.6
+sentinel,sentinel-adapter/sentinel-apache-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/SentinelDubboProviderFilter.java,0,0.0,0,27min 30s,27.5,24,1233.6
+sentinel,sentinel-adapter/sentinel-dubbo-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/dubbo/SentinelDubboProviderFilter.java,0,0.0,0,27min 30s,27.5,24,1233.6
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/filters/SentinelEntryUtils.java,0,0.0,0,0,0.0,20,1461.6
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/SentinelEnvoyRlsConstants.java,0,0.0,0,7min 30s,7.5,10,386.4
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/SentinelEnvoyRlsServiceImpl.java,0,0.0,0,37min 30s,37.5,21,992.7
+sentinel,sentinel-adapter/sentinel-api-gateway-adapter-common/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/common/SentinelGatewayConstants.java,0,0.0,0,7min 30s,7.5,27,881.1
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/SentinelGatewayFilter.java,0,0.0,0,15min,15.0,30,611.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/property/SentinelProperty.java,0,0.0,0,0,0.0,3,0.0
+sentinel,sentinel-adapter/sentinel-reactor-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/reactor/SentinelReactorConstants.java,0,0.0,0,7min 30s,7.5,4,211.8
+sentinel,sentinel-adapter/sentinel-reactor-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/reactor/SentinelReactorSubscriber.java,0,0.0,0,40min,40.0,46,1267.5
+sentinel,sentinel-adapter/sentinel-reactor-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/reactor/SentinelReactorTransformer.java,0,0.0,0,20min,20.0,13,291.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/annotation/SentinelResource.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/SentinelRpcException.java,0,0.0,0,0,0.0,12,510.9
+sentinel,sentinel-demo/sentinel-demo-spring-webmvc/src/main/java/com/alibaba/csp/sentinel/demo/spring/webmvc/config/SentinelSpringMvcBlockHandlerConfig.java,0,0.0,0,0,0.0,11,569.1
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/datasource/entity/SentinelVersion.java,0,0.0,0,50min,50.0,54,1434.0
+sentinel,sentinel-adapter/sentinel-spring-webflux-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webflux/SentinelWebFluxFilter.java,0,0.0,0,10min,10.0,16,656.4
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/config/SentinelWebMvcConfig.java,0,0.0,0,7min 30s,7.5,17,407.4
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/config/SentinelWebMvcTotalConfig.java,0,0.0,0,7min 30s,7.5,14,320.1
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/SentinelWebTotalInterceptor.java,0,0.0,0,0,0.0,11,232.8
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/filters/SentinelZuulPostFilter.java,0,0.0,0,0,0.0,22,494.7
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/filters/SentinelZuulPreFilter.java,0,0.0,0,7min 30s,7.5,43,1143.0
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/config/ServerChangeObserver.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/ServerConstants.java,0,0.0,0,7min 30s,7.5,7,299.1
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/codec/ServerEntityCodecProvider.java,0,0.0,0,0,0.0,11,386.4
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/config/ServerFlowConfig.java,0,0.0,1,17min 30s,17.5,49,1558.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/config/ServerFlowConfig.java,0,0.0,1,17min 30s,17.5,49,1558.5
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/config/ServerTransportConfig.java,0,0.0,0,7min 30s,7.5,22,523.8
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/cluster/config/ServerTransportConfig.java,0,0.0,0,7min 30s,7.5,22,552.9
+sentinel,sentinel-cluster/sentinel-cluster-server-default/src/main/java/com/alibaba/csp/sentinel/cluster/server/config/ServerTransportConfigObserver.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/ServerWebExchangeItemParser.java,0,0.0,0,10min,10.0,23,743.7
+sentinel,sentinel-cluster/sentinel-cluster-server-envoy-rls/src/main/java/com/alibaba/csp/sentinel/cluster/server/envoy/rls/flow/SimpleClusterFlowChecker.java,0,0.0,0,37min 30s,37.5,15,1000.8
+sentinel,sentinel-transport/sentinel-transport-simple-http/src/main/java/com/alibaba/csp/sentinel/transport/heartbeat/client/SimpleHttpResponse.java,0,0.0,0,30min,30.0,38,931.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/property/SimplePropertyListener.java,0,0.0,0,0,0.0,8,423.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/SlotChainBuilder.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-demo/sentinel-demo-slot-chain-spi/src/main/java/com/alibaba/csp/sentinel/demo/slot/SlotChainBuilderSpiDemo.java,0,0.0,0,0,0.0,8,577.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/SlotChainProvider.java,0,0.0,0,10min,10.0,7,423.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/Sph.java,0,0.0,0,0,0.0,2,0.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/SphResourceTypeSupport.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/SphU.java,0,0.0,0,0,0.0,30,756.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/spi/SpiOrder.java,0,0.0,0,0,0.0,1,29.1
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/api/SpringCloudGatewayApiDefinitionChangeObserver.java,0,0.0,0,0,0.0,5,365.4
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/node/StatisticNode.java,0,0.0,0,37min 30s,37.5,122,2855.1
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/codec/StringDecoder.java,0,0.0,0,0,0.0,17,656.4
+sentinel,sentinel-transport/sentinel-transport-netty-http/src/main/java/com/alibaba/csp/sentinel/transport/command/codec/StringEncoder.java,0,0.0,0,0,0.0,15,598.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slotchain/StringResourceWrapper.java,0,0.0,0,0,0.0,17,540.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/util/function/Supplier.java,0,0.0,0,0,0.0,2,29.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/SyncAppender.java,0,0.0,0,0,0.0,30,1358.1
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/system/SystemBlockException.java,0,0.0,0,0,0.0,13,291.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/system/SystemRule.java,0,0.0,0,1h 25min,85.0,31,793.8
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/system/SystemSlot.java,0,0.0,0,7min 30s,7.5,11,481.8
+sentinel,sentinel-demo/sentinel-demo-annotation-spring-aop/src/main/java/com/alibaba/csp/sentinel/demo/annotation/aop/service/TestService.java,0,0.0,0,0,0.0,7,203.7
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/eagleeye/TokenBucket.java,0,0.0,0,0,0.0,17,531.9
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/handler/TokenClientHandler.java,0,0.0,0,20min,20.0,60,1484.1
+sentinel,sentinel-cluster/sentinel-cluster-client-default/src/main/java/com/alibaba/csp/sentinel/cluster/client/handler/TokenClientPromiseHolder.java,0,0.0,0,30min,30.0,17,349.2
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/client/TokenClientProvider.java,0,0.0,0,0,0.0,12,357.3
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/TokenResult.java,0,0.0,0,0,0.0,38,873.0
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/TokenResultStatus.java,0,0.0,0,7min 30s,7.5,5,240.9
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/TokenServerDescriptor.java,0,0.0,0,0,0.0,19,465.6
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/cluster/TokenService.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/block/flow/TrafficShapingController.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/base/UnaryLeapArray.java,0,0.0,0,0,0.0,13,540.0
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/domain/vo/gateway/api/UpdateApiReqVo.java,0,0.0,0,0,0.0,15,436.5
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/callback/UrlBlockHandler.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/callback/UrlCleaner.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-adapter/sentinel-spring-webmvc-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/spring/webmvc/callback/UrlCleaner.java,0,0.0,0,0,0.0,null,null
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/command/handler/VersionCommandHandler.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/controller/VersionController.java,0,0.0,0,20min,20.0,8,452.7
+sentinel,sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/config/WebConfig.java,0,0.0,0,20min,20.0,31,1350.0
+sentinel,sentinel-adapter/sentinel-spring-cloud-gateway-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/sc/api/matcher/WebExchangeApiMatcher.java,0,0.0,3,1h 20min,80.0,19,963.6
+sentinel,sentinel-demo/sentinel-demo-spring-webflux/src/main/java/com/alibaba/csp/sentinel/demo/spring/webflux/WebFluxDemoApplication.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-demo/sentinel-demo-spring-webmvc/src/main/java/com/alibaba/csp/sentinel/demo/spring/webmvc/WebMvcDemoApplication.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-demo/sentinel-demo-spring-webmvc/src/main/java/com/alibaba/csp/sentinel/demo/spring/webmvc/controller/WebMvcTestController.java,2,0.0,0,0,0.0,20,685.5
+sentinel,sentinel-adapter/sentinel-web-servlet/src/main/java/com/alibaba/csp/sentinel/adapter/servlet/config/WebServletConfig.java,0,0.0,0,27min 30s,27.5,13,415.5
+sentinel,sentinel-core/src/main/java/com/alibaba/csp/sentinel/slots/statistic/base/WindowWrap.java,0,0.0,0,0,0.0,20,349.2
+sentinel,sentinel-transport/sentinel-transport-common/src/main/java/com/alibaba/csp/sentinel/transport/util/WritableDataSourceRegistry.java,0,0.0,0,0,0.0,30,852.0
+sentinel,sentinel-demo/sentinel-demo-zookeeper-datasource/src/main/java/com/alibaba/csp/sentinel/demo/datasource/zookeeper/ZookeeperConfigSender.java,2,0.0,0,7min 30s,7.5,20,656.4
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/api/ZuulApiDefinitionChangeObserver.java,0,0.0,0,0,0.0,5,365.4
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/fallback/ZuulBlockFallbackProvider.java,0,0.0,0,0,0.0,1,0.0
+sentinel,sentinel-demo/sentinel-demo-zuul-gateway/src/main/java/com/alibaba/csp/sentinel/demo/zuul/gateway/ZuulConfig.java,0,0.0,0,0,0.0,21,1146.3
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/constants/ZuulConstant.java,0,0.0,0,7min 30s,7.5,5,211.8
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/api/ZuulGatewayApiMatcherManager.java,0,0.0,0,20min,20.0,20,561.0
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/callback/ZuulGatewayCallbackManager.java,0,0.0,0,0,0.0,8,328.2
+sentinel,sentinel-demo/sentinel-demo-zuul-gateway/src/main/java/com/alibaba/csp/sentinel/demo/zuul/gateway/ZuulGatewayDemoApplication.java,0,0.0,0,0,0.0,6,394.5
+sentinel,sentinel-adapter/sentinel-zuul-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/gateway/zuul/api/route/ZuulRouteMatchers.java,0,0.0,0,0,0.0,22,839.1

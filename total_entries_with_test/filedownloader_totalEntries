@@ -1,0 +1,116 @@
+filedownloader,/main/java/com/liulishuo/filedownloader/download/DownloadLaunchRunnable.java,22,365.0,9,7h 39min,459.0,256,9149.1
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/performance/PerformanceTestActivity.java,53,332.0,2,1h 7min,67.0,60,1961.1
+filedownloader,/main/java/com/liulishuo/filedownloader/util/FileDownloadUtils.java,19,284.0,6,7h 51min,471.0,192,6158.1
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/MultitaskTestActivity.java,21,148.0,1,3h 35min,215.0,121,3699.0
+filedownloader,/main/java/com/liulishuo/filedownloader/util/FileDownloadProperties.java,15,131.0,0,1h 15min,75.0,53,3110.7
+filedownloader,/main/java/com/liulishuo/filedownloader/BaseDownloadTask.java,17,130.0,0,0,0.0,43,931.2
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/TasksManagerDemoActivity.java,20,105.0,0,3h 35min,215.0,241,6798.3
+filedownloader,/main/java/com/liulishuo/filedownloader/model/FileDownloadModel.java,12,100.0,0,40min,40.0,128,3341.7
+filedownloader,/main/java/com/liulishuo/filedownloader/model/FileDownloadStatus.java,20,98.0,46,1M/d 5h,780.0,39,1458.3
+filedownloader,/main/java/com/liulishuo/filedownloader/download/CustomComponentHolder.java,2,96.0,4,2h 35min,155.0,84,2638.5
+filedownloader,/main/java/com/liulishuo/filedownloader/database/NoDatabaseImpl.java,17,95.0,0,32min,32.0,123,3104.1
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloader.java,16,90.0,0,1h 45min,105.0,86,3435.6
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadLargeFileListener.java,12,90.0,0,0,0.0,10,510.9
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/SingleTaskTestActivity.java,18,82.0,0,45min,45.0,147,3952.8
+filedownloader,/main/java/com/liulishuo/filedownloader/download/DownloadRunnable.java,3,72.0,3,1h 44min,104.0,99,2746.8
+filedownloader,/test/java/com/liulishuo/filedownloader/util/FileDownloadUtilsTest.java,8,71.0,0,15min,15.0,35,1159.2
+filedownloader,/main/java/com/liulishuo/filedownloader/download/FetchDataTask.java,9,70.0,0,1h 34min,94.0,108,3366.0
+filedownloader,/main/java/com/liulishuo/filedownloader/DownloadTaskHunter.java,7,62.0,0,3h 47min,227.0,159,5314.2
+filedownloader,/main/java/com/liulishuo/filedownloader/message/LargeMessageSnapshot.java,2,62.0,2,2h 32min,152.0,237,6727.2
+filedownloader,/main/java/com/liulishuo/filedownloader/message/SmallMessageSnapshot.java,2,62.0,2,2h 5min,125.0,231,6361.8
+filedownloader,/main/java/com/liulishuo/filedownloader/database/SqliteDatabaseOpenHelper.java,5,62.0,0,17min 30s,17.5,29,918.3
+filedownloader,/main/java/com/liulishuo/filedownloader/services/FileDownloadManager.java,2,54.0,0,2h 47min,167.0,66,2384.7
+filedownloader,/test/java/com/liulishuo/filedownloader/download/DownloadLaunchRunnableTest.java,8,50.0,0,7min 30s,7.5,23,1050.9
+filedownloader,/main/java/com/liulishuo/filedownloader/exception/FileDownloadOutOfSpaceException.java,5,49.0,0,0,0.0,17,378.3
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/HybridTestActivity.java,11,48.0,0,1h 15min,75.0,63,1608.6
+filedownloader,/main/java/com/liulishuo/filedownloader/message/MessageSnapshotTaker.java,2,48.0,0,2h 30min,150.0,49,1890.0
+filedownloader,/main/java/com/liulishuo/filedownloader/DownloadTask.java,8,47.0,0,1h 50min,110.0,350,9375.3
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/DemoApplication.java,7,44.0,0,15min,15.0,11,635.4
+filedownloader,/main/java/com/liulishuo/filedownloader/event/DownloadEventPoolImpl.java,10,42.0,1,54min,54.0,39,2205.3
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadMessenger.java,2,42.0,0,1h 35min,95.0,90,3838.2
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/NotificationMinSetActivity.java,6,42.0,7,47min 30s,47.5,70,2260.2
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/NotificationSampleActivity.java,5,37.0,7,57min 30s,57.5,102,3668.4
+filedownloader,/main/java/com/liulishuo/filedownloader/database/SqliteDatabaseImpl.java,8,36.0,1,1h 32min,92.0,152,3831.6
+filedownloader,/test/java/com/liulishuo/filedownloader/download/DownloadRunnableTest.java,7,35.0,0,10min,10.0,54,1566.6
+filedownloader,/main/java/com/liulishuo/filedownloader/util/FileDownloadExecutors.java,2,35.0,0,2min,2.0,35,756.6
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadListener.java,3,35.0,0,7min 30s,7.5,11,548.1
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadSampleListener.java,7,35.0,0,0,0.0,24,743.7
+filedownloader,/main/java/com/liulishuo/filedownloader/QueuesHandler.java,5,33.0,0,1h 25min,85.0,105,3016.8
+filedownloader,/main/java/com/liulishuo/filedownloader/util/FileDownloadLog.java,5,32.0,0,17min 30s,17.5,43,1246.5
+filedownloader,/main/java/com/liulishuo/filedownloader/download/ConnectionProfile.java,1,30.0,0,11min,11.0,55,1653.9
+filedownloader,/main/java/com/liulishuo/filedownloader/util/DownloadServiceNotConnectedHelper.java,1,30.0,0,0,0.0,57,1442.1
+filedownloader,/main/java/com/liulishuo/filedownloader/download/DownloadStatusCallback.java,4,30.0,0,2h 19min,139.0,145,4517.1
+filedownloader,/main/java/com/liulishuo/filedownloader/services/FileDownloadBroadcastHandler.java,1,30.0,0,9min 30s,9.5,9,232.8
+filedownloader,/test/java/com/liulishuo/filedownloader/connection/FileDownloadUrlConnectionTest.java,3,30.0,0,0,0.0,30,793.8
+filedownloader,/main/java/com/liulishuo/filedownloader/message/MessageSnapshotFlow.java,1,30.0,0,0,0.0,23,523.8
+filedownloader,/main/java/com/liulishuo/filedownloader/connection/RedirectHandler.java,1,30.0,0,7min 30s,7.5,27,1320.9
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/Constant.java,8,28.0,0,0,0.0,6,174.6
+filedownloader,/main/java/com/liulishuo/filedownloader/services/BaseFileServiceUIGuard.java,3,25.0,0,29min 30s,29.5,77,2580.3
+filedownloader,/main/java/com/liulishuo/filedownloader/DownloadSpeedMonitor.java,2,25.0,2,47min 30s,47.5,37,1275.6
+filedownloader,/main/java/com/liulishuo/filedownloader/event/IDownloadListener.java,4,25.0,0,0,0.0,7,577.2
+filedownloader,/main/java/com/liulishuo/filedownloader/services/DownloadMgrInitialParams.java,2,21.0,0,3h 30min,210.0,114,3660.3
+filedownloader,/main/java/com/liulishuo/filedownloader/model/ConnectionModel.java,2,20.0,0,7min 30s,7.5,42,1105.8
+filedownloader,/main/java/com/liulishuo/filedownloader/model/FileDownloadHeader.java,2,20.0,0,20min 30s,20.5,29,698.4
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadLine.java,4,20.0,4,1h 10min,70.0,44,1670.1
+filedownloader,/main/java/com/liulishuo/filedownloader/model/FileDownloadTaskAtom.java,3,20.0,0,17min 30s,17.5,40,1018.5
+filedownloader,/main/java/com/liulishuo/filedownloader/IFileDownloadServiceProxy.java,1,20.0,0,0,0.0,41,1193.1
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/GlobalMonitor.java,5,16.0,0,0,0.0,33,727.5
+filedownloader,/test/java/com/liulishuo/filedownloader/FileDownloaderTest.java,3,15.0,0,0,0.0,16,569.1
+filedownloader,/main/java/com/liulishuo/filedownloader/util/FileDownloadSerialQueue.java,6,15.0,0,1h 26min,86.0,52,1932.0
+filedownloader,/main/java/com/liulishuo/filedownloader/event/IDownloadEvent.java,3,15.0,0,7min 30s,7.5,11,540.0
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadMessageStation.java,4,14.0,0,1h 7min,67.0,61,2048.4
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadQueueSet.java,1,12.0,0,22min 30s,22.5,43,1500.3
+filedownloader,/main/java/com/liulishuo/filedownloader/services/FDServiceSharedHandler.java,2,10.0,0,15min,15.0,74,1658.7
+filedownloader,/main/java/com/liulishuo/filedownloader/connection/FileDownloadConnection.java,1,10.0,0,0,0.0,14,320.1
+filedownloader,/main/java/com/liulishuo/filedownloader/MessageSnapshotGate.java,3,9.0,0,55min,55.0,18,1337.1
+filedownloader,/main/java/com/liulishuo/filedownloader/download/ConnectTask.java,1,8.0,0,31min,31.0,105,3498.6
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadList.java,2,7.0,0,50min,50.0,64,2691.9
+filedownloader,/main/java/com/liulishuo/filedownloader/message/MessageSnapshotThreadPool.java,4,7.0,0,0,0.0,32,918.3
+filedownloader,/main/java/com/liulishuo/filedownloader/notification/BaseNotificationItem.java,3,6.0,0,0,0.0,58,1513.2
+filedownloader,/main/java/com/liulishuo/filedownloader/event/DownloadServiceConnectChangedEvent.java,4,6.0,0,7min 30s,7.5,15,378.3
+filedownloader,/main/java/com/liulishuo/filedownloader/event/DownloadEventSampleListener.java,1,5.0,0,0,0.0,15,531.9
+filedownloader,/main/java/com/liulishuo/filedownloader/services/FDServiceSeparateHandler.java,1,5.0,0,15min,15.0,86,1986.9
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadLineAsync.java,1,5.0,0,20min,20.0,6,394.5
+filedownloader,/main/java/com/liulishuo/filedownloader/notification/FileDownloadNotificationListener.java,1,5.0,0,51min,51.0,52,1288.5
+filedownloader,/main/java/com/liulishuo/filedownloader/stream/FileDownloadOutputStream.java,1,5.0,0,0,0.0,2,29.1
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadServiceSharedTransmit.java,1,5.0,0,2h 26min,146.0,74,1944.9
+filedownloader,/main/java/com/liulishuo/filedownloader/connection/FileDownloadUrlConnection.java,1,5.0,0,20min,20.0,100,2526.9
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/MainActivity.java,1,5.0,2,40min,40.0,48,1383.9
+filedownloader,/main/java/com/liulishuo/filedownloader/services/FileDownloadThreadPool.java,2,4.0,1,40min,40.0,43,1421.1
+filedownloader,/main/java/com/liulishuo/filedownloader/util/FileDownloadHelper.java,1,2.0,0,40min,40.0,27,582.0
+filedownloader,/main/java/com/liulishuo/filedownloader/message/BlockCompleteMessage.java,0,0.0,0,7min 30s,7.5,19,407.4
+filedownloader,/main/java/com/liulishuo/filedownloader/connection/DefaultConnectionCountAdapter.java,4,0.0,0,40min,40.0,11,540.0
+filedownloader,/main/java/com/liulishuo/filedownloader/services/DefaultIdGenerator.java,0,0.0,0,20min,20.0,11,510.9
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadConnectListener.java,0,0.0,0,0,0.0,15,473.7
+filedownloader,/main/java/com/liulishuo/filedownloader/database/FileDownloadDatabase.java,0,0.0,0,0,0.0,13,203.7
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadEventPool.java,0,0.0,0,0,0.0,16,818.1
+filedownloader,/main/java/com/liulishuo/filedownloader/exception/FileDownloadGiveUpRetryException.java,0,0.0,0,0,0.0,6,394.5
+filedownloader,/main/java/com/liulishuo/filedownloader/exception/FileDownloadHttpException.java,0,0.0,0,0,0.0,13,320.1
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadMonitor.java,0,0.0,0,0,0.0,16,320.1
+filedownloader,/main/java/com/liulishuo/filedownloader/exception/FileDownloadNetworkPolicyException.java,0,0.0,0,0,0.0,6,365.4
+filedownloader,/main/java/com/liulishuo/filedownloader/notification/FileDownloadNotificationHelper.java,0,0.0,0,40min,40.0,11,415.5
+filedownloader,/main/java/com/liulishuo/filedownloader/stream/FileDownloadRandomAccessFile.java,0,0.0,0,0,0.0,50,1354.8
+filedownloader,/main/java/com/liulishuo/filedownloader/exception/FileDownloadSecurityException.java,0,0.0,0,0,0.0,6,394.5
+filedownloader,/main/java/com/liulishuo/filedownloader/services/FileDownloadService.java,1,0.0,0,12min,12.0,37,1590.9
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadServiceProxy.java,0,0.0,0,17min 30s,17.5,93,4402.5
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadServiceUIGuard.java,0,0.0,0,3h 7min,187.0,88,2763.0
+filedownloader,/main/java/com/liulishuo/filedownloader/FileDownloadTaskLauncher.java,1,0.0,0,30min,30.0,69,1953.0
+filedownloader,/main/java/com/liulishuo/filedownloader/services/ForegroundServiceConfig.java,0,0.0,0,0,0.0,90,2219.7
+filedownloader,/main/java/com/liulishuo/filedownloader/event/IDownloadEventPool.java,0,0.0,0,0,0.0,12,349.2
+filedownloader,/main/java/com/liulishuo/filedownloader/IDownloadSpeed.java,0,0.0,0,0,0.0,4,116.4
+filedownloader,/main/java/com/liulishuo/filedownloader/IFileDownloadMessenger.java,0,0.0,0,0,0.0,4,87.3
+filedownloader,/main/java/com/liulishuo/filedownloader/services/IFileDownloadServiceHandler.java,0,0.0,0,0,0.0,4,87.3
+filedownloader,/main/java/com/liulishuo/filedownloader/message/IFlowDirectly.java,0,0.0,0,0,0.0,1,29.1
+filedownloader,/main/java/com/liulishuo/filedownloader/ILostServiceConnectedHandler.java,0,0.0,0,0,0.0,3,87.3
+filedownloader,/main/java/com/liulishuo/filedownloader/message/IMessageSnapshot.java,0,0.0,0,0,0.0,2,29.1
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/performance/IntParcel.java,0,0.0,0,7min 30s,7.5,24,552.9
+filedownloader,/main/java/com/liulishuo/filedownloader/IQueuesHandler.java,0,0.0,0,0,0.0,9,261.9
+filedownloader,/main/java/com/liulishuo/filedownloader/ITaskHunter.java,0,0.0,0,0,0.0,4,240.9
+filedownloader,/main/java/com/liulishuo/filedownloader/IThreadPoolMonitor.java,0,0.0,0,0,0.0,7,203.7
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/performance/LongParcel.java,0,0.0,0,7min 30s,7.5,24,552.9
+filedownloader,/main/java/com/liulishuo/filedownloader/LostServiceConnectedHandler.java,0,0.0,1,35min,35.0,27,1416.3
+filedownloader,/main/java/com/liulishuo/filedownloader/message/MessageSnapshot.java,0,0.0,1,40min,40.0,104,2609.4
+filedownloader,/main/java/com/liulishuo/filedownloader/demo/NotificationEntranceActivity.java,0,0.0,0,0,0.0,18,656.4
+filedownloader,/main/java/com/liulishuo/filedownloader/exception/PathConflictException.java,0,0.0,0,0,0.0,7,174.6
+filedownloader,/main/java/com/liulishuo/filedownloader/download/ProcessCallback.java,0,0.0,0,0,0.0,13,378.3
+filedownloader,/main/java/com/liulishuo/filedownloader/database/RemitDatabase.java,0,0.0,0,2h 16min,136.0,108,2987.7

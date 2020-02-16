@@ -128,15 +128,21 @@ public class CastEntriesProcessor {
 		Map<String, List<CastEntry>> castObjectsMapFiltered = new HashMap<>();
 		for(int j=0;j<projects.length;j++){
 			List<SonarEntryWithIssues> sonars = reader.ReadAllSonarXmlForInfo(projects[j]);
+			System.out.println("Sonars size list" + sonars.size());
 			List<CastEntry> castsToFilter = castObjectsMap.get(projects[j]);
 
 			List<CastEntry> castsFiltered = new ArrayList<>();
 
 			for(CastEntry castEntry : castsToFilter){
+				
 				//Cast stores paths with backslash
 				castEntry.setPath(castEntry.getPath().replace("\\", "/"));
+				//System.out.println("Cast Entry Path: "+ castEntry.getPath());
 				for(SonarEntryWithIssues sewi : sonars){
-					if(castEntry.getPath().equals(sewi.getSrcPath())){
+					//System.out.println("Sonar Entry Path: "+sewi.getPath());
+					//String pathToCompare = sewi.getPath().split("src")[1];
+					if(sewi.getPath().contains(castEntry.getPath())){
+						//System.out.println("found match");
 						castsFiltered.add(castEntry);
 						break;
 					}
@@ -151,6 +157,7 @@ public class CastEntriesProcessor {
 	}
 	
 	public void readCastsAndWriteXML(String[] projects){
+		System.out.println("Cast");
 		CsvReader csvReader = new CsvReader();
 		Map<String, List<CastEntry>> castObjectsMapWithTDinMinutes = new HashMap<String, List<CastEntry>>();
 		

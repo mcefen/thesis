@@ -1,0 +1,124 @@
+xxl-job,/main/java/com/xxl/job/admin/core/cron/CronExpression.java,56,877.0,33,2M/d 2h,1080.0,222,9496.8
+xxl-job,/main/java/com/xxl/job/admin/core/old/XxlJobDynamicScheduler.java,78,395.0,0,0,0.0,null,null
+xxl-job,/main/java/com/xxl/job/admin/service/impl/XxlJobServiceImpl.java,51,243.0,0,6h 22min,382.0,68,2970.0
+xxl-job,/main/java/com/xxl/job/core/executor/impl/XxlJobSpringExecutor.java,11,199.0,0,42min 30s,42.5,28,1005.6
+xxl-job,/main/java/com/xxl/job/executor/service/jobhandler/SampleXxlJob.java,11,196.0,6,1h 55min,115.0,120,6056.4
+xxl-job,/main/java/com/xxl/job/admin/core/thread/JobScheduleHelper.java,20,161.0,0,1h 15min,75.0,44,2130.9
+xxl-job,/main/java/com/xxl/job/core/log/XxlJobFileAppender.java,15,153.0,0,1h 25min,85.0,34,1437.3
+xxl-job,/main/java/com/xxl/job/core/thread/JobThread.java,17,148.0,0,47min 30s,47.5,45,2160.0
+xxl-job,/main/java/com/xxl/job/core/thread/TriggerCallbackThread.java,23,125.0,0,1h 10min,70.0,54,2832.6
+xxl-job,/main/java/com/xxl/job/admin/core/trigger/XxlJobTrigger.java,11,114.0,0,1h 15min,75.0,22,1021.8
+xxl-job,/main/java/com/xxl/job/core/thread/JobLogFileCleanThread.java,7,110.0,3,1h 5min,65.0,20,868.2
+xxl-job,/main/java/com/xxl/job/core/thread/ExecutorRegistryThread.java,7,109.0,0,50min,50.0,24,1233.6
+xxl-job,/main/java/com/xxl/job/admin/core/thread/JobRegistryMonitorHelper.java,9,109.0,0,45min,45.0,19,992.7
+xxl-job,/main/java/com/xxl/job/core/executor/XxlJobExecutor.java,10,106.0,0,15min,15.0,126,4101.6
+xxl-job,/main/java/com/xxl/job/admin/core/old/XxlJobThreadPool.java,19,100.0,0,0,0.0,null,null
+xxl-job,/main/java/com/xxl/job/admin/service/impl/AdminBizImpl.java,12,91.0,0,1h 37min,97.0,47,2313.6
+xxl-job,/main/java/com/xxl/job/core/util/ScriptUtil.java,10,91.0,0,45min,45.0,22,1578.0
+xxl-job,/main/java/com/xxl/job/core/util/XxlJobRemotingUtil.java,16,91.0,1,1h 37min,97.0,21,992.7
+xxl-job,/main/java/com/xxl/job/core/util/FileUtil.java,8,85.0,0,10min,10.0,23,897.3
+xxl-job,/main/java/com/xxl/job/admin/core/thread/JobFailMonitorHelper.java,7,85.0,1,32min 30s,32.5,29,1503.6
+xxl-job,/main/java/com/xuxueli/executor/sample/jboot/jobhandler/HttpJobHandler.java,4,80.0,4,57min 30s,57.5,14,1154.4
+xxl-job,/main/java/com/xuxueli/executor/sample/nutz/jobhandler/HttpJobHandler.java,4,80.0,4,57min 30s,57.5,14,1154.4
+xxl-job,/main/java/com/xuxueli/executor/sample/jfinal/jobhandler/HttpJobHandler.java,4,80.0,4,57min 30s,57.5,14,1154.4
+xxl-job,/main/java/com/xxl/job/admin/controller/JobLogController.java,18,79.0,0,2h 2min,122.0,46,2064.6
+xxl-job,/main/java/com/xxl/job/admin/controller/JobGroupController.java,21,77.0,0,2h 30min,150.0,38,1707.3
+xxl-job,/main/java/com/xuxueli/executor/sample/frameless/jobhandler/HttpJobHandler.java,4,70.0,3,1h 7min,67.0,13,1000.8
+xxl-job,/main/java/com/xxl/job/admin/core/util/JacksonUtil.java,8,62.0,0,30min,30.0,11,291.0
+xxl-job,/main/java/com/xxl/job/admin/core/scheduler/XxlJobScheduler.java,4,61.0,0,27min 30s,27.5,27,1159.2
+xxl-job,/main/java/com/xxl/job/core/log/XxlJobLogger.java,4,60.0,0,0,0.0,15,722.7
+xxl-job,/main/java/com/xxl/job/admin/core/thread/JobLogReportHelper.java,5,57.0,0,45min,45.0,17,810.0
+xxl-job,/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteLFU.java,10,53.0,0,15min,15.0,20,963.6
+xxl-job,/main/java/com/xuxueli/executor/sample/jboot/jobhandler/CommandJobHandler.java,3,46.0,3,57min 30s,57.5,14,1029.9
+xxl-job,/main/java/com/xuxueli/executor/sample/frameless/jobhandler/CommandJobHandler.java,3,46.0,3,57min 30s,57.5,14,1029.9
+xxl-job,/main/java/com/xuxueli/executor/sample/nutz/jobhandler/CommandJobHandler.java,3,46.0,3,57min 30s,57.5,14,1029.9
+xxl-job,/main/java/com/xuxueli/executor/sample/jfinal/jobhandler/CommandJobHandler.java,3,46.0,3,57min 30s,57.5,14,1029.9
+xxl-job,/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteConsistentHash.java,6,46.0,0,10min,10.0,19,868.2
+xxl-job,/main/java/com/xxl/job/admin/controller/JobCodeController.java,6,45.0,0,45min,45.0,15,531.9
+xxl-job,/main/java/com/xxl/job/core/biz/impl/ExecutorBizImpl.java,9,40.0,0,1h 30min,90.0,27,1445.4
+xxl-job,/main/java/com/xuxueli/executor/sample/jfinal/config/JFinalCoreConfig.java,5,40.0,0,0,0.0,40,1180.2
+xxl-job,/main/java/com/xxl/job/admin/core/old/RemoteHttpJobBean.java,7,40.0,0,0,0.0,null,null
+xxl-job,/main/java/com/xxl/job/admin/core/util/I18nUtil.java,4,38.0,0,10min,10.0,15,656.4
+xxl-job,/main/java/com/xxl/job/admin/core/util/FtlUtil.java,3,37.0,0,10min,10.0,11,635.4
+xxl-job,/main/java/com/xxl/job/admin/controller/JobInfoController.java,8,36.0,0,17min 30s,17.5,57,1587.6
+xxl-job,/main/java/com/xxl/job/admin/core/util/LocalCacheUtil.java,3,36.0,0,50min,50.0,41,989.4
+xxl-job,/main/java/com/xxl/job/core/util/DateUtil.java,4,34.0,0,40min,40.0,43,1201.2
+xxl-job,/main/java/com/xxl/job/admin/controller/UserController.java,14,33.0,0,2h 2min,122.0,31,1246.5
+xxl-job,/main/java/com/xxl/job/admin/core/util/CookieUtil.java,2,32.0,0,27min 30s,27.5,12,320.1
+xxl-job,/main/java/com/xxl/job/core/biz/model/ReturnT.java,3,32.0,0,7min 30s,7.5,35,756.6
+xxl-job,/main/java/com/xxl/job/core/glue/impl/SpringGlueFactory.java,3,32.0,1,55min,55.0,9,730.8
+xxl-job,/main/java/com/xxl/job/core/util/ShardingUtil.java,2,31.0,0,0,0.0,29,582.0
+xxl-job,/main/java/com/xxl/job/executor/mvc/controller/IndexController.java,5,30.0,0,0,0.0,null,null
+xxl-job,/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteLRU.java,7,29.0,0,15min,15.0,19,839.1
+xxl-job,/main/java/com/xuxueli/executor/sample/frameless/config/FrameLessXxlJobConfig.java,4,27.0,0,17min 30s,17.5,15,502.8
+xxl-job,/main/java/com/xxl/job/admin/controller/interceptor/PermissionInterceptor.java,2,25.0,0,27min 30s,27.5,14,876.3
+xxl-job,/main/java/com/xxl/job/admin/core/thread/JobTriggerPoolHelper.java,6,24.0,0,7min 30s,7.5,29,1167.3
+xxl-job,/main/java/com/xxl/job/core/handler/IJobHandler.java,4,23.0,0,15min,15.0,11,415.5
+xxl-job,/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteBusyover.java,3,22.0,0,17min 30s,17.5,9,635.4
+xxl-job,/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteFailover.java,3,22.0,0,10min,10.0,9,635.4
+xxl-job,/main/java/com/xxl/job/core/glue/GlueFactory.java,2,22.0,0,40min,40.0,25,889.2
+xxl-job,/main/java/com/xuxueli/executor/sample/frameless/FramelessApplication.java,3,20.0,0,0,0.0,8,606.3
+xxl-job,/main/java/com/xuxueli/executor/sample/nutz/config/NutzSetup.java,1,20.0,0,7min 30s,7.5,13,598.2
+xxl-job,/main/java/com/xxl/job/core/biz/model/RegistryParam.java,1,20.0,0,0,0.0,26,640.2
+xxl-job,/main/java/com/xuxueli/executor/sample/jboot/jobhandler/ShardingJobHandler.java,1,20.0,3,20min,20.0,11,789.0
+xxl-job,/main/java/com/xuxueli/executor/sample/frameless/jobhandler/ShardingJobHandler.java,1,20.0,3,20min,20.0,11,789.0
+xxl-job,/main/java/com/xuxueli/executor/sample/nutz/jobhandler/ShardingJobHandler.java,1,20.0,3,20min,20.0,11,789.0
+xxl-job,/main/java/com/xuxueli/executor/sample/jfinal/jobhandler/ShardingJobHandler.java,1,20.0,3,20min,20.0,11,789.0
+xxl-job,/main/java/com/xxl/job/admin/core/conf/XxlJobAdminConfig.java,1,20.0,0,45min,45.0,56,1915.8
+xxl-job,/main/java/com/xxl/job/admin/core/model/XxlJobInfo.java,1,20.0,0,15min,15.0,116,3537.3
+xxl-job,/main/java/com/xxl/job/admin/core/model/XxlJobLogGlue.java,1,20.0,0,0,0.0,35,1018.5
+xxl-job,/main/java/com/xxl/job/admin/core/model/XxlJobRegistry.java,1,20.0,0,0,0.0,26,756.6
+xxl-job,/main/java/com/xxl/job/core/handler/annotation/JobHandler.java,2,15.0,0,0,0.0,null,null
+xxl-job,/main/java/com/xxl/job/admin/service/LoginService.java,6,15.0,0,47min 30s,47.5,25,793.8
+xxl-job,/main/java/com/xxl/job/core/handler/impl/ScriptJobHandler.java,4,12.0,0,37min 30s,37.5,25,611.1
+xxl-job,/main/java/com/xxl/job/admin/controller/IndexController.java,2,7.0,0,10min,10.0,36,1092.9
+xxl-job,/main/java/com/xxl/job/admin/core/route/ExecutorRouteStrategyEnum.java,1,5.0,0,10min,10.0,16,407.4
+xxl-job,/main/java/com/xxl/job/admin/controller/JobApiController.java,1,5.0,0,0,0.0,22,1080.0
+xxl-job,/main/java/com/xxl/job/admin/core/trigger/TriggerTypeEnum.java,1,5.0,0,0,0.0,7,174.6
+xxl-job,/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteRound.java,3,4.0,0,0,0.0,16,656.4
+xxl-job,/main/java/com/xxl/job/core/handler/impl/MethodJobHandler.java,1,2.0,0,0,0.0,26,611.1
+xxl-job,/main/java/com/xxl/job/admin/controller/interceptor/CookieInterceptor.java,1,1.0,0,0,0.0,9,635.4
+xxl-job,/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteFirst.java,1,1.0,0,0,0.0,7,423.6
+xxl-job,/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteLast.java,1,1.0,0,0,0.0,7,423.6
+xxl-job,/main/java/com/xxl/job/admin/core/route/strategy/ExecutorRouteRandom.java,1,1.0,0,0,0.0,8,452.7
+xxl-job,/main/java/com/xxl/job/admin/controller/resolver/WebExceptionResolver.java,1,1.0,0,27min 30s,27.5,9,635.4
+xxl-job,/main/java/com/xxl/job/admin/core/model/XxlJobGroup.java,1,1.0,0,0,0.0,35,1018.5
+xxl-job,/main/java/com/xxl/job/core/biz/AdminBiz.java,0,0.0,0,0,0.0,6,174.6
+xxl-job,/main/java/com/xxl/job/core/biz/client/AdminBizClient.java,0,0.0,0,0,0.0,21,494.7
+xxl-job,/main/java/com/xuxueli/executor/sample/jboot/jobhandler/DemoJobHandler.java,0,0.0,2,10min,10.0,8,452.7
+xxl-job,/main/java/com/xuxueli/executor/sample/frameless/jobhandler/DemoJobHandler.java,0,0.0,2,10min,10.0,8,452.7
+xxl-job,/main/java/com/xuxueli/executor/sample/nutz/jobhandler/DemoJobHandler.java,0,0.0,2,10min,10.0,8,452.7
+xxl-job,/main/java/com/xuxueli/executor/sample/jfinal/jobhandler/DemoJobHandler.java,0,0.0,2,10min,10.0,8,452.7
+xxl-job,/main/java/com/xxl/job/core/biz/ExecutorBiz.java,0,0.0,0,0,0.0,10,291.0
+xxl-job,/main/java/com/xxl/job/core/enums/ExecutorBlockStrategyEnum.java,1,0.0,0,10min,10.0,13,320.1
+xxl-job,/main/java/com/xxl/job/admin/core/route/ExecutorRouter.java,0,0.0,0,7min 30s,7.5,6,270.0
+xxl-job,/main/java/com/xxl/job/core/handler/impl/GlueJobHandler.java,0,0.0,0,0,0.0,18,590.1
+xxl-job,/main/java/com/xxl/job/core/glue/GlueTypeEnum.java,0,0.0,0,10min,10.0,25,640.2
+xxl-job,/main/java/com/xxl/job/core/biz/model/HandleCallbackParam.java,0,0.0,0,0,0.0,25,611.1
+xxl-job,/main/java/com/xuxueli/executor/sample/jboot/controller/IndexController.java,0,0.0,0,0,0.0,10,481.8
+xxl-job,/main/java/com/xuxueli/executor/sample/jfinal/controller/IndexController.java,0,0.0,0,0,0.0,9,452.7
+xxl-job,/main/java/com/xuxueli/executor/sample/nutz/module/IndexModule.java,0,0.0,0,0,0.0,11,510.9
+xxl-job,/main/java/com/xuxueli/executor/sample/jboot/JbootApp.java,0,0.0,0,0,0.0,7,423.6
+xxl-job,/main/java/com/xuxueli/executor/sample/jboot/config/JbootConfig.java,0,0.0,0,7min 30s,7.5,15,502.8
+xxl-job,/main/java/com/xxl/job/core/biz/model/LogResult.java,0,0.0,0,0,0.0,27,698.4
+xxl-job,/main/java/com/xuxueli/executor/sample/nutz/MainModule.java,0,0.0,0,0,0.0,4,336.3
+xxl-job,/main/java/com/xxl/job/admin/controller/annotation/PermissionLimit.java,0,0.0,0,0,0.0,null,null
+xxl-job,/main/java/com/xxl/job/core/enums/RegistryConfig.java,0,0.0,0,7min 30s,7.5,6,145.5
+xxl-job,/main/java/com/xxl/job/core/biz/model/TriggerParam.java,0,0.0,0,7min 30s,7.5,67,1833.3
+xxl-job,/main/java/com/xxl/job/admin/controller/interceptor/WebMvcConfig.java,0,0.0,0,0,0.0,10,510.9
+xxl-job,/main/java/com/xxl/job/core/handler/annotation/XxlJob.java,0,0.0,0,0,0.0,null,null
+xxl-job,/main/java/com/xxl/job/admin/XxlJobAdminApplication.java,0,0.0,0,0,0.0,6,394.5
+xxl-job,/main/java/com/xxl/job/executor/core/config/XxlJobConfig.java,0,0.0,0,7min 30s,7.5,24,1042.8
+xxl-job,/main/java/com/xxl/job/admin/core/exception/XxlJobException.java,0,0.0,0,0,0.0,8,423.6
+xxl-job,/main/java/com/xxl/job/executor/XxlJobExecutorApplication.java,0,0.0,0,0,0.0,6,394.5
+xxl-job,/main/java/com/xxl/job/admin/dao/XxlJobGroupDao.java,0,0.0,0,0,0.0,20,523.8
+xxl-job,/main/java/com/xxl/job/admin/dao/XxlJobInfoDao.java,0,0.0,0,0,0.0,30,843.9
+xxl-job,/main/java/com/xxl/job/admin/core/model/XxlJobLog.java,0,0.0,0,15min,15.0,77,2489.7
+xxl-job,/main/java/com/xxl/job/admin/dao/XxlJobLogDao.java,0,0.0,0,0,0.0,37,1047.6
+xxl-job,/main/java/com/xxl/job/admin/dao/XxlJobLogGlueDao.java,0,0.0,0,0,0.0,12,349.2
+xxl-job,/main/java/com/xxl/job/admin/core/model/XxlJobLogReport.java,0,0.0,0,0,0.0,28,785.7
+xxl-job,/main/java/com/xxl/job/admin/dao/XxlJobLogReportDao.java,0,0.0,0,0,0.0,11,320.1
+xxl-job,/main/java/com/xxl/job/admin/dao/XxlJobRegistryDao.java,0,0.0,0,0,0.0,19,552.9
+xxl-job,/main/java/com/xxl/job/admin/service/XxlJobService.java,0,0.0,0,0,0.0,16,436.5
+xxl-job,/main/java/com/xxl/job/admin/core/model/XxlJobUser.java,0,0.0,0,30min,30.0,29,843.9
+xxl-job,/main/java/com/xxl/job/admin/dao/XxlJobUserDao.java,0,0.0,0,0,0.0,18,523.8

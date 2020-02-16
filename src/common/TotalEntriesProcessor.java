@@ -41,23 +41,28 @@ public class TotalEntriesProcessor {
 			ProjectEntry projectEntry = new ProjectEntry();
 
 			projectEntry.setProjectName(project);
+			
+			//System.out.println("Sonar path: " + sEntry.getKey_path());
+			if(!sEntry.getPath().contains("/test/")){
+				//String[] sonarClass = sEntry.getKey_path().split("src");
 
-			String[] sonarClass = sEntry.getKey_path().split("src");
+				boolean found = false;
+				//Avoid duplication in names
+				for(ProjectEntry pe : totalEntries){
+					if(pe.getPath().equals(sEntry.getPath())){
+						found = true;
+					}
+				}
 
-			boolean found = false;
-			//Avoid duplication in names
-			for(ProjectEntry pe : totalEntries){
-				if(pe.getPath().equals(sonarClass[sonarClass.length-1])){
-					found = true;
+				if(!found){
+					projectEntry.setPath(sEntry.getPath());
+					projectEntry.setDebtSonar(sEntry.getSqualeIndex());	
+					projectEntry.setTotalIssuesSonar(sEntry.getTotalIssues());
+					totalEntries.add(projectEntry);
 				}
 			}
 
-			if(!found){
-				projectEntry.setPath(sonarClass[sonarClass.length-1]);
-				projectEntry.setDebtSonar(sEntry.getSqualeIndex());	
-				projectEntry.setTotalIssuesSonar(sEntry.getTotalIssues());
-				totalEntries.add(projectEntry);
-			}
+			
 		}		
 		return totalEntries;
 	}
@@ -67,35 +72,42 @@ public class TotalEntriesProcessor {
 			String project){		
 		
 		for(SquoreEntryWithIssues sqEntry : squores){
+			
+		
+			//System.out.println("Squore path: " + sqEntry.getPath());
+			if(!sqEntry.getPath().contains("/test/")){
+				String[] squoreClass = sqEntry.getPath().split("src");
 
-			String[] squoreClass = sqEntry.getPath().split("src");
+				ProjectEntry projectEntry = new ProjectEntry();
 
-			ProjectEntry projectEntry = new ProjectEntry();
-
-			boolean found = false;
-			//If found then update entry
-			for(ProjectEntry pe : totalEntries){
-				if(squoreClass[squoreClass.length-1].equals(pe.getPath())){
-					pe.setDebtSquore(sqEntry.getTechnicalDebt());
-					pe.setCanonicalDebtSquore(sqEntry.getCanonicalDebpt());
-					pe.setTotalIssuesSquore(sqEntry.getTotalIssues());
-					found = true;
+				boolean found = false;
+				//If found then update entry
+				for(ProjectEntry pe : totalEntries){
+					String[] pathSplit = pe.getPath().split("src");
+					if(squoreClass[squoreClass.length-1].equals(pathSplit[pathSplit.length-1])){
+						pe.setDebtSquore(sqEntry.getTechnicalDebt());
+						pe.setCanonicalDebtSquore(sqEntry.getCanonicalDebpt());
+						pe.setTotalIssuesSquore(sqEntry.getTotalIssues());
+						found = true;
+					}
 				}
+
+				//If not found add new entry
+				if(!found){
+					projectEntry.setProjectName(project);
+					projectEntry.setPath(squoreClass[squoreClass.length-1]);
+					projectEntry.setDebtSonar("0");
+					projectEntry.setCanonicalDebtSonar("0");
+					projectEntry.setTotalIssuesSonar("0");
+					projectEntry.setDebtSquore(sqEntry.getTechnicalDebt());
+					projectEntry.setCanonicalDebtSquore(sqEntry.getCanonicalDebpt());
+					projectEntry.setTotalIssuesSquore(sqEntry.getTotalIssues());
+
+					totalEntries.add(projectEntry);
+				}	
 			}
-
-			//If not found add new entry
-			if(!found){
-				projectEntry.setProjectName(project);
-				projectEntry.setPath(squoreClass[squoreClass.length-1]);
-				projectEntry.setDebtSonar("0");
-				projectEntry.setCanonicalDebtSonar("0");
-				projectEntry.setTotalIssuesSonar("0");
-				projectEntry.setDebtSquore(sqEntry.getTechnicalDebt());
-				projectEntry.setCanonicalDebtSquore(sqEntry.getCanonicalDebpt());
-				projectEntry.setTotalIssuesSquore(sqEntry.getTotalIssues());
-
-				totalEntries.add(projectEntry);
-			}				
+			
+						
 		}
 		
 		return totalEntries;		
@@ -108,42 +120,48 @@ public class TotalEntriesProcessor {
 		for(CastEntry castEntry: cast){
 			ProjectEntry projectEntry = new ProjectEntry();
 
-			boolean found = false;
-			//If found then update entry
-			for(ProjectEntry pe : totalEntries){
+			
+			//System.out.println("Cast path: " + castEntry.getPath());
+			if(!castEntry.getPath().contains("/test/")){
+				boolean found = false;
+				//If found then update entry
+				for(ProjectEntry pe : totalEntries){
 
-				if(castEntry.getPath().equals(pe.getPath())){
+					if(pe.getPath().contains(castEntry.getPath())){
+
+						BigDecimal bd = new BigDecimal(castEntry.getTdContributionInMinutes());
+						bd = bd.setScale(2, RoundingMode.HALF_UP);
+						bd.doubleValue();
+
+						pe.setDebtCast(bd.doubleValue()+"");
+						pe.setTotalIssuesCast(castEntry.getTotalErrors());
+						found = true;
+					}								
+				}	
+
+				//If not found then add new entry
+				if(!found){
+					projectEntry.setProjectName(project);
+					projectEntry.setPath(castEntry.getPath());
+					projectEntry.setDebtSonar("0");
+					projectEntry.setTotalIssuesSonar("0");
+					projectEntry.setCanonicalDebtSonar("0");
+					projectEntry.setDebtSquore("0");
+					projectEntry.setCanonicalDebtSquore("0");
+					projectEntry.setTotalIssuesSquore("0");
 
 					BigDecimal bd = new BigDecimal(castEntry.getTdContributionInMinutes());
 					bd = bd.setScale(2, RoundingMode.HALF_UP);
 					bd.doubleValue();
 
-					pe.setDebtCast(bd.doubleValue()+"");
-					pe.setTotalIssuesCast(castEntry.getTotalErrors());
-					found = true;
-				}								
-			}	
+					projectEntry.setDebtCast(bd.doubleValue()+"");
+					projectEntry.setTotalIssuesCast(castEntry.getTotalErrors());
 
-			//If not found then add new entry
-			if(!found){
-				projectEntry.setProjectName(project);
-				projectEntry.setPath(castEntry.getPath());
-				projectEntry.setDebtSonar("0");
-				projectEntry.setTotalIssuesSonar("0");
-				projectEntry.setCanonicalDebtSonar("0");
-				projectEntry.setDebtSquore("0");
-				projectEntry.setCanonicalDebtSquore("0");
-				projectEntry.setTotalIssuesSquore("0");
-
-				BigDecimal bd = new BigDecimal(castEntry.getTdContributionInMinutes());
-				bd = bd.setScale(2, RoundingMode.HALF_UP);
-				bd.doubleValue();
-
-				projectEntry.setDebtCast(bd.doubleValue()+"");
-				projectEntry.setTotalIssuesCast(castEntry.getTotalErrors());
-
-				totalEntries.add(projectEntry);
-			}	
+					totalEntries.add(projectEntry);
+				}
+			}
+			
+				
 		}
 		return totalEntries;		
 	}

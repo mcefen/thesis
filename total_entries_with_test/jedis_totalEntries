@@ -1,0 +1,368 @@
+jedis,est/java/redis/clients/jedis/tests/commands/StreamsCommandsTest.java,76,558.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/BuilderFactory.java,14,382.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/JedisClusterTest.java,58,333.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/ShardedJedisPoolTest.java,24,259.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/JedisPoolTest.java,17,227.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/JedisSentinelPoolTest.java,19,219.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/SSLJedisTest.java,15,215.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/ShardedJedisTest.java,31,194.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/SortedSetCommandsTest.java,90,181.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisPool.java,9,180.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest.java,26,175.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/ClusterScriptingCommandsTest.java,14,148.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/JedisTest.java,10,143.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/ClusterBinaryJedisCommandsTest.java,11,138.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Jedis.java,15,131.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/GeoCommandsTest.java,18,124.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/PipeliningTest.java,16,123.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/JedisURIHelperTest.java,6,120.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/TransactionCommandsTest.java,13,105.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisSentinelPool.java,8,104.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/SSLJedisClusterTest.java,17,104.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/benchmark/ProtocolBenchmark.java,9,99.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/ScriptingCommandsTest.java,17,95.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/HostAndPortTest.java,5,92.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/ShardedJedisPipelineTest.java,7,85.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisFactory.java,10,82.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Transaction.java,5,82.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/BinaryJedis.java,3,80.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisCluster.java,4,80.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/ListCommandsTest.java,40,78.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/ConnectionTest.java,6,77.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/SetCommandsTest.java,35,76.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisClusterInfoCache.java,12,69.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Protocol.java,11,65.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/ShardedJedisPool.java,7,61.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/ClusterCommandsTest.java,5,60.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/JedisClusterCommands.java,2,60.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/JedisCommands.java,2,60.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisShardInfo.java,3,60.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/AllKindOfValuesCommandsTest.java,17,58.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/SortingCommandsTest.java,30,58.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisPubSub.java,2,52.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/HostAndPortUtil.java,3,51.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/benchmark/PoolBenchmark.java,7,51.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/BinaryJedisClusterCommands.java,2,50.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/BinaryJedisCommands.java,2,50.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/HashesCommandsTest.java,31,45.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/JedisCommandTestBase.java,4,44.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/collections/SetFromListTest.java,6,42.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/AssertUtil.java,2,40.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/BinaryJedisCluster.java,2,40.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/collections/JedisByteHashMapTest.java,2,40.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisClusterConnectionHandler.java,2,40.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/KeyMergeUtilTest.java,2,40.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/JedisSentinelTest.java,9,39.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/JedisClusterTestUtil.java,3,35.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/MigrateTest.java,8,34.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/JedisByteHashMap.java,4,33.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/JedisSentinelTestUtil.java,3,33.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/ScanParams.java,3,32.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/ByteArrayUtil.java,1,30.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/ClientKillerUtil.java,1,30.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/HyperLogLogCommandsTest.java,3,28.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/ObjectCommandsTest.java,5,28.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/benchmark/SafeEncoderBenchmark.java,3,25.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/benchmark/ShardedBenchmark.java,3,25.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Queable.java,3,22.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/JedisClusterCRC16Test.java,2,21.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/BinaryClient.java,1,20.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/BinaryJedisPubSub.java,1,20.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/BinaryRedisPipeline.java,1,20.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/BuilderFactoryTest.java,4,20.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/Commands.java,1,20.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisSlotBasedConnectionHandler.java,1,20.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/MultiKeyBinaryCommands.java,1,20.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/MultiKeyBinaryJedisClusterCommands.java,1,20.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/MultiKeyCommands.java,1,20.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/MultiKeyJedisClusterCommands.java,1,20.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/RedisPipeline.java,1,20.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/VariadicCommandsTest.java,15,20.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/ControlCommandsTest.java,4,18.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Connection.java,3,16.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/benchmark/HashingBenchmark.java,3,16.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/TupleSortedSetTest.java,9,16.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/DebugParams.java,3,15.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/benchmark/GetSetBenchmark.java,2,15.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisClusterCommand.java,4,15.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/benchmark/PipelinedGetSetBenchmark.java,2,15.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/Hashing.java,3,13.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/params/Params.java,4,13.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/StringValuesCommandsTest.java,4,13.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/benchmark/CRC16Benchmark.java,2,12.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/RedisInputStream.java,3,12.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Builder.java,1,10.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/ClientCommandsTest.java,2,10.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/HostAndPort.java,5,10.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/JedisClusterHashTagUtil.java,2,10.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/MurmurHash.java,2,10.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/RedisOutputStream.java,5,10.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Response.java,1,10.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/params/ClientKillParams.java,3,9.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/Sharded.java,3,7.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/params/GeoRadiusParam.java,2,6.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/Pool.java,2,6.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/ProtocolTest.java,3,6.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/params/SetParams.java,2,6.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/params/ZAddParams.java,2,6.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/params/ZIncrByParams.java,2,6.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/ConnectionHandlingCommandsTest.java,1,5.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/params/MigrateParams.java,1,5.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisPoolAbstract.java,2,4.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Pipeline.java,4,4.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/JedisURIHelper.java,1,2.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/ModuleTest.java,1,2.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/ShardedJedisPipeline.java,2,2.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/Slowlog.java,2,2.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/SortingParams.java,1,1.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/TupleTest.java,1,1.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/ZParams.java,2,1.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/AdvancedBinaryJedisCommands.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/AdvancedJedisCommands.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/BasicCommands.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/BasicRedisPipeline.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/BinaryScriptingCommands.java,1,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/BinaryScriptingCommandsPipeline.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/BinaryShardedJedis.java,0,0.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/BinaryValuesCommandsTest.java,1,0.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/BitCommandsTest.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/BitOP.java,1,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/BitPosParams.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/ByteArrayComparator.java,0,0.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/ByteArrayComparatorTest.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Client.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/ClusterCommands.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/ClusterPipeline.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/ClusterReset.java,0,0.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/FailoverAbortedException.java,0,0.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/FragmentedByteArrayInputStream.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/GeoCoordinate.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/GeoRadiusResponse.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/GeoUnit.java,1,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/InvalidURIException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/IOUtils.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisAskDataException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisBusyException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/JedisClusterBinaryScriptingCommands.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/JedisClusterCRC16.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisClusterException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisClusterHostAndPortMap.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisClusterMaxAttemptsException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisClusterOperationException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/JedisClusterScriptingCommands.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisConnectionException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisDataException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisExhaustedPoolException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisMonitor.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisMovedDataException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisNoReachableClusterNodeException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisNoScriptException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/JedisPoolConfig.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/exceptions/JedisRedirectionException.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/KeyMergeUtil.java,0,0.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/utils/KeyMergeUtilTest.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/ListPosition.java,1,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Module.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/ModuleCommands.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/MultiKeyBinaryRedisPipeline.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/MultiKeyCommandsPipeline.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/MultiKeyPipelineBase.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/PipelineBase.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/ProtocolCommand.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/SafeEncoder.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/ScanResult.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/ScriptingCommands.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/ScriptingCommandsPipeline.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/commands/SentinelCommands.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/ShardedJedis.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/util/ShardInfo.java,0,0.0,null,null,null,null,null
+jedis,est/java/redis/clients/jedis/tests/commands/SlowlogCommandsTest.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/StreamEntry.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/StreamEntryID.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/StreamPendingEntry.java,0,0.0,null,null,null,null,null
+jedis,ain/java/redis/clients/jedis/Tuple.java,0,0.0,null,null,null,null,null
+jedis,/main/java/redis/clients/jedis/BuilderFactory.java,0,0,8,5h 34min,334.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/SortedSetCommandsTest.java,0,0,0,4h 52min,292.0,null,null
+jedis,/main/java/redis/clients/jedis/Jedis.java,0,0,1,4h 15min,255.0,null,null
+jedis,/main/java/redis/clients/jedis/BinaryJedis.java,0,0,0,4h 11min,251.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisCluster.java,0,0,8,3h 30min,210.0,null,null
+jedis,/main/java/redis/clients/jedis/Protocol.java,0,0,5,3h 23min,203.0,null,null
+jedis,/main/java/redis/clients/jedis/BinaryJedisCluster.java,0,0,8,3h 7min,187.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/AllKindOfValuesCommandsTest.java,0,0,0,2h 46min,166.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/JedisClusterTest.java,0,0,0,2h 46min,166.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisClusterInfoCache.java,0,0,4,2h 41min,161.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/GeoCommandsTest.java,0,0,0,2h 37min,157.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/ListCommandsTest.java,0,0,0,2h 30min,150.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisPool.java,0,0,1,2h 25min,145.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/PipeliningTest.java,0,0,0,2h 22min,142.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/ShardedJedisTest.java,0,0,4,2h 2min,122.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/StreamsCommandsTest.java,0,0,0,2h 2min,122.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/SetCommandsTest.java,0,0,0,2h,120.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/HashesCommandsTest.java,0,0,0,2h,120.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisSentinelPool.java,0,0,2,1h 45min,105.0,null,null
+jedis,/main/java/redis/clients/jedis/Connection.java,0,0,0,1h 35min,95.0,null,null
+jedis,/main/java/redis/clients/jedis/HostAndPort.java,0,0,0,1h 32min,92.0,null,null
+jedis,/main/java/redis/clients/jedis/PipelineBase.java,0,0,0,1h 30min,90.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/MigrateTest.java,0,0,0,1h 22min,82.0,null,null
+jedis,/main/java/redis/clients/jedis/BinaryClient.java,0,0,0,1h 22min,82.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisClusterCommand.java,0,0,2,1h 20min,80.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/ClusterBinaryJedisCommandsTest.java,0,0,5,1h 17min,77.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/SortingCommandsTest.java,0,0,0,1h 15min,75.0,null,null
+jedis,/main/java/redis/clients/jedis/Tuple.java,0,0,0,1h 15min,75.0,null,null
+jedis,/main/java/redis/clients/jedis/Client.java,0,0,0,1h 15min,75.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisShardInfo.java,0,0,0,1h 15min,75.0,null,null
+jedis,/main/java/redis/clients/jedis/util/JedisByteHashMap.java,0,0,0,1h 13min,73.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/ClusterScriptingCommandsTest.java,0,0,5,1h 10min,70.0,null,null
+jedis,/main/java/redis/clients/jedis/util/Pool.java,0,0,0,1h 10min,70.0,null,null
+jedis,/main/java/redis/clients/jedis/ScanParams.java,0,0,0,1h 7min,67.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/TransactionCommandsTest.java,0,0,0,1h 7min,67.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisSlotBasedConnectionHandler.java,0,0,1,1h 6min,66.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisFactory.java,0,0,0,1h,60.0,null,null
+jedis,/main/java/redis/clients/jedis/ShardedJedis.java,0,0,0,1h,60.0,null,null
+jedis,/main/java/redis/clients/jedis/BinaryShardedJedis.java,0,0,0,1h,60.0,null,null
+jedis,/main/java/redis/clients/jedis/Pipeline.java,0,0,0,58min,58.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/JedisPoolTest.java,0,0,3,57min 30s,57.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/collections/JedisByteHashMapTest.java,0,0,0,55min,55.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/BinaryValuesCommandsTest.java,0,0,0,53min 30s,53.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/VariadicCommandsTest.java,0,0,0,52min 30s,52.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/ShardedJedisPoolTest.java,0,0,0,52min 30s,52.5,null,null
+jedis,/main/java/redis/clients/jedis/util/JedisURIHelper.java,0,0,0,50min,50.0,null,null
+jedis,/main/java/redis/clients/jedis/params/Params.java,0,0,0,48min,48.0,null,null
+jedis,/main/java/redis/clients/jedis/StreamEntryID.java,0,0,0,48min,48.0,null,null
+jedis,/main/java/redis/clients/jedis/util/ByteArrayComparator.java,0,0,0,44min,44.0,null,null
+jedis,/main/java/redis/clients/jedis/GeoCoordinate.java,0,0,0,44min,44.0,null,null
+jedis,/main/java/redis/clients/jedis/Module.java,0,0,0,44min,44.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/JedisClusterTestUtil.java,0,0,0,41min,41.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisPubSub.java,0,0,0,37min 30s,37.5,null,null
+jedis,/main/java/redis/clients/jedis/MultiKeyPipelineBase.java,0,0,0,37min 30s,37.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/JedisSentinelPoolTest.java,0,0,3,36min,36.0,null,null
+jedis,/main/java/redis/clients/jedis/Transaction.java,0,0,0,35min,35.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest.java,0,0,0,31min,31.0,null,null
+jedis,/main/java/redis/clients/jedis/util/Sharded.java,0,0,0,30min 30s,30.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/ClientCommandsTest.java,0,0,2,30min,30.0,null,null
+jedis,/main/java/redis/clients/jedis/ShardedJedisPool.java,0,0,0,30min,30.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/SSLJedisClusterTest.java,0,0,0,30min,30.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/HyperLogLogCommandsTest.java,0,0,0,30min,30.0,null,null
+jedis,/main/java/redis/clients/jedis/util/RedisInputStream.java,0,0,0,27min 30s,27.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/ShardedJedisPipelineTest.java,0,0,0,22min 30s,22.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/ScriptingCommandsTest.java,0,0,0,22min 30s,22.5,null,null
+jedis,/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java,0,0,0,22min 30s,22.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/BitCommandsTest.java,0,0,0,22min 30s,22.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/StringValuesCommandsTest.java,0,0,0,22min 30s,22.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/ProtocolTest.java,0,0,0,20min,20.0,null,null
+jedis,/main/java/redis/clients/jedis/util/SafeEncoder.java,0,0,0,20min,20.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/FragmentedByteArrayInputStream.java,0,0,0,20min,20.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/HostAndPortUtil.java,0,0,0,17min 30s,17.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/JedisSentinelTestUtil.java,0,0,0,17min 30s,17.5,null,null
+jedis,/main/java/redis/clients/jedis/Response.java,0,0,0,17min 30s,17.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/JedisSentinelTest.java,0,0,0,17min,17.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/SlowlogCommandsTest.java,0,0,0,15min,15.0,null,null
+jedis,/main/java/redis/clients/jedis/BinaryJedisPubSub.java,0,0,0,15min,15.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/TupleSortedSetTest.java,0,0,0,15min,15.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/JedisClusterCRC16Test.java,0,0,0,15min,15.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/BinaryScriptingCommands.java,0,0,0,10min,10.0,null,null
+jedis,/main/java/redis/clients/jedis/params/GeoRadiusParam.java,0,0,0,10min,10.0,null,null
+jedis,/main/java/redis/clients/jedis/util/JedisClusterCRC16.java,0,0,0,10min,10.0,null,null
+jedis,/main/java/redis/clients/jedis/util/JedisClusterHashTagUtil.java,0,0,0,10min,10.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/SSLJedisTest.java,0,0,0,10min,10.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/AssertUtil.java,0,0,0,10min,10.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/ByteArrayUtil.java,0,0,0,10min,10.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/benchmark/PoolBenchmark.java,0,0,0,8min 30s,8.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/benchmark/HashingBenchmark.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/benchmark/ProtocolBenchmark.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/params/SetParams.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/ControlCommandsTest.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/BitOP.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/GeoUnit.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/ListPosition.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/BuilderFactoryTest.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/benchmark/ShardedBenchmark.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/ZParams.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisAskDataException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisBusyException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisClusterException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisClusterMaxAttemptsException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisDataException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisMovedDataException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisNoReachableClusterNodeException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisNoScriptException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisRedirectionException.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/HostAndPortTest.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/JedisTest.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/collections/SetFromListTest.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/JedisCommandTestBase.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/JedisURIHelperTest.java,0,0,0,7min 30s,7.5,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/KeyMergeUtilTest.java,0,0,0,7min 30s,7.5,null,null
+jedis,/main/java/redis/clients/jedis/util/RedisOutputStream.java,0,0,0,2min,2.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/BinaryJedisClusterCommands.java,0,0,2,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/BinaryJedisCommands.java,0,0,2,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/JedisClusterCommands.java,0,0,2,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/JedisCommands.java,0,0,2,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/ConnectionTest.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/BitPosParams.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/Builder.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/ClusterReset.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/DebugParams.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/GeoRadiusResponse.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisClusterHostAndPortMap.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisMonitor.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisPoolAbstract.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/JedisPoolConfig.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/Queable.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/ScanResult.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/ShardedJedisPipeline.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/SortingParams.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/StreamEntry.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/StreamPendingEntry.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/AdvancedBinaryJedisCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/AdvancedJedisCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/BasicCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/BasicRedisPipeline.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/BinaryRedisPipeline.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/BinaryScriptingCommandsPipeline.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/ClusterCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/ClusterPipeline.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/Commands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/JedisClusterBinaryScriptingCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/JedisClusterScriptingCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/ModuleCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/MultiKeyBinaryCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/MultiKeyBinaryJedisClusterCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/MultiKeyBinaryRedisPipeline.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/MultiKeyCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/MultiKeyCommandsPipeline.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/MultiKeyJedisClusterCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/ProtocolCommand.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/RedisPipeline.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/ScriptingCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/ScriptingCommandsPipeline.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/commands/SentinelCommands.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/InvalidURIException.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisClusterOperationException.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisConnectionException.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/exceptions/JedisExhaustedPoolException.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/params/ClientKillParams.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/params/MigrateParams.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/params/ZAddParams.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/params/ZIncrByParams.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/util/Hashing.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/util/IOUtils.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/util/KeyMergeUtil.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/util/MurmurHash.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/util/ShardInfo.java,0,0,0,0,0.0,null,null
+jedis,/main/java/redis/clients/jedis/util/Slowlog.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/KeyMergeUtilTest.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/ModuleTest.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/TupleTest.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/benchmark/CRC16Benchmark.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/benchmark/GetSetBenchmark.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/benchmark/PipelinedGetSetBenchmark.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/benchmark/SafeEncoderBenchmark.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/ClusterCommandsTest.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/ConnectionHandlingCommandsTest.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/commands/ObjectCommandsTest.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/ByteArrayComparatorTest.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/ClientKillerUtil.java,0,0,0,0,0.0,null,null
+jedis,/test/java/redis/clients/jedis/tests/utils/FailoverAbortedException.java,0,0,0,0,0.0,null,null

@@ -1,0 +1,983 @@
+fresco,/test/java/com/facebook/drawee/generic/GenericDraweeHierarchyTest.java,59,895.0,3,2h 45min,165.0,273,7747.2
+fresco,/test/java/com/facebook/imagepipeline/memory/BasePoolTest.java,38,521.0,0,1h 7min,67.0,200,8703.0
+fresco,/test/java/com/facebook/cache/disk/DefaultDiskStorageTest.java,31,380.0,0,2h 17min,137.0,150,4180.8
+fresco,/test/java/com/facebook/cache/disk/DiskStorageCacheTest.java,23,365.0,0,1h 52min,112.0,301,9047.1
+fresco,/test/java/com/facebook/imagepipeline/producers/ResizeAndRotateProducerTest.java,25,350.0,0,1h 7min,67.0,307,8457.0
+fresco,/test/java/com/facebook/datasource/IncreasingQualityDataSourceSupplierTest.java,29,340.0,0,2h 52min,172.0,50,2774.4
+fresco,/test/java/com/facebook/imagepipeline/memory/MemoryPooledByteBufferOutputStreamTest.java,20,280.0,8,1h 10min,70.0,324,13920.3
+fresco,/test/java/com/facebook/imagepipeline/memory/MemoryPooledByteBufferFactoryTest.java,19,250.0,7,1h 15min,75.0,255,9933.3
+fresco,/test/java/com/facebook/common/streams/LimitedInputStreamTest.java,15,240.0,0,7min 30s,7.5,95,2855.1
+fresco,/test/java/com/facebook/imagepipeline/cache/CountingMemoryCacheTest.java,20,235.0,2,3h 27min,207.0,159,6032.1
+fresco,/test/java/com/facebook/imageformat/ImageFormatCheckerTest.java,11,220.0,0,0,0.0,80,2177.7
+fresco,/test/java/com/facebook/imagepipeline/datasource/CloseableProducerToDataSourceAdapterTest.java,28,218.0,7,1h 27min,87.0,172,5086.2
+fresco,/test/java/com/facebook/imagepipeline/datasource/ProducerToDataSourceAdapterTest.java,27,210.0,7,1h 27min,87.0,166,4816.2
+fresco,/test/java/com/facebook/fresco/animation/frame/DropFramesFrameSchedulerTest.java,14,205.0,0,37min 30s,37.5,125,2801.7
+fresco,/test/java/com/facebook/drawee/controller/AbstractDraweeControllerTest.java,33,200.0,1,1h 32min,92.0,249,6088.5
+fresco,/main/java/com/facebook/common/util/SecureHashUtil.java,11,185.0,0,1h,60.0,61,1828.5
+fresco,/test/java/com/facebook/imagepipeline/cache/BufferedDiskCacheTest.java,9,180.0,0,30min,30.0,131,4599.6
+fresco,/main/java/com/facebook/imagepipeline/platform/PlatformDecoderFactory.java,13,175.0,0,47min 30s,47.5,11,540.0
+fresco,/test/java/com/facebook/fresco/animation/bitmap/cache/FrescoFrameCacheTest.java,13,170.0,0,15min,15.0,59,2442.9
+fresco,/test/java/com/facebook/imagepipeline/producers/LocalVideoThumbnailProducerTest.java,11,167.0,0,45min,45.0,82,3091.2
+fresco,/test/java/com/facebook/imagepipeline/producers/JobSchedulerTest.java,20,165.0,0,1h 15min,75.0,156,7621.5
+fresco,/main/java/com/facebook/imagepipeline/producers/BaseProducerContext.java,6,160.0,0,1h 42min,102.0,88,2053.2
+fresco,/test/java/com/facebook/drawee/gestures/GestureDetectorTest.java,21,155.0,2,1h 12min,72.0,42,1956.3
+fresco,/test/java/com/facebook/imagepipeline/animated/factory/AnimatedImageFactoryGifImplTest.java,11,154.0,4,42min 30s,42.5,82,3427.5
+fresco,/test/java/com/facebook/imagepipeline/animated/factory/AnimatedImageFactoryWebPImplTest.java,11,154.0,4,42min 30s,42.5,80,3369.3
+fresco,/test/java/com/facebook/fresco/animation/bitmap/preparation/FixedNumberBitmapFramePreparationStrategyTest.java,12,150.0,0,7min 30s,7.5,59,1770.3
+fresco,/test/java/com/facebook/imagepipeline/memory/GenericByteArrayPoolTest.java,7,145.0,1,25min,25.0,38,1362.9
+fresco,/test/java/com/facebook/imagepipeline/producers/LocalFileFetchProducerTest.java,10,137.0,0,30min,30.0,65,2654.7
+fresco,/test/java/com/facebook/imagepipeline/producers/LocalAssetFetchProducerTest.java,6,132.0,0,30min,30.0,62,2750.1
+fresco,/test/java/com/facebook/imagepipeline/producers/LocalResourceFetchProducerTest.java,6,132.0,0,30min,30.0,59,2538.3
+fresco,/test/java/com/facebook/common/util/StreamUtilTest.java,7,125.0,0,0,0.0,45,1786.5
+fresco,/test/java/com/facebook/datasource/DataSourcesTest.java,11,124.0,0,37min 30s,37.5,57,2048.4
+fresco,/main/java/com/facebook/common/util/Hex.java,7,112.0,4,57min 30s,57.5,22,706.5
+fresco,/test/java/com/facebook/imagepipeline/producers/LocalContentUriFetchProducerTest.java,5,112.0,0,30min,30.0,57,2451.0
+fresco,/test/java/com/facebook/imagepipeline/producers/DecodeProducerTest.java,16,110.0,0,1h,60.0,155,6360.3
+fresco,/test/java/com/facebook/cache/disk/DynamicDefaultDiskStorageTest.java,7,110.0,0,22min 30s,22.5,69,2098.5
+fresco,/main/java/com/facebook/imagepipeline/producers/MultiplexProducer.java,4,110.0,0,2h 45min,165.0,117,4362.0
+fresco,/main/java/com/facebook/imagepipeline/request/BasePostprocessor.java,8,105.0,0,35min,35.0,15,598.2
+fresco,/test/java/com/facebook/imagepipeline/producers/LocalContentUriThumbnailFetchProducerTest.java,6,102.0,0,22min 30s,22.5,99,3697.5
+fresco,/test/java/com/facebook/imagepipeline/memory/BitmapPoolTest.java,5,100.0,0,22min 30s,22.5,39,1267.5
+fresco,/main/java/com/facebook/fresco/vito/transformation/CircularBitmapTransformation.java,7,100.0,0,21min,21.0,31,793.8
+fresco,/test/java/com/facebook/drawee/drawable/FadeDrawableAllOnTest.java,1,100.0,8,3h 22min,202.0,104,5893.2
+fresco,/test/java/com/facebook/drawee/drawable/FadeDrawableTest.java,1,100.0,8,3h 22min,202.0,104,5893.2
+fresco,/test/java/com/facebook/imageutils/WebPUtilTest.java,5,100.0,0,0,0.0,41,1238.4
+fresco,/main/java/com/facebook/drawee/generic/GenericDraweeHierarchyInflater.java,3,97.0,10,4h 15min,255.0,28,1225.5
+fresco,/main/java/com/facebook/webpsupport/WebpBitmapFactoryImpl.java,5,95.0,0,2h 17min,137.0,204,6332.7
+fresco,/test/java/com/facebook/imagepipeline/producers/RepeatedPostprocessorProducerTest.java,5,90.0,6,1h 17min,77.0,131,4711.2
+fresco,/test/java/com/facebook/common/streams/TailAppendingInputStreamTest.java,6,90.0,0,7min 30s,7.5,56,1492.2
+fresco,/test/java/com/facebook/imageutils/BitmapUtilTest.java,11,88.0,0,0,0.0,41,1678.2
+fresco,/main/java/com/facebook/common/references/CloseableReference.java,6,88.0,4,3h 5min,185.0,71,2003.1
+fresco,/test/java/com/facebook/datasource/AbstractDataSourceTest.java,19,86.0,1,55min,55.0,102,3236.7
+fresco,/test/java/com/facebook/imagepipeline/producers/AnimatedRepeatedPostprocessorProducerTest.java,8,85.0,6,1h 17min,77.0,109,4142.1
+fresco,/test/java/com/facebook/imagepipeline/platform/ArtDecoderTest.java,11,85.0,2,57min 30s,57.5,113,3805.8
+fresco,/test/java/com/facebook/imagepipeline/memory/FlexByteArrayPoolTest.java,5,85.0,0,7min 30s,7.5,53,1749.3
+fresco,/test/java/com/facebook/imagepipeline/memory/SharedByteArrayTest.java,5,85.0,0,7min 30s,7.5,52,1969.2
+fresco,/main/java/com/facebook/cache/disk/DefaultDiskStorage.java,13,84.0,0,3h 40min,220.0,274,8355.3
+fresco,/test/java/com/facebook/imageutils/JfifTestUtils.java,8,83.0,0,15min,15.0,72,2273.1
+fresco,/test/java/com/facebook/imagepipeline/producers/DiskCacheReadProducerTest.java,7,82.0,2,1h 50min,110.0,156,6185.7
+fresco,/test/java/com/facebook/fresco/animation/bitmap/wrapper/AnimatedDrawableBackendAnimationInformationTest.java,4,80.0,0,0,0.0,39,931.2
+fresco,/test/java/com/facebook/imagepipeline/producers/AnimatedSingleUsePostprocessorProducerTest.java,9,80.0,3,40min,40.0,64,2903.7
+fresco,/androidTest/java/com/facebook/samples/scrollperf/data/impl/InfiniteSimpleAdapterTest.java,8,80.0,0,15min,15.0,19,656.4
+fresco,/test/java/com/facebook/imagepipeline/memory/MemoryPooledByteBufferTest.java,3,80.0,3,10min,10.0,195,4937.4
+fresco,/test/java/com/facebook/imagepipeline/producers/QualifiedResourceFetchProducerTest.java,3,80.0,0,22min 30s,22.5,45,2064.6
+fresco,/main/java/com/facebook/imagepipeline/producers/DecodeProducer.java,7,79.0,1,4h 5min,245.0,140,5089.5
+fresco,/test/java/com/facebook/imagepipeline/request/ImageRequestTest.java,7,77.0,0,7min 30s,7.5,27,897.3
+fresco,/main/java/com/facebook/common/references/DefaultCloseableReference.java,5,76.0,3,20min,20.0,22,1050.9
+fresco,/main/java/com/facebook/common/webp/WebpSupportStatus.java,7,76.0,0,1h 57min,117.0,54,2143.8
+fresco,/test/java/com/facebook/imagepipeline/producers/AddImageTransformMetaDataProducerTest.java,6,75.0,2,1h 27min,87.0,72,2991.0
+fresco,/test/java/com/facebook/fresco/vito/litho/BaseImageSpecTest.java,9,75.0,0,10min,10.0,54,1280.4
+fresco,/test/java/com/facebook/imagepipeline/common/ImageDecodeOptionsTest.java,7,75.0,0,7min 30s,7.5,35,1312.8
+fresco,/test/java/com/facebook/drawee/drawable/ScaleTypeDrawableTest.java,16,75.0,0,55min,55.0,70,3459.9
+fresco,/main/java/com/facebook/common/internal/Sets.java,12,75.0,0,0,0.0,17,839.1
+fresco,/main/java/com/facebook/imagepipeline/platform/DefaultDecoder.java,4,74.0,0,1h 37min,97.0,33,1341.9
+fresco,/main/java/com/facebook/fresco/vito/litho/FrescoVitoImageSpec.java,4,72.0,0,47min 30s,47.5,74,2463.9
+fresco,/main/java/com/facebook/imagepipeline/memory/PoolFactory.java,13,72.0,4,1h 17min,77.0,72,1936.8
+fresco,/androidTest/java/com/facebook/samples/comparison/test/ScrollTest.java,9,72.0,0,0,0.0,123,3304.5
+fresco,/test/java/com/facebook/imagepipeline/producers/BitmapMemoryCacheProducerTest.java,3,71.0,0,1h 30min,90.0,159,6252.0
+fresco,/main/java/com/facebook/cache/common/CacheKeyUtil.java,3,70.0,0,30min,30.0,18,868.2
+fresco,/main/java/com/facebook/common/references/FinalizerCloseableReference.java,3,70.0,3,20min,20.0,20,1021.8
+fresco,/test/java/com/facebook/drawee/view/MultiDraweeHolderTest.java,9,70.0,0,52min 30s,52.5,68,3160.8
+fresco,/main/java/com/facebook/imagepipeline/cache/NoOpImageCacheStatsTracker.java,14,70.0,0,0,0.0,53,1421.1
+fresco,/test/java/com/facebook/imagepipeline/core/ImagePipelineTest.java,5,68.0,2,2h 57min,177.0,149,6326.4
+fresco,/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java,6,65.0,0,1h,60.0,113,3150.9
+fresco,/test/java/com/facebook/fresco/vito/core/HierarcherImplTest.java,13,65.0,0,15min,15.0,82,2206.8
+fresco,/main/java/com/facebook/samples/gestures/MultiPointerGestureDetector.java,10,65.0,1,20min,20.0,47,1259.4
+fresco,/main/java/com/facebook/drawee/drawable/RoundedColorDrawable.java,2,65.0,3,55min,55.0,62,2281.2
+fresco,/main/java/com/facebook/drawee/drawable/RoundedCornersDrawable.java,3,62.0,4,1h 5min,65.0,56,1733.1
+fresco,/main/java/com/facebook/drawee/drawable/ScalingUtils.java,11,61.0,14,5h 45min,345.0,224,9669.9
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/color/ColorImageExample.java,3,60.0,0,55min,55.0,65,1990.2
+fresco,/test/java/com/facebook/datasource/DataSourceTestUtils.java,4,60.0,2,1h 20min,80.0,84,2294.1
+fresco,/test/java/com/facebook/datasource/FirstAvailableDataSourceSupplierTest.java,3,60.0,0,2h,120.0,40,2263.5
+fresco,/main/java/com/facebook/common/internal/ImmutableMap.java,3,60.0,0,30min,30.0,43,1641.0
+fresco,/test/java/com/facebook/fresco/vito/drawable/RoundingUtilsTest.java,10,60.0,0,22min 30s,22.5,37,1034.7
+fresco,/test/java/com/facebook/common/executors/StatefulRunnableTest.java,3,60.0,0,0,0.0,63,1886.7
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/svg/SvgDecoderExample.java,2,60.0,0,55min,55.0,76,2069.4
+fresco,/main/java/com/facebook/imageutils/TiffUtil.java,7,60.0,5,3h 7min,187.0,30,1408.2
+fresco,/main/java/com/facebook/imagepipeline/testing/TestExecutorService.java,5,59.0,0,7min 30s,7.5,50,960.3
+fresco,/test/java/com/facebook/imagepipeline/producers/StatefulProducerRunnableTest.java,8,58.0,0,22min 30s,22.5,60,2575.5
+fresco,/test/java/com/facebook/imagepipeline/producers/PostprocessedBitmapMemoryCacheProducerTest.java,7,57.0,0,30min,30.0,86,3983.7
+fresco,/main/java/com/facebook/common/references/RefCountCloseableReference.java,4,56.0,0,0,0.0,14,693.6
+fresco,/test/java/com/facebook/fresco/vito/core/FrescoContextTest.java,11,55.0,0,15min,15.0,51,1815.6
+fresco,/main/java/com/facebook/imagepipeline/memory/NativeMemoryChunk.java,5,55.0,0,27min 30s,27.5,65,2451.0
+fresco,/androidTest/java/com/facebook/webpsupport/WebpBitmapFactoryTest.java,10,53.0,1,1h 7min,67.0,120,3686.1
+fresco,/test/java/com/facebook/imagepipeline/producers/NetworkFetchProducerTest.java,10,52.0,0,1h 12min,72.0,115,4843.8
+fresco,/main/java/com/facebook/drawee/controller/BaseControllerListener.java,9,51.0,0,7min 30s,7.5,28,772.8
+fresco,/main/java/com/facebook/drawee/drawable/RoundedDrawable.java,3,51.0,0,1h 20min,80.0,110,3387.0
+fresco,/main/java/com/facebook/imagepipeline/animated/factory/AnimatedFactoryProvider.java,2,50.0,0,0,0.0,14,722.7
+fresco,/main/java/com/facebook/imagepipeline/memory/AshmemMemoryChunk.java,4,50.0,1,27min 30s,27.5,57,1998.3
+fresco,/main/java/com/facebook/imagepipeline/listener/BaseRequestListener.java,10,50.0,0,0,0.0,39,1034.7
+fresco,/main/java/com/facebook/fresco/vito/provider/DefaultFrescoContext.java,2,50.0,0,0,0.0,39,1092.9
+fresco,/main/java/com/facebook/drawee/view/DraweeView.java,5,50.0,0,47min 30s,47.5,79,2119.5
+fresco,/test/java/com/facebook/imagepipeline/image/EncodedImageTest.java,10,50.0,0,30min,30.0,107,2635.2
+fresco,/test/java/com/facebook/imagepipeline/producers/EncodedMemoryCacheProducerTest.java,6,50.0,0,1h,60.0,140,5317.5
+fresco,/main/java/com/facebook/common/file/FileUtils.java,4,50.0,0,30min,30.0,46,2234.4
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/keyframes/KeyframesDecoderExample.java,3,50.0,0,47min 30s,47.5,83,2588.4
+fresco,/main/java/com/facebook/samples/comparison/MainActivity.java,5,50.0,2,3h 45min,225.0,153,4289.1
+fresco,/test/java/com/facebook/samples/gestures/MotionEventTestUtils.java,2,50.0,0,15min,15.0,21,743.7
+fresco,/test/java/com/facebook/samples/gestures/MultiPointerGestureDetectorTest.java,1,50.0,0,37min 30s,37.5,23,743.7
+fresco,/main/java/com/facebook/imagepipeline/nativecode/NativeJpegTranscoderSoLoader.java,2,50.0,3,10min,10.0,8,730.8
+fresco,/main/java/com/facebook/common/references/NoOpCloseableReference.java,2,50.0,0,0,0.0,12,664.5
+fresco,/test/java/com/facebook/imagepipeline/producers/SingleUsePostprocessorProducerTest.java,1,50.0,3,47min 30s,47.5,74,2953.8
+fresco,/main/java/com/facebook/imagepipeline/nativecode/StaticWebpNativeLoader.java,2,50.0,3,10min,10.0,9,730.8
+fresco,/main/java/com/facebook/common/util/StreamUtil.java,2,50.0,2,50min,50.0,16,810.0
+fresco,/main/java/com/facebook/common/util/UriUtil.java,2,50.0,0,57min 30s,57.5,14,540.0
+fresco,/main/java/com/facebook/imagepipeline/nativecode/WebpTranscoderFactory.java,4,50.0,0,7min 30s,7.5,11,540.0
+fresco,/test/java/com/facebook/imagepipeline/producers/DiskCacheWriteProducerTest.java,5,47.0,2,50min,50.0,105,4054.8
+fresco,/main/java/com/facebook/drawee/span/DraweeSpanStringBuilder.java,3,47.0,0,2h 10min,130.0,112,3988.5
+fresco,/main/java/com/facebook/imageformat/ImageFormatCheckerUtils.java,5,47.0,0,50min,50.0,9,577.2
+fresco,/main/java/com/facebook/imagepipeline/filter/IterativeBoxBlurFilter.java,8,47.0,0,45min,45.0,16,627.3
+fresco,/main/java/com/facebook/drawee/controller/ForwardingControllerListener.java,6,46.0,0,7min 30s,7.5,71,4169.7
+fresco,/main/java/com/facebook/imagepipeline/datasource/ListDataSource.java,5,46.0,0,30min,30.0,58,1873.8
+fresco,/main/java/com/facebook/imagepipeline/backends/okhttp/OkHttpImagePipelineConfigFactory.java,3,45.0,0,0,0.0,12,540.0
+fresco,/main/java/com/facebook/imagepipeline/bitmaps/PlatformBitmapFactory.java,3,45.0,0,1h 15min,75.0,22,984.6
+fresco,/test/java/com/facebook/drawee/drawable/ScalingUtilsTest.java,6,45.0,0,1h 52min,112.0,57,1566.6
+fresco,/main/java/com/facebook/samples/zoomable/ZoomableDraweeView.java,6,45.0,0,1h 7min,67.0,127,3378.9
+fresco,/test/java/com/facebook/imagepipeline/producers/MultiplexProducerTest.java,10,44.0,0,1h,60.0,220,7831.5
+fresco,/test/java/com/facebook/imagepipeline/request/ImageRequestBuilderCacheEnabledTest.java,3,42.0,0,0,0.0,30,669.3
+fresco,/test/java/com/facebook/drawee/drawable/DrawableUtilsTest.java,10,41.0,0,7min 30s,7.5,74,1936.8
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoControllerImpl.java,8,41.0,0,3h 25min,205.0,80,2580.3
+fresco,/test/java/com/facebook/drawee/drawable/AndroidGraphicsTestUtils.java,2,40.0,0,20min,20.0,12,481.8
+fresco,/main/java/com/facebook/samples/zoomable/AnimatedZoomableController.java,1,40.0,4,45min,45.0,22,590.1
+fresco,/main/java/com/facebook/samples/zoomable/AnimatedZoomableControllerSupport.java,1,40.0,4,45min,45.0,22,590.1
+fresco,/main/java/com/facebook/cache/common/BaseCacheEventListener.java,8,40.0,0,0,0.0,26,772.8
+fresco,/test/java/com/facebook/imagepipeline/producers/BitmapPrepareProducerTest.java,8,40.0,0,15min,15.0,55,2210.1
+fresco,/main/java/com/facebook/imagepipeline/cache/BufferedDiskCache.java,13,40.0,0,4h 25min,265.0,76,3128.4
+fresco,/test/java/com/facebook/imagepipeline/image/CloseableBitmapTest.java,3,40.0,0,15min,15.0,22,801.9
+fresco,/test/java/com/facebook/imagepipeline/producers/DownsampleUtilTest.java,8,40.0,0,30min,30.0,70,2011.2
+fresco,/test/java/com/facebook/drawee/testing/DraweeMocks.java,3,40.0,0,30min,30.0,28,947.4
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/DraweeRecyclerViewFragment.java,1,40.0,3,17min 30s,17.5,64,2114.7
+fresco,/main/java/com/facebook/common/file/FileTree.java,2,40.0,0,0,0.0,12,759.9
+fresco,/test/java/com/facebook/fresco/vito/core/FrescoControllerImplTest.java,8,40.0,0,1h,60.0,78,2360.4
+fresco,/main/java/com/facebook/animated/gif/GifFrame.java,2,40.0,0,0,0.0,82,3489.0
+fresco,/main/java/com/facebook/animated/gif/GifImage.java,2,40.0,3,2h 7min,127.0,124,4727.4
+fresco,/test/java/com/facebook/imagepipeline/producers/HttpUrlConnectionNetworkFetcherTest.java,2,40.0,0,7min 30s,7.5,105,2473.5
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/pjpeg/ImageFormatProgressiveJpegFragment.java,4,40.0,5,35min,35.0,75,2712.9
+fresco,/main/java/com/facebook/imagepipeline/producers/JobScheduler.java,3,40.0,1,37min 30s,37.5,58,1712.1
+fresco,/main/java/com/facebook/cache/common/NoOpCacheEventListener.java,8,40.0,0,0,0.0,34,1042.8
+fresco,/main/java/com/facebook/imagepipeline/backends/okhttp/OkHttpNetworkFetcher.java,7,40.0,5,35min,35.0,54,2064.6
+fresco,/test/java/com/facebook/drawee/drawable/OrientedDrawableTest.java,8,40.0,0,0,0.0,54,3089.7
+fresco,/test/java/com/facebook/common/memory/PooledByteBufferInputStreamTest.java,5,40.0,0,15min,15.0,63,2517.3
+fresco,/main/java/com/facebook/imagepipeline/producers/SettableProducerContext.java,2,40.0,2,35min,35.0,28,1482.6
+fresco,/test/java/com/facebook/common/statfs/StatFsHelperTest.java,2,40.0,0,15min,15.0,67,2654.7
+fresco,/main/java/com/facebook/fresco/samples/showcase/vito/VitoViewRecyclerFragment.java,1,40.0,3,17min 30s,17.5,66,2172.9
+fresco,/main/java/com/facebook/animated/webp/WebPFrame.java,2,40.0,0,0,0.0,74,3189.9
+fresco,/main/java/com/facebook/animated/webp/WebPImage.java,2,40.0,0,17min 30s,17.5,115,4465.5
+fresco,/main/java/com/facebook/imagepipeline/stetho/BaseFrescoStethoPlugin.java,6,38.0,0,50min,50.0,128,5391.9
+fresco,/main/java/com/facebook/fresco/samples/showcase/common/CustomScaleTypes.java,5,38.0,4,42min 30s,42.5,25,1548.9
+fresco,/main/java/com/facebook/imagepipeline/testing/MockBitmapFactory.java,13,38.0,0,7min 30s,7.5,36,976.5
+fresco,/main/java/com/facebook/fresco/vito/listener/BaseImageListener.java,7,35.0,0,0,0.0,26,772.8
+fresco,/test/java/com/facebook/fresco/vito/drawable/BitmapDrawableFactoryTest.java,7,35.0,0,0,0.0,34,756.6
+fresco,/main/java/com/facebook/imageutils/BitmapUtil.java,2,35.0,6,2h 55min,175.0,22,1204.5
+fresco,/main/java/com/facebook/imagepipeline/cache/CountingMemoryCache.java,4,35.0,0,1h 7min,67.0,109,4814.7
+fresco,/test/java/com/facebook/fresco/animation/bitmap/preparation/DefaultBitmapFramePreparerTest.java,7,35.0,0,15min,15.0,59,2824.5
+fresco,/main/java/com/facebook/samples/scrollperf/util/DraweeUtil.java,2,35.0,1,25min,25.0,13,1067.1
+fresco,/main/java/com/facebook/imagepipeline/core/ImagePipeline.java,3,35.0,9,7h 40min,460.0,115,4719.3
+fresco,/main/java/com/facebook/imagepipeline/nativecode/ImagePipelineNativeLoader.java,3,35.0,0,7min 30s,7.5,8,328.2
+fresco,/test/java/com/facebook/imageutils/JfifUtilTest.java,10,35.0,0,22min 30s,22.5,32,889.2
+fresco,/main/java/com/facebook/imagepipeline/memory/NoOpPoolStatsTracker.java,7,35.0,0,0,0.0,30,955.5
+fresco,/main/java/com/facebook/fresco/samples/showcase/vito/SimpleListSectionSpec.java,2,35.0,0,0,0.0,39,1371.0
+fresco,/main/java/com/facebook/samples/scrollperf/util/TimeWaster.java,2,35.0,0,20min,20.0,7,548.1
+fresco,/main/java/com/facebook/cache/disk/DiskStorageCache.java,5,34.0,0,4h 27min,267.0,176,6958.5
+fresco,/main/java/com/facebook/common/media/MediaUtils.java,3,34.0,0,27min 30s,27.5,23,552.9
+fresco,/main/java/com/facebook/samples/scrollperf/util/SizeUtil.java,7,34.0,0,7min 30s,7.5,20,992.7
+fresco,/main/java/com/facebook/fresco/vito/listener/AutoPlayImageListener.java,7,32.0,0,0,0.0,34,1167.3
+fresco,/main/java/com/facebook/imagepipeline/memory/DefaultNativeMemoryChunkPoolParams.java,2,32.0,0,57min 30s,57.5,12,942.6
+fresco,/test/java/com/facebook/drawee/drawable/DrawableTestUtils.java,3,32.0,0,52min 30s,52.5,41,1516.5
+fresco,/main/java/com/facebook/common/util/HashCodeUtil.java,2,32.0,0,15min,15.0,52,1413.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/ImagePipelineBitmapFactoryFragment.java,4,32.0,1,17min 30s,17.5,74,1936.8
+fresco,/main/java/com/facebook/samples/scrollperf/data/SimpleAdapter.java,4,32.0,0,17min 30s,17.5,23,714.6
+fresco,/main/java/com/facebook/drawee/controller/AbstractDraweeController.java,4,31.0,0,4h 7min,247.0,164,5406.3
+fresco,/main/java/com/facebook/common/activitylistener/ActivityListenerManager.java,2,31.0,0,10min,10.0,50,2072.7
+fresco,/test/java/com/facebook/imagepipeline/animated/testing/TestAnimatedDrawableBackend.java,3,31.0,0,10min,10.0,82,1716.9
+fresco,/main/java/com/facebook/fresco/animation/drawable/AnimatedDrawable2.java,3,30.0,0,2h 45min,165.0,99,2788.8
+fresco,/test/java/com/facebook/imagepipeline/memory/AshmemMemoryChunkPoolTest.java,1,30.0,3,32min 30s,32.5,28,1013.7
+fresco,/main/java/com/facebook/drawee/view/AspectRatioMeasure.java,3,30.0,0,27min 30s,27.5,17,1059.0
+fresco,/main/java/com/facebook/common/activitylistener/BaseActivityListener.java,6,30.0,0,0,0.0,26,772.8
+fresco,/main/java/com/facebook/imagepipeline/memory/BitmapCounterProvider.java,1,30.0,0,27min 30s,27.5,21,743.7
+fresco,/main/java/com/facebook/imagepipeline/cache/BitmapCountingMemoryCacheFactory.java,1,30.0,0,0,0.0,17,627.3
+fresco,/main/java/com/facebook/imagepipeline/cache/BitmapMemoryCacheFactory.java,1,30.0,0,0,0.0,12,510.9
+fresco,/main/java/com/facebook/imagepipeline/nativecode/Bitmaps.java,1,30.0,0,7min 30s,7.5,9,481.8
+fresco,/test/java/com/facebook/imagepipeline/memory/BufferMemoryChunkPoolTest.java,1,30.0,3,32min 30s,32.5,28,1013.7
+fresco,/test/java/com/facebook/imagepipeline/memory/CloseableReferences.java,1,30.0,0,10min,10.0,22,897.3
+fresco,/main/java/com/facebook/samples/comparison/configs/ConfigConstants.java,1,30.0,0,7min 30s,7.5,6,145.5
+fresco,/main/java/com/facebook/samples/scrollperf/conf/Const.java,1,30.0,0,7min 30s,7.5,43,1193.1
+fresco,/main/java/com/facebook/imagepipeline/cache/CountingLruMap.java,3,30.0,0,0,0.0,45,1047.6
+fresco,/main/java/com/facebook/fresco/samples/showcase/CustomImageFormatConfigurator.java,1,30.0,0,0,0.0,42,902.1
+fresco,/main/java/com/facebook/drawee/debug/DebugControllerOverlayDrawable.java,3,30.0,0,1h 25min,85.0,126,3669.9
+fresco,/main/java/com/facebook/fresco/vito/core/debug/DebugOverlayDrawable.java,3,30.0,0,15min,15.0,66,1754.1
+fresco,/main/java/com/facebook/imagepipeline/memory/DefaultByteArrayPoolParams.java,1,30.0,0,0,0.0,8,481.8
+fresco,/test/java/com/facebook/drawee/components/DeferredReleaserStressTest.java,3,30.0,0,15min,15.0,29,860.1
+fresco,/main/java/com/facebook/drawee/drawable/DrawableUtils.java,1,30.0,0,1h 20min,80.0,7,577.2
+fresco,/androidTest/java/com/facebook/fresco/samples/showcase/DraweeViewHasImageMatcher.java,1,30.0,0,0,0.0,12,510.9
+fresco,/main/java/com/facebook/imagepipeline/cache/EncodedCountingMemoryCacheFactory.java,1,30.0,0,0,0.0,13,540.0
+fresco,/main/java/com/facebook/imagepipeline/cache/EncodedMemoryCacheFactory.java,1,30.0,0,0,0.0,12,510.9
+fresco,/main/java/com/facebook/samples/animation2/bitmap/ExampleBitmapAnimationFactory.java,1,30.0,0,7min 30s,7.5,50,1325.7
+fresco,/main/java/com/facebook/common/logging/FLog.java,1,30.0,0,1h 15min,75.0,328,7203.9
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoExperiments.java,3,30.0,0,0,0.0,107,2664.3
+fresco,/main/java/com/facebook/imageutils/HeifExifUtil.java,1,30.0,0,47min 30s,47.5,20,963.6
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/gif/ImageFormatGifFragment.java,3,30.0,5,35min,35.0,71,2538.3
+fresco,/main/java/com/facebook/samples/comparison/configs/imagepipeline/ImagePipelineConfigFactory.java,1,30.0,0,0,0.0,28,772.8
+fresco,/main/java/com/facebook/imagepipeline/transcoder/JpegTranscoderUtils.java,1,30.0,5,2h 55min,175.0,44,1757.4
+fresco,/main/java/com/facebook/imagepipeline/debug/LruMap.java,1,30.0,0,0,0.0,9,203.7
+fresco,/main/java/com/facebook/fresco/samples/showcase/MainActivity.java,1,30.0,1,1h 12min,72.0,45,1479.3
+fresco,/main/java/com/facebook/imagepipeline/memory/MemoryChunkUtil.java,1,30.0,0,0,0.0,10,481.8
+fresco,/main/java/com/facebook/common/media/MimeTypeMapWrapper.java,1,30.0,0,20min,20.0,27,640.2
+fresco,/main/java/com/facebook/imagepipeline/nativecode/NativeBlurFilter.java,1,30.0,0,0,0.0,8,577.2
+fresco,/main/java/com/facebook/imagepipeline/nativecode/NativeCodeInitializer.java,1,30.0,0,0,0.0,9,510.9
+fresco,/main/java/com/facebook/imagepipeline/nativecode/NativeFiltersLoader.java,1,30.0,0,0,0.0,6,394.5
+fresco,/main/java/com/facebook/imagepipeline/nativecode/NativeRoundingFilter.java,1,30.0,0,0,0.0,39,1620.0
+fresco,/main/java/com/facebook/imagepipeline/backends/okhttp3/OkHttpImagePipelineConfigFactory.java,1,30.0,0,0,0.0,9,452.7
+fresco,/main/java/com/facebook/samples/scrollperf/util/PipelineUtil.java,1,30.0,1,10min,10.0,6,548.1
+fresco,/main/java/com/facebook/imagepipeline/bitmaps/PlatformBitmapFactoryProvider.java,1,30.0,0,30min,30.0,7,452.7
+fresco,/main/java/com/facebook/imagepipeline/producers/PriorityStarvingThrottlingProducer.java,3,30.0,0,37min 30s,37.5,63,2451.0
+fresco,/main/java/com/facebook/imagepipeline/producers/ProducerConstants.java,1,30.0,0,0,0.0,12,349.2
+fresco,/main/java/com/facebook/imagepipeline/filter/RenderScriptBlurFilter.java,1,30.0,0,7min 30s,7.5,9,481.8
+fresco,/main/java/com/facebook/samples/animation2/SampleData.java,2,30.0,0,7min 30s,7.5,2,58.2
+fresco,/main/java/com/facebook/samples/comparison/configs/picasso/SamplePicassoFactory.java,1,30.0,0,0,0.0,10,481.8
+fresco,/main/java/com/facebook/samples/comparison/configs/uil/SampleUilFactory.java,1,30.0,0,0,0.0,10,481.8
+fresco,/main/java/com/facebook/samples/comparison/configs/volley/SampleVolleyFactory.java,1,30.0,0,0,0.0,22,714.6
+fresco,/main/java/com/facebook/fresco/samples/showcase/vito/SimpleGallerySectionSpec.java,1,30.0,0,0,0.0,19,561.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/vito/SimpleListItemSpec.java,1,30.0,0,0,0.0,15,473.7
+fresco,/main/java/com/facebook/imageutils/StreamProcessor.java,1,30.0,0,0,0.0,6,423.6
+fresco,/main/java/com/facebook/common/internal/Suppliers.java,1,30.0,0,7min 30s,7.5,7,240.9
+fresco,/main/java/com/facebook/imagepipeline/testing/TestNativeLoader.java,1,30.0,0,0,0.0,4,365.4
+fresco,/test/java/com/facebook/imagepipeline/memory/TestUsingNativeMemoryChunk.java,1,30.0,0,7min 30s,7.5,8,452.7
+fresco,/main/java/com/facebook/imagepipeline/producers/ThumbnailSizeChecker.java,1,30.0,2,1h 17min,77.0,19,1088.1
+fresco,/test/java/com/facebook/samples/scrollperf/util/TimeWasterTest.java,6,30.0,0,0,0.0,30,889.2
+fresco,/main/java/com/facebook/samples/scrollperf/util/UI.java,1,30.0,0,0,0.0,5,394.5
+fresco,/main/java/com/facebook/imagepipeline/backends/volley/VolleyImagePipelineConfigFactory.java,1,30.0,0,0,0.0,11,510.9
+fresco,/main/java/com/facebook/drawee/generic/WrappingUtils.java,1,30.0,0,2h 17min,137.0,30,1122.0
+fresco,/main/java/com/facebook/cache/common/WriterCallbacks.java,1,30.0,0,0,0.0,10,481.8
+fresco,/test/java/com/facebook/imagepipeline/filter/InPlaceRoundFilterTest.java,7,29.0,0,0,0.0,26,523.8
+fresco,/main/java/com/facebook/common/statfs/StatFsHelper.java,7,28.0,0,1h 5min,65.0,53,1595.7
+fresco,/main/java/com/facebook/common/util/TriState.java,2,28.0,14,4h 40min,280.0,18,685.5
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/DraweeRotationFragment.java,3,27.0,0,7min 30s,7.5,60,1653.9
+fresco,/main/java/com/facebook/samples/scrollperf/instrumentation/Instrumentation.java,3,27.0,6,1h 7min,67.0,40,1275.6
+fresco,/main/java/com/facebook/samples/comparison/instrumentation/Instrumentation.java,3,27.0,6,1h 7min,67.0,40,1275.6
+fresco,/main/java/com/facebook/drawee/view/DraweeHolder.java,4,26.0,0,50min,50.0,50,1201.2
+fresco,/main/java/com/facebook/imagepipeline/producers/ThrottlingProducer.java,3,26.0,0,7min 30s,7.5,43,1275.6
+fresco,/test/java/com/facebook/imagepipeline/animated/impl/AnimatedFrameCacheTest.java,3,25.0,0,22min 30s,22.5,58,2210.1
+fresco,/main/java/com/facebook/fresco/animation/drawable/BaseAnimationListener.java,5,25.0,0,0,0.0,18,627.3
+fresco,/main/java/com/facebook/imagepipeline/memory/BasePool.java,5,25.0,0,1h 57min,117.0,90,5631.3
+fresco,/main/java/com/facebook/imagepipeline/producers/BitmapMemoryCacheProducer.java,3,25.0,0,1h 42min,102.0,25,677.4
+fresco,/main/java/com/facebook/datasource/DataSources.java,2,25.0,0,17min 30s,17.5,30,1138.2
+fresco,/test/java/com/facebook/drawee/generic/GenericDraweeHierarchyBuilderTest.java,2,25.0,0,30min,30.0,33,1151.1
+fresco,/main/java/com/facebook/animated/giflite/drawable/GifAnimationBackend.java,3,25.0,0,57min 30s,57.5,64,2011.2
+fresco,/main/java/com/facebook/animated/giflite/GifDecoder.java,2,25.0,3,1h 17min,77.0,15,876.3
+fresco,/test/java/com/facebook/imagepipeline/producers/LocalExifThumbnailProducerTest.java,2,25.0,0,40min,40.0,69,3335.4
+fresco,/main/java/com/facebook/imagepipeline/backends/okhttp3/OkHttpNetworkFetcher.java,5,25.0,5,35min,35.0,59,2334.6
+fresco,/main/java/com/facebook/imagepipeline/core/PriorityThreadFactory.java,2,25.0,0,0,0.0,17,531.9
+fresco,/main/java/com/facebook/samples/scrollperf/fragments/SettingsFragment.java,2,25.0,3,1h 37min,97.0,141,4321.5
+fresco,/main/java/com/facebook/imagepipeline/testing/TestScheduledFuture.java,2,25.0,0,47min 30s,47.5,53,1346.7
+fresco,/test/java/com/facebook/widget/text/span/BetterImageSpanTest.java,3,24.0,1,32min 30s,32.5,49,1375.8
+fresco,/main/java/com/facebook/drawee/backends/pipeline/Fresco.java,4,24.0,0,7min 30s,7.5,24,582.0
+fresco,/main/java/com/facebook/imagepipeline/core/ProducerFactory.java,5,24.0,0,30min,30.0,155,3799.2
+fresco,/main/java/com/facebook/imagepipeline/decoder/ProgressiveJpegParser.java,1,24.0,1,2h 7min,127.0,37,1151.1
+fresco,/main/java/com/facebook/fresco/samples/showcase/settings/SettingsFragment.java,5,24.0,6,2h 25min,145.0,72,2281.2
+fresco,/test/java/com/facebook/drawee/view/DraweeViewTest.java,6,23.0,0,7min 30s,7.5,65,1828.5
+fresco,/main/java/com/facebook/common/executors/HandlerExecutorServiceImpl.java,3,22.0,0,9min 30s,9.5,68,1425.9
+fresco,/main/java/com/facebook/imagepipeline/core/ImagePipelineConfig.java,3,22.0,0,2h 35min,155.0,429,9776.1
+fresco,/main/java/com/facebook/imagepipeline/core/ImagePipelineExperiments.java,11,22.0,0,37min 30s,37.5,257,7828.2
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/ImagePipelineResizingFragment.java,5,22.0,4,35min,35.0,115,3747.6
+fresco,/main/java/com/facebook/imagepipeline/producers/ResizeAndRotateProducer.java,2,21.0,0,2h 10min,130.0,88,3244.8
+fresco,/main/java/com/facebook/imagepipeline/memory/SharedByteArray.java,2,21.0,0,20min,20.0,30,976.5
+fresco,/test/java/com/facebook/imagepipeline/producers/ThrottlingProducerTest.java,2,21.0,3,1h 7min,67.0,35,1582.8
+fresco,/main/java/com/facebook/common/internal/Throwables.java,2,21.0,0,10min,10.0,23,1673.4
+fresco,/test/java/com/facebook/imagepipeline/animated/impl/AnimatedDrawableBackendImplTest.java,1,20.0,0,15min,15.0,44,1919.1
+fresco,/main/java/com/facebook/imagepipeline/animated/factory/AnimatedImageFactoryImpl.java,1,20.0,0,1h 15min,75.0,41,1362.9
+fresco,/main/java/com/facebook/drawee/drawable/ArrayDrawable.java,1,20.0,0,40min,40.0,102,2614.2
+fresco,/main/java/com/facebook/imagepipeline/producers/BaseProducerContextCallbacks.java,4,20.0,0,0,0.0,12,452.7
+fresco,/main/java/com/facebook/imagepipeline/memory/BufferMemoryChunk.java,3,20.0,1,27min 30s,27.5,50,1699.2
+fresco,/main/java/com/facebook/imagepipeline/image/CloseableImage.java,1,20.0,0,25min,25.0,24,648.3
+fresco,/main/java/com/facebook/common/executors/ConstrainedExecutorService.java,1,20.0,0,0,0.0,37,1246.5
+fresco,/main/java/com/facebook/imagepipeline/core/DefaultExecutorSupplier.java,1,20.0,0,0,0.0,29,611.1
+fresco,/main/java/com/facebook/imagepipeline/producers/DiskCacheReadProducer.java,1,20.0,2,1h 32min,92.0,42,1055.7
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/DraweeScaleTypeFragment.java,4,20.0,0,7min 30s,7.5,28,764.7
+fresco,/main/java/com/facebook/imagepipeline/bitmaps/EmptyJpegGenerator.java,1,20.0,0,10min,10.0,14,473.7
+fresco,/main/java/com/facebook/fresco/animation/factory/ExperimentalBitmapAnimationDrawableFactory.java,1,20.0,4,1h 42min,102.0,52,1346.7
+fresco,/test/java/com/facebook/imagepipeline/testing/FakeAshmemMemoryChunk.java,1,20.0,0,0,0.0,32,611.1
+fresco,/test/java/com/facebook/imagepipeline/testing/FakeNativeMemoryChunk.java,1,20.0,0,0,0.0,32,611.1
+fresco,/main/java/com/facebook/drawee/drawable/ForwardingDrawable.java,1,20.0,0,1h 45min,105.0,111,2547.9
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoController.java,4,20.0,0,0,0.0,21,735.6
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoState.java,1,20.0,0,57min 30s,57.5,250,6723.9
+fresco,/main/java/com/facebook/fresco/samples/showcase/vito/FrescoVitoLithoRegionDecodeFragment.java,1,20.0,0,32min 30s,32.5,39,931.2
+fresco,/main/java/com/facebook/imagepipeline/platform/GingerbreadPurgeableDecoder.java,1,20.0,1,40min,40.0,28,918.3
+fresco,/main/java/com/facebook/imageformat/ImageFormatChecker.java,2,20.0,0,1h 10min,70.0,31,1034.7
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/svg/ImageFormatSvgFragment.java,1,20.0,2,27min 30s,27.5,36,1437.3
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImagePerfData.java,1,20.0,0,50min,50.0,123,2801.7
+fresco,/test/java/com/facebook/drawee/backends/pipeline/info/ImagePerfMonitorTest.java,4,20.0,0,7min 30s,7.5,31,918.3
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/ImagePipelineRegionDecodingFragment.java,1,20.0,0,27min 30s,27.5,54,1375.8
+fresco,/main/java/com/facebook/samples/scrollperf/instrumentation/InstrumentedDraweeView.java,1,20.0,0,15min,15.0,40,1898.1
+fresco,/main/java/com/facebook/samples/comparison/instrumentation/InstrumentedDraweeView.java,1,20.0,0,15min,15.0,42,1246.5
+fresco,/main/java/com/facebook/imagepipeline/producers/LocalAssetFetchProducer.java,1,20.0,0,27min 30s,27.5,23,677.4
+fresco,/main/java/com/facebook/imagepipeline/producers/LocalResourceFetchProducer.java,1,20.0,0,27min 30s,27.5,23,677.4
+fresco,/main/java/com/facebook/drawee/drawable/MatrixDrawable.java,1,20.0,1,10min,10.0,22,677.4
+fresco,/test/java/com/facebook/drawee/drawable/MatrixDrawableTest.java,1,20.0,0,0,0.0,23,552.9
+fresco,/main/java/com/facebook/imagepipeline/nativecode/NativeImageTranscoderFactory.java,1,20.0,0,10min,10.0,12,635.4
+fresco,/test/java/com/facebook/imagepipeline/memory/NativeMemoryChunkPoolTest.java,1,20.0,1,32min 30s,32.5,26,1013.7
+fresco,/main/java/com/facebook/imagepipeline/producers/PartialDiskCacheProducer.java,3,20.0,1,2h 15min,135.0,83,2601.3
+fresco,/main/java/com/facebook/samples/scrollperf/instrumentation/PerfListener.java,1,20.0,2,10min,10.0,16,436.5
+fresco,/main/java/com/facebook/samples/comparison/instrumentation/PerfListener.java,1,20.0,2,10min,10.0,16,436.5
+fresco,/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java,1,20.0,3,1h 40min,100.0,66,1484.1
+fresco,/main/java/com/facebook/common/memory/PooledByteArrayBufferedInputStream.java,1,20.0,0,50min,50.0,49,1317.6
+fresco,/test/java/com/facebook/imagepipeline/producers/PriorityStarvingThrottlingProducerTest.java,1,20.0,3,1h 15min,75.0,76,2763.0
+fresco,/test/java/com/facebook/imagepipeline/prioritization/PriorityTest.java,1,20.0,0,7min 30s,7.5,13,540.0
+fresco,/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java,1,20.0,13,5h 15min,315.0,124,4101.6
+fresco,/main/java/com/facebook/drawee/drawable/RoundedBitmapDrawable.java,1,20.0,0,10min,10.0,32,669.3
+fresco,/main/java/com/facebook/drawee/drawable/RoundedNinePatchDrawable.java,1,20.0,0,10min,10.0,12,510.9
+fresco,/main/java/com/facebook/drawee/drawable/ScaleTypeDrawable.java,1,20.0,1,1h,60.0,34,1034.7
+fresco,/main/java/com/facebook/samples/scrollperf/internal/ScrollPerfExecutorSupplier.java,1,20.0,0,0,0.0,30,611.1
+fresco,/main/java/com/facebook/samples/scrollperf/preferences/SizePreferences.java,4,20.0,0,7min 30s,7.5,55,1309.5
+fresco,/main/java/com/facebook/common/executors/StatefulRunnable.java,1,20.0,0,20min,20.0,27,735.6
+fresco,/androidTest/java/com/facebook/webpsupport/WebpDecodingTest.java,1,20.0,2,50min,50.0,84,2323.2
+fresco,/main/java/com/facebook/imagepipeline/producers/WebpTranscodeProducer.java,1,20.0,0,1h 15min,75.0,46,1383.9
+fresco,/main/java/com/facebook/imageutils/WebpUtil.java,10,20.0,0,1h 40min,100.0,51,2122.8
+fresco,/test/java/com/facebook/imagepipeline/producers/BitmapMemoryCacheGetProducerTest.java,3,17.0,0,37min 30s,37.5,103,4473.6
+fresco,/main/java/com/facebook/imagepipeline/animated/impl/AnimatedImageCompositor.java,2,16.0,5,3h 6min,186.0,32,1532.7
+fresco,/main/java/com/facebook/fresco/animation/backend/AnimationBackendDelegateWithInactivityCheck.java,3,15.0,0,15min,15.0,54,1222.2
+fresco,/main/java/com/facebook/imagepipeline/common/BytesRange.java,2,15.0,0,1h 17min,77.0,32,1005.6
+fresco,/main/java/com/facebook/imagepipeline/image/EncodedImage.java,2,15.0,0,1h 50min,110.0,102,2958.6
+fresco,/main/java/com/facebook/common/internal/Files.java,1,15.0,0,10min,10.0,11,635.4
+fresco,/test/java/com/facebook/imagepipeline/platform/GingerbreadPurgeableDecoderTest.java,3,15.0,3,32min 30s,32.5,36,1122.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/ImagePipelinePostProcessorFragment.java,3,15.0,2,40min,40.0,79,2800.2
+fresco,/test/java/com/facebook/imagepipeline/platform/KitKatPurgeableDecoderTest.java,3,15.0,3,57min 30s,57.5,60,2363.7
+fresco,/main/java/com/facebook/imagepipeline/producers/LocalContentUriFetchProducer.java,2,15.0,0,57min 30s,57.5,33,881.1
+fresco,/main/java/com/facebook/imagepipeline/producers/LocalContentUriThumbnailFetchProducer.java,2,15.0,0,2h 5min,125.0,53,1404.9
+fresco,/main/java/com/facebook/samples/scrollperf/fragments/MainFragment.java,3,15.0,1,45min,45.0,61,2347.5
+fresco,/main/java/com/facebook/common/memory/NoOpMemoryTrimmableRegistry.java,3,15.0,0,0,0.0,11,510.9
+fresco,/test/java/com/facebook/imagepipeline/producers/RemoveImageTransformMetaDataProducerTest.java,3,15.0,0,30min,30.0,46,1757.4
+fresco,/test/java/com/facebook/fresco/vito/options/RoundingOptionsTest.java,3,15.0,0,0,0.0,19,656.4
+fresco,/test/java/com/facebook/common/references/SharedReferenceTest.java,6,15.0,0,15min,15.0,49,1392.0
+fresco,/main/java/com/facebook/fresco/vito/view/VitoView.java,2,15.0,0,17min 30s,17.5,54,1280.4
+fresco,/main/java/com/facebook/animated/webpdrawable/WebpAnimationBackend.java,2,15.0,1,47min 30s,47.5,65,1982.1
+fresco,/test/java/com/facebook/imagepipeline/filter/XferRoundFilterTest.java,3,15.0,0,0,0.0,16,320.1
+fresco,/main/java/com/facebook/drawee/gestures/GestureDetector.java,2,12.0,1,17min 30s,17.5,28,910.2
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/ImagePipelinePrefetchFragment.java,2,12.0,0,22min 30s,22.5,55,1902.9
+fresco,/test/java/com/facebook/common/media/MediaUtilsTest.java,1,12.0,0,0,0.0,55,1442.1
+fresco,/main/java/com/facebook/datasource/AbstractDataSource.java,3,11.0,0,1h 37min,97.0,88,1936.8
+fresco,/test/java/com/facebook/imageutils/JfifTestUtilsTest.java,4,11.0,0,15min,15.0,42,902.1
+fresco,/main/java/com/facebook/common/activitylistener/ActivityListener.java,1,10.0,0,0,0.0,4,116.4
+fresco,/main/java/com/facebook/common/internal/AndroidPredicates.java,2,10.0,0,0,0.0,15,693.6
+fresco,/main/java/com/facebook/imagepipeline/animated/base/AnimatedImage.java,1,10.0,0,0,0.0,5,58.2
+fresco,/main/java/com/facebook/fresco/animation/backend/AnimationBackend.java,1,10.0,0,0,0.0,9,29.1
+fresco,/test/java/com/facebook/fresco/animation/backend/AnimationBackendDelegateWithInactivityCheckTest.java,2,10.0,0,0,0.0,24,582.0
+fresco,/main/java/com/facebook/samples/animation2/utils/AnimationControlsManager.java,2,10.0,0,40min,40.0,25,523.8
+fresco,/main/java/com/facebook/fresco/animation/backend/AnimationInformation.java,1,10.0,0,0,0.0,4,29.1
+fresco,/main/java/com/facebook/imagepipeline/producers/BaseNetworkFetcher.java,1,10.0,0,7min 30s,7.5,13,569.1
+fresco,/main/java/com/facebook/samples/animation2/bitmap/BitmapAnimationDebugFragment.java,2,10.0,1,50min,50.0,76,1870.5
+fresco,/main/java/com/facebook/imagepipeline/memory/Bucket.java,1,10.0,0,7min 30s,7.5,23,831.0
+fresco,/main/java/com/facebook/common/time/Clock.java,1,10.0,0,0,0.0,3,58.2
+fresco,/main/java/com/facebook/imagepipeline/producers/Consumer.java,1,10.0,0,0,0.0,7,87.3
+fresco,/main/java/com/facebook/drawee/controller/ControllerListener.java,1,10.0,0,0,0.0,2,58.2
+fresco,/main/java/com/facebook/drawee/components/DeferredReleaserLegacyImpl.java,2,10.0,0,31min,31.0,10,203.7
+fresco,/test/java/com/facebook/drawee/testing/DraweeMocksTest.java,2,10.0,0,15min,15.0,23,743.7
+fresco,/main/java/com/facebook/drawee/drawable/FadeDrawable.java,2,10.0,1,47min 30s,47.5,55,1325.7
+fresco,/test/java/com/facebook/common/file/FileUtilsTest.java,1,10.0,0,0,0.0,39,1262.7
+fresco,/main/java/com/facebook/fresco/animation/frame/FrameScheduler.java,1,10.0,0,0,0.0,3,87.3
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/transition/ImageDetailsActivity.java,2,10.0,2,37min 30s,37.5,20,839.1
+fresco,/main/java/com/facebook/imagepipeline/request/ImageRequest.java,1,10.0,0,2h 37min,157.0,132,3066.9
+fresco,/main/java/com/facebook/imagepipeline/request/ImageRequestBuilder.java,1,10.0,0,35min,35.0,99,3162.3
+fresco,/main/java/com/facebook/common/memory/MemoryTrimType.java,5,10.0,0,0,0.0,7,174.6
+fresco,/main/java/com/facebook/drawee/view/MultiDraweeHolder.java,1,10.0,0,40min,40.0,44,2417.1
+fresco,/main/java/com/facebook/imagepipeline/multiuri/MultiUri.java,2,10.0,0,32min 30s,32.5,72,2011.2
+fresco,/main/java/com/facebook/imagepipeline/producers/NetworkFetcher.java,1,10.0,0,0,0.0,5,116.4
+fresco,/main/java/com/facebook/imagepipeline/debug/NoOpCloseableReferenceLeakTracker.java,2,10.0,0,0,0.0,14,540.0
+fresco,/main/java/com/facebook/common/disk/NoOpDiskTrimmableRegistry.java,2,10.0,0,0,0.0,16,722.7
+fresco,/main/java/com/facebook/fresco/ui/common/OnDrawControllerListener.java,1,10.0,0,0,0.0,2,58.2
+fresco,/main/java/com/facebook/imagepipeline/memory/PoolStatsTracker.java,1,10.0,0,0,0.0,20,582.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/widget/ResizableFrameLayout.java,2,10.0,2,47min 30s,47.5,60,1579.5
+fresco,/main/java/com/facebook/datasource/RetainingDataSourceSupplier.java,2,10.0,0,40min,40.0,70,2077.5
+fresco,/test/java/com/facebook/drawee/drawable/RoundedBitmapDrawableTest.java,2,10.0,0,30min,30.0,57,1193.1
+fresco,/main/java/com/facebook/drawee/backends/volley/VolleyDataSource.java,2,10.0,0,17min 30s,17.5,12,232.8
+fresco,/test/java/com/facebook/imagepipeline/request/ForwardingRequestListenerTest.java,4,8.0,0,15min,15.0,57,1807.5
+fresco,/main/java/com/facebook/drawee/view/SimpleDraweeView.java,2,8.0,0,25min,25.0,40,1429.2
+fresco,/main/java/com/facebook/samples/zoomable/DefaultZoomableController.java,2,7.0,0,2h 20min,140.0,145,4588.2
+fresco,/test/java/com/facebook/imagepipeline/core/ProducerSequenceFactoryTest.java,2,7.0,0,22min 30s,22.5,94,5324.1
+fresco,/main/java/com/facebook/common/executors/ScheduledFutureImpl.java,3,7.0,0,7min 30s,7.5,42,1026.6
+fresco,/main/java/com/facebook/imagepipeline/animated/impl/AnimatedDrawableBackendImpl.java,3,6.0,1,52min 30s,52.5,107,2979.6
+fresco,/main/java/com/facebook/imagepipeline/datasource/CloseableProducerToDataSourceAdapter.java,2,6.0,0,7min 30s,7.5,24,926.4
+fresco,/main/java/com/facebook/fresco/animation/bitmap/preparation/DefaultBitmapFramePreparer.java,1,6.0,1,1h 47min,107.0,46,1662.0
+fresco,/main/java/com/facebook/datasource/FirstAvailableDataSourceSupplier.java,2,6.0,0,1h 50min,110.0,106,3514.8
+fresco,/main/java/com/facebook/datasource/IncreasingQualityDataSourceSupplier.java,2,6.0,0,1h 27min,87.0,119,4142.1
+fresco,/main/java/com/facebook/imagepipeline/datasource/ProducerToDataSourceAdapter.java,2,6.0,0,7min 30s,7.5,11,635.4
+fresco,/main/java/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java,1,5.0,0,25min,25.0,27,523.8
+fresco,/test/java/android/net/http/AndroidHttpClient.java,1,5.0,0,0,0.0,6,394.5
+fresco,/test/java/com/facebook/fresco/animation/bitmap/wrapper/AnimatedDrawableBackendFrameRendererTest.java,1,5.0,0,0,0.0,33,727.5
+fresco,/main/java/com/facebook/imagepipeline/animated/util/AnimatedDrawableUtil.java,1,5.0,0,1h,60.0,13,627.3
+fresco,/test/java/com/facebook/drawee/view/AspectRatioMeasureTest.java,1,5.0,0,30min,30.0,25,1665.3
+fresco,/main/java/com/facebook/widget/text/span/BetterImageSpan.java,1,5.0,6,2h 25min,145.0,41,989.4
+fresco,/main/java/com/facebook/samples/animation2/bitmap/BitmapAnimationCacheSelectorConfigurator.java,1,5.0,0,0,0.0,61,1595.7
+fresco,/test/java/com/facebook/imagepipeline/producers/BranchOnSeparateImagesProducerTest.java,1,5.0,0,52min 30s,52.5,67,2779.2
+fresco,/test/java/com/facebook/imagepipeline/image/CloseableStaticBitmapTest.java,1,5.0,0,0,0.0,35,1034.7
+fresco,/test/java/com/facebook/imagepipeline/cache/CountingLruMapTest.java,1,5.0,0,52min 30s,52.5,57,1815.6
+fresco,/main/java/com/facebook/common/time/CurrentThreadTimeClock.java,1,5.0,0,0,0.0,10,452.7
+fresco,/main/java/com/facebook/cache/disk/DefaultEntryEvictionComparatorSupplier.java,1,5.0,0,0,0.0,7,394.5
+fresco,/main/java/com/facebook/drawee/components/DeferredReleaserConcurrentImpl.java,1,5.0,0,20min,20.0,19,494.7
+fresco,/main/java/com/facebook/samples/zoomable/DoubleTapGestureListener.java,1,5.0,1,17min 30s,17.5,30,881.1
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/DraweeRoundedCornersFragment.java,1,5.0,0,22min 30s,22.5,56,1434.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/DraweeSpanSimpleTextFragment.java,1,5.0,0,15min,15.0,28,793.8
+fresco,/main/java/com/facebook/samples/animation2/color/ExampleColorBackend.java,1,5.0,0,10min,10.0,49,1113.9
+fresco,/main/java/com/facebook/binaryresource/FileBinaryResource.java,1,5.0,0,10min,10.0,40,1092.9
+fresco,/test/java/com/facebook/drawee/drawable/ForwardingDrawableTest.java,1,5.0,0,15min,15.0,28,735.6
+fresco,/test/java/com/facebook/fresco/vito/core/FrescoDrawableTest.java,1,5.0,0,0,0.0,38,1130.1
+fresco,/main/java/com/facebook/imagepipeline/stetho/FrescoStethoPlugin.java,1,5.0,0,0,0.0,8,423.6
+fresco,/main/java/com/facebook/imagepipeline/systrace/FrescoSystrace.java,1,5.0,0,7min 30s,7.5,74,2405.7
+fresco,/test/java/com/facebook/common/executors/HandlerExecutorServiceImplTest.java,1,5.0,0,0,0.0,19,407.4
+fresco,/main/java/com/facebook/imagepipeline/producers/HttpUrlConnectionNetworkFetcher.java,1,5.0,2,1h 15min,75.0,95,2717.7
+fresco,/main/java/com/facebook/imagepipeline/common/ImageDecodeOptionsBuilder.java,1,5.0,0,7min 30s,7.5,35,968.4
+fresco,/main/java/com/facebook/drawee/debug/listener/ImageLoadingTimeControllerListener.java,1,5.0,0,0,0.0,16,378.3
+fresco,/main/java/com/facebook/fresco/animation/bitmap/cache/KeepLastFrameCache.java,1,5.0,0,30min,30.0,41,873.0
+fresco,/main/java/com/facebook/imagepipeline/memory/MemoryChunk.java,1,5.0,0,0,0.0,12,174.6
+fresco,/main/java/com/facebook/imagepipeline/memory/MemoryPooledByteBuffer.java,1,5.0,0,0,0.0,39,785.7
+fresco,/main/java/com/facebook/animated/giflite/draw/MovieAnimatedImage.java,1,5.0,0,0,0.0,47,960.3
+fresco,/main/java/com/facebook/animated/giflite/draw/MovieFrame.java,1,5.0,0,7min 30s,7.5,34,727.5
+fresco,/main/java/com/facebook/imagepipeline/animated/testing/MyShadowBitmap.java,1,5.0,0,0,0.0,33,785.7
+fresco,/main/java/com/facebook/imagepipeline/animated/testing/MyShadowCanvas.java,1,5.0,0,0,0.0,19,868.2
+fresco,/main/java/com/facebook/samples/animation2/bitmap/NaiveCacheAllFramesCachingBackend.java,1,5.0,0,0,0.0,34,1034.7
+fresco,/main/java/com/facebook/imagepipeline/cache/NativeMemoryCacheTrimStrategy.java,1,5.0,3,1h,60.0,10,635.4
+fresco,/main/java/com/facebook/cache/common/NoOpCacheErrorLogger.java,1,5.0,0,0,0.0,11,606.3
+fresco,/main/java/com/facebook/imagepipeline/producers/PostprocessorProducer.java,1,5.0,2,2h 52min,172.0,143,4615.8
+fresco,/main/java/com/facebook/common/internal/Preconditions.java,1,5.0,0,1h 7min,67.0,27,860.1
+fresco,/test/java/com/facebook/drawee/drawable/RoundedCornersDrawableTest.java,1,5.0,0,0,0.0,45,1180.2
+fresco,/main/java/com/facebook/samples/animation2/utils/SampleAnimationBackendConfigurator.java,1,5.0,0,0,0.0,49,1362.9
+fresco,/main/java/com/facebook/cache/disk/ScoreBasedEvictionComparatorSupplier.java,1,5.0,0,0,0.0,11,261.9
+fresco,/main/java/com/facebook/fresco/samples/showcase/common/SimpleScaleTypeAdapter.java,1,5.0,0,7min 30s,7.5,50,1977.3
+fresco,/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducer.java,1,5.0,0,15min,15.0,17,349.2
+fresco,/test/java/com/facebook/imagepipeline/producers/ThumbnailBranchProducerTest.java,1,5.0,0,0,0.0,84,2024.1
+fresco,/test/java/com/facebook/imagepipeline/filter/IterativeBoxBlurFilterTest.java,2,4.0,0,0,0.0,24,465.6
+fresco,/main/java/com/facebook/imagepipeline/common/ResizeOptions.java,2,4.0,0,47min 30s,47.5,35,1283.7
+fresco,/main/java/com/facebook/imagepipeline/transcoder/SimpleImageTranscoder.java,1,4.0,0,1h 45min,105.0,30,947.4
+fresco,/main/java/com/facebook/common/references/OOMSoftReference.java,3,3.0,0,0,0.0,18,378.3
+fresco,/main/java/com/facebook/imagepipeline/datasource/SettableDataSource.java,2,3.0,0,0,0.0,14,693.6
+fresco,/main/java/com/facebook/datasource/SimpleDataSource.java,2,3.0,0,0,0.0,10,759.9
+fresco,/main/java/com/facebook/imagepipeline/animated/base/AnimatedDrawableOptions.java,3,2.0,0,7min 30s,7.5,12,1067.1
+fresco,/main/java/com/facebook/samples/comparison/holders/BaseViewHolder.java,1,2.0,0,7min 30s,7.5,30,669.3
+fresco,/main/java/com/facebook/imagepipeline/postprocessors/BlurPostProcessor.java,1,2.0,0,0,0.0,22,494.7
+fresco,/main/java/com/facebook/imagepipeline/producers/DataFetchProducer.java,1,2.0,0,37min 30s,37.5,26,1013.7
+fresco,/main/java/com/facebook/imageformat/DefaultImageFormatChecker.java,1,2.0,0,3h 27min,207.0,31,1188.3
+fresco,/main/java/com/facebook/common/executors/DefaultSerialExecutorService.java,1,2.0,0,7min 30s,7.5,5,394.5
+fresco,/main/java/com/facebook/fresco/vito/options/EncodedImageOptions.java,1,2.0,0,31min,31.0,67,1770.3
+fresco,/main/java/com/facebook/imagepipeline/producers/EncodedMemoryCacheProducer.java,2,2.0,0,1h 10min,70.0,32,822.9
+fresco,/main/java/com/facebook/imagepipeline/testing/FakeClock.java,2,2.0,0,0,0.0,32,698.4
+fresco,/main/java/com/facebook/imagepipeline/common/ImageDecodeOptions.java,1,2.0,0,2h 38min,158.0,37,2616.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/datauri/ImageFormatDataUriFragment.java,1,2.0,0,7min 30s,7.5,18,685.5
+fresco,/main/java/com/facebook/imagepipeline/transcoder/ImageTranscodeResult.java,1,2.0,0,0,0.0,11,232.8
+fresco,/main/java/com/facebook/imageutils/JfifUtil.java,2,2.0,3,2h 7min,127.0,28,1532.7
+fresco,/main/java/com/facebook/imagepipeline/postprocessors/RoundPostprocessor.java,1,2.0,0,0,0.0,24,494.7
+fresco,/test/java/com/facebook/imagepipeline/producers/SettableProducerContextTest.java,1,2.0,0,15min,15.0,39,1400.1
+fresco,/main/java/com/facebook/imagepipeline/decoder/SimpleProgressiveJpegConfig.java,1,2.0,0,20min,20.0,35,1159.2
+fresco,/test/java/com/facebook/imagepipeline/producers/SwallowResultProducerTest.java,2,2.0,0,7min 30s,7.5,92,3252.9
+fresco,/test/java/com/facebook/imagepipeline/producers/ThreadHandoffProducerTest.java,1,2.0,0,15min,15.0,34,1715.4
+fresco,/test/java/com/facebook/common/util/UriUtilTest.java,1,2.0,0,15min,15.0,44,989.4
+fresco,/main/java/com/facebook/imagepipeline/memory/BucketMap.java,1,1.0,0,47min 30s,47.5,39,1180.2
+fresco,/main/java/com/facebook/imagepipeline/testing/DeltaQueue.java,3,1.0,0,47min 30s,47.5,26,1569.9
+fresco,/main/java/com/facebook/samples/comparison/adapters/ImageListAdapter.java,1,1.0,0,7min 30s,7.5,36,669.3
+fresco,/main/java/com/facebook/samples/comparison/urlsfetcher/ImageUrlsFetcher.java,1,1.0,1,57min 30s,57.5,37,1487.4
+fresco,/main/java/com/facebook/imagepipeline/testing/ScheduledQueue.java,1,1.0,0,0,0.0,19,839.1
+fresco,/main/java/com/facebook/imagepipeline/testing/TestScheduledExecutorService.java,1,1.0,0,15min,15.0,25,801.9
+fresco,/main/java/com/facebook/samples/zoomable/AbstractAnimatedZoomableController.java,0,0.0,0,17min 30s,17.5,58,1683.0
+fresco,/main/java/com/facebook/imagepipeline/producers/AddImageTransformMetaDataProducer.java,0,0.0,0,10min,10.0,23,714.6
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/keyframes/AnimatableKeyframesDrawable.java,0,0.0,0,7min 30s,7.5,18,407.4
+fresco,/main/java/com/facebook/fresco/animation/drawable/AnimatedDrawable2DebugDrawListener.java,0,0.0,0,17min 30s,17.5,20,1021.8
+fresco,/main/java/com/facebook/fresco/animation/drawable/animator/AnimatedDrawable2ValueAnimatorHelper.java,0,0.0,0,10min,10.0,18,934.5
+fresco,/main/java/com/facebook/imagepipeline/animated/base/AnimatedDrawableBackend.java,0,0.0,0,0,0.0,6,29.1
+fresco,/main/java/com/facebook/fresco/animation/bitmap/wrapper/AnimatedDrawableBackendAnimationInformation.java,0,0.0,0,0,0.0,17,320.1
+fresco,/main/java/com/facebook/fresco/animation/bitmap/wrapper/AnimatedDrawableBackendFrameRenderer.java,0,0.0,0,10min,10.0,29,735.6
+fresco,/main/java/com/facebook/imagepipeline/animated/impl/AnimatedDrawableBackendProvider.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/imagepipeline/animated/base/AnimatedDrawableFrameInfo.java,0,0.0,0,15min,15.0,23,1760.7
+fresco,/main/java/com/facebook/imagepipeline/animated/base/AnimatedDrawableOptionsBuilder.java,0,0.0,0,0,0.0,9,261.9
+fresco,/test/java/com/facebook/imagepipeline/animated/util/AnimatedDrawableUtilTest.java,0,0.0,0,15min,15.0,20,714.6
+fresco,/main/java/com/facebook/fresco/animation/drawable/animator/AnimatedDrawableValueAnimatorHelper.java,0,0.0,0,1h,60.0,11,789.0
+fresco,/main/java/com/facebook/imagepipeline/animated/factory/AnimatedFactory.java,0,0.0,0,0,0.0,11,320.1
+fresco,/main/java/com/facebook/fresco/animation/factory/AnimatedFactoryV2Impl.java,0,0.0,4,27min 30s,27.5,55,1413.0
+fresco,/main/java/com/facebook/imagepipeline/animated/impl/AnimatedFrameCache.java,0,0.0,0,40min,40.0,62,1683.0
+fresco,/main/java/com/facebook/imagepipeline/animated/factory/AnimatedImageDecoder.java,0,0.0,0,0,0.0,2,58.2
+fresco,/main/java/com/facebook/imagepipeline/animated/factory/AnimatedImageFactory.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/imagepipeline/animated/base/AnimatedImageFrame.java,0,0.0,0,0,0.0,5,29.1
+fresco,/main/java/com/facebook/imagepipeline/animated/base/AnimatedImageResult.java,0,0.0,0,10min,10.0,16,473.7
+fresco,/main/java/com/facebook/imagepipeline/animated/base/AnimatedImageResultBuilder.java,0,0.0,0,10min,10.0,13,349.2
+fresco,/main/java/com/facebook/samples/animation2/AnimationApplication.java,0,0.0,3,20min,20.0,7,423.6
+fresco,/main/java/com/facebook/fresco/animation/backend/AnimationBackendDelegate.java,0,0.0,0,0,0.0,77,3086.4
+fresco,/test/java/com/facebook/fresco/animation/backend/AnimationBackendDelegateTest.java,0,0.0,0,15min,15.0,33,939.3
+fresco,/main/java/com/facebook/samples/animation2/utils/AnimationBackendUtils.java,0,0.0,0,0,0.0,7,519.0
+fresco,/main/java/com/facebook/fresco/animation/bitmap/cache/AnimationFrameCacheKey.java,0,0.0,0,0,0.0,15,320.1
+fresco,/main/java/com/facebook/fresco/animation/drawable/AnimationListener.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/samples/comparison/adapters/AQueryAdapter.java,0,0.0,0,0,0.0,15,473.7
+fresco,/main/java/com/facebook/samples/comparison/holders/AQueryHolder.java,0,0.0,0,0,0.0,10,357.3
+fresco,/test/java/com/facebook/drawee/drawable/ArrayDrawableTest.java,0,0.0,0,22min 30s,22.5,57,1164.0
+fresco,/main/java/com/facebook/fresco/vito/drawable/ArrayVitoDrawableFactory.java,0,0.0,0,10min,10.0,14,540.0
+fresco,/main/java/com/facebook/imagepipeline/bitmaps/ArtBitmapFactory.java,0,0.0,0,0,0.0,8,174.6
+fresco,/main/java/com/facebook/imagepipeline/platform/ArtDecoder.java,0,0.0,0,0,0.0,11,510.9
+fresco,/main/java/com/facebook/imagepipeline/memory/AshmemMemoryChunkPool.java,0,0.0,0,7min 30s,7.5,11,510.9
+fresco,/main/java/com/facebook/common/lifecycle/AttachDetachListener.java,0,0.0,0,0,0.0,5,145.5
+fresco,/main/java/com/facebook/drawee/drawable/AutoRotateDrawable.java,0,0.0,0,7min 30s,7.5,25,735.6
+fresco,/main/java/com/facebook/common/time/AwakeTimeSinceBootClock.java,0,0.0,0,0,0.0,10,606.3
+fresco,/main/java/com/facebook/imagepipeline/datasource/BaseBitmapDataSubscriber.java,0,0.0,0,10min,10.0,10,481.8
+fresco,/main/java/com/facebook/imagepipeline/datasource/BaseBitmapReferenceDataSubscriber.java,0,0.0,0,10min,10.0,10,481.8
+fresco,/main/java/com/facebook/datasource/BaseBooleanSubscriber.java,0,0.0,0,0,0.0,23,801.9
+fresco,/main/java/com/facebook/imagepipeline/producers/BaseConsumer.java,0,0.0,0,40min,40.0,46,1487.4
+fresco,/test/java/com/facebook/imagepipeline/producers/BaseConsumerTest.java,0,0.0,0,7min 30s,7.5,63,1463.1
+fresco,/main/java/com/facebook/datasource/BaseDataSubscriber.java,0,0.0,0,7min 30s,7.5,24,772.8
+fresco,/main/java/com/facebook/imagepipeline/datasource/BaseListBitmapDataSubscriber.java,0,0.0,0,20min,20.0,12,540.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/postprocessor/BasePostprocessorWithDurationCallback.java,0,0.0,0,7min 30s,7.5,8,174.6
+fresco,/main/java/com/facebook/imagepipeline/request/BaseRepeatedPostProcessor.java,0,0.0,0,7min 30s,7.5,14,291.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/BaseShowcaseFragment.java,0,0.0,0,15min,15.0,12,510.9
+fresco,/main/java/com/facebook/fresco/samples/showcase/postprocessor/BenchmarkPostprocessorForDuplicatedBitmap.java,0,0.0,0,7min 30s,7.5,15,598.2
+fresco,/main/java/com/facebook/fresco/samples/showcase/postprocessor/BenchmarkPostprocessorForDuplicatedBitmapInPlace.java,0,0.0,0,7min 30s,7.5,16,627.3
+fresco,/main/java/com/facebook/fresco/samples/showcase/postprocessor/BenchmarkPostprocessorForManualBitmapHandling.java,0,0.0,0,7min 30s,7.5,16,627.3
+fresco,/main/java/com/facebook/binaryresource/BinaryResource.java,0,0.0,0,0,0.0,6,145.5
+fresco,/main/java/com/facebook/fresco/animation/bitmap/BitmapAnimationBackend.java,0,0.0,1,1h 40min,100.0,93,2746.8
+fresco,/test/java/com/facebook/fresco/animation/bitmap/BitmapAnimationBackendTest.java,0,0.0,0,1h,60.0,130,5611.8
+fresco,/main/java/com/facebook/samples/animation2/bitmap/BitmapAnimationFragment.java,0,0.0,0,7min 30s,7.5,13,598.2
+fresco,/main/java/com/facebook/imagepipeline/memory/BitmapCounter.java,0,0.0,0,10min,10.0,24,465.6
+fresco,/main/java/com/facebook/imagepipeline/memory/BitmapCounterConfig.java,0,0.0,0,7min 30s,7.5,41,785.7
+fresco,/test/java/com/facebook/imagepipeline/memory/BitmapCounterTest.java,0,0.0,0,0,0.0,40,785.7
+fresco,/main/java/com/facebook/common/webp/BitmapCreator.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/fresco/vito/drawable/BitmapDrawableFactory.java,0,0.0,0,40min,40.0,25,640.2
+fresco,/main/java/com/facebook/fresco/animation/bitmap/BitmapFrameCache.java,0,0.0,0,0,0.0,5,87.3
+fresco,/main/java/com/facebook/fresco/animation/bitmap/preparation/BitmapFramePreparationStrategy.java,0,0.0,0,0,0.0,2,29.1
+fresco,/main/java/com/facebook/fresco/animation/bitmap/preparation/BitmapFramePreparer.java,0,0.0,0,0,0.0,4,87.3
+fresco,/main/java/com/facebook/fresco/animation/bitmap/BitmapFrameRenderer.java,0,0.0,0,0,0.0,3,29.1
+fresco,/main/java/com/facebook/imagepipeline/producers/BitmapMemoryCacheGetProducer.java,0,0.0,0,7min 30s,7.5,14,598.2
+fresco,/main/java/com/facebook/imagepipeline/cache/BitmapMemoryCacheKey.java,0,0.0,0,25min,25.0,45,989.4
+fresco,/main/java/com/facebook/imagepipeline/producers/BitmapMemoryCacheKeyMultiplexProducer.java,0,0.0,0,0,0.0,19,561.0
+fresco,/main/java/com/facebook/imagepipeline/cache/BitmapMemoryCacheTrimStrategy.java,0,0.0,3,1h 10min,70.0,8,606.3
+fresco,/main/java/com/facebook/imagepipeline/memory/BitmapPool.java,0,0.0,0,0,0.0,2,58.2
+fresco,/main/java/com/facebook/imagepipeline/memory/BitmapPoolBackend.java,0,0.0,0,40min,40.0,22,743.7
+fresco,/main/java/com/facebook/imagepipeline/memory/BitmapPoolType.java,0,0.0,0,0,0.0,8,232.8
+fresco,/main/java/com/facebook/imagepipeline/producers/BitmapPrepareProducer.java,0,0.0,0,57min 30s,57.5,32,727.5
+fresco,/main/java/com/facebook/imagepipeline/transformation/BitmapTransformation.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/fresco/vito/options/BorderOptions.java,0,0.0,0,27min 30s,27.5,26,1262.7
+fresco,/main/java/com/facebook/imagepipeline/producers/BranchOnSeparateImagesProducer.java,0,0.0,0,0,0.0,32,947.4
+fresco,/test/java/com/facebook/imagepipeline/memory/BucketMapTest.java,0,0.0,0,15min,15.0,20,1117.2
+fresco,/main/java/com/facebook/imagepipeline/memory/BucketsBitmapPool.java,0,0.0,0,15min,15.0,9,606.3
+fresco,/main/java/com/facebook/imagepipeline/memory/BufferMemoryChunkPool.java,0,0.0,0,7min 30s,7.5,11,510.9
+fresco,/main/java/com/facebook/binaryresource/ByteArrayBinaryResource.java,0,0.0,0,0,0.0,15,473.7
+fresco,/main/java/com/facebook/common/memory/ByteArrayPool.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/common/util/ByteConstants.java,0,0.0,0,7min 30s,7.5,8,299.1
+fresco,/test/java/com/facebook/imagepipeline/common/BytesRangeTest.java,0,0.0,0,7min 30s,7.5,34,1254.6
+fresco,/main/java/com/facebook/common/internal/ByteStreams.java,0,0.0,0,20min,20.0,23,1366.2
+fresco,/main/java/com/facebook/fresco/samples/showcase/postprocessor/CachedWatermarkPostprocessor.java,0,0.0,0,7min 30s,7.5,10,481.8
+fresco,/main/java/com/facebook/cache/common/CacheErrorLogger.java,0,0.0,0,0,0.0,3,58.2
+fresco,/main/java/com/facebook/cache/common/CacheEvent.java,0,0.0,0,0,0.0,8,232.8
+fresco,/test/java/com/facebook/cache/common/CacheEventAssert.java,0,0.0,0,0,0.0,41,1180.2
+fresco,/main/java/com/facebook/cache/common/CacheEventListener.java,0,0.0,0,0,0.0,11,291.0
+fresco,/main/java/com/facebook/cache/common/CacheKey.java,0,0.0,0,0,0.0,10,232.8
+fresco,/main/java/com/facebook/imagepipeline/cache/CacheKeyFactory.java,0,0.0,0,0,0.0,5,87.3
+fresco,/main/java/com/facebook/callercontext/CallerContextVerifier.java,0,0.0,0,0,0.0,3,87.3
+fresco,/main/java/com/facebook/common/executors/CallerThreadExecutor.java,0,0.0,0,0,0.0,31,1042.8
+fresco,/main/java/com/facebook/fresco/samples/showcase/misc/CheckerBoardDrawable.java,0,0.0,0,0,0.0,26,698.4
+fresco,les/contrib/com/facebook/drawee/drawable/CircleProgressBarDrawable.java,1,0.0,null,null,null,null,null
+fresco,/main/java/com/facebook/fresco/vito/drawable/CircularBorderBitmapDrawable.java,0,0.0,0,0,0.0,34,1005.6
+fresco,/main/java/com/facebook/drawee/drawable/CloneableDrawable.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/imagepipeline/image/CloseableAnimatedImage.java,0,0.0,0,10min,10.0,35,698.4
+fresco,/main/java/com/facebook/imagepipeline/image/CloseableBitmap.java,0,0.0,0,0,0.0,3,336.3
+fresco,/main/java/com/facebook/imagepipeline/core/CloseableReferenceFactory.java,0,0.0,0,10min,10.0,20,590.1
+fresco,/main/java/com/facebook/imagepipeline/debug/CloseableReferenceLeakTracker.java,0,0.0,0,0,0.0,10,291.0
+fresco,/test/java/com/facebook/common/references/CloseableReferenceTest.java,0,0.0,0,0,0.0,27,611.1
+fresco,/main/java/com/facebook/common/internal/Closeables.java,0,0.0,0,10min,10.0,13,540.0
+fresco,/main/java/com/facebook/imagepipeline/image/CloseableStaticBitmap.java,0,0.0,0,35min,35.0,33,698.4
+fresco,/main/java/com/facebook/samples/comparison/ComparisonApp.java,0,0.0,0,0,0.0,10,452.7
+fresco,/main/java/com/facebook/samples/scrollperf/conf/Config.java,0,0.0,0,52min 30s,52.5,258,9592.2
+fresco,/main/java/com/facebook/samples/scrollperf/data/impl/ContentProviderSimpleAdapter.java,0,0.0,0,0,0.0,16,473.7
+fresco,/main/java/com/facebook/fresco/vito/draweesupport/ControllerListenerWrapper.java,0,0.0,0,0,0.0,42,931.2
+fresco,/test/java/com/facebook/fresco/vito/draweesupport/ControllerListenerWrapperTest.java,0,0.0,0,7min 30s,7.5,56,1383.9
+fresco,/main/java/com/facebook/drawee/controller/ControllerViewportVisibilityListener.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/imagepipeline/cache/CountingMemoryCacheInspector.java,0,0.0,0,40min,40.0,45,2628.9
+fresco,/main/java/com/facebook/common/internal/CountingOutputStream.java,0,0.0,0,0,0.0,19,868.2
+fresco,/main/java/com/facebook/imagepipeline/nativecode/DalvikPurgeableDecoder.java,0,0.0,0,20min,20.0,48,2409.0
+fresco,/test/java/com/facebook/imagepipeline/producers/DataFetchProducerTest.java,0,0.0,0,0,0.0,19,839.1
+fresco,/main/java/com/facebook/datasource/DataSource.java,0,0.0,0,0,0.0,10,58.2
+fresco,/main/java/com/facebook/datasource/DataSubscriber.java,0,0.0,0,0,0.0,9,145.5
+fresco,/main/java/com/facebook/samples/animation2/bitmap/DebugBitmapAnimationFrameListener.java,0,0.0,5,1h 40min,100.0,35,814.8
+fresco,/test/java/com/facebook/drawee/debug/DebugControllerOverlayDrawableInternalTest.java,0,0.0,0,30min,30.0,18,378.3
+fresco,/test/java/com/facebook/drawee/debug/DebugControllerOverlayDrawableTest.java,0,0.0,0,30min,30.0,22,436.5
+fresco,/test/java/com/facebook/drawee/debug/DebugControllerOverlayDrawableTestHelper.java,1,0.0,0,7min 30s,7.5,20,473.7
+fresco,/main/java/com/facebook/cache/common/DebuggingCacheKey.java,0,0.0,0,0,0.0,12,291.0
+fresco,/main/java/com/facebook/imagepipeline/debug/DebugImageTracker.java,0,0.0,0,0,0.0,5,145.5
+fresco,/main/java/com/facebook/fresco/vito/core/debug/DebugOverlayFactory.java,0,0.0,0,0,0.0,2,58.2
+fresco,/main/java/com/facebook/drawee/backends/pipeline/debug/DebugOverlayImageOriginListener.java,0,0.0,0,0,0.0,11,232.8
+fresco,/main/java/com/facebook/fresco/samples/showcase/misc/DebugOverlaySupplierSingleton.java,0,0.0,0,10min,10.0,17,502.8
+fresco,/main/java/com/facebook/fresco/vito/options/DecodedImageOptions.java,0,0.0,0,1h 1min,61.0,141,3852.6
+fresco,/main/java/com/facebook/imagepipeline/decoder/DecodeException.java,0,0.0,0,0,0.0,15,320.1
+fresco,/main/java/com/facebook/samples/scrollperf/data/Decorator.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/imagepipeline/cache/DefaultBitmapMemoryCacheParamsSupplier.java,0,0.0,0,40min,40.0,18,590.1
+fresco,/main/java/com/facebook/imagepipeline/memory/DefaultBitmapPoolParams.java,0,0.0,0,20min,20.0,11,759.9
+fresco,/main/java/com/facebook/imagepipeline/cache/DefaultCacheKeyFactory.java,0,0.0,0,0,0.0,33,918.3
+fresco,/main/java/com/facebook/fresco/vito/core/debug/DefaultDebugOverlayFactory.java,0,0.0,0,10min,10.0,13,291.0
+fresco,/main/java/com/facebook/drawee/backends/pipeline/DefaultDrawableFactory.java,0,0.0,0,50min,50.0,24,735.6
+fresco,/main/java/com/facebook/imagepipeline/cache/DefaultEncodedMemoryCacheParamsSupplier.java,0,0.0,0,30min,30.0,14,722.7
+fresco,/test/java/com/facebook/cache/disk/DefaultEntryEvictionComparatorSupplierTest.java,0,0.0,0,0,0.0,18,780.9
+fresco,/main/java/com/facebook/imagepipeline/memory/DefaultFlexByteArrayPoolParams.java,0,0.0,0,7min 30s,7.5,15,751.8
+fresco,/main/java/com/facebook/imagepipeline/systrace/DefaultFrescoSystrace.java,0,0.0,0,10min,10.0,42,1275.6
+fresco,/main/java/com/facebook/imagepipeline/decoder/DefaultImageDecoder.java,0,0.0,1,1h 50min,110.0,38,2234.4
+fresco,/main/java/com/facebook/imageformat/DefaultImageFormats.java,0,0.0,0,7min 30s,7.5,21,955.5
+fresco,/main/java/com/facebook/drawee/components/DeferredReleaser.java,0,0.0,0,0,0.0,16,502.8
+fresco,/main/java/com/facebook/samples/scrollperf/postprocessor/DelayPostprocessor.java,0,0.0,0,0,0.0,23,743.7
+fresco,/main/java/com/facebook/imagepipeline/animated/base/DelegatingAnimatedDrawableBackend.java,0,0.0,0,0,0.0,89,4315.2
+fresco,/main/java/com/facebook/imagepipeline/producers/DelegatingConsumer.java,0,0.0,0,0,0.0,21,320.1
+fresco,/main/java/com/facebook/fresco/ui/common/DimensionsInfo.java,0,0.0,0,7min 30s,7.5,35,727.5
+fresco,/main/java/com/facebook/cache/disk/DiskCacheConfig.java,0,0.0,0,15min,15.0,135,3254.4
+fresco,/main/java/com/facebook/imagepipeline/producers/DiskCacheWriteProducer.java,0,0.0,1,27min 30s,27.5,33,881.1
+fresco,/main/java/com/facebook/cache/disk/DiskStorage.java,2,0.0,0,15min,15.0,49,2467.2
+fresco,/main/java/com/facebook/imagepipeline/core/DiskStorageCacheFactory.java,0,0.0,0,0,0.0,22,465.6
+fresco,/main/java/com/facebook/imagepipeline/core/DiskStorageFactory.java,0,0.0,0,0,0.0,4,116.4
+fresco,/main/java/com/facebook/common/disk/DiskTrimmable.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/common/disk/DiskTrimmableRegistry.java,0,0.0,0,0,0.0,3,87.3
+fresco,/main/java/com/facebook/samples/scrollperf/data/impl/DistinctUriDecorator.java,0,0.0,0,0,0.0,5,116.4
+fresco,/main/java/com/facebook/common/internal/DoNotStrip.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/imagepipeline/transcoder/DownsampleUtil.java,0,0.0,0,1h 35min,95.0,38,1553.7
+fresco,/main/java/com/facebook/imagepipeline/drawable/DrawableFactory.java,0,0.0,0,0,0.0,3,29.1
+fresco,/main/java/com/facebook/fresco/vito/draweesupport/DrawableFactoryWrapper.java,0,0.0,0,10min,10.0,14,291.0
+fresco,/main/java/com/facebook/drawee/drawable/DrawableParent.java,0,0.0,0,0,0.0,3,29.1
+fresco,/main/java/com/facebook/drawee/drawable/DrawableProperties.java,0,0.0,0,10min,10.0,27,640.2
+fresco,/main/java/com/facebook/samples/comparison/Drawables.java,4,0.0,0,7min 30s,7.5,14,598.2
+fresco,/main/java/com/facebook/drawable/base/DrawableWithCaches.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/drawee/backends/pipeline/DraweeConfig.java,0,0.0,0,0,0.0,53,1450.2
+fresco,/main/java/com/facebook/drawee/interfaces/DraweeController.java,0,0.0,0,0,0.0,9,232.8
+fresco,/main/java/com/facebook/drawee/components/DraweeEventTracker.java,0,0.0,0,10min,10.0,24,772.8
+fresco,/main/java/com/facebook/drawee/interfaces/DraweeHierarchy.java,0,0.0,0,0,0.0,2,29.1
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/DraweeHierarchyFragment.java,0,0.0,0,15min,15.0,25,801.9
+fresco,/test/java/com/facebook/drawee/view/DraweeHolderTest.java,0,0.0,0,15min,15.0,66,1857.6
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/DraweeMediaPickerFragment.java,0,0.0,0,17min 30s,17.5,30,669.3
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/DraweeSimpleFragment.java,0,0.0,0,0,0.0,18,656.4
+fresco,/main/java/com/facebook/drawee/span/DraweeSpan.java,0,0.0,0,0,0.0,6,116.4
+fresco,/test/java/com/facebook/drawee/span/DraweeSpanStringBuilderTest.java,0,0.0,0,7min 30s,7.5,39,1429.2
+fresco,/test/java/com/facebook/drawee/span/DraweeSpanTest.java,0,0.0,0,7min 30s,7.5,21,839.1
+fresco,/main/java/com/facebook/drawee/view/DraweeTransition.java,0,0.0,0,37min 30s,37.5,41,1055.7
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/transition/DraweeTransitionFragment.java,0,0.0,0,15min,15.0,22,801.9
+fresco,/main/java/com/facebook/samples/scrollperf/fragments/recycler/DraweeViewAdapter.java,0,0.0,0,0,0.0,26,582.0
+fresco,/main/java/com/facebook/samples/scrollperf/fragments/recycler/DraweeViewHolder.java,0,0.0,0,0,0.0,13,444.6
+fresco,/main/java/com/facebook/samples/scrollperf/fragments/recycler/DraweeViewListAdapter.java,0,0.0,0,7min 30s,7.5,32,852.0
+fresco,/main/java/com/facebook/fresco/animation/frame/DropFramesFrameScheduler.java,0,0.0,0,50min,50.0,38,1026.6
+fresco,/main/java/com/facebook/imagepipeline/memory/DummyBitmapPool.java,0,0.0,0,7min 30s,7.5,14,722.7
+fresco,/main/java/com/facebook/imagepipeline/memory/DummyTrackingInUseBitmapPool.java,0,0.0,0,7min 30s,7.5,14,444.6
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/DurationCallback.java,0,0.0,0,0,0.0,3,87.3
+fresco,/main/java/com/facebook/cache/disk/DynamicDefaultDiskStorage.java,0,0.0,0,1h,60.0,108,2979.6
+fresco,/main/java/com/facebook/imagepipeline/core/DynamicDefaultDiskStorageFactory.java,0,0.0,0,0,0.0,7,423.6
+fresco,/main/java/com/facebook/imagepipeline/producers/EncodedCacheKeyMultiplexProducer.java,0,0.0,0,0,0.0,16,349.2
+fresco,/main/java/com/facebook/imagepipeline/image/EncodedImageOrigin.java,0,0.0,0,0,0.0,9,203.7
+fresco,/main/java/com/facebook/cache/disk/EntryEvictionComparator.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/cache/disk/EntryEvictionComparatorSupplier.java,0,0.0,0,0,0.0,3,87.3
+fresco,/main/java/com/facebook/common/util/ExceptionWithNoStacktrace.java,0,0.0,0,0,0.0,9,452.7
+fresco,/main/java/com/facebook/imagepipeline/core/ExecutorSupplier.java,0,0.0,0,0,0.0,9,232.8
+fresco,/main/java/com/facebook/imagepipeline/producers/ExperimentalThreadHandoffProducerQueueImpl.java,0,0.0,0,0,0.0,19,378.3
+fresco,/test/java/com/facebook/imagepipeline/testing/FakeAshmemMemoryChunkPool.java,0,0.0,0,7min 30s,7.5,16,569.1
+fresco,/test/java/com/facebook/imagepipeline/testing/FakeBufferMemoryChunkPool.java,0,0.0,0,7min 30s,7.5,15,569.1
+fresco,/test/java/com/facebook/imagepipeline/testing/FakeNativeMemoryChunkPool.java,0,0.0,0,7min 30s,7.5,16,569.1
+fresco,/main/java/com/facebook/fresco/samples/showcase/postprocessor/FasterGreyScalePostprocessor.java,0,0.0,0,0,0.0,5,394.5
+fresco,/main/java/com/facebook/imagepipeline/producers/FetchState.java,0,0.0,0,7min 30s,7.5,43,931.2
+fresco,/main/java/com/facebook/cache/disk/FileCache.java,0,0.0,0,0,0.0,16,465.6
+fresco,/main/java/com/facebook/imagepipeline/core/FileCacheFactory.java,0,0.0,0,0,0.0,4,116.4
+fresco,/main/java/com/facebook/common/file/FileTreeVisitor.java,0,0.0,0,0,0.0,7,116.4
+fresco,/main/java/com/facebook/fresco/animation/bitmap/preparation/FixedNumberBitmapFramePreparationStrategy.java,0,0.0,0,10min,10.0,15,349.2
+fresco,/main/java/com/facebook/imagepipeline/memory/FlexByteArrayPool.java,0,0.0,0,7min 30s,7.5,39,1283.7
+fresco,/main/java/com/facebook/imagepipeline/debug/FlipperCacheKeyFactory.java,0,0.0,0,0,0.0,13,261.9
+fresco,/main/java/com/facebook/imagepipeline/debug/FlipperCloseableReferenceLeakTracker.java,0,0.0,0,10min,10.0,14,291.0
+fresco,/main/java/com/facebook/imagepipeline/debug/FlipperImageTracker.java,0,0.0,0,1h 7min,67.0,102,2037.0
+fresco,/main/java/com/facebook/common/logging/FLogDefaultLoggingDelegate.java,0,0.0,0,37min 30s,37.5,84,2090.4
+fresco,/main/java/com/facebook/fresco/vito/listener/ForwardingImageListener.java,0,0.0,0,50min,50.0,49,2475.3
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ForwardingImageOriginListener.java,0,0.0,0,0,0.0,25,801.9
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ForwardingImagePerfDataListener.java,0,0.0,0,0,0.0,16,598.2
+fresco,/main/java/com/facebook/imagepipeline/listener/ForwardingRequestListener.java,0,0.0,0,10min,10.0,84,6129.3
+fresco,/main/java/com/facebook/imagepipeline/listener/ForwardingRequestListener2.java,0,0.0,0,10min,10.0,81,5867.4
+fresco,/main/java/com/facebook/samples/comparison/adapters/FrescoAdapter.java,0,0.0,0,0,0.0,16,569.1
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoContext.java,0,0.0,0,1h 30min,90.0,97,2315.1
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoDrawable.java,0,0.0,0,15min,15.0,63,1367.7
+fresco,/main/java/com/facebook/fresco/animation/bitmap/cache/FrescoFrameCache.java,1,0.0,0,1h 10min,70.0,56,1587.6
+fresco,/main/java/com/facebook/samples/comparison/holders/FrescoHolder.java,0,0.0,0,0,0.0,15,693.6
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoVitoImageDecodeOptions.java,0,0.0,0,31min,31.0,27,1109.1
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoVitoImageDecodeOptionsBuilder.java,0,0.0,0,0,0.0,20,772.8
+fresco,/test/java/com/facebook/fresco/vito/litho/FrescoVitoImageSpecTest.java,0,0.0,0,0,0.0,8,423.6
+fresco,/main/java/com/facebook/fresco/samples/showcase/vito/FrescoVitoLithoGalleryFragment.java,0,0.0,0,0,0.0,14,540.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/vito/FrescoVitoLithoSectionsFragment.java,0,0.0,0,0,0.0,13,540.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/vito/FrescoVitoLithoSimpleFragment.java,0,0.0,0,0,0.0,25,801.9
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoVitoPrefetcher.java,0,0.0,0,0,0.0,9,232.8
+fresco,/main/java/com/facebook/fresco/vito/core/FrescoVitoRegionDecoder.java,0,0.0,1,40min,40.0,20,868.2
+fresco,/main/java/com/facebook/imagepipeline/memory/GenericByteArrayPool.java,0,0.0,0,25min,25.0,6,548.1
+fresco,/main/java/com/facebook/drawee/generic/GenericDraweeHierarchy.java,0,0.0,0,1h 30min,90.0,110,3299.7
+fresco,/main/java/com/facebook/drawee/generic/GenericDraweeHierarchyBuilder.java,0,0.0,0,30min,30.0,74,2161.5
+fresco,/main/java/com/facebook/drawee/view/GenericDraweeView.java,0,0.0,0,0,0.0,24,772.8
+fresco,/main/java/com/facebook/samples/zoomable/GestureListenerWrapper.java,0,0.0,0,0,0.0,52,1164.0
+fresco,/main/java/com/facebook/animated/giflite/decoder/GifMetadataDecoder.java,0,0.0,1,47min 30s,47.5,97,2328.0
+fresco,/main/java/com/facebook/imagepipeline/bitmaps/GingerbreadBitmapFactory.java,0,0.0,0,0,0.0,4,336.3
+fresco,/test/java/javax/microedition/khronos/opengles/GL.java,0,0.0,0,0,0.0,4,116.4
+fresco,/main/java/com/facebook/samples/comparison/adapters/GlideAdapter.java,0,0.0,0,0,0.0,14,569.1
+fresco,/main/java/com/facebook/samples/comparison/holders/GlideHolder.java,0,0.0,0,0,0.0,12,635.4
+fresco,/main/java/com/facebook/common/executors/HandlerExecutorService.java,0,0.0,0,0,0.0,3,58.2
+fresco,/main/java/com/facebook/common/references/HasBitmap.java,0,0.0,0,0,0.0,1,29.1
+fresco,/test/java/com/facebook/common/util/HashCodeUtilTest.java,0,0.0,0,15min,15.0,21,685.5
+fresco,/main/java/com/facebook/imagepipeline/image/HasImageMetadata.java,0,0.0,0,0,0.0,4,116.4
+fresco,/main/java/com/facebook/imagepipeline/request/HasImageRequest.java,0,0.0,0,0,0.0,4,116.4
+fresco,/main/java/com/facebook/fresco/vito/core/Hierarcher.java,0,0.0,0,0,0.0,4,58.2
+fresco,/main/java/com/facebook/fresco/vito/core/HierarcherImpl.java,0,0.0,0,1h 55min,115.0,48,1172.1
+fresco,/main/java/com/facebook/imagepipeline/bitmaps/HoneycombBitmapCreator.java,0,0.0,0,17min 30s,17.5,17,685.5
+fresco,/main/java/com/facebook/imagepipeline/bitmaps/HoneycombBitmapFactory.java,0,0.0,0,37min 30s,37.5,18,561.0
+fresco,/main/java/com/facebook/imagepipeline/cache/ImageCacheStatsTracker.java,0,0.0,0,0,0.0,15,436.5
+fresco,/main/java/com/facebook/imagepipeline/decoder/ImageDecoder.java,0,0.0,0,0,0.0,5,116.4
+fresco,/main/java/com/facebook/imagepipeline/decoder/ImageDecoderConfig.java,0,0.0,0,0,0.0,32,1013.7
+fresco,/main/java/com/facebook/samples/comparison/urlsfetcher/ImageFormat.java,0,0.0,0,17min 30s,17.5,11,386.4
+fresco,/main/java/com/facebook/imageformat/ImageFormat.java,0,0.0,0,7min 30s,7.5,15,349.2
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/color/ImageFormatColorFragment.java,0,0.0,0,7min 30s,7.5,20,743.7
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/keyframes/ImageFormatKeyframesFragment.java,0,0.0,0,7min 30s,7.5,25,801.9
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/override/ImageFormatOverrideExample.java,0,0.0,0,0,0.0,19,685.5
+fresco,/main/java/com/facebook/fresco/samples/showcase/imageformat/webp/ImageFormatWebpFragment.java,0,0.0,0,7min 30s,7.5,19,685.5
+fresco,/main/java/com/facebook/imagepipeline/image/ImageInfo.java,0,0.0,0,0,0.0,3,29.1
+fresco,/main/java/com/facebook/fresco/vito/listener/ImageListener.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/drawee/debug/listener/ImageLoadingTimeListener.java,0,0.0,0,0,0.0,3,87.3
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImageLoadStatus.java,0,0.0,0,0,0.0,11,291.0
+fresco,/main/java/com/facebook/imageutils/ImageMetaData.java,0,0.0,0,0,0.0,13,291.0
+fresco,/main/java/com/facebook/fresco/vito/options/ImageOptions.java,0,0.0,0,1h 23min,83.0,254,5611.5
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImageOrigin.java,0,0.0,0,0,0.0,8,203.7
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImageOriginListener.java,0,0.0,0,0,0.0,2,29.1
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImageOriginRequestListener.java,0,0.0,0,7min 30s,7.5,11,261.9
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImageOriginUtils.java,0,0.0,12,4h,240.0,14,569.1
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/internal/ImagePerfControllerListener.java,0,0.0,0,7min 30s,7.5,40,1026.6
+fresco,/test/java/com/facebook/drawee/backends/pipeline/info/internal/ImagePerfControllerListenerTest.java,0,0.0,0,45min,45.0,36,1217.4
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImagePerfDataListener.java,0,0.0,0,0,0.0,6,174.6
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/internal/ImagePerfImageOriginListener.java,0,0.0,0,0,0.0,11,232.8
+fresco,/test/java/com/facebook/drawee/backends/pipeline/info/internal/ImagePerfImageOriginListenerTest.java,0,0.0,0,0,0.0,15,349.2
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImagePerfMonitor.java,0,0.0,0,47min 30s,47.5,56,1222.2
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/internal/ImagePerfRequestListener.java,0,0.0,0,7min 30s,7.5,25,552.9
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImagePerfState.java,0,0.0,0,15min,15.0,152,3492.0
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/ImagePerfUtils.java,0,0.0,7,2h 20min,140.0,11,481.8
+fresco,/test/java/com/facebook/imagepipeline/core/ImagePipelineConfigTest.java,0,0.0,0,0,0.0,27,552.9
+fresco,/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java,0,0.0,0,15min,15.0,114,3013.5
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/ImagePipelineNotificationFragment.java,0,0.0,0,7min 30s,7.5,30,698.4
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/ImagePipelineQualifiedResourceFragment.java,0,0.0,0,0,0.0,19,714.6
+fresco,/main/java/com/facebook/samples/comparison/urlsfetcher/ImageSize.java,0,0.0,0,7min 30s,7.5,7,299.1
+fresco,/main/java/com/facebook/imagepipeline/transcoder/ImageTranscoder.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/imagepipeline/transcoder/ImageTranscoderFactory.java,0,0.0,0,0,0.0,3,58.2
+fresco,/main/java/com/facebook/imagepipeline/core/ImageTranscoderType.java,0,0.0,0,0,0.0,4,87.3
+fresco,/main/java/com/facebook/samples/comparison/urlsfetcher/ImageUrlsRequest.java,0,0.0,0,0,0.0,14,320.1
+fresco,/main/java/com/facebook/samples/comparison/urlsfetcher/ImageUrlsRequestBuilder.java,0,0.0,0,0,0.0,12,291.0
+fresco,/main/java/com/facebook/common/internal/ImmutableList.java,0,0.0,0,0,0.0,20,839.1
+fresco,/main/java/com/facebook/imagepipeline/image/ImmutableQualityInfo.java,0,0.0,0,27min 30s,27.5,34,881.1
+fresco,/main/java/com/facebook/common/internal/ImmutableSet.java,0,0.0,0,0,0.0,18,839.1
+fresco,/main/java/com/facebook/imagepipeline/filter/InPlaceRoundFilter.java,0,0.0,0,40min,40.0,6,365.4
+fresco,/main/java/com/facebook/samples/scrollperf/instrumentation/Instrumented.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/samples/comparison/instrumentation/Instrumented.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/samples/comparison/instrumentation/InstrumentedImageView.java,0,0.0,0,17min 30s,17.5,19,743.7
+fresco,/main/java/com/facebook/imagepipeline/cache/InstrumentedMemoryCache.java,0,0.0,0,0,0.0,40,1341.9
+fresco,/main/java/com/facebook/samples/comparison/instrumentation/InstrumentedNetworkImageView.java,0,0.0,0,7min 30s,7.5,15,378.3
+fresco,/main/java/com/facebook/imagepipeline/producers/InternalProducerListener.java,0,0.0,0,0,0.0,56,2035.5
+fresco,/main/java/com/facebook/imagepipeline/producers/InternalRequestListener.java,0,0.0,0,7min 30s,7.5,26,831.0
+fresco,/main/java/com/facebook/imagepipeline/memory/IntPair.java,0,0.0,0,17min 30s,17.5,22,714.6
+fresco,/main/java/com/facebook/common/internal/Ints.java,0,0.0,0,0,0.0,5,336.3
+fresco,/main/java/com/facebook/imagepipeline/postprocessors/IterativeBoxBlurPostProcessor.java,0,0.0,0,0,0.0,20,465.6
+fresco,/main/java/com/facebook/imagepipeline/platform/KitKatPurgeableDecoder.java,1,0.0,0,30min,30.0,17,839.1
+fresco,/main/java/com/facebook/common/streams/LimitedInputStream.java,0,0.0,0,20min,20.0,45,1823.7
+fresco,/test/java/com/facebook/imagepipeline/datasource/ListDataSourceTest.java,0,0.0,0,15min,15.0,82,2032.2
+fresco,/main/java/com/facebook/common/activitylistener/ListenableActivity.java,0,0.0,0,0,0.0,3,87.3
+fresco,/main/java/com/facebook/samples/animation2/local/LocalDrawableAnimationBackend.java,0,0.0,0,0,0.0,94,1891.5
+fresco,/main/java/com/facebook/imagepipeline/producers/LocalExifThumbnailProducer.java,0,0.0,0,1h 2min,62.0,55,1807.5
+fresco,/main/java/com/facebook/imagepipeline/producers/LocalFetchProducer.java,0,0.0,0,35min,35.0,31,669.3
+fresco,/main/java/com/facebook/imagepipeline/producers/LocalFileFetchProducer.java,0,0.0,0,7min 30s,7.5,19,963.6
+fresco,/main/java/com/facebook/samples/scrollperf/data/impl/LocalResourceSimpleAdapter.java,0,0.0,0,0,0.0,29,764.7
+fresco,/androidTest/java/com/facebook/samples/scrollperf/data/impl/LocalResourceSimpleAdapterTest.java,0,0.0,0,0,0.0,16,722.7
+fresco,/main/java/com/facebook/imagepipeline/producers/LocalVideoThumbnailProducer.java,0,0.0,0,1h 50min,110.0,32,852.0
+fresco,/main/java/com/facebook/fresco/samples/showcase/misc/LogcatImagePerfDataListener.java,0,0.0,0,0,0.0,10,203.7
+fresco,/main/java/com/facebook/common/logging/LoggingDelegate.java,0,0.0,0,0,0.0,5,29.1
+fresco,/main/java/com/facebook/imagepipeline/memory/LruBitmapPool.java,0,0.0,0,17min 30s,17.5,34,1034.7
+fresco,/test/java/com/facebook/imagepipeline/memory/LruBitmapPoolTest.java,0,0.0,0,0,0.0,21,685.5
+fresco,/main/java/com/facebook/imagepipeline/memory/LruBucketsPoolBackend.java,0,0.0,0,0,0.0,23,494.7
+fresco,/main/java/com/facebook/samples/scrollperf/MainActivity.java,0,0.0,0,0,0.0,16,627.3
+fresco,/main/java/com/facebook/samples/zoomableapp/MainActivity.java,0,0.0,0,0,0.0,27,640.2
+fresco,/main/java/com/facebook/samples/animation2/MediaControlFragment.java,0,0.0,0,7min 30s,7.5,18,590.1
+fresco,/main/java/com/facebook/imagepipeline/cache/MemoryCache.java,0,0.0,0,0,0.0,12,291.0
+fresco,/main/java/com/facebook/imagepipeline/cache/MemoryCacheParams.java,0,0.0,0,15min,15.0,18,1490.7
+fresco,/main/java/com/facebook/imagepipeline/cache/MemoryCacheTracker.java,0,0.0,0,0,0.0,8,232.8
+fresco,/main/java/com/facebook/imagepipeline/memory/MemoryChunkPool.java,0,0.0,0,25min,25.0,29,976.5
+fresco,/main/java/com/facebook/imagepipeline/core/MemoryChunkType.java,0,0.0,0,0,0.0,5,116.4
+fresco,/main/java/com/facebook/imagepipeline/memory/MemoryPooledByteBufferFactory.java,0,0.0,0,40min,40.0,38,1122.0
+fresco,/main/java/com/facebook/imagepipeline/memory/MemoryPooledByteBufferOutputStream.java,0,0.0,0,10min,10.0,21,780.9
+fresco,/main/java/com/facebook/common/memory/MemoryTrimmable.java,0,0.0,0,0,0.0,3,58.2
+fresco,/main/java/com/facebook/common/memory/MemoryTrimmableRegistry.java,0,0.0,0,0,0.0,4,87.3
+fresco,/test/java/org/mockito/configuration/MockitoConfiguration.java,0,0.0,0,0,0.0,25,1445.4
+fresco,/main/java/com/facebook/common/time/MonotonicClock.java,0,0.0,0,0,0.0,2,29.1
+fresco,/main/java/com/facebook/animated/giflite/draw/MovieDrawer.java,0,0.0,0,0,0.0,13,444.6
+fresco,/main/java/com/facebook/animated/giflite/draw/MovieScaleHolder.java,2,0.0,0,27min 30s,27.5,33,910.2
+fresco,/main/java/com/facebook/cache/common/MultiCacheKey.java,0,0.0,0,30min,30.0,35,1130.1
+fresco,/main/java/com/facebook/samples/zoomable/MultiGestureListener.java,0,0.0,0,1h 20min,80.0,53,1251.3
+fresco,/main/java/com/facebook/imagepipeline/transcoder/MultiImageTranscoderFactory.java,0,0.0,2,1h,60.0,28,669.3
+fresco,/main/java/com/facebook/samples/zoomable/MultiZoomableControllerListener.java,0,0.0,0,0,0.0,23,1021.8
+fresco,/main/java/com/facebook/samples/zoomableapp/MyPagerAdapter.java,0,0.0,0,10min,10.0,43,1143.0
+fresco,/main/java/com/facebook/imagepipeline/core/NativeCodeSetup.java,0,0.0,0,0,0.0,4,87.3
+fresco,/main/java/com/facebook/imagepipeline/nativecode/NativeJpegTranscoder.java,0,0.0,0,22min 30s,22.5,48,1595.7
+fresco,/main/java/com/facebook/imagepipeline/nativecode/NativeJpegTranscoderFactory.java,0,0.0,0,10min,10.0,14,444.6
+fresco,/main/java/com/facebook/imagepipeline/memory/NativeMemoryChunkPool.java,0,0.0,0,7min 30s,7.5,11,510.9
+fresco,/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java,1,0.0,0,1h 7min,67.0,61,1674.9
+fresco,/main/java/com/facebook/fresco/animation/bitmap/cache/NoOpCache.java,0,0.0,0,0,0.0,29,947.4
+fresco,/main/java/com/facebook/imagepipeline/debug/NoOpDebugImageTracker.java,0,0.0,0,0,0.0,7,452.7
+fresco,/main/java/com/facebook/fresco/vito/core/debug/NoOpDebugOverlayFactory.java,0,0.0,0,0,0.0,9,452.7
+fresco,/main/java/com/facebook/fresco/vito/core/NopDrawable.java,0,0.0,0,7min 30s,7.5,17,590.1
+fresco,/main/java/com/facebook/imagepipeline/producers/NullProducer.java,0,0.0,0,0,0.0,5,365.4
+fresco,/test/java/com/facebook/imagepipeline/producers/NullProducerTest.java,0,0.0,0,7min 30s,7.5,19,1088.1
+fresco,/main/java/com/facebook/common/internal/Objects.java,1,0.0,0,0,0.0,120,3096.0
+fresco,/main/java/com/facebook/imagepipeline/memory/OOMSoftReferenceBucket.java,0,0.0,0,0,0.0,14,291.0
+fresco,/main/java/com/facebook/imagepipeline/platform/OreoDecoder.java,0,0.0,0,0,0.0,13,569.1
+fresco,/main/java/com/facebook/drawee/drawable/OrientedDrawable.java,0,0.0,0,57min 30s,57.5,28,640.2
+fresco,/main/java/com/facebook/imagepipeline/image/OriginalEncodedImageInfo.java,0,0.0,0,7min 30s,7.5,30,640.2
+fresco,/main/java/com/facebook/datasource/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/common/references/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/common/memory/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/common/internal/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/common/disk/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/common/logging/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/animated/base/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/animated/impl/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/image/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/animated/util/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/drawee/backends/volley/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/drawee/backends/pipeline/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/memory/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/cache/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/datasource/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/core/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/request/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/decoder/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/listener/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/producers/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/backends/okhttp3/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/drawee/view/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/drawee/generic/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/drawee/interfaces/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/drawee/drawable/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/drawee/controller/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/cache/disk/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/cache/common/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/animated/factory/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/common/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/drawable/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/imagepipeline/bitmaps/package-info.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/fresco/samples/showcase/imagepipeline/PartialRequestFragment.java,0,0.0,0,15min,15.0,26,860.1
+fresco,/main/java/com/facebook/samples/comparison/adapters/PicassoAdapter.java,0,0.0,0,0,0.0,14,444.6
+fresco,/main/java/com/facebook/samples/comparison/holders/PicassoHolder.java,0,0.0,0,0,0.0,11,203.7
+fresco,/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java,0,0.0,0,2h 45min,165.0,135,3860.7
+fresco,/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java,0,0.0,0,0,0.0,26,582.0
+fresco,/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerFactory.java,0,0.0,0,15min,15.0,31,785.7
+fresco,/main/java/com/facebook/imagepipeline/platform/PlatformDecoder.java,0,0.0,0,0,0.0,2,58.2
+fresco,/main/java/com/facebook/common/memory/Pool.java,0,0.0,0,0,0.0,3,29.1
+fresco,/main/java/com/facebook/imagepipeline/memory/PoolBackend.java,0,0.0,0,0,0.0,5,145.5
+fresco,/main/java/com/facebook/imagepipeline/memory/PoolConfig.java,0,0.0,0,30min,30.0,156,3603.6
+fresco,/test/java/com/facebook/common/memory/PooledByteArrayBufferedInputStreamTest.java,0,0.0,0,0,0.0,66,2903.7
+fresco,/main/java/com/facebook/common/memory/PooledByteBuffer.java,0,0.0,0,0,0.0,12,452.7
+fresco,/main/java/com/facebook/common/memory/PooledByteBufferFactory.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/common/memory/PooledByteBufferInputStream.java,0,0.0,0,30min,30.0,20,619.2
+fresco,/main/java/com/facebook/common/memory/PooledByteBufferOutputStream.java,0,0.0,0,0,0.0,5,365.4
+fresco,/main/java/com/facebook/common/memory/PooledByteStreams.java,0,0.0,0,30min,30.0,12,415.5
+fresco,/test/java/com/facebook/common/memory/PooledByteStreamsTest.java,0,0.0,0,0,0.0,47,1662.0
+fresco,/main/java/com/facebook/imagepipeline/memory/PoolParams.java,2,0.0,0,22min 30s,22.5,21,1827.0
+fresco,/main/java/com/facebook/imagepipeline/memory/PoolStats.java,5,0.0,0,7min 30s,7.5,33,1694.4
+fresco,/main/java/com/facebook/imagepipeline/producers/PostprocessedBitmapMemoryCacheProducer.java,0,0.0,0,45min,45.0,35,814.8
+fresco,/main/java/com/facebook/imagepipeline/request/Postprocessor.java,0,0.0,0,0,0.0,5,87.3
+fresco,/main/java/com/facebook/common/internal/Predicate.java,0,0.0,0,0,0.0,5,145.5
+fresco,/main/java/com/facebook/imagepipeline/platform/PreverificationHelper.java,0,0.0,0,0,0.0,9,510.9
+fresco,/main/java/com/facebook/imagepipeline/common/Priority.java,0,0.0,0,40min,40.0,2,58.2
+fresco,/main/java/com/facebook/imagepipeline/producers/Producer.java,0,0.0,0,0,0.0,3,58.2
+fresco,/main/java/com/facebook/imagepipeline/producers/ProducerContext.java,0,0.0,0,0,0.0,16,203.7
+fresco,/main/java/com/facebook/imagepipeline/producers/ProducerContextCallbacks.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/imagepipeline/producers/ProducerListener.java,0,0.0,0,0,0.0,9,232.8
+fresco,/main/java/com/facebook/imagepipeline/producers/ProducerListener2.java,0,0.0,0,0,0.0,14,232.8
+fresco,/main/java/com/facebook/drawee/drawable/ProgressBarDrawable.java,0,0.0,0,25min,25.0,63,1571.4
+fresco,/main/java/com/facebook/imagepipeline/decoder/ProgressiveJpegConfig.java,0,0.0,0,0,0.0,5,145.5
+fresco,/test/java/com/facebook/imagepipeline/decoder/ProgressiveJpegParserTest.java,0,0.0,0,15min,15.0,48,1632.9
+fresco,/main/java/com/facebook/imagepipeline/producers/QualifiedResourceFetchProducer.java,0,0.0,0,7min 30s,7.5,15,349.2
+fresco,/main/java/com/facebook/imagepipeline/image/QualityInfo.java,0,0.0,0,0,0.0,5,116.4
+fresco,/main/java/com/facebook/imagepipeline/backends/volley/RawRequest.java,0,0.0,0,0,0.0,16,378.3
+fresco,/main/java/com/facebook/common/time/RealtimeSinceBootClock.java,0,0.0,0,0,0.0,11,606.3
+fresco,/main/java/com/facebook/imagepipeline/producers/RemoveImageTransformMetaDataProducer.java,0,0.0,0,0,0.0,24,743.7
+fresco,/test/java/com/facebook/imagepipeline/filter/RenderScriptBlurFilterTest.java,0,0.0,0,0,0.0,21,465.6
+fresco,/main/java/com/facebook/imagepipeline/request/RepeatedPostprocessor.java,0,0.0,0,0,0.0,2,58.2
+fresco,/main/java/com/facebook/imagepipeline/request/RepeatedPostprocessorRunner.java,0,0.0,0,0,0.0,3,58.2
+fresco,/main/java/com/facebook/imagepipeline/listener/RequestListener.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/imagepipeline/listener/RequestListener2.java,0,0.0,0,0,0.0,2,29.1
+fresco,/main/java/com/facebook/imagepipeline/listener/RequestLoggingListener.java,0,0.0,0,10min,10.0,55,1603.8
+fresco,/test/java/com/facebook/imagepipeline/common/ResizeOptionsTest.java,0,0.0,0,0,0.0,29,1138.2
+fresco,/main/java/com/facebook/common/references/ResourceReleaser.java,0,0.0,0,0,0.0,2,58.2
+fresco,/main/java/com/facebook/fresco/samples/showcase/drawee/RetainingDataSourceSupplierFragment.java,0,0.0,0,0,0.0,35,785.7
+fresco,/main/java/com/facebook/drawee/components/RetryManager.java,0,0.0,0,0,0.0,28,611.1
+fresco,/main/java/com/facebook/drawee/generic/RootDrawable.java,0,0.0,0,17min 30s,17.5,27,582.0
+fresco,/main/java/com/facebook/imagepipeline/common/RotationOptions.java,0,0.0,0,27min 30s,27.5,48,1259.4
+fresco,/main/java/com/facebook/imagepipeline/postprocessors/RoundAsCirclePostprocessor.java,0,0.0,0,0,0.0,18,378.3
+fresco,/main/java/com/facebook/drawee/drawable/Rounded.java,0,0.0,0,0,0.0,31,843.9
+fresco,/test/java/com/facebook/drawee/drawable/RoundedColorDrawableTest.java,0,0.0,0,15min,15.0,52,1047.6
+fresco,/main/java/com/facebook/imagepipeline/postprocessors/RoundedCornersPostprocessor.java,0,0.0,0,0,0.0,13,540.0
+fresco,/main/java/com/facebook/fresco/vito/options/RoundingOptions.java,0,0.0,0,27min 30s,27.5,59,1932.0
+fresco,/main/java/com/facebook/drawee/generic/RoundingParams.java,0,0.0,0,2h 17min,137.0,60,1762.2
+fresco,/test/java/com/facebook/drawee/generic/RoundingParamsTest.java,0,0.0,0,15min,15.0,39,785.7
+fresco,/main/java/com/facebook/fresco/vito/drawable/RoundingUtils.java,0,0.0,0,2h 30min,150.0,65,2164.8
+fresco,/main/java/com/facebook/samples/comparison/configs/glide/SampleGlideModule.java,0,0.0,0,0,0.0,14,569.1
+fresco,/main/java/com/facebook/fresco/samples/showcase/postprocessor/ScalingBlurPostprocessor.java,0,0.0,0,10min,10.0,13,291.0
+fresco,/test/java/com/facebook/cache/disk/ScoreBasedEvictionComparatorSupplierTest.java,0,0.0,0,0,0.0,29,984.6
+fresco,/main/java/com/facebook/samples/scrollperf/ScrollPerfApplication.java,0,0.0,0,7min 30s,7.5,12,635.4
+fresco,/main/java/com/facebook/common/executors/SerialExecutorService.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/cache/disk/SettableCacheEvent.java,0,0.0,0,17min 30s,17.5,85,2082.3
+fresco,/test/java/com/facebook/cache/disk/SettableCacheEventTest.java,0,0.0,0,0,0.0,20,685.5
+fresco,/test/java/com/facebook/drawee/drawable/SettableDrawableTest.java,0,0.0,0,15min,15.0,26,611.1
+fresco,/main/java/com/facebook/drawee/interfaces/SettableDraweeHierarchy.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/common/references/SharedReference.java,0,0.0,0,20min,20.0,21,772.8
+fresco,/main/java/com/facebook/fresco/samples/showcase/ShowcaseFragment.java,0,0.0,0,0,0.0,2,29.1
+fresco,/androidTest/java/com/facebook/fresco/samples/showcase/ShowcaseRunTest.java,1,0.0,0,17min 30s,17.5,27,889.2
+fresco,/main/java/com/facebook/imagepipeline/bitmaps/SimpleBitmapReleaser.java,0,0.0,0,0,0.0,15,818.1
+fresco,/main/java/com/facebook/cache/common/SimpleCacheKey.java,0,0.0,0,20min,20.0,26,523.8
+fresco,/main/java/com/facebook/samples/animation2/color/SimpleColorFragment.java,0,0.0,0,0,0.0,13,598.2
+fresco,/main/java/com/facebook/drawee/interfaces/SimpleDraweeControllerBuilder.java,0,0.0,0,0,0.0,10,291.0
+fresco,/main/java/com/facebook/drawee/span/SimpleDraweeSpanTextView.java,0,0.0,0,0,0.0,32,727.5
+fresco,/main/java/com/facebook/imagepipeline/transcoder/SimpleImageTranscoderFactory.java,0,0.0,0,0,0.0,9,203.7
+fresco,/main/java/com/facebook/fresco/samples/showcase/postprocessor/SlowGreyScalePostprocessor.java,0,0.0,0,0,0.0,9,635.4
+fresco,/main/java/com/facebook/imagepipeline/common/SourceUriType.java,0,0.0,0,0,0.0,12,320.1
+fresco,/main/java/com/facebook/imagepipeline/cache/StagingArea.java,2,0.0,0,1h 40min,100.0,25,1013.7
+fresco,/test/java/com/facebook/imagepipeline/cache/StagingAreaTest.java,0,0.0,0,0,0.0,54,1566.6
+fresco,/main/java/com/facebook/samples/animation2/StandaloneActivity.java,0,0.0,0,0,0.0,9,481.8
+fresco,/main/java/com/facebook/imagepipeline/producers/StatefulProducerRunnable.java,0,0.0,0,0,0.0,29,698.4
+fresco,/main/java/com/facebook/common/internal/Supplier.java,0,0.0,0,0,0.0,2,0.0
+fresco,/main/java/com/facebook/imagepipeline/producers/SwallowResultProducer.java,0,0.0,0,0,0.0,11,232.8
+fresco,/main/java/com/facebook/common/time/SystemClock.java,0,0.0,0,0,0.0,14,664.5
+fresco,/main/java/com/facebook/common/streams/TailAppendingInputStream.java,0,0.0,0,40min,40.0,43,1641.0
+fresco,/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducerQueue.java,0,0.0,0,0,0.0,10,291.0
+fresco,/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducerQueueImpl.java,0,0.0,0,0,0.0,26,648.3
+fresco,/main/java/com/facebook/imagepipeline/producers/ThumbnailBranchProducer.java,0,0.0,0,30min,30.0,39,814.8
+fresco,/main/java/com/facebook/imagepipeline/producers/ThumbnailProducer.java,0,0.0,0,0,0.0,1,29.1
+fresco,/test/java/com/facebook/imagepipeline/producers/ThumbnailSizeCheckerTest.java,0,0.0,0,0,0.0,91,2908.5
+fresco,/main/java/com/facebook/fresco/samples/showcase/common/ToggleAnimationClickListener.java,0,0.0,0,20min,20.0,9,203.7
+fresco,/main/java/com/facebook/imagepipeline/common/TooManyBitmapsException.java,0,0.0,0,0,0.0,9,452.7
+fresco,/main/java/com/facebook/imagepipeline/transcoder/TranscodeStatus.java,0,0.0,0,0,0.0,2,29.1
+fresco,/main/java/com/facebook/drawee/drawable/TransformAwareDrawable.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/drawee/drawable/TransformCallback.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/samples/gestures/TransformGestureDetector.java,0,0.0,0,40min,40.0,42,1574.7
+fresco,/test/java/com/facebook/samples/gestures/TransformGestureDetectorTest.java,0,0.0,0,15min,15.0,46,931.2
+fresco,/test/java/com/facebook/common/util/TriStateTest.java,0,0.0,0,0,0.0,30,889.2
+fresco,/main/java/com/facebook/imagepipeline/testing/TrivialBufferPooledByteBuffer.java,0,0.0,0,0,0.0,31,582.0
+fresco,/main/java/com/facebook/imagepipeline/testing/TrivialPooledByteBuffer.java,0,0.0,0,0,0.0,37,698.4
+fresco,/main/java/com/facebook/samples/comparison/adapters/UilAdapter.java,0,0.0,0,0,0.0,13,291.0
+fresco,/main/java/com/facebook/samples/comparison/holders/UilHolder.java,0,0.0,0,0,0.0,10,357.3
+fresco,/main/java/com/facebook/common/executors/UiThreadImmediateExecutorService.java,0,0.0,0,7min 30s,7.5,16,818.1
+fresco,/main/java/com/facebook/imagepipeline/cache/ValueDescriptor.java,0,0.0,0,0,0.0,3,87.3
+fresco,/main/java/com/facebook/drawee/drawable/VisibilityAwareDrawable.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/drawee/drawable/VisibilityCallback.java,0,0.0,0,0,0.0,1,29.1
+fresco,/main/java/com/facebook/drawee/backends/pipeline/info/VisibilityState.java,0,0.0,0,0,0.0,6,145.5
+fresco,/main/java/com/facebook/common/internal/VisibleForTesting.java,0,0.0,0,0,0.0,null,null
+fresco,/main/java/com/facebook/fresco/vito/drawable/VitoDrawableFactory.java,0,0.0,0,0,0.0,6,145.5
+fresco,/main/java/com/facebook/fresco/samples/showcase/vito/VitoViewSimpleFragment.java,0,0.0,0,0,0.0,20,714.6
+fresco,/main/java/com/facebook/samples/comparison/adapters/VolleyAdapter.java,0,0.0,0,0,0.0,14,320.1
+fresco,/main/java/com/facebook/samples/comparison/adapters/VolleyDraweeAdapter.java,0,0.0,0,0,0.0,17,598.2
+fresco,/main/java/com/facebook/drawee/backends/volley/VolleyDraweeController.java,0,0.0,0,0,0.0,43,1238.4
+fresco,/main/java/com/facebook/drawee/backends/volley/VolleyDraweeControllerBuilder.java,0,0.0,0,0,0.0,23,523.8
+fresco,/main/java/com/facebook/drawee/backends/volley/VolleyDraweeControllerBuilderSupplier.java,0,0.0,0,0,0.0,15,320.1
+fresco,/main/java/com/facebook/drawee/backends/volley/VolleyDraweeControllerFactory.java,0,0.0,0,0,0.0,14,349.2
+fresco,/main/java/com/facebook/samples/comparison/holders/VolleyDraweeHolder.java,0,0.0,0,0,0.0,11,635.4
+fresco,/main/java/com/facebook/samples/comparison/holders/VolleyHolder.java,0,0.0,0,0,0.0,10,357.3
+fresco,/main/java/com/facebook/samples/comparison/configs/volley/VolleyMemoryCache.java,0,0.0,0,0,0.0,16,320.1
+fresco,/main/java/com/facebook/imagepipeline/backends/volley/VolleyNetworkFetcher.java,0,0.0,0,7min 30s,7.5,41,968.4
+fresco,/main/java/com/facebook/fresco/samples/showcase/postprocessor/WatermarkPostprocessor.java,0,0.0,0,0,0.0,14,320.1
+fresco,/main/java/com/facebook/common/webp/WebpBitmapFactory.java,0,0.0,0,0,0.0,14,407.4
+fresco,/main/java/com/facebook/imagepipeline/nativecode/WebpTranscoder.java,0,0.0,0,0,0.0,8,232.8
+fresco,/main/java/com/facebook/imagepipeline/nativecode/WebpTranscoderImpl.java,0,0.0,0,40min,40.0,25,1291.8
+fresco,/main/java/com/facebook/fresco/samples/showcase/misc/WelcomeFragment.java,0,0.0,0,7min 30s,7.5,22,743.7
+fresco,/main/java/com/facebook/cache/common/WriterCallback.java,0,0.0,0,0,0.0,6,145.5
+fresco,/main/java/com/facebook/imagepipeline/filter/XferRoundFilter.java,0,0.0,0,7min 30s,7.5,12,481.8
+fresco,/main/java/com/facebook/samples/zoomableapp/ZoomableApplication.java,0,0.0,3,20min,20.0,7,423.6
+fresco,/main/java/com/facebook/samples/zoomable/ZoomableController.java,0,0.0,0,0,0.0,15,436.5
+fresco,/main/java/com/facebook/samples/zoomable/ZoomableDraweeViewSupport.java,0,0.0,0,7min 30s,7.5,28,860.1

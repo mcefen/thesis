@@ -1,0 +1,656 @@
+ksql,/main/java/io/confluent/ksql/util/HandlerMaps.java,34,370.0,5,57min 30s,57.5,205,6120.9
+ksql,/main/java/io/confluent/ksql/cli/console/Console.java,10,117.0,6,4h 32min,272.0,289,7592.1
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/StreamedQueryResource.java,5,100.0,0,1h 27min,87.0,53,1558.5
+ksql,/main/java/io/confluent/ksql/structured/SchemaKStream.java,7,95.0,4,4h 30min,270.0,244,7653.6
+ksql,/main/java/io/confluent/ksql/planner/plan/DataSourceNode.java,5,84.0,0,2h 37min,157.0,99,2871.3
+ksql,/main/java/io/confluent/ksql/function/AggregateFunctionFactory.java,4,80.0,0,7min 30s,7.5,41,814.8
+ksql,/main/java/io/confluent/ksql/cli/Cli.java,5,76.0,0,1h,60.0,163,5197.8
+ksql,/main/java/io/confluent/ksql/planner/plan/JoinNode.java,5,72.0,8,3h 57min,237.0,206,6137.1
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/PrintPublisher.java,3,65.0,0,37min 30s,37.5,61,1434.0
+ksql,/main/java/io/confluent/ksql/datagen/RowGenerator.java,5,65.0,0,1h 32min,92.0,34,1400.1
+ksql,/main/java/io/confluent/ksql/function/UdfCompiler.java,4,65.0,0,55min,55.0,76,2472.0
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/WSQueryEndpoint.java,5,62.0,0,1h 45min,105.0,122,3906.0
+ksql,/main/java/io/confluent/ksql/analyzer/Analysis.java,3,60.0,0,15min,15.0,119,3196.2
+ksql,/main/java/io/confluent/ksql/analyzer/ExpressionAnalyzer.java,3,60.0,0,0,0.0,71,2040.3
+ksql,/main/java/io/confluent/ksql/metastore/MetaStore.java,3,60.0,0,0,0.0,29,698.4
+ksql,/main/java/io/confluent/ksql/structured/SchemaKTable.java,3,60.0,4,1h 2min,62.0,70,3044.4
+ksql,/main/java/io/confluent/ksql/datagen/DataGen.java,6,57.0,0,1h 47min,107.0,172,5335.2
+ksql,/main/java/io/confluent/ksql/parser/SqlFormatter.java,5,57.0,0,47min 30s,47.5,192,5099.1
+ksql,/main/java/io/confluent/ksql/parser/tree/AstVisitor.java,2,55.0,0,15min,15.0,328,7153.8
+ksql,/main/java/io/confluent/ksql/rest/server/KsqlRestApplication.java,4,55.0,0,2h 10min,130.0,106,3141.3
+ksql,/main/java/io/confluent/ksql/rest/client/KsqlRestClient.java,5,53.0,0,3h 22min,202.0,159,4284.3
+ksql,/main/java/io/confluent/ksql/parser/tree/DefaultAstVisitor.java,1,50.0,0,15min,15.0,267,6077.1
+ksql,/main/java/io/confluent/ksql/util/ExecutorUtil.java,3,50.0,0,10min,10.0,46,1603.8
+ksql,/main/java/io/confluent/ksql/function/FunctionRegistry.java,3,50.0,0,0,0.0,6,87.3
+ksql,/main/java/io/confluent/ksql/codegen/SqlToJavaVisitor.java,8,50.0,23,1M/d 2h,600.0,229,6660.9
+ksql,/main/java/io/confluent/ksql/parser/AstBuilder.java,4,49.0,15,1M/d 1h,540.0,519,13462.2
+ksql,/main/java/io/confluent/ksql/codegen/CodeGenRunner.java,3,48.0,0,45min,45.0,153,3603.6
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/TopicStream.java,4,47.0,0,1h 17min,77.0,102,3917.4
+ksql,/main/java/io/confluent/ksql/tools/printmetrics/PrintMetrics.java,5,45.0,1,35min,35.0,48,1919.1
+ksql,/main/java/io/confluent/ksql/rest/server/KsqlServerMain.java,4,44.0,0,45min,45.0,39,939.3
+ksql,/main/java/io/confluent/ksql/util/KsqlConfig.java,4,42.0,0,1h 30min,90.0,272,6455.4
+ksql,/main/java/io/confluent/ksql/planner/plan/AggregateNode.java,2,40.0,0,1h 17min,77.0,154,5301.3
+ksql,/main/java/io/confluent/ksql/rest/server/CommandTopic.java,3,40.0,1,20min,20.0,45,1113.9
+ksql,/main/java/io/confluent/ksql/rest/server/computation/ConfigTopicKey.java,2,40.0,0,20min,20.0,26,897.3
+ksql,/main/java/io/confluent/ksql/rest/server/Executable.java,2,40.0,0,0,0.0,11,320.1
+ksql,/main/java/io/confluent/ksql/security/ExtensionSecurityManager.java,2,40.0,0,7min 30s,7.5,24,648.3
+ksql,/main/java/io/confluent/ksql/rest/entity/FunctionDescriptionList.java,2,40.0,0,35min,35.0,41,1143.0
+ksql,/main/java/io/confluent/ksql/serde/connect/KsqlConnectSerializer.java,3,40.0,0,20min,20.0,25,706.5
+ksql,/main/java/io/confluent/ksql/serde/delimited/KsqlDelimitedSerializer.java,3,40.0,0,20min,20.0,44,1333.8
+ksql,/main/java/io/confluent/ksql/function/KsqlFunction.java,2,40.0,0,1h,60.0,59,1770.3
+ksql,/main/java/io/confluent/ksql/serde/json/KsqlJsonSerializer.java,3,40.0,0,20min,20.0,29,764.7
+ksql,/main/java/io/confluent/ksql/metastore/MetaStoreImpl.java,2,40.0,0,47min 30s,47.5,159,3556.8
+ksql,/main/java/io/confluent/ksql/physical/PhysicalPlanBuilder.java,2,40.0,0,1h 57min,117.0,71,1878.6
+ksql,/main/java/io/confluent/ksql/benchmark/SerdeBenchmark.java,2,40.0,0,22min 30s,22.5,82,3012.0
+ksql,/main/java/io/confluent/ksql/rest/util/ZipUtil.java,2,40.0,1,20min,20.0,20,1059.0
+ksql,/main/java/io/confluent/ksql/parser/tree/CreateSourceProperties.java,4,35.0,0,1h 25min,85.0,146,3648.9
+ksql,/main/java/io/confluent/ksql/rest/entity/FunctionInfo.java,3,35.0,0,20min,20.0,29,793.8
+ksql,/main/java/io/confluent/ksql/rest/util/OptionsParser.java,4,35.0,0,20min,20.0,11,540.0
+ksql,/main/java/io/confluent/ksql/metrics/ConsumerCollector.java,5,34.0,0,42min 30s,42.5,85,1899.6
+ksql,/main/java/io/confluent/ksql/datagen/DataGenProducer.java,4,30.0,0,30min,30.0,34,1254.6
+ksql,/main/java/io/confluent/ksql/parser/tree/DereferenceExpression.java,1,30.0,0,50min,50.0,36,910.2
+ksql,/main/java/io/confluent/ksql/rest/server/execution/InsertValuesExecutor.java,1,30.0,0,1h 22min,82.0,65,2451.0
+ksql,/main/java/io/confluent/ksql/cli/console/JLineTerminal.java,2,30.0,0,10min,10.0,79,1695.9
+ksql,/main/java/io/confluent/ksql/parser/tree/ListProperties.java,1,30.0,2,20min,20.0,20,656.4
+ksql,/main/java/io/confluent/ksql/parser/tree/ListRegisteredTopics.java,1,30.0,0,10min,10.0,21,685.5
+ksql,/main/java/io/confluent/ksql/parser/tree/ListTopics.java,1,30.0,2,20min,20.0,21,685.5
+ksql,/main/java/io/confluent/ksql/metrics/ProducerCollector.java,3,30.0,0,15min,15.0,70,1637.7
+ksql,/main/java/io/confluent/ksql/datagen/SessionManager.java,3,30.0,0,1h 10min,70.0,88,2111.4
+ksql,/main/java/io/confluent/ksql/function/udf/string/SplitKudf.java,1,30.0,0,30min,30.0,12,693.6
+ksql,/main/java/io/confluent/ksql/structured/SqlPredicate.java,1,30.0,0,1h 30min,90.0,49,1699.2
+ksql,/main/java/io/confluent/ksql/rest/server/StandaloneExecutor.java,2,30.0,0,1h 10min,70.0,119,3154.2
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/StreamPublisher.java,1,30.0,0,20min,20.0,40,1063.8
+ksql,/main/java/io/confluent/ksql/serde/json/KsqlJsonDeserializer.java,4,26.0,8,3h 20min,200.0,63,1579.5
+ksql,/main/java/io/confluent/ksql/util/CmdLineUtil.java,3,25.0,0,30min,30.0,65,2289.3
+ksql,/main/java/io/confluent/ksql/rest/server/computation/CommandIdAssigner.java,2,25.0,0,0,0.0,73,1878.6
+ksql,/main/java/io/confluent/ksql/util/EngineProcessingLogMessageFactory.java,2,22.0,0,40min,40.0,21,934.5
+ksql,/main/java/io/confluent/ksql/rest/entity/SourceDescription.java,2,22.0,0,3h 27min,207.0,67,1870.5
+ksql,/main/java/io/confluent/ksql/analyzer/Analyzer.java,2,20.0,0,2h 10min,130.0,135,3943.2
+ksql,/main/java/io/confluent/ksql/rest/server/computation/CommandStatusFuture.java,1,20.0,0,20min,20.0,29,669.3
+ksql,/main/java/io/confluent/ksql/rest/server/computation/CommandStore.java,1,20.0,0,35min,35.0,57,1720.2
+ksql,/main/java/io/confluent/ksql/parser/tree/ComparisonExpression.java,1,20.0,17,5h,300.0,57,1749.3
+ksql,/main/java/io/confluent/ksql/serde/connect/ConnectDataTranslator.java,3,20.0,12,5h 25min,325.0,65,1733.1
+ksql,/main/java/io/confluent/ksql/parser/tree/CreateStream.java,2,20.0,4,1h 5min,65.0,33,1196.4
+ksql,/main/java/io/confluent/ksql/parser/tree/CreateTable.java,2,20.0,4,1h 5min,65.0,34,1225.5
+ksql,/main/java/io/confluent/ksql/services/DefaultServiceContext.java,1,20.0,0,0,0.0,39,756.6
+ksql,/main/java/io/confluent/ksql/parser/tree/DropStream.java,2,20.0,1,45min,45.0,31,1262.7
+ksql,/main/java/io/confluent/ksql/parser/tree/DropTable.java,2,20.0,1,45min,45.0,30,1262.7
+ksql,/main/java/io/confluent/ksql/engine/EngineContext.java,1,20.0,0,17min 30s,17.5,64,1791.3
+ksql,/main/java/io/confluent/ksql/rest/util/EntityUtil.java,1,20.0,3,1h,60.0,24,868.2
+ksql,/main/java/io/confluent/ksql/function/GeneratedAggregateFunction.java,1,20.0,0,35min,35.0,39,939.3
+ksql,/main/java/io/confluent/ksql/function/GeneratedTableAggregateFunction.java,1,20.0,0,22min 30s,22.5,18,780.9
+ksql,/main/java/io/confluent/ksql/util/GenericRowValueTypeEnforcer.java,1,20.0,0,5h 15min,315.0,54,1251.3
+ksql,/main/java/io/confluent/ksql/KsqlExecutionContext.java,1,20.0,0,0,0.0,28,648.3
+ksql,/main/java/io/confluent/ksql/parser/KsqlParser.java,1,20.0,0,20min,20.0,49,1325.7
+ksql,/main/java/io/confluent/ksql/planner/plan/KsqlStructuredDataOutputNode.java,1,20.0,0,55min,55.0,44,1333.8
+ksql,/main/java/io/confluent/ksql/cli/console/LineReader.java,1,20.0,0,0,0.0,8,232.8
+ksql,/main/java/io/confluent/ksql/parser/tree/LogicalBinaryExpression.java,1,20.0,3,30min,30.0,47,1296.6
+ksql,/main/java/io/confluent/ksql/planner/LogicalPlanner.java,1,20.0,0,32min 30s,32.5,49,1574.7
+ksql,/main/java/io/confluent/ksql/function/udf/string/MaskKeepLeftKudf.java,2,20.0,3,37min 30s,37.5,22,1080.0
+ksql,/main/java/io/confluent/ksql/function/udf/string/MaskKeepRightKudf.java,2,20.0,3,27min 30s,27.5,21,1050.9
+ksql,/main/java/io/confluent/ksql/function/udf/string/MaskLeftKudf.java,2,20.0,3,27min 30s,27.5,22,1080.0
+ksql,/main/java/io/confluent/ksql/function/udf/string/MaskRightKudf.java,2,20.0,3,27min 30s,27.5,22,1080.0
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/Output.java,1,20.0,0,10min,10.0,25,677.4
+ksql,/main/java/io/confluent/ksql/util/PersistentQueryMetadata.java,1,20.0,0,7min 30s,7.5,34,910.2
+ksql,/main/java/io/confluent/ksql/planner/plan/PlanNode.java,1,20.0,0,37min 30s,37.5,46,1180.2
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLoggerImpl.java,1,20.0,0,10min,10.0,27,523.8
+ksql,/main/java/io/confluent/ksql/rest/entity/PropertiesList.java,1,20.0,0,0,0.0,25,552.9
+ksql,/main/java/io/confluent/ksql/parser/tree/Query.java,1,20.0,0,35min,35.0,52,1288.5
+ksql,/main/java/io/confluent/ksql/rest/entity/QueryDescription.java,1,20.0,0,45min,45.0,48,1193.1
+ksql,/main/java/io/confluent/ksql/util/QueryMetadata.java,1,20.0,0,30min,30.0,71,1725.0
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/QueryStreamWriter.java,2,20.0,0,7min 30s,7.5,61,2700.0
+ksql,/main/java/io/confluent/ksql/util/QueuedQueryMetadata.java,1,20.0,0,17min 30s,17.5,30,764.7
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/RemoteServerSpecificCommand.java,1,20.0,0,27min 30s,27.5,32,822.9
+ksql,/main/java/io/confluent/ksql/parser/tree/RunScript.java,1,20.0,0,10min,10.0,20,685.5
+ksql,/main/java/io/confluent/ksql/services/SandboxedKafkaTopicClient.java,4,20.0,0,45min,45.0,43,931.2
+ksql,/main/java/io/confluent/ksql/services/SandboxedServiceContext.java,1,20.0,0,10min,10.0,36,793.8
+ksql,/main/java/io/confluent/ksql/structured/SchemaKGroupedStream.java,1,20.0,0,57min 30s,57.5,51,1076.7
+ksql,/main/java/io/confluent/ksql/schema/registry/SchemaRegistryUtil.java,1,20.0,0,20min,20.0,45,1553.7
+ksql,/main/java/io/confluent/ksql/rest/server/resources/ServerInfoResource.java,1,20.0,0,10min,10.0,24,897.3
+ksql,/main/java/io/confluent/ksql/rest/server/StandaloneExecutorFactory.java,1,20.0,0,15min,15.0,23,801.9
+ksql,/main/java/io/confluent/ksql/metastore/model/StructuredDataSource.java,1,20.0,0,22min 30s,22.5,50,989.4
+ksql,/main/java/io/confluent/ksql/serde/tls/ThreadLocalCloseable.java,1,20.0,0,10min,10.0,18,378.3
+ksql,/main/java/io/confluent/ksql/function/udf/UdfMetadata.java,1,20.0,0,35min,35.0,34,968.4
+ksql,/main/java/io/confluent/ksql/util/Version.java,2,20.0,0,0,0.0,18,780.9
+ksql,/main/java/io/confluent/ksql/serde/json/JsonSerdeUtils.java,2,18.0,0,1h 40min,100.0,27,772.8
+ksql,/main/java/io/confluent/ksql/parser/tree/BooleanLiteral.java,3,15.0,0,27min 30s,27.5,25,677.4
+ksql,/main/java/io/confluent/ksql/rest/entity/ExecutionPlan.java,2,15.0,0,20min,20.0,17,378.3
+ksql,/main/java/io/confluent/ksql/util/LimitedProxyBuilder.java,2,15.0,0,50min,50.0,101,2418.6
+ksql,/main/java/io/confluent/ksql/rest/client/RestResponse.java,2,15.0,0,40min,40.0,98,2169.6
+ksql,/main/java/io/confluent/ksql/topic/TopicProperties.java,3,15.0,0,7min 30s,7.5,82,1974.0
+ksql,/main/java/io/confluent/ksql/util/KsqlConstants.java,8,14.0,0,17min 30s,17.5,37,1143.0
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/PollingSubscription.java,1,13.0,0,7min 30s,7.5,37,997.5
+ksql,/main/java/io/confluent/ksql/function/InternalFunctionRegistry.java,1,12.0,0,32min 30s,32.5,90,1841.4
+ksql,/main/java/io/confluent/ksql/errors/ProductionExceptionHandlerUtil.java,3,12.0,0,15min,15.0,51,1699.2
+ksql,/main/java/io/confluent/ksql/util/SchemaUtil.java,2,12.0,8,4h 35min,275.0,121,2984.4
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/TopicStreamWriter.java,1,12.0,0,32min 30s,32.5,36,1217.4
+ksql,/main/java/io/confluent/ksql/function/udaf/topk/TopkKudaf.java,2,12.0,0,27min 30s,27.5,31,1101.0
+ksql,/main/java/io/confluent/ksql/function/Blacklist.java,1,10.0,0,17min 30s,17.5,19,378.3
+ksql,/main/java/io/confluent/ksql/DemoTest.java,1,10.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/embedded/EmbeddedKsql.java,1,10.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/parser/tree/ExpressionTreeRewriter.java,3,10.0,0,7h 52min,472.0,217,10840.5
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/Help.java,1,10.0,0,7min 30s,7.5,25,648.3
+ksql,/main/java/io/confluent/ksql/rest/server/computation/KafkaConfigStore.java,2,10.0,1,1h 42min,102.0,85,2360.4
+ksql,/main/java/io/confluent/ksql/metastore/model/KeyField.java,1,10.0,0,40min,40.0,62,1354.8
+ksql,/main/java/io/confluent/ksql/Ksql.java,1,10.0,0,7min 30s,7.5,52,1537.5
+ksql,/main/java/io/confluent/ksql/serde/connect/KsqlConnectDeserializer.java,2,10.0,0,10min,10.0,23,648.3
+ksql,/main/java/io/confluent/ksql/KsqlContext.java,1,10.0,0,7min 30s,7.5,43,1172.1
+ksql,/main/java/io/confluent/ksql/serde/delimited/KsqlDelimitedDeserializer.java,2,10.0,0,37min 30s,37.5,40,1122.0
+ksql,/main/java/io/confluent/ksql/parser/KsqlParserErrorStrategy.java,1,10.0,0,0,0.0,28,1138.2
+ksql,/main/java/io/confluent/ksql/streams/MaterializedFactory.java,2,10.0,0,10min,10.0,34,1122.0
+ksql,/main/java/io/confluent/ksql/rest/server/execution/PropertyExecutor.java,2,10.0,0,0,0.0,16,598.2
+ksql,/main/java/io/confluent/ksql/rest/entity/Queries.java,1,10.0,0,20min,20.0,19,407.4
+ksql,/main/java/io/confluent/ksql/physical/QuerySchemas.java,1,10.0,0,20min,20.0,24,648.3
+ksql,/main/java/io/confluent/ksql/services/SandboxedProducer.java,2,10.0,0,0,0.0,8,423.6
+ksql,/main/java/io/confluent/ksql/rest/server/state/ServerState.java,2,10.0,2,40min,40.0,24,407.4
+ksql,/main/java/io/confluent/ksql/schema/connect/SqlSchemaFormatter.java,2,10.0,0,17min 30s,17.5,46,1325.7
+ksql,/main/java/io/confluent/ksql/rest/server/computation/StatementExecutor.java,1,10.0,0,42min 30s,42.5,66,1674.9
+ksql,/main/java/io/confluent/ksql/parser/tree/Statements.java,1,10.0,0,20min,20.0,26,677.4
+ksql,/main/java/io/confluent/ksql/rest/server/validation/StatementValidator.java,1,10.0,0,0,0.0,4,87.3
+ksql,/main/java/io/confluent/ksql/physical/UnlimitedQueueCallback.java,2,10.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/ddl/commands/DropSourceCommand.java,1,8.0,0,10min,10.0,16,349.2
+ksql,/main/java/io/confluent/ksql/parser/ExpressionFormatter.java,4,8.0,2,1h 7min,67.0,263,6324.6
+ksql,/main/java/io/confluent/ksql/function/UdfLoader.java,3,7.0,0,2h 35min,155.0,77,1923.9
+ksql,/main/java/io/confluent/ksql/physical/AddTimestampColumn.java,1,5.0,0,0,0.0,9,452.7
+ksql,/main/java/io/confluent/ksql/serde/avro/AvroDataTranslator.java,1,5.0,6,2h 10min,130.0,65,1683.0
+ksql,/main/java/io/confluent/ksql/statement/ConfiguredStatement.java,1,5.0,0,20min,20.0,50,1267.5
+ksql,/main/java/io/confluent/ksql/ddl/commands/CreateSourceCommand.java,1,5.0,0,32min 30s,32.5,44,1354.8
+ksql,/main/java/io/confluent/ksql/rest/server/execution/CustomExecutors.java,1,5.0,0,7min 30s,7.5,17,531.9
+ksql,/main/java/io/confluent/ksql/rest/server/validation/CustomValidators.java,1,5.0,0,7min 30s,7.5,17,561.0
+ksql,/main/java/io/confluent/ksql/rest/server/execution/DescribeFunctionExecutor.java,1,5.0,0,10min,10.0,36,1437.3
+ksql,/main/java/io/confluent/ksql/parser/tree/ExpressionRewriter.java,1,5.0,0,0,0.0,95,2315.1
+ksql,/main/java/io/confluent/ksql/util/ExpressionTypeManager.java,1,5.0,0,25min,25.0,144,2656.2
+ksql,/main/java/io/confluent/ksql/streams/GroupedFactory.java,1,5.0,0,10min,10.0,18,465.6
+ksql,/main/java/io/confluent/ksql/streams/JoinedFactory.java,1,5.0,0,10min,10.0,19,465.6
+ksql,/main/java/io/confluent/ksql/rocksdb/KsqlBoundedMemoryRocksDBConfigSetter.java,1,5.0,0,7min 30s,7.5,29,669.3
+ksql,/main/java/io/confluent/ksql/rest/server/security/KsqlDefaultSecurityExtension.java,1,5.0,0,0,0.0,19,407.4
+ksql,/main/java/io/confluent/ksql/rest/server/resources/KsqlResource.java,1,5.0,0,1h 15min,75.0,41,1238.4
+ksql,/main/java/io/confluent/ksql/schema/ksql/KsqlSchema.java,1,5.0,0,50min,50.0,73,1982.1
+ksql,/main/java/io/confluent/ksql/version/metrics/KsqlVersionCheckerAgent.java,1,5.0,0,17min 30s,17.5,41,1055.7
+ksql,/main/java/io/confluent/ksql/rest/server/execution/ListFunctionsExecutor.java,1,5.0,0,0,0.0,18,569.1
+ksql,/main/java/io/confluent/ksql/rest/server/execution/ListPropertiesExecutor.java,1,5.0,0,7min 30s,7.5,16,540.0
+ksql,/main/java/io/confluent/ksql/rest/server/execution/ListQueriesExecutor.java,1,5.0,0,10min,10.0,16,569.1
+ksql,/main/java/io/confluent/ksql/rest/server/execution/ListRegisteredTopicsExecutor.java,1,5.0,0,0,0.0,14,569.1
+ksql,/main/java/io/confluent/ksql/schema/persistence/PersistenceSchemasFactory.java,1,5.0,0,0,0.0,13,540.0
+ksql,/main/java/io/confluent/ksql/planner/plan/PlanVisitor.java,1,5.0,0,0,0.0,34,976.5
+ksql,/main/java/io/confluent/ksql/rest/server/validation/PrintTopicValidator.java,1,5.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLogMessageSchema.java,1,5.0,0,7min 30s,7.5,38,1084.8
+ksql,/main/java/io/confluent/ksql/rest/server/validation/PropertyValidator.java,1,5.0,0,0,0.0,22,839.1
+ksql,/main/java/io/confluent/ksql/structured/QueryContext.java,1,5.0,0,0,0.0,58,1164.0
+ksql,/main/java/io/confluent/ksql/rest/server/validation/QueryValidator.java,1,5.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/parser/tree/SimpleGroupBy.java,1,5.0,0,30min,30.0,36,881.1
+ksql,/main/java/io/confluent/ksql/parser/tree/SingleColumn.java,1,5.0,0,20min,20.0,42,997.5
+ksql,/main/java/io/confluent/ksql/rest/server/validation/TerminateQueryValidator.java,1,5.0,0,0,0.0,13,510.9
+ksql,/main/java/io/confluent/ksql/metrics/TopicSensors.java,1,5.0,0,1h 10min,70.0,108,2701.5
+ksql,/main/java/io/confluent/ksql/function/udaf/UdafFactory.java,1,5.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/function/udaf/window/WindowEndKudaf.java,1,5.0,0,0,0.0,12,635.4
+ksql,/main/java/io/confluent/ksql/function/udaf/window/WindowStartKudaf.java,1,5.0,0,0,0.0,12,635.4
+ksql,/main/java/io/confluent/ksql/rest/entity/FunctionType.java,2,4.0,0,0,0.0,3,58.2
+ksql,/main/java/io/confluent/ksql/function/udf/json/JsonExtractStringKudf.java,1,4.0,0,1h 17min,77.0,23,772.8
+ksql,/main/java/io/confluent/ksql/function/udaf/window/WindowSelectMapper.java,2,4.0,0,0,0.0,26,523.8
+ksql,/main/java/io/confluent/ksql/parser/tree/DoubleLiteral.java,1,2.0,0,37min 30s,37.5,27,984.6
+ksql,/main/java/io/confluent/ksql/services/KafkaTopicClientImpl.java,1,2.0,3,3h 55min,235.0,117,3734.7
+ksql,/main/java/io/confluent/ksql/engine/KsqlEngine.java,1,2.0,0,17min 30s,17.5,97,2265.0
+ksql,/main/java/io/confluent/ksql/internal/KsqlEngineMetrics.java,1,2.0,0,32min 30s,32.5,143,3640.8
+ksql,/main/java/io/confluent/ksql/version/metrics/KsqlVersionCheckerResponseHandler.java,1,2.0,0,0,0.0,13,261.9
+ksql,/main/java/io/confluent/ksql/metrics/MetricCollectors.java,1,2.0,0,0,0.0,82,2127.6
+ksql,/main/java/io/confluent/ksql/parser/tree/NullLiteral.java,1,2.0,1,37min 30s,37.5,27,955.5
+ksql,/main/java/io/confluent/ksql/schema/inference/SchemaRegistryTopicSchemaSupplier.java,1,2.0,0,1h,60.0,43,1122.0
+ksql,/main/java/io/confluent/ksql/serde/util/SerdeProcessingLogMessageFactory.java,1,2.0,0,15min,15.0,16,693.6
+ksql,/main/java/io/confluent/ksql/metrics/StreamsErrorCollector.java,1,2.0,0,7min 30s,7.5,59,1134.9
+ksql,/main/java/io/confluent/ksql/cli/console/table/Table.java,1,2.0,0,7min 30s,7.5,93,1746.0
+ksql,/main/java/io/confluent/ksql/function/udf/math/AbsKudf.java,0,0.0,0,17min 30s,17.5,10,481.8
+ksql,/main/java/io/confluent/ksql/version/metrics/ActivenessRegistrar.java,0,0.0,0,0,0.0,3,87.3
+ksql,/main/java/io/confluent/ksql/analyzer/AggregateAnalysis.java,0,0.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/analyzer/AggregateAnalysisResult.java,0,0.0,0,0,0.0,11,291.0
+ksql,/main/java/io/confluent/ksql/analyzer/AggregateAnalyzer.java,0,0.0,0,7min 30s,7.5,54,1296.6
+ksql,/main/java/io/confluent/ksql/util/AggregateExpressionRewriter.java,0,0.0,0,27min 30s,27.5,16,378.3
+ksql,/main/java/io/confluent/ksql/function/AggregateFunctionArguments.java,0,0.0,0,0,0.0,20,378.3
+ksql,/main/java/io/confluent/ksql/parser/tree/AliasedRelation.java,0,0.0,0,20min,20.0,35,822.9
+ksql,/main/java/io/confluent/ksql/parser/tree/AllColumns.java,0,0.0,0,20min,20.0,29,735.6
+ksql,/main/java/io/confluent/ksql/rest/entity/ArgumentInfo.java,0,0.0,0,20min,20.0,30,822.9
+ksql,/main/java/io/confluent/ksql/tools/printmetrics/ArgumentParseException.java,0,0.0,0,0,0.0,8,423.6
+ksql,/main/java/io/confluent/ksql/parser/tree/ArithmeticBinaryExpression.java,0,0.0,3,30min,30.0,43,1209.3
+ksql,/main/java/io/confluent/ksql/parser/tree/ArithmeticUnaryExpression.java,0,0.0,0,20min,20.0,38,968.4
+ksql,/main/java/io/confluent/ksql/parser/tree/Array.java,0,0.0,0,27min 30s,27.5,27,860.1
+ksql,/main/java/io/confluent/ksql/function/udf/json/ArrayContainsKudf.java,0,0.0,0,2h 10min,130.0,39,1063.8
+ksql,/main/java/io/confluent/ksql/util/ArrayUtil.java,0,0.0,0,10min,10.0,16,569.1
+ksql,/main/java/io/confluent/ksql/engine/AuthorizationTopicAccessValidator.java,0,0.0,0,20min,20.0,30,976.5
+ksql,/main/java/io/confluent/ksql/datagen/AvroProducer.java,0,0.0,0,0,0.0,15,291.0
+ksql,/main/java/io/confluent/ksql/util/AvroUtil.java,0,0.0,0,30min,30.0,17,627.3
+ksql,/main/java/io/confluent/ksql/function/BaseAggregateFunction.java,0,0.0,0,15min,15.0,27,698.4
+ksql,/main/java/io/confluent/ksql/function/udaf/BaseNumberKudaf.java,0,0.0,0,27min 30s,27.5,20,349.2
+ksql,/main/java/io/confluent/ksql/version/metrics/collector/BasicCollector.java,0,0.0,0,0,0.0,16,349.2
+ksql,/main/java/io/confluent/ksql/parser/tree/BetweenPredicate.java,0,0.0,0,20min,20.0,34,852.0
+ksql,/main/java/io/confluent/ksql/parser/CaseInsensitiveStream.java,0,0.0,2,40min,40.0,45,989.4
+ksql,/main/java/io/confluent/ksql/parser/tree/Cast.java,0,0.0,0,20min,20.0,29,764.7
+ksql,/main/java/io/confluent/ksql/function/udf/math/CeilKudf.java,0,0.0,0,0,0.0,9,452.7
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/Clear.java,0,0.0,0,0,0.0,22,590.1
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/CliCmdUtil.java,0,0.0,0,0,0.0,11,452.7
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/CliCommandRegisterUtil.java,0,0.0,0,7min 30s,7.5,12,510.9
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/CliSpecificCommand.java,0,0.0,0,0,0.0,5,58.2
+ksql,/main/java/io/confluent/ksql/util/CliUtils.java,0,0.0,0,30min,30.0,14,693.6
+ksql,/main/java/io/confluent/ksql/rest/entity/ClusterTerminateRequest.java,0,0.0,0,27min 30s,27.5,21,465.6
+ksql,/main/java/io/confluent/ksql/rest/util/ClusterTerminator.java,0,0.0,0,10min,10.0,62,1595.7
+ksql,/main/java/io/confluent/ksql/function/udaf/array/CollectListUdaf.java,0,0.0,0,0,0.0,32,1071.9
+ksql,/main/java/io/confluent/ksql/function/udaf/array/CollectSetUdaf.java,0,0.0,0,0,0.0,31,1042.8
+ksql,/main/java/io/confluent/ksql/rest/server/computation/Command.java,0,0.0,0,0,0.0,33,698.4
+ksql,/main/java/io/confluent/ksql/ddl/commands/CommandFactories.java,0,0.0,0,0,0.0,80,1965.9
+ksql,/main/java/io/confluent/ksql/rest/server/computation/CommandId.java,0,0.0,0,20min,20.0,41,1026.6
+ksql,/main/java/io/confluent/ksql/rest/server/computation/CommandQueue.java,0,0.0,0,0,0.0,3,87.3
+ksql,/main/java/io/confluent/ksql/rest/server/execution/CommandQueueSync.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/rest/server/computation/CommandRunner.java,0,0.0,0,55min,55.0,61,2122.8
+ksql,/main/java/io/confluent/ksql/rest/entity/CommandStatus.java,0,0.0,0,20min,20.0,26,523.8
+ksql,/main/java/io/confluent/ksql/rest/entity/CommandStatusEntity.java,0,0.0,0,20min,20.0,28,611.1
+ksql,/main/java/io/confluent/ksql/rest/entity/CommandStatuses.java,0,0.0,0,0,0.0,15,569.1
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/CommandStatusTableBuilder.java,0,0.0,0,0,0.0,12,510.9
+ksql,/main/java/io/confluent/ksql/rest/util/CommandStoreUtil.java,1,0.0,0,0,0.0,19,685.5
+ksql,/main/java/io/confluent/ksql/cli/console/CommentStripper.java,0,0.0,0,30min,30.0,36,1159.2
+ksql,/main/java/io/confluent/ksql/util/ComparisonUtil.java,0,0.0,0,0,0.0,13,510.9
+ksql,/main/java/io/confluent/ksql/function/udf/string/ConcatKudf.java,0,0.0,0,7min 30s,7.5,11,481.8
+ksql,/main/java/io/confluent/ksql/config/ConfigItem.java,0,0.0,0,0,0.0,67,1492.2
+ksql,/main/java/io/confluent/ksql/config/ConfigResolver.java,0,0.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/rest/server/computation/ConfigStore.java,0,0.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/rest/server/context/ConfiguredKafkaClientSupplier.java,0,0.0,0,0,0.0,32,698.4
+ksql,/main/java/io/confluent/ksql/serde/connect/ConnectSchemaTranslator.java,0,0.0,1,30min,30.0,49,1545.6
+ksql,/main/java/io/confluent/ksql/function/udaf/count/CountAggFunctionFactory.java,0,0.0,0,0,0.0,12,510.9
+ksql,/main/java/io/confluent/ksql/function/udaf/count/CountKudaf.java,0,0.0,0,27min 30s,27.5,31,1013.7
+ksql,/main/java/io/confluent/ksql/parser/tree/CreateAsSelect.java,0,0.0,0,35min,35.0,43,1084.8
+ksql,/main/java/io/confluent/ksql/parser/tree/CreateSource.java,0,0.0,0,20min,20.0,32,727.5
+ksql,/main/java/io/confluent/ksql/parser/tree/CreateStreamAsSelect.java,0,0.0,0,15min,15.0,34,889.2
+ksql,/main/java/io/confluent/ksql/ddl/commands/CreateStreamCommand.java,0,0.0,0,0,0.0,14,569.1
+ksql,/main/java/io/confluent/ksql/parser/tree/CreateTableAsSelect.java,0,0.0,0,7min 30s,7.5,29,860.1
+ksql,/main/java/io/confluent/ksql/ddl/commands/CreateTableCommand.java,0,0.0,0,0,0.0,14,569.1
+ksql,/main/java/io/confluent/ksql/datagen/DataGenSchemaUtil.java,0,0.0,12,4h 15min,255.0,20,627.3
+ksql,/main/java/io/confluent/ksql/metastore/model/DataSource.java,0,0.0,0,0,0.0,19,261.9
+ksql,/main/java/io/confluent/ksql/util/DataSourceExtractor.java,0,0.0,0,25min,25.0,98,3220.5
+ksql,/main/java/io/confluent/ksql/serde/connect/DataTranslator.java,0,0.0,0,0,0.0,8,232.8
+ksql,/main/java/io/confluent/ksql/function/udf/datetime/DateToString.java,0,0.0,0,10min,10.0,13,510.9
+ksql,/main/java/io/confluent/ksql/ddl/commands/DdlCommand.java,0,0.0,0,0,0.0,6,145.5
+ksql,/main/java/io/confluent/ksql/ddl/commands/DdlCommandExec.java,0,0.0,0,0,0.0,7,174.6
+ksql,/main/java/io/confluent/ksql/ddl/commands/DdlCommandFactory.java,0,0.0,0,0,0.0,5,145.5
+ksql,/main/java/io/confluent/ksql/ddl/commands/DdlCommandResult.java,0,0.0,0,0,0.0,13,291.0
+ksql,/main/java/io/confluent/ksql/ddl/DdlConfig.java,0,0.0,0,7min 30s,7.5,15,502.8
+ksql,/main/java/io/confluent/ksql/parser/tree/DdlStatement.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/parser/tree/DecimalLiteral.java,0,0.0,3,37min 30s,37.5,25,677.4
+ksql,/main/java/io/confluent/ksql/rest/server/execution/DefaultCommandQueueSync.java,1,0.0,0,0,0.0,14,320.1
+ksql,/main/java/io/confluent/ksql/parser/DefaultKsqlParser.java,0,0.0,0,57min 30s,57.5,26,1109.1
+ksql,/main/java/io/confluent/ksql/schema/connect/DefaultSchemaFormatter.java,0,0.0,4,1h 37min,97.0,18,627.3
+ksql,/main/java/io/confluent/ksql/schema/inference/DefaultSchemaInjector.java,0,0.0,0,40min,40.0,45,1611.9
+ksql,/main/java/io/confluent/ksql/rest/ssl/DefaultSslClientConfigurer.java,0,0.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/parser/DefaultTraversalVisitor.java,0,0.0,0,22min 30s,22.5,136,3408.0
+ksql,/main/java/io/confluent/ksql/datagen/DelimitedProducer.java,0,0.0,3,10min,10.0,11,452.7
+ksql,/main/java/io/confluent/ksql/parser/tree/DescribeFunction.java,0,0.0,0,20min,20.0,22,619.2
+ksql,/main/java/io/confluent/ksql/rest/server/computation/DistributingExecutor.java,0,0.0,0,10min,10.0,14,473.7
+ksql,/main/java/io/confluent/ksql/links/DocumentationLinks.java,0,0.0,0,7min 30s,7.5,13,473.7
+ksql,/main/java/io/confluent/ksql/function/udaf/max/DoubleMaxKudaf.java,0,0.0,0,7min 30s,7.5,12,510.9
+ksql,/main/java/io/confluent/ksql/function/udaf/min/DoubleMinKudaf.java,0,0.0,0,7min 30s,7.5,12,510.9
+ksql,/main/java/io/confluent/ksql/function/udaf/sum/DoubleSumKudaf.java,0,0.0,0,27min 30s,27.5,27,926.4
+ksql,/main/java/io/confluent/ksql/parser/tree/DropStatement.java,0,0.0,0,20min,20.0,27,611.1
+ksql,/main/java/io/confluent/ksql/parser/tree/DropTopic.java,0,0.0,0,27min 30s,27.5,32,822.9
+ksql,/main/java/io/confluent/ksql/ddl/commands/DropTopicCommand.java,0,0.0,0,0,0.0,15,320.1
+ksql,/main/java/io/confluent/ksql/function/udf/string/Elt.java,0,0.0,0,10min,10.0,11,357.3
+ksql,/main/java/io/confluent/ksql/engine/EngineExecutor.java,0,0.0,0,27min 30s,27.5,28,918.3
+ksql,/main/java/io/confluent/ksql/rest/entity/EntityQueryId.java,0,0.0,0,0,0.0,23,494.7
+ksql,/main/java/io/confluent/ksql/util/ErrorMessageUtil.java,0,0.0,0,40min,40.0,29,1387.2
+ksql,/main/java/io/confluent/ksql/rest/server/resources/Errors.java,0,0.0,0,7min 30s,7.5,82,2111.4
+ksql,/main/java/io/confluent/ksql/util/Event.java,0,0.0,0,0,0.0,3,87.3
+ksql,/main/java/io/confluent/ksql/exception/ExceptionUtil.java,0,0.0,0,0,0.0,14,693.6
+ksql,/main/java/io/confluent/ksql/parser/tree/ExecutableDdlStatement.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/ExecutionPlanTableBuilder.java,0,0.0,0,0,0.0,10,452.7
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/Exit.java,0,0.0,0,0,0.0,19,502.8
+ksql,/main/java/io/confluent/ksql/parser/tree/Explain.java,0,0.0,0,20min,20.0,32,822.9
+ksql,/main/java/io/confluent/ksql/rest/server/execution/ExplainExecutor.java,0,0.0,0,10min,10.0,29,955.5
+ksql,/main/java/io/confluent/ksql/parser/tree/Expression.java,0,0.0,0,7min 30s,7.5,16,569.1
+ksql,/main/java/io/confluent/ksql/util/ExpressionMetadata.java,0,0.0,0,17min 30s,17.5,33,910.2
+ksql,/main/java/io/confluent/ksql/function/udf/structfieldextractor/FetchFieldFromStruct.java,0,0.0,0,17min 30s,17.5,10,481.8
+ksql,/main/java/io/confluent/ksql/function/udf/string/Field.java,0,0.0,0,20min,20.0,11,357.3
+ksql,/main/java/io/confluent/ksql/rest/entity/FieldInfo.java,0,0.0,0,0,0.0,26,523.8
+ksql,/main/java/io/confluent/ksql/planner/plan/FilterNode.java,0,0.0,0,0,0.0,48,1487.4
+ksql,/main/java/io/confluent/ksql/function/udf/math/FloorKudf.java,0,0.0,0,0,0.0,9,452.7
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/Flow.java,0,0.0,0,0,0.0,23,860.1
+ksql,/main/java/io/confluent/ksql/serde/Format.java,0,0.0,0,10min,10.0,7,145.5
+ksql,/main/java/io/confluent/ksql/parser/tree/FunctionCall.java,0,0.0,0,20min,20.0,30,764.7
+ksql,/main/java/io/confluent/ksql/rest/entity/FunctionNameList.java,0,0.0,0,20min,20.0,18,502.8
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/FunctionNameListTableBuilder.java,0,0.0,0,0,0.0,13,510.9
+ksql,/main/java/io/confluent/ksql/function/FunctionNameValidator.java,0,0.0,0,30min,30.0,17,656.4
+ksql,/main/java/io/confluent/ksql/GenericRow.java,0,0.0,0,30min,30.0,38,1034.7
+ksql,/main/java/io/confluent/ksql/serde/GenericRowSerDe.java,0,0.0,0,47min 30s,47.5,67,1704.0
+ksql,/main/java/io/confluent/ksql/function/udf/geo/GeoDistance.java,0,0.0,0,0,0.0,28,669.3
+ksql,/main/java/io/confluent/ksql/parser/tree/GroupBy.java,0,0.0,0,20min,20.0,30,764.7
+ksql,/main/java/io/confluent/ksql/structured/GroupByMapper.java,0,0.0,0,20min,20.0,25,677.4
+ksql,/main/java/io/confluent/ksql/parser/tree/GroupingElement.java,0,0.0,0,0,0.0,17,656.4
+ksql,/main/java/io/confluent/ksql/function/udaf/map/HistogramUdaf.java,0,0.0,0,7min 30s,7.5,16,693.6
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/History.java,0,0.0,0,0,0.0,24,619.2
+ksql,/main/java/io/confluent/ksql/parser/tree/HoppingWindowExpression.java,0,0.0,0,20min,20.0,48,1172.1
+ksql,/main/java/io/confluent/ksql/function/udf/string/IfNullKudf.java,0,0.0,0,20min,20.0,9,452.7
+ksql,/main/java/io/confluent/ksql/statement/Injector.java,0,0.0,0,0,0.0,2,29.1
+ksql,/main/java/io/confluent/ksql/statement/InjectorChain.java,0,0.0,0,0,0.0,18,780.9
+ksql,/main/java/io/confluent/ksql/statement/Injectors.java,0,0.0,0,0,0.0,16,291.0
+ksql,/main/java/io/confluent/ksql/parser/tree/InListExpression.java,0,0.0,0,20min,20.0,25,677.4
+ksql,/main/java/io/confluent/ksql/parser/tree/InPredicate.java,0,0.0,0,20min,20.0,29,793.8
+ksql,/main/java/io/confluent/ksql/parser/tree/InsertInto.java,0,0.0,0,27min 30s,27.5,41,968.4
+ksql,/main/java/io/confluent/ksql/parser/tree/InsertValues.java,0,0.0,0,20min,20.0,35,910.2
+ksql,/main/java/io/confluent/ksql/parser/tree/IntegerLiteral.java,0,0.0,1,37min 30s,37.5,27,677.4
+ksql,/main/java/io/confluent/ksql/function/udaf/max/IntegerMaxKudaf.java,0,0.0,0,7min 30s,7.5,12,510.9
+ksql,/main/java/io/confluent/ksql/function/udaf/min/IntegerMinKudaf.java,0,0.0,0,7min 30s,7.5,12,510.9
+ksql,/main/java/io/confluent/ksql/function/udaf/sum/IntegerSumKudaf.java,0,0.0,0,27min 30s,27.5,27,926.4
+ksql,/main/java/io/confluent/ksql/rest/util/InternalTopicJsonSerdeUtil.java,0,0.0,0,0,0.0,15,569.1
+ksql,/main/java/io/confluent/ksql/parser/tree/IsNotNullPredicate.java,0,0.0,3,30min,30.0,28,860.1
+ksql,/main/java/io/confluent/ksql/parser/tree/IsNullPredicate.java,0,0.0,3,30min,30.0,28,860.1
+ksql,/main/java/io/confluent/ksql/cli/console/JLineReader.java,0,0.0,0,17min 30s,17.5,44,1450.2
+ksql,/main/java/io/confluent/ksql/parser/tree/Join.java,0,0.0,0,27min 30s,27.5,55,1288.5
+ksql,/main/java/io/confluent/ksql/parser/tree/JoinCriteria.java,0,0.0,0,0,0.0,11,569.1
+ksql,/main/java/io/confluent/ksql/parser/tree/JoinOn.java,0,0.0,0,20min,20.0,21,561.0
+ksql,/main/java/io/confluent/ksql/json/JsonMapper.java,0,0.0,0,7min 30s,7.5,10,328.2
+ksql,/main/java/io/confluent/ksql/util/json/JsonPathTokenizer.java,0,0.0,1,50min,50.0,66,2318.4
+ksql,/main/java/io/confluent/ksql/datagen/JsonProducer.java,0,0.0,3,10min,10.0,11,452.7
+ksql,/main/java/io/confluent/ksql/services/KafkaClusterUtil.java,0,0.0,0,27min 30s,27.5,19,905.4
+ksql,/main/java/io/confluent/ksql/util/KafkaConsumerGroupClient.java,0,0.0,0,20min,20.0,43,1113.9
+ksql,/main/java/io/confluent/ksql/util/KafkaConsumerGroupClientImpl.java,0,0.0,0,27min 30s,27.5,24,963.6
+ksql,/main/java/io/confluent/ksql/exception/KafkaResponseGetFailedException.java,0,0.0,0,0,0.0,9,423.6
+ksql,/main/java/io/confluent/ksql/physical/KafkaStreamsBuilder.java,0,0.0,0,0,0.0,5,145.5
+ksql,/main/java/io/confluent/ksql/physical/KafkaStreamsBuilderImpl.java,0,0.0,0,0,0.0,11,232.8
+ksql,/main/java/io/confluent/ksql/services/KafkaTopicClient.java,0,0.0,0,0,0.0,16,145.5
+ksql,/main/java/io/confluent/ksql/exception/KafkaTopicClientException.java,0,0.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/exception/KafkaTopicExistsException.java,0,0.0,0,0,0.0,8,423.6
+ksql,/main/java/io/confluent/ksql/rest/entity/KafkaTopicInfo.java,0,0.0,1,30min,30.0,30,881.1
+ksql,/main/java/io/confluent/ksql/rest/entity/KafkaTopicsList.java,0,0.0,0,35min,35.0,40,814.8
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/KafkaTopicsListTableBuilder.java,0,0.0,0,30min,30.0,14,569.1
+ksql,/main/java/io/confluent/ksql/function/KsqlAggregateFunction.java,0,0.0,0,0,0.0,26,640.2
+ksql,/main/java/io/confluent/ksql/rest/server/security/KsqlAuthorizer.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/serde/avro/KsqlAvroSerdeFactory.java,0,0.0,0,30min,30.0,48,1113.9
+ksql,/main/java/io/confluent/ksql/planner/plan/KsqlBareOutputNode.java,1,0.0,0,0,0.0,22,619.2
+ksql,/main/java/io/confluent/ksql/rocksdb/KsqlBoundedMemoryRocksDBConfig.java,0,0.0,0,7min 30s,7.5,22,801.9
+ksql,/main/java/io/confluent/ksql/config/KsqlConfigResolver.java,0,0.0,0,1h 30min,90.0,49,1786.5
+ksql,/main/java/io/confluent/ksql/serde/delimited/KsqlDelimitedSerdeFactory.java,0,0.0,4,20min,20.0,17,722.7
+ksql,/main/java/io/confluent/ksql/engine/KsqlEngineProps.java,0,0.0,0,0,0.0,13,386.4
+ksql,/main/java/io/confluent/ksql/rest/entity/KsqlEntity.java,0,0.0,0,7min 30s,7.5,17,378.3
+ksql,/main/java/io/confluent/ksql/rest/entity/KsqlEntityList.java,0,0.0,0,0,0.0,9,423.6
+ksql,/main/java/io/confluent/ksql/rest/entity/KsqlErrorMessage.java,0,0.0,0,20min,20.0,30,640.2
+ksql,/main/java/io/confluent/ksql/util/KsqlException.java,0,0.0,0,7min 30s,7.5,18,598.2
+ksql,/main/java/io/confluent/ksql/rest/server/resources/KsqlExceptionMapper.java,1,0.0,0,30min,30.0,11,481.8
+ksql,/main/java/io/confluent/ksql/function/KsqlFunctionException.java,0,0.0,0,0,0.0,13,481.8
+ksql,/main/java/io/confluent/ksql/rest/util/KsqlInternalTopicUtils.java,0,0.0,0,17min 30s,17.5,11,510.9
+ksql,/main/java/io/confluent/ksql/serde/json/KsqlJsonSerdeFactory.java,0,0.0,4,20min,20.0,18,722.7
+ksql,/main/java/io/confluent/ksql/cli/console/KsqlLineParser.java,0,0.0,0,30min,30.0,12,291.0
+ksql,/main/java/io/confluent/ksql/internal/KsqlMetric.java,0,0.0,0,0,0.0,23,619.2
+ksql,/main/java/io/confluent/ksql/internal/KsqlMetricsExtension.java,0,0.0,0,0,0.0,3,87.3
+ksql,/main/java/io/confluent/ksql/version/metrics/collector/KsqlModuleType.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/physical/KsqlQueryBuilder.java,0,0.0,0,15min,15.0,54,1317.6
+ksql,/main/java/io/confluent/ksql/util/KsqlReferentialIntegrityException.java,0,0.0,0,0,0.0,8,423.6
+ksql,/main/java/io/confluent/ksql/rest/entity/KsqlRequest.java,0,0.0,0,50min,50.0,42,1055.7
+ksql,/main/java/io/confluent/ksql/cli/KsqlRequestExecutor.java,0,0.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/rest/client/exception/KsqlRestClientException.java,0,0.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/rest/server/KsqlRestConfig.java,0,0.0,0,7min 30s,7.5,51,1442.1
+ksql,/main/java/io/confluent/ksql/rest/server/context/KsqlRestContext.java,0,0.0,0,0,0.0,12,320.1
+ksql,/main/java/io/confluent/ksql/rest/server/resources/KsqlRestException.java,0,0.0,0,0,0.0,9,203.7
+ksql,/main/java/io/confluent/ksql/rest/server/context/KsqlRestServiceContextBinder.java,0,0.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/rest/server/context/KsqlRestServiceContextFactory.java,1,0.0,0,10min,10.0,26,582.0
+ksql,/main/java/io/confluent/ksql/schema/registry/KsqlSchemaRegistryClientFactory.java,0,0.0,0,0,0.0,22,523.8
+ksql,/main/java/io/confluent/ksql/rest/server/security/KsqlSecurityExtension.java,0,0.0,0,0,0.0,3,87.3
+ksql,/main/java/io/confluent/ksql/serde/KsqlSerdeFactories.java,0,0.0,3,1h,60.0,23,743.7
+ksql,/main/java/io/confluent/ksql/serde/KsqlSerdeFactory.java,0,0.0,0,27min 30s,27.5,32,727.5
+ksql,/main/java/io/confluent/ksql/util/KsqlServerException.java,0,0.0,0,0,0.0,13,540.0
+ksql,/main/java/io/confluent/ksql/rest/server/KsqlServerPrecondition.java,0,0.0,0,0,0.0,3,87.3
+ksql,/main/java/io/confluent/ksql/rest/entity/KsqlStatementErrorMessage.java,0,0.0,0,30min,30.0,28,669.3
+ksql,/main/java/io/confluent/ksql/util/KsqlStatementException.java,0,0.0,0,0,0.0,21,436.5
+ksql,/main/java/io/confluent/ksql/metastore/model/KsqlStream.java,0,0.0,3,17min 30s,17.5,15,693.6
+ksql,/main/java/io/confluent/ksql/metastore/model/KsqlTable.java,0,0.0,3,17min 30s,17.5,15,693.6
+ksql,/main/java/io/confluent/ksql/cli/console/KsqlTerminal.java,0,0.0,0,0,0.0,39,1172.1
+ksql,/main/java/io/confluent/ksql/metastore/model/KsqlTopic.java,0,0.0,0,0,0.0,24,494.7
+ksql,/main/java/io/confluent/ksql/rest/entity/KsqlTopicInfo.java,0,0.0,0,20min,20.0,27,640.2
+ksql,/main/java/io/confluent/ksql/rest/entity/KsqlTopicsList.java,0,0.0,0,20min,20.0,22,494.7
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/KsqlTopicsListTableBuilder.java,0,0.0,0,0,0.0,13,510.9
+ksql,/main/java/io/confluent/ksql/version/metrics/KsqlVersionChecker.java,0,0.0,0,0,0.0,33,785.7
+ksql,/main/java/io/confluent/ksql/rest/entity/KsqlWarning.java,0,0.0,0,20min,20.0,20,436.5
+ksql,/main/java/io/confluent/ksql/parser/tree/KsqlWindowExpression.java,0,0.0,0,7min 30s,7.5,19,685.5
+ksql,/main/java/io/confluent/ksql/function/udaf/KudafAggregator.java,0,0.0,0,0,0.0,24,465.6
+ksql,/main/java/io/confluent/ksql/function/udaf/KudafInitializer.java,0,0.0,0,0,0.0,16,291.0
+ksql,/main/java/io/confluent/ksql/function/udaf/KudafUndoAggregator.java,0,0.0,0,0,0.0,19,407.4
+ksql,/main/java/io/confluent/ksql/function/udf/Kudf.java,0,0.0,0,0,0.0,6,145.5
+ksql,/main/java/io/confluent/ksql/services/LazyServiceContext.java,0,0.0,0,0,0.0,36,1387.2
+ksql,/main/java/io/confluent/ksql/function/udf/string/LCaseKudf.java,0,0.0,0,0,0.0,9,452.7
+ksql,/main/java/io/confluent/ksql/function/udf/string/LenKudf.java,0,0.0,0,0,0.0,9,452.7
+ksql,/main/java/io/confluent/ksql/parser/tree/LikePredicate.java,0,0.0,0,20min,20.0,29,764.7
+ksql,/main/java/io/confluent/ksql/physical/LimitedQueueCallback.java,0,0.0,0,0,0.0,18,407.4
+ksql,/main/java/io/confluent/ksql/physical/LimitHandler.java,0,0.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/physical/LimitQueueCallback.java,0,0.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/parser/tree/ListFunctions.java,0,0.0,0,10min,10.0,26,926.4
+ksql,/main/java/io/confluent/ksql/parser/tree/ListQueries.java,0,0.0,3,30min,30.0,23,619.2
+ksql,/main/java/io/confluent/ksql/rest/server/execution/ListSourceExecutor.java,0,0.0,0,45min,45.0,80,2202.0
+ksql,/main/java/io/confluent/ksql/parser/tree/ListStreams.java,0,0.0,4,30min,30.0,27,706.5
+ksql,/main/java/io/confluent/ksql/parser/tree/ListTables.java,0,0.0,4,30min,30.0,27,706.5
+ksql,/main/java/io/confluent/ksql/rest/server/execution/ListTopicsExecutor.java,0,0.0,0,0,0.0,14,569.1
+ksql,/main/java/io/confluent/ksql/parser/tree/Literal.java,0,0.0,0,7min 30s,7.5,18,598.2
+ksql,/main/java/io/confluent/ksql/rest/client/properties/LocalProperties.java,0,0.0,0,0,0.0,14,540.0
+ksql,/main/java/io/confluent/ksql/rest/client/properties/LocalPropertyParser.java,0,0.0,0,10min,10.0,18,349.2
+ksql,/main/java/io/confluent/ksql/rest/client/properties/LocalPropertyValidator.java,0,0.0,0,7min 30s,7.5,20,685.5
+ksql,/main/java/io/confluent/ksql/planner/LogicalPlanNode.java,0,0.0,0,0,0.0,12,291.0
+ksql,/main/java/io/confluent/ksql/schema/ksql/LogicalSchemas.java,0,0.0,0,7min 30s,7.5,97,2995.8
+ksql,/main/java/io/confluent/ksql/errors/LogMetricAndContinueExceptionHandler.java,0,0.0,0,0,0.0,17,685.5
+ksql,/main/java/io/confluent/ksql/util/timestamp/LongColumnTimestampExtractionPolicy.java,0,0.0,0,20min,20.0,23,465.6
+ksql,/main/java/io/confluent/ksql/parser/tree/LongLiteral.java,0,0.0,1,37min 30s,37.5,27,831.0
+ksql,/main/java/io/confluent/ksql/function/udaf/max/LongMaxKudaf.java,0,0.0,0,7min 30s,7.5,12,510.9
+ksql,/main/java/io/confluent/ksql/function/udaf/min/LongMinKudaf.java,0,0.0,0,7min 30s,7.5,12,510.9
+ksql,/main/java/io/confluent/ksql/function/udaf/sum/LongSumKudaf.java,0,0.0,0,27min 30s,27.5,27,926.4
+ksql,/main/java/io/confluent/ksql/util/timestamp/LongTimestampExtractor.java,0,0.0,0,20min,20.0,15,473.7
+ksql,/main/java/io/confluent/ksql/parser/tree/Map.java,0,0.0,0,27min 30s,27.5,27,860.1
+ksql,/main/java/io/confluent/ksql/function/udf/string/Masker.java,0,0.0,0,40min,40.0,40,1209.3
+ksql,/main/java/io/confluent/ksql/function/udf/string/MaskKudf.java,3,0.0,0,30min,30.0,17,810.0
+ksql,/main/java/io/confluent/ksql/function/udaf/max/MaxAggFunctionFactory.java,0,0.0,3,20min,20.0,13,693.6
+ksql,/main/java/io/confluent/ksql/util/timestamp/MetadataTimestampExtractionPolicy.java,0,0.0,0,10min,10.0,22,436.5
+ksql,/main/java/io/confluent/ksql/metrics/MetricCollector.java,0,0.0,0,0,0.0,14,349.2
+ksql,/main/java/io/confluent/ksql/metrics/MetricUtils.java,0,0.0,0,0,0.0,22,780.9
+ksql,/main/java/io/confluent/ksql/function/udaf/min/MinAggFunctionFactory.java,0,0.0,3,20min,20.0,13,540.0
+ksql,/main/java/io/confluent/ksql/cli/console/writer/MultiplexedWriter.java,0,0.0,0,0,0.0,18,407.4
+ksql,/main/java/io/confluent/ksql/analyzer/MutableAggregateAnalysis.java,0,0.0,0,7min 30s,7.5,58,1251.3
+ksql,/main/java/io/confluent/ksql/function/MutableFunctionRegistry.java,0,0.0,0,0,0.0,3,58.2
+ksql,/main/java/io/confluent/ksql/metastore/MutableMetaStore.java,0,0.0,0,0,0.0,18,465.6
+ksql,/main/java/io/confluent/ksql/parser/tree/Node.java,0,0.0,0,7min 30s,7.5,24,494.7
+ksql,/main/java/io/confluent/ksql/parser/tree/NodeLocation.java,0,0.0,0,0,0.0,17,349.2
+ksql,/main/java/io/confluent/ksql/logging/processing/NoopProcessingLogContext.java,0,0.0,0,7min 30s,7.5,19,627.3
+ksql,/main/java/io/confluent/ksql/parser/tree/NotExpression.java,0,0.0,3,30min,30.0,28,860.1
+ksql,/main/java/io/confluent/ksql/cli/Options.java,2,0.0,0,25min,25.0,49,1741.2
+ksql,/main/java/io/confluent/ksql/cli/console/OutputFormat.java,0,0.0,0,17min 30s,17.5,9,203.7
+ksql,/main/java/io/confluent/ksql/planner/plan/OutputNode.java,0,0.0,0,0,0.0,38,997.5
+ksql,/main/java/io/confluent/ksql/util/Pair.java,0,0.0,0,27min 30s,27.5,33,1071.9
+ksql,/main/java/io/confluent/ksql/parser/exception/ParseFailedException.java,0,0.0,0,7min 30s,7.5,11,481.8
+ksql,/main/java/io/confluent/ksql/util/ParserUtil.java,0,0.0,0,50min,50.0,32,918.3
+ksql,/main/java/io/confluent/ksql/parser/ParsingException.java,0,0.0,0,0,0.0,28,582.0
+ksql,/main/java/io/confluent/ksql/schema/persistence/PersistenceSchema.java,0,0.0,0,20min,20.0,24,772.8
+ksql,/main/java/io/confluent/ksql/schema/persistence/PersistenceSchemas.java,0,0.0,0,20min,20.0,25,772.8
+ksql,/main/java/io/confluent/ksql/function/udaf/placeholder/PlaceholderTableUdaf.java,0,0.0,0,7min 30s,7.5,20,561.0
+ksql,/main/java/io/confluent/ksql/planner/PlanException.java,0,0.0,0,0,0.0,10,481.8
+ksql,/main/java/io/confluent/ksql/planner/plan/PlanNodeId.java,0,0.0,0,20min,20.0,19,502.8
+ksql,/main/java/io/confluent/ksql/planner/PlanSourceExtractorVisitor.java,0,0.0,0,0,0.0,44,1055.7
+ksql,/main/java/io/confluent/ksql/function/udf/PluggableUdf.java,0,0.0,0,20min,20.0,15,349.2
+ksql,/main/java/io/confluent/ksql/parser/tree/PrimitiveType.java,0,0.0,3,1h 27min,87.0,33,1101.0
+ksql,/main/java/io/confluent/ksql/tools/printmetrics/PrintMetricsException.java,0,0.0,0,0,0.0,8,423.6
+ksql,/main/java/io/confluent/ksql/parser/tree/PrintTopic.java,0,0.0,0,20min,20.0,32,727.5
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/PrintTopicUtil.java,0,0.0,0,10min,10.0,15,598.2
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLogConfig.java,0,0.0,0,7min 30s,7.5,45,1442.1
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLogConstants.java,0,0.0,0,7min 30s,7.5,8,299.1
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLogContext.java,0,0.0,0,0,0.0,6,240.9
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLogContextImpl.java,0,0.0,0,0,0.0,13,291.0
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLogger.java,0,0.0,0,0,0.0,3,58.2
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLoggerFactory.java,0,0.0,0,0,0.0,3,58.2
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLoggerFactoryImpl.java,0,0.0,0,0,0.0,21,436.5
+ksql,/main/java/io/confluent/ksql/logging/processing/ProcessingLoggerUtil.java,0,0.0,0,0,0.0,15,569.1
+ksql,/main/java/io/confluent/ksql/rest/util/ProcessingLogServerUtils.java,0,0.0,0,37min 30s,37.5,32,918.3
+ksql,/main/java/io/confluent/ksql/datagen/ProducerFactory.java,0,0.0,3,1h,60.0,10,481.8
+ksql,/main/java/io/confluent/ksql/planner/plan/ProjectNode.java,0,0.0,0,0,0.0,48,1392.0
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/PropertiesListTableBuilder.java,0,0.0,0,20min,20.0,38,1254.6
+ksql,/main/java/io/confluent/ksql/properties/PropertiesUtil.java,0,0.0,0,0,0.0,32,984.6
+ksql,/main/java/io/confluent/ksql/config/PropertyParser.java,0,0.0,0,0,0.0,5,145.5
+ksql,/main/java/io/confluent/ksql/config/PropertyValidator.java,0,0.0,0,0,0.0,4,116.4
+ksql,/main/java/io/confluent/ksql/parser/tree/QualifiedName.java,0,0.0,1,40min,40.0,39,910.2
+ksql,/main/java/io/confluent/ksql/parser/tree/QualifiedNameReference.java,0,0.0,1,30min,30.0,31,735.6
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/QueriesTableBuilder.java,0,0.0,0,0,0.0,13,510.9
+ksql,/main/java/io/confluent/ksql/analyzer/QueryAnalyzer.java,0,0.0,0,25min,25.0,34,669.3
+ksql,/main/java/io/confluent/ksql/rest/util/QueryCapacityUtil.java,0,0.0,0,0,0.0,21,685.5
+ksql,/main/java/io/confluent/ksql/parser/tree/QueryContainer.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/rest/entity/QueryDescriptionEntity.java,0,0.0,0,20min,20.0,18,378.3
+ksql,/main/java/io/confluent/ksql/rest/entity/QueryDescriptionList.java,0,0.0,0,20min,20.0,18,407.4
+ksql,/main/java/io/confluent/ksql/engine/QueryEngine.java,0,0.0,0,27min 30s,27.5,32,756.6
+ksql,/main/java/io/confluent/ksql/query/QueryId.java,0,0.0,0,20min,20.0,22,436.5
+ksql,/main/java/io/confluent/ksql/util/QueryIdGenerator.java,0,0.0,0,0,0.0,15,291.0
+ksql,/main/java/io/confluent/ksql/util/QueryLoggerUtil.java,0,0.0,0,0,0.0,12,481.8
+ksql,/main/java/io/confluent/ksql/internal/QueryStateListener.java,0,0.0,0,0,0.0,18,378.3
+ksql,/main/java/io/confluent/ksql/physical/QueueCallback.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/rest/server/computation/QueuedCommand.java,0,0.0,0,20min,20.0,29,735.6
+ksql,/main/java/io/confluent/ksql/rest/server/computation/QueuedCommandStatus.java,0,0.0,0,0,0.0,22,494.7
+ksql,/main/java/io/confluent/ksql/structured/QueuedSchemaKStream.java,0,0.0,0,0,0.0,39,947.4
+ksql,/main/java/io/confluent/ksql/function/udf/math/RandomKudf.java,0,0.0,0,0,0.0,9,452.7
+ksql,/main/java/io/confluent/ksql/metastore/ReferentialIntegrityTableEntry.java,0,0.0,0,0,0.0,30,552.9
+ksql,/main/java/io/confluent/ksql/parser/tree/RegisterTopic.java,0,0.0,0,27min 30s,27.5,35,910.2
+ksql,/main/java/io/confluent/ksql/ddl/commands/RegisterTopicCommand.java,0,0.0,3,1h 20min,80.0,26,611.1
+ksql,/main/java/io/confluent/ksql/parser/tree/Relation.java,0,0.0,0,7min 30s,7.5,12,510.9
+ksql,/main/java/io/confluent/ksql/rest/server/execution/RequestHandler.java,0,0.0,0,7min 30s,7.5,25,918.3
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/RequestPipeliningCommand.java,0,0.0,1,27min 30s,27.5,25,677.4
+ksql,/main/java/io/confluent/ksql/rest/server/validation/RequestValidator.java,0,0.0,0,15min,15.0,21,677.4
+ksql,/main/java/io/confluent/ksql/util/RetryUtil.java,1,0.0,0,25min,25.0,27,1021.8
+ksql,/main/java/ReverseUdf.java,0,0.0,0,0,0.0,null,null
+ksql,/main/java/io/confluent/ksql/rest/util/RocksDBConfigSetterHandler.java,0,0.0,0,0,0.0,11,606.3
+ksql,/main/java/io/confluent/ksql/rest/server/resources/RootDocument.java,0,0.0,0,0,0.0,14,569.1
+ksql,/main/java/io/confluent/ksql/function/udf/math/RoundKudf.java,0,0.0,0,0,0.0,9,452.7
+ksql,/main/java/io/confluent/ksql/rest/entity/RunningQuery.java,0,0.0,0,20min,20.0,23,552.9
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/RunScript.java,0,0.0,0,10min,10.0,28,735.6
+ksql,/main/java/io/confluent/ksql/util/Sandbox.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/services/SandboxedAdminClient.java,0,0.0,0,7min 30s,7.5,165,4389.3
+ksql,/main/java/io/confluent/ksql/services/SandboxedConsumer.java,0,0.0,0,0,0.0,8,423.6
+ksql,/main/java/io/confluent/ksql/engine/SandboxedExecutionContext.java,0,0.0,0,0,0.0,41,814.8
+ksql,/main/java/io/confluent/ksql/services/SandboxedKafkaClientSupplier.java,0,0.0,0,0,0.0,30,947.4
+ksql,/main/java/io/confluent/ksql/services/SandboxedSchemaRegistryClient.java,0,0.0,0,0,0.0,10,452.7
+ksql,/main/java/io/confluent/ksql/services/SandboxedTopicDescription.java,1,0.0,0,0,0.0,29,669.3
+ksql,/main/java/io/confluent/ksql/util/SandboxUtil.java,0,0.0,0,10min,10.0,7,423.6
+ksql,/main/java/io/confluent/ksql/schema/connect/SchemaFormatter.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/rest/entity/SchemaInfo.java,0,0.0,0,0,0.0,31,669.3
+ksql,/main/java/io/confluent/ksql/structured/SchemaKGroupedTable.java,0,0.0,0,30min,30.0,23,407.4
+ksql,/main/java/io/confluent/ksql/parser/tree/SearchedCaseExpression.java,0,0.0,0,20min,20.0,30,764.7
+ksql,/main/java/io/confluent/ksql/function/udf/caseexpression/SearchedCaseFunction.java,0,0.0,0,0,0.0,32,1320.9
+ksql,/main/java/io/confluent/ksql/parser/tree/Select.java,0,0.0,0,20min,20.0,31,764.7
+ksql,/main/java/io/confluent/ksql/util/SelectExpression.java,0,0.0,0,20min,20.0,28,889.2
+ksql,/main/java/io/confluent/ksql/parser/tree/SelectItem.java,0,0.0,0,0,0.0,8,423.6
+ksql,/main/java/io/confluent/ksql/structured/SelectValueMapper.java,0,0.0,0,30min,30.0,21,743.7
+ksql,/main/java/io/confluent/ksql/model/SemanticVersion.java,0,0.0,0,20min,20.0,42,1180.2
+ksql,/main/java/io/confluent/ksql/rest/server/computation/SequenceNumberFutureStore.java,0,0.0,0,10min,10.0,21,407.4
+ksql,/main/java/io/confluent/ksql/serde/SerdeFactories.java,0,0.0,0,0,0.0,9,232.8
+ksql,/main/java/io/confluent/ksql/metastore/SerdeFactory.java,0,0.0,0,0,0.0,3,58.2
+ksql,/main/java/io/confluent/ksql/rest/entity/ServerInfo.java,0,0.0,0,20min,20.0,23,677.4
+ksql,/main/java/io/confluent/ksql/rest/server/ServerOptions.java,0,0.0,0,17min 30s,17.5,25,1042.8
+ksql,/main/java/io/confluent/ksql/rest/server/state/ServerStateDynamicBinding.java,0,0.0,0,0,0.0,5,116.4
+ksql,/main/java/io/confluent/ksql/rest/server/state/ServerStateFilter.java,0,0.0,0,0,0.0,5,116.4
+ksql,/main/java/io/confluent/ksql/services/ServiceContext.java,0,0.0,0,0,0.0,9,87.3
+ksql,/main/java/io/confluent/ksql/ServiceInfo.java,0,0.0,0,0,0.0,23,648.3
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/SessionUtil.java,0,0.0,0,20min,20.0,20,963.6
+ksql,/main/java/io/confluent/ksql/parser/tree/SessionWindowExpression.java,0,0.0,0,20min,20.0,41,997.5
+ksql,/main/java/io/confluent/ksql/parser/tree/SetProperty.java,0,0.0,0,27min 30s,27.5,31,764.7
+ksql,/main/java/io/confluent/ksql/ddl/commands/SetPropertyCommand.java,0,0.0,0,0,0.0,11,232.8
+ksql,/main/java/io/confluent/ksql/parser/tree/ShowColumns.java,0,0.0,0,20min,20.0,37,910.2
+ksql,/main/java/io/confluent/ksql/parser/tree/SimpleCaseExpression.java,0,0.0,0,20min,20.0,31,852.0
+ksql,/main/java/io/confluent/ksql/rest/entity/SimpleFunctionInfo.java,0,0.0,0,20min,20.0,28,735.6
+ksql,/main/java/io/confluent/ksql/parser/tree/Sink.java,0,0.0,0,0,0.0,15,502.8
+ksql,/main/java/io/confluent/ksql/rest/entity/SourceDescriptionEntity.java,0,0.0,0,20min,20.0,17,378.3
+ksql,/main/java/io/confluent/ksql/rest/entity/SourceDescriptionList.java,0,0.0,0,20min,20.0,19,407.4
+ksql,/main/java/io/confluent/ksql/rest/entity/SourceInfo.java,0,0.0,0,1h 5min,65.0,61,1836.6
+ksql,/main/java/io/confluent/ksql/topic/SourceTopicsExtractor.java,0,0.0,0,0,0.0,21,552.9
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/Spool.java,0,0.0,0,0,0.0,27,706.5
+ksql,/main/java/io/confluent/ksql/rest/ssl/SslClientConfigurer.java,0,0.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/rest/ssl/SslUtil.java,0,0.0,0,40min,40.0,32,1071.9
+ksql,/main/java/io/confluent/ksql/parser/tree/Statement.java,0,0.0,0,7min 30s,7.5,13,510.9
+ksql,/main/java/io/confluent/ksql/rest/server/execution/StatementExecutor.java,0,0.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/rest/server/StatementParser.java,0,0.0,0,0,0.0,12,261.9
+ksql,/main/java/io/confluent/ksql/parser/rewrite/StatementRewriteForStruct.java,0,0.0,0,17min 30s,17.5,38,1034.7
+ksql,/main/java/io/confluent/ksql/parser/rewrite/StatementRewriter.java,0,0.0,0,15min,15.0,228,4796.7
+ksql,/main/java/io/confluent/ksql/rest/server/resources/StatusResource.java,0,0.0,0,10min,10.0,16,349.2
+ksql,/main/java/io/confluent/ksql/rest/entity/StreamedRow.java,0,0.0,0,20min,20.0,43,1113.9
+ksql,/main/java/io/confluent/ksql/streams/StreamsFactories.java,0,0.0,0,0,0.0,19,465.6
+ksql,/main/java/io/confluent/ksql/rest/entity/StreamsList.java,0,0.0,0,20min,20.0,20,436.5
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/StreamsListTableBuilder.java,0,0.0,0,0,0.0,13,510.9
+ksql,/main/java/io/confluent/ksql/streams/StreamsUtil.java,0,0.0,0,0,0.0,16,569.1
+ksql,/main/java/io/confluent/ksql/parser/tree/StringLiteral.java,0,0.0,3,37min 30s,37.5,27,677.4
+ksql,/main/java/io/confluent/ksql/util/timestamp/StringTimestampExtractionPolicy.java,0,0.0,0,20min,20.0,23,494.7
+ksql,/main/java/io/confluent/ksql/util/timestamp/StringTimestampExtractor.java,0,0.0,0,10min,10.0,15,320.1
+ksql,/main/java/io/confluent/ksql/function/udf/datetime/StringToDate.java,0,0.0,0,10min,10.0,14,510.9
+ksql,/main/java/io/confluent/ksql/function/udf/datetime/StringToTimestamp.java,0,0.0,0,20min,20.0,18,320.1
+ksql,/main/java/io/confluent/ksql/util/timestamp/StringToTimestampParser.java,0,0.0,0,0,0.0,17,349.2
+ksql,/main/java/io/confluent/ksql/util/StringUtil.java,1,0.0,0,20min,20.0,15,569.1
+ksql,/main/java/io/confluent/ksql/parser/tree/Struct.java,0,0.0,0,47min 30s,47.5,87,2032.2
+ksql,/main/java/io/confluent/ksql/json/StructSerializationModule.java,0,0.0,0,7min 30s,7.5,25,1050.9
+ksql,/main/java/io/confluent/ksql/parser/tree/SubscriptExpression.java,0,0.0,0,20min,20.0,30,764.7
+ksql,/main/java/io/confluent/ksql/function/udf/string/Substring.java,0,0.0,0,20min,20.0,65,2172.9
+ksql,/main/java/io/confluent/ksql/function/udaf/sum/SumAggFunctionFactory.java,0,0.0,3,20min,20.0,12,693.6
+ksql,/main/java/SummaryStatsUdaf.java,0,0.0,0,7min 30s,7.5,null,null
+ksql,/main/java/io/confluent/ksql/parser/tree/Table.java,0,0.0,0,20min,20.0,29,735.6
+ksql,/main/java/io/confluent/ksql/function/TableAggregationFunction.java,0,0.0,0,0,0.0,6,145.5
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/TableBuilder.java,0,0.0,0,0,0.0,6,145.5
+ksql,/main/java/io/confluent/ksql/parser/tree/TableElement.java,0,0.0,0,20min,20.0,38,910.2
+ksql,/main/java/io/confluent/ksql/rest/entity/TablesList.java,0,0.0,0,20min,20.0,20,436.5
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/TablesListTableBuilder.java,0,0.0,0,0,0.0,13,510.9
+ksql,/main/java/io/confluent/ksql/function/udaf/TableUdaf.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/rest/util/TerminateCluster.java,0,0.0,0,7min 30s,7.5,20,685.5
+ksql,/main/java/io/confluent/ksql/parser/tree/TerminateQuery.java,0,0.0,0,20min,20.0,28,735.6
+ksql,/main/java/io/confluent/ksql/serde/tls/ThreadLocalDeserializer.java,0,0.0,0,0,0.0,21,465.6
+ksql,/main/java/io/confluent/ksql/serde/tls/ThreadLocalSerializer.java,0,0.0,0,0,0.0,21,465.6
+ksql,/main/java/io/confluent/ksql/parser/tree/TimeLiteral.java,0,0.0,3,37min 30s,37.5,25,677.4
+ksql,/main/java/io/confluent/ksql/util/timestamp/TimestampExtractionPolicy.java,0,0.0,0,0,0.0,10,203.7
+ksql,/main/java/io/confluent/ksql/util/timestamp/TimestampExtractionPolicyFactory.java,0,0.0,0,40min,40.0,24,963.6
+ksql,/main/java/io/confluent/ksql/parser/tree/TimestampLiteral.java,0,0.0,3,37min 30s,37.5,25,677.4
+ksql,/main/java/io/confluent/ksql/util/TimestampLogFileAppender.java,0,0.0,0,0,0.0,11,481.8
+ksql,/main/java/io/confluent/ksql/function/udf/datetime/TimestampToString.java,0,0.0,0,20min,20.0,20,378.3
+ksql,/main/java/io/confluent/ksql/engine/TopicAccessValidator.java,0,0.0,0,0,0.0,3,29.1
+ksql,/main/java/io/confluent/ksql/engine/TopicAccessValidatorFactory.java,0,0.0,0,1h,60.0,21,839.1
+ksql,/main/java/io/confluent/ksql/topic/TopicCreateInjector.java,0,0.0,0,45min,45.0,49,1151.1
+ksql,/main/java/io/confluent/ksql/topic/TopicDeleteInjector.java,0,0.0,0,37min 30s,37.5,22,619.2
+ksql,/main/java/io/confluent/ksql/rest/entity/TopicDescription.java,0,0.0,0,20min,20.0,26,640.2
+ksql,/main/java/io/confluent/ksql/cli/console/table/builder/TopicDescriptionTableBuilder.java,0,0.0,0,0,0.0,14,569.1
+ksql,/main/java/io/confluent/ksql/schema/inference/TopicSchemaSupplier.java,0,0.0,0,0,0.0,43,1765.5
+ksql,/main/java/io/confluent/ksql/services/TopicValidationUtil.java,0,0.0,0,0,0.0,13,510.9
+ksql,/main/java/io/confluent/ksql/function/udaf/topk/TopKAggregateFunctionFactory.java,0,0.0,4,1h 35min,95.0,20,378.3
+ksql,/main/java/io/confluent/ksql/function/udaf/topkdistinct/TopkDistinctAggFunctionFactory.java,0,0.0,0,0,0.0,16,320.1
+ksql,/main/java/io/confluent/ksql/function/udaf/topkdistinct/TopkDistinctKudaf.java,0,0.0,0,40min,40.0,35,1130.1
+ksql,/main/java/io/confluent/ksql/physical/TransientQueryQueue.java,1,0.0,0,30min,30.0,33,698.4
+ksql,/main/java/io/confluent/ksql/function/udf/string/TrimKudf.java,0,0.0,0,0,0.0,9,452.7
+ksql,/main/java/io/confluent/ksql/cli/console/TrimmingParser.java,0,0.0,0,20min,20.0,13,320.1
+ksql,/main/java/io/confluent/ksql/parser/tree/TumblingWindowExpression.java,0,0.0,0,20min,20.0,45,1084.8
+ksql,/main/java/io/confluent/ksql/parser/tree/Type.java,0,0.0,0,7min 30s,7.5,14,291.0
+ksql,/main/java/io/confluent/ksql/schema/ksql/TypeContextUtil.java,0,0.0,0,57min 30s,57.5,29,1080.0
+ksql,/main/java/io/confluent/ksql/function/udf/string/UCaseKudf.java,0,0.0,0,0,0.0,9,452.7
+ksql,/main/java/io/confluent/ksql/function/udaf/Udaf.java,0,0.0,0,0,0.0,3,29.1
+ksql,/main/java/io/confluent/ksql/function/udaf/UdafAggregateFunctionFactory.java,0,0.0,0,0,0.0,16,569.1
+ksql,/main/java/io/confluent/ksql/function/UdafAggregator.java,0,0.0,0,0,0.0,5,116.4
+ksql,/main/java/io/confluent/ksql/function/udaf/UdafDescription.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/function/UdafTemplate.java,0,0.0,0,2h,120.0,20,656.4
+ksql,/main/java/io/confluent/ksql/function/udf/Udf.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/function/udaf/UdfArgSupplier.java,0,0.0,0,0,0.0,5,145.5
+ksql,/main/java/io/confluent/ksql/function/UdfClassLoader.java,0,0.0,0,10min,10.0,36,939.3
+ksql,/main/java/io/confluent/ksql/function/udf/UdfDescription.java,0,0.0,0,0,0.0,1,29.1
+ksql,/main/java/io/confluent/ksql/function/UdfFactory.java,0,0.0,0,0,0.0,52,1143.0
+ksql,/main/java/io/confluent/ksql/function/UdfIndex.java,0,0.0,0,57min 30s,57.5,98,2389.5
+ksql,/main/java/io/confluent/ksql/function/UdfInvoker.java,0,0.0,0,0,0.0,2,29.1
+ksql,/main/java/io/confluent/ksql/function/UdfMetricProducer.java,0,0.0,0,10min,10.0,15,627.3
+ksql,/main/java/io/confluent/ksql/function/udf/UdfParameter.java,0,0.0,0,0,0.0,2,58.2
+ksql,/main/java/io/confluent/ksql/function/UdfTemplate.java,0,0.0,0,4h 5min,245.0,42,1582.8
+ksql,/main/java/io/confluent/ksql/function/UdfUtil.java,0,0.0,1,10min,10.0,9,452.7
+ksql,/main/java/io/confluent/ksql/parser/tree/UnsetProperty.java,0,0.0,0,27min 30s,27.5,25,552.9
+ksql,/main/java/io/confluent/ksql/ddl/commands/UnsetPropertyCommand.java,0,0.0,0,0,0.0,11,232.8
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlDecodeParamKudf.java,0,0.0,0,10min,10.0,11,386.4
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlEncodeParamKudf.java,0,0.0,0,0,0.0,11,386.4
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlExtractFragmentKudf.java,0,0.0,0,0,0.0,10,357.3
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlExtractHostKudf.java,0,0.0,0,0,0.0,11,386.4
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlExtractParameterKudf.java,0,0.0,0,40min,40.0,14,598.2
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlExtractPathKudf.java,0,0.0,0,0,0.0,11,386.4
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlExtractPortKudf.java,0,0.0,0,0,0.0,9,386.4
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlExtractProtocolKudf.java,0,0.0,0,0,0.0,11,386.4
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlExtractQueryKudf.java,0,0.0,0,0,0.0,11,386.4
+ksql,/main/java/io/confluent/ksql/function/udf/url/UrlParser.java,0,0.0,0,20min,20.0,5,365.4
+ksql,/main/java/io/confluent/ksql/cli/console/cmd/Version.java,0,0.0,0,0,0.0,22,590.1
+ksql,/main/java/io/confluent/ksql/version/metrics/VersionCheckerAgent.java,0,0.0,0,0,0.0,5,145.5
+ksql,/main/java/io/confluent/ksql/rest/entity/Versions.java,0,0.0,0,7min 30s,7.5,10,357.3
+ksql,/main/java/io/confluent/ksql/rest/server/resources/streaming/WebSocketSubscriber.java,0,0.0,0,7min 30s,7.5,31,669.3
+ksql,/main/java/io/confluent/ksql/util/WelcomeMsgUtils.java,0,0.0,0,0,0.0,10,423.6
+ksql,/main/java/io/confluent/ksql/parser/tree/WhenClause.java,0,0.0,0,20min,20.0,30,764.7
+ksql,/main/java/io/confluent/ksql/parser/tree/WindowExpression.java,0,0.0,0,50min,50.0,37,910.2
+ksql,/main/java/io/confluent/ksql/util/WithClauseUtil.java,0,0.0,0,20min,20.0,17,569.1
+ksql,/main/java/io/confluent/ksql/parser/tree/WithinExpression.java,0,0.0,0,20min,20.0,49,1230.3

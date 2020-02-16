@@ -1,0 +1,570 @@
+grpc-java,/main/java/io/grpc/testing/integration/AbstractInteropTest.java,69,1058.0,5,6h 42min,402.0,428,13798.8
+grpc-java,/main/java/io/grpc/testing/integration/TestServiceClient.java,37,560.0,6,3h 10min,190.0,100,4187.4
+grpc-java,/main/java/io/grpc/stub/ClientCalls.java,51,514.0,0,2h 45min,165.0,245,7637.4
+grpc-java,/main/java/io/grpc/testing/integration/StressTestClient.java,31,426.0,5,2h 40min,160.0,231,8217.9
+grpc-java,/main/java/io/grpc/internal/ServiceConfigUtil.java,26,390.0,0,6h 15min,375.0,186,5660.1
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/Platform.java,44,370.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/testing/integration/Http2Client.java,23,361.0,4,1h 2min,62.0,167,5642.4
+grpc-java,/main/java/io/grpc/routeguideexample/RouteGuideActivity.java,21,336.0,0,1h 7min,67.0,177,5991.6
+grpc-java,/main/java/io/grpc/internal/RetriableStream.java,38,331.0,2,1M/d,480.0,371,16242.0
+grpc-java,/main/java/io/grpc/stub/ServerCalls.java,33,315.0,0,47min 30s,47.5,198,6290.7
+grpc-java,/main/java/io/grpc/internal/ClientCallImpl.java,19,310.0,0,3h 52min,232.0,193,6290.7
+grpc-java,/main/java/io/grpc/xds/XdsClientImpl.java,12,278.0,14,1M/d 2h,600.0,176,6481.5
+grpc-java,/main/java/io/grpc/util/TransmitStatusRuntimeExceptionInterceptor.java,30,270.0,0,47min 30s,47.5,69,2181.0
+grpc-java,/main/java/io/grpc/testing/integration/TestServiceServer.java,15,268.0,5,1h 20min,80.0,49,1346.7
+grpc-java,/main/java/io/grpc/internal/DnsNameResolver.java,19,267.0,1,5h 55min,355.0,203,6573.6
+grpc-java,/main/java/io/grpc/benchmarks/driver/LoadWorker.java,12,246.0,4,1h 17min,77.0,63,2077.5
+grpc-java,/jmh/java/io/grpc/benchmarks/TransportBenchmark.java,17,245.0,0,32min 30s,32.5,121,4059.6
+grpc-java,/jmh/java/io/grpc/benchmarks/netty/AbstractBenchmark.java,19,232.0,8,2h 15min,135.0,67,2866.5
+grpc-java,/main/java/io/grpc/internal/ServerImpl.java,26,224.0,0,5h 5min,305.0,238,7889.7
+grpc-java,/main/java/io/grpc/testing/integration/GrpclbLongLivedAffinityTestClient.java,13,203.0,4,1h 25min,85.0,51,1442.1
+grpc-java,/main/java/io/grpc/LoadBalancer.java,21,201.0,1,1h 30min,90.0,281,7142.7
+grpc-java,/main/java/io/grpc/internal/JndiResourceResolverFactory.java,13,194.0,3,1h 52min,112.0,101,4092.0
+grpc-java,/main/java/io/grpc/testing/integration/TestServiceImpl.java,20,185.0,12,3h 35min,215.0,102,3631.2
+grpc-java,/main/java/io/grpc/services/BinlogHelper.java,21,184.0,3,5h 7min,307.0,156,4787.1
+grpc-java,/main/java/io/grpc/internal/ReflectionLongAdderCounter.java,12,180.0,0,10min,10.0,28,669.3
+grpc-java,/main/java/io/grpc/benchmarks/driver/LoadClient.java,16,179.0,0,2h 50min,170.0,128,4769.4
+grpc-java,/main/java/io/grpc/benchmarks/qps/AsyncServer.java,18,175.0,9,2h 15min,135.0,71,2376.6
+grpc-java,/main/java/io/grpc/android/integrationtest/InteropTask.java,13,168.0,0,50min,50.0,58,1990.2
+grpc-java,/main/java/io/grpc/okhttp/OkHttpClientTransport.java,25,168.0,0,7h 37min,457.0,295,11520.9
+grpc-java,/main/java/io/grpc/clientcacheexample/SafeMethodCachingInterceptor.java,10,167.0,0,45min,45.0,88,2082.3
+grpc-java,/main/java/io/grpc/internal/JsonUtil.java,11,165.0,1,1h,60.0,31,1752.6
+grpc-java,/main/java/io/grpc/internal/ManagedChannelImpl.java,33,165.0,0,1M/d 1h,540.0,604,20927.1
+grpc-java,/main/java/io/grpc/netty/NettyClientHandler.java,11,165.0,0,3h 30min,210.0,201,6507.3
+grpc-java,/main/java/io/grpc/netty/NettyServerHandler.java,14,165.0,0,4h 42min,282.0,260,8680.2
+grpc-java,/main/java/io/grpc/inprocess/InProcessTransport.java,22,160.0,1,5h 57min,357.0,351,11915.4
+grpc-java,/main/java/io/grpc/internal/CensusStatsModule.java,13,158.0,14,4h 52min,292.0,213,6690.0
+grpc-java,/main/java/io/grpc/MethodDescriptor.java,15,158.0,0,32min 30s,32.5,108,2979.6
+grpc-java,/main/java/io/grpc/examples/alts/HelloWorldAltsServer.java,7,155.0,7,40min,40.0,35,968.4
+grpc-java,/main/java/io/grpc/NameResolver.java,16,150.0,0,1h 10min,70.0,217,6386.1
+grpc-java,/main/java/io/grpc/internal/ServerCallImpl.java,10,150.0,0,1h 32min,92.0,130,4038.6
+grpc-java,/main/java/io/grpc/internal/testing/TestUtils.java,9,150.0,6,2h 7min,127.0,39,1707.3
+grpc-java,/main/java/io/grpc/netty/Utils.java,10,149.0,3,4h 30min,270.0,118,3876.9
+grpc-java,/main/java/io/grpc/auth/GoogleAuthLibraryCallCredentials.java,16,147.0,0,2h 5min,125.0,86,2564.1
+grpc-java,/main/java/io/grpc/ServerInterceptors.java,15,145.0,0,32min 30s,32.5,70,2231.1
+grpc-java,/main/java/io/grpc/Context.java,11,140.0,0,4h 22min,262.0,217,6814.5
+grpc-java,/main/java/io/grpc/examples/alts/HelloWorldAltsClient.java,6,140.0,7,47min 30s,47.5,24,611.1
+grpc-java,/main/java/io/grpc/examples/errorhandling/DetailErrorSample.java,7,138.0,0,30min,30.0,35,976.5
+grpc-java,/main/java/io/grpc/examples/errorhandling/ErrorHandlingClient.java,7,138.0,0,37min 30s,37.5,27,889.2
+grpc-java,/main/java/io/grpc/benchmarks/qps/AsyncClient.java,11,135.0,2,1h 40min,100.0,136,4848.6
+grpc-java,/main/java/io/grpc/ClientInterceptors.java,14,125.0,0,15min,15.0,57,1940.1
+grpc-java,/main/java/io/grpc/ServerServiceDefinition.java,9,125.0,0,7min 30s,7.5,45,1122.0
+grpc-java,/main/java/io/grpc/InternalChannelz.java,12,123.0,0,4h 20min,260.0,776,33153.3
+grpc-java,/main/java/io/grpc/testing/TestUtils.java,9,120.0,8,1h,60.0,30,1657.2
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Http2.java,18,118.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/benchmarks/driver/LoadServer.java,11,115.0,0,17min 30s,17.5,60,1799.4
+grpc-java,/main/java/io/grpc/ServerStreamTracer.java,11,115.0,0,7min 30s,7.5,58,2239.2
+grpc-java,/main/java/io/grpc/benchmarks/Utils.java,8,115.0,0,1h 40min,100.0,55,1990.2
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/DistinguishedNameParser.java,20,109.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/testing/integration/ReconnectTestClient.java,14,108.0,0,7min 30s,7.5,38,1333.8
+grpc-java,/testShadow/java/io/grpc/netty/shaded/ShadingTest.java,6,108.0,0,7min 30s,7.5,55,1529.4
+grpc-java,/main/java/io/grpc/netty/NettyServer.java,9,106.0,0,1h 32min,92.0,98,3037.8
+grpc-java,/main/java/io/grpc/internal/MessageDeframer.java,7,104.0,1,2h 47min,167.0,160,5277.0
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/Util.java,13,102.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/internal/DelayedStream.java,22,100.0,0,2h 5min,125.0,134,3490.5
+grpc-java,/main/java/io/grpc/xds/sds/SdsClient.java,11,100.0,0,1h 10min,70.0,115,4258.5
+grpc-java,/main/java/io/grpc/internal/AutoConfiguredLoadBalancerFactory.java,13,97.0,0,2h 35min,155.0,162,4840.5
+grpc-java,/jmh/java/io/grpc/internal/SerializingExecutorBenchmark.java,7,95.0,0,0,0.0,36,1122.0
+grpc-java,/main/java/io/grpc/internal/InternalSubchannel.java,16,92.0,1,2h 50min,170.0,200,5763.6
+grpc-java,/main/java/io/grpc/HandlerRegistry.java,5,90.0,0,7min 30s,7.5,7,519.0
+grpc-java,/main/java/io/grpc/netty/NettyChannelBuilder.java,13,88.0,5,3h 40min,220.0,195,5726.4
+grpc-java,/main/java/io/grpc/netty/NettyServerBuilder.java,9,88.0,0,57min 30s,57.5,139,4143.6
+grpc-java,/main/java/io/grpc/cronet/CronetChannelBuilder.java,9,86.0,0,30min,30.0,108,3336.9
+grpc-java,/main/java/io/grpc/internal/NoopClientStream.java,14,85.0,0,7min 30s,7.5,60,1143.0
+grpc-java,/main/java/io/grpc/xds/sds/SslContextProvider.java,5,85.0,0,0,0.0,28,669.3
+grpc-java,/main/java/io/grpc/cronet/CronetClientStream.java,13,81.0,0,3h,180.0,231,8906.7
+grpc-java,/main/java/io/grpc/android/AndroidChannelBuilder.java,7,80.0,0,20min,20.0,141,5412.9
+grpc-java,/main/java/io/grpc/InternalServerInterceptors.java,8,80.0,0,0,0.0,18,780.9
+grpc-java,/main/java/io/grpc/stub/MetadataUtils.java,8,80.0,0,0,0.0,83,4066.2
+grpc-java,/main/java/io/grpc/okhttp/OkHttpChannelBuilder.java,7,77.0,5,2h 27min,147.0,133,4014.3
+grpc-java,/main/java/io/grpc/internal/ApplicationThreadDeframer.java,9,75.0,0,27min 30s,27.5,82,2472.0
+grpc-java,/main/java/io/grpc/Attributes.java,6,75.0,0,57min 30s,57.5,69,2143.8
+grpc-java,/main/java/io/grpc/auth/ClientAuthInterceptor.java,9,75.0,0,57min 30s,57.5,43,1662.0
+grpc-java,/main/java/io/grpc/ForwardingChannelBuilder.java,5,75.0,0,15min,15.0,179,8863.2
+grpc-java,/main/java/io/grpc/internal/SubchannelChannel.java,9,75.0,0,37min 30s,37.5,27,582.0
+grpc-java,/main/java/io/grpc/BinaryLog.java,5,70.0,0,0,0.0,9,510.9
+grpc-java,/main/java/io/grpc/CallCredentials.java,5,70.0,0,0,0.0,22,1337.1
+grpc-java,/main/java/io/grpc/grpclb/GrpclbLoadBalancerProvider.java,3,70.0,4,1h 50min,110.0,38,1466.4
+grpc-java,/main/java/io/grpc/netty/NettyClientStream.java,4,70.0,0,1h 2min,62.0,126,3943.2
+grpc-java,/main/java/io/grpc/android/integrationtest/TesterOkHttpChannelBuilder.java,4,70.0,0,10min,10.0,25,1167.3
+grpc-java,/main/java/io/grpc/grpclb/GrpclbState.java,13,67.0,2,5h 55min,355.0,346,10794.9
+grpc-java,/main/java/io/grpc/internal/AbstractManagedChannelImplBuilder.java,9,65.0,0,2h 22min,142.0,270,7530.6
+grpc-java,/main/java/io/grpc/grpclb/GrpclbLoadBalancer.java,5,65.0,5,2h 5min,125.0,64,1836.6
+grpc-java,/main/java/io/grpc/netty/NettyServerTransport.java,3,65.0,1,1h,60.0,70,1995.0
+grpc-java,/main/java/io/grpc/internal/AbstractServerImplBuilder.java,3,60.0,0,15min,15.0,155,4268.1
+grpc-java,/main/java/io/grpc/services/BinaryLogProvider.java,9,60.0,0,1h 27min,87.0,68,2866.5
+grpc-java,/main/java/io/grpc/alts/ComputeEngineChannelBuilder.java,3,60.0,3,17min 30s,17.5,20,743.7
+grpc-java,/main/java/io/grpc/alts/FailingClientCall.java,7,60.0,0,0,0.0,25,436.5
+grpc-java,/main/java/io/grpc/util/ForwardingLoadBalancerHelper.java,8,60.0,0,7min 30s,7.5,118,4839.0
+grpc-java,/main/java/io/grpc/alts/GoogleDefaultChannelBuilder.java,3,60.0,3,17min 30s,17.5,20,743.7
+grpc-java,/main/java/io/grpc/examples/helloworldtls/HelloWorldClientTls.java,4,60.0,4,30min,30.0,33,968.4
+grpc-java,/jmh/java/io/grpc/netty/InboundHeadersBenchmark.java,12,60.0,0,7min 30s,7.5,28,698.4
+grpc-java,/main/java/io/grpc/netty/JettyTlsUtil.java,6,60.0,0,1h,60.0,29,793.8
+grpc-java,/main/java/io/grpc/netty/NettyClientTransport.java,6,60.0,1,2h 5min,125.0,93,2680.5
+grpc-java,/main/java/io/grpc/okhttp/OkHttpClientStream.java,3,60.0,0,1h 7min,67.0,139,4877.7
+grpc-java,/main/java/io/grpc/PartialForwardingClientCall.java,4,60.0,0,0,0.0,42,2022.6
+grpc-java,/main/java/io/grpc/PartialForwardingServerCall.java,4,60.0,0,0,0.0,63,3235.2
+grpc-java,/main/java/io/grpc/internal/testing/TestServerStreamTracer.java,3,60.0,0,7min 30s,7.5,73,1733.1
+grpc-java,/main/java/io/grpc/protobuf/lite/ProtoLiteUtils.java,4,58.0,0,1h 35min,95.0,68,2530.2
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Hpack.java,2,56.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/internal/ConscryptLoader.java,3,55.0,0,20min,20.0,12,349.2
+grpc-java,/main/java/io/grpc/ManagedChannelBuilder.java,4,55.0,0,0,0.0,63,4800.3
+grpc-java,/main/java/io/grpc/okhttp/OkHttpFrameLogger.java,11,55.0,0,10min,10.0,76,1513.2
+grpc-java,/main/java/io/grpc/internal/ProxyDetectorImpl.java,7,55.0,0,1h 55min,115.0,39,1084.8
+grpc-java,/main/java/io/grpc/internal/CensusTracingModule.java,4,50.0,4,1h 22min,82.0,130,4345.8
+grpc-java,/main/java/io/grpc/alts/HandshakerServiceChannel.java,4,50.0,0,0,0.0,62,2114.7
+grpc-java,/main/java/io/grpc/examples/helloworld/HelloWorldClient.java,3,50.0,4,30min,30.0,20,677.4
+grpc-java,/main/java/io/grpc/InternalClientInterceptors.java,3,50.0,0,0,0.0,8,452.7
+grpc-java,/main/java/io/grpc/netty/NettyHandlerSettings.java,2,50.0,0,10min,10.0,25,552.9
+grpc-java,/main/java/io/grpc/alts/internal/NettyTsiHandshaker.java,4,50.0,2,30min,30.0,34,1151.1
+grpc-java,/main/java/io/grpc/internal/OobChannel.java,5,50.0,0,47min 30s,47.5,98,2315.1
+grpc-java,/main/java/io/grpc/okhttp/OutboundFlowController.java,3,50.0,0,10min,10.0,96,2871.3
+grpc-java,/main/java/io/grpc/netty/ProtocolNegotiators.java,9,50.0,0,1h 27min,87.0,292,7858.8
+grpc-java,/main/java/io/grpc/ServerCall.java,6,50.0,0,7min 30s,7.5,28,1461.6
+grpc-java,/main/java/io/grpc/cronet/CronetClientTransport.java,6,48.0,0,1h 20min,80.0,81,2111.4
+grpc-java,/androidTest/java/io/grpc/android/integrationtest/InteropInstrumentationTest.java,5,46.0,0,22min 30s,22.5,37,1238.4
+grpc-java,/main/java/io/grpc/strictmodehelloworldexample/StrictModeHelloworldActivity.java,3,46.0,5,1h 5min,65.0,66,2106.6
+grpc-java,/main/java/io/grpc/internal/AbstractClientStream.java,7,45.0,0,2h 7min,127.0,161,4077.3
+grpc-java,/main/java/io/grpc/examples/experimental/CompressingHelloWorldServerAllMethods.java,5,45.0,0,7min 30s,7.5,34,1188.3
+grpc-java,/main/java/io/grpc/examples/hedging/HedgingHelloWorldServer.java,5,45.0,0,10min,10.0,46,1852.8
+grpc-java,/main/java/io/grpc/internal/Http2Ping.java,6,45.0,0,30min,30.0,16,685.5
+grpc-java,/main/java/io/grpc/internal/NoopClientCall.java,7,45.0,0,0,0.0,25,934.5
+grpc-java,/main/java/io/grpc/examples/routeguide/RouteGuideUtil.java,2,45.0,0,10min,10.0,17,619.2
+grpc-java,/main/java/io/grpc/xds/sds/internal/SdsProtocolNegotiators.java,9,45.0,2,45min,45.0,120,2876.1
+grpc-java,/main/java/io/grpc/ServerMethodDefinition.java,5,45.0,0,0,0.0,11,357.3
+grpc-java,/main/java/io/grpc/okhttp/OkHttpProtocolNegotiator.java,3,42.0,0,30min,30.0,52,1807.5
+grpc-java,/main/java/io/grpc/helloworldexample/HelloworldActivity.java,2,41.0,5,57min 30s,57.5,52,1998.3
+grpc-java,/jmh/java/io/grpc/benchmarks/ThreadlessExecutor.java,3,41.0,0,0,0.0,8,203.7
+grpc-java,/main/java/io/grpc/internal/AbstractStream.java,2,40.0,0,35min,35.0,79,2032.2
+grpc-java,/main/java/io/grpc/alts/internal/AesGcmAeadCrypter.java,2,40.0,0,40min,40.0,59,1704.0
+grpc-java,/main/java/io/grpc/alts/internal/AltsHandshakerClient.java,3,40.0,0,40min,40.0,45,1362.9
+grpc-java,/main/java/io/grpc/ClientCall.java,4,40.0,0,7min 30s,7.5,21,1096.2
+grpc-java,/main/java/io/grpc/ForwardingClientCall.java,4,40.0,0,0,0.0,28,1080.0
+grpc-java,/main/java/io/grpc/internal/ForwardingManagedChannel.java,3,40.0,0,0,0.0,63,2093.7
+grpc-java,/main/java/io/grpc/ForwardingServerCall.java,4,40.0,0,0,0.0,25,897.3
+grpc-java,/main/java/io/grpc/testing/GrpcCleanupRule.java,2,40.0,1,10min,10.0,84,1986.9
+grpc-java,/main/java/io/grpc/netty/GrpcSslContexts.java,3,40.0,2,1h 40min,100.0,46,1421.1
+grpc-java,/main/java/io/grpc/internal/GrpcUtil.java,6,40.0,12,1M/d,480.0,99,3880.2
+grpc-java,/main/java/io/grpc/examples/advanced/HelloJsonClient.java,3,40.0,4,30min,30.0,42,1333.8
+grpc-java,/main/java/io/grpc/ManagedChannelProvider.java,2,40.0,0,0,0.0,28,1445.4
+grpc-java,/main/java/io/grpc/examples/manualflowcontrol/ManualFlowControlServer.java,7,40.0,0,7min 30s,7.5,19,868.2
+grpc-java,/main/java/io/grpc/internal/NoopServerCall.java,6,40.0,0,0,0.0,31,1050.9
+grpc-java,/jmh/java/io/grpc/netty/OutboundHeadersBenchmark.java,2,40.0,1,25min,25.0,31,910.2
+grpc-java,/main/java/io/grpc/internal/PickFirstLoadBalancerProvider.java,1,40.0,0,0,0.0,24,743.7
+grpc-java,/main/java/io/grpc/util/SecretRoundRobinLoadBalancerProvider.java,1,40.0,0,0,0.0,33,1167.3
+grpc-java,/main/java/io/grpc/internal/SerializeReentrantCallsDirectExecutor.java,2,40.0,0,10min,10.0,19,590.1
+grpc-java,/main/java/io/grpc/internal/ServiceConfigInterceptor.java,4,40.0,0,35min,35.0,42,1304.7
+grpc-java,/main/java/io/grpc/ServiceDescriptor.java,2,40.0,0,0,0.0,49,1122.0
+grpc-java,/main/java/io/grpc/Status.java,4,40.0,4,4h 5min,245.0,132,4644.9
+grpc-java,/main/java/io/grpc/alts/internal/TsiPeer.java,2,40.0,0,17min 30s,17.5,76,3356.4
+grpc-java,/main/java/io/grpc/okhttp/Utils.java,2,40.0,0,7min 30s,7.5,28,1196.4
+grpc-java,/main/java/io/grpc/xds/Bootstrapper.java,3,39.0,0,1h 15min,75.0,50,1595.7
+grpc-java,/main/java/io/grpc/examples/helloworldtls/HelloWorldServerTls.java,6,39.0,0,0,0.0,50,1479.3
+grpc-java,/main/java/io/grpc/xds/LocalityStore.java,10,37.0,0,3h 45min,225.0,212,6369.9
+grpc-java,/main/java/io/grpc/benchmarks/qps/AbstractConfigurationBuilder.java,4,36.0,0,32min 30s,32.5,42,1699.2
+grpc-java,/main/java/io/grpc/Metadata.java,4,36.0,6,4h 7min,247.0,176,4580.1
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/ConnectionSpec.java,2,35.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/services/HealthCheckingLoadBalancerFactory.java,5,35.0,0,35min,35.0,207,5850.9
+grpc-java,/main/java/io/grpc/NameResolverProvider.java,4,35.0,0,15min,15.0,15,598.2
+grpc-java,/main/java/io/grpc/testing/integration/NettyClientInteropServlet.java,7,35.0,0,7min 30s,7.5,58,1844.7
+grpc-java,/main/java/io/grpc/netty/NettyServerStream.java,2,35.0,0,55min,55.0,101,3149.4
+grpc-java,/main/java/io/grpc/benchmarks/qps/OpenLoopClient.java,6,35.0,0,37min 30s,37.5,67,2318.4
+grpc-java,/main/java/io/grpc/benchmarks/qps/ServerConfiguration.java,2,35.0,2,10min,10.0,133,5757.3
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/CipherSuite.java,16,32.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/Deadline.java,5,32.0,0,1h 40min,100.0,69,2451.0
+grpc-java,/main/java/io/grpc/alts/internal/RpcProtocolVersionsUtil.java,2,32.0,0,27min 30s,27.5,54,1749.3
+grpc-java,/main/java/io/grpc/internal/testing/StatsTestUtils.java,8,32.0,0,1h 12min,72.0,228,6536.4
+grpc-java,/main/java/io/grpc/Channel.java,3,30.0,0,7min 30s,7.5,8,423.6
+grpc-java,/main/java/io/grpc/Contexts.java,3,30.0,0,50min,50.0,35,1167.3
+grpc-java,/main/java/io/grpc/examples/header/CustomHeaderClient.java,3,30.0,4,30min,30.0,19,648.3
+grpc-java,/main/java/io/grpc/util/ForwardingLoadBalancer.java,4,30.0,0,7min 30s,7.5,59,2496.3
+grpc-java,/main/java/io/grpc/netty/GrpcHttp2HeadersUtils.java,1,30.0,0,1h 47min,107.0,177,5356.2
+grpc-java,/main/java/io/grpc/okhttp/Headers.java,1,30.0,0,22min 30s,22.5,16,714.6
+grpc-java,/main/java/io/grpc/services/HealthServiceImpl.java,3,30.0,0,57min 30s,57.5,49,1479.3
+grpc-java,/main/java/io/grpc/services/InetAddressUtil.java,1,30.0,0,20min,20.0,20,897.3
+grpc-java,/main/java/io/grpc/netty/InternalHandlerSettings.java,1,30.0,0,0,0.0,16,598.2
+grpc-java,/main/java/io/grpc/InternalManagedChannelProvider.java,1,30.0,0,7min 30s,7.5,4,87.3
+grpc-java,/main/java/io/grpc/netty/InternalWriteBufferingAndExceptionHandlerUtils.java,1,30.0,0,0,0.0,7,452.7
+grpc-java,/main/java/io/grpc/internal/LongCounterFactory.java,1,30.0,0,20min,20.0,5,394.5
+grpc-java,/main/java/io/grpc/okhttp/OkHttpSettingsUtil.java,1,30.0,0,7min 30s,7.5,16,502.8
+grpc-java,/main/java/io/grpc/okhttp/OkHttpTlsUpgrader.java,1,30.0,0,25min,25.0,9,510.9
+grpc-java,/main/java/io/grpc/xds/OrcaOobUtil.java,5,30.0,0,40min,40.0,212,6108.0
+grpc-java,/main/java/io/grpc/PartialForwardingClientCallListener.java,2,30.0,0,0,0.0,25,1299.9
+grpc-java,/main/java/io/grpc/PartialForwardingServerCallListener.java,2,30.0,0,0,0.0,30,1607.1
+grpc-java,/main/java/io/grpc/protobuf/services/ProtoReflectionService.java,1,30.0,1,1h 35min,95.0,150,3852.6
+grpc-java,/main/java/io/grpc/examples/routeguide/RouteGuideClient.java,3,30.0,0,1h,60.0,58,1857.6
+grpc-java,/main/java/io/grpc/routeguideexample/RouteGuideUtil.java,1,30.0,0,0,0.0,11,444.6
+grpc-java,/main/java/io/grpc/internal/SerializingExecutor.java,5,30.0,0,37min 30s,37.5,62,2297.4
+grpc-java,/main/java/io/grpc/Server.java,2,30.0,0,0,0.0,23,1241.7
+grpc-java,/main/java/io/grpc/internal/StatsTraceContext.java,4,30.0,0,27min 30s,27.5,48,1969.2
+grpc-java,/main/java/io/grpc/stub/StreamObservers.java,1,30.0,0,10min,10.0,7,577.2
+grpc-java,/main/java/io/grpc/testing/StreamRecorder.java,2,30.0,2,10min,10.0,38,1026.6
+grpc-java,/main/java/io/grpc/testing/integration/Util.java,1,30.0,0,7min 30s,7.5,10,540.0
+grpc-java,/main/java/io/grpc/alts/internal/AltsProtocolNegotiator.java,7,29.0,4,37min 30s,37.5,148,3590.7
+grpc-java,/main/java/io/grpc/benchmarks/qps/ClientConfiguration.java,2,28.0,0,7min 30s,7.5,246,11978.7
+grpc-java,/main/java/io/grpc/xds/XdsClient.java,3,28.0,0,20min,20.0,196,5726.4
+grpc-java,/main/java/io/grpc/examples/routeguide/RouteGuideServer.java,4,26.0,1,35min,35.0,52,1749.3
+grpc-java,/jmh/java/io/grpc/benchmarks/CancellableInterceptor.java,3,25.0,0,0,0.0,13,320.1
+grpc-java,/main/java/io/grpc/examples/experimental/CompressingHelloWorldServerPerMethod.java,3,25.0,3,10min,10.0,31,1159.2
+grpc-java,/main/java/io/grpc/internal/DelayedClientTransport.java,5,25.0,0,2h 15min,135.0,83,2368.5
+grpc-java,/main/java/io/grpc/util/GracefulSwitchLoadBalancer.java,4,25.0,1,55min,55.0,52,1632.9
+grpc-java,/main/java/io/grpc/examples/header/HeaderServerInterceptor.java,3,25.0,0,0,0.0,11,232.8
+grpc-java,/main/java/io/grpc/examples/advanced/HelloJsonServer.java,3,25.0,3,10min,10.0,38,1371.0
+grpc-java,/main/java/io/grpc/examples/helloworld/HelloWorldServer.java,3,25.0,3,10min,10.0,35,1341.9
+grpc-java,/main/java/io/grpc/ServiceProviders.java,2,25.0,1,1h 7min,67.0,30,1312.8
+grpc-java,/main/java/io/grpc/benchmarks/Transport.java,2,25.0,2,17min 30s,17.5,15,656.4
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/OkHostnameVerifier.java,2,22.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/alts/internal/AltsFraming.java,8,21.0,0,1h 10min,70.0,78,2265.0
+grpc-java,/main/java/io/grpc/clientcacheexample/ClientCacheExampleActivity.java,2,21.0,0,52min 30s,52.5,59,2106.6
+grpc-java,/main/java/io/grpc/alts/AltsChannelBuilder.java,2,20.0,0,0,0.0,47,1230.3
+grpc-java,/main/java/io/grpc/alts/AltsServerBuilder.java,2,20.0,0,0,0.0,36,1063.8
+grpc-java,/main/java/io/grpc/alts/internal/AltsTsiFrameProtector.java,1,20.0,4,1h 57min,117.0,130,3466.2
+grpc-java,/main/java/io/grpc/benchmarks/ByteBufOutputMarshaller.java,2,20.0,0,17min 30s,17.5,12,693.6
+grpc-java,/main/java/io/grpc/internal/CallCredentialsApplyingTransportFactory.java,1,20.0,0,35min,35.0,51,1553.7
+grpc-java,/main/java/io/grpc/alts/CallCredentialsInterceptor.java,2,20.0,0,10min,10.0,12,291.0
+grpc-java,/jmh/java/io/grpc/CallOptionsBenchmark.java,1,20.0,0,7min 30s,7.5,20,955.5
+grpc-java,/main/java/io/grpc/ClientInterceptor.java,2,20.0,0,0,0.0,2,29.1
+grpc-java,/main/java/io/grpc/xds/ClientLoadCounter.java,3,20.0,0,27min 30s,27.5,174,4596.3
+grpc-java,/main/java/io/grpc/stub/ClientResponseObserver.java,2,20.0,0,0,0.0,3,58.2
+grpc-java,/main/java/io/grpc/xds/sds/ClientSslContextProviderFactory.java,1,20.0,0,30min,30.0,8,452.7
+grpc-java,/main/java/io/grpc/ClientStreamTracer.java,2,20.0,0,7min 30s,7.5,54,1487.4
+grpc-java,/main/java/io/grpc/examples/header/CustomHeaderServer.java,2,20.0,0,0,0.0,35,1217.4
+grpc-java,/jmh/java/io/grpc/DecompressorRegistryBenchmark.java,1,20.0,0,7min 30s,7.5,16,656.4
+grpc-java,/main/java/io/grpc/ForwardingClientCallListener.java,2,20.0,0,0,0.0,21,963.6
+grpc-java,/main/java/io/grpc/ForwardingServerCallListener.java,2,20.0,0,0,0.0,21,963.6
+grpc-java,/main/java/io/grpc/testing/GrpcServerRule.java,1,20.0,0,0,0.0,27,698.4
+grpc-java,/jmh/java/io/grpc/util/HandlerRegistryBenchmark.java,1,20.0,0,15min,15.0,27,1320.9
+grpc-java,/main/java/io/grpc/examples/header/HeaderClientInterceptor.java,2,20.0,0,0,0.0,13,569.1
+grpc-java,/main/java/io/grpc/services/internal/HealthCheckingRoundRobinLoadBalancerProvider.java,1,20.0,0,10min,10.0,36,1408.2
+grpc-java,/main/java/io/grpc/internal/LogExceptionRunnable.java,1,20.0,0,0,0.0,14,291.0
+grpc-java,/main/java/io/grpc/testing/integration/LongLivedChannel.java,1,20.0,0,7min 30s,7.5,21,992.7
+grpc-java,/jmh/java/io/grpc/netty/MethodDescriptorBenchmark.java,1,20.0,0,10min,10.0,18,743.7
+grpc-java,/main/java/io/grpc/netty/NettyReadableBuffer.java,1,20.0,0,7min 30s,7.5,45,873.0
+grpc-java,/main/java/io/grpc/xds/OrcaMetricReportingServerInterceptor.java,2,20.0,0,7min 30s,7.5,18,627.3
+grpc-java,/main/java/io/grpc/protobuf/lite/ProtoInputStream.java,1,20.0,0,1h 17min,77.0,36,968.4
+grpc-java,/main/java/io/grpc/ServerBuilder.java,1,20.0,0,7min 30s,7.5,27,1827.0
+grpc-java,/main/java/io/grpc/ServerCallHandler.java,2,20.0,0,0,0.0,3,58.2
+grpc-java,/main/java/io/grpc/internal/ServerCallInfoImpl.java,2,20.0,0,10min,10.0,21,523.8
+grpc-java,/main/java/io/grpc/ServerInterceptor.java,2,20.0,0,0,0.0,2,29.1
+grpc-java,/main/java/io/grpc/ServerProvider.java,1,20.0,0,0,0.0,12,540.0
+grpc-java,/main/java/io/grpc/xds/sds/ServerSslContextProviderFactory.java,1,20.0,0,30min,30.0,8,452.7
+grpc-java,/main/java/io/grpc/internal/SharedResourceHolder.java,3,20.0,0,7min 30s,7.5,45,1450.2
+grpc-java,/main/java/io/grpc/benchmarks/SocketAddressValidator.java,4,20.0,0,0,0.0,3,87.3
+grpc-java,/main/java/io/grpc/StatusException.java,1,20.0,0,0,0.0,17,436.5
+grpc-java,/main/java/io/grpc/StatusRuntimeException.java,1,20.0,0,0,0.0,21,465.6
+grpc-java,/jmh/java/io/grpc/benchmarks/netty/StreamingPingPongsPerSecondBenchmark.java,1,20.0,0,7min 30s,7.5,44,2006.4
+grpc-java,/main/java/io/grpc/internal/testing/StreamRecorder.java,1,20.0,2,10min,10.0,37,852.0
+grpc-java,/main/java/io/grpc/SynchronizationContext.java,1,20.0,0,20min,20.0,42,1188.3
+grpc-java,/main/java/io/grpc/internal/testing/TestClientStreamTracer.java,1,20.0,0,15min,15.0,94,2476.8
+grpc-java,/jmh/java/io/grpc/benchmarks/netty/UnaryCallQpsBenchmark.java,1,20.0,0,7min 30s,7.5,38,1831.8
+grpc-java,/main/java/io/grpc/CallOptions.java,2,18.0,1,42min 30s,42.5,95,3639.3
+grpc-java,/main/java/io/grpc/internal/MessageFramer.java,3,18.0,0,1h 30min,90.0,125,4790.4
+grpc-java,/main/java/io/grpc/xds/sds/SecretVolumeSslContextProvider.java,4,18.0,0,45min,45.0,44,1084.8
+grpc-java,/main/java/io/grpc/stub/AbstractStub.java,2,15.0,0,7min 30s,7.5,44,1670.1
+grpc-java,/main/java/io/grpc/services/BinaryLogProviderImpl.java,2,15.0,0,27min 30s,27.5,29,669.3
+grpc-java,/main/java/io/grpc/services/BinaryLogs.java,2,15.0,0,0,0.0,23,889.2
+grpc-java,/main/java/io/grpc/internal/ForwardingNameResolver.java,2,15.0,0,0,0.0,32,1291.8
+grpc-java,/main/java/io/grpc/grpclb/GrpclbClientLoadRecorder.java,2,15.0,0,17min 30s,17.5,62,1674.9
+grpc-java,/main/java/io/grpc/internal/KeepAliveManager.java,3,15.0,0,1h 5min,65.0,52,1413.0
+grpc-java,/main/java/io/grpc/xds/LoadReportClientImpl.java,3,15.0,1,1h 32min,92.0,132,4682.1
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Settings.java,5,15.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/internal/TimeProvider.java,2,15.0,0,0,0.0,4,87.3
+grpc-java,/main/java/io/grpc/xds/XdsLoadBalancer2.java,5,15.0,0,1h 7min,67.0,138,5283.6
+grpc-java,/main/java/io/grpc/internal/ServiceConfigState.java,1,13.0,0,7min 30s,7.5,23,378.3
+grpc-java,/main/java/io/grpc/util/RoundRobinLoadBalancer.java,2,12.0,1,2h 17min,137.0,178,5467.8
+grpc-java,/main/java/io/grpc/examples/hedging/HedgingHelloWorldClient.java,3,11.0,0,22min 30s,22.5,35,939.3
+grpc-java,/main/java/io/grpc/xds/LookasideLb.java,4,11.0,0,35min,35.0,67,1953.0
+grpc-java,/main/java/io/grpc/internal/testing/AbstractClientTransportFactoryTest.java,2,10.0,0,7min 30s,7.5,17,598.2
+grpc-java,/main/java/io/grpc/internal/AbstractServerStream.java,2,10.0,0,25min,25.0,101,2248.8
+grpc-java,/main/java/io/grpc/CallCredentials2.java,1,10.0,0,0,0.0,19,971.7
+grpc-java,/main/java/io/grpc/ChannelLogger.java,1,10.0,0,7min 30s,7.5,9,452.7
+grpc-java,/main/java/io/grpc/examples/experimental/CompressingHelloWorldClient.java,2,10.0,4,30min,30.0,20,677.4
+grpc-java,/main/java/io/grpc/examples/googleAuth/GoogleAuthClient.java,1,10.0,0,10min,10.0,16,502.8
+grpc-java,/main/java/io/grpc/netty/GrpcHttp2ConnectionHandler.java,1,10.0,0,7min 30s,7.5,15,320.1
+grpc-java,/main/java/io/grpc/internal/GzipInflatingBuffer.java,1,10.0,0,3h 10min,190.0,114,4067.7
+grpc-java,/main/java/io/grpc/inprocess/InProcessChannelBuilder.java,4,10.0,0,30min,30.0,56,1434.0
+grpc-java,/main/java/io/grpc/netty/MaxConnectionIdleManager.java,2,10.0,0,17min 30s,17.5,33,873.0
+grpc-java,/main/java/io/grpc/NameResolverRegistry.java,2,10.0,0,20min,20.0,61,1932.0
+grpc-java,/main/java/io/grpc/okhttp/NegotiationType.java,1,10.0,0,0,0.0,1,29.1
+grpc-java,/main/java/io/grpc/internal/PickFirstLoadBalancer.java,2,10.0,0,10min,10.0,66,1566.6
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/Protocol.java,1,10.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/ServerTransportFilter.java,1,10.0,0,0,0.0,3,336.3
+grpc-java,/main/java/io/grpc/StreamTracer.java,1,10.0,0,7min 30s,7.5,17,481.8
+grpc-java,/main/java/io/grpc/alts/internal/TsiHandshakeHandler.java,2,10.0,0,25min,25.0,71,2090.4
+grpc-java,/main/java/io/grpc/netty/WriteQueue.java,2,10.0,0,10min,10.0,67,1608.6
+grpc-java,/main/java/io/grpc/alts/internal/AltsTsiHandshaker.java,1,8.0,0,57min 30s,57.5,37,1034.7
+grpc-java,/main/java/io/grpc/internal/JsonParser.java,1,8.0,6,2h 10min,130.0,42,1392.0
+grpc-java,/jmh/java/io/grpc/StatusBenchmark.java,1,8.0,0,0,0.0,20,831.0
+grpc-java,/main/java/io/grpc/okhttp/AsyncSink.java,1,5.0,0,52min 30s,52.5,60,1932.0
+grpc-java,/main/java/io/grpc/grpclb/CachedSubchannelPool.java,2,5.0,0,30min,30.0,68,2451.0
+grpc-java,/main/java/io/grpc/internal/CallTracer.java,1,5.0,0,0,0.0,36,756.6
+grpc-java,/main/java/io/grpc/services/ChannelzProtoUtil.java,2,5.0,0,1h 45min,105.0,149,4856.7
+grpc-java,/main/java/io/grpc/cronet/CronetWritableBuffer.java,1,5.0,0,0,0.0,27,465.6
+grpc-java,/main/java/io/grpc/DecompressorRegistry.java,1,5.0,0,7min 30s,7.5,46,1458.3
+grpc-java,/main/java/io/grpc/internal/FailingClientTransport.java,1,5.0,0,7min 30s,7.5,25,494.7
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Huffman.java,1,5.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/inprocess/InProcessServerBuilder.java,1,5.0,0,0,0.0,32,1101.0
+grpc-java,/main/java/io/grpc/xds/InterLocalityPicker.java,2,5.0,0,0,0.0,47,1055.7
+grpc-java,/main/java/io/grpc/stub/InternalClientCalls.java,1,5.0,0,10min,10.0,14,627.3
+grpc-java,/main/java/io/grpc/examples/advanced/JsonMarshaller.java,1,5.0,0,17min 30s,17.5,16,722.7
+grpc-java,/main/java/io/grpc/LoadBalancerRegistry.java,1,5.0,0,0,0.0,53,1786.5
+grpc-java,/main/java/io/grpc/examples/manualflowcontrol/ManualFlowControlClient.java,2,5.0,0,15min,15.0,22,1050.9
+grpc-java,/main/java/io/grpc/internal/MetadataApplierImpl.java,1,5.0,0,37min 30s,37.5,29,727.5
+grpc-java,/main/java/io/grpc/okhttp/OkHttpWritableBuffer.java,1,5.0,0,0,0.0,30,611.1
+grpc-java,/main/java/io/grpc/xds/sds/SdsSslContextProvider.java,1,5.0,0,30min,30.0,64,2172.9
+grpc-java,/main/java/io/grpc/internal/SharedResourcePool.java,1,5.0,0,0,0.0,19,502.8
+grpc-java,/jmh/java/io/grpc/internal/StatsTraceContextBenchmark.java,1,5.0,0,0,0.0,9,261.9
+grpc-java,/main/java/io/grpc/internal/TransportFrameUtil.java,3,5.0,2,1h 30min,90.0,21,619.2
+grpc-java,/main/java/io/grpc/netty/WriteBufferingAndExceptionHandler.java,2,5.0,0,27min 30s,27.5,75,2389.5
+grpc-java,/main/java/io/grpc/xds/XdsComms2.java,2,5.0,0,1h 22min,82.0,64,2164.8
+grpc-java,/main/java/io/grpc/xds/XdsNameResolver.java,3,5.0,0,27min 30s,27.5,28,648.3
+grpc-java,/main/java/io/grpc/EquivalentAddressGroup.java,2,2.0,0,57min 30s,57.5,23,648.3
+grpc-java,/main/java/io/grpc/stub/AbstractAsyncStub.java,0,0.0,0,0,0.0,11,510.9
+grpc-java,/main/java/io/grpc/stub/AbstractBlockingStub.java,0,0.0,0,0,0.0,11,510.9
+grpc-java,/main/java/io/grpc/stub/AbstractFutureStub.java,0,0.0,0,0,0.0,10,481.8
+grpc-java,/main/java/io/grpc/netty/AbstractHttp2Headers.java,0,0.0,0,15min,15.0,550,13418.4
+grpc-java,/main/java/io/grpc/netty/AbstractNettyHandler.java,0,0.0,0,27min 30s,27.5,96,2643.3
+grpc-java,/main/java/io/grpc/internal/AbstractReadableBuffer.java,0,0.0,0,7min 30s,7.5,26,772.8
+grpc-java,/main/java/io/grpc/internal/AbstractSubchannel.java,0,0.0,0,0,0.0,4,365.4
+grpc-java,/main/java/io/grpc/alts/internal/AeadCrypter.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/main/java/io/grpc/alts/internal/AesGcmHkdfAeadCrypter.java,0,0.0,0,20min,20.0,63,1762.2
+grpc-java,/generated/main/grpc/io/envoyproxy/envoy/service/discovery/v2/AggregatedDiscoveryServiceGrpc.java,0,0.0,3,1h 35min,95.0,143,5325.6
+grpc-java,/main/java/io/grpc/alts/internal/AltsAuthContext.java,1,0.0,0,10min,10.0,8,203.7
+grpc-java,/main/java/io/grpc/alts/internal/AltsChannelCrypter.java,0,0.0,0,7min 30s,7.5,64,1762.2
+grpc-java,/main/java/io/grpc/alts/internal/AltsClientOptions.java,0,0.0,0,0,0.0,36,1092.9
+grpc-java,/main/java/io/grpc/alts/internal/AltsHandshakerOptions.java,0,0.0,0,0,0.0,7,174.6
+grpc-java,/main/java/io/grpc/alts/internal/AltsHandshakerStub.java,0,0.0,0,0,0.0,42,1890.0
+grpc-java,/main/java/io/grpc/internal/AtomicBackoff.java,0,0.0,0,0,0.0,25,868.2
+grpc-java,/main/java/io/grpc/internal/AtomicLongCounter.java,0,0.0,0,0,0.0,8,174.6
+grpc-java,/jmh/java/io/grpc/AttachDetachBenchmark.java,0,0.0,0,10min,10.0,9,510.9
+grpc-java,/jmh/java/io/grpc/AttributesBenchmark.java,3,0.0,0,7min 30s,7.5,16,1088.1
+grpc-java,/main/java/io/grpc/grpclb/BackendAddressGroup.java,0,0.0,0,0,0.0,15,349.2
+grpc-java,/main/java/io/grpc/internal/BackoffPolicy.java,0,0.0,0,0,0.0,7,145.5
+grpc-java,/main/java/io/grpc/internal/BaseDnsNameResolverProvider.java,0,0.0,0,27min 30s,27.5,20,685.5
+grpc-java,/generated/main/grpc/io/grpc/benchmarks/proto/BenchmarkServiceGrpc.java,0,0.0,3,2h,120.0,188,6804.9
+grpc-java,/main/java/io/grpc/services/BinaryLogSink.java,0,0.0,0,0,0.0,2,58.2
+grpc-java,/main/java/io/grpc/BindableService.java,0,0.0,0,0,0.0,3,58.2
+grpc-java,/main/java/io/grpc/alts/internal/BufUnwrapper.java,0,0.0,0,20min,20.0,11,291.0
+grpc-java,/main/java/io/grpc/benchmarks/ByteBufInputStream.java,0,0.0,0,17min 30s,17.5,22,523.8
+grpc-java,/main/java/io/grpc/services/CallMetricRecorder.java,0,0.0,0,20min,20.0,13,349.2
+grpc-java,/main/java/io/grpc/stub/CallStreamObserver.java,0,0.0,0,0,0.0,8,365.4
+grpc-java,/main/java/io/grpc/netty/CancelClientStreamCommand.java,0,0.0,0,0,0.0,15,415.5
+grpc-java,/main/java/io/grpc/netty/CancelServerStreamCommand.java,0,0.0,0,20min,20.0,26,772.8
+grpc-java,/main/java/io/grpc/xds/sds/trust/CertificateUtils.java,0,0.0,0,10min,10.0,21,590.1
+grpc-java,/main/java/io/grpc/alts/internal/ChannelCrypterNetty.java,0,0.0,0,0,0.0,11,232.8
+grpc-java,/main/java/io/grpc/internal/ChannelLoggerImpl.java,0,0.0,6,2h 10min,130.0,42,785.7
+grpc-java,/main/java/io/grpc/internal/ChannelTracer.java,0,0.0,1,30min,30.0,39,881.1
+grpc-java,/jmh/java/io/grpc/internal/ChannelzBenchmark.java,6,0.0,2,27min 30s,27.5,42,1831.8
+grpc-java,/generated/main/grpc/io/grpc/channelz/v1/ChannelzGrpc.java,0,0.0,1,1h 32min,92.0,240,8686.8
+grpc-java,/main/java/io/grpc/services/ChannelzService.java,0,0.0,0,1h 40min,100.0,31,793.8
+grpc-java,/main/java/io/grpc/alts/CheckGcpEnvironment.java,0,0.0,0,1h,60.0,31,1312.8
+grpc-java,/main/java/io/grpc/stub/ClientCallStreamObserver.java,0,0.0,0,0,0.0,3,336.3
+grpc-java,/main/java/io/grpc/internal/ClientStream.java,0,0.0,0,0,0.0,19,232.8
+grpc-java,/main/java/io/grpc/internal/ClientStreamListener.java,1,0.0,0,10min,10.0,5,58.2
+grpc-java,/main/java/io/grpc/internal/ClientTransport.java,1,0.0,0,0,0.0,7,87.3
+grpc-java,/main/java/io/grpc/internal/ClientTransportFactory.java,0,0.0,0,10min,10.0,49,1134.9
+grpc-java,/main/java/io/grpc/netty/ClientTransportLifecycleManager.java,0,0.0,0,40min,40.0,32,756.6
+grpc-java,/generated/main/grpc/io/envoyproxy/envoy/api/v2/ClusterDiscoveryServiceGrpc.java,0,0.0,2,1h 25min,85.0,166,6127.5
+grpc-java,/main/java/io/grpc/Codec.java,0,0.0,0,7min 30s,7.5,36,1466.4
+grpc-java,/main/java/io/grpc/xds/sds/CommonTlsContextUtil.java,0,0.0,0,0,0.0,12,540.0
+grpc-java,/main/java/io/grpc/internal/CompositeReadableBuffer.java,0,0.0,0,27min 30s,27.5,83,3086.4
+grpc-java,/main/java/io/grpc/Compressor.java,0,0.0,0,0,0.0,5,116.4
+grpc-java,/main/java/io/grpc/CompressorRegistry.java,0,0.0,0,0,0.0,14,320.1
+grpc-java,/main/java/io/grpc/benchmarks/qps/Configuration.java,0,0.0,0,0,0.0,4,116.4
+grpc-java,/main/java/io/grpc/internal/ConnectionClientTransport.java,0,0.0,0,0,0.0,3,58.2
+grpc-java,/main/java/io/grpc/ConnectivityState.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/main/java/io/grpc/ConnectivityStateInfo.java,0,0.0,0,20min,20.0,28,706.5
+grpc-java,/main/java/io/grpc/internal/ConnectivityStateManager.java,0,0.0,0,10min,10.0,28,523.8
+grpc-java,/main/java/io/grpc/internal/ContextRunnable.java,0,0.0,0,7min 30s,7.5,10,174.6
+grpc-java,/main/java/io/grpc/netty/CreateStreamCommand.java,0,0.0,0,0,0.0,22,590.1
+grpc-java,/main/java/io/grpc/cronet/CronetWritableBufferAllocator.java,0,0.0,0,0,0.0,9,452.7
+grpc-java,/main/java/io/grpc/Decompressor.java,0,0.0,0,0,0.0,6,116.4
+grpc-java,/main/java/io/grpc/internal/Deframer.java,0,0.0,0,0,0.0,3,87.3
+grpc-java,/main/java/io/grpc/internal/DeprecatedCensusConstants.java,0,0.0,0,7min 30s,7.5,27,852.0
+grpc-java,/main/java/io/grpc/internal/DnsNameResolverProvider.java,0,0.0,0,7min 30s,7.5,10,481.8
+grpc-java,/main/java/io/grpc/Drainable.java,0,0.0,0,0,0.0,4,87.3
+grpc-java,/main/java/io/grpc/grpclb/DropType.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/generated/main/grpc/io/envoyproxy/envoy/api/v2/EndpointDiscoveryServiceGrpc.java,0,0.0,2,1h 25min,85.0,166,6127.5
+grpc-java,/main/java/io/grpc/xds/EnvoyProtoData.java,0,0.0,0,1h 20min,80.0,127,3540.6
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/ErrorCode.java,0,0.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/okhttp/ExceptionHandlingFrameWriter.java,0,0.0,0,10min,10.0,87,3941.7
+grpc-java,/main/java/io/grpc/ExperimentalApi.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/main/java/io/grpc/internal/ExponentialBackoffPolicy.java,1,0.0,0,0,0.0,49,1691.1
+grpc-java,/main/java/io/grpc/internal/FailingClientStream.java,0,0.0,0,7min 30s,7.5,19,436.5
+grpc-java,/main/java/io/grpc/xds/FallbackLb.java,3,0.0,0,37min 30s,37.5,23,531.9
+grpc-java,/main/java/io/grpc/internal/FixedObjectPool.java,0,0.0,0,0,0.0,13,261.9
+grpc-java,/main/java/io/grpc/netty/ForcefulCloseCommand.java,0,0.0,0,0,0.0,8,328.2
+grpc-java,/main/java/io/grpc/internal/ForwardingClientStream.java,0,0.0,0,0,0.0,104,4701.6
+grpc-java,/main/java/io/grpc/internal/ForwardingClientStreamListener.java,0,0.0,0,0,0.0,41,1839.9
+grpc-java,/main/java/io/grpc/util/ForwardingClientStreamTracer.java,0,0.0,0,0,0.0,71,3438.9
+grpc-java,/main/java/io/grpc/internal/ForwardingConnectionClientTransport.java,0,0.0,0,7min 30s,7.5,60,2649.9
+grpc-java,/main/java/io/grpc/internal/ForwardingReadableBuffer.java,0,0.0,0,0,0.0,68,3131.7
+grpc-java,/main/java/io/grpc/util/ForwardingSubchannel.java,0,0.0,0,7min 30s,7.5,61,2745.3
+grpc-java,/main/java/io/grpc/internal/Framer.java,0,0.0,0,0,0.0,7,203.7
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/FrameReader.java,0,0.0,null,null,null,null,null
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/FrameWriter.java,0,0.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/netty/GracefulCloseCommand.java,0,0.0,0,0,0.0,8,328.2
+grpc-java,/main/java/io/grpc/Grpc.java,0,0.0,0,7min 30s,7.5,5,240.9
+grpc-java,/main/java/io/grpc/internal/GrpcAttributes.java,0,0.0,0,7min 30s,7.5,4,211.8
+grpc-java,/main/java/io/grpc/netty/GrpcHttp2OutboundHeaders.java,0,0.0,0,35min,35.0,62,2106.6
+grpc-java,/main/java/io/grpc/grpclb/GrpclbConstants.java,0,0.0,0,7min 30s,7.5,4,211.8
+grpc-java,/generated/main/grpc/io/grpc/alts/internal/HandshakerServiceGrpc.java,0,0.0,2,1h 15min,75.0,127,4698.3
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Header.java,1,0.0,null,null,null,null,null
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/HeadersMode.java,0,0.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/services/HealthCheckingLoadBalancerUtil.java,0,0.0,0,0,0.0,7,394.5
+grpc-java,/generated/main/grpc/io/grpc/health/v1/HealthGrpc.java,0,0.0,1,55min,55.0,150,5375.7
+grpc-java,/main/java/io/grpc/services/HealthStatusManager.java,0,0.0,0,7min 30s,7.5,4,87.3
+grpc-java,/main/java/io/grpc/internal/HedgingPolicy.java,0,0.0,0,20min,20.0,21,648.3
+grpc-java,/main/java/io/grpc/internal/Http2ClientStreamTransportState.java,0,0.0,0,1h 47min,107.0,33,1159.2
+grpc-java,/main/java/io/grpc/netty/Http2ControlFrameLimitEncoder.java,0,0.0,0,50min,50.0,37,1084.8
+grpc-java,/main/java/io/grpc/testing/integration/Http2TestCases.java,0,0.0,0,10min,10.0,9,232.8
+grpc-java,/main/java/io/grpc/HttpConnectProxiedSocketAddress.java,0,0.0,0,10min,10.0,54,1288.5
+grpc-java,/main/java/io/grpc/inprocess/InProcessServer.java,0,0.0,0,10min,10.0,53,1317.6
+grpc-java,/main/java/io/grpc/inprocess/InProcessSocketAddress.java,0,0.0,0,10min,10.0,9,232.8
+grpc-java,/main/java/io/grpc/internal/InsightBuilder.java,0,0.0,0,0,0.0,11,261.9
+grpc-java,/main/java/io/grpc/Internal.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/main/java/io/grpc/services/InternalCallMetricRecorder.java,0,0.0,0,7min 30s,7.5,12,540.0
+grpc-java,/main/java/io/grpc/InternalCallOptions.java,0,0.0,0,0,0.0,8,452.7
+grpc-java,/main/java/io/grpc/cronet/InternalCronetCallOptions.java,0,0.0,0,0,0.0,13,722.7
+grpc-java,/main/java/io/grpc/cronet/InternalCronetChannelBuilder.java,0,0.0,0,0,0.0,7,452.7
+grpc-java,/main/java/io/grpc/InternalDecompressorRegistry.java,0,0.0,0,0,0.0,9,452.7
+grpc-java,/main/java/io/grpc/internal/InternalHandlerRegistry.java,1,0.0,0,10min,10.0,27,640.2
+grpc-java,/main/java/io/grpc/InternalInstrumented.java,0,0.0,0,0,0.0,3,58.2
+grpc-java,/main/java/io/grpc/InternalKnownTransport.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/main/java/io/grpc/InternalLogId.java,0,0.0,0,10min,10.0,34,756.6
+grpc-java,/main/java/io/grpc/InternalMetadata.java,0,0.0,0,7min 30s,7.5,29,764.7
+grpc-java,/main/java/io/grpc/InternalMethodDescriptor.java,1,0.0,0,10min,10.0,12,261.9
+grpc-java,/main/java/io/grpc/netty/InternalNettyChannelBuilder.java,0,0.0,0,0,0.0,32,1101.0
+grpc-java,/main/java/io/grpc/netty/InternalNettyServerBuilder.java,0,0.0,0,0,0.0,18,627.3
+grpc-java,/main/java/io/grpc/netty/InternalNettySocketSupport.java,0,0.0,0,0,0.0,25,1021.8
+grpc-java,/main/java/io/grpc/InternalNotifyOnServerBuild.java,0,0.0,0,0,0.0,2,58.2
+grpc-java,/main/java/io/grpc/netty/InternalProtocolNegotiationEvent.java,0,0.0,0,0,0.0,26,772.8
+grpc-java,/main/java/io/grpc/netty/InternalProtocolNegotiator.java,0,0.0,0,0,0.0,7,423.6
+grpc-java,/main/java/io/grpc/netty/InternalProtocolNegotiators.java,0,0.0,8,40min,40.0,45,1794.6
+grpc-java,/main/java/io/grpc/internal/InternalServer.java,0,0.0,0,0,0.0,6,87.3
+grpc-java,/main/java/io/grpc/InternalServiceProviders.java,0,0.0,0,0,0.0,21,955.5
+grpc-java,/main/java/io/grpc/InternalStatus.java,0,0.0,0,7min 30s,7.5,4,211.8
+grpc-java,/main/java/io/grpc/InternalWithLogId.java,0,0.0,0,0,0.0,3,58.2
+grpc-java,/main/java/io/grpc/internal/InUseStateAggregator.java,0,0.0,0,0,0.0,8,145.5
+grpc-java,/main/java/io/grpc/netty/KeepAliveEnforcer.java,0,0.0,0,27min 30s,27.5,41,1026.6
+grpc-java,/main/java/io/grpc/KnownLength.java,0,0.0,0,0,0.0,4,116.4
+grpc-java,/main/java/io/grpc/grpclb/LbAddressGroup.java,0,0.0,0,0,0.0,11,261.9
+grpc-java,/generated/main/grpc/io/envoyproxy/envoy/api/v2/ListenerDiscoveryServiceGrpc.java,0,0.0,2,1h 25min,85.0,166,6127.5
+grpc-java,/generated/main/grpc/io/grpc/lb/v1/LoadBalancerGrpc.java,0,0.0,2,1h 15min,75.0,126,4698.3
+grpc-java,/main/java/io/grpc/LoadBalancerProvider.java,0,0.0,0,7min 30s,7.5,31,1233.6
+grpc-java,/main/java/io/grpc/xds/LoadReportClient.java,0,0.0,0,0,0.0,2,58.2
+grpc-java,/generated/main/grpc/io/envoyproxy/envoy/service/load_stats/v2/LoadReportingServiceGrpc.java,0,0.0,2,1h 15min,75.0,128,4698.3
+grpc-java,/main/java/io/grpc/xds/LoadStatsStore.java,0,0.0,0,0,0.0,11,203.7
+grpc-java,/main/java/io/grpc/xds/LoadStatsStoreImpl.java,1,0.0,0,7min 30s,7.5,31,552.9
+grpc-java,/main/java/io/grpc/internal/LongCounter.java,0,0.0,0,0,0.0,3,87.3
+grpc-java,/main/java/io/grpc/ManagedChannel.java,0,0.0,0,7min 30s,7.5,19,1125.3
+grpc-java,/main/java/io/grpc/internal/ManagedChannelOrphanWrapper.java,0,0.0,0,25min,25.0,55,1624.8
+grpc-java,/main/java/io/grpc/internal/ManagedChannelServiceConfig.java,2,0.0,0,45min,45.0,57,1492.2
+grpc-java,/main/java/io/grpc/internal/ManagedClientTransport.java,0,0.0,0,0,0.0,12,145.5
+grpc-java,/generated/main/grpc/io/grpc/testing/integration/MetricsServiceGrpc.java,0,0.0,1,55min,55.0,147,5259.3
+grpc-java,/main/java/io/grpc/auth/MoreCallCredentials.java,0,0.0,0,0,0.0,8,452.7
+grpc-java,/main/java/io/grpc/util/MutableHandlerRegistry.java,0,0.0,0,20min,20.0,13,415.5
+grpc-java,/main/java/io/grpc/netty/NegotiationType.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/main/java/io/grpc/netty/NettyChannelProvider.java,0,0.0,0,0,0.0,17,627.3
+grpc-java,/main/java/io/grpc/netty/NettyServerProvider.java,0,0.0,0,0,0.0,13,540.0
+grpc-java,/main/java/io/grpc/netty/NettySocketSupport.java,1,0.0,0,7min 30s,7.5,35,1561.8
+grpc-java,/main/java/io/grpc/netty/NettyWritableBuffer.java,0,0.0,0,0,0.0,24,465.6
+grpc-java,/main/java/io/grpc/netty/NettyWritableBufferAllocator.java,0,0.0,0,0,0.0,13,291.0
+grpc-java,/main/java/io/grpc/internal/ObjectPool.java,0,0.0,0,0,0.0,5,87.3
+grpc-java,/main/java/io/grpc/okhttp/OkHttpChannelProvider.java,0,0.0,0,0,0.0,18,656.4
+grpc-java,/main/java/io/grpc/okhttp/OkHttpReadableBuffer.java,0,0.0,0,7min 30s,7.5,36,698.4
+grpc-java,/main/java/io/grpc/okhttp/OkHttpWritableBufferAllocator.java,0,0.0,0,0,0.0,8,452.7
+grpc-java,/generated/main/grpc/com/github/udpa/udpa/service/orca/v1/OpenRcaServiceGrpc.java,0,0.0,1,55min,55.0,129,4756.5
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/OptionalMethod.java,0,0.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/xds/OrcaPerRequestUtil.java,0,0.0,0,7min 30s,7.5,42,1217.4
+grpc-java,/main/java/io/grpc/internal/OverrideAuthorityNameResolverFactory.java,0,0.0,0,10min,10.0,20,685.5
+grpc-java,/main/java/io/grpc/protobuf/lite/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/netty/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/stub/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/xds/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/testing/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/internal/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/inprocess/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/util/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/protobuf/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/auth/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/services/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/okhttp/package-info.java,0,0.0,0,0,0.0,null,null
+grpc-java,/main/java/io/grpc/PersistentHashArrayMappedTrie.java,0,0.0,0,3h 35min,215.0,132,3619.8
+grpc-java,/main/java/io/grpc/internal/PickSubchannelArgsImpl.java,0,0.0,0,20min,20.0,28,706.5
+grpc-java,/main/java/io/grpc/alts/internal/ProtectedPromise.java,2,0.0,0,1h 10min,70.0,40,1238.4
+grpc-java,/main/java/io/grpc/netty/ProtocolNegotiationEvent.java,0,0.0,0,10min,10.0,33,669.3
+grpc-java,/main/java/io/grpc/netty/ProtocolNegotiator.java,0,0.0,0,0,0.0,7,116.4
+grpc-java,/main/java/io/grpc/protobuf/ProtoFileDescriptorSupplier.java,0,0.0,0,0,0.0,3,58.2
+grpc-java,/main/java/io/grpc/protobuf/ProtoMethodDescriptorSupplier.java,0,0.0,0,0,0.0,3,58.2
+grpc-java,/main/java/io/grpc/protobuf/ProtoServiceDescriptorSupplier.java,0,0.0,0,0,0.0,3,58.2
+grpc-java,/main/java/io/grpc/protobuf/ProtoUtils.java,0,0.0,0,0,0.0,16,934.5
+grpc-java,/main/java/io/grpc/ProxiedSocketAddress.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/main/java/io/grpc/ProxyDetector.java,0,0.0,0,0,0.0,5,116.4
+grpc-java,/main/java/io/grpc/internal/ReadableBuffer.java,0,0.0,0,0,0.0,17,261.9
+grpc-java,/main/java/io/grpc/internal/ReadableBuffers.java,0,0.0,0,42min 30s,42.5,158,3786.3
+grpc-java,/jmh/java/io/grpc/ReadBenchmark.java,0,0.0,0,7min 30s,7.5,21,963.6
+grpc-java,/generated/main/grpc/io/grpc/testing/integration/ReconnectServiceGrpc.java,0,0.0,1,55min,55.0,157,5674.8
+grpc-java,/main/java/io/grpc/xds/sds/ReferenceCountingSslContextProviderMap.java,0,0.0,0,20min,20.0,37,997.5
+grpc-java,/generated/main/grpc/io/grpc/benchmarks/proto/ReportQpsScenarioServiceGrpc.java,0,0.0,1,55min,55.0,136,4902.0
+grpc-java,/main/java/io/grpc/internal/Rescheduler.java,0,0.0,0,10min,10.0,51,1977.3
+grpc-java,/main/java/io/grpc/internal/RetryPolicy.java,0,0.0,0,10min,10.0,25,640.2
+grpc-java,/generated/main/grpc/io/envoyproxy/envoy/api/v2/RouteDiscoveryServiceGrpc.java,0,0.0,2,1h 25min,85.0,165,6127.5
+grpc-java,/main/java/io/grpc/stub/annotations/RpcMethod.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/generated/main/grpc/io/envoyproxy/envoy/api/v2/ScopedRoutesDiscoveryServiceGrpc.java,0,0.0,2,1h 25min,85.0,168,6127.5
+grpc-java,/main/java/io/grpc/xds/sds/trust/SdsTrustManagerFactory.java,0,0.0,0,27min 30s,27.5,46,1134.9
+grpc-java,/main/java/io/grpc/xds/sds/trust/SdsX509TrustManager.java,0,0.0,2,3h 2min,182.0,69,1907.7
+grpc-java,/generated/main/grpc/io/envoyproxy/envoy/service/discovery/v2/SecretDiscoveryServiceGrpc.java,0,0.0,2,1h 25min,85.0,165,6098.4
+grpc-java,/main/java/io/grpc/grpclb/SecretGrpclbNameResolverProvider.java,0,0.0,0,7min 30s,7.5,16,876.3
+grpc-java,/main/java/io/grpc/SecurityLevel.java,0,0.0,0,0,0.0,1,29.1
+grpc-java,/main/java/io/grpc/netty/SendGrpcFrameCommand.java,0,0.0,0,17min 30s,17.5,69,1637.7
+grpc-java,/main/java/io/grpc/netty/SendPingCommand.java,0,0.0,0,0,0.0,13,415.5
+grpc-java,/main/java/io/grpc/netty/SendResponseHeadersCommand.java,0,0.0,0,10min,10.0,45,1151.1
+grpc-java,/main/java/io/grpc/stub/ServerCallStreamObserver.java,0,0.0,0,0,0.0,5,365.4
+grpc-java,/main/java/io/grpc/internal/ServerListener.java,0,0.0,0,0,0.0,3,29.1
+grpc-java,/generated/main/grpc/io/grpc/reflection/v1alpha/ServerReflectionGrpc.java,0,0.0,2,1h 15min,75.0,128,4698.3
+grpc-java,/main/java/io/grpc/internal/ServerStream.java,0,0.0,0,0,0.0,11,145.5
+grpc-java,/main/java/io/grpc/internal/ServerStreamListener.java,0,0.0,0,0,0.0,3,29.1
+grpc-java,/main/java/io/grpc/internal/ServerTransport.java,0,0.0,0,0,0.0,4,87.3
+grpc-java,/main/java/io/grpc/internal/ServerTransportListener.java,0,0.0,0,0,0.0,4,29.1
+grpc-java,/generated/main/grpc/io/grpc/testing/protobuf/SimpleServiceGrpc.java,0,0.0,2,1h 32min,92.0,180,6447.6
+grpc-java,/main/java/io/grpc/internal/testing/SingleMessageProducer.java,0,0.0,0,0,0.0,13,232.8
+grpc-java,/main/java/io/grpc/protobuf/StatusProto.java,0,0.0,0,40min,40.0,31,727.5
+grpc-java,/main/java/io/grpc/internal/Stream.java,0,0.0,0,0,0.0,9,87.3
+grpc-java,/main/java/io/grpc/netty/StreamIdHolder.java,0,0.0,0,0,0.0,5,116.4
+grpc-java,/main/java/io/grpc/internal/StreamListener.java,0,0.0,0,0,0.0,6,87.3
+grpc-java,/main/java/io/grpc/stub/StreamObserver.java,0,0.0,0,0,0.0,4,29.1
+grpc-java,/main/java/io/grpc/grpclb/SubchannelPool.java,0,0.0,0,0,0.0,10,174.6
+grpc-java,/main/java/io/grpc/services/TempFileSink.java,0,0.0,0,20min,20.0,26,582.0
+grpc-java,/main/java/io/grpc/testing/integration/TestCases.java,0,0.0,0,0,0.0,8,203.7
+grpc-java,/main/java/io/grpc/android/integrationtest/TesterActivity.java,0,0.0,0,22min 30s,22.5,52,1375.8
+grpc-java,/main/java/io/grpc/internal/TestingAccessor.java,0,0.0,0,0,0.0,8,423.6
+grpc-java,/main/java/io/grpc/testing/TestMethodDescriptors.java,0,0.0,1,10min,10.0,29,1607.1
+grpc-java,/generated/main/grpc/io/grpc/testing/integration/TestServiceGrpc.java,0,0.0,3,2h 22min,142.0,267,9102.3
+grpc-java,/main/java/io/grpc/internal/testing/TestStreamTracer.java,0,0.0,0,15min,15.0,88,2248.8
+grpc-java,/main/java/io/grpc/ThreadLocalContextStorage.java,0,0.0,0,10min,10.0,16,656.4
+grpc-java,/main/java/io/grpc/xds/ThreadSafeRandom.java,0,0.0,0,0,0.0,17,531.9
+grpc-java,/main/java/io/grpc/xds/sds/TlsContextManager.java,0,0.0,0,0,0.0,21,619.2
+grpc-java,/main/java/io/grpc/testing/TlsTesting.java,0,0.0,0,0,0.0,6,394.5
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/TlsVersion.java,0,0.0,null,null,null,null,null
+grpc-java,/main/java/io/grpc/grpclb/TokenAttachingTracerFactory.java,0,0.0,0,30min,30.0,26,619.2
+grpc-java,/main/java/io/grpc/internal/TransportProvider.java,0,0.0,0,0,0.0,2,58.2
+grpc-java,/main/java/io/grpc/internal/TransportTracer.java,0,0.0,0,25min,25.0,69,2098.5
+grpc-java,/main/java/io/grpc/alts/internal/TsiFrameHandler.java,0,0.0,0,55min,55.0,72,1986.9
+grpc-java,/main/java/io/grpc/alts/internal/TsiFrameProtector.java,0,0.0,0,0,0.0,9,232.8
+grpc-java,/main/java/io/grpc/alts/internal/TsiHandshaker.java,0,0.0,0,0,0.0,13,261.9
+grpc-java,/main/java/io/grpc/alts/internal/TsiHandshakerFactory.java,0,0.0,0,0,0.0,4,87.3
+grpc-java,/generated/main/grpc/io/grpc/testing/integration/UnimplementedServiceGrpc.java,0,0.0,1,55min,55.0,138,5055.6
+grpc-java,khttp/third_party/okhttp/main/java/io/grpc/okhttp/internal/framed/Variant.java,0,0.0,null,null,null,null,null
+grpc-java,/generated/main/grpc/io/envoyproxy/envoy/api/v2/VirtualHostDiscoveryServiceGrpc.java,0,0.0,2,1h 15min,75.0,129,4727.4
+grpc-java,/generated/main/grpc/io/grpc/benchmarks/proto/WorkerServiceGrpc.java,0,0.0,2,1h 32min,92.0,181,6505.8
+grpc-java,/main/java/io/grpc/internal/WritableBuffer.java,0,0.0,0,0,0.0,9,145.5
+grpc-java,/main/java/io/grpc/internal/WritableBufferAllocator.java,0,0.0,0,0,0.0,4,87.3
+grpc-java,/jmh/java/io/grpc/WriteBenchmark.java,0,0.0,0,7min 30s,7.5,31,1408.2
+grpc-java,/main/java/io/grpc/xds/XdsAttributes.java,0,0.0,0,7min 30s,7.5,13,473.7
+grpc-java,/main/java/io/grpc/xds/sds/XdsChannelBuilder.java,1,0.0,0,10min,10.0,25,764.7
+grpc-java,/main/java/io/grpc/xds/XdsLoadBalancerProvider.java,2,0.0,0,1h,60.0,74,1762.2
+grpc-java,/main/java/io/grpc/xds/XdsNameResolverProvider.java,0,0.0,0,10min,10.0,18,378.3
+grpc-java,/main/java/io/grpc/xds/sds/XdsServerBuilder.java,1,0.0,0,0,0.0,64,1550.4
+grpc-java,/main/java/io/grpc/xds/XdsSubchannelPickers.java,0,0.0,1,10min,10.0,25,561.0

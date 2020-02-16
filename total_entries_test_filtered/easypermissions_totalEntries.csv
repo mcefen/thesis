@@ -1,0 +1,18 @@
+easypermissions,/main/java/pub/devrel/easypermissions/EasyPermissions.java,6,64.0,0,1h,60.0,40,1180.2
+easypermissions,/main/java/pub/devrel/easypermissions/AppSettingsDialog.java,1,20.0,0,40min,40.0,104,2444.4
+easypermissions,/main/java/pub/devrel/easypermissions/helper/PermissionHelper.java,1,20.0,0,1h 16min,76.0,50,1105.8
+easypermissions,/main/java/pub/devrel/easypermissions/RationaleDialogClickListener.java,1,20.0,0,0,0.0,27,889.2
+easypermissions,/main/java/pub/devrel/easypermissions/sample/MainActivity.java,1,5.0,0,7min 30s,7.5,47,1105.8
+easypermissions,/main/java/pub/devrel/easypermissions/RationaleDialogFragment.java,1,5.0,1,45min,45.0,28,852.0
+easypermissions,/main/java/pub/devrel/easypermissions/helper/ActivityPermissionHelper.java,0,0.0,0,17min 30s,17.5,19,685.5
+easypermissions,/main/java/pub/devrel/easypermissions/AfterPermissionGranted.java,0,0.0,0,0,0.0,2,58.2
+easypermissions,/main/java/pub/devrel/easypermissions/helper/AppCompatActivityPermissionsHelper.java,0,0.0,0,0,0.0,19,656.4
+easypermissions,/main/java/pub/devrel/easypermissions/AppSettingsDialogHolderActivity.java,0,0.0,0,7min 30s,7.5,29,640.2
+easypermissions,/main/java/pub/devrel/easypermissions/helper/BaseSupportPermissionsHelper.java,0,0.0,0,17min 30s,17.5,11,540.0
+easypermissions,/main/java/pub/devrel/easypermissions/helper/LowApiPermissionsHelper.java,0,0.0,0,27min 30s,27.5,19,656.4
+easypermissions,/main/java/pub/devrel/easypermissions/sample/MainFragment.java,0,0.0,0,7min 30s,7.5,19,494.7
+easypermissions,/main/java/pub/devrel/easypermissions/helper/package-info.java,0,0.0,0,0,0.0,null,null
+easypermissions,/main/java/pub/devrel/easypermissions/PermissionRequest.java,0,0.0,0,29min 30s,29.5,70,1579.5
+easypermissions,/main/java/pub/devrel/easypermissions/RationaleDialogConfig.java,0,0.0,0,7min 30s,7.5,40,989.4
+easypermissions,/main/java/pub/devrel/easypermissions/RationaleDialogFragmentCompat.java,0,0.0,1,42min 30s,42.5,23,735.6
+easypermissions,/main/java/pub/devrel/easypermissions/helper/SupportFragmentPermissionHelper.java,0,0.0,0,0,0.0,19,656.4

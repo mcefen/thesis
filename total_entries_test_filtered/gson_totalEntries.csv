@@ -1,0 +1,169 @@
+gson,rc/main/java/com/google/gson/stream/JsonReader.java,45,658.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/LinkedHashTreeMap.java,39,486.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/LinkedTreeMap.java,28,446.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/$Gson$Types.java,14,237.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/util/ISO8601Utils.java,14,188.0,null,null,null,null,null
+gson,/main/java/com/google/gson/typeadapters/UtcDateTypeAdapter.java,16,144.0,6,2h 2min,122.0,28,1474.5
+gson,/main/java/com/google/gson/metrics/ParseBenchmark.java,40,130.0,2,1h 2min,62.0,451,17346.0
+gson,rc/main/java/com/google/gson/reflect/TypeToken.java,11,114.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/TypeAdapters.java,11,101.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/Gson.java,18,98.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/ConstructorConstructor.java,7,76.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonParser.java,11,75.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/stream/JsonWriter.java,5,71.0,null,null,null,null,null
+gson,/main/java/com/google/gson/metrics/CollectionsDeserializationBenchmark.java,6,68.0,0,30min,30.0,40,2072.7
+gson,rc/main/java/com/google/gson/internal/UnsafeAllocator.java,9,65.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/JsonTreeReader.java,6,62.0,null,null,null,null,null
+gson,/main/java/com/google/gson/protobuf/ProtoTypeAdapter.java,10,61.0,0,1h 40min,100.0,81,2688.6
+gson,/main/java/com/google/gson/metrics/BagOfPrimitivesDeserializationBenchmark.java,3,59.0,0,22min 30s,22.5,38,2043.6
+gson,/main/java/com/google/gson/typeadapters/RuntimeTypeAdapterFactory.java,9,54.0,2,52min 30s,52.5,36,1371.0
+gson,/main/java/com/google/gson/codegen/JavaWriter.java,5,52.0,1,1h 15min,75.0,109,3627.9
+gson,rc/main/java/com/google/gson/internal/Excluder.java,6,49.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/PreJava9DateFormatProvider.java,2,38.0,null,null,null,null,null
+gson,/main/java/com/google/gson/graph/GraphAdapterBuilder.java,7,35.0,0,1h 37min,97.0,78,2559.3
+gson,rc/main/java/com/google/gson/internal/bind/CollectionTypeAdapterFactory.java,2,31.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonNull.java,3,30.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/stream/JsonScope.java,1,30.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/Streams.java,4,30.0,null,null,null,null,null
+gson,/com/google/gson/examples/android/model/Cart.java,4,25.0,0,57min 30s,57.5,27,1042.8
+gson,/main/java/com/google/gson/typeadapters/PostConstructAdapterFactory.java,3,23.0,0,11min,11.0,38,1400.1
+gson,/main/java/com/google/gson/interceptors/InterceptorFactory.java,2,21.0,0,10min,10.0,34,1437.3
+gson,/main/java/com/google/gson/metrics/BagOfPrimitives.java,5,20.0,3,2h 8min,128.0,34,1657.2
+gson,/main/java/com/google/gson/codegen/GeneratedTypeAdapterProcessor.java,2,20.0,0,0,0.0,23,1204.5
+gson,rc/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java,1,20.0,null,null,null,null,null
+gson,/main/java/com/google/gson/extras/examples/rawcollections/RawCollectionsExample.java,2,20.0,0,0,0.0,29,889.2
+gson,rc/main/java/com/google/gson/TypeAdapter.java,3,20.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.java,5,17.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/GsonBuilder.java,8,15.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonPrimitive.java,3,15.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/ArrayTypeAdapter.java,4,12.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/JsonTreeWriter.java,4,11.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonElement.java,1,10.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonStreamParser.java,2,10.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/reflect/UnsafeReflectionAccessor.java,2,10.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/TreeTypeAdapter.java,3,8.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/DateTypeAdapter.java,2,6.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/DefaultDateTypeAdapter.java,2,6.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/$Gson$Preconditions.java,1,5.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/MapTypeAdapterFactory.java,4,4.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/JavaVersion.java,1,2.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonArray.java,2,2.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/JsonReaderInternalAccess.java,3,2.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/ObjectTypeAdapter.java,2,2.0,null,null,null,null,null
+gson,/com/google/gson/examples/android/GsonProguardExampleActivity.java,1,1.0,0,0,0.0,13,569.1
+gson,rc/main/java/com/google/gson/JsonObject.java,1,1.0,null,null,null,null,null
+gson,/main/java/com/google/gson/codegen/CodeGen.java,0,0.0,0,0,0.0,17,751.8
+gson,rc/main/java/com/google/gson/ExclusionStrategy.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/annotations/Expose.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/FieldAttributes.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/FieldNamingPolicy.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/FieldNamingStrategy.java,0,0.0,null,null,null,null,null
+gson,/main/java/com/google/gson/codegen/GeneratedTypeAdapter.java,0,0.0,0,0,0.0,2,58.2
+gson,rc/main/java-templates/com/google/gson/internal/GsonBuildConfig.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/InstanceCreator.java,0,0.0,null,null,null,null,null
+gson,/main/java/com/google/gson/interceptors/Intercept.java,0,0.0,0,0,0.0,null,null
+gson,rc/main/java/com/google/gson/annotations/JsonAdapter.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonDeserializationContext.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonDeserializer.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonIOException.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonParseException.java,0,0.0,null,null,null,null,null
+gson,/main/java/com/google/gson/interceptors/JsonPostDeserializer.java,0,0.0,0,0,0.0,2,29.1
+gson,rc/main/java/com/google/gson/JsonSerializationContext.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonSerializer.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/JsonSyntaxException.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/stream/JsonToken.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/LazilyParsedNumber.java,0,0.0,null,null,null,null,null
+gson,/com/google/gson/examples/android/model/LineItem.java,0,0.0,0,0,0.0,18,465.6
+gson,rc/main/java/com/google/gson/LongSerializationPolicy.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/stream/MalformedJsonException.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/module-info.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/ObjectConstructor.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/package-info.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/package-info.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/annotations/package-info.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/reflect/package-info.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/reflect/PreJava9ReflectionAccessor.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/Primitives.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/reflect/ReflectionAccessor.java,0,0.0,null,null,null,null,null
+gson,/main/java/com/google/gson/metrics/SerializationBenchmark.java,0,0.0,0,0,0.0,19,590.1
+gson,rc/main/java/com/google/gson/annotations/SerializedName.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/annotations/Since.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/SqlDateTypeAdapter.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/TimeTypeAdapter.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/TypeAdapterFactory.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.java,0,0.0,null,null,null,null,null
+gson,rc/main/java/com/google/gson/annotations/Until.java,0,0.0,null,null,null,null,null
+gson,/main/java/com/google/gson/stream/JsonReader.java,0,0,73,3M/d 4h,1680.0,null,null
+gson,/main/java/com/google/gson/internal/bind/TypeAdapters.java,0,0,14,1M/d 2h,600.0,null,null
+gson,/main/java/com/google/gson/internal/LinkedHashTreeMap.java,0,0,18,6h 42min,402.0,null,null
+gson,/main/java/com/google/gson/Gson.java,0,0,1,5h,300.0,null,null
+gson,/main/java/com/google/gson/internal/LinkedTreeMap.java,0,0,17,4h 55min,295.0,null,null
+gson,/main/java/com/google/gson/internal/Primitives.java,0,0,2,3h 48min,228.0,null,null
+gson,/main/java/com/google/gson/internal/ConstructorConstructor.java,0,0,0,3h 42min,222.0,null,null
+gson,/main/java/com/google/gson/internal/PreJava9DateFormatProvider.java,0,0,11,3h 40min,220.0,null,null
+gson,/main/java/com/google/gson/internal/Excluder.java,0,0,0,3h 27min,207.0,null,null
+gson,/main/java/com/google/gson/internal/bind/ObjectTypeAdapter.java,0,0,6,2h 45min,165.0,null,null
+gson,/main/java/com/google/gson/reflect/TypeToken.java,0,0,0,2h 40min,160.0,null,null
+gson,/main/java/com/google/gson/stream/JsonWriter.java,0,0,4,2h 27min,147.0,null,null
+gson,/main/java/com/google/gson/JsonArray.java,0,0,0,2h 25min,145.0,null,null
+gson,/main/java/com/google/gson/internal/bind/JsonTreeReader.java,0,0,0,2h 20min,140.0,null,null
+gson,/main/java/com/google/gson/JsonPrimitive.java,0,0,0,2h 10min,130.0,null,null
+gson,/main/java/com/google/gson/internal/bind/util/ISO8601Utils.java,0,0,5,1h 54min,114.0,null,null
+gson,/main/java/com/google/gson/internal/bind/MapTypeAdapterFactory.java,0,0,0,1h 50min,110.0,null,null
+gson,/main/java/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.java,0,0,1,1h 35min,95.0,null,null
+gson,/main/java/com/google/gson/DefaultDateTypeAdapter.java,0,0,0,1h 30min,90.0,null,null
+gson,/main/java/com/google/gson/internal/bind/JsonTreeWriter.java,0,0,0,1h 17min,77.0,null,null
+gson,/main/java/com/google/gson/internal/LazilyParsedNumber.java,0,0,0,1h 10min,70.0,null,null
+gson,/main/java/com/google/gson/internal/JavaVersion.java,0,0,0,1h,60.0,null,null
+gson,/main/java/com/google/gson/GsonBuilder.java,0,0,0,57min 30s,57.5,null,null
+gson,/main/java/com/google/gson/JsonElement.java,0,0,0,57min 30s,57.5,null,null
+gson,/main/java/com/google/gson/internal/reflect/UnsafeReflectionAccessor.java,0,0,0,50min,50.0,null,null
+gson,/main/java/com/google/gson/internal/bind/DateTypeAdapter.java,0,0,0,47min 30s,47.5,null,null
+gson,/main/java/com/google/gson/internal/bind/TreeTypeAdapter.java,0,0,0,47min 30s,47.5,null,null
+gson,/main/java/com/google/gson/internal/UnsafeAllocator.java,0,0,0,45min,45.0,null,null
+gson,/main/java/com/google/gson/TypeAdapter.java,0,0,0,37min 30s,37.5,null,null
+gson,/main/java/com/google/gson/internal/bind/ArrayTypeAdapter.java,0,0,0,37min 30s,37.5,null,null
+gson,/main/java/com/google/gson/internal/$Gson$Types.java,0,0,0,30min,30.0,null,null
+gson,/main/java/com/google/gson/internal/bind/CollectionTypeAdapterFactory.java,0,0,0,30min,30.0,null,null
+gson,/main/java/com/google/gson/internal/bind/SqlDateTypeAdapter.java,0,0,0,27min 30s,27.5,null,null
+gson,/main/java/com/google/gson/internal/bind/TimeTypeAdapter.java,0,0,0,27min 30s,27.5,null,null
+gson,/main/java/com/google/gson/FieldNamingPolicy.java,0,0,0,21min,21.0,null,null
+gson,/main/java/com/google/gson/JsonParser.java,0,0,0,20min,20.0,null,null
+gson,/main/java/com/google/gson/JsonStreamParser.java,0,0,0,20min,20.0,null,null
+gson,/main/java/com/google/gson/internal/Streams.java,0,0,0,20min,20.0,null,null
+gson,/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java,0,0,0,10min,10.0,null,null
+gson,/main/java/com/google/gson/JsonNull.java,0,0,0,7min 30s,7.5,null,null
+gson,/main/java/com/google/gson/internal/JsonReaderInternalAccess.java,0,0,0,7min 30s,7.5,null,null
+gson,/main/java-templates/com/google/gson/internal/GsonBuildConfig.java,0,0,0,7min 30s,7.5,null,null
+gson,/main/java/com/google/gson/annotations/Since.java,0,0,1,0,0.0,null,null
+gson,/main/java/com/google/gson/annotations/Until.java,0,0,1,0,0.0,null,null
+gson,/main/java/module-info.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/ExclusionStrategy.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/FieldAttributes.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/FieldNamingStrategy.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/InstanceCreator.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/JsonDeserializationContext.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/JsonDeserializer.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/JsonIOException.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/JsonObject.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/JsonParseException.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/JsonSerializationContext.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/JsonSerializer.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/JsonSyntaxException.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/LongSerializationPolicy.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/package-info.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/TypeAdapterFactory.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/annotations/Expose.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/annotations/JsonAdapter.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/annotations/package-info.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/annotations/SerializedName.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/internal/$Gson$Preconditions.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/internal/ObjectConstructor.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/internal/package-info.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/internal/reflect/PreJava9ReflectionAccessor.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/internal/reflect/ReflectionAccessor.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/reflect/package-info.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/stream/JsonScope.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/stream/JsonToken.java,0,0,0,0,0.0,null,null
+gson,/main/java/com/google/gson/stream/MalformedJsonException.java,0,0,0,0,0.0,null,null

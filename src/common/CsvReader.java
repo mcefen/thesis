@@ -56,7 +56,9 @@ public class CsvReader {
 				//Create squore entries for each of the file lines
 				while ((line = br.readLine()) != null) {
 
+					//System.out.println("Line: " + line);
 					String[] file = line.split(CSV_SEPARATOR);
+					//System.out.println("File size: " + file.length);
 					//Pts/KLoc
 					SquoreEntry squoreEntry = new SquoreEntry();
 					squoreEntry.setRating(file[0]);
@@ -155,7 +157,7 @@ public class CsvReader {
 				br.readLine();
 
 				while ((line = br.readLine()) != null) {
-					String[] file = line.split(CSV_SEPARATOR_ALT);
+					String[] file = line.split(CSV_SEPARATOR);
 					if(file.length>2){
 						CastEntry ce = new CastEntry();
 						
@@ -201,6 +203,7 @@ public class CsvReader {
 		String line = "";        
 
 		for(int i=0;i<projects.length;i++){
+			System.out.print("Cast project " + projects[i]);
 			List<CastEntry> entries = new ArrayList<>();
 
 			String folderPath = CSV_CAST_READ_PATH_WITH_TD_IN_MINUTES + projects[i];
@@ -212,7 +215,7 @@ public class CsvReader {
 				br.readLine();
 
 				while ((line = br.readLine()) != null) {
-					String[] file = line.split(CSV_SEPARATOR_ALT);
+					String[] file = line.split(CSV_SEPARATOR);
 					if(file.length>2){
 						CastEntry ce = new CastEntry();
 						
@@ -226,6 +229,7 @@ public class CsvReader {
 								ce.setPath(croppedPath[1]);
 								ce.setTotalErrors(file[4]);
 								ce.setTdContributionInMinutes(file[5]);
+								ce.setFixEffortInMinutes(file[5]);
 								entries.add(ce);
 								//We have filter java classes 
 								//but we should also check if
@@ -248,7 +252,7 @@ public class CsvReader {
 				System.out.println("Path: "+cent.getPath());
 				System.out.println("Efford: "+cent.getFixEffort());
 			}
-*/
+*/			System.out.println("Effort: " + entries.size());
 			castObjectsMapWithFixEffort.put(projects[i], entries);
 		}
 		return castObjectsMapWithFixEffort;

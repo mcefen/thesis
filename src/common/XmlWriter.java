@@ -556,18 +556,22 @@ public class XmlWriter {
 					Element path = doc.createElement("path");
 					path.appendChild(doc.createTextNode(cEntry.getPath()));
 					staff.appendChild(path);
+					System.out.println("Path: " + cEntry.getPath());
 					
 					Element violations = doc.createElement("total_violations");
 					violations.appendChild(doc.createTextNode(cEntry.getTotalErrors()));
 					staff.appendChild(violations);
+					System.out.println("Total Errors: " + cEntry.getTotalErrors());
 					
 					Element totalDebtInMinutes = doc.createElement("total_debt_in_minutes");
 					totalDebtInMinutes.appendChild(doc.createTextNode(cEntry.getTdContributionInMinutes()));
 					staff.appendChild(totalDebtInMinutes);
+					System.out.println("TD in Minutes: " + cEntry.getTdContributionInMinutes());
 					
 					Element totalFixEffordInMinutes = doc.createElement("total_fix_efford_in_minutes");
 					totalFixEffordInMinutes.appendChild(doc.createTextNode(cEntry.getFixEffortInMinutes()));
 					staff.appendChild(totalFixEffordInMinutes);	
+					System.out.println("Fix efford: " + cEntry.getFixEffortInMinutes());
 					
 					
 					
@@ -577,6 +581,7 @@ public class XmlWriter {
 			TransformerFactory transformerFactory = TransformerFactory.newInstance();
 			Transformer transformer = transformerFactory.newTransformer();
 			DOMSource source = new DOMSource(doc);
+			System.out.println(source.getSystemId());
 			StreamResult result = new StreamResult(new File("./cast_tdInMinutes_"+projectName+".xml"));
 
 			transformer.transform(source, result);

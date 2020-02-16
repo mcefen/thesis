@@ -1,0 +1,47 @@
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSession.java,33,360.0,0,1M/d,480.0,205,7888.2
+vassonic,/main/java/com/tencent/sonic/sdk/SonicFileUtils.java,31,341.0,0,2h 52min,172.0,67,3741.3
+vassonic,/main/java/com/tencent/sonic/sdk/QuickSonicSession.java,27,339.0,4,4h 52min,292.0,76,3666.9
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSessionConnection.java,44,324.0,1,3h 22min,202.0,72,3057.3
+vassonic,/main/java/com/tencent/sonic/sdk/StandardSonicSession.java,13,260.0,2,3h 20min,200.0,64,3081.6
+vassonic,/main/java/com/tencent/sonic/sdk/SonicUtils.java,20,215.0,1,6h 7min,367.0,90,3430.8
+vassonic,/androidTest/java/com/tencent/sonic/sdk/SonicTestData.java,16,200.0,0,0,0.0,8,232.8
+vassonic,/androidTest/java/com/tencent/sonic/sdk/QuickSonicSessionTest.java,8,130.0,0,30min,30.0,57,1969.2
+vassonic,/main/java/com/tencent/sonic/sdk/SonicServer.java,14,128.0,1,4h 40min,280.0,64,3023.4
+vassonic,/main/java/com/tencent/sonic/sdk/download/SonicDownloadCache.java,5,96.0,0,42min 30s,42.5,23,1212.6
+vassonic,/main/java/com/github/tencent/SonicFilter.java,20,84.0,0,57min 30s,57.5,46,1479.3
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSessionStream.java,6,76.0,0,37min 30s,37.5,25,1013.7
+vassonic,/main/java/com/tencent/sonic/sdk/download/SonicDownloadClient.java,15,73.0,0,3h 7min,187.0,107,4598.1
+vassonic,/androidTest/java/com/tencent/sonic/sdk/BaseSonicTest.java,8,70.0,0,32min 30s,32.5,80,2675.7
+vassonic,/main/java/com/tencent/sonic/sdk/SonicDataHelper.java,7,62.0,0,42min 30s,42.5,42,1130.1
+vassonic,/main/java/com/tencent/sonic/sdk/SonicRuntime.java,8,60.0,0,37min 30s,37.5,26,772.8
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSessionCallback.java,11,55.0,0,0,0.0,34,889.2
+vassonic,/main/java/com/tencent/sonic/sdk/SonicResourceDataHelper.java,8,46.0,0,15min,15.0,38,1474.5
+vassonic,/main/java/com/tencent/sonic/demo/BrowserActivity.java,10,44.0,0,45min,45.0,52,1076.7
+vassonic,/main/java/com/tencent/sonic/demo/SonicRuntimeImpl.java,5,44.0,5,50min,50.0,56,1603.8
+vassonic,/main/java/com/tencent/sonic/sdk/SonicEngine.java,8,41.0,0,1h 47min,107.0,38,1789.8
+vassonic,/main/java/com/github/tencent/SonicUtil.java,6,41.0,0,50min,50.0,20,831.0
+vassonic,/main/java/com/tencent/sonic/sdk/SonicConstants.java,6,40.0,0,7min 30s,7.5,4,116.4
+vassonic,/androidTest/java/com/tencent/sonic/sdk/SonicRuntimeImplTest.java,4,39.0,5,40min,40.0,55,1574.7
+vassonic,/main/java/com/tencent/sonic/sdk/download/SonicDownloadEngine.java,6,35.0,0,1h 32min,92.0,47,2454.3
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSessionThreadPool.java,4,26.0,0,20min,20.0,9,174.6
+vassonic,/main/java/com/tencent/sonic/sdk/SonicCacheInterceptor.java,2,25.0,0,50min,50.0,37,1561.8
+vassonic,/main/java/com/tencent/sonic/sdk/download/SonicDownloadCallback.java,5,25.0,0,0,0.0,17,598.2
+vassonic,/androidTest/java/com/tencent/sonic/sdk/SonicSessionClientImplTest.java,4,25.0,0,7min 30s,7.5,15,540.0
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSessionConfig.java,13,22.0,0,17min 30s,17.5,143,5100.9
+vassonic,/androidTest/java/com/tencent/sonic/sdk/ExampleInstrumentedTest.java,1,20.0,0,0,0.0,11,540.0
+vassonic,/main/java/com/tencent/sonic/sdk/SonicConfig.java,15,20.0,0,15min,15.0,92,3306.3
+vassonic,/main/java/com/tencent/sonic/sdk/SonicDBHelper.java,4,20.0,0,0,0.0,26,648.3
+vassonic,/main/java/com/tencent/sonic/demo/SonicJavaScriptInterface.java,2,10.0,0,27min 30s,27.5,25,831.0
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSessionClient.java,1,10.0,0,10min,10.0,7,116.4
+vassonic,/main/java/com/tencent/sonic/demo/SonicSessionClientImpl.java,1,10.0,0,7min 30s,7.5,22,436.5
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSessionConnectionInterceptor.java,1,10.0,0,10min,10.0,12,664.5
+vassonic,/main/java/com/tencent/sonic/demo/UrlSelector.java,2,10.0,0,15min,15.0,17,627.3
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSniSSLSocketFactory.java,2,7.0,0,0,0.0,20,714.6
+vassonic,/main/java/com/github/tencent/AbstractReplaceCallBack.java,1,2.0,0,10min,10.0,11,540.0
+vassonic,/main/java/com/tencent/sonic/demo/MainActivity.java,1,2.0,0,42min 30s,42.5,34,669.3
+vassonic,/main/java/com/github/tencent/HttpServletResponseCopier.java,0,0.0,0,30min,30.0,31,756.6
+vassonic,/main/java/com/github/tencent/ReplaceCallBack.java,0,0.0,0,0,0.0,4,116.4
+vassonic,/main/java/com/github/tencent/ServletOutputStreamCopier.java,0,0.0,0,0,0.0,22,743.7
+vassonic,/main/java/com/tencent/sonic/sdk/SonicDiffDataCallback.java,0,0.0,0,0,0.0,1,29.1
+vassonic,/main/java/com/tencent/sonic/sdk/SonicSessionStatistics.java,12,0.0,0,15min,15.0,15,1901.4
+vassonic,/main/java/com/tencent/sonic/demo/UrlListAdapter.java,0,0.0,0,25min,25.0,83,1862.4

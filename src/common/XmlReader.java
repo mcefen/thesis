@@ -60,6 +60,7 @@ public class XmlReader {
 		List<SonarEntryWithIssues> sonarEntries = new ArrayList<>();
 
 		try {
+			System.out.println("Read From Sonar Project Name " + projectName);
 			org.w3c.dom.Document doc = getNodelistFromSonarXmlFile(projectName);
 						
 			NodeList nList = doc.getElementsByTagName("File");
@@ -73,17 +74,21 @@ public class XmlReader {
 					SonarEntryWithIssues sonarEntry = createSonarNode(doc, nNode, temp);
 					
 					String[] clearPath = sonarEntry.getKey_path().split("src");
-					sonarEntry.setSrcPath(clearPath[1]);
 					
-					sonarEntries.add(sonarEntry);
-													
+					//if(clearPath.length>=2){
+						sonarEntry.setSrcPath(clearPath[clearPath.length-1]);						
+						sonarEntries.add(sonarEntry);
+					//}else{
+					//	sonarEntry.setSrcPath(clearPath[0]);						
+					//	sonarEntries.add(sonarEntry);
+					//}
 				}
 			}			
 			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		
+		System.out.println("Total sonars found" + sonarEntries.size());
 		return sonarEntries;
 	}
 	
@@ -94,8 +99,6 @@ public class XmlReader {
 		org.w3c.dom.Document doc = dBuilder.parse(fXmlFile);
 
 		doc.getDocumentElement().normalize();
-
-		
 		
 		return doc;
 	}

@@ -1,0 +1,1210 @@
+mybatis,/test/java/org/apache/ibatis/executor/ExecutorTestHelper.java,149,2304.0,27,1M/d 1h,540.0,156,4075.8
+mybatis,/test/java/org/apache/ibatis/jdbc/SQLTest.java,70,1008.0,0,22min 30s,22.5,141,3906.0
+mybatis,/test/java/org/apache/ibatis/reflection/TypeParameterResolverTest.java,74,901.0,0,30min,30.0,285,8967.9
+mybatis,/test/java/org/apache/ibatis/submitted/sqlprovider/OurSqlBuilder.java,44,563.0,0,47min 30s,47.5,152,5380.5
+mybatis,/test/java/org/apache/ibatis/session/SqlSessionTest.java,33,486.0,2,1h 28min,88.0,347,10450.5
+mybatis,/test/java/org/apache/ibatis/submitted/sqlprovider/SqlProviderTest.java,31,461.0,2,1h 32min,92.0,559,16511.4
+mybatis,/test/java/org/apache/ibatis/builder/XmlMapperBuilderTest.java,34,421.0,0,7min 30s,7.5,110,2651.4
+mybatis,/test/java/org/apache/ibatis/builder/xml/dynamic/DynamicSqlSourceTest.java,21,302.0,0,37min 30s,37.5,223,7192.8
+mybatis,/test/java/org/apache/ibatis/submitted/sqlprovider/ProviderMethodResolutionTest.java,18,280.0,0,10min,10.0,201,6311.7
+mybatis,/test/java/org/apache/ibatis/submitted/sptests/SPTest.java,18,273.0,0,45min,45.0,178,8088.6
+mybatis,/test/java/org/apache/ibatis/reflection/ReflectorTest.java,25,262.0,0,45min,45.0,168,5028.0
+mybatis,/main/java/org/apache/ibatis/jdbc/AbstractSQL.java,46,253.0,1,1h 5min,65.0,302,8549.1
+mybatis,/test/java/org/apache/ibatis/executor/resultset/DefaultResultSetHandlerTest2.java,15,240.0,6,52min 30s,52.5,80,1957.8
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLConfigBuilder.java,16,239.0,0,1h 45min,105.0,155,4479.9
+mybatis,/test/java/org/apache/ibatis/binding/BindingTest.java,19,235.0,0,1h 10min,70.0,308,9955.8
+mybatis,/test/java/org/apache/ibatis/submitted/keygen/Jdbc3KeyGeneratorTest.java,25,230.0,0,15min,15.0,204,7357.8
+mybatis,/test/java/org/apache/ibatis/type/TypeHandlerRegistryTest.java,11,220.0,0,30min,30.0,109,3975.6
+mybatis,/main/java/org/apache/ibatis/io/DefaultVFS.java,10,205.0,0,2h 12min,132.0,47,3089.7
+mybatis,/test/java/org/apache/ibatis/executor/BaseExecutorTest.java,11,178.0,0,2h 25min,145.0,161,4961.7
+mybatis,/test/java/org/apache/ibatis/submitted/member_access/MemberAccessTest.java,21,178.0,0,52min 30s,52.5,151,4379.7
+mybatis,/test/java/org/apache/ibatis/executor/loader/SerializableProxyTest.java,12,170.0,0,50min,50.0,145,4205.1
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/PooledDataSource.java,9,161.0,0,1h 32min,92.0,192,6211.5
+mybatis,/main/java/org/apache/ibatis/jdbc/SqlBuilder.java,26,155.0,0,10min,10.0,102,2394.3
+mybatis,/test/java/org/apache/ibatis/submitted/selectkey/SelectKeyTest.java,8,151.0,0,7min 30s,7.5,140,5155.8
+mybatis,/test/java/org/apache/ibatis/type/BaseTypeHandlerTest.java,7,140.0,0,7min 30s,7.5,37,968.4
+mybatis,/test/java/org/apache/ibatis/submitted/cursor_simple/CursorSimpleTest.java,8,136.0,0,1h 27min,87.0,94,4208.4
+mybatis,/test/java/org/apache/ibatis/cursor/defaults/DefaultCursorTest.java,8,130.0,6,52min 30s,52.5,71,1974.0
+mybatis,/main/java/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.java,15,125.0,8,1M/d 2h,600.0,450,15228.0
+mybatis,/main/java/org/apache/ibatis/jdbc/SelectBuilder.java,20,125.0,0,10min,10.0,77,1687.8
+mybatis,/test/java/org/apache/ibatis/type/UnknownTypeHandlerTest.java,11,124.0,0,0,0.0,76,2800.2
+mybatis,/test/java/org/apache/ibatis/submitted/batch_keys/BatchKeysTest.java,8,120.0,0,7min 30s,7.5,44,1113.9
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/BeanWrapper.java,6,120.0,0,2h 50min,170.0,79,2405.7
+mybatis,/test/java/org/apache/ibatis/builder/XmlConfigBuilderTest.java,8,120.0,0,37min 30s,37.5,107,3382.2
+mybatis,/test/java/org/apache/ibatis/executor/resultset/DefaultResultSetHandlerTest.java,8,118.0,3,25min,25.0,36,1371.0
+mybatis,/test/java/org/apache/ibatis/reflection/MetaClassTest.java,11,116.0,0,30min,30.0,40,1092.9
+mybatis,/main/java/org/apache/ibatis/builder/MapperBuilderAssistant.java,7,115.0,0,2h 37min,157.0,120,3644.1
+mybatis,/test/java/org/apache/ibatis/submitted/primitive_result_type/ProductDAO.java,5,110.0,0,40min,40.0,23,1270.8
+mybatis,/main/java/org/apache/ibatis/jdbc/ScriptRunner.java,9,106.0,0,1h 5min,65.0,131,6027.3
+mybatis,/test/java/org/apache/ibatis/io/ExternalResourcesTest.java,14,105.0,0,0,0.0,42,1246.5
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLMapperBuilder.java,13,105.0,0,1h 57min,117.0,143,5545.5
+mybatis,/main/java/org/apache/ibatis/executor/loader/cglib/CglibProxyFactory.java,4,102.0,5,1h 45min,105.0,95,2667.6
+mybatis,/main/java/org/apache/ibatis/executor/loader/javassist/JavassistProxyFactory.java,4,102.0,5,1h 45min,105.0,96,2821.2
+mybatis,/test/java/org/apache/ibatis/cache/CacheKeyTest.java,6,99.0,0,15min,15.0,56,1683.0
+mybatis,/test/java/org/apache/ibatis/submitted/enumtypehandler_on_annotation/EnumTypeHandlerUsingAnnotationTest.java,9,96.0,0,22min 30s,22.5,32,1159.2
+mybatis,/test/java/org/apache/ibatis/submitted/complex_column/ComplexColumnTest.java,6,94.0,0,0,0.0,50,1940.1
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql/DynSqlTest.java,5,94.0,0,30min,30.0,61,1865.7
+mybatis,/test/java/org/apache/ibatis/builder/ParameterExpressionTest.java,8,92.0,0,0,0.0,62,1616.7
+mybatis,/main/java/org/apache/ibatis/binding/MapperProxy.java,4,90.0,0,1h 7min,67.0,86,2410.5
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/MultipleCrossIncludeTest.java,4,90.0,0,10min,10.0,54,1778.4
+mybatis,/main/java/org/apache/ibatis/type/TypeHandlerRegistry.java,5,90.0,0,2h 20min,140.0,122,3810.6
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/XmlExternalRefTest.java,4,90.0,0,10min,10.0,64,2260.2
+mybatis,/test/java/org/apache/ibatis/submitted/language/LanguageTest.java,5,88.0,0,15min,15.0,76,2924.7
+mybatis,/main/java/org/apache/ibatis/mapping/MappedStatement.java,6,85.0,0,42min 30s,42.5,251,8508.9
+mybatis,/test/java/org/apache/ibatis/type/BlobInputStreamTypeHandlerTest.java,6,84.0,1,10min,10.0,78,2733.9
+mybatis,/test/java/org/apache/ibatis/reflection/MetaObjectTest.java,8,84.0,0,30min,30.0,111,2847.0
+mybatis,/test/java/org/apache/ibatis/type/ClobReaderTypeHandlerTest.java,6,82.0,1,10min,10.0,75,2522.1
+mybatis,/main/java/org/apache/ibatis/reflection/Reflector.java,5,82.0,3,2h 20min,140.0,115,2817.9
+mybatis,/test/java/org/apache/ibatis/submitted/serializecircular/UtilityTester.java,5,82.0,0,20min,20.0,21,1080.0
+mybatis,/main/java/org/apache/ibatis/reflection/Jdk.java,9,81.0,0,7min 30s,7.5,14,876.3
+mybatis,/test/java/org/apache/ibatis/submitted/basetest/BaseTest.java,2,80.0,3,10min,10.0,20,523.8
+mybatis,/test/java/org/apache/ibatis/autoconstructor/ExtensiveSubject.java,13,80.0,0,22min 30s,22.5,24,1013.7
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_deserialize/LazyDeserializeTest.java,4,80.0,0,20min,20.0,44,1076.7
+mybatis,/main/java/org/apache/ibatis/session/Configuration.java,5,78.0,0,1h 12min,72.0,471,11497.8
+mybatis,/test/java/org/apache/ibatis/submitted/cache/CacheTest.java,5,76.0,0,40min,40.0,82,3091.2
+mybatis,/main/java/org/apache/ibatis/io/VFS.java,8,75.0,0,1h 35min,95.0,31,1781.7
+mybatis,/test/java/org/apache/ibatis/submitted/automapping/AutomappingTest.java,9,74.0,0,0,0.0,63,2530.2
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables/BaseTest.java,2,70.0,0,10min,10.0,29,1071.9
+mybatis,/test/java/org/apache/ibatis/submitted/cglib_lazy_error/CglibNPETest.java,4,70.0,5,37min 30s,37.5,50,1442.1
+mybatis,/test/java/org/apache/ibatis/scripting/defaults/DefaultParameterHandlerTest.java,5,70.0,3,17min 30s,17.5,22,905.4
+mybatis,/test/java/org/apache/ibatis/submitted/enum_with_method/EnumWithMethodTest.java,2,70.0,3,10min,10.0,20,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/sql/HsqldbSQLTest.java,5,70.0,3,27min 30s,27.5,19,561.0
+mybatis,/test/java/org/apache/ibatis/submitted/sql/PostgresSQLTest.java,5,70.0,3,27min 30s,27.5,19,561.0
+mybatis,/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java,5,69.0,0,1h 22min,82.0,72,2530.2
+mybatis,/test/java/org/apache/ibatis/submitted/parent_reference_3level/Post.java,4,68.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/parsing/XPathParserTest.java,4,68.0,0,45min,45.0,110,3241.5
+mybatis,/test/java/org/apache/ibatis/builder/xml/dynamic/ExpressionEvaluatorTest.java,5,66.0,0,7min 30s,7.5,39,640.2
+mybatis,/main/java/org/apache/ibatis/io/JBoss6VFS.java,9,66.0,0,37min 30s,37.5,63,1982.1
+mybatis,/main/java/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.java,7,66.0,0,5h 5min,305.0,140,4761.3
+mybatis,/test/java/org/apache/ibatis/submitted/cglib_lazy_error/CglibNPELazyTest.java,3,62.0,5,30min,30.0,39,1055.7
+mybatis,/main/java/org/apache/ibatis/executor/loader/AbstractSerialStateHolder.java,3,60.0,0,17min 30s,17.5,66,2003.1
+mybatis,/test/java/org/apache/ibatis/submitted/array_type_handler/ArrayTypeHandlerTest.java,3,60.0,0,0,0.0,29,976.5
+mybatis,/main/java/org/apache/ibatis/cache/CacheKey.java,2,60.0,0,1h 22min,82.0,49,1172.1
+mybatis,/test/java/org/apache/ibatis/submitted/deferload_common_property/CommonPropertyDeferLoadTest.java,3,60.0,0,0,0.0,36,1196.4
+mybatis,/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomObjectWrapper.java,2,60.0,0,0,0.0,43,1134.9
+mybatis,/test/java/org/apache/ibatis/parsing/GenericTokenParserTest.java,4,60.0,0,7min 30s,7.5,39,947.4
+mybatis,/main/java/org/apache/ibatis/logging/LogFactory.java,3,60.0,0,17min 30s,17.5,42,1217.4
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/MultipleIncludeTest.java,3,60.0,3,20min,20.0,44,1421.1
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/MultipleReverseIncludeTest.java,3,60.0,3,20min,20.0,44,1421.1
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_association/NestedResultHandlerAssociationTest.java,3,60.0,0,1min,1.0,32,976.5
+mybatis,/test/java/org/apache/ibatis/jdbc/PooledDataSourceTest.java,8,60.0,0,15min,15.0,46,1911.0
+mybatis,/test/java/org/apache/ibatis/submitted/primitive_array/PrimitiveArrayTest.java,2,60.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ResultMapExtendsTest.java,3,60.0,3,30min,30.0,44,1421.1
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ResultMapReferenceTest.java,3,60.0,3,30min,30.0,44,1421.1
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ReverseIncludeTest.java,3,60.0,3,20min,20.0,44,1421.1
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/SameIdTest.java,3,60.0,0,10min,10.0,45,1574.7
+mybatis,/test/java/org/apache/ibatis/jdbc/SelectBuilderTest.java,4,60.0,5,47min 30s,47.5,39,1466.4
+mybatis,/test/java/org/apache/ibatis/submitted/sptests/SPMapper.java,3,60.0,0,0,0.0,69,1775.1
+mybatis,/test/java/org/apache/ibatis/jdbc/SqlBuilderTest.java,4,60.0,5,47min 30s,47.5,39,1466.4
+mybatis,/main/java/org/apache/ibatis/logging/stdout/StdOutImpl.java,6,60.0,0,0,0.0,37,976.5
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables_defaults/SupportClasses.java,2,60.0,0,10min,10.0,45,1890.0
+mybatis,/test/java/org/apache/ibatis/submitted/timezone_edge_case/TimezoneEdgeCaseTest.java,3,60.0,0,15min,15.0,50,1566.6
+mybatis,/test/java/org/apache/ibatis/builder/xsd/XmlConfigBuilderTest.java,6,60.0,0,22min 30s,22.5,29,1196.4
+mybatis,/test/java/org/apache/ibatis/submitted/null_associations/FooMapperTest.java,4,58.0,0,7min 30s,7.5,34,785.7
+mybatis,/main/java/org/apache/ibatis/mapping/ResultMap.java,3,56.0,0,1h 15min,75.0,126,4404.0
+mybatis,/test/java/org/apache/ibatis/submitted/parent_reference_3level/BlogTest.java,3,55.0,0,15min,15.0,35,1034.7
+mybatis,/test/java/org/apache/ibatis/type/MonthTypeHandlerTest.java,2,54.0,0,0,0.0,35,698.4
+mybatis,/test/java/org/apache/ibatis/type/YearTypeHandlerTest.java,2,54.0,0,0,0.0,32,698.4
+mybatis,/main/java/org/apache/ibatis/executor/loader/AbstractEnhancedDeserializationProxy.java,4,52.0,0,27min 30s,27.5,28,852.0
+mybatis,/test/java/org/apache/ibatis/submitted/parent_reference_3level/Comment.java,3,50.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/emptycollection/DaoTest.java,4,50.0,0,7min 30s,7.5,38,1026.6
+mybatis,/test/java/org/apache/ibatis/submitted/enum_interface_type_handler/EnumInterfaceTypeHandlerTest.java,2,50.0,0,0,0.0,29,947.4
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_properties/LazyPropertiesTest.java,4,50.0,0,0,0.0,75,3327.3
+mybatis,/test/java/org/apache/ibatis/submitted/multiple_resultsets/MultipleResultTest.java,2,50.0,0,22min 30s,22.5,27,1071.9
+mybatis,/test/java/org/apache/ibatis/datasource/unpooled/NetworkTimeoutTest.java,4,50.0,0,0,0.0,21,743.7
+mybatis,/test/java/org/apache/ibatis/submitted/empty_namespace/Person.java,1,50.0,3,10min,10.0,21,552.9
+mybatis,/test/java/org/apache/ibatis/submitted/disallowdotsonnames/Person.java,1,50.0,3,10min,10.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/force_flush_on_select/Person.java,1,50.0,3,10min,10.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/ognl_enum/Person.java,1,50.0,3,10min,10.0,21,552.9
+mybatis,/test/java/org/apache/ibatis/submitted/multiple_discriminator/Person.java,1,50.0,2,10min,10.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/map_class_name_conflict/Person.java,1,50.0,2,10min,10.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/xml_references/Person.java,1,50.0,3,10min,10.0,21,552.9
+mybatis,/test/java/org/apache/ibatis/submitted/order_prefix_removed/Person.java,1,50.0,3,10min,10.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_properties/User.java,3,50.0,0,7min 30s,7.5,36,1238.4
+mybatis,/test/java/org/apache/ibatis/type/BigIntegerTypeHandlerTest.java,6,48.0,0,0,0.0,34,727.5
+mybatis,/test/java/org/apache/ibatis/submitted/force_flush_on_select/ForceFlushOnSelectTest.java,3,48.0,0,0,0.0,60,1953.0
+mybatis,/test/java/org/apache/ibatis/type/ObjectTypeHandlerTest.java,3,48.0,0,0,0.0,34,727.5
+mybatis,/main/java/org/apache/ibatis/session/SqlSessionManager.java,3,48.0,0,35min,35.0,286,11281.8
+mybatis,/test/java/org/apache/ibatis/type/ClobTypeHandlerTest.java,3,46.0,2,10min,10.0,35,756.6
+mybatis,/test/java/org/apache/ibatis/type/NClobTypeHandlerTest.java,3,46.0,2,10min,10.0,35,756.6
+mybatis,/test/java/org/apache/ibatis/submitted/blocking_cache/BlockingCacheTest.java,4,45.0,0,0,0.0,21,648.3
+mybatis,/test/java/org/apache/ibatis/submitted/parent_reference_3level/Blog.java,3,45.0,0,0,0.0,21,552.9
+mybatis,/test/java/org/apache/ibatis/submitted/call_setters_on_nulls/CallSettersOnNullsTest.java,3,45.0,0,0,0.0,35,1180.2
+mybatis,/test/java/org/apache/ibatis/submitted/heavy_initial_load/HeavyInitialLoadTest.java,3,45.0,0,0,0.0,28,822.9
+mybatis,/test/java/org/apache/ibatis/domain/misc/RichType.java,4,45.0,0,0,0.0,27,727.5
+mybatis,/test/java/org/apache/ibatis/submitted/generictypes/User.java,2,45.0,2,10min,10.0,19,465.6
+mybatis,/test/java/org/apache/ibatis/submitted/parametrizedlist/User.java,2,45.0,2,10min,10.0,20,494.7
+mybatis,/test/java/org/apache/ibatis/cache/WeakCacheTest.java,3,45.0,4,20min,20.0,29,1320.9
+mybatis,/test/java/org/apache/ibatis/type/IntegerTypeHandlerTest.java,2,44.0,0,0,0.0,34,727.5
+mybatis,/test/java/org/apache/ibatis/submitted/language/VelocitySqlSourceBuilder.java,3,43.0,0,47min 30s,47.5,49,1545.6
+mybatis,/test/java/org/apache/ibatis/submitted/overwritingproperties/FooMapperTest.java,3,42.0,0,0,0.0,25,611.1
+mybatis,/test/java/org/apache/ibatis/submitted/include_property/IncludePropertyTest.java,3,42.0,0,0,0.0,67,1492.2
+mybatis,/test/java/org/apache/ibatis/submitted/refcursor/RefCursorTest.java,3,42.0,0,7min 30s,7.5,31,1101.0
+mybatis,/main/java/org/apache/ibatis/builder/SqlSourceBuilder.java,2,42.0,0,47min 30s,47.5,50,1545.6
+mybatis,/test/java/org/apache/ibatis/type/EnumOrdinalTypeHandlerTest.java,3,41.0,0,0,0.0,42,902.1
+mybatis,/test/java/org/apache/ibatis/type/EnumTypeHandlerTest.java,3,41.0,0,0,0.0,42,902.1
+mybatis,/test/java/org/apache/ibatis/session/AutoMappingUnknownColumnBehaviorTest.java,2,40.0,0,0,0.0,59,1558.5
+mybatis,/main/java/org/apache/ibatis/builder/BaseBuilder.java,2,40.0,0,2h 7min,127.0,71,2003.1
+mybatis,/test/java/org/apache/ibatis/logging/jdbc/BaseJdbcLoggerTest.java,2,40.0,0,0,0.0,26,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/cacherefs/CacheRefsTest.java,2,40.0,2,10min,10.0,15,407.4
+mybatis,/test/java/org/apache/ibatis/type/CharacterTypeHandlerTest.java,2,40.0,0,0,0.0,40,873.0
+mybatis,/test/java/org/apache/ibatis/submitted/keygen/CountryMapper.java,8,40.0,0,0,0.0,98,2822.7
+mybatis,/test/java/org/apache/ibatis/submitted/cursor_nested/CursorNestedTest.java,2,40.0,0,7min 30s,7.5,21,677.4
+mybatis,/test/java/org/apache/ibatis/type/DateOnlyTypeHandlerTest.java,2,40.0,0,0,0.0,37,814.8
+mybatis,/test/java/org/apache/ibatis/type/DateTypeHandlerTest.java,2,40.0,0,0,0.0,37,814.8
+mybatis,/main/java/org/apache/ibatis/reflection/factory/DefaultObjectFactory.java,2,40.0,0,1h 2min,62.0,29,1013.7
+mybatis,/test/java/org/apache/ibatis/submitted/call_setters_on_nulls/DoNotCallSettersOnNullsTest.java,2,40.0,0,0,0.0,28,947.4
+mybatis,/test/java/org/apache/ibatis/submitted/foreach/ForEachTest.java,2,40.0,0,0,0.0,50,1259.4
+mybatis,/test/java/org/apache/ibatis/submitted/generictyperesolution/GenericTypeResolutionTest.java,2,40.0,0,0,0.0,23,677.4
+mybatis,/test/java/org/apache/ibatis/submitted/hashmaptypehandler/HashMapTypeHandler.java,4,40.0,0,0,0.0,33,1063.8
+mybatis,/test/java/org/apache/ibatis/type/InstantTypeHandlerTest.java,2,40.0,0,0,0.0,37,814.8
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/InvalidWithInsertMapper.java,2,40.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/type/JapaneseDateTypeHandlerTest.java,2,40.0,0,0,0.0,37,814.8
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/javamethods/JavaMethodsTest.java,2,40.0,2,10min,10.0,15,407.4
+mybatis,/test/java/org/apache/ibatis/datasource/jndi/JndiDataSourceFactoryTest.java,3,40.0,0,0,0.0,54,1383.9
+mybatis,/test/java/org/apache/ibatis/reflection/typeparam/Level0Mapper.java,2,40.0,0,0,0.0,63,1833.3
+mybatis,/test/java/org/apache/ibatis/submitted/multiple_resultsets/Mapper.java,2,40.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/multipleiterates/MultipleIteratesTest.java,2,40.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/cursor_simple/MysqlCursorTest.java,3,40.0,3,10min,10.0,28,1101.0
+mybatis,/test/java/org/apache/ibatis/submitted/no_param_type/NoParamTypeTest.java,2,40.0,1,10min,10.0,46,1105.8
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ParameterMapReferenceTest.java,2,40.0,0,10min,10.0,44,1421.1
+mybatis,/test/java/org/apache/ibatis/submitted/parent_childs/ParentChildTest.java,2,40.0,0,0,0.0,15,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/flush_statement_npe/Person.java,1,40.0,2,10min,10.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/enumtypehandler_on_map/Person.java,1,40.0,2,10min,10.0,21,552.9
+mybatis,/test/java/org/apache/ibatis/submitted/cursor_simple/PostgresCursorTest.java,3,40.0,3,10min,10.0,20,619.2
+mybatis,/test/java/org/apache/ibatis/submitted/primitives/PrimitivesTest.java,2,40.0,0,0,0.0,14,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/multidb/ProviderTest.java,2,40.0,0,0,0.0,24,772.8
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ShortNameTest.java,2,40.0,0,10min,10.0,24,860.1
+mybatis,/test/java/org/apache/ibatis/submitted/bringrags/SimpleObjectTest.java,2,40.0,0,0,0.0,28,793.8
+mybatis,/test/java/org/apache/ibatis/type/SqlxmlTypeHandlerTest.java,3,40.0,1,10min,10.0,87,2227.8
+mybatis,/test/java/org/apache/ibatis/submitted/stringlist/StringListTest.java,2,40.0,0,0,0.0,29,698.4
+mybatis,/test/java/org/apache/ibatis/datasource/unpooled/UnpooledDataSourceTest.java,4,40.0,0,7min 30s,7.5,25,831.0
+mybatis,/test/java/org/apache/ibatis/submitted/cursor_simple/User.java,1,40.0,0,0,0.0,18,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/uuid_test/UUIDTest.java,2,40.0,3,10min,10.0,22,523.8
+mybatis,/test/java/org/apache/ibatis/executor/ErrorContextTest.java,3,38.0,0,7min 30s,7.5,19,685.5
+mybatis,/test/java/org/apache/ibatis/databases/blog/StoredProcedures.java,7,38.0,0,0,0.0,34,1810.8
+mybatis,/test/java/org/apache/ibatis/session/SqlSessionManagerTest.java,3,36.0,0,0,0.0,30,669.3
+mybatis,/main/java/org/apache/ibatis/binding/MapperMethod.java,4,35.0,0,2h 20min,140.0,141,3852.6
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler/NestedResultHandlerTest.java,3,35.0,0,15min,15.0,38,1304.7
+mybatis,/test/java/org/apache/ibatis/autoconstructor/PrimitiveSubject.java,7,35.0,0,7min 30s,7.5,17,656.4
+mybatis,/test/java/org/apache/ibatis/cache/SoftCacheTest.java,4,35.0,4,20min,20.0,31,1503.6
+mybatis,/main/java/org/apache/ibatis/executor/BaseExecutor.java,2,34.0,0,1h 12min,72.0,159,4214.7
+mybatis,/test/java/org/apache/ibatis/submitted/hashmaptypehandler/HashMapTypeHandlerTest.java,2,34.0,0,0,0.0,32,756.6
+mybatis,/test/java/org/apache/ibatis/parsing/PropertyParserTest.java,3,34.0,0,30min,30.0,25,743.7
+mybatis,/main/java/org/apache/ibatis/scripting/defaults/DefaultParameterHandler.java,2,32.0,0,15min,15.0,20,743.7
+mybatis,/test/java/org/apache/ibatis/submitted/cglib_lazy_error/Person.java,2,32.0,0,53min,53.0,41,1084.8
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/PreparedStatementLogger.java,2,32.0,0,1h 32min,92.0,15,473.7
+mybatis,/test/java/org/apache/ibatis/submitted/results_id/ResultsIdTest.java,2,32.0,0,0,0.0,32,756.6
+mybatis,/main/java/org/apache/ibatis/reflection/ArrayUtil.java,1,30.0,0,6h 52min,412.0,10,540.0
+mybatis,/test/java/org/apache/ibatis/autoconstructor/BadSubject.java,6,30.0,0,0,0.0,21,963.6
+mybatis,/test/java/org/apache/ibatis/BaseDataTest.java,1,30.0,0,15min,15.0,54,1529.4
+mybatis,/test/java/org/apache/ibatis/binding/BoundBlogSql.java,2,30.0,0,0,0.0,11,481.8
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/ConnectionLogger.java,2,30.0,0,1h 5min,65.0,14,473.7
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql/CustomUtil.java,1,30.0,0,0,0.0,12,540.0
+mybatis,/test/java/org/apache/ibatis/submitted/default_method/DefaultMethodTest.java,2,30.0,0,0,0.0,26,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/duplicate_statements/DuplicateStatementsTest.java,3,30.0,0,0,0.0,35,785.7
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/DynamicContext.java,1,30.0,0,1h 15min,75.0,64,1587.6
+mybatis,/test/java/org/apache/ibatis/submitted/ognl_enum/EnumWithOgnlTest.java,2,30.0,0,0,0.0,40,902.1
+mybatis,/test/java/org/apache/ibatis/submitted/javassist/Group.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/Group.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/includes/IncludeTest.java,3,30.0,0,0,0.0,19,648.3
+mybatis,/test/java/org/apache/ibatis/submitted/keycolumn/InsertTest.java,2,30.0,0,0,0.0,28,1042.8
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_gh1551/NestedResultHandlerGh1551Test.java,2,30.0,0,7min 30s,7.5,25,552.9
+mybatis,/test/java/org/apache/ibatis/scripting/xmltags/OgnlCacheTest.java,3,30.0,0,7min 30s,7.5,17,722.7
+mybatis,/test/java/org/apache/ibatis/submitted/complex_column/Person.java,1,30.0,0,0,0.0,26,640.2
+mybatis,/main/java/org/apache/ibatis/cache/decorators/SoftCache.java,1,30.0,0,10min,10.0,66,2737.2
+mybatis,/test/java/org/apache/ibatis/submitted/ognlstatic/StaticClass.java,3,30.0,0,7min 30s,7.5,8,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/substitution_in_annots/SubstitutionInAnnotsTest.java,2,30.0,0,0,0.0,34,756.6
+mybatis,/test/java/org/apache/ibatis/submitted/no_param_type/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/basetest/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/ognlstatic/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/User.java,1,30.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/hashmaptypehandler/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/batch_keys/User.java,1,30.0,2,10min,10.0,19,465.6
+mybatis,/test/java/org/apache/ibatis/submitted/result_set_type/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/maptypehandler/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/cursor_nested/User.java,1,30.0,0,0,0.0,27,698.4
+mybatis,/test/java/org/apache/ibatis/submitted/raw_sql_source/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/cacheorder/User.java,1,30.0,2,10min,10.0,14,378.3
+mybatis,/test/java/org/apache/ibatis/submitted/array_result_type/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/use_actual_param_name/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/result_handler/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/duplicate_statements/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/collectionparameters/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_extend/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/results_id/User.java,1,30.0,0,0,0.0,20,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/propertiesinmapperfiles/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/optional_on_mapper_method/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/default_method/User.java,1,30.0,3,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/UserWithGetObjectWithInterface.java,1,30.0,2,10min,10.0,22,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/UserWithGetObjectWithoutInterface.java,1,30.0,0,0,0.0,22,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/UserWithGetXxxWithInterface.java,1,30.0,2,10min,10.0,22,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/UserWithGetXxxWithoutInterface.java,1,30.0,2,10min,10.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/UserWithNothingWithInterface.java,1,30.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/UserWithNothingWithoutInterface.java,1,30.0,2,10min,10.0,18,494.7
+mybatis,/main/java/org/apache/ibatis/cache/decorators/WeakCache.java,1,30.0,0,10min,10.0,65,2583.6
+mybatis,/test/java/org/apache/ibatis/builder/xsd/XmlMapperBuilderTest.java,3,30.0,0,7min 30s,7.5,16,810.0
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables_defaults/XmlMapperTest.java,1,30.0,0,15min,15.0,30,918.3
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/ColumnPrefixTest.java,4,29.0,0,15min,15.0,31,669.3
+mybatis,/test/java/org/apache/ibatis/submitted/result_handler_type/DefaultResultHandlerTypeTest.java,2,28.0,0,10min,10.0,35,1092.9
+mybatis,/test/java/org/apache/ibatis/submitted/flush_statement_npe/FlushStatementNpeTest.java,2,28.0,0,0,0.0,28,1130.1
+mybatis,/test/java/org/apache/ibatis/submitted/named_constructor_args/InvalidNamedConstructorArgsTest.java,2,28.0,0,0,0.0,50,1164.0
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_extend/MapperExtendTest.java,2,28.0,0,0,0.0,42,960.3
+mybatis,/test/java/org/apache/ibatis/submitted/maptypehandler/MapTypeHandlerTest.java,2,28.0,0,0,0.0,22,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/multidb/MultiDbTest.java,2,28.0,0,0,0.0,45,1047.6
+mybatis,/test/java/org/apache/ibatis/submitted/nested/NestedForEachTest.java,2,28.0,0,0,0.0,40,1180.2
+mybatis,/test/java/org/apache/ibatis/submitted/ognlstatic/OgnlStaticTest.java,2,28.0,0,0,0.0,17,494.7
+mybatis,/test/java/org/apache/ibatis/cache/ScheduledCacheTest.java,2,28.0,0,0,0.0,28,1167.3
+mybatis,/test/java/org/apache/ibatis/autoconstructor/AnnotatedSubject.java,5,25.0,0,0,0.0,16,378.3
+mybatis,/main/java/org/apache/ibatis/jdbc/Null.java,2,25.0,0,0,0.0,11,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/refid_resolution/RefidResolutionTest.java,2,25.0,0,0,0.0,15,598.2
+mybatis,/main/java/org/apache/ibatis/executor/loader/ResultLoaderMap.java,5,25.0,0,42min 30s,42.5,114,3498.6
+mybatis,/test/java/org/apache/ibatis/submitted/camelcase/CamelCaseMappingTest.java,3,24.0,0,0,0.0,22,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/ColumnPrefixAutoMappingTest.java,3,24.0,0,0,0.0,23,714.6
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/ColumnPrefixNestedQueryTest.java,3,24.0,0,0,0.0,16,598.2
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/ForEachSqlNode.java,2,24.0,0,40min,40.0,107,3265.8
+mybatis,/test/java/org/apache/ibatis/submitted/foreach_map/StringStringMapEntry.java,3,24.0,3,54min,54.0,31,976.5
+mybatis,/test/java/org/apache/ibatis/domain/blog/Author.java,2,22.0,5,2h 18min,138.0,63,1616.7
+mybatis,/test/java/org/apache/ibatis/domain/blog/ImmutableAuthor.java,2,22.0,5,2h 18min,138.0,40,1362.9
+mybatis,/test/java/org/apache/ibatis/submitted/foreach_map/IntBoolMapEntry.java,2,22.0,3,54min,54.0,31,976.5
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/AbstractLazyTest.java,1,20.0,0,7min 30s,7.5,38,843.9
+mybatis,/test/java/org/apache/ibatis/submitted/ancestor_ref/AncestorRefTest.java,1,20.0,0,7min 30s,7.5,25,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/array_result_type/ArrayResultTypeTest.java,1,20.0,0,0,0.0,33,756.6
+mybatis,/test/java/org/apache/ibatis/submitted/constructor_automapping/Article.java,1,20.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/associationtest/AssociationTest.java,1,20.0,0,0,0.0,32,1063.8
+mybatis,/test/java/org/apache/ibatis/submitted/associationtype/AssociationTypeTest.java,1,20.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/constructor_columnprefix/Author.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/initialized_collection_property/AuthorDAOTest.java,1,20.0,0,0,0.0,23,552.9
+mybatis,/test/java/org/apache/ibatis/domain/blog/mappers/AuthorMapper.java,1,20.0,0,0,0.0,35,989.4
+mybatis,/test/java/org/apache/ibatis/autoconstructor/AutoConstructorTest.java,1,20.0,0,0,0.0,37,843.9
+mybatis,/test/java/org/apache/ibatis/submitted/autodiscover/AutodiscoverTest.java,1,20.0,0,0,0.0,24,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/awful_table/AwfulTableTest.java,1,20.0,0,15min,15.0,17,378.3
+mybatis,/main/java/org/apache/ibatis/type/BaseTypeHandler.java,2,20.0,0,45min,45.0,71,2413.8
+mybatis,/test/java/org/apache/ibatis/submitted/batch_test/BatchTest.java,1,20.0,0,0,0.0,16,561.0
+mybatis,/test/java/org/apache/ibatis/submitted/blobtest/BlobTest.java,1,20.0,0,35min,35.0,28,976.5
+mybatis,/test/java/org/apache/ibatis/submitted/ancestor_ref/Blog.java,1,20.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/cacheorder/CacheOrderTest.java,1,20.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/cachereffromxml/CacheRefFromXmlTest.java,1,20.0,0,0,0.0,15,407.4
+mybatis,/test/java/org/apache/ibatis/domain/jpetstore/CartItem.java,1,20.0,0,0,0.0,26,669.3
+mybatis,/test/java/org/apache/ibatis/domain/jpetstore/Category.java,1,20.0,0,0,0.0,22,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/deferload_common_property/Child.java,1,20.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_common_property/Child.java,1,20.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/parent_childs/Child.java,1,20.0,0,0,0.0,23,640.2
+mybatis,/main/java/org/apache/ibatis/type/ClobTypeHandler.java,1,20.0,2,10min,10.0,35,1495.5
+mybatis,/test/java/org/apache/ibatis/submitted/collectionparameters/CollectionParametersTest.java,1,20.0,0,0,0.0,27,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/column_forwarding/ColumnForwardingTest.java,1,20.0,0,0,0.0,21,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_common_property/CommonPropertyLazyLoadTest.java,1,20.0,0,0,0.0,34,785.7
+mybatis,/test/java/org/apache/ibatis/submitted/complex_type/ComplexTypeTest.java,1,20.0,0,0,0.0,15,561.0
+mybatis,/test/java/org/apache/ibatis/submitted/complex_property/ComponentTest.java,1,20.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/constructor_automapping/ConstructorAutomappingTest.java,1,20.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/constructor_columnprefix/ConstructorColumnPrefixTest.java,1,20.0,0,7min 30s,7.5,25,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/keygen/Country.java,1,20.0,0,0,0.0,26,611.1
+mybatis,/test/java/org/apache/ibatis/submitted/count/CountTest.java,1,20.0,0,0,0.0,18,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/criterion/CriterionTest.java,1,20.0,0,0,0.0,18,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/cache/CustomCache.java,1,20.0,0,15min,15.0,90,2809.8
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables/CustomCache.java,1,20.0,0,0,0.0,22,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomCollectionHandlingTest.java,1,20.0,0,10min,10.0,32,1283.7
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/deepresultmap/DeepResultMapTest.java,1,20.0,0,0,0.0,15,407.4
+mybatis,/main/java/org/apache/ibatis/cursor/defaults/DefaultCursor.java,1,20.0,0,37min 30s,37.5,75,2530.2
+mybatis,/main/java/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java,1,20.0,0,30min,30.0,64,1741.2
+mybatis,/test/java/org/apache/ibatis/submitted/batch_test/Dept.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/discriminator/DiscriminatorTest.java,1,20.0,0,0,0.0,21,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/dml_return_types/DmlMapperReturnTypesTest.java,1,20.0,0,0,0.0,45,989.4
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql2/DynSqlTest.java,1,20.0,0,0,0.0,24,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/empty_namespace/EmptyNamespaceTest.java,1,20.0,0,0,0.0,17,598.2
+mybatis,/test/java/org/apache/ibatis/submitted/encoding/EncodingTest.java,1,20.0,0,0,0.0,22,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/enumtypehandler_on_map/EnumTypeHandlerTest.java,1,20.0,0,0,0.0,23,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/xml_references/EnumWithOgnlTest.java,1,20.0,0,0,0.0,21,714.6
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/ExpressionEvaluator.java,1,20.0,0,50min,50.0,16,598.2
+mybatis,/test/java/org/apache/ibatis/submitted/extendresultmap/ExtendResultMapTest.java,1,20.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/extend/ExtendTest.java,1,20.0,0,0,0.0,18,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/refid_resolution/ExternalRefidResolutionTest.java,1,20.0,0,0,0.0,12,569.1
+mybatis,/test/java/org/apache/ibatis/submitted/deferload_common_property/Father.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql2/FirstNameTypeHandler.java,1,20.0,3,20min,20.0,30,918.3
+mybatis,/test/java/org/apache/ibatis/binding/FlushTest.java,1,20.0,0,7min 30s,7.5,18,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/association_nested/FolderMapperTest.java,1,20.0,0,7min 30s,7.5,14,1029.9
+mybatis,/test/java/org/apache/ibatis/submitted/foreach_map/ForEachMapTest.java,1,20.0,0,0,0.0,33,756.6
+mybatis,/test/java/org/apache/ibatis/exceptions/GeneralExceptionsTest.java,1,20.0,0,7min 30s,7.5,30,918.3
+mybatis,/test/java/org/apache/ibatis/submitted/generictypes/GenericTypesTest.java,1,20.0,0,0,0.0,17,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_common_property/GrandFather.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/primitive_result_type/IbatisConfig.java,1,20.0,0,1min,1.0,16,598.2
+mybatis,/test/java/org/apache/ibatis/submitted/immutable_constructor/ImmutablePOJOTest.java,1,20.0,0,0,0.0,27,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_immutable/ImmutablePOJOTest.java,1,20.0,0,0,0.0,20,436.5
+mybatis,/test/java/org/apache/ibatis/submitted/inheritance/InheritanceTest.java,1,20.0,0,0,0.0,15,407.4
+mybatis,/main/java/org/apache/ibatis/builder/InitializingObject.java,1,20.0,0,0,0.0,1,0.0
+mybatis,/test/java/org/apache/ibatis/submitted/inline_association_with_dot/InlineCollectionWithDotTest.java,1,20.0,0,0,0.0,27,698.4
+mybatis,/main/java/org/apache/ibatis/plugin/Interceptor.java,1,20.0,0,0,0.0,11,291.0
+mybatis,/main/java/org/apache/ibatis/logging/commons/JakartaCommonsLoggingImpl.java,1,20.0,0,0,0.0,32,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/javassist/JavassistTest.java,1,20.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/type/JdbcTypeTest.java,1,20.0,0,0,0.0,21,992.7
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql2/LastNameTypeHandler.java,1,20.0,3,20min,20.0,30,918.3
+mybatis,/test/java/org/apache/ibatis/domain/jpetstore/LineItem.java,1,20.0,0,0,0.0,45,1193.1
+mybatis,/test/java/org/apache/ibatis/submitted/localtime/LocalTimeTest.java,1,20.0,0,0,0.0,23,523.8
+mybatis,/main/java/org/apache/ibatis/logging/log4j2/Log4j2Impl.java,1,20.0,0,0,0.0,47,1985.4
+mybatis,/test/java/org/apache/ibatis/logging/LogFactoryTest.java,1,20.0,0,0,0.0,43,1275.6
+mybatis,/main/java/org/apache/ibatis/cache/decorators/LoggingCache.java,1,20.0,0,0,0.0,55,1852.8
+mybatis,/test/java/org/apache/ibatis/binding/MapperMethodParamTest.java,1,20.0,0,0,0.0,30,727.5
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_type_parameter/MapperTypeParameterTest.java,1,20.0,0,0,0.0,43,989.4
+mybatis,/test/java/org/apache/ibatis/submitted/missing_id_property/MissingIdPropertyTest.java,1,20.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/multiple_discriminator/MultipleDiscriminatorTest.java,1,20.0,0,0,0.0,30,669.3
+mybatis,/test/java/org/apache/ibatis/submitted/multipleresultsetswithassociation/MultipleResultSetTest.java,1,20.0,0,0,0.0,25,918.3
+mybatis,/test/java/org/apache/ibatis/submitted/call_setters_on_nulls_again/MyBatisTest.java,1,20.0,0,0,0.0,15,378.3
+mybatis,/test/java/org/apache/ibatis/submitted/keycolumn/Name.java,1,20.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/language/Name.java,1,20.0,0,0,0.0,19,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/sptests/Name.java,1,20.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql2/Name.java,1,20.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/named_constructor_args/NamedConstructorArgsTest.java,1,20.0,0,0,0.0,22,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/named_constructor_args/NamedConstructorArgsUseActualNameTest.java,1,20.0,0,0,0.0,22,523.8
+mybatis,/main/java/org/apache/ibatis/type/NClobTypeHandler.java,1,20.0,2,10min,10.0,35,1495.5
+mybatis,/test/java/org/apache/ibatis/submitted/nested_query_cache/NestedQueryCacheTest.java,1,20.0,0,0,0.0,19,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_multiple_association/NestedResultHandlerMultipleAssociationTest.java,1,20.0,0,0,0.0,19,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/nonexistentvariables/NonExistentVariablesTest.java,1,20.0,0,0,0.0,19,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/NonFullyQualifiedNamespaceTest.java,1,20.0,0,7min 30s,7.5,22,743.7
+mybatis,/test/java/org/apache/ibatis/submitted/not_null_column/NotNullColumnTest.java,1,20.0,0,0,0.0,64,2633.7
+mybatis,/test/java/org/apache/ibatis/submitted/keygen/NpeCountry.java,1,20.0,0,20min,20.0,29,910.2
+mybatis,/test/java/org/apache/ibatis/submitted/extends_with_constructor/NpeExtendsTest.java,1,20.0,0,0,0.0,37,1092.9
+mybatis,/test/java/org/apache/ibatis/submitted/optional_on_mapper_method/OptionalOnMapperMethodTest.java,3,20.0,0,0,0.0,34,814.8
+mybatis,/main/java/org/apache/ibatis/reflection/OptionalUtil.java,2,20.0,0,0,0.0,11,510.9
+mybatis,/test/java/org/apache/ibatis/submitted/multipleresultsetswithassociation/OrderDetail.java,1,20.0,0,0,0.0,28,785.7
+mybatis,/test/java/org/apache/ibatis/submitted/multiple_resultsets/OrderDetail.java,1,20.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/multipleresultsetswithassociation/OrderHeader.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/multiple_resultsets/OrderHeader.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/order_prefix_removed/OrderPrefixRemovedTest.java,1,20.0,0,0,0.0,20,436.5
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql/Parameter.java,1,20.0,0,0,0.0,20,582.0
+mybatis,/main/java/org/apache/ibatis/mapping/ParameterMapping.java,1,20.0,0,15min,15.0,114,4033.8
+mybatis,/test/java/org/apache/ibatis/submitted/parametrizedlist/ParametrizedListTest.java,1,20.0,0,0,0.0,29,669.3
+mybatis,/test/java/org/apache/ibatis/submitted/parent_childs/Parent.java,1,20.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/permissions/PermissionsTest.java,1,20.0,0,7min 30s,7.5,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/cache/Person.java,1,20.0,2,10min,10.0,27,669.3
+mybatis,/test/java/org/apache/ibatis/submitted/result_handler_type/Person.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_type_parameter/Person.java,1,20.0,0,0,0.0,26,611.1
+mybatis,/test/java/org/apache/ibatis/submitted/blocking_cache/Person.java,1,20.0,2,10min,10.0,28,698.4
+mybatis,/test/java/org/apache/ibatis/submitted/enumtypehandler_on_annotation/Person.java,1,20.0,0,0,0.0,30,785.7
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/PooledConnection.java,1,20.0,0,57min 30s,57.5,22,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/postgres_genkeys/PostgresGeneratedKeysTest.java,1,20.0,0,0,0.0,29,793.8
+mybatis,/test/java/org/apache/ibatis/submitted/primitive_result_type/PrimitiveResultTypeTest.java,1,20.0,0,0,0.0,23,772.8
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/Product.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/domain/jpetstore/Product.java,1,20.0,0,0,0.0,26,698.4
+mybatis,/test/java/org/apache/ibatis/submitted/propertiesinmapperfiles/PropertiesInMappersTest.java,1,20.0,0,0,0.0,16,407.4
+mybatis,/main/java/org/apache/ibatis/reflection/property/PropertyCopier.java,1,20.0,0,0,0.0,12,789.0
+mybatis,/test/java/org/apache/ibatis/submitted/quotedcolumnnames/QuotedColumnNamesTest.java,1,20.0,0,0,0.0,31,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/raw_sql_source/RawSqlSourceTest.java,1,20.0,0,0,0.0,26,582.0
+mybatis,/main/java/org/apache/ibatis/io/ResolverUtil.java,1,20.0,0,20min,20.0,41,1516.5
+mybatis,/test/java/org/apache/ibatis/submitted/result_handler/ResulthandlerTest.java,1,20.0,0,0,0.0,21,523.8
+mybatis,/main/java/org/apache/ibatis/mapping/ResultMapping.java,1,20.0,0,1h 20min,80.0,197,6921.3
+mybatis,/test/java/org/apache/ibatis/submitted/resultmapwithassociationstest/ResultMapWithAssociationsTest.java,1,20.0,0,0,0.0,16,407.4
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/ResultSetLogger.java,1,20.0,0,35min,35.0,28,852.0
+mybatis,/test/java/org/apache/ibatis/submitted/result_set_type/ResultSetTypeTest.java,1,20.0,0,22min 30s,22.5,60,1259.4
+mybatis,/main/java/org/apache/ibatis/executor/resultset/ResultSetWrapper.java,1,20.0,0,55min,55.0,66,1936.8
+mybatis,/test/java/org/apache/ibatis/submitted/empty_row/ReturnInstanceForEmptyRowTest.java,1,20.0,0,0,0.0,61,1579.5
+mybatis,/test/java/org/apache/ibatis/submitted/rounding/RoundingHandlersTest.java,1,20.0,0,0,0.0,20,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/serializecircular/SerializeCircularTest.java,1,20.0,0,10min,10.0,63,1791.3
+mybatis,/main/java/org/apache/ibatis/cache/decorators/SerializedCache.java,1,20.0,0,10min,10.0,83,3086.4
+mybatis,/test/java/org/apache/ibatis/submitted/simplelistparameter/SimpleListParameterTest.java,1,20.0,0,0,0.0,28,793.8
+mybatis,/main/java/org/apache/ibatis/logging/slf4j/Slf4jImpl.java,1,20.0,0,10min,10.0,51,2321.7
+mybatis,/main/java/org/apache/ibatis/logging/slf4j/Slf4jLoggerImpl.java,1,20.0,0,0,0.0,30,494.7
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/StatementLogger.java,1,20.0,0,57min 30s,57.5,14,473.7
+mybatis,/test/java/org/apache/ibatis/submitted/timestamp_with_timezone/TimestampWithTimezoneTypeHandlerTest.java,1,20.0,0,7min 30s,7.5,27,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/typehandlerinjection/TypeHandlerInjectionTest.java,1,20.0,0,0,0.0,17,436.5
+mybatis,/test/java/org/apache/ibatis/submitted/typehandler/TypeHandlerTest.java,1,20.0,0,0,0.0,55,1259.4
+mybatis,/test/java/org/apache/ibatis/submitted/unknownobject/UnknownObjectTest.java,1,20.0,0,0,0.0,15,598.2
+mybatis,/main/java/org/apache/ibatis/datasource/unpooled/UnpooledDataSource.java,1,20.0,0,15min,15.0,169,4360.2
+mybatis,/test/java/org/apache/ibatis/submitted/use_actual_param_name/UseActualParamNameTest.java,1,20.0,0,0,0.0,32,756.6
+mybatis,/test/java/org/apache/ibatis/submitted/sql/User.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/dml_return_types/User.java,1,20.0,2,10min,10.0,20,465.6
+mybatis,/test/java/org/apache/ibatis/submitted/stringlist/User.java,1,20.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/multidb/User.java,1,20.0,2,10min,10.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/postgres_genkeys/User.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/inheritance/UserProfile.java,1,20.0,2,10min,10.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/valueinmap/ValueInMapTest.java,1,20.0,0,0,0.0,20,523.8
+mybatis,/main/java/org/apache/ibatis/mapping/CacheBuilder.java,1,18.0,0,1h 45min,105.0,94,3485.7
+mybatis,/test/java/org/apache/ibatis/type/NStringTypeHandlerTest.java,1,18.0,0,0,0.0,30,727.5
+mybatis,/main/java/org/apache/ibatis/jdbc/SqlRunner.java,2,18.0,0,1h 12min,72.0,45,2533.5
+mybatis,/test/java/org/apache/ibatis/jdbc/SqlRunnerTest.java,2,18.0,0,0,0.0,56,1616.7
+mybatis,/test/java/org/apache/ibatis/type/StringTypeHandlerTest.java,1,18.0,0,0,0.0,30,727.5
+mybatis,/main/java/org/apache/ibatis/parsing/GenericTokenParser.java,1,16.0,0,35min,35.0,16,627.3
+mybatis,/test/java/org/apache/ibatis/type/ArrayTypeHandlerTest.java,2,15.0,0,0,0.0,54,1193.1
+mybatis,/main/java/org/apache/ibatis/executor/BatchResult.java,2,15.0,0,0,0.0,26,640.2
+mybatis,/main/java/org/apache/ibatis/executor/loader/CglibProxyFactory.java,2,15.0,0,0,0.0,4,489.9
+mybatis,/main/java/org/apache/ibatis/mapping/DefaultDatabaseIdProvider.java,2,15.0,0,0,0.0,3,336.3
+mybatis,/main/java/org/apache/ibatis/io/ExternalResources.java,3,15.0,0,0,0.0,22,926.4
+mybatis,/main/java/org/apache/ibatis/exceptions/IbatisException.java,2,15.0,0,0,0.0,12,357.3
+mybatis,/main/java/org/apache/ibatis/executor/loader/JavassistProxyFactory.java,2,15.0,0,0,0.0,4,489.9
+mybatis,/test/java/org/apache/ibatis/submitted/selectkey/SqlProvider.java,3,15.0,0,0,0.0,12,540.0
+mybatis,/test/java/org/apache/ibatis/io/VFSTest.java,3,15.0,0,7min 30s,7.5,36,1408.2
+mybatis,/main/java/org/apache/ibatis/parsing/XNode.java,3,15.0,0,5h 20min,320.0,195,4966.5
+mybatis,/test/java/org/apache/ibatis/type/BooleanTypeHandlerTest.java,1,14.0,0,0,0.0,34,727.5
+mybatis,/test/java/org/apache/ibatis/type/ByteTypeHandlerTest.java,1,14.0,0,0,0.0,38,1341.9
+mybatis,/test/java/org/apache/ibatis/submitted/camelcase/Camel.java,4,14.0,0,0,0.0,19,494.7
+mybatis,/test/java/org/apache/ibatis/type/DoubleTypeHandlerTest.java,1,14.0,0,0,0.0,34,727.5
+mybatis,/test/java/org/apache/ibatis/type/FloatTypeHandlerTest.java,1,14.0,0,0,0.0,34,727.5
+mybatis,/test/java/org/apache/ibatis/type/LongTypeHandlerTest.java,1,14.0,0,0,0.0,34,727.5
+mybatis,/test/java/org/apache/ibatis/type/ShortTypeHandlerTest.java,1,14.0,0,0,0.0,38,1341.9
+mybatis,/test/java/org/apache/ibatis/io/ClassLoaderWrapperTest.java,6,12.0,0,0,0.0,50,989.4
+mybatis,/main/java/org/apache/ibatis/executor/statement/CallableStatementHandler.java,1,11.0,0,27min 30s,27.5,52,1691.1
+mybatis,/test/java/org/apache/ibatis/type/BlobByteObjectArrayTypeHandlerTest.java,1,10.0,0,7min 30s,7.5,35,756.6
+mybatis,/test/java/org/apache/ibatis/type/BlobTypeHandlerTest.java,1,10.0,0,0,0.0,35,756.6
+mybatis,/test/java/org/apache/ibatis/type/ByteObjectArrayTypeHandlerTest.java,1,10.0,0,0,0.0,34,727.5
+mybatis,/test/java/org/apache/ibatis/domain/blog/Comment.java,1,10.0,0,0,0.0,26,698.4
+mybatis,/test/java/org/apache/ibatis/reflection/factory/DefaultObjectFactoryTest.java,1,10.0,0,0,0.0,30,1167.3
+mybatis,/test/java/org/apache/ibatis/submitted/inline_association_with_dot/Element.java,1,10.0,0,0,0.0,13,349.2
+mybatis,/main/java/org/apache/ibatis/executor/Executor.java,1,10.0,0,0,0.0,54,1455.0
+mybatis,/test/java/org/apache/ibatis/domain/misc/generics/GenericAbstract.java,1,10.0,0,0,0.0,7,423.6
+mybatis,/test/java/org/apache/ibatis/submitted/sptests/Item.java,1,10.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/type/LocalDateTimeTypeHandlerTest.java,1,10.0,0,0,0.0,35,756.6
+mybatis,/test/java/org/apache/ibatis/type/LocalDateTypeHandlerTest.java,1,10.0,0,0,0.0,35,756.6
+mybatis,/test/java/org/apache/ibatis/type/LocalTimeTypeHandlerTest.java,1,10.0,0,0,0.0,35,756.6
+mybatis,/test/java/org/apache/ibatis/submitted/automapping/Mapper.java,2,10.0,0,0,0.0,18,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/selectkey/Name.java,1,10.0,0,0,0.0,21,494.7
+mybatis,/main/java/org/apache/ibatis/cache/NullCacheKey.java,1,10.0,0,0,0.0,10,328.2
+mybatis,/test/java/org/apache/ibatis/type/OffsetDateTimeTypeHandlerTest.java,1,10.0,0,0,0.0,35,756.6
+mybatis,/test/java/org/apache/ibatis/type/OffsetTimeTypeHandlerTest.java,1,10.0,0,0,0.0,35,756.6
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/OgnlCache.java,1,10.0,0,10min,10.0,17,685.5
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/Owned.java,1,10.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/permissions/Permission.java,1,10.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/cache/PerpetualCacheTest.java,1,10.0,0,0,0.0,31,1474.5
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/Phone.java,1,10.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/io/ResolverUtilTest.java,2,10.0,0,0,0.0,60,1317.6
+mybatis,/test/java/org/apache/ibatis/executor/ResultExtractorTest.java,1,10.0,0,7min 30s,7.5,37,785.7
+mybatis,/test/java/org/apache/ibatis/type/TimeOnlyTypeHandlerTest.java,1,10.0,0,0,0.0,37,814.8
+mybatis,/main/java/org/apache/ibatis/type/TypeReference.java,3,10.0,0,20min,20.0,13,444.6
+mybatis,/main/java/org/apache/ibatis/type/UnknownTypeHandler.java,2,10.0,0,1h 17min,77.0,55,1587.6
+mybatis,/test/java/org/apache/ibatis/type/ZonedDateTimeTypeHandlerTest.java,1,10.0,0,0,0.0,35,756.6
+mybatis,/main/java/org/apache/ibatis/reflection/MetaClass.java,3,9.0,0,2h 10min,130.0,89,2974.8
+mybatis,/main/java/org/apache/ibatis/executor/keygen/SelectKeyGenerator.java,2,9.0,0,15min,15.0,28,764.7
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables_defaults/CustomizationTest.java,1,8.0,0,22min 30s,22.5,27,831.0
+mybatis,/main/java/org/apache/ibatis/session/defaults/DefaultSqlSession.java,1,8.0,0,1h 55min,115.0,175,4853.4
+mybatis,/test/java/org/apache/ibatis/cache/FifoCacheTest.java,1,8.0,3,10min,10.0,22,992.7
+mybatis,/test/java/org/apache/ibatis/submitted/enum_interface_type_handler/HasValueEnumTypeHandler.java,1,8.0,0,1h 2min,62.0,41,1392.0
+mybatis,/test/java/org/apache/ibatis/cache/LruCacheTest.java,1,8.0,3,10min,10.0,24,1050.9
+mybatis,/test/java/org/apache/ibatis/plugin/PluginTest.java,1,8.0,0,0,0.0,27,1021.8
+mybatis,/test/java/org/apache/ibatis/io/ResourcesTest.java,1,8.0,0,0,0.0,118,2976.3
+mybatis,/main/java/org/apache/ibatis/executor/ResultExtractor.java,1,8.0,0,17min 30s,17.5,14,444.6
+mybatis,/test/java/org/apache/ibatis/jdbc/ScriptRunnerTest.java,1,8.0,0,15min,15.0,134,5873.7
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLIncludeTransformer.java,1,8.0,0,55min,55.0,25,1109.1
+mybatis,/test/java/org/apache/ibatis/type/YearMonthTypeHandlerTest.java,1,8.0,0,0,0.0,32,698.4
+mybatis,/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomObjectFactory.java,1,6.0,0,20min,20.0,38,1400.1
+mybatis,/test/java/org/apache/ibatis/submitted/orphan_result_maps/OrphanResultMapTest.java,3,6.0,0,0,0.0,20,407.4
+mybatis,/main/java/org/apache/ibatis/reflection/ParamNameResolver.java,1,6.0,1,55min,55.0,26,822.9
+mybatis,/main/java/org/apache/ibatis/reflection/TypeParameterResolver.java,1,6.0,0,2h 45min,165.0,111,3228.6
+mybatis,/test/java/org/apache/ibatis/submitted/selectkey/AnnotatedMapper.java,1,5.0,0,0,0.0,51,1367.7
+mybatis,/test/java/org/apache/ibatis/reflection/ArrayUtilTest.java,1,5.0,0,22min 30s,22.5,21,714.6
+mybatis,/test/java/org/apache/ibatis/submitted/constructor_automapping/Author.java,1,5.0,0,0,0.0,14,349.2
+mybatis,/test/java/org/apache/ibatis/executor/BatchExecutorTest.java,1,5.0,0,0,0.0,14,540.0
+mybatis,/test/java/org/apache/ibatis/executor/CachingBatchExecutorTest.java,1,5.0,0,0,0.0,14,540.0
+mybatis,/test/java/org/apache/ibatis/executor/CachingReuseExecutorTest.java,1,5.0,0,0,0.0,14,540.0
+mybatis,/test/java/org/apache/ibatis/executor/CachingSimpleExecutorTest.java,1,5.0,0,0,0.0,14,540.0
+mybatis,/test/java/org/apache/ibatis/reflection/typeparam/Calculator.java,1,5.0,0,0,0.0,20,1021.8
+mybatis,/test/java/org/apache/ibatis/builder/CustomObjectWrapperFactory.java,1,5.0,0,0,0.0,15,473.7
+mybatis,/test/java/org/apache/ibatis/submitted/emptycollection/Dao.java,1,5.0,0,0,0.0,8,232.8
+mybatis,/main/java/org/apache/ibatis/reflection/DefaultReflectorFactory.java,1,5.0,0,20min,20.0,16,349.2
+mybatis,/main/java/org/apache/ibatis/mapping/Discriminator.java,1,5.0,0,0,0.0,26,889.2
+mybatis,/test/java/org/apache/ibatis/submitted/autodiscover/handlers/DummyTypeHandler.java,1,5.0,0,0,0.0,29,947.4
+mybatis,/test/java/org/apache/ibatis/submitted/default_method/Mapper.java,1,5.0,0,0,0.0,18,465.6
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/MapWrapper.java,1,5.0,0,2h 20min,140.0,64,2268.3
+mybatis,/main/java/org/apache/ibatis/mapping/ParameterMap.java,1,5.0,0,0,0.0,35,1466.4
+mybatis,/test/java/org/apache/ibatis/submitted/typehandler/Product.java,1,5.0,0,0,0.0,103,2564.1
+mybatis,/test/java/org/apache/ibatis/mapping/ResultMappingTest.java,1,5.0,0,0,0.0,17,561.0
+mybatis,/test/java/org/apache/ibatis/executor/ReuseExecutorTest.java,1,5.0,0,0,0.0,18,627.3
+mybatis,/test/java/org/apache/ibatis/cache/SuperCacheTest.java,1,5.0,0,0,0.0,14,847.2
+mybatis,/main/java/org/apache/ibatis/reflection/SystemMetaObject.java,1,5.0,0,7min 30s,7.5,18,876.3
+mybatis,/test/java/org/apache/ibatis/submitted/unknownobject/UnknownObject.java,1,5.0,0,0,0.0,5,365.4
+mybatis,/test/java/org/apache/ibatis/submitted/named_constructor_args/User.java,1,5.0,0,0,0.0,30,756.6
+mybatis,/test/java/org/apache/ibatis/submitted/complex_property/User.java,1,5.0,0,0,0.0,25,698.4
+mybatis,/test/java/org/apache/ibatis/submitted/typehandlerinjection/UserStateTypeHandler.java,1,5.0,0,0,0.0,34,814.8
+mybatis,/test/java/org/apache/ibatis/submitted/generictypes/UserTypeHandler.java,1,5.0,0,0,0.0,32,1005.6
+mybatis,/test/java/org/apache/ibatis/binding/WrongMapperTest.java,1,5.0,0,0,0.0,12,510.9
+mybatis,/test/java/org/apache/ibatis/builder/ExampleObjectFactory.java,2,4.0,0,0,0.0,18,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/automapping/Article.java,1,2.0,0,7min 30s,7.5,7,299.1
+mybatis,/test/java/org/apache/ibatis/submitted/automapping/Book.java,1,2.0,0,7min 30s,7.5,13,598.2
+mybatis,/test/java/org/apache/ibatis/domain/blog/ComplexImmutableAuthor.java,1,2.0,0,50min,50.0,28,764.7
+mybatis,/test/java/org/apache/ibatis/domain/blog/ComplexImmutableAuthorId.java,1,2.0,0,1h 7min,67.0,27,793.8
+mybatis,/test/java/org/apache/ibatis/submitted/enum_with_method/Currency.java,1,2.0,0,0,0.0,21,963.6
+mybatis,/test/java/org/apache/ibatis/domain/misc/CustomBeanWrapperFactory.java,1,2.0,0,20min,20.0,13,540.0
+mybatis,/test/java/org/apache/ibatis/type/GenericTypeSupportedInHierarchiesTestCase.java,1,2.0,0,7min 30s,7.5,19,905.4
+mybatis,/main/java/org/apache/ibatis/type/JdbcType.java,1,2.0,0,7min 30s,7.5,11,357.3
+mybatis,/main/java/org/apache/ibatis/scripting/LanguageDriverRegistry.java,1,2.0,0,10min,10.0,27,677.4
+mybatis,/test/java/org/apache/ibatis/scripting/LanguageDriverRegistryTest.java,1,2.0,0,0,0.0,59,1325.7
+mybatis,/test/java/org/apache/ibatis/submitted/foreach_map/NestedBeanMapEntry.java,1,2.0,0,1h 6min,66.0,43,1143.0
+mybatis,/test/java/org/apache/ibatis/domain/blog/PostLite.java,1,2.0,0,40min,40.0,31,822.9
+mybatis,/test/java/org/apache/ibatis/domain/blog/PostLiteId.java,1,2.0,0,30min,30.0,23,648.3
+mybatis,/test/java/org/apache/ibatis/submitted/permissions/Resource.java,1,2.0,0,0,0.0,14,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_association/Account.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/domain/jpetstore/Account.java,0,0.0,0,15min,15.0,96,3013.5
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_association/AccountAddress.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/Address.java,0,0.0,0,7min 30s,7.5,46,1280.4
+mybatis,/test/java/org/apache/ibatis/submitted/resultmapwithassociationstest/Address.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/AddressWithCaution.java,0,0.0,0,0,0.0,12,291.0
+mybatis,/main/java/org/apache/ibatis/type/Alias.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/AmbiguousMethodInvoker.java,0,0.0,0,0,0.0,13,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/manyanno/AnnoPost.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/manyanno/AnnoPostTag.java,0,0.0,0,0,0.0,15,378.3
+mybatis,/test/java/org/apache/ibatis/submitted/duplicate_statements/AnnotatedMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/duplicate_statements/AnnotatedMapperExtended.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables/AnnotationMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/cursor_simple/AnnotationMapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/builder/AnnotationMapperBuilderTest.java,0,0.0,0,7min 30s,7.5,48,1413.0
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables_defaults/AnnotationMapperTest.java,0,0.0,0,15min,15.0,26,801.9
+mybatis,/test/java/org/apache/ibatis/submitted/results_id/AnotherMapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/main/java/org/apache/ibatis/annotations/Arg.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/ArrayTypeHandler.java,0,0.0,0,25min,25.0,42,1296.6
+mybatis,/test/java/org/apache/ibatis/submitted/constructor_columnprefix/Article.java,0,0.0,0,0,0.0,23,611.1
+mybatis,/test/java/org/apache/ibatis/submitted/primitives/Assetright.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/serializecircular/Attribute.java,0,0.0,2,10min,10.0,10,510.9
+mybatis,/test/java/org/apache/ibatis/submitted/serializecircular/AttributeMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/ancestor_ref/Author.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/initialized_collection_property/Author.java,0,0.0,0,0,0.0,21,552.9
+mybatis,/test/java/org/apache/ibatis/submitted/nested_query_cache/AuthorMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/domain/blog/mappers/AuthorMapperWithMultipleHandlers.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/domain/blog/mappers/AuthorMapperWithRowBounds.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/autoconstructor/AutoConstructorMapper.java,0,0.0,0,0,0.0,13,378.3
+mybatis,/main/java/org/apache/ibatis/annotations/AutomapConstructor.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/AutoMappingBehavior.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/AutoMappingUnknownColumnBehavior.java,0,0.0,0,0,0.0,33,1503.6
+mybatis,/test/java/org/apache/ibatis/submitted/awful_table/AwfulTable.java,0,0.0,0,15min,15.0,78,2431.5
+mybatis,/test/java/org/apache/ibatis/submitted/awful_table/AwfulTableMapper.java,0,0.0,0,0,0.0,24,698.4
+mybatis,/test/java/org/apache/ibatis/submitted/null_associations/Bar.java,0,0.0,0,0,0.0,24,611.1
+mybatis,/test/java/org/apache/ibatis/submitted/overwritingproperties/Bar.java,0,0.0,0,0,0.0,14,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/not_null_column/Base.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/cache/BaseCacheTest.java,0,0.0,0,7min 30s,7.5,13,540.0
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/BaseJdbcLogger.java,0,0.0,0,27min 30s,27.5,63,1492.2
+mybatis,/test/java/org/apache/ibatis/submitted/sqlprovider/BaseMapper.java,0,0.0,0,0,0.0,39,1134.9
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_type_parameter/BaseMapper.java,0,0.0,0,20min,20.0,45,1691.1
+mybatis,/test/java/org/apache/ibatis/submitted/inheritance/BaseMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/main/java/org/apache/ibatis/executor/statement/BaseStatementHandler.java,0,0.0,0,52min 30s,52.5,50,1529.4
+mybatis,/test/java/org/apache/ibatis/executor/statement/BaseStatementHandlerTest.java,0,0.0,0,0,0.0,64,1425.9
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/BaseWrapper.java,0,0.0,0,2h 40min,160.0,32,1225.5
+mybatis,/main/java/org/apache/ibatis/executor/BatchExecutor.java,0,0.0,0,1h 2min,62.0,45,1662.0
+mybatis,/main/java/org/apache/ibatis/executor/BatchExecutorException.java,0,0.0,0,7min 30s,7.5,7,174.6
+mybatis,/main/java/org/apache/ibatis/type/BigDecimalTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/type/BigDecimalTypeHandlerTest.java,0,0.0,0,0,0.0,30,727.5
+mybatis,/main/java/org/apache/ibatis/type/BigIntegerTypeHandler.java,0,0.0,0,0,0.0,26,860.1
+mybatis,/main/java/org/apache/ibatis/binding/BindingException.java,0,0.0,0,7min 30s,7.5,15,415.5
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_multiple_association/Binome.java,0,0.0,0,10min,10.0,31,727.5
+mybatis,/main/java/org/apache/ibatis/type/BlobByteObjectArrayTypeHandler.java,0,0.0,0,0,0.0,33,1188.3
+mybatis,/main/java/org/apache/ibatis/type/BlobInputStreamTypeHandler.java,0,0.0,0,20min,20.0,9,481.8
+mybatis,/test/java/org/apache/ibatis/submitted/blobtest/BlobMapper.java,0,0.0,0,0,0.0,9,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/blobtest/BlobRecord.java,0,0.0,0,0,0.0,17,407.4
+mybatis,/main/java/org/apache/ibatis/type/BlobTypeHandler.java,0,0.0,0,0,0.0,28,1320.9
+mybatis,/main/java/org/apache/ibatis/cache/decorators/BlockingCache.java,3,0.0,0,0,0.0,60,1844.7
+mybatis,/test/java/org/apache/ibatis/submitted/orphan_result_maps/Blog.java,0,0.0,0,0,0.0,19,494.7
+mybatis,/test/java/org/apache/ibatis/domain/blog/Blog.java,0,0.0,0,0,0.0,37,814.8
+mybatis,/test/java/org/apache/ibatis/domain/blog/BlogLite.java,0,0.0,0,0,0.0,14,378.3
+mybatis,/test/java/org/apache/ibatis/submitted/nested_query_cache/BlogMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/domain/blog/mappers/BlogMapper.java,0,0.0,0,0,0.0,10,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/sptests/Book.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/main/java/org/apache/ibatis/type/BooleanTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/binding/BoundAuthorMapper.java,0,0.0,0,0,0.0,49,1396.8
+mybatis,/test/java/org/apache/ibatis/binding/BoundBlogMapper.java,0,0.0,0,0,0.0,89,2473.5
+mybatis,/main/java/org/apache/ibatis/mapping/BoundSql.java,0,0.0,0,0,0.0,29,640.2
+mybatis,/test/java/org/apache/ibatis/mapping/BoundSqlTest.java,1,0.0,0,15min,15.0,22,810.0
+mybatis,/test/java/org/apache/ibatis/submitted/associationtest/Brakes.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/Brand.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/automapping/Breeder.java,0,0.0,0,0,0.0,14,349.2
+mybatis,/main/java/org/apache/ibatis/builder/BuilderException.java,0,0.0,0,7min 30s,7.5,14,357.3
+mybatis,/main/java/org/apache/ibatis/type/ByteArrayTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/type/ByteArrayTypeHandlerTest.java,0,0.0,0,0,0.0,30,727.5
+mybatis,/main/java/org/apache/ibatis/type/ByteArrayUtils.java,0,0.0,0,0,0.0,11,510.9
+mybatis,/main/java/org/apache/ibatis/type/ByteObjectArrayTypeHandler.java,0,0.0,0,0,0.0,31,976.5
+mybatis,/main/java/org/apache/ibatis/type/ByteTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/cache/Cache.java,0,0.0,0,0,0.0,6,0.0
+mybatis,/test/java/org/apache/ibatis/mapping/CacheBuilderTest.java,0,0.0,0,25min,25.0,49,1736.4
+mybatis,/test/java/org/apache/ibatis/builder/CachedAuthorMapper.java,0,0.0,0,0,0.0,20,582.0
+mybatis,/test/java/org/apache/ibatis/builder/xsd/CachedAuthorMapper.java,0,0.0,0,0,0.0,20,582.0
+mybatis,/main/java/org/apache/ibatis/cache/CacheException.java,0,0.0,0,7min 30s,7.5,16,415.5
+mybatis,/main/java/org/apache/ibatis/annotations/CacheNamespace.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/CacheNamespaceRef.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/builder/CacheRefResolver.java,0,0.0,0,0,0.0,8,174.6
+mybatis,/main/java/org/apache/ibatis/executor/CachingExecutor.java,0,0.0,0,17min 30s,17.5,95,3589.2
+mybatis,/test/java/org/apache/ibatis/submitted/simplelistparameter/Car.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/associationtest/Car.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/discriminator/Car.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/missing_id_property/Car.java,0,0.0,0,0,0.0,12,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/simplelistparameter/CarMapper.java,0,0.0,0,0,0.0,11,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/missing_id_property/CarMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/domain/jpetstore/Cart.java,0,0.0,0,20min,20.0,42,1055.7
+mybatis,/main/java/org/apache/ibatis/annotations/Case.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/CglibLazyTest.java,0,0.0,0,0,0.0,8,423.6
+mybatis,/test/java/org/apache/ibatis/executor/loader/CglibProxyTest.java,0,0.0,0,0,0.0,32,889.2
+mybatis,/main/java/org/apache/ibatis/executor/loader/cglib/CglibSerialStateHolder.java,0,0.0,0,0,0.0,12,357.3
+mybatis,/main/java/org/apache/ibatis/type/CharacterTypeHandler.java,0,0.0,0,1h,60.0,26,860.1
+mybatis,/test/java/org/apache/ibatis/submitted/empty_row/Child.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/extend/Child.java,0,0.0,0,0,0.0,5,365.4
+mybatis,/test/java/org/apache/ibatis/submitted/not_null_column/Child.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_multiple_association/ChildBean.java,0,0.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/call_setters_on_nulls_again/ChildBean.java,0,0.0,0,0,0.0,22,552.9
+mybatis,/test/java/org/apache/ibatis/submitted/deferload_common_property/ChildMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_common_property/ChildMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_extend/ChildMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/ChooseSqlNode.java,0,0.0,0,20min,20.0,12,415.5
+mybatis,/main/java/org/apache/ibatis/io/ClassLoaderWrapper.java,0,0.0,0,30min,30.0,16,656.4
+mybatis,/main/java/org/apache/ibatis/type/ClobReaderTypeHandler.java,0,0.0,0,20min,20.0,9,481.8
+mybatis,/test/java/org/apache/ibatis/submitted/heavy_initial_load/Code.java,0,0.0,0,7min 30s,7.5,2012,58740.0
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/CollectionWrapper.java,0,0.0,0,0,0.0,50,1047.6
+mybatis,/test/java/org/apache/ibatis/submitted/enum_interface_type_handler/Color.java,0,0.0,0,0,0.0,27,1329.0
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables_defaults/ConfigurationTest.java,0,0.0,0,15min,15.0,25,772.8
+mybatis,/test/java/org/apache/ibatis/logging/jdbc/ConnectionLoggerTest.java,0,0.0,0,0,0.0,41,1516.5
+mybatis,/main/java/org/apache/ibatis/annotations/ConstructorArgs.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/custom_collection_handling/Contact.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/domain/blog/mappers/CopyOfAuthorMapper.java,0,0.0,0,0,0.0,27,785.7
+mybatis,/test/java/org/apache/ibatis/submitted/count/CountMapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_type_parameter/Country.java,0,0.0,0,0,0.0,22,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_type_parameter/CountryMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/criterion/Criterion.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/main/java/org/apache/ibatis/cursor/Cursor.java,0,0.0,0,0,0.0,3,0.0
+mybatis,/test/java/org/apache/ibatis/domain/misc/CustomBeanWrapper.java,0,0.0,0,7min 30s,7.5,8,423.6
+mybatis,/test/java/org/apache/ibatis/submitted/cache/CustomCacheMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomCollection.java,0,0.0,0,11min,11.0,114,2560.8
+mybatis,/test/java/org/apache/ibatis/builder/typehandler/CustomIntegerTypeHandler.java,0,0.0,0,0,0.0,28,918.3
+mybatis,/test/java/org/apache/ibatis/builder/CustomLongTypeHandler.java,0,0.0,0,0,0.0,28,918.3
+mybatis,/test/java/org/apache/ibatis/builder/mapper/CustomMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/custom_collection_handling/CustomObjectWrapperFactory.java,0,0.0,0,0,0.0,14,569.1
+mybatis,/test/java/org/apache/ibatis/builder/CustomReflectorFactory.java,0,0.0,0,0,0.0,5,365.4
+mybatis,/test/java/org/apache/ibatis/builder/CustomStringTypeHandler.java,0,0.0,0,0,0.0,28,918.3
+mybatis,/main/java/org/apache/ibatis/mapping/DatabaseIdProvider.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/main/java/org/apache/ibatis/datasource/DataSourceException.java,0,0.0,0,7min 30s,7.5,14,415.5
+mybatis,/main/java/org/apache/ibatis/datasource/DataSourceFactory.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/main/java/org/apache/ibatis/type/DateOnlyTypeHandler.java,0,0.0,0,30min,30.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/DateTypeHandler.java,0,0.0,0,30min,30.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/DefaultLazyTest.java,0,0.0,0,0,0.0,8,423.6
+mybatis,/main/java/org/apache/ibatis/executor/result/DefaultMapResultHandler.java,1,0.0,0,10min,10.0,14,349.2
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/DefaultObjectWrapperFactory.java,0,0.0,0,0,0.0,11,481.8
+mybatis,/main/java/org/apache/ibatis/executor/result/DefaultResultContext.java,0,0.0,0,0,0.0,20,465.6
+mybatis,/main/java/org/apache/ibatis/executor/result/DefaultResultHandler.java,0,0.0,0,0,0.0,14,232.8
+mybatis,/main/java/org/apache/ibatis/annotations/Delete.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/DeleteProvider.java,0,0.0,1,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/serializecircular/Department.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/serializecircular/DepartmentMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/multiple_discriminator/Director.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/disallowdotsonnames/DisallowDotsOnNamesTest.java,0,0.0,0,0,0.0,16,569.1
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/Dog.java,0,0.0,0,0,0.0,6,394.5
+mybatis,/main/java/org/apache/ibatis/type/DoubleTypeHandler.java,0,0.0,0,0,0.0,28,1320.9
+mybatis,/test/java/org/apache/ibatis/domain/blog/DraftPost.java,0,0.0,0,0,0.0,5,365.4
+mybatis,/test/java/org/apache/ibatis/submitted/multidb/DummyDatabaseIdProvider.java,0,0.0,0,0,0.0,11,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/autodiscover/mappers/DummyMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/autodiscover/aliases/DummyTypeAlias.java,0,0.0,0,0,0.0,6,394.5
+mybatis,/test/java/org/apache/ibatis/submitted/include_property/DuplicatedIncludePropertiesMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/duplicate_resource_loaded/DuplicateResourceTest.java,0,0.0,0,0,0.0,21,772.8
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/DynamicSqlSource.java,0,0.0,0,0,0.0,12,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql/DynSqlMapper.java,0,0.0,0,0,0.0,25,698.4
+mybatis,/test/java/org/apache/ibatis/submitted/inline_association_with_dot/ElementMapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/inline_association_with_dot/ElementMapperUsingInline.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/inline_association_with_dot/ElementMapperUsingSubMap.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/multiple_discriminator/Employee.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/enumtypehandler_on_annotation/Employee.java,0,0.0,0,0,0.0,3,336.3
+mybatis,/test/java/org/apache/ibatis/domain/misc/Employee.java,0,0.0,0,7min 30s,7.5,44,1251.3
+mybatis,/test/java/org/apache/ibatis/submitted/encoding/EncodingMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/complex_property/EncryptedString.java,0,0.0,0,0,0.0,15,378.3
+mybatis,/test/java/org/apache/ibatis/submitted/associationtest/Engine.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/generictyperesolution/Entity.java,1,0.0,0,7min 30s,7.5,19,648.3
+mybatis,/test/java/org/apache/ibatis/submitted/constructor_columnprefix/EntityKey.java,0,0.0,0,1h 5min,65.0,16,502.8
+mybatis,/main/java/org/apache/ibatis/type/EnumOrdinalTypeHandler.java,0,0.0,0,40min,40.0,35,939.3
+mybatis,/main/java/org/apache/ibatis/type/EnumTypeHandler.java,0,0.0,0,0,0.0,27,793.8
+mybatis,/main/java/org/apache/ibatis/mapping/Environment.java,0,0.0,0,0,0.0,44,931.2
+mybatis,/main/java/org/apache/ibatis/executor/ErrorContext.java,0,0.0,0,7min 30s,7.5,63,1367.7
+mybatis,/test/java/org/apache/ibatis/builder/ExamplePlugin.java,0,0.0,0,0,0.0,18,436.5
+mybatis,/main/java/org/apache/ibatis/exceptions/ExceptionFactory.java,0,0.0,0,0,0.0,8,423.6
+mybatis,/main/java/org/apache/ibatis/reflection/ExceptionUtil.java,0,0.0,0,10min,10.0,9,452.7
+mybatis,/test/java/org/apache/ibatis/reflection/ExceptionUtilTest.java,0,0.0,0,7min 30s,7.5,13,510.9
+mybatis,/main/java/org/apache/ibatis/executor/ExecutionPlaceholder.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/ExecutorException.java,0,0.0,0,7min 30s,7.5,16,415.5
+mybatis,/main/java/org/apache/ibatis/session/ExecutorType.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/extend/ExtendMapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_common_property/Father.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/not_null_column/Father.java,0,0.0,0,0,0.0,19,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/deferload_common_property/FatherMapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_common_property/FatherMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/not_null_column/FatherMapper.java,0,0.0,0,0,0.0,23,669.3
+mybatis,/main/java/org/apache/ibatis/mapping/FetchType.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cache/decorators/FifoCache.java,0,0.0,0,0,0.0,51,1977.3
+mybatis,/main/java/org/apache/ibatis/type/FloatTypeHandler.java,0,0.0,0,0,0.0,28,1320.9
+mybatis,/main/java/org/apache/ibatis/annotations/Flush.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/association_nested/Folder.java,2,0.0,0,7min 30s,7.5,11,789.0
+mybatis,/test/java/org/apache/ibatis/submitted/association_nested/FolderFlatTree.java,3,0.0,0,7min 30s,7.5,12,942.6
+mybatis,/test/java/org/apache/ibatis/submitted/association_nested/FolderMapper.java,0,0.0,0,0,0.0,3,87.3
+mybatis,/test/java/org/apache/ibatis/submitted/null_associations/Foo.java,0,0.0,0,0,0.0,24,611.1
+mybatis,/test/java/org/apache/ibatis/submitted/overwritingproperties/Foo.java,0,0.0,0,0,0.0,29,756.6
+mybatis,/test/java/org/apache/ibatis/submitted/null_associations/FooMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/overwritingproperties/FooMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/domain/misc/generics/GenericConcrete.java,0,0.0,0,7min 30s,7.5,12,320.1
+mybatis,/test/java/org/apache/ibatis/domain/misc/generics/GenericInterface.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/domain/misc/generics/GenericSubclass.java,0,0.0,0,0,0.0,7,423.6
+mybatis,/test/java/org/apache/ibatis/submitted/sptests/Genre.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/GetFieldInvoker.java,0,0.0,0,20min,20.0,13,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_common_property/GrandFatherMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_extend/GrandpaMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/generictypes/Group.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/column_forwarding/Group.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/enum_interface_type_handler/HasValue.java,0,0.0,0,0,0.0,5,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/results_id/IdConflictMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/results_id/IdConflictTest.java,0,0.0,0,0,0.0,14,510.9
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/IfSqlNode.java,0,0.0,0,10min,10.0,14,444.6
+mybatis,/test/java/org/apache/ibatis/submitted/immutable_constructor/ImmutablePOJO.java,0,0.0,0,0,0.0,13,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_immutable/ImmutablePOJO.java,0,0.0,0,0,0.0,13,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/immutable_constructor/ImmutablePOJOMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_immutable/ImmutablePOJOMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/cache/ImportantPersonMapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/include_property/IncludePropertyErrorTest.java,0,0.0,0,0,0.0,12,510.9
+mybatis,/main/java/org/apache/ibatis/builder/IncompleteElementException.java,0,0.0,0,7min 30s,7.5,14,415.5
+mybatis,/main/java/org/apache/ibatis/annotations/Insert.java,0,0.0,1,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/keycolumn/InsertMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/main/java/org/apache/ibatis/annotations/InsertProvider.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/InstantTypeHandler.java,0,0.0,0,10min,10.0,30,947.4
+mybatis,/test/java/org/apache/ibatis/submitted/integer_enum/IntegerEnumTest.java,0,0.0,0,0,0.0,13,569.1
+mybatis,/main/java/org/apache/ibatis/type/IntegerTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/plugin/InterceptorChain.java,0,0.0,0,0,0.0,10,232.8
+mybatis,/main/java/org/apache/ibatis/plugin/Intercepts.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/InvalidMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/main/java/org/apache/ibatis/plugin/Invocation.java,0,0.0,0,0,0.0,17,436.5
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/Invoker.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler/Item.java,0,0.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/complex_type/Item.java,2,0.0,0,7min 30s,7.5,8,452.7
+mybatis,/test/java/org/apache/ibatis/domain/jpetstore/Item.java,0,0.0,0,15min,15.0,73,2315.1
+mybatis,/main/java/org/apache/ibatis/type/JapaneseDateTypeHandler.java,0,0.0,0,10min,10.0,30,976.5
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/JavassistLazyTest.java,0,0.0,0,0,0.0,8,423.6
+mybatis,/test/java/org/apache/ibatis/executor/loader/JavassistProxyTest.java,0,0.0,0,0,0.0,32,889.2
+mybatis,/main/java/org/apache/ibatis/executor/loader/javassist/JavassistSerialStateHolder.java,0,0.0,0,0,0.0,12,357.3
+mybatis,/main/java/org/apache/ibatis/executor/keygen/Jdbc3KeyGenerator.java,0,0.0,0,2h 30min,150.0,88,2784.0
+mybatis,/main/java/org/apache/ibatis/transaction/jdbc/JdbcTransaction.java,0,0.0,0,0,0.0,54,1778.4
+mybatis,/main/java/org/apache/ibatis/transaction/jdbc/JdbcTransactionFactory.java,0,0.0,0,0,0.0,10,481.8
+mybatis,/main/java/org/apache/ibatis/logging/jdk14/Jdk14LoggingImpl.java,0,0.0,0,0,0.0,31,523.8
+mybatis,/main/java/org/apache/ibatis/datasource/jndi/JndiDataSourceFactory.java,0,0.0,0,17min 30s,17.5,18,590.1
+mybatis,/test/java/org/apache/ibatis/type/Jsr310TypeHandlerRegistryTest.java,0,0.0,0,7min 30s,7.5,10,203.7
+mybatis,/main/java/org/apache/ibatis/executor/keygen/KeyGenerator.java,0,0.0,0,0,0.0,5,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/maptypehandler/LabelsTypeHandler.java,0,0.0,0,0,0.0,27,1005.6
+mybatis,/main/java/org/apache/ibatis/annotations/Lang.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/scripting/LanguageDriver.java,0,0.0,0,0,0.0,7,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_deserialize/LazyObjectBar.java,0,0.0,2,10min,10.0,7,452.7
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_deserialize/LazyObjectFoo.java,0,0.0,0,0,0.0,10,291.0
+mybatis,/test/java/org/apache/ibatis/reflection/typeparam/Level1Mapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/reflection/typeparam/Level2Mapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/main/java/org/apache/ibatis/session/LocalCacheScope.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/LocalDateTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/LocalDateTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/LocalTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/logging/Log.java,0,0.0,0,0,0.0,21,407.4
+mybatis,/main/java/org/apache/ibatis/logging/log4j2/Log4j2AbstractLoggerImpl.java,0,0.0,0,0,0.0,32,552.9
+mybatis,/main/java/org/apache/ibatis/logging/log4j2/Log4j2LoggerImpl.java,0,0.0,0,0,0.0,31,523.8
+mybatis,/main/java/org/apache/ibatis/logging/log4j/Log4jImpl.java,0,0.0,0,0,0.0,40,552.9
+mybatis,/main/java/org/apache/ibatis/logging/LogException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/main/java/org/apache/ibatis/type/LongTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/cache/decorators/LruCache.java,0,0.0,0,0,0.0,54,2006.4
+mybatis,/main/java/org/apache/ibatis/transaction/managed/ManagedTransaction.java,0,0.0,0,0,0.0,43,1201.2
+mybatis,/main/java/org/apache/ibatis/transaction/managed/ManagedTransactionFactory.java,0,0.0,0,0,0.0,12,291.0
+mybatis,/test/java/org/apache/ibatis/transaction/managed/ManagedTransactionFactoryTest.java,0,0.0,0,0,0.0,25,831.0
+mybatis,/main/java/org/apache/ibatis/annotations/Many.java,0,0.0,1,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/manyanno/ManyAnnoTest.java,0,0.0,0,7min 30s,7.5,17,627.3
+mybatis,/main/java/org/apache/ibatis/annotations/MapKey.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/foreach_map/MapParam.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/main/java/org/apache/ibatis/type/MappedJdbcTypes.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/MappedTypes.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/javassist/Mapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/localtime/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/typehandlerinjection/Mapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/sql/Mapper.java,0,0.0,0,0,0.0,17,685.5
+mybatis,/test/java/org/apache/ibatis/submitted/basetest/Mapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/generictypes/Mapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/ognlstatic/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/typehandler/Mapper.java,0,0.0,0,0,0.0,21,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/duplicate_resource_loaded/Mapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/dml_return_types/Mapper.java,0,0.0,0,0,0.0,25,727.5
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_properties/Mapper.java,0,0.0,0,0,0.0,12,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/enum_with_method/Mapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/language/Mapper.java,0,0.0,0,0,0.0,15,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/global_variables/Mapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/parametrizedlist/Mapper.java,0,0.0,0,0,0.0,10,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/nested/Mapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/hashmaptypehandler/Mapper.java,0,0.0,0,0,0.0,14,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/constructor_columnprefix/Mapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/call_setters_on_nulls/Mapper.java,0,0.0,0,0,0.0,15,436.5
+mybatis,/test/java/org/apache/ibatis/submitted/named_constructor_args/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/sqlprovider/Mapper.java,0,0.0,0,0,0.0,39,1076.7
+mybatis,/test/java/org/apache/ibatis/submitted/nonexistentvariables/Mapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/batch_keys/Mapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/parent_reference_3level/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/multipleresultsetswithassociation/Mapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/result_set_type/Mapper.java,0,0.0,0,0,0.0,47,1367.7
+mybatis,/test/java/org/apache/ibatis/submitted/maptypehandler/Mapper.java,0,0.0,0,0,0.0,11,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/cursor_nested/Mapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/primitive_array/Mapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/foreach/Mapper.java,0,0.0,0,0,0.0,25,698.4
+mybatis,/test/java/org/apache/ibatis/submitted/stringlist/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/rounding/Mapper.java,0,0.0,0,0,0.0,12,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/associationtest/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/batch_test/Mapper.java,0,0.0,0,0,0.0,10,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/lazy_deserialize/Mapper.java,0,0.0,0,0,0.0,3,87.3
+mybatis,/test/java/org/apache/ibatis/submitted/primitives/Mapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/ancestor_ref/Mapper.java,0,0.0,0,0,0.0,11,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/array_type_handler/Mapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/array_result_type/Mapper.java,0,0.0,0,0,0.0,10,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/use_actual_param_name/Mapper.java,0,0.0,0,0,0.0,14,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/cursor_simple/Mapper.java,0,0.0,0,0,0.0,10,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/empty_row/Mapper.java,0,0.0,0,0,0.0,24,698.4
+mybatis,/test/java/org/apache/ibatis/submitted/timezone_edge_case/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/unknownobject/Mapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/result_handler/Mapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/duplicate_statements/Mapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/postgres_genkeys/Mapper.java,0,0.0,0,0,0.0,11,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/collectionparameters/Mapper.java,0,0.0,0,0,0.0,11,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/parent_childs/Mapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/discriminator/Mapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/column_forwarding/Mapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/resultmapwithassociationstest/Mapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_extend/Mapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/enum_interface_type_handler/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/results_id/Mapper.java,0,0.0,0,0,0.0,14,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/propertiesinmapperfiles/Mapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/optional_on_mapper_method/Mapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/constructor_automapping/Mapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/generictyperesolution/Mapper.java,0,0.0,0,0,0.0,10,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/multipleiterates/Mapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/lazyload_proxyfactory_comparison/Mapper.java,0,0.0,0,0,0.0,20,582.0
+mybatis,/test/java/org/apache/ibatis/submitted/timestamp_with_timezone/Mapper.java,0,0.0,0,0,0.0,11,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/uuid_test/Mapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/main/java/org/apache/ibatis/annotations/Mapper.java,0,0.0,0,0,0.0,1,29.1
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/javamethods/MapperA.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/deepresultmap/MapperA.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/cacherefs/MapperB.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/javamethods/MapperB.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/javamethods/MapperC.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/map_class_name_conflict/MapperNameTest.java,0,0.0,0,0,0.0,12,540.0
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_extend/MapperOverload.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/main/java/org/apache/ibatis/binding/MapperProxyFactory.java,0,0.0,0,0,0.0,17,407.4
+mybatis,/main/java/org/apache/ibatis/binding/MapperRegistry.java,0,0.0,0,10min,10.0,22,801.9
+mybatis,/test/java/org/apache/ibatis/binding/MapperWithOneAndMany.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/main/java/org/apache/ibatis/reflection/MetaObject.java,0,0.0,0,1h 7min,67.0,90,3041.1
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/MethodInvoker.java,0,0.0,0,20min,20.0,14,320.1
+mybatis,/main/java/org/apache/ibatis/builder/annotation/MethodResolver.java,0,0.0,0,0,0.0,7,145.5
+mybatis,/test/java/org/apache/ibatis/binding/MissingNamespaceMapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/MixedSqlNode.java,0,0.0,0,0,0.0,12,232.8
+mybatis,/main/java/org/apache/ibatis/type/MonthTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/submitted/multidb/MultiDbMapper.java,0,0.0,0,0,0.0,18,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/MultipleCrossIncludePersonMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/MultipleCrossIncludePetMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/MultipleIncludePersonMapper.java,0,0.0,0,0,0.0,9,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/MultipleReverseIncludePersonMapper.java,0,0.0,0,0,0.0,9,261.9
+mybatis,/test/java/org/apache/ibatis/testcontainers/MysqlContainer.java,1,0.0,0,0,0.0,21,839.1
+mybatis,/test/java/org/apache/ibatis/submitted/nested/Name.java,0,0.0,0,0,0.0,17,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/foreach_map/NestedBean.java,0,0.0,0,0,0.0,14,349.2
+mybatis,/test/java/org/apache/ibatis/domain/blog/mappers/NestedBlogMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/orphan_result_maps/NestedCollectionMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/main/java/org/apache/ibatis/executor/keygen/NoKeyGenerator.java,0,0.0,0,7min 30s,7.5,5,270.0
+mybatis,/main/java/org/apache/ibatis/logging/nologging/NoLoggingImpl.java,0,0.0,0,0,0.0,26,801.9
+mybatis,/main/java/org/apache/ibatis/type/NStringTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/jdbc/NullTest.java,0,0.0,0,0,0.0,11,481.8
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql/NumericRow.java,0,0.0,0,7min 30s,7.5,53,1513.2
+mybatis,/test/java/org/apache/ibatis/submitted/result_handler_type/ObjectFactory.java,0,0.0,0,0,0.0,9,452.7
+mybatis,/main/java/org/apache/ibatis/reflection/factory/ObjectFactory.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/main/java/org/apache/ibatis/type/ObjectTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/ObjectWrapper.java,0,0.0,0,0,0.0,33,960.3
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/ObjectWrapperFactory.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/main/java/org/apache/ibatis/type/OffsetDateTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/OffsetTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/OgnlClassResolver.java,0,0.0,0,0,0.0,10,510.9
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/OgnlMemberAccess.java,0,0.0,0,0,0.0,13,291.0
+mybatis,/main/java/org/apache/ibatis/annotations/One.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/Options.java,0,0.0,0,0,0.0,1,29.1
+mybatis,/test/java/org/apache/ibatis/submitted/refcursor/Order.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/domain/jpetstore/Order.java,0,0.0,0,22min 30s,22.5,155,4767.6
+mybatis,/test/java/org/apache/ibatis/submitted/refcursor/OrderDetail.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/refcursor/OrdersMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/discriminator/Owner.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/main/java/org/apache/ibatis/builder/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/builder/annotation/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/builder/xml/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/jdbc/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cache/decorators/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cache/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cache/impl/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/transaction/jdbc/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/transaction/managed/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/transaction/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/datasource/jndi/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/datasource/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/datasource/unpooled/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/mapping/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/result/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/parameter/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/statement/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/keygen/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/loader/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/loader/cglib/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/loader/javassist/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/resultset/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/scripting/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/scripting/defaults/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cursor/defaults/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/cursor/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/defaults/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/parsing/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/factory/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/property/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/wrapper/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/plugin/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/binding/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/slf4j/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/jdbc/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/log4j/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/stdout/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/commons/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/nologging/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/log4j2/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/io/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/logging/jdk14/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/exceptions/package-info.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/default_method/PackageMapper.java,0,0.0,0,0,0.0,9,232.8
+mybatis,/main/java/org/apache/ibatis/annotations/Param.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/language/Parameter.java,0,0.0,0,0,0.0,13,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/sptests/Parameter.java,0,0.0,0,0,0.0,21,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/nested/Parameter.java,0,0.0,0,0,0.0,12,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/dynsql2/Parameter.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/criterion/Parameter.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/main/java/org/apache/ibatis/builder/ParameterExpression.java,0,0.0,0,30min,30.0,45,1611.9
+mybatis,/main/java/org/apache/ibatis/executor/parameter/ParameterHandler.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ParameterMapReferencePersonMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ParameterMapReferencePetMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/main/java/org/apache/ibatis/mapping/ParameterMode.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/ParamNameUtil.java,0,0.0,0,0,0.0,20,810.0
+mybatis,/test/java/org/apache/ibatis/submitted/empty_row/Parent.java,0,0.0,0,0,0.0,33,931.2
+mybatis,/test/java/org/apache/ibatis/submitted/extend/Parent.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_multiple_association/ParentBean.java,0,0.0,0,0,0.0,21,552.9
+mybatis,/test/java/org/apache/ibatis/submitted/call_setters_on_nulls_again/ParentBean.java,0,0.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_extend/ParentMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/main/java/org/apache/ibatis/parsing/ParsingException.java,0,0.0,0,7min 30s,7.5,16,473.7
+mybatis,/test/java/org/apache/ibatis/submitted/missing_id_property/Part.java,0,0.0,0,0,0.0,11,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/permissions/PermissionsMapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/main/java/org/apache/ibatis/cache/impl/PerpetualCache.java,0,0.0,0,27min 30s,27.5,41,756.6
+mybatis,/main/java/org/apache/ibatis/exceptions/PersistenceException.java,0,0.0,0,7min 30s,7.5,19,444.6
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler/Person.java,0,0.0,0,11min,11.0,25,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/serializecircular/Person.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/Person.java,0,0.0,0,0,0.0,33,931.2
+mybatis,/test/java/org/apache/ibatis/submitted/custom_collection_handling/Person.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/resultmapwithassociationstest/Person.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/Person.java,0,0.0,0,0,0.0,19,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler/PersonItemPair.java,0,0.0,0,0,0.0,14,378.3
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_type_parameter/PersonListMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/cache/PersonMapper.java,0,0.0,0,0,0.0,16,436.5
+mybatis,/test/java/org/apache/ibatis/submitted/disallowdotsonnames/PersonMapper.java,0,0.0,0,0,0.0,17,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/force_flush_on_select/PersonMapper.java,0,0.0,0,0,0.0,15,436.5
+mybatis,/test/java/org/apache/ibatis/submitted/serializecircular/PersonMapper.java,0,0.0,0,0,0.0,9,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/ognl_enum/PersonMapper.java,0,0.0,1,0,0.0,18,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/multiple_discriminator/PersonMapper.java,0,0.0,0,0,0.0,10,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/complex_column/PersonMapper.java,0,0.0,0,0,0.0,24,669.3
+mybatis,/test/java/org/apache/ibatis/submitted/result_handler_type/PersonMapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/mapper_type_parameter/PersonMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/map_class_name_conflict/PersonMapper.java,0,0.0,0,0,0.0,9,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/blocking_cache/PersonMapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/xml_references/PersonMapper.java,0,0.0,1,0,0.0,22,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/order_prefix_removed/PersonMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/cglib_lazy_error/PersonMapper.java,0,0.0,0,0,0.0,12,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/flush_statement_npe/PersonMapper.java,0,0.0,0,0,0.0,7,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/enumtypehandler_on_annotation/PersonMapper.java,0,0.0,0,0,0.0,10,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/PersonMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/enumtypehandler_on_map/PersonMapper.java,0,0.0,0,0,0.0,14,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/xml_references/PersonMapper2.java,0,0.0,1,0,0.0,22,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/Pet.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/automapping/Pet.java,0,0.0,0,0,0.0,20,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/empty_row/Pet.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/Pet.java,0,0.0,0,0,0.0,24,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/PetMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/testcontainers/PgContainer.java,1,0.0,0,0,0.0,22,839.1
+mybatis,/test/java/org/apache/ibatis/submitted/keygen/Planet.java,0,0.0,0,0,0.0,20,494.7
+mybatis,/main/java/org/apache/ibatis/plugin/Plugin.java,0,0.0,0,30min,30.0,33,1005.6
+mybatis,/main/java/org/apache/ibatis/plugin/PluginException.java,0,0.0,0,7min 30s,7.5,14,415.5
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/PooledDataSourceFactory.java,0,0.0,0,0,0.0,5,365.4
+mybatis,/main/java/org/apache/ibatis/datasource/pooled/PoolState.java,0,0.0,0,15min,15.0,50,1508.4
+mybatis,/test/java/org/apache/ibatis/submitted/orphan_result_maps/Post.java,0,0.0,0,0,0.0,13,320.1
+mybatis,/test/java/org/apache/ibatis/submitted/initialized_collection_property/Post.java,0,0.0,0,0,0.0,19,465.6
+mybatis,/test/java/org/apache/ibatis/domain/blog/Post.java,0,0.0,0,7min 30s,7.5,54,1425.9
+mybatis,/test/java/org/apache/ibatis/submitted/manyanno/PostMapper.java,0,0.0,0,0,0.0,9,232.8
+mybatis,/main/java/org/apache/ibatis/executor/statement/PreparedStatementHandler.java,0,0.0,0,47min 30s,47.5,45,1421.1
+mybatis,/test/java/org/apache/ibatis/logging/jdbc/PreparedStatementLoggerTest.java,0,0.0,0,0,0.0,43,1172.1
+mybatis,/test/java/org/apache/ibatis/submitted/permissions/Principal.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/primitive_result_type/Product.java,0,0.0,0,0,0.0,15,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_gh1551/ProductInfo.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/primitive_result_type/ProductMapper.java,0,0.0,0,0,0.0,10,291.0
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_gh1551/ProductMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_gh1551/ProductResp.java,0,0.0,0,0,0.0,28,785.7
+mybatis,/test/java/org/apache/ibatis/submitted/nestedresulthandler_gh1551/ProductSku.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/complex_type/Property.java,2,0.0,0,7min 30s,7.5,8,452.7
+mybatis,/main/java/org/apache/ibatis/annotations/Property.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/reflection/property/PropertyNamer.java,0,0.0,0,0,0.0,21,714.6
+mybatis,/main/java/org/apache/ibatis/parsing/PropertyParser.java,0,0.0,0,27min 30s,27.5,31,793.8
+mybatis,/main/java/org/apache/ibatis/reflection/property/PropertyTokenizer.java,1,0.0,0,0,0.0,32,611.1
+mybatis,/main/java/org/apache/ibatis/builder/annotation/ProviderContext.java,0,0.0,0,0,0.0,5,87.3
+mybatis,/main/java/org/apache/ibatis/builder/annotation/ProviderMethodResolver.java,0,0.0,0,17min 30s,17.5,4,29.1
+mybatis,/main/java/org/apache/ibatis/executor/loader/ProxyFactory.java,0,0.0,0,0,0.0,7,145.5
+mybatis,/main/java/org/apache/ibatis/scripting/defaults/RawLanguageDriver.java,0,0.0,0,0,0.0,13,540.0
+mybatis,/main/java/org/apache/ibatis/scripting/defaults/RawSqlSource.java,0,0.0,0,0,0.0,17,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/localtime/Record.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/timezone_edge_case/Record.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/integer_enum/Record.java,0,0.0,0,0,0.0,19,523.8
+mybatis,/test/java/org/apache/ibatis/submitted/timestamp_with_timezone/Record.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/main/java/org/apache/ibatis/reflection/ReflectionException.java,0,0.0,0,7min 30s,7.5,15,415.5
+mybatis,/main/java/org/apache/ibatis/reflection/ReflectorFactory.java,0,0.0,0,0,0.0,10,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/ancestor_ref/Reputation.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/main/java/org/apache/ibatis/io/Resources.java,0,0.0,0,0,0.0,45,1757.4
+mybatis,/main/java/org/apache/ibatis/annotations/Result.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/ResultContext.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/main/java/org/apache/ibatis/mapping/ResultFlag.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/session/ResultHandler.java,0,0.0,0,0,0.0,3,58.2
+mybatis,/main/java/org/apache/ibatis/executor/loader/ResultLoader.java,0,0.0,0,25min,25.0,39,1084.8
+mybatis,/main/java/org/apache/ibatis/annotations/ResultMap.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/result/ResultMapException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ResultMapReferencePersonMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ResultMapReferencePetMapper.java,0,0.0,0,0,0.0,2,58.2
+mybatis,/main/java/org/apache/ibatis/builder/ResultMapResolver.java,0,0.0,0,7min 30s,7.5,15,320.1
+mybatis,/main/java/org/apache/ibatis/annotations/Results.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/resultset/ResultSetHandler.java,0,0.0,0,0,0.0,14,407.4
+mybatis,/test/java/org/apache/ibatis/logging/jdbc/ResultSetLoggerTest.java,0,0.0,0,0,0.0,28,669.3
+mybatis,/main/java/org/apache/ibatis/mapping/ResultSetType.java,0,0.0,0,0,0.0,7,145.5
+mybatis,/main/java/org/apache/ibatis/annotations/ResultType.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/ReuseExecutor.java,0,0.0,0,20min,20.0,47,1076.7
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/ReverseIncludePersonMapper.java,0,0.0,0,0,0.0,9,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/Room.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/main/java/org/apache/ibatis/executor/statement/RoutingStatementHandler.java,0,0.0,0,7min 30s,7.5,48,1354.8
+mybatis,/main/java/org/apache/ibatis/session/RowBounds.java,0,0.0,0,7min 30s,7.5,16,349.2
+mybatis,/main/java/org/apache/ibatis/jdbc/RuntimeSqlException.java,0,0.0,0,0,0.0,14,415.5
+mybatis,/test/java/org/apache/ibatis/submitted/simplelistparameter/Rv.java,0,0.0,0,0,0.0,5,365.4
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/SameIdPersonMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/xml_external_ref/SameIdPetMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/main/java/org/apache/ibatis/cache/decorators/ScheduledCache.java,0,0.0,0,10min,10.0,58,2064.6
+mybatis,/main/java/org/apache/ibatis/scripting/ScriptingException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/test/java/org/apache/ibatis/submitted/postgres_genkeys/Section.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/domain/blog/Section.java,0,0.0,0,0,0.0,3,58.2
+mybatis,/main/java/org/apache/ibatis/annotations/Select.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/SelectKey.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/SelectProvider.java,0,0.0,1,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/orphan_result_maps/SeparateCollectionMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/domain/jpetstore/Sequence.java,0,0.0,0,0,0.0,21,523.8
+mybatis,/main/java/org/apache/ibatis/reflection/invoker/SetFieldInvoker.java,0,0.0,0,0,0.0,13,291.0
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/SetSqlNode.java,0,0.0,0,0,0.0,6,394.5
+mybatis,/main/java/org/apache/ibatis/type/ShortTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/plugin/Signature.java,0,0.0,0,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/bringrags/SimpleChildObject.java,0,0.0,0,0,0.0,16,378.3
+mybatis,/test/java/org/apache/ibatis/submitted/bringrags/SimpleChildObjectMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/main/java/org/apache/ibatis/executor/SimpleExecutor.java,0,0.0,0,20min,20.0,38,1180.2
+mybatis,/test/java/org/apache/ibatis/submitted/bringrags/SimpleObject.java,0,0.0,0,0,0.0,15,378.3
+mybatis,/main/java/org/apache/ibatis/executor/statement/SimpleStatementHandler.java,0,0.0,0,27min 30s,27.5,43,1641.0
+mybatis,/main/java/org/apache/ibatis/type/SimpleTypeRegistry.java,0,0.0,0,7min 30s,7.5,7,452.7
+mybatis,/test/java/org/apache/ibatis/type/SimpleTypeRegistryTest.java,0,0.0,0,0,0.0,17,656.4
+mybatis,/main/java/org/apache/ibatis/logging/slf4j/Slf4jLocationAwareLoggerImpl.java,0,0.0,0,0,0.0,32,552.9
+mybatis,/test/java/org/apache/ibatis/submitted/cache/SpecialPersonMapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/main/java/org/apache/ibatis/jdbc/SQL.java,0,0.0,0,0,0.0,5,365.4
+mybatis,/main/java/org/apache/ibatis/mapping/SqlCommandType.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/SqlDateTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/type/SqlDateTypeHandlerTest.java,0,0.0,0,0,0.0,31,756.6
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/SqlNode.java,0,0.0,0,0,0.0,4,87.3
+mybatis,/main/java/org/apache/ibatis/session/SqlSession.java,0,0.0,0,0,0.0,14,116.4
+mybatis,/main/java/org/apache/ibatis/session/SqlSessionException.java,0,0.0,0,7min 30s,7.5,16,444.6
+mybatis,/main/java/org/apache/ibatis/session/SqlSessionFactory.java,0,0.0,0,0,0.0,31,756.6
+mybatis,/main/java/org/apache/ibatis/session/SqlSessionFactoryBuilder.java,0,0.0,0,20min,20.0,54,2218.2
+mybatis,/main/java/org/apache/ibatis/mapping/SqlSource.java,0,0.0,0,0,0.0,4,87.3
+mybatis,/main/java/org/apache/ibatis/type/SqlTimestampTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/type/SqlTimetampTypeHandlerTest.java,0,0.0,0,0,0.0,31,756.6
+mybatis,/main/java/org/apache/ibatis/type/SqlTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/type/SqlTimeTypeHandlerTest.java,0,0.0,0,0,0.0,31,756.6
+mybatis,/main/java/org/apache/ibatis/type/SqlxmlTypeHandler.java,0,0.0,0,20min,20.0,32,1034.7
+mybatis,/main/java/org/apache/ibatis/executor/statement/StatementHandler.java,0,0.0,0,0,0.0,35,931.2
+mybatis,/test/java/org/apache/ibatis/logging/jdbc/StatementLoggerTest.java,0,0.0,0,0,0.0,34,814.8
+mybatis,/main/java/org/apache/ibatis/mapping/StatementType.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/executor/statement/StatementUtil.java,0,0.0,0,10min,10.0,4,336.3
+mybatis,/main/java/org/apache/ibatis/builder/StaticSqlSource.java,0,0.0,0,0,0.0,14,291.0
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/StaticTextSqlNode.java,0,0.0,0,0,0.0,8,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/typehandler/StringTrimmingTypeHandler.java,0,0.0,0,20min,20.0,33,1034.7
+mybatis,/main/java/org/apache/ibatis/type/StringTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/submitted/extends_with_constructor/Student.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/extends_with_constructor/StudentConstructor.java,0,0.0,0,0,0.0,31,785.7
+mybatis,/test/java/org/apache/ibatis/submitted/extends_with_constructor/StudentConstructorMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/extends_with_constructor/StudentMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/substitution_in_annots/SubstitutionInAnnotsMapper.java,0,0.0,0,0,0.0,14,407.4
+mybatis,/main/java/org/apache/ibatis/cache/decorators/SynchronizedCache.java,0,0.0,0,0,0.0,49,1707.3
+mybatis,/test/java/org/apache/ibatis/domain/blog/Tag.java,0,0.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/extends_with_constructor/Teacher.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/extends_with_constructor/TeacherMapper.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/reflection/factory/TestClass.java,0,0.0,0,0,0.0,10,510.9
+mybatis,/test/java/org/apache/ibatis/submitted/extendresultmap/TestMapperX.java,0,0.0,0,0,0.0,6,174.6
+mybatis,/test/java/org/apache/ibatis/submitted/extendresultmap/TestMapperY.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/submitted/extendresultmap/TestModel.java,0,0.0,0,1h 52min,112.0,31,852.0
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/TextSqlNode.java,0,0.0,0,10min,10.0,56,1222.2
+mybatis,/test/java/org/apache/ibatis/submitted/heavy_initial_load/Thing.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/test/java/org/apache/ibatis/submitted/heavy_initial_load/ThingMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/main/java/org/apache/ibatis/type/TimeOnlyTypeHandler.java,0,0.0,0,30min,30.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/submitted/emptycollection/TodoItem.java,0,0.0,0,0,0.0,16,407.4
+mybatis,/test/java/org/apache/ibatis/submitted/emptycollection/TodoLists.java,0,0.0,0,0,0.0,16,407.4
+mybatis,/main/java/org/apache/ibatis/parsing/TokenHandler.java,0,0.0,0,0,0.0,4,87.3
+mybatis,/main/java/org/apache/ibatis/exceptions/TooManyResultsException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/main/java/org/apache/ibatis/transaction/Transaction.java,0,0.0,0,0,0.0,4,29.1
+mybatis,/main/java/org/apache/ibatis/cache/decorators/TransactionalCache.java,0,0.0,0,20min,20.0,57,1911.0
+mybatis,/main/java/org/apache/ibatis/cache/TransactionalCacheManager.java,0,0.0,0,0,0.0,21,685.5
+mybatis,/main/java/org/apache/ibatis/transaction/TransactionException.java,0,0.0,0,7min 30s,7.5,15,444.6
+mybatis,/main/java/org/apache/ibatis/transaction/TransactionFactory.java,0,0.0,0,0,0.0,1,29.1
+mybatis,/main/java/org/apache/ibatis/session/TransactionIsolationLevel.java,0,0.0,0,0,0.0,6,145.5
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/TrimSqlNode.java,0,0.0,0,25min,25.0,79,2559.3
+mybatis,/test/java/org/apache/ibatis/submitted/discriminator/Truck.java,0,0.0,0,0,0.0,8,203.7
+mybatis,/main/java/org/apache/ibatis/type/TypeAliasRegistry.java,0,0.0,0,27min 30s,27.5,28,706.5
+mybatis,/test/java/org/apache/ibatis/type/TypeAliasRegistryTest.java,0,0.0,0,0,0.0,33,947.4
+mybatis,/main/java/org/apache/ibatis/annotations/TypeDiscriminator.java,0,0.0,0,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/type/TypeException.java,0,0.0,0,7min 30s,7.5,15,415.5
+mybatis,/main/java/org/apache/ibatis/type/TypeHandler.java,0,0.0,0,0,0.0,22,523.8
+mybatis,/main/java/org/apache/ibatis/datasource/unpooled/UnpooledDataSourceFactory.java,0,0.0,0,10min,10.0,17,407.4
+mybatis,/main/java/org/apache/ibatis/annotations/Update.java,0,0.0,1,0,0.0,null,null
+mybatis,/main/java/org/apache/ibatis/annotations/UpdateProvider.java,0,0.0,1,0,0.0,null,null
+mybatis,/test/java/org/apache/ibatis/submitted/named_constructor_args/UseActualNameMapper.java,0,0.0,0,0,0.0,8,232.8
+mybatis,/test/java/org/apache/ibatis/submitted/javassist/User.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/typehandlerinjection/User.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/typehandler/User.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/enum_with_method/User.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/call_setters_on_nulls/User.java,1,0.0,0,7min 30s,7.5,15,531.9
+mybatis,/test/java/org/apache/ibatis/submitted/sqlprovider/User.java,0,0.0,0,0,0.0,16,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/primitive_array/User.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/foreach/User.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/automapping/User.java,0,0.0,0,0,0.0,26,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/rounding/User.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/batch_test/User.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/ancestor_ref/User.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/array_type_handler/User.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/unknownobject/User.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/test/java/org/apache/ibatis/submitted/column_forwarding/User.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/enum_interface_type_handler/User.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/generictyperesolution/User.java,0,0.0,0,0,0.0,5,365.4
+mybatis,/test/java/org/apache/ibatis/submitted/multipleiterates/User.java,0,0.0,0,0,0.0,23,640.2
+mybatis,/test/java/org/apache/ibatis/submitted/uuid_test/User.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/resolution/cachereffromxml/UserMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/inheritance/UserProfileMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/submitted/result_handler/UserResultHandler.java,0,0.0,0,0,0.0,12,261.9
+mybatis,/main/java/org/apache/ibatis/lang/UsesJava7.java,0,0.0,1,0,0.0,2,58.2
+mybatis,/main/java/org/apache/ibatis/lang/UsesJava8.java,0,0.0,1,0,0.0,2,58.2
+mybatis,/test/java/org/apache/ibatis/submitted/uuid_test/UUIDTypeHandler.java,0,0.0,0,30min,30.0,29,947.4
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/VarDeclSqlNode.java,0,0.0,0,0,0.0,11,261.9
+mybatis,/test/java/org/apache/ibatis/submitted/simplelistparameter/Vehicle.java,2,0.0,0,7min 30s,7.5,15,905.4
+mybatis,/test/java/org/apache/ibatis/submitted/discriminator/Vehicle.java,0,0.0,0,0,0.0,13,349.2
+mybatis,/test/java/org/apache/ibatis/submitted/language/VelocityLanguageDriver.java,0,0.0,0,0,0.0,16,598.2
+mybatis,/test/java/org/apache/ibatis/submitted/language/VelocitySqlSource.java,0,0.0,0,15min,15.0,38,1092.9
+mybatis,/main/java/org/apache/ibatis/mapping/VendorDatabaseIdProvider.java,0,0.0,0,40min,40.0,31,1005.6
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/WhereSqlNode.java,0,0.0,0,0,0.0,8,423.6
+mybatis,/main/java/org/apache/ibatis/executor/loader/WriteReplaceInterface.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/test/java/org/apache/ibatis/binding/WrongNamespaceMapper.java,0,0.0,0,0,0.0,4,116.4
+mybatis,/test/java/org/apache/ibatis/binding/WrongNamespacesTest.java,0,0.0,0,0,0.0,18,627.3
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/XMLLanguageDriver.java,0,0.0,0,30min,30.0,16,627.3
+mybatis,/test/java/org/apache/ibatis/submitted/enum_interface_type_handler/XmlMapper.java,0,0.0,0,0,0.0,5,145.5
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLMapperEntityResolver.java,0,0.0,0,40min,40.0,18,992.7
+mybatis,/main/java/org/apache/ibatis/scripting/xmltags/XMLScriptBuilder.java,0,0.0,0,45min,45.0,117,5474.4
+mybatis,/main/java/org/apache/ibatis/builder/xml/XMLStatementBuilder.java,0,0.0,0,1h 2min,62.0,39,939.3
+mybatis,/main/java/org/apache/ibatis/parsing/XPathParser.java,0,0.0,0,45min,45.0,160,4048.2
+mybatis,/main/java/org/apache/ibatis/type/YearMonthTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/main/java/org/apache/ibatis/type/YearTypeHandler.java,0,0.0,0,0,0.0,25,860.1
+mybatis,/test/java/org/apache/ibatis/submitted/column_prefix/Zip.java,0,0.0,0,0,0.0,18,494.7
+mybatis,/main/java/org/apache/ibatis/type/ZonedDateTimeTypeHandler.java,0,0.0,0,0,0.0,25,860.1
